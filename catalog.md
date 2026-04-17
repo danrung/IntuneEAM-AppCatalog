@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260416_171258_AppCatalog.json` (exported 2026-04-16 17:12:58)  
-> **Generated:** 2026-04-17 06:41 UTC  
+> **Source:** `20260417_083155_AppCatalog.json` (exported 2026-04-17 08:31:55)  
+> **Generated:** 2026-04-17 06:43 UTC  
 > **Total:** 1,516 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -757,7 +757,7 @@
 | 749 | Microsoft | OpenJDK 16 | OpenJDK 16 (x64) | `16.0.2.7` | x64 | ❌ | en-US |
 | 750 | Microsoft | OpenJDK 17 | OpenJDK 17 (x64) | `17.0.18.8` | x64 | ❌ | en-US |
 | 751 | Microsoft | SharePoint Online Management Shell | SharePoint Online Management Shell | `16.0.27111.12000` | x64 | ❌ | en-US |
-| 752 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.3.251250` | x64 | ❌ | en-US |
+| 752 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.4.151333` | x64 | ❌ | en-US |
 | 753 | Mitel Networks Corporation | Mitel miCollab | Mitel miCollab | `10.2.106` | x64 | ❌ | en-US |
 | 754 | Mobirise.com | Mobirise | Mobirise | `6.0.5.150` | x86,x64 | ❌ | en-US |
 | 755 | MochaSoft Aps | Mocha TN3270 | Mocha TN3270 | `4.2.0` | x86,x64 | ❌ | en-US |
@@ -1038,7 +1038,7 @@
 | 1030 | NetBird GmbH | NetBird | NetBird | `0.66.3` | x64 | ✅ | en-US |
 | 1031 | NetSetMan GmbH | NetSetMan | NetSetMan | `5.4.0` | x86,x64 | ❌ | en-US |
 | 1032 | NETworkManager | NETworkManager | NETworkManager | `2026.2.22.0` | x64 | ❌ | en-US |
-| 1033 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.72.9` | x64 | ❌ | en-US |
+| 1033 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.73.1` | x64 | ❌ | en-US |
 | 1034 | Nextcloud | Nextcloud | Nextcloud (x64) | `33.0.2.20260331` | x64 | ❌ | en-US |
 | 1035 | Nextiva | NextivaONE | NextivaONE | `1.20.1.0` | x64 | ❌ | en-US |
 | 1036 | NGWIN | PicPick | PicPick | `7.4.1` | x86,x64 | ❌ | en-US |
@@ -1319,7 +1319,7 @@
 | 1311 | Tabular Editor ApS | Tabular Editor 2 | Tabular Editor 2 | `2.24.1` | x86,x64 | ❌ | en-US |
 | 1312 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.96.3` | x64 | ❌ | en-US |
 | 1313 | Talkdesk, Inc. | Talkdesk | Talkdesk (x64) | `1.6.3.1974` | x64 | ❌ | en-US |
-| 1314 | Talkdesk, Inc. | Talkdesk | Talkdesk | `3.0.0` | x64 | ❌ | en-US |
+| 1314 | Talkdesk, Inc. | Talkdesk | Talkdesk | `3.1.1` | x64 | ❌ | en-US |
 | 1315 | Tarma Software Research Ltd | Publish or Perish | Publish or Perish | `8.19.5300.9483` | x64 | ❌ | en-US |
 | 1316 | TDP s.r.o. | TDP SecureAnyBox Agent | SecureAnyBox Agent | `3.0.3.0` | x86,x64 | ❌ | en-US |
 | 1317 | TDP s.r.o. | TDP SecureAnyBox Launcher | SecureAnyBox Launcher | `2.6.0.0` | x86,x64 | ❌ | en-US |
