@@ -46,12 +46,12 @@ The feed keeps the last 50 entries. Compatible with any RSS reader — Feedly, O
 <!-- CATALOG_STATS_START -->
 | Metric | Value |
 |--------|-------|
-| Total Packages | **1,497** |
-| Unique Products | 913 |
+| Total Packages | **1,516** |
+| Unique Products | 915 |
 | Publishers | 493 |
-| Auto-Update Capable | 357 (23.8%) |
+| Auto-Update Capable | 361 (23.8%) |
 | Available Locales | 64 |
-| Last Export | 2025-12-07 20:47:23 |
+| Last Export | 2026-04-15 16:46:11 |
 <!-- CATALOG_STATS_END -->
 
 ## Data Fields
