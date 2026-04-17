@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260415_164611_AppCatalog.json` (exported 2026-04-15 16:46:11)  
-> **Generated:** 2026-04-17 06:33 UTC  
+> **Source:** `20260416_171258_AppCatalog.json` (exported 2026-04-16 17:12:58)  
+> **Generated:** 2026-04-17 06:41 UTC  
 > **Total:** 1,516 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -41,7 +41,7 @@
 | 33 | Aircall | Aircall for desktop | Aircall for desktop | `3.1.66.14840` | x64 | ❌ | en-US |
 | 34 | airSlate, Inc. | pdfFiller | pdfFiller | `1.3.130` | x86,x64 | ❌ | en-US |
 | 35 | Aivar Annamaa | Thonny | Thonny (x64) | `4.1.7` | x64 | ❌ | en-US |
-| 36 | Akiflow | Akiflow | Akiflow | `2.71.6` | x64 | ❌ | en-US |
+| 36 | Akiflow | Akiflow | Akiflow | `2.71.8` | x64 | ❌ | en-US |
 | 37 | alfaview Gmbh | alfaview | alfaview | `9.26.4` | x64 | ❌ | en-US |
 | 38 | ALLPLayer.org | ALLPlayer | ALLPlayer | `9.6` | x64 | ❌ | en-US |
 | 39 | Allround Automations | PL SQL Developer 15 | PL SQL Developer 15 (x64) | `15.0.4.2064` | x64 | ❌ | en-US |
@@ -184,7 +184,7 @@
 | 176 | Blender Foundation | Blender | Blender 4.3 (x64) | `4.3.2` | x64 | ❌ | en-US |
 | 177 | Blender Foundation | Blender | Blender 4.4 (x64) | `4.4.3` | x64 | ❌ | en-US |
 | 178 | Blender Foundation | Blender | Blender 5.0 (x64) | `5.0.1` | x64 | ❌ | en-US |
-| 179 | Blender Foundation | Blender | Blender 5.1 (x64) | `5.1.0` | x64 | ❌ | en-US |
+| 179 | Blender Foundation | Blender | Blender 5.1 (x64) | `5.1.1` | x64 | ❌ | en-US |
 | 180 | Blue Jeans | BlueJeans 2 | BlueJeans 2 Admin Installer | `2.45.37` | x64 | ❌ | en-US |
 | 181 | Blue Jeans | BlueJeans 2 | BlueJeans 2 User Installer | `2.45.37` | x64 | ✅ | en-US |
 | 182 | Boris Eyrich Software | Artweaver Free | Artweaver Free | `8.1.4.3857` | x64 | ✅ | en-US |
@@ -257,7 +257,7 @@
 | 249 | Daiyuu Nobori, University of Tsukuba, Japan | Win10Pcap | Win10Pcap | `10.2.5002` | x86,x64 | ❌ | en-US |
 | 250 | Dane Prairie Systems | Dane Prairie Systems Win2PDF | Win2PDF | `11.0.8.1` | x64 | ❌ | en-US |
 | 251 | Daniel Girardeau-Montaut | CloudCompare | CloudCompare (x64) | `2.13.2` | x64 | ❌ | en-US |
-| 252 | Datadog | Datadog Agent | Datadog Agent | `7.77.3` | x64 | ❌ | en-US |
+| 252 | Datadog | Datadog Agent | Datadog Agent | `7.78.0` | x64 | ❌ | en-US |
 | 253 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.4.1.44384` | x64 | ❌ | en-US |
 | 254 | DAX Studio | DAX Studio | DAX Studio | `3.5.1.1188` | x64 | ❌ | en-US |
 | 255 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
@@ -356,9 +356,9 @@
 | 348 | FastStone Soft | FastStone Soft Capture | Capture | `11.2` | x86,x64 | ❌ | en-US |
 | 349 | FastStone Soft | FastStone Soft Image Viewer | Image Viewer | `8.3` | x86,x64 | ❌ | en-US |
 | 350 | FastStone Soft | FastStone Soft Photo Resizer | Photo Resizer | `4.5` | x86,x64 | ❌ | en-US |
-| 351 | FileZilla | FileZilla | FileZilla (x64) | `3.70.2` | x64 | ✅ | en-US |
+| 351 | FileZilla | FileZilla | FileZilla (x64) | `3.70.3` | x64 | ✅ | en-US |
 | 352 | FLUX, Inc. | Beam Studio | Beam Studio (x64) | `2.5.14` | x64 | ✅ | en-US |
-| 353 | Formlabs | Preform | Preform | `3.57.2` | x64 | ❌ | en-US |
+| 353 | Formlabs | Preform | Preform | `3.58.0` | x64 | ❌ | en-US |
 | 354 | Fortra, LLC | GoAnywhere OpenPGP Studio | GoAnywhere OpenPGP Studio | `1.2.3` | x64 | ❌ | en-US |
 | 355 | Forté | Forté Agent | Agent | `8.00.1272` | x86,x64 | ❌ | en-US |
 | 356 | Foxit Software | Foxit PDF Editor 11 | Foxit PDF Editor 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
@@ -614,7 +614,7 @@
 | 606 | Microsoft | Microsoft .NET Core 2.2 | .NET Core Runtime 2.2 (x64) | `2.2.8.28209` | x64 | ❌ | en-US |
 | 607 | Microsoft | Microsoft .NET Runtime 6.0 | .NET Runtime 6.0 (x64) | `6.0.36.34214` | x64 | ❌ | en-US |
 | 608 | Microsoft | Microsoft .NET Runtime 7.0 | .NET Runtime 7.0 (x64) | `7.0.20.33717` | x64 | ❌ | en-US |
-| 609 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.312` | x64 | ❌ | en-US |
+| 609 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.313` | x64 | ❌ | en-US |
 | 610 | Microsoft | Microsoft Access Database Engine 2016 | Access Database Engine 2016 (x64) | `16.0.5044.1000` | x64 | ❌ | en-US |
 | 611 | Microsoft | Microsoft Active Directory Rights Management Service Client | Active Directory Rights Management Service Client 2.1 (x64) | `1.0.4114.0` | x64 | ❌ | en-US |
 | 612 | Microsoft | Microsoft Analysis Management Objects | Microsoft Analysis Management Objects | `16.0.5627.0` | x64 | ❌ | en-US |
@@ -720,21 +720,21 @@
 | 712 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37203.1` | x64 | ❌ | en-US |
 | 713 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
 | 714 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
-| 715 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.36929.3` | x64 | ❌ | en-US |
-| 716 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37111.16` | x64 | ❌ | en-US |
+| 715 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37202.15` | x64 | ❌ | en-US |
+| 716 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37203.1` | x64 | ❌ | en-US |
 | 717 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 718 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 719 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
 | 720 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 721 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
 | 722 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
-| 723 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.36908.8` | x64 | ❌ | en-US |
-| 724 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37111.16` | x64 | ❌ | en-US |
+| 723 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37202.15` | x64 | ❌ | en-US |
+| 724 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37203.1` | x64 | ❌ | en-US |
 | 725 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 726 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 727 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
 | 728 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
-| 729 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.115.0` | x64 | ✅ | en-US |
+| 729 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.116.0` | x64 | ✅ | en-US |
 | 730 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37203.1` | x64 | ❌ | en-US |
 | 731 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 732 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -1066,7 +1066,7 @@
 | 1058 | ocenaudio | ocenaudio | ocenaudio | `3.17.3` | x64 | ❌ | en-US |
 | 1059 | Oleg Shparber | Zeal | Zeal | `0.8.1` | x64 | ❌ | en-US |
 | 1060 | Ontotext | GraphDB Desktop | GraphDB Desktop | `10.8.4` | x64 | ❌ | en-US |
-| 1061 | openaudible.org | OpenAudible | OpenAudible | `4.8` | x64 | ❌ | en-US |
+| 1061 | openaudible.org | OpenAudible | OpenAudible | `4.8.1` | x64 | ❌ | en-US |
 | 1062 | OpenDNS | OpenDNS Umbrella Roaming Client | Umbrella Roaming Client | `3.0.466` | x86,x64 | ❌ | en-US |
 | 1063 | OpenLens Authors | OpenLens | OpenLens | `6.5.2.366` | x64 | ❌ | en-US |
 | 1064 | OpenShot Studios | OpenShot Video Editor | OpenShot Video Editor (x64) | `3.5.1` | x64 | ❌ | en-US |
@@ -1122,7 +1122,7 @@
 | 1114 | Parallels International GmbH | Parallels Client 19 | Parallels Client 19 (x64) | `19.4.25221` | x64 | ✅ | en-US |
 | 1115 | Parallels International GmbH | Parallels Toolbox | Parallels Toolbox | `7.1.1.4366` | x64 | ❌ | en-US |
 | 1116 | PASCO scientific | Spectrometry | Spectrometry | `2.5.0.4` | x64 | ❌ | en-US |
-| 1117 | Passmark Software | PerformanceTest | PerformanceTest (x64) | `11.1.1008.0` | x64 | ❌ | en-US |
+| 1117 | Passmark Software | PerformanceTest | PerformanceTest (x64) | `11.1.1009.0` | x64 | ❌ | en-US |
 | 1118 | Password Safe | Password Safe 3 | Password Safe 3 (x64) | `3.71.0` | x64 | ❌ | en-US |
 | 1119 | Pausit AB | Pausit Launcher | Pausit Launcher | `1.0.33.0` | x86,x64 | ❌ | en-US |
 | 1120 | PDF-XChange Co Ltd | PDF-Tools | PDF-Tools 10 (x64) | `10.8.4.409` | x64 | ❌ | en-US |
@@ -1210,7 +1210,7 @@
 | 1202 | Red Hat | Red Hat OpenJDK JRE | Red Hat OpenJDK JRE 11 | `11.0.250.1` | x64 | ❌ | en-US |
 | 1203 | Red Hat | Red Hat OpenJDK JRE | Red Hat OpenJDK JRE 17 | `17.00160.8.1` | x64 | ❌ | en-US |
 | 1204 | Red Hat | Red Hat OpenJDK JRE | Red Hat OpenJDK JRE 21 | `21.0080.9.1` | x64 | ❌ | en-US |
-| 1205 | Relux Informatik AG | ReluxDesktop | ReluxDesktop (x64) | `2026.1.3.0` | x64 | ❌ | en-US |
+| 1205 | Relux Informatik AG | ReluxDesktop | ReluxDesktop (x64) | `2026.1.4.0` | x64 | ❌ | en-US |
 | 1206 | REV Robotics | REV Hardware Client | REV Hardware Client | `1.7.6` | x64 | ❌ | en-US |
 | 1207 | RingCentral | RingCentral App | RingCentral App | `26.1.3015.1418` | x64 | ❌ | en-US |
 | 1208 | RingCentral | RingCentral Phone | RingCentral Phone | `24.3.0.47527` | x86,x64 | ❌ | en-US |
@@ -1496,10 +1496,10 @@
 | 1488 | XnSoft | XnSoft XnView Minimal | XnView (Minimal) | `2.52.0` | x86,x64 | ❌ | en-US |
 | 1489 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.10.5.0` | x64 | ❌ | en-US |
 | 1490 | XnSoft | XnSoft XnView Standard | XnView (Standard) | `2.52.0` | x86,x64 | ❌ | en-US |
-| 1491 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.3.2` | x64 | ❌ | en-US |
+| 1491 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.3.3` | x64 | ❌ | en-US |
 | 1492 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
-| 1493 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.8.0` | x64 | ❌ | en-US |
-| 1494 | Zandar Labs SL | Aptakube | Aptakube | `1.16.0` | x64 | ❌ | en-US |
+| 1493 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.1` | x64 | ❌ | en-US |
+| 1494 | Zandar Labs SL | Aptakube | Aptakube | `1.16.1` | x64 | ❌ | en-US |
 | 1495 | Zello Inc. | Zello | Zello | `18.2.0.0` | x64 | ❌ | en-US |
 | 1496 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 5 | `5.7.18` | x86,x64 | ❌ | en-US |
 | 1497 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.0` | x86,x64 | ❌ | en-US |

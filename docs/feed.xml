@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 15 Apr 2026 16:46:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:12:58 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-04-16 17:12:58 — +0 added, −0 removed, ↺17 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Thu, 16 Apr 2026 17:12:58 +0000</pubDate>
+      <guid isPermaLink='false'>2026-04-16T17:12:58Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-04-16 17:12:58</p><p><strong>Compared to:</strong> 20260415_164611_AppCatalog.json (2026-04-15 16:46:11)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;17 updated</p><h3>Updated (17)</h3><ul><li>Akiflow — Akiflow &nbsp;<code>2.71.6</code> → <code>2.71.8</code></li><li>Blender Foundation — Blender &nbsp;<code>5.1.0</code> → <code>5.1.1</code></li><li>Datadog — Datadog Agent &nbsp;<code>7.77.3</code> → <code>7.78.0</code></li><li>FileZilla — FileZilla &nbsp;<code>3.70.2</code> → <code>3.70.3</code></li><li>Formlabs — Preform &nbsp;<code>3.57.2</code> → <code>3.58.0</code></li><li>Microsoft — Microsoft .NET SDK 9.0 &nbsp;<code>9.0.312</code> → <code>9.0.313</code></li><li>Microsoft — Microsoft Visual Studio 2022 Enterprise &nbsp;<code>17.12.36929.3</code> → <code>17.12.37202.15</code></li><li>Microsoft — Microsoft Visual Studio 2022 Enterprise &nbsp;<code>17.14.37111.16</code> → <code>17.14.37203.1</code></li><li>Microsoft — Microsoft Visual Studio 2022 Professional &nbsp;<code>17.12.36908.8</code> → <code>17.12.37202.15</code></li><li>Microsoft — Microsoft Visual Studio 2022 Professional &nbsp;<code>17.14.37111.16</code> → <code>17.14.37203.1</code></li><li>Microsoft — Microsoft Visual Studio Code &nbsp;<code>1.115.0</code> → <code>1.116.0</code></li><li>openaudible.org — OpenAudible &nbsp;<code>4.8</code> → <code>4.8.1</code></li><li>Passmark Software — PerformanceTest &nbsp;<code>11.1.1008.0</code> → <code>11.1.1009.0</code></li><li>Relux Informatik AG — ReluxDesktop &nbsp;<code>2026.1.3.0</code> → <code>2026.1.4.0</code></li><li>Yubico AB — Yubico Authenticator &nbsp;<code>7.3.2</code> → <code>7.3.3</code></li><li>Yubico AB — YubiKey Manager CLI &nbsp;<code>5.8.0</code> → <code>5.9.1</code></li><li>Zandar Labs SL — Aptakube &nbsp;<code>1.16.0</code> → <code>1.16.1</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-04-15 16:46:11 — +35 added, −16 removed, ↺529 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Wed, 15 Apr 2026 16:46:11 +0000</pubDate>
