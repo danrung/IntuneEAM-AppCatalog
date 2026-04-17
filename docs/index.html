@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Intune EAM App Catalog</title>
+  <link rel="stylesheet" href="app.css" />
+  <link rel="alternate" type="application/rss+xml" title="Intune EAM App Catalog — Changes" href="feed.xml" />
+</head>
+<body>
+
+  <div id="loading">
+    <div class="spinner"></div>
+    <p>Loading catalog…</p>
+  </div>
+
+  <div id="app" style="display:none">
+
+    <!-- ── Header ─────────────────────────────────────────────────────── -->
+    <header>
+      <div class="header-inner">
+        <div class="header-brand">
+          <div class="header-logo">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"
+                 stroke-linecap="round" stroke-linejoin="round">
+              <rect x="3"  y="3"  width="7" height="7"/>
+              <rect x="14" y="3"  width="7" height="7"/>
+              <rect x="14" y="14" width="7" height="7"/>
+              <rect x="3"  y="14" width="7" height="7"/>
+            </svg>
+          </div>
+          <div>
+            <div class="header-title">Intune EAM App Catalog</div>
+            <div class="header-sub">Microsoft Intune Enterprise Application Management</div>
+          </div>
+        </div>
+        <div class="header-meta">
+          <span>Exported <strong id="source-ts"></strong></span>
+          <span>Generated <strong id="gen-date"></strong></span>
+          <a class="header-link" id="repo-link" href="#" target="_blank" rel="noopener">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57
+                       0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41
+                       -1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23
+                       1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605
+                       -2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225
+                       -.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405
+                       3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88
+                       .12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925
+                       .435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69
+                       .825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/>
+            </svg>
+            GitHub
+          </a>
+          <a class="header-link" href="feed.xml" title="RSS feed — catalog changes">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+              <circle cx="5" cy="19" r="2"/>
+              <path d="M4 4a16 16 0 0 1 16 16M4 11a9 9 0 0 1 9 9"/>
+            </svg>
+            RSS
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── Navigation ─────────────────────────────────────────────────── -->
+    <nav class="topnav">
+      <div class="topnav-inner">
+        <button class="nav-btn active" data-view="catalog">Catalog</button>
+        <button class="nav-btn" data-view="stats">Statistics</button>
+        <button class="nav-btn" data-view="changes">Changes</button>
+        <button class="nav-btn" data-view="docs">Docs</button>
+      </div>
+    </nav>
+
+    <!-- ── Main ───────────────────────────────────────────────────────── -->
+    <main>
+
+      <!-- Catalog view ────────────────────────────────────────────────── -->
+      <div id="view-catalog">
+        <div class="stats" id="stats"></div>
+
+        <div class="controls-card">
+          <div class="search-wrap">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <input type="search" id="search"
+                   placeholder="Search publisher, app name, branch, version…"
+                   autocomplete="off" />
+          </div>
+          <div class="controls-divider"></div>
+          <select id="filter-arch"><option value="">All architectures</option></select>
+          <select id="filter-locale"><option value="">All locales</option></select>
+          <select id="filter-autoupdate">
+            <option value="">Auto-update: all</option>
+            <option value="1">Auto-update: yes</option>
+            <option value="0">Auto-update: no</option>
+          </select>
+          <div class="controls-divider"></div>
+          <button class="clear-btn" id="clear-btn" disabled>Clear filters</button>
+        </div>
+
+        <div class="toolbar">
+          <span class="result-count" id="result-count"></span>
+        </div>
+
+        <div class="table-card">
+          <div class="table-scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Publisher</th>
+                  <th>App Name</th>
+                  <th>Branch</th>
+                  <th>Version</th>
+                  <th>Architecture</th>
+                  <th>Auto-Update</th>
+                  <th>Locales</th>
+                </tr>
+              </thead>
+              <tbody id="tbody"></tbody>
+            </table>
+          </div>
+          <div class="empty-state" id="empty-state" style="display:none">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#d1d5db"
+                 stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <p>No packages match your filters.</p>
+          </div>
+        </div>
+      </div><!-- /#view-catalog -->
+
+      <!-- Statistics view ─────────────────────────────────────────────── -->
+      <div id="view-stats" style="display:none">
+        <div id="stats-content"></div>
+      </div>
+
+      <!-- Changes view ──────────────────────────────────────────────────── -->
+      <div id="view-changes" style="display:none">
+        <div class="changes-tabs" id="changes-tabs">
+          <button class="changes-tab active" data-period="latest">Latest</button>
+          <button class="changes-tab" data-period="daily">Daily</button>
+          <button class="changes-tab" data-period="weekly">Weekly</button>
+          <button class="changes-tab" data-period="monthly">Monthly</button>
+        </div>
+        <div id="changes-content"></div>
+      </div><!-- /#view-changes -->
+
+      <!-- Docs view ───────────────────────────────────────────────────── -->
+      <div id="view-docs" style="display:none">
+        <div class="docs-container">
+
+          <section class="docs-section">
+            <h2>Data Fields</h2>
+            <p>Each entry represents one installable package from the Intune EAM catalog,
+               as returned by the <code>win32MobileAppCatalogPackage</code> resource in
+               the Microsoft Graph API.</p>
+            <table class="docs-table">
+              <thead><tr><th>Field</th><th>Description</th></tr></thead>
+              <tbody>
+                <tr>
+                  <td><code>productDisplayName</code></td>
+                  <td>Application name as shown in Intune EAM.</td>
+                </tr>
+                <tr>
+                  <td><code>publisherDisplayName</code></td>
+                  <td>Publisher or vendor name.</td>
+                </tr>
+                <tr>
+                  <td><code>versionDisplayName</code></td>
+                  <td>Version string for this specific package.</td>
+                </tr>
+                <tr>
+                  <td><code>branchDisplayName</code></td>
+                  <td>Branch name — typically includes the architecture, e.g. <em>WireGuard (x64)</em>.</td>
+                </tr>
+                <tr>
+                  <td><code>applicableArchitectures</code></td>
+                  <td>Supported CPU architectures such as <code>x64</code>, <code>x86</code>, or <code>arm64</code>.</td>
+                </tr>
+                <tr>
+                  <td><code>packageAutoUpdateCapable</code></td>
+                  <td>When <strong>Yes</strong>, Intune can automatically update this package when a newer version appears in the catalog.</td>
+                </tr>
+                <tr>
+                  <td><code>locales</code></td>
+                  <td>List of supported locale codes, e.g. <code>en-US</code>.</td>
+                </tr>
+                <tr>
+                  <td><code>productId</code></td>
+                  <td>Stable GUID identifying the product. One product can have multiple branches (e.g. separate x64 and x86 packages).</td>
+                </tr>
+                <tr>
+                  <td><code>branchId</code></td>
+                  <td>Stable GUID identifying this specific branch. Used as the primary key for change detection between exports.</td>
+                </tr>
+                <tr>
+                  <td><code>id</code></td>
+                  <td>Package instance ID assigned by the Graph API. This changes on every export and is not used for comparisons.</td>
+                </tr>
+              </tbody>
+            </table>
+          </section>
+
+          <section class="docs-section">
+            <h2>How Change Detection Works</h2>
+            <p>When two exports are compared, packages are matched by <code>branchId</code> —
+               a stable identifier that survives catalog re-indexing. The <code>id</code> field
+               changes on every export and is intentionally ignored.</p>
+            <table class="docs-table">
+              <thead><tr><th>Change type</th><th>Meaning</th></tr></thead>
+              <tbody>
+                <tr>
+                  <td><strong>Added</strong></td>
+                  <td><code>branchId</code> exists in the newer export but not in the older one.</td>
+                </tr>
+                <tr>
+                  <td><strong>Removed</strong></td>
+                  <td><code>branchId</code> exists in the older export but not in the newer one.</td>
+                </tr>
+                <tr>
+                  <td><strong>Updated</strong></td>
+                  <td>Same <code>branchId</code> in both exports, but <code>versionDisplayName</code> changed.</td>
+                </tr>
+              </tbody>
+            </table>
+          </section>
+
+          <section class="docs-section">
+            <h2>Changelog Windows</h2>
+            <p>The period-based changelogs use the timestamp embedded in each filename
+               (<code>YYYYMMDD_HHMMSS_AppCatalog</code>) to find the right comparison point
+               automatically.</p>
+            <table class="docs-table">
+              <thead><tr><th>Changelog</th><th>Comparison point</th></tr></thead>
+              <tbody>
+                <tr><td>Latest</td><td>Most recent export vs the one directly before it.</td></tr>
+                <tr><td>Daily</td><td>Most recent export vs the closest export at least 24 hours older.</td></tr>
+                <tr><td>Weekly</td><td>Most recent export vs the closest export at least 7 days older.</td></tr>
+                <tr><td>Monthly</td><td>Most recent export vs the closest export at least 30 days older.</td></tr>
+              </tbody>
+            </table>
+          </section>
+
+          <section class="docs-section">
+            <h2>RSS Feed</h2>
+            <p>Subscribe to catalog changes in any RSS reader. Every time a new export is processed,
+               a new entry is published automatically.</p>
+            <p>
+              <strong>Feed URL</strong><br>
+              <code id="rss-feed-url">feed.xml</code>
+            </p>
+            <p>Each item contains a summary of added, removed, and updated packages — including
+               publisher, name, and version details. The feed keeps the last 50 entries and is
+               compatible with any RSS 2.0 client: Feedly, Outlook, Thunderbird, Apple Mail, and others.</p>
+            <table class="docs-table">
+              <thead><tr><th>Client</th><th>How to subscribe</th></tr></thead>
+              <tbody>
+                <tr><td>Feedly</td><td>Paste the feed URL into the search bar</td></tr>
+                <tr><td>Outlook</td><td>Account Settings → RSS Feeds → New</td></tr>
+                <tr><td>Thunderbird</td><td>File → Subscribe → paste URL</td></tr>
+                <tr><td>Apple Mail</td><td>File → Add Account → Other Mail Account → RSS</td></tr>
+                <tr><td>Any reader</td><td>Copy the feed URL and add it as a new subscription</td></tr>
+              </tbody>
+            </table>
+          </section>
+
+          <section class="docs-section">
+            <h2>Disclaimer</h2>
+            <p>This project is not affiliated with, endorsed by, or in any way officially connected to
+               Microsoft Corporation. All product names, trademarks, and registered trademarks are
+               property of their respective owners.</p>
+            <p>The data displayed here is sourced from the Microsoft Graph API and is provided for
+               informational purposes only. Accuracy and completeness depend on the timing of catalog
+               exports and may not reflect the current state of the Intune EAM catalog at any given
+               moment. No warranty, express or implied, is given regarding the accuracy, reliability,
+               or fitness of this data for any particular purpose. Use at your own discretion.</p>
+          </section>
+
+        </div>
+      </div><!-- /#view-docs -->
+
+    </main>
+
+    <!-- ── Footer ─────────────────────────────────────────────────────── -->
+    <footer>
+      <span>Made with <span class="heart">♥</span> by Daniel Rung</span>
+      <span>Data from the Microsoft Graph API &mdash; <code>win32MobileAppCatalogPackage</code></span>
+      <div class="footer-links">
+        <a id="footer-link" href="#" target="_blank" rel="noopener">View on GitHub</a>
+        <span class="footer-sep">·</span>
+        <button class="footer-imprint-btn" id="imprint-open">Legal Notice</button>
+      </div>
+    </footer>
+
+  </div><!-- /#app -->
+
+  <!-- ── Imprint modal ─────────────────────────────────────────────── -->
+  <div class="imprint-overlay" id="imprint-overlay" aria-modal="true" role="dialog" aria-label="Legal Notice">
+    <div class="imprint-modal">
+      <div class="imprint-header">
+        <span class="imprint-title">Legal Notice</span>
+        <button class="imprint-close" id="imprint-close" aria-label="Close">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"/>
+            <line x1="6"  y1="6" x2="18" y2="18"/>
+          </svg>
+        </button>
+      </div>
+      <div class="imprint-body">
+        <p class="imprint-label">Information according to § 5 TMG</p>
+        <p class="imprint-name">Daniel Rung</p>
+        <p>Holsteiner Weg 31<br>
+           33102 Paderborn<br>
+           Germany</p>
+        <p><a href="mailto:danielrung93@gmail.com">danielrung93@gmail.com</a></p>
+        <hr class="imprint-divider">
+        <p>This is a private, non-commercial project maintained in a personal capacity.
+           It is not affiliated with any employer or organisation.</p>
+        <p>This project is not affiliated with, endorsed by, or officially connected to
+           Microsoft Corporation. All data is sourced from the Microsoft Graph API and
+           provided for informational purposes only, without warranty of any kind.</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

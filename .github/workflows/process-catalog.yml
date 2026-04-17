@@ -1,0 +1,63 @@
+name: Process App Catalog
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'catalog/*_AppCatalog.json'
+  workflow_dispatch:
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Generate docs
+        run: python .github/scripts/generate_docs.py
+
+      - name: Archive previous catalog files
+        run: |
+          cd catalog
+          # Get all JSON files sorted by filename (filename contains timestamp)
+          mapfile -t files < <(ls *_AppCatalog.json 2>/dev/null | sort)
+          count=${#files[@]}
+          if [ "$count" -gt 1 ]; then
+            echo "Found $count catalog files — archiving all but the latest"
+            for ((i=0; i<count-1; i++)); do
+              base="${files[$i]%.json}"
+              echo "  Archiving: $base"
+              mv "${base}.json" "../archive/" 2>/dev/null || true
+              mv "${base}.csv"  "../archive/" 2>/dev/null || true
+            done
+          else
+            echo "Only 1 catalog file present, nothing to archive"
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage generated docs, README, and any archiving moves
+          git add catalog.md stats.md changes.md changes_daily.md changes_weekly.md changes_monthly.md README.md docs/catalog.json docs/feed.xml
+          git add -A catalog/ archive/
+
+          # Exit cleanly if nothing changed
+          git diff --staged --quiet && echo "Nothing to commit" && exit 0
+
+          EXPORT_TS=$(ls catalog/*_AppCatalog.json 2>/dev/null | sort | tail -1 \
+            | grep -oP '\d{8}_\d{6}' || echo "unknown")
+          git commit -m "chore: update catalog docs from export ${EXPORT_TS}"
+          git push
