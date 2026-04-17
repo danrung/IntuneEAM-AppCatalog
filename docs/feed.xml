@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intune EAM App Catalog — Changes</title>
+    <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+    <description>Change feed for the Microsoft Intune EAM App Catalog</description>
+    <language>en</language>
+    <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 07 Dec 2025 20:47:23 +0000</lastBuildDate>
+    <item>
+      <title>EAM Catalog 2025-12-07 20:47:23 — initial import (1,497 packages)</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Sun, 07 Dec 2025 20:47:23 +0000</pubDate>
+      <guid isPermaLink='false'>2025-12-07T20:47:23Z</guid>
+      <description><![CDATA[<p>Initial catalog import: 1,497 packages from 493 publishers.</p>]]></description>
+    </item>
+  </channel>
+</rss>

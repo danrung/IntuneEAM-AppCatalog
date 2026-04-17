@@ -44,7 +44,14 @@ The feed keeps the last 50 entries. Compatible with any RSS reader — Feedly, O
 ## Latest Statistics
 
 <!-- CATALOG_STATS_START -->
-*Stats will appear here after the first workflow run.*
+| Metric | Value |
+|--------|-------|
+| Total Packages | **1,497** |
+| Unique Products | 913 |
+| Publishers | 493 |
+| Auto-Update Capable | 357 (23.8%) |
+| Available Locales | 64 |
+| Last Export | 2025-12-07 20:47:23 |
 <!-- CATALOG_STATS_END -->
 
 ## Data Fields
