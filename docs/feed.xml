@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 17 Apr 2026 08:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 13:15:54 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-04-19 13:15:54 — +0 added, −0 removed, ↺9 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Sun, 19 Apr 2026 13:15:54 +0000</pubDate>
+      <guid isPermaLink='false'>2026-04-19T13:15:54Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-04-19 13:15:54</p><p><strong>Compared to:</strong> 20260417_083155_AppCatalog.json (2026-04-17 08:31:55)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;9 updated</p><h3>Updated (9)</h3><ul><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.44.79</code> → <code>1.44.80</code></li><li>Bambu Lab — Bambu Studio &nbsp;<code>2.5.0.64</code> → <code>2.6.0.51</code></li><li>Devolutions inc — Devolutions Workspace &nbsp;<code>2026.1.1.0</code> → <code>2026.1.2.0</code></li><li>FileZilla — FileZilla &nbsp;<code>3.70.3</code> → <code>3.70.4</code></li><li>GitHub, Inc. — GitHub CLI &nbsp;<code>2.89.0</code> → <code>2.90.0</code></li><li>Microsoft — Microsoft Edge Beta &nbsp;<code>147.0.3912.60</code> → <code>148.0.3967.12</code></li><li>ocenaudio — ocenaudio &nbsp;<code>3.17.3</code> → <code>3.18.0</code></li><li>Trimble Navigation Limited — Sketchup Pro &nbsp;<code>2026.1.252</code> → <code>2026.1.256</code></li><li>Trimble Solutions Corporation — Trimble Connect &nbsp;<code>1.27.0.737</code> → <code>1.27.1.740</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-04-17 08:31:55 — +0 added, −0 removed, ↺3 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Fri, 17 Apr 2026 08:31:55 +0000</pubDate>

@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260417_083155_AppCatalog.json` (exported 2026-04-17 08:31:55)  
-> **Generated:** 2026-04-17 06:43 UTC  
+> **Source:** `20260419_131554_AppCatalog.json` (exported 2026-04-19 13:15:54)  
+> **Generated:** 2026-04-19 11:18 UTC  
 > **Total:** 1,516 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -57,7 +57,7 @@
 | 49 | Amazon | Amazon Kindle | Kindle | `2.8.3.70995` | x86,x64 | ❌ | en-US |
 | 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.158.0` | x64 | ❌ | en-US |
 | 51 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.804.0` | x64 | ❌ | en-US |
-| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.44.79` | x64 | ❌ | en-US |
+| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.44.80` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 54 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.1.15.0` | x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.31.0.5733` | x64 | ❌ | en-US |
@@ -140,7 +140,7 @@
 | 132 | Azul Systems, Inc. | Zulu JRE 7 (LTS) | Zulu JRE 7 (LTS) (x64) | `7.56.0.11` | x64 | ❌ | en-US |
 | 133 | Azul Systems, Inc. | Zulu JRE 8 (LTS) | Zulu JRE 8 (LTS) (x64) | `8.92.0.21` | x64 | ❌ | en-US |
 | 134 | Baldur Karlsson | RenderDoc | RenderDoc (x64) | `1.43` | x64 | ❌ | en-US |
-| 135 | Bambu Lab | Bambu Studio | Bambu Studio | `2.5.0.64` | x64 | ❌ | en-US |
+| 135 | Bambu Lab | Bambu Studio | Bambu Studio | `2.6.0.51` | x64 | ❌ | en-US |
 | 136 | Bandisoft | BandiView | BandiView | `7.26` | x64 | ❌ | en-US |
 | 137 | Beanbag, Inc. | RBTools | RBTools | `6.0` | x64 | ❌ | en-US |
 | 138 | Belgian Government | Belgium e-ID viewer | Belgium e-ID viewer | `5.1.6095` | x86,x64 | ❌ | en-US |
@@ -280,7 +280,7 @@
 | 272 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.18.0` | x64 | ✅ | en-US |
 | 273 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager | `2026.1.18.0` | x64 | ❌ | en-US |
 | 274 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.1.18.0` | x86,x64 | ❌ | en-US |
-| 275 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.1.0` | x64 | ❌ | en-US |
+| 275 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.2.0` | x64 | ❌ | en-US |
 | 276 | DigiDNA SARL | iMazing | iMazing | `3.5.2.0` | x64 | ❌ | en-US |
 | 277 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.1.2` | x64 | ❌ | en-US |
 | 278 | dnGrep | dnGrep | dnGrep (x64) | `4.7.25.0` | x64 | ❌ | en-US |
@@ -356,7 +356,7 @@
 | 348 | FastStone Soft | FastStone Soft Capture | Capture | `11.2` | x86,x64 | ❌ | en-US |
 | 349 | FastStone Soft | FastStone Soft Image Viewer | Image Viewer | `8.3` | x86,x64 | ❌ | en-US |
 | 350 | FastStone Soft | FastStone Soft Photo Resizer | Photo Resizer | `4.5` | x86,x64 | ❌ | en-US |
-| 351 | FileZilla | FileZilla | FileZilla (x64) | `3.70.3` | x64 | ✅ | en-US |
+| 351 | FileZilla | FileZilla | FileZilla (x64) | `3.70.4` | x64 | ✅ | en-US |
 | 352 | FLUX, Inc. | Beam Studio | Beam Studio (x64) | `2.5.14` | x64 | ✅ | en-US |
 | 353 | Formlabs | Preform | Preform | `3.58.0` | x64 | ❌ | en-US |
 | 354 | Fortra, LLC | GoAnywhere OpenPGP Studio | GoAnywhere OpenPGP Studio | `1.2.3` | x64 | ❌ | en-US |
@@ -406,7 +406,7 @@
 | 398 | Gerardo Grignoli | gsudo | gsudo (x64) | `2.6.1` | x64 | ❌ | en-US |
 | 399 | GFI Software | Kerio Connect | Kerio Connect | `10.0.9.9754` | x64 | ❌ | en-US |
 | 400 | GIMP | GIMP | GIMP | `3.2.2.0` | x64 | ❌ | en-US |
-| 401 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.89.0` | x64 | ❌ | en-US |
+| 401 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.90.0` | x64 | ❌ | en-US |
 | 402 | GlavSoft LLC | Remote Ripple | Remote Ripple | `1.2.0` | x64 | ❌ | en-US |
 | 403 | glueckkanja-gab AG | Konnekt | Konnekt (x64) | `2.12.0.0` | x64 | ❌ | en-US |
 | 404 | GN Audio AS | Jabra Direct | Jabra Direct | `6.27.03702` | x86,x64 | ❌ | en-US |
@@ -634,7 +634,7 @@
 | 626 | Microsoft | Microsoft Bot Framework Emulator | Microsoft Bot Framework Emulator | `4.15.1` | x64 | ❌ | en-US |
 | 627 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.128.1` | x64 | ❌ | en-US |
 | 628 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
-| 629 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `147.0.3912.60` | x64 | ✅ | en-US |
+| 629 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `148.0.3967.12` | x64 | ✅ | en-US |
 | 630 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
 | 631 | Microsoft | Microsoft ODBC Driver 13 for SQL Server | Microsoft ODBC Driver 13 for SQL Server (x64) | `13.1.4414.46` | x64 | ❌ | en-US |
 | 632 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (German) (x64) | `17.10.6.1` | x64 | ❌ | de-DE |
@@ -1063,7 +1063,7 @@
 | 1055 | NVIDIA | NVIDIA GeForce Experience | NVIDIA GeForce Experience | `11.0.1.163` | x64 | ✅ | en-US |
 | 1056 | NWEA | NWEA Secure Testing Browser | NWEA Secure Testing Browser | `5.4.405.0` | x86,x64 | ❌ | en-US |
 | 1057 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.12.4` | x64 | ❌ | en-US |
-| 1058 | ocenaudio | ocenaudio | ocenaudio | `3.17.3` | x64 | ❌ | en-US |
+| 1058 | ocenaudio | ocenaudio | ocenaudio | `3.18.0` | x64 | ❌ | en-US |
 | 1059 | Oleg Shparber | Zeal | Zeal | `0.8.1` | x64 | ❌ | en-US |
 | 1060 | Ontotext | GraphDB Desktop | GraphDB Desktop | `10.8.4` | x64 | ❌ | en-US |
 | 1061 | openaudible.org | OpenAudible | OpenAudible | `4.8.1` | x64 | ❌ | en-US |
@@ -1422,9 +1422,9 @@
 | 1414 | TPGi | Colour Contrast Analyser | Colour Contrast Analyser (MSI) | `3.5.5` | x64 | ❌ | en-US |
 | 1415 | TransIP BV | TransIP STACK | TransIP STACK | `6.0.2.490` | x64 | ❌ | nl |
 | 1416 | Tribler | Tribler | Tribler (x64) | `8.4.2` | x64 | ❌ | en-US |
-| 1417 | Trimble Navigation Limited | Sketchup Pro | Sketchup Pro 2026 | `2026.1.252` | x64 | ❌ | en-US |
+| 1417 | Trimble Navigation Limited | Sketchup Pro | Sketchup Pro 2026 | `2026.1.256` | x64 | ❌ | en-US |
 | 1418 | Trimble Navigation Limited | Sketchup Pro 2024 | Sketchup Pro 2024 | `24.0.594.0` | x64 | ❌ | en-US |
-| 1419 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.27.0.737` | x64 | ❌ | en-US |
+| 1419 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.27.1.740` | x64 | ❌ | en-US |
 | 1420 | Turbo | Turbo Studio | Turbo Studio | `25.10.2` | x86,x64 | ❌ | en-US |
 | 1421 | Turbo.net | Turbo.net Desktop | Turbo.net Desktop | `26.3.11.2687` | x86,x64 | ❌ | en-US |
 | 1422 | typora.io | Typora | Typora (x64) | `1.13.4` | x64 | ❌ | en-US |
@@ -1435,8 +1435,8 @@
 | 1427 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
 | 1428 | VariCAD | VariCAD | VariCAD (German) | `2026.2.02` | x64 | ❌ | de |
 | 1429 | VariCAD | VariCAD | VariCAD (English) | `2026.2.02` | x64 | ❌ | en-US |
-| 1430 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.02` | x64 | ❌ | de |
-| 1431 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.02` | x64 | ❌ | en-US |
+| 1430 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.02` | x64 | ❌ | en-US |
+| 1431 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.02` | x64 | ❌ | de |
 | 1432 | VeraCrypt | VeraCrypt | VeraCrypt | `1.26.24` | x64 | ❌ | en-US |
 | 1433 | Verbi GmbH | MAXQDA 2020 Reader | MAXQDA 2020 Reader | `20.4.1` | x64 | ❌ | en-US |
 | 1434 | VEX Robotics | VEXcode IQ 3 | VEXcode IQ 3 | `3.0.4.1` | x86,x64 | ❌ | en-US |
