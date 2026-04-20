@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260419_131554_AppCatalog.json` (exported 2026-04-19 13:15:54)  
-> **Generated:** 2026-04-19 11:18 UTC  
+> **Source:** `20260420_073517_AppCatalog.json` (exported 2026-04-20 07:35:17)  
+> **Generated:** 2026-04-20 05:37 UTC  
 > **Total:** 1,516 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -85,7 +85,7 @@
 | 77 | Ascensio System SIA | AVS Media Player | AVS Media Player | `6.0.2.21` | x86,x64 | ❌ | en-US |
 | 78 | Astute Graphics | Astute Manager | Astute Manager | `4.0.5` | x86,x64 | ❌ | en-US |
 | 79 | Asus | ASUS Remote Drive | Remote Drive | `3.10.0.70` | x86,x64 | ❌ | en-US |
-| 80 | Atlassian Inc | Atlassian Companion | Atlassian Companion | `3.1.0` | x86,x64 | ❌ | en-US |
+| 80 | Atlassian Inc | Atlassian Companion | Atlassian Companion | `3.2.0` | x86,x64 | ❌ | en-US |
 | 81 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.0 | `10.0.3` | x64 | ❌ | en-US |
 | 82 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.2 | `10.2.6` | x64 | ❌ | en-US |
 | 83 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 8.1 | `8.1.4` | x64 | ❌ | en-US |
