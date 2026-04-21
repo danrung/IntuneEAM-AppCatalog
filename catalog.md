@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260420_073517_AppCatalog.json` (exported 2026-04-20 07:35:17)  
-> **Generated:** 2026-04-20 05:37 UTC  
+> **Source:** `20260421_094232_AppCatalog.json` (exported 2026-04-21 09:42:32)  
+> **Generated:** 2026-04-21 14:11 UTC  
 > **Total:** 1,516 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -54,10 +54,10 @@
 | 46 | Amazon | Amazon Corretto JDK 18 | Amazon Corretto JDK 18 | `18.0.2.9.1` | x64 | ❌ | en-US |
 | 47 | Amazon | Amazon Corretto JDK 19 | Amazon Corretto JDK 19 | `19.0.2.7.1` | x64 | ❌ | en-US |
 | 48 | Amazon | Amazon Corretto JDK 8 | Amazon Corretto JDK 8 (x64) | `8.482.08.1` | x64 | ❌ | en-US |
-| 49 | Amazon | Amazon Kindle | Kindle | `2.8.3.70995` | x86,x64 | ❌ | en-US |
+| 49 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
 | 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.158.0` | x64 | ❌ | en-US |
 | 51 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.804.0` | x64 | ❌ | en-US |
-| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.44.80` | x64 | ❌ | en-US |
+| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.44.82` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 54 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.1.15.0` | x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.31.0.5733` | x64 | ❌ | en-US |
@@ -94,7 +94,7 @@
 | 86 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 9.3 | `9.3.2` | x64 | ❌ | en-US |
 | 87 | Atomi Systems, Inc. | Atomi Systems ActivePresenter | ActivePresenter | `9.4.0` | x64 | ✅ | en-US |
 | 88 | Atomi Systems, Inc. | Saola Animate | Saola Animate | `3.1.4` | x64 | ❌ | en-US |
-| 89 | Atostek Oy | Atostek ID | Atostek ID | `4.4.1.0` | x86,x64 | ❌ | en-US |
+| 89 | Atostek Oy | Atostek ID | Atostek ID | `4.5.0.0` | x86,x64 | ❌ | en-US |
 | 90 | Audacity | Audacity | Audacity (x64) | `3.7.7` | x64 | ✅ | en-US |
 | 91 | Autodesk Inc. | Autodesk Access | Autodesk Access | `2.21.0.646` | x64 | ❌ | en-US |
 | 92 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Spanish) (x64) | `15.0.2.10` | x64 | ❌ | es-ES |
@@ -261,7 +261,7 @@
 | 253 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.4.1.44384` | x64 | ❌ | en-US |
 | 254 | DAX Studio | DAX Studio | DAX Studio | `3.5.1.1188` | x64 | ❌ | en-US |
 | 255 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
-| 256 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.0.2` | x64 | ✅ | en-US |
+| 256 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.0.3` | x64 | ✅ | en-US |
 | 257 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.0.0` | x64 | ✅ | en-US |
 | 258 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.0.0` | x64 | ✅ | en-US |
 | 259 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.0.0` | x64 | ✅ | en-US |
@@ -290,7 +290,7 @@
 | 282 | Don Ho | Notepad++ | Notepad++ (x64) (EXE) | `8.9.3` | x64 | ❌ | en-US |
 | 283 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
 | 284 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.3.200` | x64 | ❌ | en-US |
-| 285 | draw.io | draw.io Desktop | draw.io Desktop | `29.6.6` | x64 | ✅ | en-US |
+| 285 | draw.io | draw.io Desktop | draw.io Desktop | `29.7.8` | x64 | ✅ | en-US |
 | 286 | dRofus | dRofus | dRofus | `2.17.11.0` | x86,x64 | ❌ | en-US |
 | 287 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `7.5.7` | x64 | ❌ | en-US |
 | 288 | DucFabulous | UltraViewer | UltraViewer | `6.6.124` | x86,x64 | ✅ | en-US |
@@ -405,7 +405,7 @@
 | 397 | Gephi | Gephi | Gephi (x64) | `0.10.1` | x64 | ❌ | en-US |
 | 398 | Gerardo Grignoli | gsudo | gsudo (x64) | `2.6.1` | x64 | ❌ | en-US |
 | 399 | GFI Software | Kerio Connect | Kerio Connect | `10.0.9.9754` | x64 | ❌ | en-US |
-| 400 | GIMP | GIMP | GIMP | `3.2.2.0` | x64 | ❌ | en-US |
+| 400 | GIMP | GIMP | GIMP | `3.2.4.0` | x64 | ❌ | en-US |
 | 401 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.90.0` | x64 | ❌ | en-US |
 | 402 | GlavSoft LLC | Remote Ripple | Remote Ripple | `1.2.0` | x64 | ❌ | en-US |
 | 403 | glueckkanja-gab AG | Konnekt | Konnekt (x64) | `2.12.0.0` | x64 | ❌ | en-US |
@@ -453,7 +453,7 @@
 | 445 | Image-Line Software | Image-Line Software FL Studio | FL Studio | `25.2.3.5171` | x64 | ❌ | en-US |
 | 446 | Informatiepunt Leefomgeving | Geomilieu | Geomilieu | `2024.0.0` | x64 | ❌ | nl-NL |
 | 447 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.9.0.0` | x64 | ❌ | en-US |
-| 448 | Inknoe | ClassPoint | ClassPoint (x64) | `2.10.7.0` | x64 | ❌ | en-US |
+| 448 | Inknoe | ClassPoint | ClassPoint (x64) | `2.10.8.0` | x64 | ❌ | en-US |
 | 449 | Inkscape | Inkscape | Inkscape (x64) | `1.4` | x64 | ❌ | en-US |
 | 450 | Inmatrix | Zoom Player | Zoom Player | `22.01` | x86,x64 | ❌ | en-US |
 | 451 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.2` | x86,x64 | ❌ | en-US |
@@ -1271,7 +1271,7 @@
 | 1263 | Smart Projects | IsoBuster | IsoBuster (x64) | `5.7` | x64 | ❌ | en-US |
 | 1264 | SmartBear Software | SoapUI | SoapUI (x64) | `5.9.1` | x64 | ❌ | en-US |
 | 1265 | Smartsheet Inc. | Smartsheet desktop app | Smartsheet desktop app | `1.0.54` | x64 | ❌ | en-US |
-| 1266 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3319.0` | x64 | ❌ | en-US |
+| 1266 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3321.0` | x64 | ❌ | en-US |
 | 1267 | SMath LLC | SMath Studio | SMath Studio | `1.3.0-9126` | x86,x64 | ❌ | en-US |
 | 1268 | Snapmaker | Snapmaker Luban | Snapmaker Luban (x64) | `4.15.0` | x64 | ❌ | en-US |
 | 1269 | SnelStart | SnelStart | SnelStart | `12.195.36` | x86,x64 | ❌ | nl |
@@ -1425,7 +1425,7 @@
 | 1417 | Trimble Navigation Limited | Sketchup Pro | Sketchup Pro 2026 | `2026.1.256` | x64 | ❌ | en-US |
 | 1418 | Trimble Navigation Limited | Sketchup Pro 2024 | Sketchup Pro 2024 | `24.0.594.0` | x64 | ❌ | en-US |
 | 1419 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.27.1.740` | x64 | ❌ | en-US |
-| 1420 | Turbo | Turbo Studio | Turbo Studio | `25.10.2` | x86,x64 | ❌ | en-US |
+| 1420 | Turbo | Turbo Studio | Turbo Studio | `26.4.4.515` | x86,x64 | ❌ | en-US |
 | 1421 | Turbo.net | Turbo.net Desktop | Turbo.net Desktop | `26.3.11.2687` | x86,x64 | ❌ | en-US |
 | 1422 | typora.io | Typora | Typora (x64) | `1.13.4` | x64 | ❌ | en-US |
 | 1423 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.12.1` | x64 | ❌ | en-US |
@@ -1445,7 +1445,7 @@
 | 1437 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.6` | x64 | ❌ | en-US |
 | 1438 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.4` | x86,x64 | ❌ | en-US |
 | 1439 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0323` | x64 | ❌ | en-US |
-| 1440 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0340` | x64 | ❌ | en-US |
+| 1440 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0360` | x64 | ❌ | en-US |
 | 1441 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.0.0.0` | x64 | ❌ | en-US |
 | 1442 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
 | 1443 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
