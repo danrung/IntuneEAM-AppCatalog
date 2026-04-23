@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 22 Apr 2026 01:48:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 16:51:08 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-04-22 16:51:08 — +0 added, −0 removed, ↺114 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Wed, 22 Apr 2026 16:51:08 +0000</pubDate>
+      <guid isPermaLink='false'>2026-04-22T16:51:08Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-04-22 16:51:08</p><p><strong>Compared to:</strong> 20260422_014856_AppCatalog.json (2026-04-22 01:48:56)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;114 updated</p><h3>Updated (114)</h3><ul><li>2BrightSparks Ptd Ltd — CMake &nbsp;<code>4.3.1</code> → <code>4.3.2</code></li><li>2BrightSparks Ptd Ltd — CMake &nbsp;<code>4.2.4</code> → <code>4.2.5</code></li><li>Amazon — Amazon Corretto JDK 11 &nbsp;<code>11.0.30.7.1</code> → <code>11.0.31.11.1</code></li><li>Amazon — Amazon Corretto JDK 17 &nbsp;<code>17.0.18.9.1</code> → <code>17.0.19.10.1</code></li><li>Amazon — Amazon Corretto JDK 8 &nbsp;<code>8.482.08.1</code> → <code>8.492.09.1</code></li><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.44.82</code> → <code>1.44.83</code></li><li>Azul Systems, Inc. — Zulu JDK 11 (LTS) &nbsp;<code>11.86.21</code> → <code>11.88.17</code></li><li>Azul Systems, Inc. — Zulu JDK 17 (LTS) &nbsp;<code>17.64.17</code> → <code>17.66.19</code></li><li>Azul Systems, Inc. — Zulu JDK 8 (LTS) &nbsp;<code>8.92.0.21</code> → <code>8.94.0.17</code></li><li>Azul Systems, Inc. — Zulu JRE 11 (LTS) &nbsp;<code>11.86.21</code> → <code>11.88.17</code></li><li>Azul Systems, Inc. — Zulu JRE 17 (LTS) &nbsp;<code>17.64.17</code> → <code>17.66.19</code></li><li>Azul Systems, Inc. — Zulu JRE 8 (LTS) &nbsp;<code>8.92.0.21</code> → <code>8.94.0.17</code></li><li>Brink Software B.V. — Ibis Calculeren voor Infra &nbsp;<code>4.2.2603.13003</code> → <code>4.2.2604.12101</code></li><li>Evernote — Evernote &nbsp;<code>11.12.2</code> → <code>11.13.2</code></li><li>Logitech — Logitech Sync App &nbsp;<code>3.9.319</code> → <code>3.9.322</code></li><li>Microsoft — Microsoft Visual Studio 2022 Community &nbsp;<code>17.14.37203.1</code> → <code>17.14.37216.2</code></li><li>Microsoft — Microsoft Visual Studio Code &nbsp;<code>1.116.0</code> → <code>1.117.0</code></li><li>Microsoft — Microsoft Visual Studio Team Explorer 2022 &nbsp;<code>17.14.37203.1</code> → <code>17.14.37216.2</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>149.0.2</code> → <code>150.0</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>149.0.2</code> → <code>150.0</code></li><li>… and 94 more</li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-04-22 01:48:56 — +0 added, −0 removed, ↺4 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Wed, 22 Apr 2026 01:48:56 +0000</pubDate>
