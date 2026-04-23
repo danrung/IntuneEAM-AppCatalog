@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260421_143042_AppCatalog.json` (exported 2026-04-21 14:30:42)  
-> **Generated:** 2026-04-21 14:35 UTC  
+> **Source:** `20260422_014856_AppCatalog.json` (exported 2026-04-22 01:48:56)  
+> **Generated:** 2026-04-23 07:16 UTC  
 > **Total:** 1,516 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -66,7 +66,7 @@
 | 58 | Android | Android Studio 3 | Android Studio 3 | `3.6.3.0` | x64 | ✅ | en-US |
 | 59 | Android | Android Studio 4 | Android Studio 4 | `4.2.2.0` | x64 | ✅ | en-US |
 | 60 | Ansgar Becker | HeidiSQL | HeidiSQL | `12.17.0.7270` | x64 | ❌ | en-US |
-| 61 | Antibody Software | WizTree | WizTree | `4.27` | x64 | ❌ | en-US |
+| 61 | Antibody Software | WizTree | WizTree | `4.31` | x64 | ❌ | en-US |
 | 62 | AnyBurn | AnyBurn | AnyBurn | `6.5.0` | x64 | ❌ | en-US |
 | 63 | AnyDesk Software GmbH | AnyDesk | AnyDesk | `9.0.2` | x86,x64 | ❌ | en-US |
 | 64 | AnyDesk Software GmbH | AnyDesk | AnyDesk (EXE) | `9.6.12` | x86,x64 | ❌ | en-US |
@@ -178,12 +178,12 @@
 | 170 | Blender Foundation | Blender | Blender 4.4 (x64) | `4.4.3` | x64 | ❌ | en-US |
 | 171 | Blender Foundation | Blender | Blender 4.1 (x64) | `4.1.1` | x64 | ❌ | en-US |
 | 172 | Blender Foundation | Blender | Blender 2.92 (x64) | `2.92.0` | x64 | ❌ | en-US |
-| 173 | Blender Foundation | Blender | Blender 3.6 LTS (x64) | `3.6.23` | x64 | ❌ | en-US |
-| 174 | Blender Foundation | Blender | Blender 2.83 LTS (x64) | `2.83.20` | x64 | ❌ | en-US |
-| 175 | Blender Foundation | Blender | Blender 5.1 (x64) | `5.1.1` | x64 | ❌ | en-US |
-| 176 | Blender Foundation | Blender | Blender 2.90 (x64) | `2.90.1` | x64 | ❌ | en-US |
-| 177 | Blender Foundation | Blender | Blender 4.3 (x64) | `4.3.2` | x64 | ❌ | en-US |
-| 178 | Blender Foundation | Blender | Blender 4.2 LTS (x64) | `4.2.19` | x64 | ❌ | en-US |
+| 173 | Blender Foundation | Blender | Blender 4.2 LTS (x64) | `4.2.20` | x64 | ❌ | en-US |
+| 174 | Blender Foundation | Blender | Blender 3.6 LTS (x64) | `3.6.23` | x64 | ❌ | en-US |
+| 175 | Blender Foundation | Blender | Blender 2.83 LTS (x64) | `2.83.20` | x64 | ❌ | en-US |
+| 176 | Blender Foundation | Blender | Blender 5.1 (x64) | `5.1.1` | x64 | ❌ | en-US |
+| 177 | Blender Foundation | Blender | Blender 2.90 (x64) | `2.90.1` | x64 | ❌ | en-US |
+| 178 | Blender Foundation | Blender | Blender 4.3 (x64) | `4.3.2` | x64 | ❌ | en-US |
 | 179 | Blender Foundation | Blender | Blender 4.0 (x64) | `4.0.2` | x64 | ❌ | en-US |
 | 180 | Blue Jeans | BlueJeans 2 | BlueJeans 2 Admin Installer | `2.45.37` | x64 | ❌ | en-US |
 | 181 | Blue Jeans | BlueJeans 2 | BlueJeans 2 User Installer | `2.45.37` | x64 | ✅ | en-US |
@@ -249,7 +249,7 @@
 | 241 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
 | 242 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.19` | x64 | ❌ | en-US |
 | 243 | CPUID, Inc | HWMonitor | HWMonitor | `1.63` | x64 | ❌ | en-US |
-| 244 | Creative Force | Creative Force Kelvin | Kelvin | `6.0.0` | x64 | ❌ | en-US |
+| 244 | Creative Force | Creative Force Kelvin | Kelvin | `6.1.0` | x64 | ❌ | en-US |
 | 245 | Creative Force | Creative Force Triad | Triad | `4.4.0` | x64 | ❌ | en-US |
 | 246 | Crestron Electronics, Inc. | Crestron AirMedia app | AirMedia app | `5.11.1.164` | x86,x64 | ❌ | en-US |
 | 247 | Crestron Electronics, Inc. | Crestron AirMedia Peripheral Installer | AirMedia Peripheral Installer | `1.11.1.164` | x86,x64 | ❌ | en-US |
@@ -369,8 +369,8 @@
 | 361 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.3.24041` | x86,x64 | ✅ | en-US |
 | 362 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 363 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
-| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 366 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.3.24041` | x86,x64 | ✅ | en-US |
 | 367 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.3.24041` | x86,x64 | ✅ | mul |
 | 368 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x86) (MSI) | `2025.2.0.33046` | x86,x64 | ✅ | mul |
@@ -398,7 +398,7 @@
 | 390 | Garden Gnome GmbH | Garden Gnome Package Viewer | Garden Gnome Package Viewer | `1.6.1` | x64 | ❌ | en-US |
 | 391 | Garmin | Garmin BaseCamp | Garmin BaseCamp | `4.7.5` | x86,x64 | ❌ | en-US |
 | 392 | Garmin | Garmin Express | Garmin Express | `7.28.0.0` | x86,x64 | ❌ | en-US |
-| 393 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.30.0` | x64 | ❌ | en-US |
+| 393 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.30.1` | x64 | ❌ | en-US |
 | 394 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.20.9` | x64 | ❌ | en-US |
 | 395 | Genesys | Genesys Cloud | Genesys Cloud | `2.48.901` | x86,x64 | ❌ | en-US |
 | 396 | Genesys | Genesys Cloud Background Assistant | Genesys Cloud Background Assistant | `1.6.436` | x86,x64 | ❌ | en-US |

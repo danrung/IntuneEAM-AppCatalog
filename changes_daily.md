@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260421_143042_AppCatalog.json` (exported 2026-04-21 14:30:42)  
+> **Comparing:** `20260422_014856_AppCatalog.json` (exported 2026-04-22 01:48:56)  
 > **vs:** `20260420_073517_AppCatalog.json` (exported 2026-04-20 07:35:17)  
-> **Generated:** 2026-04-21 14:35 UTC
+> **Generated:** 2026-04-23 07:16 UTC
 
 ## Summary
 
@@ -10,22 +10,26 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 20 |
+| 🔄 Updated (version change) | 24 |
 
-## 🔄 Updated (20 packages)
+## 🔄 Updated (24 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
 | 2BrightSparks Ptd Ltd | CMake | CMake 3.31 (x64) | `3.31.10` | `3.31.12` | x64 |
-| 2BrightSparks Ptd Ltd | CMake | CMake 4.0 (x64) | `4.0.5` | `4.0.7` | x64 |
 | 2BrightSparks Ptd Ltd | CMake | CMake 4.1 (x64) | `4.1.4` | `4.1.6` | x64 |
+| 2BrightSparks Ptd Ltd | CMake | CMake 4.0 (x64) | `4.0.5` | `4.0.7` | x64 |
 | Akiflow | Akiflow | Akiflow | `2.71.8` | `2.71.12` | x64 |
 | Amazon | Amazon Kindle | Kindle | `2.8.3.70995` | `2.9.1.71006` | x86,x64 |
 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.44.80` | `1.44.82` | x64 |
 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.31.0.5733` | `5.32.0.5813` | x64 |
+| Antibody Software | WizTree | WizTree | `4.27` | `4.31` | x64 |
 | Atostek Oy | Atostek ID | Atostek ID | `4.4.1.0` | `4.5.0.0` | x86,x64 |
+| Blender Foundation | Blender | Blender 4.2 LTS (x64) | `4.2.19` | `4.2.20` | x64 |
+| Creative Force | Creative Force Kelvin | Kelvin | `6.0.0` | `6.1.0` | x64 |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.0.2` | `26.0.3` | x64 |
 | draw.io | draw.io Desktop | draw.io Desktop | `29.6.6` | `29.7.8` | x64 |
+| geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.30.0` | `11.30.1` | x64 |
 | GIMP | GIMP | GIMP | `3.2.2.0` | `3.2.4.0` | x64 |
 | Inknoe | ClassPoint | ClassPoint (x64) | `2.10.7.0` | `2.10.8.0` | x64 |
 | Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.1.1` | `6.1.2` | x64 |
