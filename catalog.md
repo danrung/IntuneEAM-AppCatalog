@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260422_165108_AppCatalog.json` (exported 2026-04-22 16:51:08)  
-> **Generated:** 2026-04-23 07:37 UTC  
+> **Source:** `20260423_015244_AppCatalog.json` (exported 2026-04-23 01:52:44)  
+> **Generated:** 2026-04-23 07:59 UTC  
 > **Total:** 1,516 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -144,12 +144,12 @@
 | 136 | Bandisoft | BandiView | BandiView | `7.26` | x64 | ❌ | en-US |
 | 137 | Beanbag, Inc. | RBTools | RBTools | `6.0` | x64 | ❌ | en-US |
 | 138 | Belgian Government | Belgium e-ID viewer | Belgium e-ID viewer | `5.1.6095` | x86,x64 | ❌ | en-US |
-| 139 | BellSoft Corporation | Liberica JDK | Liberica JDK 17 (x64) | `17.0.18.10` | x64 | ❌ | en-US |
-| 140 | BellSoft Corporation | Liberica JDK | Liberica JDK 25 (Full) (x64) | `25.0.2.12` | x64 | ❌ | en-US |
-| 141 | BellSoft Corporation | Liberica JDK | Liberica JDK 11 (Full) (x64) | `11.0.30.9` | x64 | ❌ | en-US |
-| 142 | BellSoft Corporation | Liberica JDK | Liberica JDK 25 (x64) | `25.0.2.12` | x64 | ❌ | en-US |
-| 143 | BellSoft Corporation | Liberica JDK | Liberica JDK 11 (x64) | `11.0.30.9` | x64 | ❌ | en-US |
-| 144 | BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.482.10` | x64 | ❌ | en-US |
+| 139 | BellSoft Corporation | Liberica JDK | Liberica JDK 11 (x64) | `11.0.31.11` | x64 | ❌ | en-US |
+| 140 | BellSoft Corporation | Liberica JDK | Liberica JDK 25 (x64) | `25.0.3.11` | x64 | ❌ | en-US |
+| 141 | BellSoft Corporation | Liberica JDK | Liberica JDK 25 (Full) (x64) | `25.0.3.11` | x64 | ❌ | en-US |
+| 142 | BellSoft Corporation | Liberica JDK | Liberica JDK 17 (x64) | `17.0.19.11` | x64 | ❌ | en-US |
+| 143 | BellSoft Corporation | Liberica JDK | Liberica JDK 11 (Full) (x64) | `11.0.31.11` | x64 | ❌ | en-US |
+| 144 | BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.492.9` | x64 | ❌ | en-US |
 | 145 | Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.2.1` | x64 | ❌ | en-US |
 | 146 | Benn Huang | Chatbox | Chatbox | `1.5.1` | x64 | ❌ | en-US |
 | 147 | Benthic Software | Golden 6 | Golden 6 (x64) | `6.3.0.672` | x64 | ❌ | en-US |
@@ -406,7 +406,7 @@
 | 398 | Gerardo Grignoli | gsudo | gsudo (x64) | `2.6.1` | x64 | ❌ | en-US |
 | 399 | GFI Software | Kerio Connect | Kerio Connect | `10.0.9.9754` | x64 | ❌ | en-US |
 | 400 | GIMP | GIMP | GIMP | `3.2.4.0` | x64 | ❌ | en-US |
-| 401 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.90.0` | x64 | ❌ | en-US |
+| 401 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.91.0` | x64 | ❌ | en-US |
 | 402 | GlavSoft LLC | Remote Ripple | Remote Ripple | `1.2.0` | x64 | ❌ | en-US |
 | 403 | glueckkanja-gab AG | Konnekt | Konnekt (x64) | `2.12.0.0` | x64 | ❌ | en-US |
 | 404 | GN Audio AS | Jabra Direct | Jabra Direct | `6.27.03702` | x86,x64 | ❌ | en-US |
@@ -528,8 +528,8 @@
 | 520 | Krita Foundation | Krita | Krita (x64) | `5.3.1.100` | x64 | ❌ | en-US |
 | 521 | KUBUS BV | BCF Manager for Tekla | BCF Manager for Tekla | `6.2.16` | x64 | ❌ | en-US |
 | 522 | Lansweeper | Lansweeper | Lansweeper | `12.7.1.1` | x86,x64 | ❌ | en-US |
-| 523 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `7.65.9` | x64 | ❌ | en-US |
-| 524 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool | `7.48.9` | x86,x64 | ❌ | en-US |
+| 523 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool | `7.48.9` | x86,x64 | ❌ | en-US |
+| 524 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `7.66.6` | x64 | ❌ | en-US |
 | 525 | LastPass | LastPass | LastPass | `5.1.0.1209` | x64 | ❌ | en-US |
 | 526 | Laurent Cozic | Joplin | Joplin | `3.5.13` | x64 | ❌ | en-US |
 | 527 | LEGO | LEGO Education SPIKE | LEGO Education SPIKE | `3.6.0` | x64 | ❌ | en-US |
@@ -719,20 +719,20 @@
 | 711 | Microsoft | Microsoft Visual Studio 2010 Tools for Office Runtime | Visual Studio 2010 Tools for Office Runtime (x64) | `10.0.60917.00` | x64 | ❌ | en-US |
 | 712 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37216.2` | x64 | ❌ | en-US |
 | 713 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 714 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37203.1` | x64 | ❌ | en-US |
-| 715 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37202.15` | x64 | ❌ | en-US |
-| 716 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 714 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37202.15` | x64 | ❌ | en-US |
+| 715 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 716 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37216.2` | x64 | ❌ | en-US |
 | 717 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
 | 718 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 719 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
 | 720 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
 | 721 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 722 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
-| 723 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37202.15` | x64 | ❌ | en-US |
-| 724 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 725 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 726 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
-| 727 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37203.1` | x64 | ❌ | en-US |
+| 723 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37216.2` | x64 | ❌ | en-US |
+| 724 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37202.15` | x64 | ❌ | en-US |
+| 725 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
+| 726 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
+| 727 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
 | 728 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 729 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.117.0` | x64 | ✅ | en-US |
 | 730 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37216.2` | x64 | ❌ | en-US |
@@ -1146,7 +1146,7 @@
 | 1138 | Plex | Plex Media Server | Plex Media Server (x64) | `1.43.1.10611` | x64 | ❌ | en-US |
 | 1139 | PolderValley | SelfGuide Recorder | SelfGuide Recorder | `1.177.0.0` | x64 | ❌ | en-US |
 | 1140 | Poll Everywhere | Poll Everywhere | Poll Everywhere | `4.3.2` | x86,x64 | ❌ | en-US |
-| 1141 | PortSwigger | Burp Suite Community Edition | Burp Suite Community Edition (x64) | `2026.3.2` | x64 | ✅ | en-US |
+| 1141 | PortSwigger | Burp Suite Community Edition | Burp Suite Community Edition (x64) | `2026.3.3` | x64 | ✅ | en-US |
 | 1142 | PortSwigger | Burp Suite Professional Edition | Burp Suite Professional Edition (x64) | `2026.3.2` | x64 | ✅ | en-US |
 | 1143 | Power BI ALM Toolkit | Power BI ALM Toolkit | Power BI ALM Toolkit | `5.1.20` | x64 | ❌ | en-US |
 | 1144 | PrinterLogic | PrinterLogic Printer Installer Client | Printer Installer Client | `25.1.0.1168` | x86,x64 | ❌ | en-US |
@@ -1411,7 +1411,7 @@
 | 1403 | Thycotic Software, LLC | Thycotic Application Control Agent | Thycotic Application Control Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
 | 1404 | Thycotic Software, LLC | Thycotic Directory Services Agent | Thycotic Directory Services Agent (x64) | `12.0.5041` | x64 | ❌ | en-US |
 | 1405 | Thycotic Software, LLC | Thycotic Local Security Agent | Thycotic Local Security Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
-| 1406 | Tidio | Tidio | Tidio | `5.5.0` | x64 | ❌ | en-US |
+| 1406 | Tidio | Tidio | Tidio | `5.6.0` | x64 | ❌ | en-US |
 | 1407 | TightVNC | TightVNC | TightVNC (x64) | `2.8.87.0` | x64 | ❌ | en-US |
 | 1408 | Topaz Systems, Inc. | Topaz SigPlusExtLite | Topaz SigPlusExtLite | `3.2.5.0` | x86,x64 | ❌ | en-US |
 | 1409 | TortoiseGit | TortoiseGit | TortoiseGit (x64) | `2.18.0.1` | x64 | ❌ | en-US |
@@ -1468,7 +1468,7 @@
 | 1460 | voidtools | voidtools Everything Lite | Everything Lite (MSI) (x64) | `1.4.1.1031` | x64 | ❌ | en-US |
 | 1461 | voidtools | voidtools Everything Lite | Everything Lite (EXE) (x64) | `1.4.1.1032` | x64 | ❌ | en-US |
 | 1462 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.112.01907` | x64 | ❌ | en-US |
-| 1463 | Waterfox | Waterfox | Waterfox | `6.6.11` | x64 | ❌ | en-US |
+| 1463 | Waterfox | Waterfox | Waterfox | `6.6.12` | x64 | ❌ | en-US |
 | 1464 | Waterfox | Waterfox Classic | Waterfox Classic | `2022.11` | x64 | ❌ | en-US |
 | 1465 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.4` | x86,x64 | ❌ | en-US |
 | 1466 | Webprofusion Pty Ltd | Certify The Web | Certify The Web | `6.1.0` | x64 | ❌ | en-US |
