@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 25 Apr 2026 08:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 15:09:01 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-04-29 15:09:01 — +0 added, −0 removed, ↺111 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Wed, 29 Apr 2026 15:09:01 +0000</pubDate>
+      <guid isPermaLink='false'>2026-04-29T15:09:01Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-04-29 15:09:01</p><p><strong>Compared to:</strong> 20260428_174044_AppCatalog.json (2026-04-28 17:40:44)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;111 updated</p><h3>Updated (111)</h3><ul><li>3Dconnexion UK — 3DxWare 10 &nbsp;<code>10.9.12.735</code> → <code>10.9.13.740</code></li><li>Abacus Research AG — AbaClient &nbsp;<code>4.0.1124</code> → <code>4.2.1165</code></li><li>Abacus Research AG — AbaClient &nbsp;<code>4.0.1124</code> → <code>4.2.1165</code></li><li>Abacus Research AG — AbaClient &nbsp;<code>4.0.1124</code> → <code>4.2.1165</code></li><li>Abacus Research AG — AbaClient &nbsp;<code>4.0.1124</code> → <code>4.2.1165</code></li><li>Amazon — AWS SAM command line interface &nbsp;<code>1.158.0</code> → <code>1.159.1</code></li><li>Amazon Web Services, Inc — Amazon Redshift ODBC driver &nbsp;<code>2.1.16.0</code> → <code>2.1.17.0</code></li><li>Articulate — Articulate 360 &nbsp;<code>1.115.36688.0</code> → <code>1.116.36776.0</code></li><li>Certum — proCertum SmartSign SimplySign Desktop &nbsp;<code>9.4.2.86</code> → <code>9.4.3.90</code></li><li>Eclipse Foundation — Eclipse Temurin JDK with Hotspot 11 (LTS) &nbsp;<code>11.0.30.7</code> → <code>11.0.31.11</code></li><li>Eclipse Foundation — Eclipse Temurin JDK with Hotspot 21 &nbsp;<code>21.0.10.7</code> → <code>21.0.11.10</code></li><li>Eclipse Foundation — Eclipse Temurin JRE with Hotspot 11 (LTS) &nbsp;<code>11.0.30.7</code> → <code>11.0.31.11</code></li><li>Evernote — Evernote &nbsp;<code>11.13.2</code> → <code>11.14.1</code></li><li>GitHub, Inc. — GitHub CLI &nbsp;<code>2.91.0</code> → <code>2.92.0</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>… and 91 more</li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-04-25 08:42:33 — +0 added, −0 removed, ↺18 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Sat, 25 Apr 2026 08:42:33 +0000</pubDate>
