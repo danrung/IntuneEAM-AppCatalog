@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 23 Apr 2026 01:52:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:23:30 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-04-24 09:23:30 — +0 added, −0 removed, ↺22 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Fri, 24 Apr 2026 09:23:30 +0000</pubDate>
+      <guid isPermaLink='false'>2026-04-24T09:23:30Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-04-24 09:23:30</p><p><strong>Compared to:</strong> 20260423_015244_AppCatalog.json (2026-04-23 01:52:44)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;22 updated</p><h3>Updated (22)</h3><ul><li>Akiflow — Akiflow &nbsp;<code>2.71.12</code> → <code>2.72.5</code></li><li>alfaview Gmbh — alfaview &nbsp;<code>9.26.4</code> → <code>9.26.6</code></li><li>Amazon — Amazon AWS VPN Client &nbsp;<code>5.3.4</code> → <code>5.3.3</code></li><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.44.83</code> → <code>1.44.84</code></li><li>Box — Box CLI &nbsp;<code>4.7.0</code> → <code>4.8.0</code></li><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.4.0.34620</code> → <code>46.4.0.34752</code></li><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.4.0.34620</code> → <code>46.4.0.34752</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.4.0.34620</code> → <code>46.4.0.34752</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.4.0.34620</code> → <code>46.4.0.34752</code></li><li>Devolutions inc — Devolutions Remote Desktop Manager &nbsp;<code>2026.1.18.0</code> → <code>2026.1.19.0</code></li><li>dRofus — dRofus &nbsp;<code>2.17.11.0</code> → <code>2.17.12.0</code></li><li>Duo Security Inc. — Duo Desktop &nbsp;<code>7.16.0.0</code> → <code>7.17.0.0</code></li><li>Formlabs — Preform &nbsp;<code>3.58.0</code> → <code>3.58.1</code></li><li>MongoDB Inc. — MongoDB Compass &nbsp;<code>1.49.4</code> → <code>1.49.5</code></li><li>MongoDB Inc. — MongoDB Compass Isolated Edition &nbsp;<code>1.49.4</code> → <code>1.49.5</code></li><li>MongoDB Inc. — MongoDB Compass Readonly Edition &nbsp;<code>1.49.4</code> → <code>1.49.5</code></li><li>Mozilla — Mozilla SeaMonkey &nbsp;<code>2.53.20</code> → <code>2.53.23</code></li><li>OpenVPN Technologies, Inc. — OpenVPN &nbsp;<code>2.7.101</code> → <code>2.7.201</code></li><li>Relux Informatik AG — ReluxDesktop &nbsp;<code>2026.1.4.0</code> → <code>2026.1.5.0</code></li><li>Siber Systems Inc — RoboForm &nbsp;<code>9.9.3.2</code> → <code>9.9.4.6</code></li><li>… and 2 more</li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-04-23 01:52:44 — +0 added, −0 removed, ↺13 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Thu, 23 Apr 2026 01:52:44 +0000</pubDate>
