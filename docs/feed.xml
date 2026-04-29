@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 24 Apr 2026 09:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 08:42:33 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-04-25 08:42:33 — +0 added, −0 removed, ↺18 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Sat, 25 Apr 2026 08:42:33 +0000</pubDate>
+      <guid isPermaLink='false'>2026-04-25T08:42:33Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-04-25 08:42:33</p><p><strong>Compared to:</strong> 20260424_092330_AppCatalog.json (2026-04-24 09:23:30)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;18 updated</p><h3>Updated (18)</h3><ul><li>Amazon Web Services — AWS Session Manager Plugin &nbsp;<code>1.2.804.0</code> → <code>1.2.814.0</code></li><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.44.84</code> → <code>1.44.85</code></li><li>Bizagi Limited — Galaxy Modeler &nbsp;<code>12.5.0</code> → <code>12.6.0</code></li><li>Bizagi Limited — Moon Modeler &nbsp;<code>12.5.0</code> → <code>12.6.0</code></li><li>code4ward.net e.U. — Royal TS 7 &nbsp;<code>7.04.50331.0</code> → <code>7.04.50424.0</code></li><li>CoolUtils — Mail Viewer &nbsp;<code>1.0.9600.39956</code> → <code>1.0.9610.34127</code></li><li>Datadog — Datadog Agent &nbsp;<code>7.78.0</code> → <code>7.78.1</code></li><li>Ideamerit s.r.o. — Luna Modeler &nbsp;<code>13.5.0</code> → <code>13.6.0</code></li><li>Ideamerit s.r.o. — Meteor Modeler &nbsp;<code>12.5.0</code> → <code>12.6.0</code></li><li>JetBrains — GoLand &nbsp;<code>2026.1</code> → <code>2026.1.1</code></li><li>JetBrains — WebStorm &nbsp;<code>2026.1</code> → <code>2026.1.1</code></li><li>Nagios Enterprises — NCPA &nbsp;<code>3.3.1</code> → <code>3.4.0</code></li><li>Oracle — Oracle MySQL Installer 8 &nbsp;<code>8.0.45.0</code> → <code>8.0.46.0</code></li><li>PortSwigger — Burp Suite Professional Edition &nbsp;<code>2026.3.2</code> → <code>2026.3.3</code></li><li>TablePlus, Inc — TablePlus &nbsp;<code>6.9.2</code> → <code>6.9.3</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0323</code> → <code>9.2.0390</code></li><li>Wazuh Inc. — Wazuh Agent &nbsp;<code>4.14.4</code> → <code>4.14.5</code></li><li>Zello Inc. — Zello &nbsp;<code>18.3.0.0</code> → <code>18.4.0.0</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-04-24 09:23:30 — +0 added, −0 removed, ↺22 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Fri, 24 Apr 2026 09:23:30 +0000</pubDate>
