@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260430_095935_AppCatalog.json` (exported 2026-04-30 09:59:35)  
-> **Generated:** 2026-04-30 10:00 UTC  
+> **Source:** `20260430_171015_AppCatalog.json` (exported 2026-04-30 17:10:15)  
+> **Generated:** 2026-04-30 17:10 UTC  
 > **Total:** 1,516 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -57,11 +57,11 @@
 | 49 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
 | 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.159.1` | x64 | ❌ | en-US |
 | 51 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.814.0` | x64 | ❌ | en-US |
-| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.44.87` | x64 | ❌ | en-US |
+| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.0` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 54 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.1.17.0` | x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.32.0.5813` | x64 | ❌ | en-US |
-| 56 | Andrew Ziem | BleachBit | BleachBit | `5.0.2` | x86,x64 | ❌ | en-US |
+| 56 | Andrew Ziem | BleachBit | BleachBit | `6.0.0` | x86,x64 | ❌ | en-US |
 | 57 | Android | Android Studio 2022 | Android Studio 2022 | `2022.3.1.22` | x64 | ❌ | en-US |
 | 58 | Android | Android Studio 3 | Android Studio 3 | `3.6.3.0` | x64 | ✅ | en-US |
 | 59 | Android | Android Studio 4 | Android Studio 4 | `4.2.2.0` | x64 | ✅ | en-US |
@@ -212,7 +212,7 @@
 | 204 | Charles Lechasseur | Path Copy Copy | Path Copy Copy | `20.0` | x64 | ❌ | en-US |
 | 205 | Chef Software, Inc. | Chef Workstation for Windows | Chef Workstation for Windows | `25.13.7` | x64 | ❌ | en-US |
 | 206 | Cisco Systems, Inc. | Cisco Jabber 14 | Cisco Jabber 14 | `15.0.1.59513` | x86,x64 | ✅ | en-US |
-| 207 | Cisco Systems, Inc. | Cisco Jabber 15 | Cisco Jabber 15 | `15.2.1.60627` | x86,x64 | ✅ | en-US |
+| 207 | Cisco Systems, Inc. | Cisco Jabber 15 | Cisco Jabber 15 | `15.2.2.60904` | x86,x64 | ✅ | en-US |
 | 208 | Cisco Systems, Inc. | Cisco JVDI Agent 12 | Cisco JVDI Agent 12 | `12.9.3.55062` | x86,x64 | ❌ | en-US |
 | 209 | Cisco Systems, Inc. | Cisco JVDI Agent 14 | Cisco JVDI Agent 14 | `14.3.1.58744` | x86,x64 | ❌ | en-US |
 | 210 | Cisco Systems, Inc. | Cisco JVDI Agent 15 | Cisco JVDI Agent 15 | `15.2.1.60904` | x86,x64 | ❌ | en-US |
@@ -233,7 +233,7 @@
 | 225 | Class Technologies, Inc. | Class | Class | `2.21.0` | x64 | ❌ | en-US |
 | 226 | Cloak Holdings LLC | Encrypt.me | Encrypt.me | `1.1.3.0` | x86,x64 | ✅ | en-US |
 | 227 | ClockAssist | ClockAssist | ClockAssist | `1.1.9447.22441` | x64 | ❌ | en-US |
-| 228 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.1.0` | x86,x64 | ❌ | en-US |
+| 228 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.2.0` | x86,x64 | ❌ | en-US |
 | 229 | Cloud Video | Pexip | Pexip | `3.0.14` | x86,x64 | ❌ | en-US |
 | 230 | Cloud Video | Pexip Infinity Connect | Pexip Infinity Connect | `1.13.2` | x86,x64 | ❌ | en-US |
 | 231 | Cloudflare, Inc. | Cloudflare WARP | Cloudflare WARP | `26.3.851.0` | x64 | ❌ | en-US |
@@ -267,7 +267,7 @@
 | 259 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.0.0` | x64 | ✅ | en-US |
 | 260 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.1.1` | x64 | ❌ | en-US |
 | 261 | Dedoose | Dedoose Desktop App | Dedoose Desktop App | `10.0.59` | x86,x64 | ❌ | en-US |
-| 262 | Delinea | Delinea Connection Manager | Delinea Connection Manager | `2.8.0.21` | x64 | ❌ | en-US |
+| 262 | Delinea | Delinea Connection Manager | Delinea Connection Manager | `2.8.3.7` | x64 | ❌ | en-US |
 | 263 | Dell, Inc. | Dell Command Update | Dell Command Update (x64) | `5.5.0` | x64 | ✅ | en-US |
 | 264 | Dell, Inc. | Dell Command Update (Windows Universal Application) | Dell Command Update (Windows Universal Application) | `5.5.0` | x64 | ✅ | en-US |
 | 265 | Dell, Inc. | Dell Display Manager | Dell Display Manager | `1.56.2110` | x86,x64 | ❌ | en-US |
@@ -276,8 +276,8 @@
 | 268 | Dell, Inc. | Dell SupportAssist | Dell SupportAssist for Business PCs (x64) | `4.5.3.25254` | x64 | ❌ | en-US |
 | 269 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
 | 270 | Dell, Inc. | RVTools | RVTools | `4.7.1` | x86,x64 | ❌ | en-US |
-| 271 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.18.0` | x64 | ✅ | en-US |
-| 272 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.18.0` | x64 | ✅ | en-US |
+| 271 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.19.0` | x64 | ✅ | en-US |
+| 272 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.19.0` | x64 | ✅ | en-US |
 | 273 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager | `2026.1.19.0` | x64 | ❌ | en-US |
 | 274 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.1.18.0` | x86,x64 | ❌ | en-US |
 | 275 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.2.0` | x64 | ❌ | en-US |
@@ -338,7 +338,7 @@
 | 330 | Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 7 | `7.17.29` | x64 | ❌ | en-US |
 | 331 | Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 8 | `8.19.14` | x64 | ❌ | en-US |
 | 332 | Elgato | Elgato Stream Deck | Elgato Stream Deck | `7.4.1.22720` | x64 | ❌ | en-US |
-| 333 | Enpass Technologies Inc. | Enpass | Enpass | `6.11.20.2229` | x86,x64 | ❌ | en-US |
+| 333 | Enpass Technologies Inc. | Enpass | Enpass | `6.11.21.2311` | x86,x64 | ❌ | en-US |
 | 334 | EnterpriseDB Corporation | EnterpriseDB Corporation PostgreSQL 12 | PostgreSQL 12 (x64) | `12.22.1` | x64 | ❌ | en-US |
 | 335 | EnterpriseDB Corporation | pgAdmin 4 | pgAdmin 4 | `9.14` | x64 | ❌ | en-US |
 | 336 | Ergo Pro Oy | BREAK PRO | BREAK PRO | `4.2.25.0` | x86,x64 | ❌ | en-US |
@@ -349,7 +349,7 @@
 | 341 | ESET | ESET Endpoint Security V12 | Endpoint Security V12 (x64) | `12.1.2057.3` | x64 | ❌ | en-US |
 | 342 | ESET | ESET Endpoint Security V9 | Endpoint Security V9 (x64) | `9.1.2071.0` | x64 | ❌ | en-US |
 | 343 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
-| 344 | Evernote | Evernote | Evernote | `11.14.1` | x64 | ✅ | en-US |
+| 344 | Evernote | Evernote | Evernote | `11.14.2` | x64 | ✅ | en-US |
 | 345 | Exacq Technologies | exacqVision Client | exacqVision Client (x64) | `26.0.3.0` | x64 | ❌ | en-US |
 | 346 | EZB Systems | EZB Systems UltraISO | UltraISO (English) | `9.7.6.3860` | x86,x64 | ❌ | en-US |
 | 347 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.70.035.016` | x64 | ❌ | en-US |
@@ -369,8 +369,8 @@
 | 361 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 362 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 363 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
-| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 366 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | mul |
 | 367 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.1.36485` | x64 | ✅ | en-US |
@@ -388,7 +388,7 @@
 | 380 | Freedom Scientific | JAWS | JAWS 2025 (x64) | `2025.2508.120.400` | x64 | ❌ | en-US |
 | 381 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.71.1` | x64 | ❌ | en-US |
 | 382 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (MSI) | `3.71.1` | x64 | ❌ | en-US |
-| 383 | Fujitsu Finland | mPollux DigiSign Client | mPollux DigiSign Client (x64) | `4.4.0.9052(DVV)` | x64 | ❌ | en-US |
+| 383 | Fujitsu Finland | mPollux DigiSign Client | mPollux DigiSign Client (x64) | `4.4.0.9060(DVV)` | x64 | ❌ | en-US |
 | 384 | FXHOME | FXHOME HitFilm Express | HitFilm Express | `18.0.12006.43385` | x64 | ❌ | en-US |
 | 385 | g10 Code GmbH | GnuPG VS-Desktop | GnuPG VS-Desktop | `3.2.2.0` | x64 | ❌ | en-US |
 | 386 | Gadwin Systems | Gadwin PrintScreen | Gadwin PrintScreen (64-Bit) | `6.5.0.0` | x64 | ❌ | en-US |
@@ -485,7 +485,7 @@
 | 477 | JetBrains | DataGrip 2022.2 | DataGrip 2022.2 (x64) | `2022.2.5` | x64 | ❌ | en-US |
 | 478 | JetBrains | DataGrip 2024.1 | DataGrip 2024.1 (x64) | `2024.1.5` | x64 | ❌ | en-US |
 | 479 | JetBrains | DataSpell | DataSpell 2025.2 (x64) | `2025.2.2` | x64 | ❌ | en-US |
-| 480 | JetBrains | DataSpell | DataSpell 2026.1 (x64) | `2026.1` | x64 | ❌ | en-US |
+| 480 | JetBrains | DataSpell | DataSpell 2026.1 (x64) | `2026.1.1` | x64 | ❌ | en-US |
 | 481 | JetBrains | DataSpell | DataSpell 2024.2 | `2024.2.3` | x64 | ❌ | en-US |
 | 482 | JetBrains | GoLand | GoLand 2025.2 (x64) | `2025.2.3` | x64 | ❌ | en-US |
 | 483 | JetBrains | GoLand | GoLand 2025.1 (x64) | `2025.1.5` | x64 | ❌ | en-US |
@@ -538,8 +538,8 @@
 | 530 | Lenovo Software | ThinkPad TrackPoint Keyboard II Software | ThinkPad TrackPoint Keyboard II Software | `1.0.8.6241` | x86,x64 | ❌ | en-US |
 | 531 | Lifelong Kindergarten Group | Lifelong Kindergarten Group Scratch | Scratch | `3.29.1` | x86,x64 | ❌ | en-US |
 | 532 | LINQPad | LINQPad 5 | LINQPad 5 | `5.52.1` | x86,x64 | ❌ | en-US |
-| 533 | LiquidFiles Pty Ltd | LiquidFiles Outlook Plugin | LiquidFiles Outlook Plugin (User) | `3.0.37` | x86,x64 | ❌ | en-US |
-| 534 | LiquidFiles Pty Ltd | LiquidFiles Outlook Plugin | LiquidFiles Outlook Plugin (Admin) | `3.0.37` | x86,x64 | ❌ | en-US |
+| 533 | LiquidFiles Pty Ltd | LiquidFiles Outlook Plugin | LiquidFiles Outlook Plugin (Admin) | `3.0.51` | x86,x64 | ❌ | en-US |
+| 534 | LiquidFiles Pty Ltd | LiquidFiles Outlook Plugin | LiquidFiles Outlook Plugin (User) | `3.0.51` | x86,x64 | ❌ | en-US |
 | 535 | Liquit Software B.V. | Liquit Workspace Agent 3 | Liquit Workspace Agent 3 | `3.10.3573.5871` | x86,x64 | ❌ | en-US |
 | 536 | loft | DevPod | DevPod | `0.6.15` | x64 | ❌ | en-US |
 | 537 | Logitech | Logi Tune | Logi Tune | `3.13.138.0` | x64 | ❌ | en-US |
@@ -607,7 +607,7 @@
 | 599 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 21H2 | `2.0` | x86,x64 | ❌ | en-US |
 | 600 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1607 | `2.0.1607` | x86,x64 | ❌ | en-US |
 | 601 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 22H2 | `1.0` | x86,x64 | ❌ | en-US |
-| 602 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.9.0` | x64 | ❌ | en-US |
+| 602 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.10.0` | x64 | ❌ | en-US |
 | 603 | Microsoft | Fuzzy Lookup Add-In For Excel | Fuzzy Lookup Add-In For Excel | `1.3.0.0` | x86,x64 | ❌ | en-US |
 | 604 | Microsoft | Hanword HWP document converter for Microsoft Word 2016 | Hanword HWP document converter for Microsoft Word 2016 (x64) | `16.0.4288.1000` | x64 | ❌ | en-US |
 | 605 | Microsoft | Local Administrator Password Solution | Local Administrator Password Solution (x64) | `6.2.0.0` | x64 | ❌ | en-US |
@@ -672,7 +672,7 @@
 | 664 | Microsoft | Microsoft PowerShell Core | PowerShell Core 6.2 (x64) | `6.2.4` | x64 | ❌ | en-US |
 | 665 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.5 (x64) | `7.5.4` | x64 | ❌ | en-US |
 | 666 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.4 (x64) | `7.4.13` | x64 | ❌ | en-US |
-| 667 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.99.0` | x64 | ✅ | en-US |
+| 667 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.99.1` | x64 | ✅ | en-US |
 | 668 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.99.1` | x64 | ✅ | en-US |
 | 669 | Microsoft | Microsoft Purview Information Protection client | Purview Information Protection client | `3.1.310.0` | x86,x64 | ❌ | en-US |
 | 670 | Microsoft | Microsoft Remote Desktop WebRTC Redirector | Remote Desktop WebRTC Redirector | `1.54.2408.19001` | x64 | ❌ | en-US |
@@ -734,7 +734,7 @@
 | 726 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 727 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
 | 728 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 729 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.117.0` | x64 | ✅ | en-US |
+| 729 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.118.1` | x64 | ✅ | en-US |
 | 730 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37216.2` | x64 | ❌ | en-US |
 | 731 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 732 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -1172,31 +1172,31 @@
 | 1164 | Rainmeter | Rainmeter | Rainmeter | `4.5.23.3836` | x64 | ❌ | en-US |
 | 1165 | Raising the Floor – US inc. | Morphic | Morphic | `1.10.25153.2` | x64 | ❌ | en-US |
 | 1166 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23081` | x86,x64 | ❌ | en-US |
-| 1167 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.20` | x64 | ❌ | bg |
-| 1168 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.21` | x64 | ❌ | en-US |
-| 1169 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.20` | x64 | ❌ | de |
-| 1170 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.20` | x64 | ❌ | zh-TW |
-| 1171 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.13` | x64 | ❌ | vi |
-| 1172 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.20` | x64 | ❌ | pl |
-| 1173 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.20` | x64 | ❌ | da |
-| 1174 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.20` | x64 | ❌ | ar |
-| 1175 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.20` | x64 | ❌ | it |
-| 1176 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.20` | x64 | ❌ | sk |
+| 1167 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.21` | x64 | ❌ | en-US |
+| 1168 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.13` | x64 | ❌ | vi |
+| 1169 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.20` | x64 | ❌ | pl |
+| 1170 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.20` | x64 | ❌ | da |
+| 1171 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.20` | x64 | ❌ | ar |
+| 1172 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.21` | x64 | ❌ | de |
+| 1173 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.20` | x64 | ❌ | it |
+| 1174 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.20` | x64 | ❌ | sk |
+| 1175 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.21` | x64 | ❌ | sv |
+| 1176 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.21` | x64 | ❌ | zh-TW |
 | 1177 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.20` | x64 | ❌ | fr |
 | 1178 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.20` | x64 | ❌ | ja |
-| 1179 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.20` | x64 | ❌ | sl |
-| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
-| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.13` | x64 | ❌ | cs |
-| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.20` | x64 | ❌ | ru |
-| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.20` | x64 | ❌ | th |
-| 1184 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.20` | x64 | ❌ | es |
-| 1185 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.20` | x64 | ❌ | fi |
-| 1186 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
-| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.20` | x64 | ❌ | nl |
-| 1188 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.21` | x64 | ❌ | en-US |
-| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.13` | x64 | ❌ | ko |
-| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
-| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.20` | x64 | ❌ | sv |
+| 1179 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.21` | x64 | ❌ | bg |
+| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.20` | x64 | ❌ | sl |
+| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.21` | x64 | ❌ | es |
+| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
+| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.13` | x64 | ❌ | cs |
+| 1184 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.20` | x64 | ❌ | ru |
+| 1185 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.20` | x64 | ❌ | th |
+| 1186 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.20` | x64 | ❌ | fi |
+| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
+| 1188 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.20` | x64 | ❌ | nl |
+| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.21` | x64 | ❌ | en-US |
+| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.13` | x64 | ❌ | ko |
+| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
 | 1192 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
 | 1193 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.13` | x64 | ❌ | sr |
 | 1194 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.20` | x64 | ❌ | zh-CN |
@@ -1479,7 +1479,7 @@
 | 1471 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.3.0` | x86,x64 | ❌ | en-US |
 | 1472 | WinDirStat Team | WinDirStat | WinDirStat (x64) | `2.2.2` | x64 | ❌ | en-US |
 | 1473 | WireGuard LLC | WireGuard | WireGuard (x64) | `0.5.3` | x64 | ❌ | en-US |
-| 1474 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.14` | x64 | ❌ | en-US |
+| 1474 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.15` | x64 | ❌ | en-US |
 | 1475 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.4` | x64 | ❌ | en-US |
 | 1476 | WiX Toolset | WiX Toolset 3 | WiX Toolset 3 | `3.14` | x86,x64 | ❌ | en-US |
 | 1477 | Wonder Unit Inc. | Storyboarder | Storyboarder | `3.0.0` | x64 | ❌ | en-US |
