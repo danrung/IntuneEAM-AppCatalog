@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 29 Apr 2026 17:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:07:38 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-04-30 02:07:38 — +0 added, −0 removed, ↺17 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Thu, 30 Apr 2026 02:07:38 +0000</pubDate>
+      <guid isPermaLink='false'>2026-04-30T02:07:38Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-04-30 02:07:38</p><p><strong>Compared to:</strong> 20260429_171906_AppCatalog.json (2026-04-29 17:19:06)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;17 updated</p><h3>Updated (17)</h3><ul><li>Bizagi Limited — Galaxy Modeler &nbsp;<code>12.6.0</code> → <code>12.6.1</code></li><li>Bizagi Limited — Moon Modeler &nbsp;<code>12.6.0</code> → <code>12.6.1</code></li><li>Cisco Systems, Inc. — Cisco JVDI Agent 15 &nbsp;<code>15.2.0.310459</code> → <code>15.2.1.60904</code></li><li>Cockos Incorporated — REAPER &nbsp;<code>7.69</code> → <code>7.70</code></li><li>Datadog — Datadog Agent &nbsp;<code>7.78.1</code> → <code>7.78.2</code></li><li>GFI Software — Kerio Connect &nbsp;<code>10.0.9.9754</code> → <code>10.0.9.10051</code></li><li>Ideamerit s.r.o. — Luna Modeler &nbsp;<code>13.6.0</code> → <code>13.6.1</code></li><li>Ideamerit s.r.o. — Meteor Modeler &nbsp;<code>12.6.0</code> → <code>12.6.1</code></li><li>Jan de Dobbeleer — Oh My Posh &nbsp;<code>29.11.0</code> → <code>29.12.0</code></li><li>LogMeIn — LogMeIn Client &nbsp;<code>1.3.5671</code> → <code>1.3.5676</code></li><li>LogMeIn — LogMeIn Host &nbsp;<code>4.1.16162</code> → <code>4.1.16174</code></li><li>Microsoft — Microsoft PowerToys &nbsp;<code>0.99.0</code> → <code>0.99.1</code></li><li>Proton AG — Proton VPN &nbsp;<code>4.3.13</code> → <code>4.3.14</code></li><li>Rarlab — Rarlab WinRAR &nbsp;<code>7.20</code> → <code>7.21</code></li><li>Rarlab — Rarlab WinRAR &nbsp;<code>7.20</code> → <code>7.21</code></li><li>Rarlab — Rarlab WinRAR &nbsp;<code>7.20</code> → <code>7.21</code></li><li>Viewer Central — Project Viewer 365 &nbsp;<code>26.4.1290</code> → <code>26.12.1292</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-04-29 17:19:06 — +0 added, −0 removed, ↺0 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Wed, 29 Apr 2026 17:19:06 +0000</pubDate>

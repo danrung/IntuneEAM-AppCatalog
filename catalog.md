@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260429_171906_AppCatalog.json` (exported 2026-04-29 17:19:06)  
-> **Generated:** 2026-04-29 17:19 UTC  
+> **Source:** `20260430_020738_AppCatalog.json` (exported 2026-04-30 02:07:38)  
+> **Generated:** 2026-04-30 02:08 UTC  
 > **Total:** 1,516 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -162,8 +162,8 @@
 | 154 | Binary Fortress Software | ClipboardFusion | ClipboardFusion | `6.3` | x64 | ❌ | en-US |
 | 155 | Binary Fortress Software | CloudShow | CloudShow (x64) | `6.6.0.0` | x64 | ❌ | en-US |
 | 156 | Binary Fortress Software | HashTools | HashTools | `4.8.2` | x64 | ✅ | en-US |
-| 157 | Bizagi Limited | Galaxy Modeler | Galaxy Modeler | `12.6.0` | x64 | ❌ | en-US |
-| 158 | Bizagi Limited | Moon Modeler | Moon Modeler | `12.6.0` | x64 | ❌ | en-US |
+| 157 | Bizagi Limited | Galaxy Modeler | Galaxy Modeler | `12.6.1` | x64 | ❌ | en-US |
+| 158 | Bizagi Limited | Moon Modeler | Moon Modeler | `12.6.1` | x64 | ❌ | en-US |
 | 159 | Blender Foundation | Blender | Blender 3.4 (x64) | `3.4.1` | x64 | ❌ | en-US |
 | 160 | Blender Foundation | Blender | Blender 5.0 (x64) | `5.0.1` | x64 | ❌ | en-US |
 | 161 | Blender Foundation | Blender | Blender 3.1 (x64) | `3.1.2` | x64 | ❌ | en-US |
@@ -215,7 +215,7 @@
 | 207 | Cisco Systems, Inc. | Cisco Jabber 15 | Cisco Jabber 15 | `15.2.1.60627` | x86,x64 | ✅ | en-US |
 | 208 | Cisco Systems, Inc. | Cisco JVDI Agent 12 | Cisco JVDI Agent 12 | `12.9.3.55062` | x86,x64 | ❌ | en-US |
 | 209 | Cisco Systems, Inc. | Cisco JVDI Agent 14 | Cisco JVDI Agent 14 | `14.3.1.58744` | x86,x64 | ❌ | en-US |
-| 210 | Cisco Systems, Inc. | Cisco JVDI Agent 15 | Cisco JVDI Agent 15 | `15.2.0.310459` | x86,x64 | ❌ | en-US |
+| 210 | Cisco Systems, Inc. | Cisco JVDI Agent 15 | Cisco JVDI Agent 15 | `15.2.1.60904` | x86,x64 | ❌ | en-US |
 | 211 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.4.0.34752` | x64 | ✅ | en-US |
 | 212 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.4.0.34752` | x64 | ✅ | en-US |
 | 213 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.4.0.34752` | x64 | ✅ | en-US |
@@ -237,7 +237,7 @@
 | 229 | Cloud Video | Pexip | Pexip | `3.0.14` | x86,x64 | ❌ | en-US |
 | 230 | Cloud Video | Pexip Infinity Connect | Pexip Infinity Connect | `1.13.2` | x86,x64 | ❌ | en-US |
 | 231 | Cloudflare, Inc. | Cloudflare WARP | Cloudflare WARP | `26.3.851.0` | x64 | ❌ | en-US |
-| 232 | Cockos Incorporated | REAPER | REAPER (x64) | `7.69` | x64 | ❌ | en-US |
+| 232 | Cockos Incorporated | REAPER | REAPER (x64) | `7.70` | x64 | ❌ | en-US |
 | 233 | Code Sector | Teracopy for Windows | Teracopy for Windows | `3.17` | x64 | ❌ | en-US |
 | 234 | code4ward.net e.U. | Royal TS 5 | Royal TS 5 | `5.04.60415.0` | x86,x64 | ✅ | en-US |
 | 235 | code4ward.net e.U. | Royal TS 6 | Royal TS 6 | `6.01.61019.0` | x64 | ✅ | en-US |
@@ -257,7 +257,7 @@
 | 249 | Daiyuu Nobori, University of Tsukuba, Japan | Win10Pcap | Win10Pcap | `10.2.5002` | x86,x64 | ❌ | en-US |
 | 250 | Dane Prairie Systems | Dane Prairie Systems Win2PDF | Win2PDF | `11.0.8.1` | x64 | ❌ | en-US |
 | 251 | Daniel Girardeau-Montaut | CloudCompare | CloudCompare (x64) | `2.13.2` | x64 | ❌ | en-US |
-| 252 | Datadog | Datadog Agent | Datadog Agent | `7.78.1` | x64 | ❌ | en-US |
+| 252 | Datadog | Datadog Agent | Datadog Agent | `7.78.2` | x64 | ❌ | en-US |
 | 253 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.4.1.44384` | x64 | ❌ | en-US |
 | 254 | DAX Studio | DAX Studio | DAX Studio | `3.5.1.1188` | x64 | ❌ | en-US |
 | 255 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
@@ -404,7 +404,7 @@
 | 396 | Genesys | Genesys Cloud Background Assistant | Genesys Cloud Background Assistant | `1.6.436` | x86,x64 | ❌ | en-US |
 | 397 | Gephi | Gephi | Gephi (x64) | `0.10.1` | x64 | ❌ | en-US |
 | 398 | Gerardo Grignoli | gsudo | gsudo (x64) | `2.6.1` | x64 | ❌ | en-US |
-| 399 | GFI Software | Kerio Connect | Kerio Connect | `10.0.9.9754` | x64 | ❌ | en-US |
+| 399 | GFI Software | Kerio Connect | Kerio Connect | `10.0.9.10051` | x64 | ❌ | en-US |
 | 400 | GIMP | GIMP | GIMP | `3.2.4.0` | x64 | ❌ | en-US |
 | 401 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.92.0` | x64 | ❌ | en-US |
 | 402 | GlavSoft LLC | Remote Ripple | Remote Ripple | `1.2.0` | x64 | ❌ | en-US |
@@ -443,8 +443,8 @@
 | 435 | IAM Technology Group Ltd | Cloud Drive Mapper | Cloud Drive Mapper 2 | `2.25.0.1` | x64 | ❌ | en-US |
 | 436 | IBM | IBM Aspera Connect | Aspera Connect | `4.2.19.956` | x64 | ❌ | en-US |
 | 437 | Iceni Technology Ltd. | Infix PDF Editor | Infix PDF Editor | `7.7.0.0` | x86,x64 | ❌ | en-US |
-| 438 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `13.6.0` | x64 | ❌ | en-US |
-| 439 | Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `12.6.0` | x64 | ❌ | en-US |
+| 438 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `13.6.1` | x64 | ❌ | en-US |
+| 439 | Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `12.6.1` | x64 | ❌ | en-US |
 | 440 | IDM Computer Solutions | UEStudio | UEStudio | `25.2.24` | x64 | ❌ | en-US |
 | 441 | IDM Computer Solutions | UltraCompare | UltraCompare (x64) | `24.1.5` | x64 | ❌ | en-US |
 | 442 | IDM Computer Solutions | UltraFinder | UltraFinder | `24.0.14` | x64 | ❌ | en-US |
@@ -470,7 +470,7 @@
 | 462 | iterate GmbH | Cyberduck CLI | Cyberduck CLI | `9.4.1.44384` | x64 | ✅ | en-US |
 | 463 | Ivo Beltchev | Classic Shell | Classic Shell (x64) | `4.3.1` | x64 | ❌ | en-US |
 | 464 | JAM Software GmbH | JAM Software TreeSize Free | TreeSize Free | `4.8.1.610` | x64 | ✅ | en-US |
-| 465 | Jan de Dobbeleer | Oh My Posh | Oh My Posh (x64) | `29.11.0` | x64 | ❌ | en-US |
+| 465 | Jan de Dobbeleer | Oh My Posh | Oh My Posh (x64) | `29.12.0` | x64 | ❌ | en-US |
 | 466 | Jan Fiala | PSPad | PSPad (x64) | `5.5.1.825` | x64 | ❌ | en-US |
 | 467 | JetBrains | DataGrip | DataGrip 2025.3 (x64) | `2025.3.5` | x64 | ❌ | en-US |
 | 468 | JetBrains | DataGrip | DataGrip 2026.1 (x64) | `2026.1.2` | x64 | ❌ | en-US |
@@ -549,11 +549,11 @@
 | 541 | Logitech | Logitech Presentation | Logitech Presentation | `2.10.34` | x64 | ❌ | en-US |
 | 542 | Logitech | Logitech SetPoint | Logitech SetPoint (x64) | `6.90.66` | x64 | ❌ | en-US |
 | 543 | Logitech | Logitech Sync App | Logitech Sync App | `3.9.322` | x86,x64 | ❌ | en-US |
-| 544 | LogMeIn | LogMeIn Client | LogMeIn Client | `1.3.5671` | x86,x64 | ❌ | en-US |
+| 544 | LogMeIn | LogMeIn Client | LogMeIn Client | `1.3.5676` | x86,x64 | ❌ | en-US |
 | 545 | LogMeIn | LogMeIn GoToMeeting IT Installer | GoToMeeting IT Installer | `10.19.19950` | x86,x64 | ✅ | en-US |
 | 546 | LogMeIn | LogMeIn GoToMeeting multi-build Installer | GoToMeeting multi-build Installer | `10.19.19950` | x86,x64 | ❌ | en-US |
 | 547 | LogMeIn | LogMeIn Hamachi | LogMeIn Hamachi | `2.4.0.23` | x86,x64 | ❌ | en-US |
-| 548 | LogMeIn | LogMeIn Host | LogMeIn Host | `4.1.16162` | x86,x64 | ❌ | en-US |
+| 548 | LogMeIn | LogMeIn Host | LogMeIn Host | `4.1.16174` | x86,x64 | ❌ | en-US |
 | 549 | LogMeIn | LogMeIn RemotelyAnywhere | RemotelyAnywhere | `12.4.5378` | x86,x64 | ❌ | en-US |
 | 550 | Lucanet AG | LucaNet.Excel-Add-In | LucaNet.Excel-Add-In 12 LTS | `19.11.7.1245` | x64 | ❌ | en-US |
 | 551 | Lucanet AG | LucaNet.Excel-Add-In | LucaNet.Excel-Add-In 11 LTS | `18.11.27.1216` | x64 | ❌ | en-US |
@@ -673,7 +673,7 @@
 | 665 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.5 (x64) | `7.5.4` | x64 | ❌ | en-US |
 | 666 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.4 (x64) | `7.4.13` | x64 | ❌ | en-US |
 | 667 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.99.0` | x64 | ✅ | en-US |
-| 668 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.99.0` | x64 | ✅ | en-US |
+| 668 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.99.1` | x64 | ✅ | en-US |
 | 669 | Microsoft | Microsoft Purview Information Protection client | Purview Information Protection client | `3.1.310.0` | x86,x64 | ❌ | en-US |
 | 670 | Microsoft | Microsoft Remote Desktop WebRTC Redirector | Remote Desktop WebRTC Redirector | `1.54.2408.19001` | x64 | ❌ | en-US |
 | 671 | Microsoft | Microsoft Remote Help | Remote Help | `5.1.1998.0` | x64 | ✅ | en-US |
@@ -1152,7 +1152,7 @@
 | 1144 | PrinterLogic | PrinterLogic Printer Installer Client | Printer Installer Client | `25.1.0.1168` | x86,x64 | ❌ | en-US |
 | 1145 | Privado Networks AG | PrivadoVPN | PrivadoVPN | `4.0.0.0` | x86,x64 | ❌ | en-US |
 | 1146 | Private Internet Access Inc. | Private Internet Access | Private Internet Access (x64) | `3.7.2` | x64 | ❌ | en-US |
-| 1147 | Proton AG | Proton VPN | Proton VPN (x64) | `4.3.13` | x64 | ❌ | en-US |
+| 1147 | Proton AG | Proton VPN | Proton VPN (x64) | `4.3.14` | x64 | ❌ | en-US |
 | 1148 | PURSLANE | RustDesk | RustDesk | `1.3.8` | x64 | ❌ | en-US |
 | 1149 | Python Software Foundation | Python 3.10 | Python 3.10 (x64) | `3.10.11150.0` | x64 | ❌ | en-US |
 | 1150 | Python Software Foundation | Python 3.11 | Python 3.11 (x64) | `3.11.9150.0` | x64 | ❌ | en-US |
@@ -1172,8 +1172,8 @@
 | 1164 | Rainmeter | Rainmeter | Rainmeter | `4.5.23.3836` | x64 | ❌ | en-US |
 | 1165 | Raising the Floor – US inc. | Morphic | Morphic | `1.10.25153.2` | x64 | ❌ | en-US |
 | 1166 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23081` | x86,x64 | ❌ | en-US |
-| 1167 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.20` | x64 | ❌ | en-US |
-| 1168 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.20` | x64 | ❌ | bg |
+| 1167 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.20` | x64 | ❌ | bg |
+| 1168 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.21` | x64 | ❌ | en-US |
 | 1169 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.20` | x64 | ❌ | de |
 | 1170 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.20` | x64 | ❌ | zh-TW |
 | 1171 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.13` | x64 | ❌ | vi |
@@ -1185,16 +1185,16 @@
 | 1177 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.20` | x64 | ❌ | sv |
 | 1178 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.20` | x64 | ❌ | fr |
 | 1179 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.20` | x64 | ❌ | ja |
-| 1180 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.20` | x64 | ❌ | en-US |
-| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.20` | x64 | ❌ | sl |
-| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.20` | x64 | ❌ | hu |
-| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
-| 1184 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.13` | x64 | ❌ | cs |
-| 1185 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.20` | x64 | ❌ | ru |
-| 1186 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.20` | x64 | ❌ | th |
-| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.20` | x64 | ❌ | es |
-| 1188 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.20` | x64 | ❌ | fi |
-| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.20` | x64 | ❌ | nl |
+| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.20` | x64 | ❌ | sl |
+| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
+| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.13` | x64 | ❌ | cs |
+| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.20` | x64 | ❌ | ru |
+| 1184 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.20` | x64 | ❌ | th |
+| 1185 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.20` | x64 | ❌ | es |
+| 1186 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.20` | x64 | ❌ | fi |
+| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
+| 1188 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.20` | x64 | ❌ | nl |
+| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.21` | x64 | ❌ | en-US |
 | 1190 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.13` | x64 | ❌ | ko |
 | 1191 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
 | 1192 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
@@ -1441,7 +1441,7 @@
 | 1433 | Verbi GmbH | MAXQDA 2020 Reader | MAXQDA 2020 Reader | `20.4.1` | x64 | ❌ | en-US |
 | 1434 | VEX Robotics | VEXcode IQ 3 | VEXcode IQ 3 | `3.0.4.1` | x86,x64 | ❌ | en-US |
 | 1435 | VEX Robotics | VEXcode V5 | VEXcode V5 | `3.0.4.3` | x86,x64 | ❌ | en-US |
-| 1436 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.4.1290` | x86,x64 | ❌ | en-US |
+| 1436 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
 | 1437 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.6` | x64 | ❌ | en-US |
 | 1438 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.4` | x86,x64 | ❌ | en-US |
 | 1439 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0390` | x64 | ❌ | en-US |
