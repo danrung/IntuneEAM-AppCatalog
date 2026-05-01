@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260430_171015_AppCatalog.json` (exported 2026-04-30 17:10:15)  
-> **Generated:** 2026-04-30 17:10 UTC  
+> **Source:** `20260501_021102_AppCatalog.json` (exported 2026-05-01 02:11:02)  
+> **Generated:** 2026-05-01 02:11 UTC  
 > **Total:** 1,516 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -235,7 +235,7 @@
 | 227 | ClockAssist | ClockAssist | ClockAssist | `1.1.9447.22441` | x64 | ❌ | en-US |
 | 228 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.2.0` | x86,x64 | ❌ | en-US |
 | 229 | Cloud Video | Pexip | Pexip | `3.0.14` | x86,x64 | ❌ | en-US |
-| 230 | Cloud Video | Pexip Infinity Connect | Pexip Infinity Connect | `1.13.2` | x86,x64 | ❌ | en-US |
+| 230 | Cloud Video | Pexip Infinity Connect | Pexip Infinity Connect | `1.14.0` | x86,x64 | ❌ | en-US |
 | 231 | Cloudflare, Inc. | Cloudflare WARP | Cloudflare WARP | `26.3.851.0` | x64 | ❌ | en-US |
 | 232 | Cockos Incorporated | REAPER | REAPER (x64) | `7.70` | x64 | ❌ | en-US |
 | 233 | Code Sector | Teracopy for Windows | Teracopy for Windows | `3.17` | x64 | ❌ | en-US |
@@ -369,8 +369,8 @@
 | 361 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 362 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 363 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
-| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
 | 366 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | mul |
 | 367 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.1.36485` | x64 | ✅ | en-US |
@@ -415,8 +415,8 @@
 | 407 | Google | Google Chrome for Business | Chrome for Business 64-bit | `147.0.7727.56` | x64 | ✅ | en-US |
 | 408 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `148.0.7778.23` | x86,x64 | ❌ | en-US |
 | 409 | Google | Google Credential Provider for Windows | Google Credential Provider for Windows (x64) | `138.0.7204.26` | x64 | ❌ | en-US |
-| 410 | Google | Google Drive | Google Drive | `123.0.1.0` | x64 | ✅ | en-US |
-| 411 | Google | Google Drive File Stream | Google Drive File Stream | `123.0.1.0` | x64 | ❌ | en-US |
+| 410 | Google | Google Drive | Google Drive | `124.0.3.0` | x64 | ✅ | en-US |
+| 411 | Google | Google Drive File Stream | Google Drive File Stream | `124.0.3.0` | x64 | ❌ | en-US |
 | 412 | Google | Google Go Programming Language 1.16 | Go Programming Language 1.16 (x64) | `1.16.15` | x64 | ❌ | en-US |
 | 413 | Google | Google Go Programming Language 1.17 | Go Programming Language 1.17 (x64) | `1.17.13` | x64 | ❌ | en-US |
 | 414 | Google | Google Go Programming Language 1.18 | Go Programming Language 1.18 (x64) | `1.18.10` | x64 | ❌ | en-US |
@@ -1283,7 +1283,7 @@
 | 1275 | Softerra | Softerra LDAP Browser | LDAP Browser - English (x64) | `4.5.19808.0` | x64 | ❌ | en-US |
 | 1276 | SoftFever | OrcaSlicer | OrcaSlicer | `2.3.2` | x64 | ❌ | en-US |
 | 1277 | Softland | Softland doPDF | doPDF | `11.9.523` | x64 | ❌ | en-US |
-| 1278 | SolarWinds | SolarWinds Orion SDK | SolarWinds Orion SDK (x64) | `3.2.0.50065` | x64 | ❌ | en-US |
+| 1278 | SolarWinds | SolarWinds Orion SDK | SolarWinds Orion SDK (x64) | `3.3.0.50070` | x64 | ❌ | en-US |
 | 1279 | SonicWall | SonicWall Connect Tunnel | SonicWall Connect Tunnel (x64) | `12.5.0.221` | x64 | ❌ | en-US |
 | 1280 | SonicWall | SonicWall NetExtender | SonicWall NetExtender (x64) | `10.3.4` | x64 | ❌ | en-US |
 | 1281 | Sophos | Sophos Connect | Sophos Connect | `2.3.3003.0207` | x86,x64 | ❌ | en-US |
