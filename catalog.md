@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260501_164553_AppCatalog.json` (exported 2026-05-01 16:45:53)  
-> **Generated:** 2026-05-01 16:46 UTC  
+> **Source:** `20260502_015830_AppCatalog.json` (exported 2026-05-02 01:58:30)  
+> **Generated:** 2026-05-02 01:58 UTC  
 > **Total:** 1,522 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -369,8 +369,8 @@
 | 361 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 362 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 363 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
-| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
 | 366 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | mul |
 | 367 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.1.36485` | x64 | ✅ | en-US |
@@ -1178,33 +1178,33 @@
 | 1170 | Rainmeter | Rainmeter | Rainmeter | `4.5.23.3836` | x64 | ❌ | en-US |
 | 1171 | Raising the Floor – US inc. | Morphic | Morphic | `1.10.25153.2` | x64 | ❌ | en-US |
 | 1172 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23081` | x86,x64 | ❌ | en-US |
-| 1173 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.21` | x64 | ❌ | ko |
-| 1174 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.21` | x64 | ❌ | th |
-| 1175 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.21` | x64 | ❌ | en-US |
+| 1173 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.22` | x64 | ❌ | en-US |
+| 1174 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.21` | x64 | ❌ | ru |
+| 1175 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.22` | x64 | ❌ | sv |
 | 1176 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.20` | x64 | ❌ | pl |
-| 1177 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.21` | x64 | ❌ | de |
-| 1178 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.21` | x64 | ❌ | fi |
+| 1177 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.22` | x64 | ❌ | fi |
+| 1178 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.21` | x64 | ❌ | de |
 | 1179 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.20` | x64 | ❌ | it |
 | 1180 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.20` | x64 | ❌ | sk |
-| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.21` | x64 | ❌ | uk |
-| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.21` | x64 | ❌ | sv |
+| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
+| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.22` | x64 | ❌ | ko |
 | 1183 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.21` | x64 | ❌ | zh-TW |
 | 1184 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.21` | x64 | ❌ | zh-CN |
 | 1185 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.20` | x64 | ❌ | fr |
 | 1186 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.20` | x64 | ❌ | ja |
-| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.21` | x64 | ❌ | ar |
+| 1187 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.22` | x64 | ❌ | en-US |
 | 1188 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.21` | x64 | ❌ | bg |
-| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.21` | x64 | ❌ | es |
-| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
-| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.21` | x64 | ❌ | vi |
+| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.22` | x64 | ❌ | ar |
+| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.21` | x64 | ❌ | es |
+| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
 | 1192 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.13` | x64 | ❌ | cs |
-| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.20` | x64 | ❌ | ru |
-| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
-| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.20` | x64 | ❌ | nl |
-| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.21` | x64 | ❌ | en-US |
-| 1197 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.21` | x64 | ❌ | sl |
-| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
-| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.21` | x64 | ❌ | da |
+| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.22` | x64 | ❌ | da |
+| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.22` | x64 | ❌ | th |
+| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
+| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
+| 1197 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.20` | x64 | ❌ | nl |
+| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.21` | x64 | ❌ | sl |
+| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
 | 1200 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
 | 1201 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.13` | x64 | ❌ | sr |
 | 1202 | Raspberry Pi Ltd | Raspberry Pi Imager | Raspberry Pi Imager | `2.0.4` | x64 | ❌ | en-US |
@@ -1281,7 +1281,7 @@
 | 1273 | SMath LLC | SMath Studio | SMath Studio | `1.3.0-9126` | x86,x64 | ❌ | en-US |
 | 1274 | Snapmaker | Snapmaker Luban | Snapmaker Luban (x64) | `4.15.0` | x64 | ❌ | en-US |
 | 1275 | SnelStart | SnelStart | SnelStart | `12.195.36` | x86,x64 | ❌ | nl |
-| 1276 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.0` | x64 | ❌ | en-US |
+| 1276 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.1` | x64 | ❌ | en-US |
 | 1277 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `6.5.0` | x64 | ❌ | en-US |
 | 1278 | Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.22.27007.0` | x64 | ❌ | de |
 | 1279 | Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.22.27007.0` | x64 | ❌ | en-US |
@@ -1505,7 +1505,7 @@
 | 1497 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.3.3` | x64 | ❌ | en-US |
 | 1498 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
 | 1499 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.1` | x64 | ❌ | en-US |
-| 1500 | Zandar Labs SL | Aptakube | Aptakube | `1.16.3` | x64 | ❌ | en-US |
+| 1500 | Zandar Labs SL | Aptakube | Aptakube | `1.16.4` | x64 | ❌ | en-US |
 | 1501 | Zello Inc. | Zello | Zello | `18.4.0.0` | x64 | ❌ | en-US |
 | 1502 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 5 | `5.7.18` | x86,x64 | ❌ | en-US |
 | 1503 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.0` | x86,x64 | ❌ | en-US |
