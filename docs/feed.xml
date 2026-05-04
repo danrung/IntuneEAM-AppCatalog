@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 04 May 2026 02:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:06:28 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-05-04 10:06:28 — +0 added, −0 removed, ↺0 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Mon, 04 May 2026 10:06:28 +0000</pubDate>
+      <guid isPermaLink='false'>2026-05-04T10:06:28Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-05-04 10:06:28</p><p><strong>Compared to:</strong> 20260504_020230_AppCatalog.json (2026-05-04 02:02:30)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-05-04 02:02:30 — +0 added, −0 removed, ↺0 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Mon, 04 May 2026 02:02:30 +0000</pubDate>
