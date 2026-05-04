@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260504_100628_AppCatalog.json` (exported 2026-05-04 10:06:28)  
-> **Generated:** 2026-05-04 10:07 UTC  
+> **Source:** `20260504_172337_AppCatalog.json` (exported 2026-05-04 17:23:37)  
+> **Generated:** 2026-05-04 17:24 UTC  
 > **Total:** 1,522 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -57,7 +57,7 @@
 | 49 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
 | 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.159.1` | x64 | ❌ | en-US |
 | 51 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.814.0` | x64 | ❌ | en-US |
-| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.1` | x64 | ❌ | en-US |
+| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.2` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 54 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.1.17.0` | x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.32.0.5813` | x64 | ❌ | en-US |
@@ -139,7 +139,7 @@
 | 131 | Azul Systems, Inc. | Zulu JRE 17 (LTS) | Zulu JRE 17 (LTS) (x64) | `17.66.19` | x64 | ❌ | en-US |
 | 132 | Azul Systems, Inc. | Zulu JRE 7 (LTS) | Zulu JRE 7 (LTS) (x64) | `7.56.0.11` | x64 | ❌ | en-US |
 | 133 | Azul Systems, Inc. | Zulu JRE 8 (LTS) | Zulu JRE 8 (LTS) (x64) | `8.94.0.17` | x64 | ❌ | en-US |
-| 134 | Baldur Karlsson | RenderDoc | RenderDoc (x64) | `1.43` | x64 | ❌ | en-US |
+| 134 | Baldur Karlsson | RenderDoc | RenderDoc (x64) | `1.44` | x64 | ❌ | en-US |
 | 135 | Bambu Lab | Bambu Studio | Bambu Studio | `2.6.0.51` | x64 | ❌ | en-US |
 | 136 | Bandisoft | BandiView | BandiView | `7.26` | x64 | ❌ | en-US |
 | 137 | Beanbag, Inc. | RBTools | RBTools | `6.0` | x64 | ❌ | en-US |
@@ -261,7 +261,7 @@
 | 253 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.4.1.44384` | x64 | ❌ | en-US |
 | 254 | DAX Studio | DAX Studio | DAX Studio | `3.5.1.1188` | x64 | ❌ | en-US |
 | 255 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
-| 256 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.0.3` | x64 | ✅ | en-US |
+| 256 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.0.4` | x64 | ✅ | en-US |
 | 257 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.0.0` | x64 | ✅ | en-US |
 | 258 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.0.0` | x64 | ✅ | en-US |
 | 259 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.0.0` | x64 | ✅ | en-US |
@@ -276,8 +276,8 @@
 | 268 | Dell, Inc. | Dell SupportAssist | Dell SupportAssist for Business PCs (x64) | `4.5.3.25254` | x64 | ❌ | en-US |
 | 269 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
 | 270 | Dell, Inc. | RVTools | RVTools | `4.7.1` | x86,x64 | ❌ | en-US |
-| 271 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.19.0` | x64 | ✅ | en-US |
-| 272 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.19.0` | x64 | ✅ | en-US |
+| 271 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.20.0` | x64 | ✅ | en-US |
+| 272 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.20.0` | x64 | ✅ | en-US |
 | 273 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager | `2026.1.19.0` | x64 | ❌ | en-US |
 | 274 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.1.18.0` | x86,x64 | ❌ | en-US |
 | 275 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.3.0` | x64 | ❌ | en-US |
@@ -369,8 +369,8 @@
 | 361 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 362 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 363 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
-| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 366 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | mul |
 | 367 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.1.36485` | x64 | ✅ | en-US |
@@ -640,7 +640,7 @@
 | 632 | Microsoft | Microsoft Bot Framework Emulator | Microsoft Bot Framework Emulator | `4.15.1` | x64 | ❌ | en-US |
 | 633 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.128.1` | x64 | ❌ | en-US |
 | 634 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
-| 635 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `148.0.3967.34` | x64 | ✅ | en-US |
+| 635 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `148.0.3967.42` | x64 | ✅ | en-US |
 | 636 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
 | 637 | Microsoft | Microsoft ODBC Driver 13 for SQL Server | Microsoft ODBC Driver 13 for SQL Server (x64) | `13.1.4414.46` | x64 | ❌ | en-US |
 | 638 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Korean) (x64) | `17.11.1.1` | x64 | ❌ | ko-KR |
@@ -1077,7 +1077,7 @@
 | 1069 | OpenLens Authors | OpenLens | OpenLens | `6.5.2.366` | x64 | ❌ | en-US |
 | 1070 | OpenShot Studios | OpenShot Video Editor | OpenShot Video Editor (x64) | `3.5.1` | x64 | ❌ | en-US |
 | 1071 | OpenSight Software LLC | FlashFXP | FlashFXP | `5.4.0.3970` | x86,x64 | ❌ | en-US |
-| 1072 | OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.301` | x64 | ✅ | en-US |
+| 1072 | OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.401` | x64 | ✅ | en-US |
 | 1073 | OpenVPN Technologies, Inc. | OpenVPN Connect | OpenVPN Connect (x64) | `3.8.0` | x64 | ❌ | en-US |
 | 1074 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x64) | `8.0.4910.10` | x64 | ✅ | en-US |
 | 1075 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x86) | `8.0.4710.09` | x86,x64 | ✅ | en-US |
@@ -1179,34 +1179,34 @@
 | 1171 | Raising the Floor – US inc. | Morphic | Morphic | `1.10.25153.2` | x64 | ❌ | en-US |
 | 1172 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23081` | x86,x64 | ❌ | en-US |
 | 1173 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.22` | x64 | ❌ | en-US |
-| 1174 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.21` | x64 | ❌ | ru |
+| 1174 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.22` | x64 | ❌ | it |
 | 1175 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.22` | x64 | ❌ | sv |
-| 1176 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.22` | x64 | ❌ | fi |
-| 1177 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.22` | x64 | ❌ | en-US |
-| 1178 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.20` | x64 | ❌ | pl |
-| 1179 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.20` | x64 | ❌ | it |
-| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.20` | x64 | ❌ | sk |
-| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
-| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.22` | x64 | ❌ | ko |
-| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.21` | x64 | ❌ | zh-TW |
-| 1184 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.21` | x64 | ❌ | zh-CN |
-| 1185 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.20` | x64 | ❌ | fr |
-| 1186 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.20` | x64 | ❌ | ja |
-| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.21` | x64 | ❌ | bg |
+| 1176 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.22` | x64 | ❌ | de |
+| 1177 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.22` | x64 | ❌ | fi |
+| 1178 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.22` | x64 | ❌ | nl |
+| 1179 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.22` | x64 | ❌ | cs |
+| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | x64 | ❌ | sk |
+| 1181 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.22` | x64 | ❌ | en-US |
+| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.20` | x64 | ❌ | pl |
+| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
+| 1184 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.22` | x64 | ❌ | ko |
+| 1185 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.21` | x64 | ❌ | zh-CN |
+| 1186 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.20` | x64 | ❌ | fr |
+| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.20` | x64 | ❌ | ja |
 | 1188 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.22` | x64 | ❌ | ar |
-| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
-| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.13` | x64 | ❌ | cs |
-| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.22` | x64 | ❌ | da |
-| 1192 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.21` | x64 | ❌ | de |
-| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.22` | x64 | ❌ | th |
-| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
-| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
-| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.20` | x64 | ❌ | nl |
-| 1197 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.21` | x64 | ❌ | es |
-| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.21` | x64 | ❌ | sl |
-| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
-| 1200 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
-| 1201 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.13` | x64 | ❌ | sr |
+| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
+| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.22` | x64 | ❌ | es |
+| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.22` | x64 | ❌ | zh-TW |
+| 1192 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.22` | x64 | ❌ | ru |
+| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
+| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.22` | x64 | ❌ | da |
+| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.22` | x64 | ❌ | th |
+| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
+| 1197 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
+| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
+| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
+| 1200 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.13` | x64 | ❌ | sr |
+| 1201 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.22` | x64 | ❌ | bg |
 | 1202 | Raspberry Pi Ltd | Raspberry Pi Imager | Raspberry Pi Imager | `2.0.4` | x64 | ❌ | en-US |
 | 1203 | Realtime Soft Ltd | UltraMon | UltraMon (x64) | `3.4.1` | x64 | ❌ | en-US |
 | 1204 | Red Hat | Red Hat OpenJDK | Red Hat OpenJDK 21 | `21.0080.9.1` | x64 | ❌ | en-US |
@@ -1263,8 +1263,8 @@
 | 1255 | Semeru | IBM Semeru Runtime Open Edition JRE 8 (LTS) | IBM Semeru Runtime Open Edition JRE 8 (LTS) (x64) | `8.0.482.8` | x64 | ❌ | en-US |
 | 1256 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.28.26.0` | x64 | ❌ | en-US |
 | 1257 | Shotcut | Shotcut | Shotcut (x64) | `26.4.30` | x64 | ❌ | en-US |
-| 1258 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.9.28.8` | x64 | ✅ | en-US |
-| 1259 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.9.28.8` | x64 | ✅ | en-US |
+| 1258 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.9.29.9` | x64 | ✅ | en-US |
+| 1259 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.9.29.9` | x64 | ✅ | en-US |
 | 1260 | Siber Systems Inc | RoboForm | RoboForm | `9.9.4.6` | x86,x64 | ❌ | en-US |
 | 1261 | SideQuest | SideQuest | SideQuest | `0.10.42` | x64 | ❌ | en-US |
 | 1262 | Signiant Inc. | Signiant App | Signiant App | `1.5.1773` | x64 | ❌ | en-US |
@@ -1321,7 +1321,7 @@
 | 1313 | Tableau Software Inc | Tableau Desktop 2022 | Tableau Desktop 2022.4 | `2022.4.20` | x64 | ❌ | en-US |
 | 1314 | Tableau Software Inc | Tableau Prep Builder 2022 | Tableau Prep Builder 2022.3 | `22.3.27404.0` | x64 | ✅ | en-US |
 | 1315 | Tableau Software Inc | Tableau Prep Builder 2022 | Tableau Prep Builder 2022.4 | `22.4.27646.0` | x64 | ✅ | en-US |
-| 1316 | TablePlus, Inc | TablePlus | TablePlus | `6.9.4` | x64 | ❌ | en-US |
+| 1316 | TablePlus, Inc | TablePlus | TablePlus | `6.9.6` | x64 | ❌ | en-US |
 | 1317 | Tabular Editor ApS | Tabular Editor 2 | Tabular Editor 2 | `2.24.1` | x86,x64 | ❌ | en-US |
 | 1318 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.96.3` | x64 | ❌ | en-US |
 | 1319 | Talkdesk, Inc. | Talkdesk | Talkdesk | `3.1.1` | x64 | ❌ | en-US |
@@ -1439,10 +1439,10 @@
 | 1431 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.6.4.0` | x64 | ❌ | en-US |
 | 1432 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.6.4.0` | x64 | ❌ | en-US |
 | 1433 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
-| 1434 | VariCAD | VariCAD | VariCAD (German) | `2026.2.02` | x64 | ❌ | de |
-| 1435 | VariCAD | VariCAD | VariCAD (English) | `2026.2.02` | x64 | ❌ | en-US |
-| 1436 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.02` | x64 | ❌ | de |
-| 1437 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.02` | x64 | ❌ | en-US |
+| 1434 | VariCAD | VariCAD | VariCAD (English) | `2026.2.03` | x64 | ❌ | en-US |
+| 1435 | VariCAD | VariCAD | VariCAD (German) | `2026.2.03` | x64 | ❌ | de |
+| 1436 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.03` | x64 | ❌ | de |
+| 1437 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.03` | x64 | ❌ | en-US |
 | 1438 | VeraCrypt | VeraCrypt | VeraCrypt | `1.26.24` | x64 | ❌ | en-US |
 | 1439 | Verbi GmbH | MAXQDA 2020 Reader | MAXQDA 2020 Reader | `20.4.1` | x64 | ❌ | en-US |
 | 1440 | VEX Robotics | VEXcode IQ 3 | VEXcode IQ 3 | `3.0.4.1` | x86,x64 | ❌ | en-US |
@@ -1500,7 +1500,7 @@
 | 1492 | XnSoft | XnSoft XnShell | XnShell (x64) | `4.2.0.0` | x64 | ❌ | en-US |
 | 1493 | XnSoft | XnSoft XnView Extended | XnView (Extended) | `2.52.0` | x86,x64 | ❌ | en-US |
 | 1494 | XnSoft | XnSoft XnView Minimal | XnView (Minimal) | `2.52.0` | x86,x64 | ❌ | en-US |
-| 1495 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.11.1.0` | x64 | ❌ | en-US |
+| 1495 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.11.2.0` | x64 | ❌ | en-US |
 | 1496 | XnSoft | XnSoft XnView Standard | XnView (Standard) | `2.52.0` | x86,x64 | ❌ | en-US |
 | 1497 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.3.3` | x64 | ❌ | en-US |
 | 1498 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
