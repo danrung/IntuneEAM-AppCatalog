@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260504_172337_AppCatalog.json` (exported 2026-05-04 17:23:37)  
-> **Generated:** 2026-05-04 17:24 UTC  
+> **Source:** `20260505_020213_AppCatalog.json` (exported 2026-05-05 02:02:13)  
+> **Generated:** 2026-05-05 02:02 UTC  
 > **Total:** 1,522 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -304,7 +304,7 @@
 | 296 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 12 | Eclipse Temurin JDK with Hotspot 12 (x64) | `12.0.2.10` | x64 | ❌ | en-US |
 | 297 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 15 | Eclipse Temurin JDK with Hotspot 15 (x64) | `15.0.2.7` | x64 | ❌ | en-US |
 | 298 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 16 | Eclipse Temurin JDK with Hotspot 16 (x64) | `16.0.2.7` | x64 | ❌ | en-US |
-| 299 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.18.8` | x64 | ❌ | en-US |
+| 299 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.19.10` | x64 | ❌ | en-US |
 | 300 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 18 | Eclipse Temurin JDK with Hotspot 18 (x64) | `18.0.2.101` | x64 | ❌ | en-US |
 | 301 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 19 | Eclipse Temurin JDK with Hotspot 19 (x64) | `19.0.2.7` | x64 | ❌ | en-US |
 | 302 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 20 | Eclipse Temurin JDK with Hotspot 20 (x64) | `20.0.2.9` | x64 | ❌ | en-US |
@@ -316,7 +316,7 @@
 | 308 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 12 | Eclipse Temurin JRE with Hotspot 12 (x64) | `12.0.2.10` | x64 | ❌ | en-US |
 | 309 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 15 | Eclipse Temurin JRE with Hotspot 15 (x64) | `15.0.2.7` | x64 | ❌ | en-US |
 | 310 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 16 | Eclipse Temurin JRE with Hotspot 16 (x64) | `16.0.1.9` | x64 | ❌ | en-US |
-| 311 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 17 (LTS) | Eclipse Temurin JRE with Hotspot 17 (LTS) (x64) | `17.0.18.8` | x64 | ❌ | en-US |
+| 311 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 17 (LTS) | Eclipse Temurin JRE with Hotspot 17 (LTS) (x64) | `17.0.19.10` | x64 | ❌ | en-US |
 | 312 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 18 | Eclipse Temurin JRE with Hotspot 18 (x64) | `18.0.2.101` | x64 | ❌ | en-US |
 | 313 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 19 | Eclipse Temurin JRE with Hotspot 19 (x64) | `19.0.2.7` | x64 | ❌ | en-US |
 | 314 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 20 | Eclipse Temurin JRE with Hotspot 20 (x64) | `20.0.2.9` | x64 | ❌ | en-US |
@@ -457,7 +457,7 @@
 | 449 | Inkscape | Inkscape | Inkscape (x64) | `1.4` | x64 | ❌ | en-US |
 | 450 | Inmatrix | Zoom Player | Zoom Player | `22.01` | x86,x64 | ❌ | en-US |
 | 451 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.2` | x86,x64 | ❌ | en-US |
-| 452 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.28.26.0` | x64 | ❌ | en-US |
+| 452 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.29.38.0` | x64 | ❌ | en-US |
 | 453 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.920.0` | x86,x64 | ❌ | en-US |
 | 454 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.920.0` | x86,x64 | ❌ | en-US |
 | 455 | InterPromo GMBH | 4K Video Downloader | 4K Video Downloader (x64) | `4.33.5` | x64 | ❌ | en-US |
@@ -1261,7 +1261,7 @@
 | 1253 | Semeru | IBM Semeru Runtime Open Edition JRE 20 | IBM Semeru Runtime Open Edition JRE 20 | `20.0.2.9` | x64 | ❌ | en-US |
 | 1254 | Semeru | IBM Semeru Runtime Open Edition JRE 22 | IBM Semeru Runtime Open Edition JRE 22 | `22.0.2.9` | x64 | ❌ | en-US |
 | 1255 | Semeru | IBM Semeru Runtime Open Edition JRE 8 (LTS) | IBM Semeru Runtime Open Edition JRE 8 (LTS) (x64) | `8.0.482.8` | x64 | ❌ | en-US |
-| 1256 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.28.26.0` | x64 | ❌ | en-US |
+| 1256 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.29.38.0` | x64 | ❌ | en-US |
 | 1257 | Shotcut | Shotcut | Shotcut (x64) | `26.4.30` | x64 | ❌ | en-US |
 | 1258 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.9.29.9` | x64 | ✅ | en-US |
 | 1259 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.9.29.9` | x64 | ✅ | en-US |
