@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260505_171553_AppCatalog.json` (exported 2026-05-05 17:15:53)  
-> **Generated:** 2026-05-05 17:16 UTC  
+> **Source:** `20260506_020128_AppCatalog.json` (exported 2026-05-06 02:01:28)  
+> **Generated:** 2026-05-06 02:01 UTC  
 > **Total:** 1,522 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -22,8 +22,8 @@
 | 14 | 2BrightSparks Ptd Ltd | CMake | CMake 4.1 (x64) | `4.1.6` | x64 | ❌ | en-US |
 | 15 | 2BrightSparks Ptd Ltd | CMake | CMake 3.28 (x64) | `3.28.6` | x64 | ❌ | en-US |
 | 16 | 2BrightSparks Ptd Ltd | CMake | CMake 3.30 (x64) | `3.30.9` | x64 | ❌ | en-US |
-| 17 | 2BrightSparks Ptd Ltd | SyncBackFree | SyncBackFree | `12.0.0.0` | x86,x64 | ✅ | en-US |
-| 18 | 2BrightSparks Ptd Ltd | SyncBackPro | SyncBackPro | `12.0.0.0` | x64 | ✅ | en-US |
+| 17 | 2BrightSparks Ptd Ltd | SyncBackFree | SyncBackFree | `12.0.8.0` | x86,x64 | ✅ | en-US |
+| 18 | 2BrightSparks Ptd Ltd | SyncBackPro | SyncBackPro | `12.0.8.0` | x64 | ✅ | en-US |
 | 19 | 3CX | 3CX Desktop App | 3CX Desktop App | `18.13.959.0` | x64 | ❌ | en-US |
 | 20 | 3CX | 3CXPhone for Windows | 3CXPhone for Windows | `16.3.0.264` | x86,x64 | ❌ | en-US |
 | 21 | 3Dconnexion UK | 3DxWare 10 | 3DxWare 10 | `10.9.13.740` | x64 | ❌ | en-US |
@@ -195,7 +195,7 @@
 | 187 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.78.0` | x64 | ❌ | en-US |
 | 188 | Brink Software B.V. | Ibis Calculeren voor Bouw | Ibis Calculeren voor Bouw | `4.1.165.0` | x64 | ❌ | nl |
 | 189 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2604.12101` | x64 | ❌ | en-US |
-| 190 | BrowserStack | BrowserStackLocal | BrowserStackLocal | `3.7.5` | x86,x64 | ❌ | en-US |
+| 190 | BrowserStack | BrowserStackLocal | BrowserStackLocal | `3.7.6` | x86,x64 | ❌ | en-US |
 | 191 | Bullzip | Bullzip PDF to Word | PDF to Word | `2.1.0.0` | x86,x64 | ❌ | en-US |
 | 192 | Burnaware | BurnAware Free | BurnAware Free | `19.0` | x86,x64 | ❌ | en-US |
 | 193 | Bytello | Bytello Share | Bytello Share | `5.10.0.3942` | x86,x64 | ❌ | en-US |
@@ -245,11 +245,11 @@
 | 237 | Cole Williams Software Limited | Windows 10 Codec Pack | Windows 10 Codec Pack | `2.2.0` | x86,x64 | ❌ | en-US |
 | 238 | Comfort Software Group | Free Countdown Timer | Free Countdown Timer | `5.3.1.0` | x86,x64 | ❌ | en-US |
 | 239 | ComponentAgro B.V. | ComponentAgro CHECK PC2Web | CHECK PC2Web | `7.44.0.0` | x86,x64 | ❌ | nl |
-| 240 | CoolUtils | Mail Viewer | Mail Viewer | `1.0.9610.34127` | x86,x64 | ❌ | en-US |
+| 240 | CoolUtils | Mail Viewer | Mail Viewer | `1.0.9621.26752` | x86,x64 | ❌ | en-US |
 | 241 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
 | 242 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.19` | x64 | ❌ | en-US |
 | 243 | CPUID, Inc | HWMonitor | HWMonitor | `1.63` | x64 | ❌ | en-US |
-| 244 | Creative Force | Creative Force Kelvin | Kelvin | `6.1.0` | x64 | ❌ | en-US |
+| 244 | Creative Force | Creative Force Kelvin | Kelvin | `6.1.1` | x64 | ❌ | en-US |
 | 245 | Creative Force | Creative Force Triad | Triad | `4.4.0` | x64 | ❌ | en-US |
 | 246 | Crestron Electronics, Inc. | Crestron AirMedia app | AirMedia app | `5.11.1.164` | x86,x64 | ❌ | en-US |
 | 247 | Crestron Electronics, Inc. | Crestron AirMedia Peripheral Installer | AirMedia Peripheral Installer | `1.11.1.164` | x86,x64 | ❌ | en-US |
@@ -266,7 +266,7 @@
 | 258 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.0.0` | x64 | ✅ | en-US |
 | 259 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.0.0` | x64 | ✅ | en-US |
 | 260 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.1.1` | x64 | ❌ | en-US |
-| 261 | Dedoose | Dedoose Desktop App | Dedoose Desktop App | `10.0.59` | x86,x64 | ❌ | en-US |
+| 261 | Dedoose | Dedoose Desktop App | Dedoose Desktop App | `10.1.5` | x86,x64 | ❌ | en-US |
 | 262 | Delinea | Delinea Connection Manager | Delinea Connection Manager | `2.8.3.7` | x64 | ❌ | en-US |
 | 263 | Dell, Inc. | Dell Command Update | Dell Command Update (x64) | `5.5.0` | x64 | ✅ | en-US |
 | 264 | Dell, Inc. | Dell Command Update (Windows Universal Application) | Dell Command Update (Windows Universal Application) | `5.5.0` | x64 | ✅ | en-US |
@@ -289,7 +289,7 @@
 | 281 | Don Ho | Notepad++ | Notepad++ (x64) (MSI) | `8.9.4` | x64 | ❌ | en-US |
 | 282 | Don Ho | Notepad++ | Notepad++ (x64) (EXE) | `8.9.4` | x64 | ❌ | en-US |
 | 283 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
-| 284 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.4.0` | x64 | ❌ | en-US |
+| 284 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.4.100` | x64 | ❌ | en-US |
 | 285 | draw.io | draw.io Desktop | draw.io Desktop | `29.7.8` | x64 | ✅ | en-US |
 | 286 | dRofus | dRofus | dRofus | `2.17.12.0` | x86,x64 | ❌ | en-US |
 | 287 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `7.5.7` | x64 | ❌ | en-US |
@@ -369,8 +369,8 @@
 | 361 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 362 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 363 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
-| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 366 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | mul |
 | 367 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.1.36485` | x64 | ✅ | en-US |
@@ -1045,7 +1045,7 @@
 | 1037 | NetSetMan GmbH | NetSetMan | NetSetMan | `5.4.0` | x86,x64 | ❌ | en-US |
 | 1038 | NETworkManager | NETworkManager | NETworkManager | `2026.2.22.0` | x64 | ❌ | en-US |
 | 1039 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.73.1` | x64 | ❌ | en-US |
-| 1040 | Nextcloud | Nextcloud | Nextcloud (x64) | `33.0.3.20260427` | x64 | ❌ | en-US |
+| 1040 | Nextcloud | Nextcloud | Nextcloud (x64) | `33.0.4.20260504` | x64 | ❌ | en-US |
 | 1041 | Nextiva | NextivaONE | NextivaONE | `1.20.1.0` | x64 | ❌ | en-US |
 | 1042 | NGWIN | PicPick | PicPick | `7.4.1` | x86,x64 | ❌ | en-US |
 | 1043 | NICE Software | Amazon DCV Client | Amazon DCV Client | `25.0.9800.0` | x86,x64 | ❌ | en-US |
@@ -1309,7 +1309,7 @@
 | 1301 | SuperOffice AS | SuperOffice WebTools | SuperOffice WebTools for SuperOffice 10.3.1 or newer | `13.0.177.0` | x86,x64 | ❌ | en-US |
 | 1302 | SURF | SURF eduVPN Client | eduVPN Client (x64) | `4.2` | x64 | ❌ | en-US |
 | 1303 | SURF | SURFdrive | SURFdrive (x64) | `5.3.2.15536` | x64 | ❌ | en-US |
-| 1304 | SUSE | Rancher Desktop | Rancher Desktop | `1.22.0` | x64 | ❌ | en-US |
+| 1304 | SUSE | Rancher Desktop | Rancher Desktop | `1.22.2` | x64 | ❌ | en-US |
 | 1305 | Symphony Communication Services, LLC | Symphony Desktop Application | Symphony Desktop Application | `26.2.0.2988` | x64 | ❌ | en-US |
 | 1306 | Synology | Synology Cloud Station Backup | Synology Cloud Station Backup | `4.3.3.4469` | x86,x64 | ❌ | en-US |
 | 1307 | Synology | Synology Cloud Station Drive | Synology Cloud Station Drive | `4.3.3.4469` | x86,x64 | ❌ | en-US |
