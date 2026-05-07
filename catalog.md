@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260507_020428_AppCatalog.json` (exported 2026-05-07 02:04:28)  
-> **Generated:** 2026-05-07 02:04 UTC  
+> **Source:** `20260507_101446_AppCatalog.json` (exported 2026-05-07 10:14:46)  
+> **Generated:** 2026-05-07 10:15 UTC  
 > **Total:** 1,522 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -216,8 +216,8 @@
 | 208 | Cisco Systems, Inc. | Cisco JVDI Agent 12 | Cisco JVDI Agent 12 | `12.9.3.55062` | x86,x64 | ❌ | en-US |
 | 209 | Cisco Systems, Inc. | Cisco JVDI Agent 14 | Cisco JVDI Agent 14 | `14.3.1.58744` | x86,x64 | ❌ | en-US |
 | 210 | Cisco Systems, Inc. | Cisco JVDI Agent 15 | Cisco JVDI Agent 15 | `15.2.1.60904` | x86,x64 | ❌ | en-US |
-| 211 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.4.0.34752` | x64 | ✅ | en-US |
-| 212 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.4.0.34752` | x64 | ✅ | en-US |
+| 211 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.4.0.34752` | x64 | ✅ | en-US |
+| 212 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.4.0.34752` | x64 | ✅ | en-US |
 | 213 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.4.0.34752` | x64 | ✅ | en-US |
 | 214 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.4.0.34752` | x64 | ✅ | en-US |
 | 215 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings | `45.6.4.8` | x86,x64 | ✅ | en-US |
@@ -369,8 +369,8 @@
 | 361 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 362 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 363 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
-| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 364 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
 | 366 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | mul |
 | 367 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.1.36485` | x64 | ✅ | en-US |
@@ -725,9 +725,9 @@
 | 717 | Microsoft | Microsoft Visual Studio 2010 Tools for Office Runtime | Visual Studio 2010 Tools for Office Runtime (x64) | `10.0.60917.00` | x64 | ❌ | en-US |
 | 718 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37216.2` | x64 | ❌ | en-US |
 | 719 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 720 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37216.2` | x64 | ❌ | en-US |
-| 721 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37202.15` | x64 | ❌ | en-US |
-| 722 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 720 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37202.15` | x64 | ❌ | en-US |
+| 721 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 722 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37216.2` | x64 | ❌ | en-US |
 | 723 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
 | 724 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 725 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
@@ -736,9 +736,9 @@
 | 728 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
 | 729 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37202.15` | x64 | ❌ | en-US |
 | 730 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 731 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37216.2` | x64 | ❌ | en-US |
-| 732 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 733 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
+| 731 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
+| 732 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
+| 733 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37216.2` | x64 | ❌ | en-US |
 | 734 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 735 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.119.0` | x64 | ✅ | en-US |
 | 736 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37216.2` | x64 | ❌ | en-US |
@@ -757,8 +757,8 @@
 | 749 | Microsoft | Microsoft Windows PE add-on for ADK for Windows 11 | Windows PE add-on for ADK for Windows 11 24H2 | `10.1.26100.2454` | x86,x64 | ❌ | en-US |
 | 750 | Microsoft | Microsoft Windows PE add-on for ADK for Windows 11 | Windows PE add-on for ADK for Windows 11 22H2 | `10.1.25398.1` | x86,x64 | ❌ | en-US |
 | 751 | Microsoft | MSIX Core | MSIX Core (x64) | `1.2.0.0` | x64 | ❌ | en-US |
-| 752 | Microsoft | OpenJDK | OpenJDK 25 (x64) | `25.0.3.9` | x64 | ❌ | en-US |
-| 753 | Microsoft | OpenJDK | OpenJDK 21 (x64) | `21.0.11.10` | x64 | ❌ | en-US |
+| 752 | Microsoft | OpenJDK | OpenJDK 21 (x64) | `21.0.11.10` | x64 | ❌ | en-US |
+| 753 | Microsoft | OpenJDK | OpenJDK 25 (x64) | `25.0.3.9` | x64 | ❌ | en-US |
 | 754 | Microsoft | OpenJDK 11 | OpenJDK 11 (x64) | `11.0.31.11` | x64 | ❌ | en-US |
 | 755 | Microsoft | OpenJDK 16 | OpenJDK 16 (x64) | `16.0.2.7` | x64 | ❌ | en-US |
 | 756 | Microsoft | OpenJDK 17 | OpenJDK 17 (x64) | `17.0.19.10` | x64 | ❌ | en-US |
@@ -1180,31 +1180,31 @@
 | 1172 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23081` | x86,x64 | ❌ | en-US |
 | 1173 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.22` | x64 | ❌ | en-US |
 | 1174 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.22` | x64 | ❌ | it |
-| 1175 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.22` | x64 | ❌ | es |
-| 1176 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.22` | x64 | ❌ | cs |
-| 1177 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | x64 | ❌ | sk |
-| 1178 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.22` | x64 | ❌ | nl |
-| 1179 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.20` | x64 | ❌ | pl |
-| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
-| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.22` | x64 | ❌ | ko |
-| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.21` | x64 | ❌ | zh-CN |
-| 1183 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.20` | x64 | ❌ | fr |
-| 1184 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.20` | x64 | ❌ | ja |
-| 1185 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.22` | x64 | ❌ | ar |
-| 1186 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.22` | x64 | ❌ | fi |
-| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
-| 1188 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.22` | x64 | ❌ | de |
-| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.22` | x64 | ❌ | zh-TW |
-| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.22` | x64 | ❌ | ru |
-| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
-| 1192 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.22` | x64 | ❌ | en-US |
-| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.22` | x64 | ❌ | da |
-| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.22` | x64 | ❌ | sv |
-| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.22` | x64 | ❌ | th |
-| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
-| 1197 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
-| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
-| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
+| 1175 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.22` | x64 | ❌ | fi |
+| 1176 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | x64 | ❌ | sk |
+| 1177 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.20` | x64 | ❌ | pl |
+| 1178 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.22` | x64 | ❌ | ar |
+| 1179 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
+| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.22` | x64 | ❌ | ko |
+| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.21` | x64 | ❌ | zh-CN |
+| 1182 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.20` | x64 | ❌ | fr |
+| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.20` | x64 | ❌ | ja |
+| 1184 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
+| 1185 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.22` | x64 | ❌ | de |
+| 1186 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.22` | x64 | ❌ | sv |
+| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.22` | x64 | ❌ | zh-TW |
+| 1188 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.22` | x64 | ❌ | ru |
+| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
+| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.22` | x64 | ❌ | da |
+| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.22` | x64 | ❌ | es |
+| 1192 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.22` | x64 | ❌ | nl |
+| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.22` | x64 | ❌ | th |
+| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
+| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
+| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.22` | x64 | ❌ | cs |
+| 1197 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
+| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
+| 1199 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.22` | x64 | ❌ | en-US |
 | 1200 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.13` | x64 | ❌ | sr |
 | 1201 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.22` | x64 | ❌ | bg |
 | 1202 | Raspberry Pi Ltd | Raspberry Pi Imager | Raspberry Pi Imager | `2.0.4` | x64 | ❌ | en-US |
