@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260507_101446_AppCatalog.json` (exported 2026-05-07 10:14:46)  
-> **vs:** `20260506_100959_AppCatalog.json` (exported 2026-05-06 10:09:59)  
-> **Generated:** 2026-05-07 10:15 UTC
+> **Comparing:** `20260507_174222_AppCatalog.json` (exported 2026-05-07 17:42:22)  
+> **vs:** `20260506_172342_AppCatalog.json` (exported 2026-05-06 17:23:42)  
+> **Generated:** 2026-05-07 17:42 UTC
 
 ## Summary
 
@@ -10,24 +10,35 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 14 |
+| 🔄 Updated (version change) | 25 |
 
-## 🔄 Updated (14 packages)
+## 🔄 Updated (25 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
-| Amazon | Amazon AWS VPN Client | AWS VPN Client | `5.3.3` | `5.3.4` | x64 |
-| Articulate | Articulate 360 | Articulate 360 (EXE) | `1.116.36776.0` | `1.116.36838.0` | x64 |
-| Citrix | Citrix Workspace app | Citrix Workspace app | `25.11.10.50` | `26.3.0.188` | x86,x64 |
-| Evernote | Evernote | Evernote | `11.14.2` | `11.15.2` | x64 |
-| Google | Google Ads Editor | Google Ads Editor | `14.12.4.0` | `14.12.6.0` | x64 |
-| Google | Google Chrome for Business | Chrome for Business 64-bit | `147.0.7727.138` | `148.0.7778.97` | x64 |
-| Jan de Dobbeleer | Oh My Posh | Oh My Posh (x64) | `29.12.0` | `29.13.0` | x64 |
-| JetBrains | DataGrip | DataGrip 2026.1 (x64) | `2026.1.2` | `2026.1.3` | x64 |
-| Maxima Software (Pty) Ltd | Maxcut | Maxcut | `2.9.6.6` | `2.9.6.7` | x86,x64 |
-| Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `15.5.0.40690` | `15.6.0.40764` | x64 |
-| Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.153.910.0` | `2.153.1206.0` | x64 |
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.118.1` | `1.119.0` | x64 |
-| NV Access Limited | NV Access NVDA | NVDA | `2025.3.3` | `2026.1` | x64 |
-| XnSoft | XnSoft XnConvert | XnConvert (x64) | `1.106.0` | `1.111.0` | x64 |
+| Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.4` | `1.45.5` | x64 |
+| BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.78.0` | `1.85.0` | x64 |
+| FileZilla | FileZilla | FileZilla (x64) | `3.70.4` | `3.70.5` | x64 |
+| HARMAN International | Adobe AIR | Adobe AIR | `51.3.1.2` | `51.3.2.2` | x86,x64 |
+| Inknoe | ClassPoint | ClassPoint (x64) | `2.10.8.0` | `2.10.9.0` | x64 |
+| JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.4.1` | `2025.3.5` | x64 |
+| Keeper | Keeper | Keeper | `17.6.0.0` | `17.6.1.0` | x86,x64 |
+| Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `15.6.0.40764` | `15.6.1.40772` | x64 |
+| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `148.0.3967.42` | `148.0.3967.52` | x64 |
+| MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.49.5` | `1.49.6` | x64 |
+| MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.5` | `1.49.6` | x64 |
+| MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.5` | `1.49.6` | x64 |
+| QGIS | QGIS | QGIS (x64) | `4.0.1` | `4.0.2` | x64 |
+| QGIS | QGIS LTR | QGIS LTR (x64) | `3.44.9` | `3.44.10` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.20` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.20` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.21` | `7.22` | x64 |
+| Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.130.9` | `2.133.4` | x64 |
+| UltraVNC | UltraVNC | UltraVNC (x64) | `1.6.4.0` | `1.8.2.0` | x64 |
+| Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.6` | `1.9.7` | x64 |
+| Vijua | Kotobee Reader | Kotobee Reader | `1.9.4` | `1.9.5` | x86,x64 |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0413` | `9.2.0449` | x64 |
+| Zandar Labs SL | Aptakube | Aptakube | `1.16.4` | `1.16.5` | x64 |
+| Zello Inc. | Zello | Zello | `18.4.0.0` | `18.5.0.0` | x64 |
+| Zotero | Zotero | Zotero (x64) | `9.0.2` | `9.0.3` | x64 |
 
