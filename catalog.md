@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260508_090645_AppCatalog.json` (exported 2026-05-08 09:06:45)  
-> **Generated:** 2026-05-08 09:07 UTC  
+> **Source:** `20260508_170411_AppCatalog.json` (exported 2026-05-08 17:04:11)  
+> **Generated:** 2026-05-08 17:04 UTC  
 > **Total:** 1,522 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -53,7 +53,7 @@
 | 45 | Amazon | Amazon Corretto JDK 17 | Amazon Corretto JDK 17 | `17.0.19.10.1` | x64 | ❌ | en-US |
 | 46 | Amazon | Amazon Corretto JDK 18 | Amazon Corretto JDK 18 | `18.0.2.9.1` | x64 | ❌ | en-US |
 | 47 | Amazon | Amazon Corretto JDK 19 | Amazon Corretto JDK 19 | `19.0.2.7.1` | x64 | ❌ | en-US |
-| 48 | Amazon | Amazon Corretto JDK 8 | Amazon Corretto JDK 8 (x64) | `8.492.09.1` | x64 | ❌ | en-US |
+| 48 | Amazon | Amazon Corretto JDK 8 | Amazon Corretto JDK 8 (x64) | `8.492.09.2` | x64 | ❌ | en-US |
 | 49 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
 | 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.159.1` | x64 | ❌ | en-US |
 | 51 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.814.0` | x64 | ❌ | en-US |
@@ -237,7 +237,7 @@
 | 229 | Cloud Video | Pexip | Pexip | `3.0.14` | x86,x64 | ❌ | en-US |
 | 230 | Cloud Video | Pexip Infinity Connect | Pexip Infinity Connect | `1.14.0` | x86,x64 | ❌ | en-US |
 | 231 | Cloudflare, Inc. | Cloudflare WARP | Cloudflare WARP | `26.3.851.0` | x64 | ❌ | en-US |
-| 232 | Cockos Incorporated | REAPER | REAPER (x64) | `7.71` | x64 | ❌ | en-US |
+| 232 | Cockos Incorporated | REAPER | REAPER (x64) | `7.72` | x64 | ❌ | en-US |
 | 233 | Code Sector | Teracopy for Windows | Teracopy for Windows | `3.17` | x64 | ❌ | en-US |
 | 234 | code4ward.net e.U. | Royal TS 5 | Royal TS 5 | `5.04.60415.0` | x86,x64 | ✅ | en-US |
 | 235 | code4ward.net e.U. | Royal TS 6 | Royal TS 6 | `6.01.61019.0` | x64 | ✅ | en-US |
@@ -597,7 +597,7 @@
 | 589 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.7 | `9.7.0.29648` | x64 | ❌ | en-US |
 | 590 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.13 | `9.13.1.45479` | x64 | ❌ | en-US |
 | 591 | Mersive Technologies, Inc. | Mersive Solstice Client | Mersive Solstice Client (x64) | `6.2.37968` | x64 | ❌ | en-US |
-| 592 | Meta Platforms, Inc. | Meta Quest Developer Hub | Meta Quest Developer Hub | `6.3.2` | x64 | ❌ | en-US |
+| 592 | Meta Platforms, Inc. | Meta Quest Developer Hub | Meta Quest Developer Hub | `6.4.0` | x64 | ❌ | en-US |
 | 593 | Meta Platforms, Inc. | Meta Spark Player | Meta Spark Player | `187.0.8` | x64 | ❌ | en-US |
 | 594 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 2004 | `1.0.0` | x86,x64 | ❌ | en-US |
 | 595 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1803 | `1.0.1803` | x86,x64 | ❌ | en-US |
@@ -640,7 +640,7 @@
 | 632 | Microsoft | Microsoft Bot Framework Emulator | Microsoft Bot Framework Emulator | `4.15.1` | x64 | ❌ | en-US |
 | 633 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.128.1` | x64 | ❌ | en-US |
 | 634 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
-| 635 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `148.0.3967.52` | x64 | ✅ | en-US |
+| 635 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `148.0.3967.54` | x64 | ✅ | en-US |
 | 636 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
 | 637 | Microsoft | Microsoft ODBC Driver 13 for SQL Server | Microsoft ODBC Driver 13 for SQL Server (x64) | `13.1.4414.46` | x64 | ❌ | en-US |
 | 638 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (English) (x64) | `17.11.1.1` | x64 | ❌ | en-US |
@@ -1180,17 +1180,17 @@
 | 1172 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23081` | x86,x64 | ❌ | en-US |
 | 1173 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.22` | x64 | ❌ | en-US |
 | 1174 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.22` | x64 | ❌ | it |
-| 1175 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.22` | x64 | ❌ | zh-CN |
-| 1176 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | x64 | ❌ | sk |
-| 1177 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.22` | x64 | ❌ | nl |
-| 1178 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.22` | x64 | ❌ | es |
-| 1179 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.22` | x64 | ❌ | fi |
-| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.22` | x64 | ❌ | pl |
-| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
-| 1182 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.22` | x64 | ❌ | fr |
-| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.22` | x64 | ❌ | cs |
-| 1184 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.22` | x64 | ❌ | de |
-| 1185 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
+| 1175 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.22` | x64 | ❌ | de |
+| 1176 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.22` | x64 | ❌ | zh-CN |
+| 1177 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | x64 | ❌ | sk |
+| 1178 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.22` | x64 | ❌ | nl |
+| 1179 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.22` | x64 | ❌ | pl |
+| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
+| 1181 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.22` | x64 | ❌ | fr |
+| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.22` | x64 | ❌ | es |
+| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
+| 1184 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.22` | x64 | ❌ | cs |
+| 1185 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.22` | x64 | ❌ | fi |
 | 1186 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.22` | x64 | ❌ | zh-TW |
 | 1187 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.22` | x64 | ❌ | ru |
 | 1188 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
@@ -1198,15 +1198,15 @@
 | 1190 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.22` | x64 | ❌ | ar |
 | 1191 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.22` | x64 | ❌ | th |
 | 1192 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.22` | x64 | ❌ | ja |
-| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.22` | x64 | ❌ | sv |
-| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
-| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
-| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.22` | x64 | ❌ | ko |
-| 1197 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.22` | x64 | ❌ | en-US |
-| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
-| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
-| 1200 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.13` | x64 | ❌ | sr |
-| 1201 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.22` | x64 | ❌ | bg |
+| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
+| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
+| 1195 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.22` | x64 | ❌ | en-US |
+| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
+| 1197 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
+| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.13` | x64 | ❌ | sr |
+| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.22` | x64 | ❌ | ko |
+| 1200 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.22` | x64 | ❌ | bg |
+| 1201 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.22` | x64 | ❌ | sv |
 | 1202 | Raspberry Pi Ltd | Raspberry Pi Imager | Raspberry Pi Imager | `2.0.4` | x64 | ❌ | en-US |
 | 1203 | Realtime Soft Ltd | UltraMon | UltraMon (x64) | `3.4.1` | x64 | ❌ | en-US |
 | 1204 | Red Hat | Red Hat OpenJDK | Red Hat OpenJDK 21 | `21.0080.9.1` | x64 | ❌ | en-US |
@@ -1330,7 +1330,7 @@
 | 1322 | TDP s.r.o. | TDP SecureAnyBox Agent | SecureAnyBox Agent | `3.0.3.0` | x86,x64 | ❌ | en-US |
 | 1323 | TDP s.r.o. | TDP SecureAnyBox Launcher | SecureAnyBox Launcher | `2.6.0.0` | x86,x64 | ❌ | en-US |
 | 1324 | TeamSpeak Systems | TeamSpeak client | TeamSpeak client (x64) | `3.6.2` | x64 | ❌ | en-US |
-| 1325 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.76.5.0` | x64 | ❌ | en-US |
+| 1325 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.76.6.0` | x64 | ❌ | en-US |
 | 1326 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host | `15.69.5.0` | x86,x64 | ❌ | en-US |
 | 1327 | TechSmith Corporation | Camtasia 2018 | Camtasia 2018 | `18.0.8.4591` | x64 | ✅ | en-US |
 | 1328 | TechSmith Corporation | Camtasia Studio 2019 | Camtasia Studio 2019 | `2019.0.11.17779` | x64 | ✅ | en-US |
@@ -1436,8 +1436,8 @@
 | 1428 | typora.io | Typora | Typora (x64) | `1.13.4` | x64 | ❌ | en-US |
 | 1429 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.12.1` | x64 | ❌ | en-US |
 | 1430 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.12.1` | x64 | ❌ | en-US |
-| 1431 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.6.4.0` | x64 | ❌ | en-US |
-| 1432 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.0` | x64 | ❌ | en-US |
+| 1431 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.0` | x64 | ❌ | en-US |
+| 1432 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.0` | x64 | ❌ | en-US |
 | 1433 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
 | 1434 | VariCAD | VariCAD | VariCAD (German) | `2026.2.03` | x64 | ❌ | de |
 | 1435 | VariCAD | VariCAD | VariCAD (English) | `2026.2.03` | x64 | ❌ | en-US |
