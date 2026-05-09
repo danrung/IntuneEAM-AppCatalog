@@ -1,8 +1,8 @@
 # Catalog Changes — Last 7 Days
 
-> **Comparing:** `20260509_090957_AppCatalog.json` (exported 2026-05-09 09:09:57)  
-> **vs:** `20260502_085803_AppCatalog.json` (exported 2026-05-02 08:58:03)  
-> **Generated:** 2026-05-09 09:10 UTC
+> **Comparing:** `20260509_164248_AppCatalog.json` (exported 2026-05-09 16:42:48)  
+> **vs:** `20260502_163742_AppCatalog.json` (exported 2026-05-02 16:37:42)  
+> **Generated:** 2026-05-09 16:43 UTC
 
 ## Summary
 
@@ -36,8 +36,8 @@
 | DAX Studio | DAX Studio | DAX Studio | `3.5.1.1188` | `3.5.2.1205` | x64 |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.0.3` | `26.0.4` | x64 |
 | Dedoose | Dedoose Desktop App | Dedoose Desktop App | `10.0.59` | `10.1.5` | x86,x64 |
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.19.0` | `2026.1.20.0` | x64 |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.19.0` | `2026.1.20.0` | x64 |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.19.0` | `2026.1.20.0` | x64 |
 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.4.0` | `26.4.100` | x64 |
 | dRofus | dRofus | dRofus | `2.17.12.0` | `2.17.13.0` | x86,x64 |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.18.8` | `17.0.19.10` | x64 |
@@ -63,98 +63,98 @@
 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.49.5` | `1.49.6` | x64 |
 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.5` | `1.49.6` | x64 |
 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.5` | `1.49.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `150.0.1` | `150.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `150.0.1` | `150.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `150.0.1` | `150.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `150.0.1` | `150.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `150.0.1` | `150.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `150.0.1` | `150.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `150.0.1` | `150.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `150.0.1` | `150.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `150.0.1` | `150.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `150.0.1` | `150.0.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Korean) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Basque) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Russian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Bulgarian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Kazakh) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Thai) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Latvian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Arabic) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovenian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (French) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish Mexico) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Estonian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Croatian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Malay) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Norwegian Bokmål) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Czech) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hebrew) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Vietnamese) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Ukrainian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Swedish) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Turkish) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Indonesian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovak) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `150.0.1` | `150.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `150.0.1` | `150.0.2` | x64 |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Italian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English US) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Greek) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese Brazilian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Polish) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Turkish) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Estonian) (x64) | `115.35.1` | `115.35.2` | x64 |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Japanese) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Traditional) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Galician) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Norwegian Nynorsk) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hindi) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Finnish) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (German) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Serbian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Dutch) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Simplified) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Romanian) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Danish) (x64) | `115.35.1` | `115.35.2` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (African) (x64) | `115.35.1` | `115.35.2` | x64 |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English UK) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovenian) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese Brazilian) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English US) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Czech) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hindi) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (African) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Croatian) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (French) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Serbian) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Norwegian Nynorsk) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Malay) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Indonesian) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (German) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish Mexico) (x64) | `115.35.1` | `115.35.2` | x64 |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Lithuanian) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Bulgarian) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Basque) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Romanian) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hebrew) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Simplified) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Norwegian Bokmål) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Vietnamese) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Dutch) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovak) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Latvian) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Danish) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Russian) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Finnish) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Traditional) (x64) | `115.35.1` | `115.35.2` | x64 |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Korean) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Kazakh) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Arabic) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Polish) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Galician) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Thai) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Swedish) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Greek) (x64) | `115.35.1` | `115.35.2` | x64 |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Ukrainian) (x64) | `115.35.1` | `115.35.2` | x64 |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `33.0.3.20260427` | `33.0.4.20260504` | x64 |
 | NV Access Limited | NV Access NVDA | NVDA | `2025.3.3` | `2026.1` | x64 |
 | OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.301` | `2.7.401` | x64 |
@@ -164,20 +164,20 @@
 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 10 (x64) | `10.8.4.409` | `10.8.5.410` | x64 |
 | QGIS | QGIS | QGIS (x64) | `4.0.1` | `4.0.2` | x64 |
 | QGIS | QGIS LTR | QGIS LTR (x64) | `3.44.9` | `3.44.10` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.21` | `7.22` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.21` | `7.22` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.21` | `7.22` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.21` | `7.22` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.20` | `7.22` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.20` | `7.22` | x64 |
 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.20` | `7.22` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.20` | `7.22` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.21` | `7.22` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.21` | `7.22` | x64 |
 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.20` | `7.22` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.21` | `7.22` | x64 |
-| Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.20` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.21` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.20` | `7.22` | x64 |
 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.13` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.20` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.21` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.20` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.21` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.21` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.21` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.21` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.21` | `7.22` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.20` | `7.22` | x64 |
 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.130.9` | `2.133.4` | x64 |
 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.28.26.0` | `2.29.38.0` | x64 |
 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.9.28.8` | `12.9.29.9` | x64 |
@@ -185,12 +185,12 @@
 | SUSE | Rancher Desktop | Rancher Desktop | `1.22.0` | `1.22.2` | x64 |
 | TablePlus, Inc | TablePlus | TablePlus | `6.9.4` | `6.9.6` | x64 |
 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.76.5.0` | `15.76.6.0` | x64 |
-| UltraVNC | UltraVNC | UltraVNC (x64) | `1.6.4.0` | `1.8.2.0` | x64 |
 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.6.4.0` | `1.8.2.0` | x64 |
-| VariCAD | VariCAD | VariCAD (German) | `2026.2.02` | `2026.2.03` | x64 |
+| UltraVNC | UltraVNC | UltraVNC (x64) | `1.6.4.0` | `1.8.2.0` | x64 |
 | VariCAD | VariCAD | VariCAD (English) | `2026.2.02` | `2026.2.03` | x64 |
-| VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.02` | `2026.2.03` | x64 |
+| VariCAD | VariCAD | VariCAD (German) | `2026.2.02` | `2026.2.03` | x64 |
 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.02` | `2026.2.03` | x64 |
+| VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.02` | `2026.2.03` | x64 |
 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.6` | `1.9.7` | x64 |
 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.4` | `1.9.5` | x86,x64 |
 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0413` | `9.2.0449` | x64 |
