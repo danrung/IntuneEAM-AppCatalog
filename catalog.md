@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260508_170411_AppCatalog.json` (exported 2026-05-08 17:04:11)  
-> **Generated:** 2026-05-08 17:04 UTC  
+> **Source:** `20260509_020504_AppCatalog.json` (exported 2026-05-09 02:05:04)  
+> **Generated:** 2026-05-09 02:05 UTC  
 > **Total:** 1,522 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -259,7 +259,7 @@
 | 251 | Daniel Girardeau-Montaut | CloudCompare | CloudCompare (x64) | `2.13.2` | x64 | ❌ | en-US |
 | 252 | Datadog | Datadog Agent | Datadog Agent | `7.78.3` | x64 | ❌ | en-US |
 | 253 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.4.1.44384` | x64 | ❌ | en-US |
-| 254 | DAX Studio | DAX Studio | DAX Studio | `3.5.1.1188` | x64 | ❌ | en-US |
+| 254 | DAX Studio | DAX Studio | DAX Studio | `3.5.2.1205` | x64 | ❌ | en-US |
 | 255 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
 | 256 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.0.4` | x64 | ✅ | en-US |
 | 257 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.0.0` | x64 | ✅ | en-US |
@@ -1131,10 +1131,10 @@
 | 1123 | Passmark Software | PerformanceTest | PerformanceTest (x64) | `11.1.1009.0` | x64 | ❌ | en-US |
 | 1124 | Password Safe | Password Safe 3 | Password Safe 3 (x64) | `3.71.0` | x64 | ❌ | en-US |
 | 1125 | Pausit AB | Pausit Launcher | Pausit Launcher | `1.0.33.0` | x86,x64 | ❌ | en-US |
-| 1126 | PDF-XChange Co Ltd | PDF-Tools | PDF-Tools 9 (x64) | `9.5.368.0` | x64 | ❌ | en-US |
-| 1127 | PDF-XChange Co Ltd | PDF-Tools | PDF-Tools 10 (x64) | `10.8.4.409` | x64 | ❌ | en-US |
-| 1128 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 9 (x64) | `9.5.368.0` | x64 | ❌ | en-US |
-| 1129 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 10 (x64) | `10.8.4.409` | x64 | ❌ | en-US |
+| 1126 | PDF-XChange Co Ltd | PDF-Tools | PDF-Tools 10 (x64) | `10.8.5.410` | x64 | ❌ | en-US |
+| 1127 | PDF-XChange Co Ltd | PDF-Tools | PDF-Tools 9 (x64) | `9.5.368.0` | x64 | ❌ | en-US |
+| 1128 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 10 (x64) | `10.8.5.410` | x64 | ❌ | en-US |
+| 1129 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 9 (x64) | `9.5.368.0` | x64 | ❌ | en-US |
 | 1130 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 8 (x64) | `8.0.344.0` | x64 | ❌ | en-US |
 | 1131 | pdfforge GbR | PDFCreator | PDFCreator | `5.3.3` | x64 | ❌ | en-US |
 | 1132 | PDFgear | PDFgear | PDFgear | `2.1.15` | x64 | ❌ | en-US |
