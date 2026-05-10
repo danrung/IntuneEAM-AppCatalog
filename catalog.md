@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260510_020516_AppCatalog.json` (exported 2026-05-10 02:05:16)  
-> **Generated:** 2026-05-10 02:05 UTC  
+> **Source:** `20260510_092302_AppCatalog.json` (exported 2026-05-10 09:23:02)  
+> **Generated:** 2026-05-10 09:23 UTC  
 > **Total:** 1,522 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -348,8 +348,8 @@
 | 340 | ESET | ESET Endpoint Encryption | ESET Endpoint Encryption (x64) | `5.1.5.38` | x64 | ❌ | en-US |
 | 341 | ESET | ESET Endpoint Security V12 | Endpoint Security V12 (x64) | `12.1.2057.3` | x64 | ❌ | en-US |
 | 342 | ESET | ESET Endpoint Security V9 | Endpoint Security V9 (x64) | `9.1.2071.0` | x64 | ❌ | en-US |
-| 343 | Evernote | Evernote | Evernote | `11.15.2` | x64 | ✅ | en-US |
-| 344 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
+| 343 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
+| 344 | Evernote | Evernote | Evernote | `11.15.2` | x64 | ✅ | en-US |
 | 345 | Exacq Technologies | exacqVision Client | exacqVision Client (x64) | `26.0.3.0` | x64 | ❌ | en-US |
 | 346 | EZB Systems | EZB Systems UltraISO | UltraISO (English) | `9.7.6.3860` | x86,x64 | ❌ | en-US |
 | 347 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.70.035.016` | x64 | ❌ | en-US |
@@ -774,53 +774,53 @@
 | 766 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.6` | x64 | ❌ | en-US |
 | 767 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.6` | x64 | ❌ | en-US |
 | 768 | MOOS Project Viewer | MOOS Project Viewer | MOOS Project Viewer | `4.4.0` | x86,x64 | ❌ | en-US |
-| 769 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `150.0.2` | x64 | ✅ | sl |
-| 770 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `150.0.2` | x64 | ✅ | ar |
-| 771 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `150.0.2` | x64 | ✅ | af |
-| 772 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `150.0.2` | x64 | ✅ | da |
-| 773 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `150.0.2` | x64 | ✅ | th |
-| 774 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `150.0.2` | x64 | ✅ | zh-TW |
-| 775 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `150.0.2` | x64 | ✅ | nl |
+| 769 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `150.0.2` | x64 | ✅ | it |
+| 770 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `150.0.2` | x64 | ✅ | el |
+| 771 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `150.0.2` | x64 | ✅ | es-MX |
+| 772 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `150.0.2` | x64 | ✅ | zh-TW |
+| 773 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `150.0.2` | x64 | ✅ | eu |
+| 774 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `150.0.2` | x64 | ✅ | sl |
+| 775 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `150.0.2` | x64 | ✅ | bg |
 | 776 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `150.0.2` | x64 | ✅ | ro |
-| 777 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `150.0.2` | x64 | ✅ | pt-BR |
-| 778 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `150.0.2` | x64 | ✅ | uk |
-| 779 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `150.0.2` | x64 | ✅ | hi-IN |
+| 777 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `150.0.2` | x64 | ✅ | kk |
+| 778 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `150.0.2` | x64 | ✅ | hi-IN |
+| 779 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `150.0.2` | x64 | ✅ | fi |
 | 780 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `150.0.2` | x64 | ✅ | hr |
-| 781 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `150.0.2` | x64 | ✅ | pt-PT |
-| 782 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `150.0.2` | x64 | ✅ | vi |
-| 783 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `150.0.2` | x64 | ✅ | ja |
-| 784 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `150.0.2` | x64 | ✅ | zh-CN |
-| 785 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `150.0.2` | x64 | ✅ | es-ES |
-| 786 | Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `150.0.2` | x64 | ✅ | ms |
-| 787 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `150.0.2` | x64 | ✅ | eu |
-| 788 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `150.0.2` | x64 | ✅ | lv |
-| 789 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `150.0.2` | x64 | ✅ | kk |
-| 790 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `150.0.2` | x64 | ✅ | es-MX |
+| 781 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `150.0.2` | x64 | ✅ | af |
+| 782 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `150.0.2` | x64 | ✅ | sr |
+| 783 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `150.0.2` | x64 | ✅ | id |
+| 784 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `150.0.2` | x64 | ✅ | de |
+| 785 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `150.0.2` | x64 | ✅ | fr |
+| 786 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `150.0.2` | x64 | ✅ | nn-NO |
+| 787 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `150.0.2` | x64 | ✅ | th |
+| 788 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `150.0.2` | x64 | ✅ | pt-PT |
+| 789 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `150.0.2` | x64 | ✅ | he |
+| 790 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `150.0.2` | x64 | ✅ | sv-SE |
 | 791 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `150.0.2` | x64 | ✅ | sk |
-| 792 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `150.0.2` | x64 | ✅ | sv-SE |
-| 793 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `150.0.2` | x64 | ✅ | et |
+| 792 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `150.0.2` | x64 | ✅ | ko |
+| 793 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `150.0.2` | x64 | ✅ | en-GB |
 | 794 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `150.0.2` | x64 | ✅ | en-CA |
-| 795 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `150.0.2` | x64 | ✅ | ru |
-| 796 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `150.0.2` | x64 | ✅ | fi |
-| 797 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `150.0.2` | x64 | ✅ | fr |
-| 798 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `150.0.2` | x64 | ✅ | de |
-| 799 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `150.0.2` | x64 | ✅ | gl |
-| 800 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `150.0.2` | x64 | ✅ | sr |
-| 801 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `150.0.2` | x64 | ✅ | en-GB |
-| 802 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `150.0.2` | x64 | ✅ | bg |
-| 803 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `150.0.2` | x64 | ✅ | cs |
-| 804 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `150.0.2` | x64 | ✅ | en-US |
-| 805 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `150.0.2` | x64 | ✅ | nb-NO |
-| 806 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `150.0.2` | x64 | ✅ | pl |
-| 807 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `150.0.2` | x64 | ✅ | id |
-| 808 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `150.0.2` | x64 | ✅ | it |
-| 809 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `150.0.2` | x64 | ✅ | nn-NO |
-| 810 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `150.0.2` | x64 | ✅ | tr |
-| 811 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `150.0.2` | x64 | ✅ | ko |
-| 812 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `150.0.2` | x64 | ✅ | he |
-| 813 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `150.0.2` | x64 | ✅ | el |
-| 814 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `150.0.2` | x64 | ✅ | hu |
-| 815 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `150.0.2` | x64 | ✅ | lt |
+| 795 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `150.0.2` | x64 | ✅ | da |
+| 796 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `150.0.2` | x64 | ✅ | uk |
+| 797 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `150.0.2` | x64 | ✅ | zh-CN |
+| 798 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `150.0.2` | x64 | ✅ | es-ES |
+| 799 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `150.0.2` | x64 | ✅ | ru |
+| 800 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `150.0.2` | x64 | ✅ | en-US |
+| 801 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `150.0.2` | x64 | ✅ | nb-NO |
+| 802 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `150.0.2` | x64 | ✅ | nl |
+| 803 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `150.0.2` | x64 | ✅ | lv |
+| 804 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `150.0.2` | x64 | ✅ | lt |
+| 805 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `150.0.2` | x64 | ✅ | pt-BR |
+| 806 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `150.0.2` | x64 | ✅ | gl |
+| 807 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `150.0.2` | x64 | ✅ | ar |
+| 808 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `150.0.2` | x64 | ✅ | hu |
+| 809 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `150.0.2` | x64 | ✅ | tr |
+| 810 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `150.0.2` | x64 | ✅ | ja |
+| 811 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `150.0.2` | x64 | ✅ | cs |
+| 812 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `150.0.2` | x64 | ✅ | pl |
+| 813 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `150.0.2` | x64 | ✅ | vi |
+| 814 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `150.0.2` | x64 | ✅ | et |
+| 815 | Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `150.0.2` | x64 | ✅ | ms |
 | 816 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Portuguese Brazilian) (x64) | `102.15.1` | x64 | ✅ | pt-BR |
 | 817 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Greek) (x64) | `102.15.1` | x64 | ✅ | el |
 | 818 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Lithuanian) (x64) | `102.15.1` | x64 | ✅ | lt |
@@ -1044,7 +1044,7 @@
 | 1036 | NetBird GmbH | NetBird | NetBird | `0.66.3` | x64 | ✅ | en-US |
 | 1037 | NetSetMan GmbH | NetSetMan | NetSetMan | `5.4.0` | x86,x64 | ❌ | en-US |
 | 1038 | NETworkManager | NETworkManager | NETworkManager | `2026.2.22.0` | x64 | ❌ | en-US |
-| 1039 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.73.1` | x64 | ❌ | en-US |
+| 1039 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.74.3` | x64 | ❌ | en-US |
 | 1040 | Nextcloud | Nextcloud | Nextcloud (x64) | `33.0.4.20260504` | x64 | ❌ | en-US |
 | 1041 | Nextiva | NextivaONE | NextivaONE | `1.20.1.0` | x64 | ❌ | en-US |
 | 1042 | NGWIN | PicPick | PicPick | `7.4.1` | x86,x64 | ❌ | en-US |
@@ -1180,33 +1180,33 @@
 | 1172 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23081` | x86,x64 | ❌ | en-US |
 | 1173 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.22` | x64 | ❌ | fi |
 | 1174 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.22` | x64 | ❌ | en-US |
-| 1175 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.22` | x64 | ❌ | it |
-| 1176 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.22` | x64 | ❌ | fr |
-| 1177 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.22` | x64 | ❌ | zh-CN |
-| 1178 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.22` | x64 | ❌ | en-US |
-| 1179 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | x64 | ❌ | sk |
-| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.22` | x64 | ❌ | pl |
-| 1181 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
-| 1182 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.22` | x64 | ❌ | de |
-| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
-| 1184 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.22` | x64 | ❌ | cs |
-| 1185 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.22` | x64 | ❌ | zh-TW |
-| 1186 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.22` | x64 | ❌ | ru |
-| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
-| 1188 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.22` | x64 | ❌ | da |
-| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.22` | x64 | ❌ | th |
-| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.22` | x64 | ❌ | ja |
-| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
-| 1192 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
-| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.22` | x64 | ❌ | ar |
-| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.22` | x64 | ❌ | sv |
-| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
-| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
-| 1197 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.13` | x64 | ❌ | sr |
-| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.22` | x64 | ❌ | es |
-| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.22` | x64 | ❌ | ko |
-| 1200 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.22` | x64 | ❌ | bg |
-| 1201 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.22` | x64 | ❌ | nl |
+| 1175 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.22` | x64 | ❌ | nl |
+| 1176 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.22` | x64 | ❌ | es |
+| 1177 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.22` | x64 | ❌ | it |
+| 1178 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.22` | x64 | ❌ | zh-CN |
+| 1179 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.22` | x64 | ❌ | en-US |
+| 1180 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | x64 | ❌ | sk |
+| 1181 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.22` | x64 | ❌ | fr |
+| 1182 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.22` | x64 | ❌ | pl |
+| 1183 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
+| 1184 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.22` | x64 | ❌ | de |
+| 1185 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
+| 1186 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.22` | x64 | ❌ | zh-TW |
+| 1187 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.22` | x64 | ❌ | ru |
+| 1188 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
+| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.22` | x64 | ❌ | da |
+| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.22` | x64 | ❌ | cs |
+| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.22` | x64 | ❌ | th |
+| 1192 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.22` | x64 | ❌ | ja |
+| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
+| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | x64 | ❌ | hu |
+| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.22` | x64 | ❌ | ar |
+| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.22` | x64 | ❌ | sv |
+| 1197 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
+| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.13` | x64 | ❌ | ro |
+| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.13` | x64 | ❌ | sr |
+| 1200 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.22` | x64 | ❌ | ko |
+| 1201 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.22` | x64 | ❌ | bg |
 | 1202 | Raspberry Pi Ltd | Raspberry Pi Imager | Raspberry Pi Imager | `2.0.4` | x64 | ❌ | en-US |
 | 1203 | Realtime Soft Ltd | UltraMon | UltraMon (x64) | `3.4.1` | x64 | ❌ | en-US |
 | 1204 | Red Hat | Red Hat OpenJDK | Red Hat OpenJDK 21 | `21.0080.9.1` | x64 | ❌ | en-US |
@@ -1439,10 +1439,10 @@
 | 1431 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.0` | x64 | ❌ | en-US |
 | 1432 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.0` | x64 | ❌ | en-US |
 | 1433 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
-| 1434 | VariCAD | VariCAD | VariCAD (German) | `2026.2.03` | x64 | ❌ | de |
-| 1435 | VariCAD | VariCAD | VariCAD (English) | `2026.2.03` | x64 | ❌ | en-US |
-| 1436 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.03` | x64 | ❌ | en-US |
-| 1437 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.03` | x64 | ❌ | de |
+| 1434 | VariCAD | VariCAD | VariCAD (English) | `2026.2.03` | x64 | ❌ | en-US |
+| 1435 | VariCAD | VariCAD | VariCAD (German) | `2026.2.03` | x64 | ❌ | de |
+| 1436 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.03` | x64 | ❌ | de |
+| 1437 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.03` | x64 | ❌ | en-US |
 | 1438 | VeraCrypt | VeraCrypt | VeraCrypt | `1.26.24` | x64 | ❌ | en-US |
 | 1439 | Verbi GmbH | MAXQDA 2020 Reader | MAXQDA 2020 Reader | `20.4.1` | x64 | ❌ | en-US |
 | 1440 | VEX Robotics | VEXcode IQ 3 | VEXcode IQ 3 | `3.0.4.1` | x86,x64 | ❌ | en-US |
