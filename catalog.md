@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260511_105403_AppCatalog.json` (exported 2026-05-11 10:54:03)  
-> **Generated:** 2026-05-11 10:54 UTC  
+> **Source:** `20260511_175013_AppCatalog.json` (exported 2026-05-11 17:50:13)  
+> **Generated:** 2026-05-11 17:50 UTC  
 > **Total:** 1,522 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -276,8 +276,8 @@
 | 268 | Dell, Inc. | Dell SupportAssist | Dell SupportAssist for Business PCs (x64) | `4.5.3.25254` | x64 | ❌ | en-US |
 | 269 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
 | 270 | Dell, Inc. | RVTools | RVTools | `4.7.1` | x86,x64 | ❌ | en-US |
-| 271 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.20.0` | x64 | ✅ | en-US |
-| 272 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.20.0` | x64 | ✅ | en-US |
+| 271 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.22.0` | x64 | ✅ | en-US |
+| 272 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.22.0` | x64 | ✅ | en-US |
 | 273 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager | `2026.1.19.0` | x64 | ❌ | en-US |
 | 274 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.1.18.0` | x86,x64 | ❌ | en-US |
 | 275 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.3.0` | x64 | ❌ | en-US |
@@ -290,7 +290,7 @@
 | 282 | Don Ho | Notepad++ | Notepad++ (x64) (MSI) | `8.9.4` | x64 | ❌ | en-US |
 | 283 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
 | 284 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.4.100` | x64 | ❌ | en-US |
-| 285 | draw.io | draw.io Desktop | draw.io Desktop | `29.7.8` | x64 | ✅ | en-US |
+| 285 | draw.io | draw.io Desktop | draw.io Desktop | `30.0.0` | x64 | ✅ | en-US |
 | 286 | dRofus | dRofus | dRofus | `2.17.13.0` | x86,x64 | ❌ | en-US |
 | 287 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `7.5.7` | x64 | ❌ | en-US |
 | 288 | DucFabulous | UltraViewer | UltraViewer | `6.6.124` | x86,x64 | ✅ | en-US |
@@ -402,7 +402,7 @@
 | 394 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.20.9` | x64 | ❌ | en-US |
 | 395 | Genesys | Genesys Cloud | Genesys Cloud | `2.49.903` | x86,x64 | ❌ | en-US |
 | 396 | Genesys | Genesys Cloud Background Assistant | Genesys Cloud Background Assistant | `1.6.436` | x86,x64 | ❌ | en-US |
-| 397 | Gephi | Gephi | Gephi (x64) | `0.10.1` | x64 | ❌ | en-US |
+| 397 | Gephi | Gephi | Gephi (x64) | `0.11.2` | x64 | ❌ | en-US |
 | 398 | Gerardo Grignoli | gsudo | gsudo (x64) | `2.6.1` | x64 | ❌ | en-US |
 | 399 | GFI Software | Kerio Connect | Kerio Connect | `10.0.9.10051` | x64 | ❌ | en-US |
 | 400 | GIMP | GIMP | GIMP | `3.2.4.0` | x64 | ❌ | en-US |
@@ -535,9 +535,9 @@
 | 527 | KUBUS BV | BCF Manager for Tekla | BCF Manager for Tekla | `6.2.16` | x64 | ❌ | en-US |
 | 528 | Lansweeper | Lansweeper | Lansweeper | `12.7.1.1` | x86,x64 | ❌ | en-US |
 | 529 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool | `7.48.9` | x86,x64 | ❌ | en-US |
-| 530 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `7.66.6` | x64 | ❌ | en-US |
+| 530 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `7.67.10` | x64 | ❌ | en-US |
 | 531 | LastPass | LastPass | LastPass | `5.1.0.1209` | x64 | ❌ | en-US |
-| 532 | Laurent Cozic | Joplin | Joplin | `3.5.13` | x64 | ❌ | en-US |
+| 532 | Laurent Cozic | Joplin | Joplin | `3.6.11` | x64 | ❌ | en-US |
 | 533 | LEGO | LEGO Education SPIKE | LEGO Education SPIKE | `3.6.0` | x64 | ❌ | en-US |
 | 534 | Lenovo Software | Lenovo Accessories and Display Manager | Lenovo Accessories and Display Manager | `1.0.7.8` | x64 | ❌ | en-US |
 | 535 | Lenovo Software | Lenovo Quick Clean | Lenovo Quick Clean | `1.02.0051` | x64 | ❌ | en-US |
@@ -590,7 +590,7 @@
 | 582 | Mendix Technology B.V. | Mendix 9 | Mendix 9.16 | `9.16.1.50105` | x64 | ❌ | en-US |
 | 583 | Mendix Technology B.V. | Mendix 9 | Mendix 9.12 | `9.12.14.5695` | x64 | ❌ | en-US |
 | 584 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.3 | `9.3.0.22930` | x64 | ❌ | en-US |
-| 585 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9 (LTS) | `9.24.42.98709` | x64 | ❌ | en-US |
+| 585 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9 (LTS) | `9.24.43.106430` | x64 | ❌ | en-US |
 | 586 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.14 | `9.14.2.48548` | x64 | ❌ | en-US |
 | 587 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.18 | `9.18.7.5806` | x64 | ❌ | en-US |
 | 588 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.11 | `9.11.1.40456` | x64 | ❌ | en-US |
@@ -1277,7 +1277,7 @@
 | 1269 | Smart Projects | IsoBuster | IsoBuster (x64) | `5.7` | x64 | ❌ | en-US |
 | 1270 | SmartBear Software | SoapUI | SoapUI (x64) | `5.9.1` | x64 | ❌ | en-US |
 | 1271 | Smartsheet Inc. | Smartsheet desktop app | Smartsheet desktop app | `1.0.54` | x64 | ❌ | en-US |
-| 1272 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3322.0` | x64 | ❌ | en-US |
+| 1272 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3323.0` | x64 | ❌ | en-US |
 | 1273 | SMath LLC | SMath Studio | SMath Studio | `1.3.0-9126` | x86,x64 | ❌ | en-US |
 | 1274 | Snapmaker | Snapmaker Luban | Snapmaker Luban (x64) | `4.15.0` | x64 | ❌ | en-US |
 | 1275 | SnelStart | SnelStart | SnelStart | `12.195.36` | x86,x64 | ❌ | nl |
@@ -1302,7 +1302,7 @@
 | 1294 | Squirrels | Squirrels Reflector 4 | Reflector 4 (x64) | `4.1.2` | x64 | ❌ | en-US |
 | 1295 | SRWare | SRWare Iron | Iron (x64) | `147.0.7750.0` | x64 | ❌ | en-US |
 | 1296 | Steam | Steam | Steam | `2.10.91.91` | x86,x64 | ❌ | en-US |
-| 1297 | Stefan Freischlad | Filius | Filius | `2.10.1` | x86,x64 | ❌ | de |
+| 1297 | Stefan Freischlad | Filius | Filius | `2.11.0` | x86,x64 | ❌ | de |
 | 1298 | Stefans Tools | grepWin | grepWin (x64) | `2.1.12.1434` | x64 | ❌ | en-US |
 | 1299 | Stellarium Developers | Stellarium | Stellarium (x64) | `26.1` | x64 | ❌ | en-US |
 | 1300 | Stephen J. Ressler | Bridge Designer 2016 | Bridge Designer 2016 | `2016.2` | x86,x64 | ❌ | en-US |
@@ -1450,7 +1450,7 @@
 | 1442 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
 | 1443 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.7` | x64 | ❌ | en-US |
 | 1444 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.5` | x86,x64 | ❌ | en-US |
-| 1445 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0449` | x64 | ❌ | en-US |
+| 1445 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0461` | x64 | ❌ | en-US |
 | 1446 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0390` | x64 | ❌ | en-US |
 | 1447 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.0.0.0` | x64 | ❌ | en-US |
 | 1448 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
@@ -1513,7 +1513,7 @@
 | 1505 | Zoom Video Communications, Inc. | Zoom Plugin for Microsoft Outlook | Zoom Plugin for Microsoft Outlook | `6.6.10` | x86,x64 | ❌ | en-US |
 | 1506 | Zoom Video Communications, Inc. | Zoom Plugin for Skype for Business | Zoom Plugin for Skype for Business | `5.13.10` | x86,x64 | ❌ | en-US |
 | 1507 | Zoom Video Communications, Inc. | Zoom Plugin for Windows Virtual Desktop Client | Zoom Plugin for Windows Virtual Desktop Client | `5.15.24490` | x86,x64 | ❌ | en-US |
-| 1508 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.0.0` | x64 | ❌ | en-US |
+| 1508 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.0.5` | x64 | ❌ | en-US |
 | 1509 | Zoom Video Communications, Inc. | Zoom VDI Universal Plugin | Zoom VDI Universal Plugin (x64) | `6.5.10.26710` | x64 | ❌ | en-US |
 | 1510 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) | `7.0.34412` | x64 | ✅ | en-US |
 | 1511 | Zorus Inc. | Zorus Archon Agent | Zorus Archon Agent | `4.6.0.0` | x64 | ❌ | en-US |
