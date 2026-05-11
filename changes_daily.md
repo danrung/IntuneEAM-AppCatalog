@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260511_021442_AppCatalog.json` (exported 2026-05-11 02:14:42)  
-> **vs:** `20260510_020516_AppCatalog.json` (exported 2026-05-10 02:05:16)  
-> **Generated:** 2026-05-11 02:15 UTC
+> **Comparing:** `20260511_105403_AppCatalog.json` (exported 2026-05-11 10:54:03)  
+> **vs:** `20260510_092302_AppCatalog.json` (exported 2026-05-10 09:23:02)  
+> **Generated:** 2026-05-11 10:54 UTC
 
 ## Summary
 
@@ -10,11 +10,7 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 1 |
+| 🔄 Updated (version change) | 0 |
 
-## 🔄 Updated (1 packages)
-
-| Publisher | App | Branch | Previous Version | New Version | Architecture |
-|-----------|-----|--------|:---------------:|:-----------:|:------------:|
-| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.73.1` | `1.74.3` | x64 |
+> No changes detected between these two catalog exports.
 
