@@ -1,30 +1,30 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20260512_021013_AppCatalog.json` (exported 2026-05-12 02:10:13)  
-> **vs:** `20260511_175013_AppCatalog.json` (exported 2026-05-11 17:50:13)  
-> **Generated:** 2026-05-12 02:10 UTC
+> **Comparing:** `20260512_144011_AppCatalog.json` (exported 2026-05-12 14:40:11)  
+> **vs:** `20260512_021013_AppCatalog.json` (exported 2026-05-12 02:10:13)  
+> **Generated:** 2026-05-12 14:40 UTC
 
 ## Summary
 
 | Change | Count |
 |--------|------:|
-| ✅ Added | 2 |
+| ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 4 |
+| 🔄 Updated (version change) | 11 |
 
-## ✅ Added (2 packages)
-
-| Publisher | App | Branch | Version | Architecture |
-|-----------|-----|--------|---------|:------------:|
-| Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.0.2413` | x64 |
-| JetBrains | JetBrains dotUltimate | dotUltimate 2024.3 | `2024.3.10` | x86,x64 |
-
-## 🔄 Updated (4 packages)
+## 🔄 Updated (11 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
-| AnyDesk Software GmbH | AnyDesk | AnyDesk (EXE) | `9.6.12` | `9.7.2` | x86,x64 |
-| CoolUtils | Mail Viewer | Mail Viewer | `1.0.9623.36058` | `1.0.9627.37777` | x86,x64 |
-| DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.1.1` | `26.1.2` | x64 |
-| R Core Team | R for Windows | R for Windows | `4.5.3` | `4.6.0` | x64 |
+| Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.3.851.0` | `26.4.1350.0` | x64 |
+| Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.3.0` | `2026.1.4.0` | x64 |
+| Don Ho | Notepad++ | Notepad++ (x64) (EXE) | `8.9.4` | `8.9.5` | x64 |
+| Don Ho | Notepad++ | Notepad++ (x64) (MSI) | `8.9.4` | `8.9.5` | x64 |
+| EnterpriseDB Corporation | pgAdmin 4 | pgAdmin 4 | `9.14` | `9.15` | x64 |
+| Freedom Scientific | Fusion | Fusion 2025 (x64) | `2025.2508.21.400` | `2025.2508.29.400` | x64 |
+| Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.128.1` | `1.26.318.1` | x64 |
+| Passmark Software | PerformanceTest | PerformanceTest (x64) | `11.1.1009.0` | `11.1.1010.0` | x64 |
+| Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.21` | `7.22` | x64 |
+| Smart Projects | IsoBuster | IsoBuster (x64) | `5.7` | `5.8` | x64 |
+| Synology | Synology Drive Client | Synology Drive Client (x64) | `4.0.2.17889` | `4.0.3.17892` | x64 |
 
