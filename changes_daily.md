@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260515_040344_AppCatalog.json` (exported 2026-05-15 04:03:44)  
+> **Comparing:** `20260515_142310_AppCatalog.json` (exported 2026-05-15 14:23:10)  
 > **vs:** `20260514_035855_AppCatalog.json` (exported 2026-05-14 03:58:55)  
-> **Generated:** 2026-05-15 04:04 UTC
+> **Generated:** 2026-05-15 14:23 UTC
 
 ## Summary
 
@@ -10,9 +10,9 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 16 |
+| 🔄 Updated (version change) | 17 |
 
-## 🔄 Updated (16 packages)
+## 🔄 Updated (17 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
@@ -24,6 +24,7 @@
 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.19` | `2.20` | x64 |
 | Datadog | Datadog Agent | Datadog Agent | `7.78.3` | `7.78.4` | x64 |
 | Dương Diệu Pháp | ImageGlass | ImageGlass 9 (x64) | `9.4.1.15` | `9.5.0.515` | x64 |
+| Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.0.2413` | `6.12.1.2417` | x64 |
 | Google | Google Drive | Google Drive | `124.0.3.0` | `125.0.0.0` | x64 |
 | Google | Google Drive File Stream | Google Drive File Stream | `124.0.3.0` | `125.0.0.0` | x64 |
 | Keeper | Keeper | Keeper | `17.6.1.0` | `18.0.0.0` | x86,x64 |
