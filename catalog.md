@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260514_143010_AppCatalog.json` (exported 2026-05-14 14:30:10)  
-> **Generated:** 2026-05-14 14:30 UTC  
+> **Source:** `20260515_040344_AppCatalog.json` (exported 2026-05-15 04:03:44)  
+> **Generated:** 2026-05-15 04:04 UTC  
 > **Total:** 1,524 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -55,9 +55,9 @@
 | 47 | Amazon | Amazon Corretto JDK 19 | Amazon Corretto JDK 19 | `19.0.2.7.1` | x64 | ❌ | en-US |
 | 48 | Amazon | Amazon Corretto JDK 8 | Amazon Corretto JDK 8 (x64) | `8.492.09.2` | x64 | ❌ | en-US |
 | 49 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
-| 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.159.1` | x64 | ❌ | en-US |
+| 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.160.0` | x64 | ❌ | en-US |
 | 51 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.814.0` | x64 | ❌ | en-US |
-| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.7` | x64 | ❌ | en-US |
+| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.8` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 54 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.1.17.0` | x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.32.0.5813` | x64 | ❌ | en-US |
@@ -190,7 +190,7 @@
 | 182 | Boris Eyrich Software | Artweaver Free | Artweaver Free | `8.1.4.3857` | x64 | ✅ | en-US |
 | 183 | Botkind, Inc. | Allway Sync | Allway Sync (x64) | `22.0.1` | x64 | ❌ | en-US |
 | 184 | Box | Box CLI | Box CLI (x64) | `4.8.0` | x64 | ❌ | en-US |
-| 185 | Box | Box Drive | Box Drive (x64) | `2.49.257` | x64 | ❌ | en-US |
+| 185 | Box | Box Drive | Box Drive (x64) | `2.51.234` | x64 | ❌ | en-US |
 | 186 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | x64 | ❌ | en-US |
 | 187 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.85.0` | x64 | ❌ | en-US |
 | 188 | Brink Software B.V. | Ibis Calculeren voor Bouw | Ibis Calculeren voor Bouw | `4.2.73.0` | x64 | ❌ | nl |
@@ -202,7 +202,7 @@
 | 194 | Cake.com Inc. | Clockify | Clockify | `2.1.8` | x64 | ❌ | en-US |
 | 195 | Calibrite | Calibrite Profiler | Calibrite Profiler | `2.0.0` | x64 | ❌ | en-US |
 | 196 | Canon Production Printing | Publisher Select 3 | Publisher Select 3 | `3.6.2` | x86,x64 | ❌ | en-US |
-| 197 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `23.6` | x86,x64 | ❌ | en-US |
+| 197 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `23.7` | x86,x64 | ❌ | en-US |
 | 198 | Capture One | Capture One 20 | Capture One 20 | `13.1.4` | x64 | ❌ | en-US |
 | 199 | Capture One | Capture One 22 | Capture One 22 | `15.4.2.10` | x64 | ❌ | en-US |
 | 200 | Cato Networks | Cato Client | Cato Client | `6.2.0.8682` | x86,x64 | ❌ | en-US |
@@ -218,9 +218,9 @@
 | 210 | Cisco Systems, Inc. | Cisco JVDI Agent 15 | Cisco JVDI Agent 15 | `15.2.1.60904` | x86,x64 | ❌ | en-US |
 | 211 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.5.0.34931` | x64 | ✅ | en-US |
 | 212 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.5.0.34931` | x64 | ✅ | en-US |
-| 213 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.4.0.34752` | x64 | ✅ | en-US |
-| 214 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.5.0.34931` | x64 | ✅ | en-US |
-| 215 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings | `45.6.4.8` | x86,x64 | ✅ | en-US |
+| 213 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.5.0.34931` | x64 | ✅ | en-US |
+| 214 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings | `45.6.4.8` | x86,x64 | ✅ | en-US |
+| 215 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.5.0.34931` | x64 | ✅ | en-US |
 | 216 | Cisco Webex LLC | Cisco Webex Productivity Tools | Webex Productivity Tools | `43.6.1.50` | x86,x64 | ❌ | en-US |
 | 217 | Cisco Webex LLC | Cisco WebEx Recorder and Player | WebEx Recorder and Player | `45.6.4.8` | x86,x64 | ❌ | en-US |
 | 218 | Cisco Webex LLC | Cisco WebEx Recording Editor | WebEx Recording Editor | `45.6.4.8` | x86,x64 | ❌ | en-US |
@@ -247,7 +247,7 @@
 | 239 | ComponentAgro B.V. | ComponentAgro CHECK PC2Web | CHECK PC2Web | `7.44.0.0` | x86,x64 | ❌ | nl |
 | 240 | CoolUtils | Mail Viewer | Mail Viewer | `1.0.9627.37777` | x86,x64 | ❌ | en-US |
 | 241 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
-| 242 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.19` | x64 | ❌ | en-US |
+| 242 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.20` | x64 | ❌ | en-US |
 | 243 | CPUID, Inc | HWMonitor | HWMonitor | `1.63` | x64 | ❌ | en-US |
 | 244 | Creative Force | Creative Force Kelvin | Kelvin | `6.1.1` | x64 | ❌ | en-US |
 | 245 | Creative Force | Creative Force Triad | Triad | `4.4.0` | x64 | ❌ | en-US |
@@ -257,7 +257,7 @@
 | 249 | Daiyuu Nobori, University of Tsukuba, Japan | Win10Pcap | Win10Pcap | `10.2.5002` | x86,x64 | ❌ | en-US |
 | 250 | Dane Prairie Systems | Dane Prairie Systems Win2PDF | Win2PDF | `11.0.8.1` | x64 | ❌ | en-US |
 | 251 | Daniel Girardeau-Montaut | CloudCompare | CloudCompare (x64) | `2.13.2` | x64 | ❌ | en-US |
-| 252 | Datadog | Datadog Agent | Datadog Agent | `7.78.3` | x64 | ❌ | en-US |
+| 252 | Datadog | Datadog Agent | Datadog Agent | `7.78.4` | x64 | ❌ | en-US |
 | 253 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.4.1.44384` | x64 | ❌ | en-US |
 | 254 | DAX Studio | DAX Studio | DAX Studio | `3.5.2.1205` | x64 | ❌ | en-US |
 | 255 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
@@ -299,7 +299,7 @@
 | 291 | Duxbury Systems | Perky Duck | Perky Duck | `12.7` | x86,x64 | ❌ | en-US |
 | 292 | DYMO | DYMO ID | DYMO ID | `1.5.1` | x86,x64 | ❌ | en-US |
 | 293 | Dương Diệu Pháp | ImageGlass | ImageGlass 8 (x64) | `8.11.12.6` | x64 | ❌ | en-US |
-| 294 | Dương Diệu Pháp | ImageGlass | ImageGlass 9 (x64) | `9.4.1.15` | x64 | ❌ | en-US |
+| 294 | Dương Diệu Pháp | ImageGlass | ImageGlass 9 (x64) | `9.5.0.515` | x64 | ❌ | en-US |
 | 295 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 11 (LTS) | Eclipse Temurin JDK with Hotspot 11 (LTS) (x64) | `11.0.31.11` | x64 | ❌ | en-US |
 | 296 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 12 | Eclipse Temurin JDK with Hotspot 12 (x64) | `12.0.2.10` | x64 | ❌ | en-US |
 | 297 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 15 | Eclipse Temurin JDK with Hotspot 15 (x64) | `15.0.2.7` | x64 | ❌ | en-US |
@@ -416,8 +416,8 @@
 | 408 | Google | Google Chrome for Business | Chrome for Business 64-bit | `148.0.7778.168` | x64 | ✅ | en-US |
 | 409 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `148.0.7778.23` | x86,x64 | ❌ | en-US |
 | 410 | Google | Google Credential Provider for Windows | Google Credential Provider for Windows (x64) | `138.0.7204.26` | x64 | ❌ | en-US |
-| 411 | Google | Google Drive | Google Drive | `124.0.3.0` | x64 | ✅ | en-US |
-| 412 | Google | Google Drive File Stream | Google Drive File Stream | `124.0.3.0` | x64 | ❌ | en-US |
+| 411 | Google | Google Drive | Google Drive | `125.0.0.0` | x64 | ✅ | en-US |
+| 412 | Google | Google Drive File Stream | Google Drive File Stream | `125.0.0.0` | x64 | ❌ | en-US |
 | 413 | Google | Google Go Programming Language 1.16 | Go Programming Language 1.16 (x64) | `1.16.15` | x64 | ❌ | en-US |
 | 414 | Google | Google Go Programming Language 1.17 | Go Programming Language 1.17 (x64) | `1.17.13` | x64 | ❌ | en-US |
 | 415 | Google | Google Go Programming Language 1.18 | Go Programming Language 1.18 (x64) | `1.18.10` | x64 | ❌ | en-US |
@@ -1235,7 +1235,7 @@
 | 1227 | RStudio | Rstudio 2024 | RStudio 2024.09 | `2024.09.1.394` | x64 | ❌ | en-US |
 | 1228 | RStudio | Rstudio 2024 | RStudio 2024.12 | `2024.12.1.563` | x64 | ❌ | en-US |
 | 1229 | Rystad Energy | Cube Browser | Cube Browser (x64) | `2.6.52.0` | x64 | ❌ | en-US |
-| 1230 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.133.4` | x64 | ❌ | en-US |
+| 1230 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.134.6` | x64 | ❌ | en-US |
 | 1231 | Samsung | Samsung Smart Switch | Samsung Smart Switch | `4.3.24062.1` | x86,x64 | ❌ | en-US |
 | 1232 | Samsung Techwin Co., Ltd | Samsung Smart View | Smart View | `1.0.0.0` | x86,x64 | ❌ | en-US |
 | 1233 | SanDisk Corporation | SanDisk Dashboard | SanDisk Dashboard | `5.2.2.3` | x86,x64 | ✅ | en-US |
@@ -1297,7 +1297,7 @@
 | 1289 | Sophos | Sophos Connect | Sophos Connect | `2.3.3003.0207` | x86,x64 | ❌ | en-US |
 | 1290 | South River Technologies | South River Technologies WebDrive | WebDrive (x64) | `1.1.18` | x64 | ❌ | en-US |
 | 1291 | Sparkol | VideoScribe | VideoScribe | `3.14.2` | x64 | ❌ | en-US |
-| 1292 | Splashtop Inc. | Splashtop Business | Splashtop Business | `3.8.2.0` | x86,x64 | ❌ | en-US |
+| 1292 | Splashtop Inc. | Splashtop Business | Splashtop Business | `3.8.4.0` | x86,x64 | ❌ | en-US |
 | 1293 | Squirrels | AirParrot 2 | AirParrot 2 (x64) | `2.7.5` | x64 | ❌ | en-US |
 | 1294 | Squirrels | Ditto Connect | Ditto Connect (x64) | `1.11.2` | x64 | ❌ | en-US |
 | 1295 | Squirrels | Squirrels Reflector 3 | Reflector 3 (x64) | `3.2.0` | x64 | ❌ | en-US |
@@ -1311,7 +1311,7 @@
 | 1303 | SuperOffice AS | SuperOffice WebTools | SuperOffice WebTools for SuperOffice 10.3.1 or newer | `13.0.177.0` | x86,x64 | ❌ | en-US |
 | 1304 | SURF | SURF eduVPN Client | eduVPN Client (x64) | `4.2` | x64 | ❌ | en-US |
 | 1305 | SURF | SURFdrive | SURFdrive (x64) | `5.3.2.15536` | x64 | ❌ | en-US |
-| 1306 | SUSE | Rancher Desktop | Rancher Desktop | `1.22.2` | x64 | ❌ | en-US |
+| 1306 | SUSE | Rancher Desktop | Rancher Desktop | `1.22.3` | x64 | ❌ | en-US |
 | 1307 | Symphony Communication Services, LLC | Symphony Desktop Application | Symphony Desktop Application | `26.2.0.2988` | x64 | ❌ | en-US |
 | 1308 | Synology | Synology Cloud Station Backup | Synology Cloud Station Backup | `4.3.3.4469` | x86,x64 | ❌ | en-US |
 | 1309 | Synology | Synology Cloud Station Drive | Synology Cloud Station Drive | `4.3.3.4469` | x86,x64 | ❌ | en-US |
@@ -1325,7 +1325,7 @@
 | 1317 | Tableau Software Inc | Tableau Prep Builder 2022 | Tableau Prep Builder 2022.4 | `22.4.27646.0` | x64 | ✅ | en-US |
 | 1318 | TablePlus, Inc | TablePlus | TablePlus | `6.9.6` | x64 | ❌ | en-US |
 | 1319 | Tabular Editor ApS | Tabular Editor 2 | Tabular Editor 2 | `2.24.1` | x86,x64 | ❌ | en-US |
-| 1320 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.96.3` | x64 | ❌ | en-US |
+| 1320 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.98.1` | x64 | ❌ | en-US |
 | 1321 | Talkdesk, Inc. | Talkdesk | Talkdesk | `3.1.1` | x64 | ❌ | en-US |
 | 1322 | Talkdesk, Inc. | Talkdesk | Talkdesk (x64) | `1.6.3.1974` | x64 | ❌ | en-US |
 | 1323 | Tarma Software Research Ltd | Publish or Perish | Publish or Perish | `8.19.5300.9483` | x64 | ❌ | en-US |
