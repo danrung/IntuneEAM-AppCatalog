@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 16 May 2026 13:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 04:03:53 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-05-17 04:03:53 — +0 added, −0 removed, ↺0 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Sun, 17 May 2026 04:03:53 +0000</pubDate>
+      <guid isPermaLink='false'>2026-05-17T04:03:53Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-05-17 04:03:53</p><p><strong>Compared to:</strong> 20260516_134710_AppCatalog.json (2026-05-16 13:47:10)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-05-16 13:47:10 — +0 added, −0 removed, ↺0 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Sat, 16 May 2026 13:47:10 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Wed, 29 Apr 2026 15:09:01 +0000</pubDate>
       <guid isPermaLink='false'>2026-04-29T15:09:01Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-04-29 15:09:01</p><p><strong>Compared to:</strong> 20260428_174044_AppCatalog.json (2026-04-28 17:40:44)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;111 updated</p><h3>Updated (111)</h3><ul><li>3Dconnexion UK — 3DxWare 10 &nbsp;<code>10.9.12.735</code> → <code>10.9.13.740</code></li><li>Abacus Research AG — AbaClient &nbsp;<code>4.0.1124</code> → <code>4.2.1165</code></li><li>Abacus Research AG — AbaClient &nbsp;<code>4.0.1124</code> → <code>4.2.1165</code></li><li>Abacus Research AG — AbaClient &nbsp;<code>4.0.1124</code> → <code>4.2.1165</code></li><li>Abacus Research AG — AbaClient &nbsp;<code>4.0.1124</code> → <code>4.2.1165</code></li><li>Amazon — AWS SAM command line interface &nbsp;<code>1.158.0</code> → <code>1.159.1</code></li><li>Amazon Web Services, Inc — Amazon Redshift ODBC driver &nbsp;<code>2.1.16.0</code> → <code>2.1.17.0</code></li><li>Articulate — Articulate 360 &nbsp;<code>1.115.36688.0</code> → <code>1.116.36776.0</code></li><li>Certum — proCertum SmartSign SimplySign Desktop &nbsp;<code>9.4.2.86</code> → <code>9.4.3.90</code></li><li>Eclipse Foundation — Eclipse Temurin JDK with Hotspot 11 (LTS) &nbsp;<code>11.0.30.7</code> → <code>11.0.31.11</code></li><li>Eclipse Foundation — Eclipse Temurin JDK with Hotspot 21 &nbsp;<code>21.0.10.7</code> → <code>21.0.11.10</code></li><li>Eclipse Foundation — Eclipse Temurin JRE with Hotspot 11 (LTS) &nbsp;<code>11.0.30.7</code> → <code>11.0.31.11</code></li><li>Evernote — Evernote &nbsp;<code>11.13.2</code> → <code>11.14.1</code></li><li>GitHub, Inc. — GitHub CLI &nbsp;<code>2.91.0</code> → <code>2.92.0</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>150.0</code> → <code>150.0.1</code></li><li>… and 91 more</li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-04-25 08:42:33 — +0 added, −0 removed, ↺18 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Sat, 25 Apr 2026 08:42:33 +0000</pubDate>
-      <guid isPermaLink='false'>2026-04-25T08:42:33Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-04-25 08:42:33</p><p><strong>Compared to:</strong> 20260424_092330_AppCatalog.json (2026-04-24 09:23:30)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;18 updated</p><h3>Updated (18)</h3><ul><li>Amazon Web Services — AWS Session Manager Plugin &nbsp;<code>1.2.804.0</code> → <code>1.2.814.0</code></li><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.44.84</code> → <code>1.44.85</code></li><li>Bizagi Limited — Galaxy Modeler &nbsp;<code>12.5.0</code> → <code>12.6.0</code></li><li>Bizagi Limited — Moon Modeler &nbsp;<code>12.5.0</code> → <code>12.6.0</code></li><li>code4ward.net e.U. — Royal TS 7 &nbsp;<code>7.04.50331.0</code> → <code>7.04.50424.0</code></li><li>CoolUtils — Mail Viewer &nbsp;<code>1.0.9600.39956</code> → <code>1.0.9610.34127</code></li><li>Datadog — Datadog Agent &nbsp;<code>7.78.0</code> → <code>7.78.1</code></li><li>Ideamerit s.r.o. — Luna Modeler &nbsp;<code>13.5.0</code> → <code>13.6.0</code></li><li>Ideamerit s.r.o. — Meteor Modeler &nbsp;<code>12.5.0</code> → <code>12.6.0</code></li><li>JetBrains — GoLand &nbsp;<code>2026.1</code> → <code>2026.1.1</code></li><li>JetBrains — WebStorm &nbsp;<code>2026.1</code> → <code>2026.1.1</code></li><li>Nagios Enterprises — NCPA &nbsp;<code>3.3.1</code> → <code>3.4.0</code></li><li>Oracle — Oracle MySQL Installer 8 &nbsp;<code>8.0.45.0</code> → <code>8.0.46.0</code></li><li>PortSwigger — Burp Suite Professional Edition &nbsp;<code>2026.3.2</code> → <code>2026.3.3</code></li><li>TablePlus, Inc — TablePlus &nbsp;<code>6.9.2</code> → <code>6.9.3</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0323</code> → <code>9.2.0390</code></li><li>Wazuh Inc. — Wazuh Agent &nbsp;<code>4.14.4</code> → <code>4.14.5</code></li><li>Zello Inc. — Zello &nbsp;<code>18.3.0.0</code> → <code>18.4.0.0</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>

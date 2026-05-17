@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260516_134710_AppCatalog.json` (exported 2026-05-16 13:47:10)  
-> **Generated:** 2026-05-16 13:47 UTC  
+> **Source:** `20260517_040353_AppCatalog.json` (exported 2026-05-17 04:03:53)  
+> **Generated:** 2026-05-17 04:04 UTC  
 > **Total:** 1,524 packages · 915 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -370,8 +370,8 @@
 | 362 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 363 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 364 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
-| 366 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 365 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 366 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 367 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | mul |
 | 368 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 369 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.1.36485` | x64 | ✅ | en-US |
@@ -1441,8 +1441,8 @@
 | 1433 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.0` | x64 | ❌ | en-US |
 | 1434 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.0` | x64 | ❌ | en-US |
 | 1435 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
-| 1436 | VariCAD | VariCAD | VariCAD (English) | `2026.2.04` | x64 | ❌ | en-US |
-| 1437 | VariCAD | VariCAD | VariCAD (German) | `2026.2.04` | x64 | ❌ | de |
+| 1436 | VariCAD | VariCAD | VariCAD (German) | `2026.2.04` | x64 | ❌ | de |
+| 1437 | VariCAD | VariCAD | VariCAD (English) | `2026.2.04` | x64 | ❌ | en-US |
 | 1438 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.04` | x64 | ❌ | de |
 | 1439 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.04` | x64 | ❌ | en-US |
 | 1440 | VeraCrypt | VeraCrypt | VeraCrypt | `1.26.24` | x64 | ❌ | en-US |
