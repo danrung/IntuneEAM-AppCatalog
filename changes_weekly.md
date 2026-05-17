@@ -1,8 +1,8 @@
 # Catalog Changes — Last 7 Days
 
-> **Comparing:** `20260517_040353_AppCatalog.json` (exported 2026-05-17 04:03:53)  
-> **vs:** `20260510_020516_AppCatalog.json` (exported 2026-05-10 02:05:16)  
-> **Generated:** 2026-05-17 04:04 UTC
+> **Comparing:** `20260517_134646_AppCatalog.json` (exported 2026-05-17 13:46:46)  
+> **vs:** `20260510_092302_AppCatalog.json` (exported 2026-05-10 09:23:02)  
+> **Generated:** 2026-05-17 13:47 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 |--------|------:|
 | ✅ Added | 2 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 126 |
+| 🔄 Updated (version change) | 125 |
 
 ## ✅ Added (2 packages)
 
@@ -19,7 +19,7 @@
 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.1.2417` | x64 |
 | JetBrains | JetBrains dotUltimate | dotUltimate 2024.3 | `2024.3.10` | x86,x64 |
 
-## 🔄 Updated (126 packages)
+## 🔄 Updated (125 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
@@ -40,8 +40,8 @@
 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.19` | `2.20` | x64 |
 | Datadog | Datadog Agent | Datadog Agent | `7.78.3` | `7.78.4` | x64 |
 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.1.1` | `26.1.2` | x64 |
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.20.0` | `2026.1.22.0` | x64 |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.20.0` | `2026.1.22.0` | x64 |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.20.0` | `2026.1.22.0` | x64 |
 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.3.0` | `2026.1.4.0` | x64 |
 | dnGrep | dnGrep | dnGrep (x64) | `4.7.25.0` | `4.7.54.0` | x64 |
 | Don Ho | Notepad++ | Notepad++ (x64) (EXE) | `8.9.4` | `8.9.5` | x64 |
@@ -82,55 +82,54 @@
 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.49.6` | `1.49.7` | x64 |
 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.6` | `1.49.7` | x64 |
 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.6` | `1.49.7` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `150.0.2` | `150.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `150.0.2` | `150.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `150.0.2` | `150.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `150.0.2` | `150.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `150.0.2` | `150.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `150.0.2` | `150.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `150.0.2` | `150.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `150.0.2` | `150.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `150.0.2` | `150.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `150.0.2` | `150.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `150.0.2` | `150.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `150.0.2` | `150.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `150.0.2` | `150.0.3` | x64 |
 | MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.6.5.253511702` | `4.7.0.260513133` | x64 |
-| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.73.1` | `1.74.3` | x64 |
 | Passmark Software | PerformanceTest | PerformanceTest (x64) | `11.1.1009.0` | `11.1.1010.0` | x64 |
 | PortSwigger | Burp Suite Professional Edition | Burp Suite Professional Edition (x64) | `2026.3.3` | `2026.4.3` | x64 |
 | R Core Team | R for Windows | R for Windows | `4.5.3` | `4.6.0` | x64 |
