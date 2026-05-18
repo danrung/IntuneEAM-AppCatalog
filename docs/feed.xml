@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 18 May 2026 04:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 15:48:45 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-05-18 15:48:45 — +0 added, −0 removed, ↺10 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Mon, 18 May 2026 15:48:45 +0000</pubDate>
+      <guid isPermaLink='false'>2026-05-18T15:48:45Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-05-18 15:48:45</p><p><strong>Compared to:</strong> 20260518_041653_AppCatalog.json (2026-05-18 04:16:53)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;10 updated</p><h3>Updated (10)</h3><ul><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.8</code> → <code>1.45.9</code></li><li>Amazon Web Services, Inc — Amazon WorkSpaces &nbsp;<code>5.32.0.5813</code> → <code>5.32.1.5891</code></li><li>Boris Eyrich Software — Artweaver Free &nbsp;<code>8.1.4.3857</code> → <code>8.1.5.3980</code></li><li>DBeaver Corp — DBeaver Community &nbsp;<code>26.0.4</code> → <code>26.0.5</code></li><li>Genesys — Genesys Cloud Background Assistant &nbsp;<code>1.6.436</code> → <code>1.7.468</code></li><li>Inknoe — ClassPoint &nbsp;<code>2.10.9.0</code> → <code>2.11.0.0</code></li><li>Rainmeter — Rainmeter &nbsp;<code>4.5.23.3836</code> → <code>4.5.25.3881</code></li><li>Siber Systems Inc — GoodSync 12 &nbsp;<code>12.9.29.9</code> → <code>12.11.1.1</code></li><li>Siber Systems Inc — GoodSync Personal &nbsp;<code>12.9.29.9</code> → <code>12.11.1.1</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0481</code> → <code>9.2.0498</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-05-18 04:16:53 — +0 added, −0 removed, ↺0 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Mon, 18 May 2026 04:16:53 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Thu, 30 Apr 2026 02:07:38 +0000</pubDate>
       <guid isPermaLink='false'>2026-04-30T02:07:38Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-04-30 02:07:38</p><p><strong>Compared to:</strong> 20260429_171906_AppCatalog.json (2026-04-29 17:19:06)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;17 updated</p><h3>Updated (17)</h3><ul><li>Bizagi Limited — Galaxy Modeler &nbsp;<code>12.6.0</code> → <code>12.6.1</code></li><li>Bizagi Limited — Moon Modeler &nbsp;<code>12.6.0</code> → <code>12.6.1</code></li><li>Cisco Systems, Inc. — Cisco JVDI Agent 15 &nbsp;<code>15.2.0.310459</code> → <code>15.2.1.60904</code></li><li>Cockos Incorporated — REAPER &nbsp;<code>7.69</code> → <code>7.70</code></li><li>Datadog — Datadog Agent &nbsp;<code>7.78.1</code> → <code>7.78.2</code></li><li>GFI Software — Kerio Connect &nbsp;<code>10.0.9.9754</code> → <code>10.0.9.10051</code></li><li>Ideamerit s.r.o. — Luna Modeler &nbsp;<code>13.6.0</code> → <code>13.6.1</code></li><li>Ideamerit s.r.o. — Meteor Modeler &nbsp;<code>12.6.0</code> → <code>12.6.1</code></li><li>Jan de Dobbeleer — Oh My Posh &nbsp;<code>29.11.0</code> → <code>29.12.0</code></li><li>LogMeIn — LogMeIn Client &nbsp;<code>1.3.5671</code> → <code>1.3.5676</code></li><li>LogMeIn — LogMeIn Host &nbsp;<code>4.1.16162</code> → <code>4.1.16174</code></li><li>Microsoft — Microsoft PowerToys &nbsp;<code>0.99.0</code> → <code>0.99.1</code></li><li>Proton AG — Proton VPN &nbsp;<code>4.3.13</code> → <code>4.3.14</code></li><li>Rarlab — Rarlab WinRAR &nbsp;<code>7.20</code> → <code>7.21</code></li><li>Rarlab — Rarlab WinRAR &nbsp;<code>7.20</code> → <code>7.21</code></li><li>Rarlab — Rarlab WinRAR &nbsp;<code>7.20</code> → <code>7.21</code></li><li>Viewer Central — Project Viewer 365 &nbsp;<code>26.4.1290</code> → <code>26.12.1292</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-04-29 17:19:06 — +0 added, −0 removed, ↺0 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Wed, 29 Apr 2026 17:19:06 +0000</pubDate>
-      <guid isPermaLink='false'>2026-04-29T17:19:06Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-04-29 17:19:06</p><p><strong>Compared to:</strong> 20260429_151524_AppCatalog.json (2026-04-29 15:15:24)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
     </item>
   </channel>
 </rss>
