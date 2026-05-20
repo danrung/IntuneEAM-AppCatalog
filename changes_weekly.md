@@ -1,82 +1,77 @@
 # Catalog Changes — Last 7 Days
 
-> **Comparing:** `20260520_041200_AppCatalog.json` (exported 2026-05-20 04:12:00)  
-> **vs:** `20260513_040002_AppCatalog.json` (exported 2026-05-13 04:00:02)  
-> **Generated:** 2026-05-20 04:12 UTC
+> **Comparing:** `20260520_154059_AppCatalog.json` (exported 2026-05-20 15:40:59)  
+> **vs:** `20260513_145038_AppCatalog.json` (exported 2026-05-13 14:50:38)  
+> **Generated:** 2026-05-20 15:41 UTC
 
 ## Summary
 
 | Change | Count |
 |--------|------:|
-| ✅ Added | 7 |
+| ✅ Added | 8 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 62 |
+| 🔄 Updated (version change) | 55 |
 
-## ✅ Added (7 packages)
+## ✅ Added (8 packages)
 
 | Publisher | App | Branch | Version | Architecture |
 |-----------|-----|--------|---------|:------------:|
-| Dropbox | Dropbox | Dropbox (x64) (EXE) | `246.4.3513` | x64 |
 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `246.4.3513` | x64 |
+| Dropbox | Dropbox | Dropbox (x64) (EXE) | `246.4.3513` | x64 |
 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2126.23002` | x64 |
+| Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `149.0.4022.8` | x64 |
 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `148.0.3967.54` | x64 |
 | Opera Software ASA | Opera One | Opera One (x64) | `80.0.4170.40` | x64 |
 | VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.23` | x64 |
 | VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.23` | x64 |
 
-## 🔄 Updated (62 packages)
+## 🔄 Updated (55 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.159.1` | `1.160.1` | x64 |
-| Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.6` | `1.45.9` | x64 |
+| Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.6` | `1.45.10` | x64 |
 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.32.0.5813` | `5.32.1.5891` | x64 |
-| Articulate | Articulate 360 | Articulate 360 (EXE) | `1.116.36838.0` | `1.117.36909.0` | x64 |
+| Blender Foundation | Blender | Blender 4.2 LTS (x64) | `4.2.20` | `4.2.21` | x64 |
 | Boris Eyrich Software | Artweaver Free | Artweaver Free | `8.1.4.3857` | `8.1.5.3980` | x64 |
 | Box | Box CLI | Box CLI (x64) | `4.8.0` | `4.8.1` | x64 |
 | Box | Box Drive | Box Drive (x64) | `2.49.257` | `2.51.234` | x64 |
 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `23.6` | `23.7` | x86,x64 |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.4.0.34752` | `46.5.0.34931` | x64 |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.4.0.34752` | `46.5.0.34931` | x64 |
-| Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.4.0.34752` | `46.5.0.34931` | x64 |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.4.0.34752` | `46.5.0.34931` | x64 |
+| Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.4.0.34752` | `46.5.0.34931` | x64 |
 | CoolUtils | Mail Viewer | Mail Viewer | `1.0.9627.37777` | `1.0.9631.22499` | x86,x64 |
 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.19` | `2.20` | x64 |
+| Creative Force | Creative Force Kelvin | Kelvin | `6.1.1` | `6.2.0` | x64 |
 | Datadog | Datadog Agent | Datadog Agent | `7.78.3` | `7.78.4` | x64 |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.0.4` | `26.0.5` | x64 |
 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.1.2` | `2.2.1` | x64 |
-| dnGrep | dnGrep | dnGrep (x64) | `4.7.25.0` | `4.7.54.0` | x64 |
-| draw.io | draw.io Desktop | draw.io Desktop | `30.0.0` | `30.0.1` | x64 |
+| draw.io | draw.io Desktop | draw.io Desktop | `30.0.1` | `30.0.2` | x64 |
 | Dương Diệu Pháp | ImageGlass | ImageGlass 9 (x64) | `9.4.1.15` | `9.5.0.515` | x64 |
 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.0.2413` | `6.12.1.2417` | x64 |
-| Evernote | Evernote | Evernote | `11.15.2` | `11.16.3` | x64 |
-| Formlabs | Preform | Preform | `3.58.1` | `3.59.0` | x64 |
-| Garmin | Garmin Express | Garmin Express | `7.28.0.0` | `7.28.1.0` | x86,x64 |
+| Evernote | Evernote | Evernote | `11.15.2` | `11.17.3` | x64 |
+| FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (MSI) | `3.71.1` | `3.73.0` | x64 |
 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.20.9` | `1.21.0` | x64 |
 | Genesys | Genesys Cloud Background Assistant | Genesys Cloud Background Assistant | `1.6.436` | `1.7.468` | x86,x64 |
-| Google | Google Chrome for Business | Chrome for Business 64-bit | `148.0.7778.97` | `148.0.7778.168` | x64 |
 | Google | Google Drive | Google Drive | `124.0.3.0` | `125.0.0.0` | x64 |
 | Google | Google Drive File Stream | Google Drive File Stream | `124.0.3.0` | `125.0.0.0` | x64 |
 | Inknoe | ClassPoint | ClassPoint (x64) | `2.10.9.0` | `2.11.0.0` | x64 |
+| Jan de Dobbeleer | Oh My Posh | Oh My Posh (x64) | `29.13.1` | `29.14.0` | x64 |
 | JetBrains | GoLand | GoLand 2026.1 (x64) | `2026.1.1` | `2026.1.2` | x64 |
 | JetBrains | WebStorm | WebStorm 2026.1 (x64) | `2026.1.1` | `2026.1.2` | x64 |
-| Junction Networks | OnSIP | OnSIP | `3.33.1` | `3.34.3` | x64 |
 | Keeper | Keeper | Keeper | `17.6.1.0` | `18.0.0.0` | x86,x64 |
+| MariaDB Foundation | MariaDB Server 10.6 | MariaDB Server 10.6 | `10.6.25` | `10.6.26` | x64 |
 | Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.1.2` | `6.2.0` | x64 |
-| Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.313` | `9.0.314` | x64 |
 | Microsoft | Microsoft Analysis Services OLE DB Provider | Microsoft Analysis Services OLE DB Provider (x64) | `18.0.138.0` | `18.0.172.0` | x64 |
 | Microsoft | Microsoft Azure Connected Machine Agent | Azure Connected Machine Agent | `1.63.03384.2896` | `1.64.03414.2961` | x64 |
 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.318.1` | `1.26.427.1` | x64 |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `148.0.3967.54` | `149.0.4022.8` | x64 |
-| Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37216.2` | `17.14.37301.10` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37216.2` | `17.14.37301.10` | x64 |
-| Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37202.15` | `17.12.37301.13` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37216.2` | `17.14.37301.10` | x64 |
-| Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37202.15` | `17.12.37301.13` | x64 |
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.119.0` | `1.120.0` | x64 |
-| Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37216.2` | `17.14.37301.10` | x64 |
 | MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.6.5.253511702` | `4.7.0.260513133` | x64 |
 | PortSwigger | Burp Suite Professional Edition | Burp Suite Professional Edition (x64) | `2026.3.3` | `2026.4.3` | x64 |
+| Privado Networks AG | PrivadoVPN | PrivadoVPN | `4.0.0.0` | `4.1.0.0` | x86,x64 |
 | Rainmeter | Rainmeter | Rainmeter | `4.5.23.3836` | `4.5.25.3881` | x64 |
 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.133.4` | `2.134.6` | x64 |
 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.9.29.9` | `12.11.1.1` | x64 |
@@ -85,9 +80,8 @@
 | SUSE | Rancher Desktop | Rancher Desktop | `1.22.2` | `1.22.3` | x64 |
 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.96.3` | `1.98.1` | x64 |
 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.27.1.740` | `1.29.0.755` | x64 |
-| VariCAD | VariCAD | VariCAD (German) | `2026.2.03` | `2026.2.04` | x64 |
-| VariCAD | VariCAD | VariCAD (English) | `2026.2.03` | `2026.2.04` | x64 |
-| VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.03` | `2026.2.04` | x64 |
-| VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.03` | `2026.2.04` | x64 |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0461` | `9.2.0498` | x64 |
+| typora.io | Typora | Typora (x64) | `1.13.4` | `1.13.6` | x64 |
+| UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.0` | `1.8.2.2` | x64 |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0478` | `9.2.0500` | x64 |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0390` | `9.2.0500` | x64 |
 
