@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260519_154016_AppCatalog.json` (exported 2026-05-19 15:40:16)  
-> **Generated:** 2026-05-19 15:40 UTC  
+> **Source:** `20260520_041200_AppCatalog.json` (exported 2026-05-20 04:12:00)  
+> **Generated:** 2026-05-20 04:12 UTC  
 > **Total:** 1,531 packages · 920 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -189,7 +189,7 @@
 | 181 | Blue Jeans | BlueJeans 2 | BlueJeans 2 User Installer | `2.45.37` | x64 | ✅ | en-US |
 | 182 | Boris Eyrich Software | Artweaver Free | Artweaver Free | `8.1.5.3980` | x64 | ✅ | en-US |
 | 183 | Botkind, Inc. | Allway Sync | Allway Sync (x64) | `22.0.1` | x64 | ❌ | en-US |
-| 184 | Box | Box CLI | Box CLI (x64) | `4.8.0` | x64 | ❌ | en-US |
+| 184 | Box | Box CLI | Box CLI (x64) | `4.8.1` | x64 | ❌ | en-US |
 | 185 | Box | Box Drive | Box Drive (x64) | `2.51.234` | x64 | ❌ | en-US |
 | 186 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | x64 | ❌ | en-US |
 | 187 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.85.0` | x64 | ❌ | en-US |
@@ -282,7 +282,7 @@
 | 274 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.1.18.0` | x86,x64 | ❌ | en-US |
 | 275 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
 | 276 | DigiDNA SARL | iMazing | iMazing | `3.5.2.0` | x64 | ❌ | en-US |
-| 277 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.1.2` | x64 | ❌ | en-US |
+| 277 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.2.1` | x64 | ❌ | en-US |
 | 278 | dnGrep | dnGrep | dnGrep (x64) | `4.7.54.0` | x64 | ❌ | en-US |
 | 279 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.65.0.221669` | x64 | ✅ | en-US |
 | 280 | Dominik Reichl | KeePass Password Safe (Classic Edition) | KeePass Password Safe (Classic Edition) | `1.43` | x86,x64 | ✅ | en-US |
@@ -1085,7 +1085,7 @@
 | 1077 | OpenSight Software LLC | FlashFXP | FlashFXP | `5.4.0.3970` | x86,x64 | ❌ | en-US |
 | 1078 | OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.401` | x64 | ✅ | en-US |
 | 1079 | OpenVPN Technologies, Inc. | OpenVPN Connect | OpenVPN Connect (x64) | `3.8.0` | x64 | ❌ | en-US |
-| 1080 | Opera Software ASA | Opera One | Opera One (x64) | `80.0.4170.16` | x64 | ✅ | en-US |
+| 1080 | Opera Software ASA | Opera One | Opera One (x64) | `80.0.4170.40` | x64 | ✅ | en-US |
 | 1081 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x64) | `8.0.4910.10` | x64 | ✅ | en-US |
 | 1082 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x86) | `8.0.4710.09` | x86,x64 | ✅ | en-US |
 | 1083 | Oracle | Oracle Java SE Development Kit 17 | Oracle Java SE Development Kit 17 (x64) | `17.0.14.0` | x64 | ❌ | en-US |
@@ -1437,7 +1437,7 @@
 | 1429 | Tribler | Tribler | Tribler (x64) | `8.4.2` | x64 | ❌ | en-US |
 | 1430 | Trimble Navigation Limited | Sketchup Pro | Sketchup Pro 2026 | `2026.1.256` | x64 | ❌ | en-US |
 | 1431 | Trimble Navigation Limited | Sketchup Pro 2024 | Sketchup Pro 2024 | `24.0.594.0` | x64 | ❌ | en-US |
-| 1432 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.27.1.740` | x64 | ❌ | en-US |
+| 1432 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.29.0.755` | x64 | ❌ | en-US |
 | 1433 | Turbo | Turbo Studio | Turbo Studio | `26.4.4.515` | x86,x64 | ❌ | en-US |
 | 1434 | Turbo.net | Turbo.net Desktop | Turbo.net Desktop | `26.3.11.2687` | x86,x64 | ❌ | en-US |
 | 1435 | typora.io | Typora | Typora (x64) | `1.13.4` | x64 | ❌ | en-US |
