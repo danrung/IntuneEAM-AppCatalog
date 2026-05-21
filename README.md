@@ -51,7 +51,7 @@ The feed keeps the last 50 entries. Compatible with any RSS reader — Feedly, O
 | Publishers | 497 |
 | Auto-Update Capable | 366 (23.9%) |
 | Available Locales | 64 |
-| Last Export | 2026-05-21 04:20:41 |
+| Last Export | 2026-05-21 15:43:06 |
 <!-- CATALOG_STATS_END -->
 
 ## Data Fields
