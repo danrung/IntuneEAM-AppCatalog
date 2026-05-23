@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260522_145217_AppCatalog.json` (exported 2026-05-22 14:52:17)  
-> **Generated:** 2026-05-22 14:52 UTC  
+> **Source:** `20260523_035417_AppCatalog.json` (exported 2026-05-23 03:54:17)  
+> **Generated:** 2026-05-23 03:54 UTC  
 > **Total:** 1,533 packages · 922 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -57,7 +57,7 @@
 | 49 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
 | 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.161.0` | x64 | ❌ | en-US |
 | 51 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.814.0` | x64 | ❌ | en-US |
-| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.13` | x64 | ❌ | en-US |
+| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.14` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 54 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.1.17.0` | x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.32.0.5813` | x64 | ❌ | en-US |
@@ -246,7 +246,7 @@
 | 238 | Cole Williams Software Limited | Windows 10 Codec Pack | Windows 10 Codec Pack | `2.2.0` | x86,x64 | ❌ | en-US |
 | 239 | Comfort Software Group | Free Countdown Timer | Free Countdown Timer | `5.3.1.0` | x86,x64 | ❌ | en-US |
 | 240 | ComponentAgro B.V. | ComponentAgro CHECK PC2Web | CHECK PC2Web | `7.44.0.0` | x86,x64 | ❌ | nl |
-| 241 | CoolUtils | Mail Viewer | Mail Viewer | `1.0.9637.23773` | x86,x64 | ❌ | en-US |
+| 241 | CoolUtils | Mail Viewer | Mail Viewer | `1.0.9638.26790` | x86,x64 | ❌ | en-US |
 | 242 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
 | 243 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.20` | x64 | ❌ | en-US |
 | 244 | CPUID, Inc | HWMonitor | HWMonitor | `1.63` | x64 | ❌ | en-US |
@@ -1278,7 +1278,7 @@
 | 1270 | SideQuest | SideQuest | SideQuest | `0.10.42` | x64 | ❌ | en-US |
 | 1271 | Signiant Inc. | Signiant App | Signiant App | `1.5.1773` | x64 | ❌ | en-US |
 | 1272 | Simnet Ltd | Simple Sticky Notes | Simple Sticky Notes | `6.9` | x86,x64 | ❌ | en-US |
-| 1273 | Simon Tatham | PuTTY | PuTTY (x64) | `0.83.0.0` | x64 | ❌ | en-US |
+| 1273 | Simon Tatham | PuTTY | PuTTY (x64) | `0.84.0.0` | x64 | ❌ | en-US |
 | 1274 | Simon Tatham | PuTTY CAC | PuTTY CAC (x64) | `0.83` | x64 | ✅ | en-US |
 | 1275 | Skillbrains | Skillbrains LightShot | LightShot | `5.5.0.7` | x86,x64 | ❌ | en-US |
 | 1276 | Skymatic GmbH | Cryptomator | Cryptomator | `1.19.2.6322` | x64 | ❌ | en-US |
@@ -1462,7 +1462,7 @@
 | 1454 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.7` | x64 | ❌ | en-US |
 | 1455 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.5` | x86,x64 | ❌ | en-US |
 | 1456 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0509` | x64 | ❌ | en-US |
-| 1457 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0506` | x64 | ❌ | en-US |
+| 1457 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0509` | x64 | ❌ | en-US |
 | 1458 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.0.0.0` | x64 | ❌ | en-US |
 | 1459 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
 | 1460 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
