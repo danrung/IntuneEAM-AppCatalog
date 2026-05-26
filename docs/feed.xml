@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 26 May 2026 04:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:57:04 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-05-26 15:57:04 — +0 added, −0 removed, ↺14 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Tue, 26 May 2026 15:57:04 +0000</pubDate>
+      <guid isPermaLink='false'>2026-05-26T15:57:04Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-05-26 15:57:04</p><p><strong>Compared to:</strong> 20260526_041131_AppCatalog.json (2026-05-26 04:11:31)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;14 updated</p><h3>Updated (14)</h3><ul><li>alfaview Gmbh — alfaview &nbsp;<code>9.27.0</code> → <code>9.27.1</code></li><li>Automattic — Simplenote &nbsp;<code>2.25.0</code> → <code>2.26.0</code></li><li>Cockos Incorporated — REAPER &nbsp;<code>7.72</code> → <code>7.73</code></li><li>code4ward.net e.U. — Royal TS 7 &nbsp;<code>7.04.50424.0</code> → <code>7.04.50522.0</code></li><li>CPUID, Inc — CPU-Z &nbsp;<code>2.20</code> → <code>2.20.1</code></li><li>FactSet Research Systems Inc. — FactSet Workstation &nbsp;<code>2016.71.043.062</code> → <code>2016.71.043.063</code></li><li>IDM Computer Solutions — UltraFinder &nbsp;<code>24.0.14</code> → <code>24.0.17</code></li><li>JetBrains — DataSpell &nbsp;<code>2026.1.1</code> → <code>2026.1.2</code></li><li>Microsoft — Azure Functions Core Tools &nbsp;<code>4.10.0</code> → <code>4.11.0</code></li><li>Sober Lemur S.a.s. di Vacondio Andrea — PDFsam Visual &nbsp;<code>6.5.0</code> → <code>6.5.1</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0530</code> → <code>9.2.0538</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0530</code> → <code>9.2.0538</code></li><li>VSCodium — VSCodium &nbsp;<code>1.112.01907</code> → <code>1.121.03429</code></li><li>Zotero — Zotero &nbsp;<code>9.0.3</code> → <code>9.0.4</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-05-26 04:11:31 — +0 added, −0 removed, ↺8 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Tue, 26 May 2026 04:11:31 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Tue, 05 May 2026 09:55:06 +0000</pubDate>
       <guid isPermaLink='false'>2026-05-05T09:55:06Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-05-05 09:55:06</p><p><strong>Compared to:</strong> 20260505_020213_AppCatalog.json (2026-05-05 02:02:13)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-05-05 02:02:13 — +0 added, −0 removed, ↺4 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Tue, 05 May 2026 02:02:13 +0000</pubDate>
-      <guid isPermaLink='false'>2026-05-05T02:02:13Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-05-05 02:02:13</p><p><strong>Compared to:</strong> 20260504_172337_AppCatalog.json (2026-05-04 17:23:37)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;4 updated</p><h3>Updated (4)</h3><ul><li>Eclipse Foundation — Eclipse Temurin JDK with Hotspot 17 (LTS) &nbsp;<code>17.0.18.8</code> → <code>17.0.19.10</code></li><li>Eclipse Foundation — Eclipse Temurin JRE with Hotspot 17 (LTS) &nbsp;<code>17.0.18.8</code> → <code>17.0.19.10</code></li><li>Intermedia.net, Inc. — Intermedia Unite &nbsp;<code>2.28.26.0</code> → <code>2.29.38.0</code></li><li>Serverdata.net, Inc. — Elevate UC &nbsp;<code>2.28.26.0</code> → <code>2.29.38.0</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
