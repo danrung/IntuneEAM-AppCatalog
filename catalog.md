@@ -1,23 +1,23 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260528_041511_AppCatalog.json` (exported 2026-05-28 04:15:11)  
-> **Generated:** 2026-05-28 04:15 UTC  
+> **Source:** `20260528_161607_AppCatalog.json` (exported 2026-05-28 16:16:07)  
+> **Generated:** 2026-05-28 16:16 UTC  
 > **Total:** 1,533 packages · 922 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
 |--:|-----------|----------|--------|---------|:------------:|:-----------:|---------|
 | 1 | 2BrightSparks Ptd Ltd | CMake | CMake 3.27 (x64) | `3.27.9` | x64 | ❌ | en-US |
-| 2 | 2BrightSparks Ptd Ltd | CMake | CMake 3.21 (x64) | `3.21.7` | x64 | ❌ | en-US |
-| 3 | 2BrightSparks Ptd Ltd | CMake | CMake 4.0 (x64) | `4.0.7` | x64 | ❌ | en-US |
-| 4 | 2BrightSparks Ptd Ltd | CMake | CMake 4.2 (x64) | `4.2.6` | x64 | ❌ | en-US |
-| 5 | 2BrightSparks Ptd Ltd | CMake | CMake 3.26 (x64) | `3.26.6` | x64 | ❌ | en-US |
-| 6 | 2BrightSparks Ptd Ltd | CMake | CMake 3.23 (x64) | `3.23.5` | x64 | ❌ | en-US |
-| 7 | 2BrightSparks Ptd Ltd | CMake | CMake 3.29 (x64) | `3.29.9` | x64 | ❌ | en-US |
-| 8 | 2BrightSparks Ptd Ltd | CMake | CMake 3.24 (x64) | `3.24.4` | x64 | ❌ | en-US |
-| 9 | 2BrightSparks Ptd Ltd | CMake | CMake 3.22 (x64) | `3.22.6` | x64 | ❌ | en-US |
-| 10 | 2BrightSparks Ptd Ltd | CMake | CMake 3.31 (x64) | `3.31.12` | x64 | ❌ | en-US |
-| 11 | 2BrightSparks Ptd Ltd | CMake | CMake 4.3 (x64) | `4.3.3` | x64 | ❌ | en-US |
-| 12 | 2BrightSparks Ptd Ltd | CMake | CMake 3.20 (x64) | `3.20.6` | x64 | ❌ | en-US |
+| 2 | 2BrightSparks Ptd Ltd | CMake | CMake 4.0 (x64) | `4.0.7` | x64 | ❌ | en-US |
+| 3 | 2BrightSparks Ptd Ltd | CMake | CMake 4.2 (x64) | `4.2.6` | x64 | ❌ | en-US |
+| 4 | 2BrightSparks Ptd Ltd | CMake | CMake 3.26 (x64) | `3.26.6` | x64 | ❌ | en-US |
+| 5 | 2BrightSparks Ptd Ltd | CMake | CMake 3.23 (x64) | `3.23.5` | x64 | ❌ | en-US |
+| 6 | 2BrightSparks Ptd Ltd | CMake | CMake 3.29 (x64) | `3.29.9` | x64 | ❌ | en-US |
+| 7 | 2BrightSparks Ptd Ltd | CMake | CMake 3.24 (x64) | `3.24.4` | x64 | ❌ | en-US |
+| 8 | 2BrightSparks Ptd Ltd | CMake | CMake 3.22 (x64) | `3.22.6` | x64 | ❌ | en-US |
+| 9 | 2BrightSparks Ptd Ltd | CMake | CMake 3.31 (x64) | `3.31.12` | x64 | ❌ | en-US |
+| 10 | 2BrightSparks Ptd Ltd | CMake | CMake 4.3 (x64) | `4.3.3` | x64 | ❌ | en-US |
+| 11 | 2BrightSparks Ptd Ltd | CMake | CMake 3.20 (x64) | `3.20.6` | x64 | ❌ | en-US |
+| 12 | 2BrightSparks Ptd Ltd | CMake | CMake 3.21 (x64) | `3.21.7` | x64 | ❌ | en-US |
 | 13 | 2BrightSparks Ptd Ltd | CMake | CMake 3.25 (x64) | `3.25.3` | x64 | ❌ | en-US |
 | 14 | 2BrightSparks Ptd Ltd | CMake | CMake 4.1 (x64) | `4.1.6` | x64 | ❌ | en-US |
 | 15 | 2BrightSparks Ptd Ltd | CMake | CMake 3.28 (x64) | `3.28.6` | x64 | ❌ | en-US |
@@ -46,7 +46,7 @@
 | 38 | ALLPLayer.org | ALLPlayer | ALLPlayer | `9.6` | x64 | ❌ | en-US |
 | 39 | Allround Automations | PL SQL Developer 15 | PL SQL Developer 15 (x64) | `15.0.4.2064` | x64 | ❌ | en-US |
 | 40 | Altova | Altova XMLSpy Enterprise 2023 | XMLSpy Enterprise 2023 (x64) | `2023.02.00.04` | x64 | ❌ | en-US |
-| 41 | Amazon | Amazon AWS VPN Client | AWS VPN Client | `5.3.4` | x64 | ❌ | en-US |
+| 41 | Amazon | Amazon AWS VPN Client | AWS VPN Client | `5.3.5` | x64 | ❌ | en-US |
 | 42 | Amazon | Amazon Corretto JDK 11 | Amazon Corretto JDK 11 (x64) | `11.0.31.11.1` | x64 | ❌ | en-US |
 | 43 | Amazon | Amazon Corretto JDK 15 | Amazon Corretto JDK 15 | `15.0.2.7` | x64 | ❌ | en-US |
 | 44 | Amazon | Amazon Corretto JDK 16 | Amazon Corretto JDK 16 | `16.0.2.7` | x64 | ❌ | en-US |
@@ -79,7 +79,7 @@
 | 71 | ArcticLine Software | ArcticLine Software Jet Screenshot | Jet Screenshot | `3.1` | x86,x64 | ❌ | en-US |
 | 72 | Arduino | Arduino IDE | Arduino IDE | `2.3.9` | x64 | ✅ | en-US |
 | 73 | Artem Izmaylov | AIMP | AIMP (x64) | `5.40.2653` | x64 | ❌ | en-US |
-| 74 | Articulate | Articulate 360 | Articulate 360 (EXE) | `1.117.36909.0` | x64 | ❌ | en-US |
+| 74 | Articulate | Articulate 360 | Articulate 360 (EXE) | `1.118.37003.0` | x64 | ❌ | en-US |
 | 75 | Articulate | Articulate Replay 360 | Articulate Replay (EXE) | `2.23.24149.0` | x86,x64 | ❌ | en-US |
 | 76 | Ascensio System SIA | AVS Image Converter | AVS Image Converter | `26.0.2.17` | x86,x64 | ✅ | en-US |
 | 77 | Ascensio System SIA | AVS Media Player | AVS Media Player | `6.0.2.21` | x86,x64 | ❌ | en-US |
@@ -291,18 +291,18 @@
 | 283 | Don Ho | Notepad++ | Notepad++ (x64) (MSI) | `8.9.6.1` | x64 | ❌ | en-US |
 | 284 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
 | 285 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.4.100` | x64 | ❌ | en-US |
-| 286 | draw.io | draw.io Desktop | draw.io Desktop | `30.0.2` | x64 | ✅ | en-US |
+| 286 | draw.io | draw.io Desktop | draw.io Desktop | `30.0.4` | x64 | ✅ | en-US |
 | 287 | dRofus | dRofus | dRofus | `2.17.16.0` | x86,x64 | ❌ | en-US |
-| 288 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `246.4.3513` | x64 | ✅ | en-US |
-| 289 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `246.4.3513` | x64 | ✅ | en-US |
+| 288 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `246.4.3513` | x64 | ✅ | en-US |
+| 289 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `246.4.3513` | x64 | ✅ | en-US |
 | 290 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `7.5.7` | x64 | ❌ | en-US |
 | 291 | DucFabulous | UltraViewer | UltraViewer | `6.6.124` | x86,x64 | ✅ | en-US |
 | 292 | Duo Security Inc. | Duo Desktop | Duo Desktop | `7.17.0.0` | x86,x64 | ✅ | en-US |
 | 293 | Dutchview | FlexWhere for Desktop | FlexWhere for Desktop | `3.5` | x64 | ❌ | en-US |
 | 294 | Duxbury Systems | Perky Duck | Perky Duck | `12.7` | x86,x64 | ❌ | en-US |
 | 295 | DYMO | DYMO ID | DYMO ID | `1.5.1` | x86,x64 | ❌ | en-US |
-| 296 | Dương Diệu Pháp | ImageGlass | ImageGlass 9 (x64) | `9.5.0.515` | x64 | ❌ | en-US |
-| 297 | Dương Diệu Pháp | ImageGlass | ImageGlass 8 (x64) | `8.11.12.6` | x64 | ❌ | en-US |
+| 296 | Dương Diệu Pháp | ImageGlass | ImageGlass 8 (x64) | `8.11.12.6` | x64 | ❌ | en-US |
+| 297 | Dương Diệu Pháp | ImageGlass | ImageGlass 9 (x64) | `9.5.0.515` | x64 | ❌ | en-US |
 | 298 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 11 (LTS) | Eclipse Temurin JDK with Hotspot 11 (LTS) (x64) | `11.0.31.11` | x64 | ❌ | en-US |
 | 299 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 12 | Eclipse Temurin JDK with Hotspot 12 (x64) | `12.0.2.10` | x64 | ❌ | en-US |
 | 300 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 15 | Eclipse Temurin JDK with Hotspot 15 (x64) | `15.0.2.7` | x64 | ❌ | en-US |
@@ -353,7 +353,7 @@
 | 345 | ESET | ESET Endpoint Security V12 | Endpoint Security V12 (x64) | `12.1.2057.3` | x64 | ❌ | en-US |
 | 346 | ESET | ESET Endpoint Security V9 | Endpoint Security V9 (x64) | `9.1.2071.0` | x64 | ❌ | en-US |
 | 347 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
-| 348 | Evernote | Evernote | Evernote | `11.17.3` | x64 | ✅ | en-US |
+| 348 | Evernote | Evernote | Evernote | `11.18.1` | x64 | ✅ | en-US |
 | 349 | Exacq Technologies | exacqVision Client | exacqVision Client (x64) | `26.0.11.0` | x64 | ❌ | en-US |
 | 350 | EZB Systems | EZB Systems UltraISO | UltraISO (English) | `9.7.6.3860` | x86,x64 | ❌ | en-US |
 | 351 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.71.043.063` | x64 | ❌ | en-US |
@@ -403,14 +403,14 @@
 | 395 | Garmin | Garmin BaseCamp | Garmin BaseCamp | `4.7.5` | x86,x64 | ❌ | en-US |
 | 396 | Garmin | Garmin Express | Garmin Express | `7.28.1.0` | x86,x64 | ❌ | en-US |
 | 397 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.30.1` | x64 | ❌ | en-US |
-| 398 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.21.1` | x64 | ❌ | en-US |
+| 398 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.21.2` | x64 | ❌ | en-US |
 | 399 | Genesys | Genesys Cloud | Genesys Cloud | `2.49.903` | x86,x64 | ❌ | en-US |
 | 400 | Genesys | Genesys Cloud Background Assistant | Genesys Cloud Background Assistant | `1.7.468` | x86,x64 | ❌ | en-US |
 | 401 | Gephi | Gephi | Gephi (x64) | `0.11.2` | x64 | ❌ | en-US |
 | 402 | Gerardo Grignoli | gsudo | gsudo (x64) | `2.6.1` | x64 | ❌ | en-US |
 | 403 | GFI Software | Kerio Connect | Kerio Connect | `10.0.9.10051` | x64 | ❌ | en-US |
 | 404 | GIMP | GIMP | GIMP | `3.2.4.0` | x64 | ❌ | en-US |
-| 405 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.92.0` | x64 | ❌ | en-US |
+| 405 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.93.0` | x64 | ❌ | en-US |
 | 406 | GlavSoft LLC | Remote Ripple | Remote Ripple | `1.2.0` | x64 | ❌ | en-US |
 | 407 | glueckkanja-gab AG | Konnekt | Konnekt (x64) | `2.12.0.0` | x64 | ❌ | en-US |
 | 408 | GN Audio AS | Jabra Direct | Jabra Direct | `6.27.03702` | x64 | ❌ | en-US |
@@ -530,15 +530,15 @@
 | 522 | Klocman | Bulk Crap Uninstaller | Bulk Crap Uninstaller | `5.8.3` | x64 | ❌ | en-US |
 | 523 | KNIME AG | KNIME Analytics Platform | KNIME Analytics Platform | `5.8.3` | x64 | ❌ | en-US |
 | 524 | Kodu | Kodu Game Lab | Kodu Game Lab | `1.6.18` | x86,x64 | ❌ | en-US |
-| 525 | Kovid Goyal | Calibre | Calibre (x64) | `9.8.0` | x64 | ❌ | en-US |
+| 525 | Kovid Goyal | Calibre | Calibre (x64) | `9.9.0` | x64 | ❌ | en-US |
 | 526 | KPN | HIPIN v4 | HIPIN v4 | `4.7.0.9749` | x64 | ❌ | en-US |
 | 527 | KPN | KPN Desktop Integratie | KPN Desktop Integratie | `4.7.0.9749` | x64 | ❌ | nl |
 | 528 | Krisp | Krisp | Krisp 2.x | `2.57.13` | x64 | ❌ | en-US |
 | 529 | Krisp | Krisp | Krisp 3.x | `3.11.8` | x64 | ❌ | en-US |
 | 530 | Krisp | Krisp | Krisp 1.x (Legacy) | `1.52.5` | x64 | ❌ | en-US |
-| 531 | Krita Foundation | Krita | Krita (x64) | `5.3.1.100` | x64 | ❌ | en-US |
+| 531 | Krita Foundation | Krita | Krita (x64) | `5.3.2.0` | x64 | ❌ | en-US |
 | 532 | KUBUS BV | BCF Manager for Tekla | BCF Manager for Tekla | `6.2.16` | x64 | ❌ | en-US |
-| 533 | Lansweeper | Lansweeper | Lansweeper | `12.7.1.1` | x86,x64 | ❌ | en-US |
+| 533 | Lansweeper | Lansweeper | Lansweeper | `12.8.0.6` | x86,x64 | ❌ | en-US |
 | 534 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool | `7.48.9` | x86,x64 | ❌ | en-US |
 | 535 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `7.68.7` | x64 | ❌ | en-US |
 | 536 | LastPass | LastPass | LastPass | `5.1.0.1209` | x64 | ❌ | en-US |
@@ -579,7 +579,7 @@
 | 571 | MariaDB Foundation | MariaDB Server 10.3 | MariaDB Server 10.3 | `10.3.39` | x64 | ❌ | en-US |
 | 572 | MariaDB Foundation | MariaDB Server 10.4 | MariaDB Server 10.4 | `10.4.34` | x64 | ❌ | en-US |
 | 573 | MariaDB Foundation | MariaDB Server 10.5 | MariaDB Server 10.5 | `10.5.29.0` | x64 | ❌ | en-US |
-| 574 | MariaDB Foundation | MariaDB Server 10.6 | MariaDB Server 10.6 | `10.6.26` | x64 | ❌ | en-US |
+| 574 | MariaDB Foundation | MariaDB Server 10.6 | MariaDB Server 10.6 | `10.6.27` | x64 | ❌ | en-US |
 | 575 | MariaDB Foundation | MariaDB Server 10.7 | MariaDB Server 10.7 | `10.7.8` | x64 | ❌ | en-US |
 | 576 | MariaDB Foundation | MariaDB Server 10.9 | MariaDB Server 10.9 | `10.9.8.0` | x64 | ❌ | en-US |
 | 577 | Martin Prikryl | WinSCP | WinSCP (EXE) | `6.3.8` | x86,x64 | ✅ | en-US |
@@ -647,7 +647,7 @@
 | 639 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.427.1` | x64 | ❌ | en-US |
 | 640 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
 | 641 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `149.0.4022.33` | x64 | ✅ | en-US |
-| 642 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `150.0.4041.0` | x64 | ✅ | en-US |
+| 642 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `150.0.4055.0` | x64 | ✅ | en-US |
 | 643 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `148.0.3967.54` | x64 | ✅ | en-US |
 | 644 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
 | 645 | Microsoft | Microsoft ODBC Driver 13 for SQL Server | Microsoft ODBC Driver 13 for SQL Server (x64) | `13.1.4414.46` | x64 | ❌ | en-US |
@@ -735,8 +735,8 @@
 | 727 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 728 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 729 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37301.13` | x64 | ❌ | en-US |
-| 730 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37314.3` | x64 | ❌ | en-US |
-| 731 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
+| 730 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
+| 731 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37314.3` | x64 | ❌ | en-US |
 | 732 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 733 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
 | 734 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
@@ -748,7 +748,7 @@
 | 740 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 741 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
 | 742 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 743 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.121.0` | x64 | ✅ | en-US |
+| 743 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.122.0` | x64 | ✅ | en-US |
 | 744 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37314.3` | x64 | ❌ | en-US |
 | 745 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 746 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -1052,7 +1052,7 @@
 | 1044 | NetBird GmbH | NetBird | NetBird | `0.66.3` | x64 | ✅ | en-US |
 | 1045 | NetSetMan GmbH | NetSetMan | NetSetMan | `5.4.0` | x86,x64 | ❌ | en-US |
 | 1046 | NETworkManager | NETworkManager | NETworkManager | `2026.2.22.0` | x64 | ❌ | en-US |
-| 1047 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.75.0` | x64 | ❌ | en-US |
+| 1047 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.76.0` | x64 | ❌ | en-US |
 | 1048 | Nextcloud | Nextcloud | Nextcloud (x64) | `33.0.5.20260519` | x64 | ❌ | en-US |
 | 1049 | Nextiva | NextivaONE | NextivaONE | `1.20.1.0` | x64 | ❌ | en-US |
 | 1050 | NGWIN | PicPick | PicPick | `7.5.0` | x86,x64 | ❌ | en-US |
@@ -1461,8 +1461,8 @@
 | 1453 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
 | 1454 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.7` | x64 | ❌ | en-US |
 | 1455 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.5` | x86,x64 | ❌ | en-US |
-| 1456 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0541` | x64 | ❌ | en-US |
-| 1457 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0541` | x64 | ❌ | en-US |
+| 1456 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0545` | x64 | ❌ | en-US |
+| 1457 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0545` | x64 | ❌ | en-US |
 | 1458 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.0.0.0` | x64 | ❌ | en-US |
 | 1459 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
 | 1460 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
