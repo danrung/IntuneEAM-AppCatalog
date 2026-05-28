@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260527_160107_AppCatalog.json` (exported 2026-05-27 16:01:07)  
+> **Comparing:** `20260528_041511_AppCatalog.json` (exported 2026-05-28 04:15:11)  
 > **vs:** `20260526_155704_AppCatalog.json` (exported 2026-05-26 15:57:04)  
-> **Generated:** 2026-05-27 16:01 UTC
+> **Generated:** 2026-05-28 04:15 UTC
 
 ## Summary
 
@@ -10,25 +10,103 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 15 |
+| 🔄 Updated (version change) | 93 |
 
-## 🔄 Updated (15 packages)
+## 🔄 Updated (93 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
-| Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.14` | `1.45.15` | x64 |
+| Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.14` | `1.45.16` | x64 |
 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.32.0.5813` | `5.32.2.5905` | x64 |
-| Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.5.0.34931` | `46.5.0.35006` | x64 |
+| Arduino | Arduino IDE | Arduino IDE | `2.3.8` | `2.3.9` | x64 |
+| Bizagi Limited | Galaxy Modeler | Galaxy Modeler | `12.6.1` | `12.6.2` | x64 |
+| Bizagi Limited | Moon Modeler | Moon Modeler | `12.6.1` | `12.6.2` | x64 |
+| Chef Software, Inc. | Chef Workstation for Windows | Chef Workstation for Windows | `25.13.7` | `25.14.2` | x64 |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.5.0.34931` | `46.5.0.35006` | x64 |
+| Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.5.0.34931` | `46.5.0.35006` | x64 |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.5.0.34931` | `46.5.0.35006` | x64 |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.5.0.34931` | `46.5.0.35006` | x64 |
 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.4.1350.0` | `26.4.1390.0` | x64 |
+| CoolUtils | Mail Viewer | Mail Viewer | `1.0.9638.26790` | `1.0.9642.41959` | x86,x64 |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.22.0` | `2026.1.23.0` | x64 |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.22.0` | `2026.1.23.0` | x64 |
+| Don Ho | Notepad++ | Notepad++ (x64) (MSI) | `8.9.6` | `8.9.6.1` | x64 |
+| Don Ho | Notepad++ | Notepad++ (x64) (EXE) | `8.9.6` | `8.9.6.1` | x64 |
+| Formlabs | Preform | Preform | `3.59.0` | `3.59.1` | x64 |
+| Google | Google Chrome for Business | Chrome for Business 64-bit | `148.0.7778.179` | `148.0.7778.217` | x64 |
+| Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `13.6.1` | `13.6.2` | x64 |
+| Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `12.6.1` | `12.6.2` | x64 |
 | Keeper | Keeper | Keeper | `18.0.1.0` | `18.0.2.0` | x86,x64 |
 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `7.67.10` | `7.68.7` | x64 |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `149.0.4022.24` | `149.0.4022.33` | x64 |
 | Microsoft | Microsoft Visual C++ v14 Redistributable | Microsoft Visual C++ v14 Redistributable (x64) | `14.50.35719.0` | `14.51.36231.0` | x64 |
+| Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.5.181248` | `2026.5.250609` | x64 |
+| MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.49.7` | `1.49.8` | x64 |
+| MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.7` | `1.49.8` | x64 |
+| MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.7` | `1.49.8` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `151.0.1` | `151.0.2` | x64 |
 | Paessler AG | PRTG Desktop | PRTG Desktop (x64) | `25.10.0` | `26.0.0` | x64 |
+| Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.135.7` | `2.136.8` | x64 |
+| SnelStart | SnelStart | SnelStart | `12.195.36` | `12.195.152` | x86,x64 |
+| Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.22.27007.0` | `4.23.28826.0` | x64 |
+| Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.22.27007.0` | `4.23.28826.0` | x64 |
 | TablePlus, Inc | TablePlus | TablePlus | `7.0.6` | `7.1.0` | x64 |
 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.76.6.0` | `15.78.3.0` | x64 |
+| Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.56` | `2.16.56.2` | x64 |
+| Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.29.0.755` | `1.30.0.769` | x64 |
+| VariCAD | VariCAD | VariCAD (English) | `2026.2.04` | `2026.2.05` | x64 |
+| VariCAD | VariCAD | VariCAD (German) | `2026.2.04` | `2026.2.05` | x64 |
+| VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.04` | `2026.2.05` | x64 |
+| VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.04` | `2026.2.05` | x64 |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0538` | `9.2.0541` | x64 |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0538` | `9.2.0541` | x64 |
+| Zandar Labs SL | Aptakube | Aptakube | `1.16.5` | `1.17.1` | x64 |
 | Zello Inc. | Zello | Zello | `18.5.0.0` | `18.6.0.0` | x64 |
+| ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.0` | `6.21.2` | x86,x64 |
 

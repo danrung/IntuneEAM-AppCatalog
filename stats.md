@@ -1,7 +1,7 @@
 # App Catalog Statistics
 
-> **Source:** `20260527_160107_AppCatalog.json` (exported 2026-05-27 16:01:07)  
-> **Generated:** 2026-05-27 16:01 UTC
+> **Source:** `20260528_041511_AppCatalog.json` (exported 2026-05-28 04:15:11)  
+> **Generated:** 2026-05-28 04:15 UTC
 
 ## Summary
 
@@ -36,8 +36,8 @@
 
 | Architecture | Packages | Share |
 |--------------|--------:|------:|
-| x64 | 1,225 | 79.9% |
-| x86,x64 | 308 | 20.1% |
+| x64 | 1,226 | 80.0% |
+| x86,x64 | 307 | 20.0% |
 
 ## Available Locales
 
