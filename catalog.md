@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260529_155829_AppCatalog.json` (exported 2026-05-29 15:58:29)  
-> **Generated:** 2026-05-29 15:59 UTC  
+> **Source:** `20260530_040202_AppCatalog.json` (exported 2026-05-30 04:02:02)  
+> **Generated:** 2026-05-30 04:02 UTC  
 > **Total:** 1,533 packages · 922 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -192,7 +192,7 @@
 | 184 | Box | Box CLI | Box CLI (x64) | `4.8.2` | x64 | ❌ | en-US |
 | 185 | Box | Box Drive | Box Drive (x64) | `2.51.234` | x64 | ❌ | en-US |
 | 186 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | x64 | ❌ | en-US |
-| 187 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.90.124` | x64 | ❌ | en-US |
+| 187 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.90.128` | x64 | ❌ | en-US |
 | 188 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.85.0` | x64 | ❌ | en-US |
 | 189 | Brink Software B.V. | Ibis Calculeren voor Bouw | Ibis Calculeren voor Bouw | `4.2.73.0` | x64 | ❌ | nl |
 | 190 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2604.12101` | x64 | ❌ | en-US |
@@ -213,7 +213,7 @@
 | 205 | Charles Lechasseur | Path Copy Copy | Path Copy Copy | `20.0` | x64 | ❌ | en-US |
 | 206 | Chef Software, Inc. | Chef Workstation for Windows | Chef Workstation for Windows | `25.14.2` | x64 | ❌ | en-US |
 | 207 | Cisco Systems, Inc. | Cisco Jabber 14 | Cisco Jabber 14 | `15.0.1.59513` | x86,x64 | ✅ | en-US |
-| 208 | Cisco Systems, Inc. | Cisco Jabber 15 | Cisco Jabber 15 | `15.2.2.60904` | x86,x64 | ✅ | en-US |
+| 208 | Cisco Systems, Inc. | Cisco Jabber 15 | Cisco Jabber 15 | `15.2.3.61008` | x86,x64 | ✅ | en-US |
 | 209 | Cisco Systems, Inc. | Cisco JVDI Agent 12 | Cisco JVDI Agent 12 | `12.9.3.55062` | x86,x64 | ❌ | en-US |
 | 210 | Cisco Systems, Inc. | Cisco JVDI Agent 14 | Cisco JVDI Agent 14 | `14.3.1.58744` | x86,x64 | ❌ | en-US |
 | 211 | Cisco Systems, Inc. | Cisco JVDI Agent 15 | Cisco JVDI Agent 15 | `15.2.1.60904` | x86,x64 | ❌ | en-US |
@@ -748,7 +748,7 @@
 | 740 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 741 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
 | 742 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 743 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.122.0` | x64 | ✅ | en-US |
+| 743 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.122.1` | x64 | ✅ | en-US |
 | 744 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37314.3` | x64 | ❌ | en-US |
 | 745 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 746 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -1068,9 +1068,9 @@
 | 1060 | Node.js Foundation | Node.js 21 | Node.js 21 (x64) | `21.7.3` | x64 | ❌ | en-US |
 | 1061 | Node.js Foundation | Node.js 22 LTS | Node.js 22 LTS (x64) | `22.22.2` | x64 | ❌ | en-US |
 | 1062 | NoMachine | NoMachine | NoMachine (x64) | `9.5.7` | x64 | ❌ | en-US |
-| 1063 | NoMachine | NoMachine Enterprise Client | NoMachine Enterprise Client (x64) | `9.5.7` | x64 | ❌ | en-US |
+| 1063 | NoMachine | NoMachine Enterprise Client | NoMachine Enterprise Client (x64) | `9.6.3` | x64 | ❌ | en-US |
 | 1064 | NoMachine | NoMachine Enterprise Desktop | NoMachine Enterprise Desktop (x64) | `9.4.14` | x64 | ❌ | en-US |
-| 1065 | NoMachine | NoMachine Fonts Others | NoMachine Fonts Others (x64) | `9.5.7` | x64 | ❌ | en-US |
+| 1065 | NoMachine | NoMachine Fonts Others | NoMachine Fonts Others (x64) | `9.6.3` | x64 | ❌ | en-US |
 | 1066 | NordVPN | NordLayer | NordLayer | `3.7.0.0` | x86,x64 | ❌ | en-US |
 | 1067 | Nutanix Inc. | Frame App | Frame App | `7.10.3` | x64 | ❌ | en-US |
 | 1068 | NV Access Limited | NV Access NVDA | NVDA | `2026.1.1` | x64 | ❌ | en-US |
@@ -1080,7 +1080,7 @@
 | 1072 | ocenaudio | ocenaudio | ocenaudio | `3.18.2` | x64 | ❌ | en-US |
 | 1073 | Oleg Shparber | Zeal | Zeal | `0.8.1` | x64 | ❌ | en-US |
 | 1074 | Ontotext | GraphDB Desktop | GraphDB Desktop | `10.8.4` | x64 | ❌ | en-US |
-| 1075 | openaudible.org | OpenAudible | OpenAudible | `4.8.1` | x64 | ❌ | en-US |
+| 1075 | openaudible.org | OpenAudible | OpenAudible | `4.8.2` | x64 | ❌ | en-US |
 | 1076 | OpenDNS | OpenDNS Umbrella Roaming Client | Umbrella Roaming Client | `3.0.466` | x86,x64 | ❌ | en-US |
 | 1077 | OpenLens Authors | OpenLens | OpenLens | `6.5.2.366` | x64 | ❌ | en-US |
 | 1078 | OpenShot Studios | OpenShot Video Editor | OpenShot Video Editor (x64) | `3.5.1` | x64 | ❌ | en-US |
@@ -1146,7 +1146,7 @@
 | 1138 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 9 (x64) | `9.5.368.0` | x64 | ❌ | en-US |
 | 1139 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 8 (x64) | `8.0.344.0` | x64 | ❌ | en-US |
 | 1140 | pdfforge GbR | PDFCreator | PDFCreator | `5.3.3` | x64 | ❌ | en-US |
-| 1141 | PDFgear | PDFgear | PDFgear | `2.1.15` | x64 | ❌ | en-US |
+| 1141 | PDFgear | PDFgear | PDFgear | `2.1.16` | x64 | ❌ | en-US |
 | 1142 | PeaZip srl | PeaZip | PeaZip (x64) | `10.9.0` | x64 | ❌ | en-US |
 | 1143 | PeculiarVentures | Fortify | Fortify (x64) | `2.1.0` | x64 | ❌ | en-US |
 | 1144 | Perforce Software, Inc | Puppet Development Kit | Puppet Development Kit | `3.4.0` | x64 | ❌ | en-US |
