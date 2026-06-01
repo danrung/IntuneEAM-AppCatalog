@@ -1,8 +1,8 @@
 # Catalog Changes — Last 7 Days
 
-> **Comparing:** `20260531_140005_AppCatalog.json` (exported 2026-05-31 14:00:05)  
-> **vs:** `20260524_134937_AppCatalog.json` (exported 2026-05-24 13:49:37)  
-> **Generated:** 2026-05-31 14:00 UTC
+> **Comparing:** `20260601_045827_AppCatalog.json` (exported 2026-06-01 04:58:27)  
+> **vs:** `20260525_042536_AppCatalog.json` (exported 2026-05-25 04:25:36)  
+> **Generated:** 2026-06-01 04:58 UTC
 
 ## Summary
 
@@ -71,53 +71,53 @@
 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.49.7` | `1.49.8` | x64 |
 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.7` | `1.49.8` | x64 |
 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.7` | `1.49.8` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `151.0.1` | `151.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `151.0.1` | `151.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `151.0.1` | `151.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `151.0.1` | `151.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `151.0.1` | `151.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `151.0.1` | `151.0.2` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `151.0.1` | `151.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `151.0.1` | `151.0.2` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `151.0.1` | `151.0.2` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `151.0.1` | `151.0.2` | x64 |
 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.75.0` | `1.76.0` | x64 |
 | NGWIN | PicPick | PicPick | `7.4.1` | `7.5.0` | x86,x64 |
 | NoMachine | NoMachine Enterprise Client | NoMachine Enterprise Client (x64) | `9.5.7` | `9.6.3` | x64 |
@@ -137,14 +137,14 @@
 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.76.6.0` | `15.78.3.0` | x64 |
 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.56` | `2.16.56.2` | x64 |
 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.29.0.755` | `1.30.0.769` | x64 |
-| Ultimaker | Ultimaker Cura | Cura (MSI) | `5.12.1` | `5.13.0` | x64 |
 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.12.1` | `5.13.0` | x64 |
+| Ultimaker | Ultimaker Cura | Cura (MSI) | `5.12.1` | `5.13.0` | x64 |
 | VariCAD | VariCAD | VariCAD (English) | `2026.2.04` | `2026.2.05` | x64 |
 | VariCAD | VariCAD | VariCAD (German) | `2026.2.04` | `2026.2.05` | x64 |
 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.04` | `2026.2.05` | x64 |
 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.04` | `2026.2.05` | x64 |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0509` | `9.2.0555` | x64 |
 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0509` | `9.2.0555` | x64 |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0509` | `9.2.0555` | x64 |
 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.112.01907` | `1.121.03429` | x64 |
 | Wrike.com | Wrike | Wrike (x64) | `4.6.0.3013` | `4.6.1.3034` | x64 |
 | Zandar Labs SL | Aptakube | Aptakube | `1.16.5` | `1.17.1` | x64 |
