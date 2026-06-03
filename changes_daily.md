@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260602_164634_AppCatalog.json` (exported 2026-06-02 16:46:34)  
-> **vs:** `20260601_045827_AppCatalog.json` (exported 2026-06-01 04:58:27)  
-> **Generated:** 2026-06-02 16:47 UTC
+> **Comparing:** `20260603_045448_AppCatalog.json` (exported 2026-06-03 04:54:48)  
+> **vs:** `20260602_044525_AppCatalog.json` (exported 2026-06-02 04:45:25)  
+> **Generated:** 2026-06-03 04:55 UTC
 
 ## Summary
 
@@ -10,24 +10,27 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 14 |
+| 🔄 Updated (version change) | 17 |
 
-## 🔄 Updated (14 packages)
+## 🔄 Updated (17 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
-| Articulate | Articulate 360 | Articulate 360 (EXE) | `1.118.37003.0` | `1.118.37026.0` | x64 |
+| Articulate | Articulate 360 | Articulate 360 (EXE) | `1.118.37026.0` | `1.118.37034.0` | x64 |
 | Bambu Lab | Bambu Studio | Bambu Studio | `2.6.0.51` | `2.7.1.57` | x64 |
-| Cato Networks | Cato Client | Cato Client | `6.2.0.8682` | `6.4.6.8830` | x86,x64 |
-| DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.0.5` | `26.1.0` | x64 |
-| Don Ho | Notepad++ | Notepad++ (x64) (EXE) | `8.9.6.1` | `8.9.6.2` | x64 |
-| Krisp | Krisp | Krisp 3.x | `3.11.8` | `3.12.6` | x64 |
-| Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.318.9` | `3000.318.10` | x64 |
-| NoMachine | NoMachine | NoMachine (x64) | `9.5.7` | `9.6.3` | x64 |
-| ocenaudio | ocenaudio | ocenaudio | `3.18.2` | `3.19.1` | x64 |
-| Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.1.1` | `12.11.2.2` | x64 |
-| TablePlus, Inc | TablePlus | TablePlus | `7.1.1` | `7.1.2` | x64 |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0555` | `9.2.0580` | x64 |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0555` | `9.2.0580` | x64 |
+| Box | Box CLI | Box CLI (x64) | `4.8.2` | `4.9.0` | x64 |
+| Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.2.0` | `2026.2.1` | x86,x64 |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.1.23.0` | `2026.2.5.0` | x64 |
+| Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.65.0.221669` | `4.76.0.228118` | x64 |
+| Duo Security Inc. | Duo Desktop | Duo Desktop | `7.17.0.0` | `7.18.0.0` | x86,x64 |
+| General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.21.2` | `1.21.3` | x64 |
+| Genesys | Genesys Cloud | Genesys Cloud | `2.49.903` | `2.50.909` | x86,x64 |
+| Google | Google Web Designer | Google Web Designer (x64) | `14.2.4.0` | `14.3.0.0` | x64 |
+| Krita Foundation | Krita | Krita (x64) | `5.3.2.0` | `5.3.2.1` | x64 |
+| Proton AG | Proton VPN | Proton VPN (x64) | `4.3.14` | `4.4.0` | x64 |
+| SmartBear Software | SoapUI | SoapUI (x64) | `5.9.1` | `5.10.0` | x64 |
+| typora.io | Typora | Typora (x64) | `1.13.6` | `1.13.7` | x64 |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0580` | `9.2.0586` | x64 |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0580` | `9.2.0586` | x64 |
 | Zandar Labs SL | Aptakube | Aptakube | `1.17.1` | `1.17.2` | x64 |
 
