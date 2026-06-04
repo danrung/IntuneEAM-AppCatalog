@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 04 Jun 2026 04:48:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 15:31:20 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-06-04 15:31:20 — +0 added, −0 removed, ↺7 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Thu, 04 Jun 2026 15:31:20 +0000</pubDate>
+      <guid isPermaLink='false'>2026-06-04T15:31:20Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-06-04 15:31:20</p><p><strong>Compared to:</strong> 20260604_044819_AppCatalog.json (2026-06-04 04:48:19)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;7 updated</p><h3>Updated (7)</h3><ul><li>Autodesk Inc. — Autodesk Identity Manager &nbsp;<code>1.18.2.1</code> → <code>1.19.0.6</code></li><li>Devolutions inc — Devolutions Launcher &nbsp;<code>2026.2.5.0</code> → <code>2026.2.7.0</code></li><li>Don Ho — Notepad++ &nbsp;<code>8.9.6.2</code> → <code>8.9.6.4</code></li><li>Mendeley Ltd — Mendeley Reference Manager &nbsp;<code>2.144.0.333</code> → <code>2.145.0.334</code></li><li>Microsoft — Microsoft On-premises data gateway &nbsp;<code>3000.318.10</code> → <code>3000.318.11</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0588</code> → <code>9.2.0593</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0588</code> → <code>9.2.0593</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-06-04 04:48:19 — +0 added, −0 removed, ↺9 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Thu, 04 Jun 2026 04:48:19 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Mon, 11 May 2026 10:54:03 +0000</pubDate>
       <guid isPermaLink='false'>2026-05-11T10:54:03Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-05-11 10:54:03</p><p><strong>Compared to:</strong> 20260511_021442_AppCatalog.json (2026-05-11 02:14:42)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-05-11 02:14:42 — +0 added, −0 removed, ↺0 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Mon, 11 May 2026 02:14:42 +0000</pubDate>
-      <guid isPermaLink='false'>2026-05-11T02:14:42Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-05-11 02:14:42</p><p><strong>Compared to:</strong> 20260510_164328_AppCatalog.json (2026-05-10 16:43:28)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
     </item>
   </channel>
 </rss>
