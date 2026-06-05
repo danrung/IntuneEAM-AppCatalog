@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260604_153120_AppCatalog.json` (exported 2026-06-04 15:31:20)  
-> **Generated:** 2026-06-04 15:31 UTC  
+> **Source:** `20260605_042314_AppCatalog.json` (exported 2026-06-05 04:23:14)  
+> **Generated:** 2026-06-05 04:23 UTC  
 > **Total:** 1,533 packages · 922 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -199,7 +199,7 @@
 | 191 | BrowserStack | BrowserStackLocal | BrowserStackLocal | `3.7.6` | x86,x64 | ❌ | en-US |
 | 192 | Bullzip | Bullzip PDF to Word | PDF to Word | `2.1.0.0` | x86,x64 | ❌ | en-US |
 | 193 | Burnaware | BurnAware Free | BurnAware Free | `19.1` | x86,x64 | ❌ | en-US |
-| 194 | Bytello | Bytello Share | Bytello Share | `5.10.0.3942` | x86,x64 | ❌ | en-US |
+| 194 | Bytello | Bytello Share | Bytello Share | `5.13.1.4288` | x86,x64 | ❌ | en-US |
 | 195 | Cake.com Inc. | Clockify | Clockify | `2.1.8` | x64 | ❌ | en-US |
 | 196 | Calibrite | Calibrite Profiler | Calibrite Profiler | `2.0.0` | x64 | ❌ | en-US |
 | 197 | Canon Production Printing | Publisher Select 3 | Publisher Select 3 | `3.6.2` | x86,x64 | ❌ | en-US |
@@ -341,7 +341,7 @@
 | 333 | Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 9 | `9.3.3` | x64 | ❌ | en-US |
 | 334 | Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 7 | `7.17.29` | x64 | ❌ | en-US |
 | 335 | Elgato | Elgato Stream Deck | Elgato Stream Deck | `7.4.2.22730` | x64 | ❌ | en-US |
-| 336 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.1.2417` | x64 | ❌ | en-US |
+| 336 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.2.2551` | x64 | ❌ | en-US |
 | 337 | Enpass Technologies Inc. | Enpass | Enpass | `6.11.21.2311` | x86,x64 | ❌ | en-US |
 | 338 | EnterpriseDB Corporation | EnterpriseDB Corporation PostgreSQL 12 | PostgreSQL 12 (x64) | `12.22.1` | x64 | ❌ | en-US |
 | 339 | EnterpriseDB Corporation | pgAdmin 4 | pgAdmin 4 | `9.15` | x64 | ❌ | en-US |
