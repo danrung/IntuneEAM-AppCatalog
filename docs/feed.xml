@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 05 Jun 2026 04:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 15:19:16 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-06-05 15:19:16 — +1 added, −0 removed, ↺7 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Fri, 05 Jun 2026 15:19:16 +0000</pubDate>
+      <guid isPermaLink='false'>2026-06-05T15:19:16Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-06-05 15:19:16</p><p><strong>Compared to:</strong> 20260605_042314_AppCatalog.json (2026-06-05 04:23:14)</p><p>+1 added &nbsp; &minus;0 removed &nbsp; &#x21BA;7 updated</p><h3>Added (1)</h3><ul><li>Wireshark Foundation — Wireshark <code>4.7.0</code></li></ul><h3>Updated (7)</h3><ul><li>Brave Software Inc. — Brave Browser &nbsp;<code>1.90.128</code> → <code>1.91.168</code></li><li>CPUID, Inc — CPU-Z &nbsp;<code>2.20.1</code> → <code>2.20.2</code></li><li>FileZilla — FileZilla &nbsp;<code>3.70.5</code> → <code>3.70.6</code></li><li>JetBrains — WebStorm &nbsp;<code>2026.1.2</code> → <code>2026.1.3</code></li><li>Meta Platforms, Inc. — Meta Quest Developer Hub &nbsp;<code>6.4.0</code> → <code>6.4.1</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0593</code> → <code>9.2.0597</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0593</code> → <code>9.2.0597</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-06-05 04:23:14 — +0 added, −0 removed, ↺2 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Fri, 05 Jun 2026 04:23:14 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Tue, 12 May 2026 02:10:13 +0000</pubDate>
       <guid isPermaLink='false'>2026-05-12T02:10:13Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-05-12 02:10:13</p><p><strong>Compared to:</strong> 20260511_175013_AppCatalog.json (2026-05-11 17:50:13)</p><p>+2 added &nbsp; &minus;0 removed &nbsp; &#x21BA;4 updated</p><h3>Added (2)</h3><ul><li>Enpass Technologies Inc. — Enpass <code>6.12.0.2413</code></li><li>JetBrains — JetBrains dotUltimate <code>2024.3.10</code></li></ul><h3>Updated (4)</h3><ul><li>AnyDesk Software GmbH — AnyDesk &nbsp;<code>9.6.12</code> → <code>9.7.2</code></li><li>CoolUtils — Mail Viewer &nbsp;<code>1.0.9623.36058</code> → <code>1.0.9627.37777</code></li><li>DbVis Software AB — DbVisualizer &nbsp;<code>26.1.1</code> → <code>26.1.2</code></li><li>R Core Team — R for Windows &nbsp;<code>4.5.3</code> → <code>4.6.0</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-05-11 17:50:13 — +0 added, −0 removed, ↺11 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Mon, 11 May 2026 17:50:13 +0000</pubDate>
-      <guid isPermaLink='false'>2026-05-11T17:50:13Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-05-11 17:50:13</p><p><strong>Compared to:</strong> 20260511_105403_AppCatalog.json (2026-05-11 10:54:03)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;11 updated</p><h3>Updated (11)</h3><ul><li>Devolutions inc — Devolutions Launcher &nbsp;<code>2026.1.20.0</code> → <code>2026.1.22.0</code></li><li>Devolutions inc — Devolutions Launcher &nbsp;<code>2026.1.20.0</code> → <code>2026.1.22.0</code></li><li>draw.io — draw.io Desktop &nbsp;<code>29.7.8</code> → <code>30.0.0</code></li><li>Gephi — Gephi &nbsp;<code>0.10.1</code> → <code>0.11.2</code></li><li>Lark Technologies Pte. Ltd. — Lark Deployment Tool &nbsp;<code>7.66.6</code> → <code>7.67.10</code></li><li>Laurent Cozic — Joplin &nbsp;<code>3.5.13</code> → <code>3.6.11</code></li><li>Mendix Technology B.V. — Mendix Studio Pro 9 &nbsp;<code>9.24.42.98709</code> → <code>9.24.43.106430</code></li><li>SmartSoft Ltd — SmartFTP Client &nbsp;<code>10.0.3322.0</code> → <code>10.0.3323.0</code></li><li>Stefan Freischlad — Filius &nbsp;<code>2.10.1</code> → <code>2.11.0</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0449</code> → <code>9.2.0461</code></li><li>Zoom Video Communications, Inc. — Zoom Rooms &nbsp;<code>7.0.0</code> → <code>7.0.5</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
