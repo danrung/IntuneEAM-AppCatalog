@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 08 Jun 2026 04:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 16:07:57 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-06-08 16:07:57 — +0 added, −0 removed, ↺4 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Mon, 08 Jun 2026 16:07:57 +0000</pubDate>
+      <guid isPermaLink='false'>2026-06-08T16:07:57Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-06-08 16:07:57</p><p><strong>Compared to:</strong> 20260608_044718_AppCatalog.json (2026-06-08 04:47:18)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;4 updated</p><h3>Updated (4)</h3><ul><li>HandBrake Team — HandBrake &nbsp;<code>1.11.1</code> → <code>1.11.2</code></li><li>Rarlab — Rarlab WinRAR &nbsp;<code>7.13</code> → <code>7.22</code></li><li>Stefan Freischlad — Filius &nbsp;<code>2.11.0</code> → <code>2.12.0</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0597</code> → <code>9.2.0602</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-06-08 04:47:18 — +0 added, −0 removed, ↺0 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Mon, 08 Jun 2026 04:47:18 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Fri, 15 May 2026 04:03:44 +0000</pubDate>
       <guid isPermaLink='false'>2026-05-15T04:03:44Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-05-15 04:03:44</p><p><strong>Compared to:</strong> 20260514_143010_AppCatalog.json (2026-05-14 14:30:10)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;14 updated</p><h3>Updated (14)</h3><ul><li>Amazon — AWS SAM command line interface &nbsp;<code>1.159.1</code> → <code>1.160.0</code></li><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.7</code> → <code>1.45.8</code></li><li>Box — Box Drive &nbsp;<code>2.49.257</code> → <code>2.51.234</code></li><li>Caphyon — Caphyon Advanced Installer &nbsp;<code>23.6</code> → <code>23.7</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.4.0.34752</code> → <code>46.5.0.34931</code></li><li>CPUID, Inc — CPU-Z &nbsp;<code>2.19</code> → <code>2.20</code></li><li>Datadog — Datadog Agent &nbsp;<code>7.78.3</code> → <code>7.78.4</code></li><li>Dương Diệu Pháp — ImageGlass &nbsp;<code>9.4.1.15</code> → <code>9.5.0.515</code></li><li>Google — Google Drive &nbsp;<code>124.0.3.0</code> → <code>125.0.0.0</code></li><li>Google — Google Drive File Stream &nbsp;<code>124.0.3.0</code> → <code>125.0.0.0</code></li><li>Salesforce — Salesforce CLI sf v2 &nbsp;<code>2.133.4</code> → <code>2.134.6</code></li><li>Splashtop Inc. — Splashtop Business &nbsp;<code>3.8.2.0</code> → <code>3.8.4.0</code></li><li>SUSE — Rancher Desktop &nbsp;<code>1.22.2</code> → <code>1.22.3</code></li><li>Tailscale Inc. — Tailscale &nbsp;<code>1.96.3</code> → <code>1.98.1</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-05-14 14:30:10 — +0 added, −0 removed, ↺2 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Thu, 14 May 2026 14:30:10 +0000</pubDate>
-      <guid isPermaLink='false'>2026-05-14T14:30:10Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-05-14 14:30:10</p><p><strong>Compared to:</strong> 20260514_035855_AppCatalog.json (2026-05-14 03:58:55)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;2 updated</p><h3>Updated (2)</h3><ul><li>Keeper — Keeper &nbsp;<code>17.6.1.0</code> → <code>18.0.0.0</code></li><li>MuseScore — MuseScore Studio 4 &nbsp;<code>4.6.5.253511702</code> → <code>4.7.0.260513133</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
