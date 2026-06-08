@@ -1,8 +1,8 @@
 # Catalog Changes — Last 7 Days
 
-> **Comparing:** `20260607_140849_AppCatalog.json` (exported 2026-06-07 14:08:49)  
+> **Comparing:** `20260608_044718_AppCatalog.json` (exported 2026-06-08 04:47:18)  
 > **vs:** `20260531_140005_AppCatalog.json` (exported 2026-05-31 14:00:05)  
-> **Generated:** 2026-06-07 14:09 UTC
+> **Generated:** 2026-06-08 04:47 UTC
 
 ## Summary
 
@@ -59,53 +59,53 @@
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.318.9` | `3000.318.11` | x64 |
 | Microsoft | Microsoft Remote Help | Remote Help | `5.1.1998.0` | `5.2.1037.0` | x64 |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.122.1` | `1.123.0` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `151.0.2` | `151.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `151.0.2` | `151.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `151.0.2` | `151.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `151.0.2` | `151.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `151.0.2` | `151.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `151.0.2` | `151.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `151.0.2` | `151.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `151.0.2` | `151.0.3` | x64 |
 | NoMachine | NoMachine | NoMachine (x64) | `9.5.7` | `9.6.3` | x64 |
 | ocenaudio | ocenaudio | ocenaudio | `3.18.2` | `3.19.1` | x64 |
 | Proton AG | Proton VPN | Proton VPN (x64) | `4.3.14` | `4.4.0` | x64 |

@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 07 Jun 2026 14:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 04:47:18 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-06-08 04:47:18 — +0 added, −0 removed, ↺0 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Mon, 08 Jun 2026 04:47:18 +0000</pubDate>
+      <guid isPermaLink='false'>2026-06-08T04:47:18Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-06-08 04:47:18</p><p><strong>Compared to:</strong> 20260607_140849_AppCatalog.json (2026-06-07 14:08:49)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-06-07 14:08:49 — +0 added, −0 removed, ↺0 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Sun, 07 Jun 2026 14:08:49 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Thu, 14 May 2026 14:30:10 +0000</pubDate>
       <guid isPermaLink='false'>2026-05-14T14:30:10Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-05-14 14:30:10</p><p><strong>Compared to:</strong> 20260514_035855_AppCatalog.json (2026-05-14 03:58:55)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;2 updated</p><h3>Updated (2)</h3><ul><li>Keeper — Keeper &nbsp;<code>17.6.1.0</code> → <code>18.0.0.0</code></li><li>MuseScore — MuseScore Studio 4 &nbsp;<code>4.6.5.253511702</code> → <code>4.7.0.260513133</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-05-14 03:58:55 — +0 added, −0 removed, ↺7 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Thu, 14 May 2026 03:58:55 +0000</pubDate>
-      <guid isPermaLink='false'>2026-05-14T03:58:55Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-05-14 03:58:55</p><p><strong>Compared to:</strong> 20260513_145038_AppCatalog.json (2026-05-13 14:50:38)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;7 updated</p><h3>Updated (7)</h3><ul><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.6</code> → <code>1.45.7</code></li><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.4.0.34752</code> → <code>46.5.0.34931</code></li><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.4.0.34752</code> → <code>46.5.0.34931</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.4.0.34752</code> → <code>46.5.0.34931</code></li><li>Microsoft — Microsoft Defender for Endpoint plug-in for WSL &nbsp;<code>1.26.318.1</code> → <code>1.26.427.1</code></li><li>Microsoft — Microsoft Visual Studio 2022 Enterprise &nbsp;<code>17.14.37216.2</code> → <code>17.14.37301.10</code></li><li>Microsoft — Microsoft Visual Studio 2022 Professional &nbsp;<code>17.14.37216.2</code> → <code>17.14.37301.10</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
