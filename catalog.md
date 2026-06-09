@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260608_160757_AppCatalog.json` (exported 2026-06-08 16:07:57)  
-> **Generated:** 2026-06-08 16:08 UTC  
+> **Source:** `20260609_040925_AppCatalog.json` (exported 2026-06-09 04:09:25)  
+> **Generated:** 2026-06-09 04:09 UTC  
 > **Total:** 1,535 packages · 922 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -246,7 +246,7 @@
 | 238 | Cole Williams Software Limited | Windows 10 Codec Pack | Windows 10 Codec Pack | `2.2.0` | x86,x64 | ❌ | en-US |
 | 239 | Comfort Software Group | Free Countdown Timer | Free Countdown Timer | `5.3.1.0` | x86,x64 | ❌ | en-US |
 | 240 | ComponentAgro B.V. | ComponentAgro CHECK PC2Web | CHECK PC2Web | `7.44.0.0` | x86,x64 | ❌ | nl |
-| 241 | CoolUtils | Mail Viewer | Mail Viewer | `1.0.9652.19924` | x86,x64 | ❌ | en-US |
+| 241 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9655.26223` | x86,x64 | ❌ | en-US |
 | 242 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
 | 243 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.20.2` | x64 | ❌ | en-US |
 | 244 | CPUID, Inc | HWMonitor | HWMonitor | `1.63` | x64 | ❌ | en-US |
@@ -263,8 +263,8 @@
 | 255 | DAX Studio | DAX Studio | DAX Studio | `3.5.2.1205` | x64 | ❌ | en-US |
 | 256 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
 | 257 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.1.0` | x64 | ✅ | en-US |
-| 258 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.0.0` | x64 | ✅ | en-US |
-| 259 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.0.0` | x64 | ✅ | en-US |
+| 258 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.1.0` | x64 | ✅ | en-US |
+| 259 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.1.0` | x64 | ✅ | en-US |
 | 260 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.0.0` | x64 | ✅ | en-US |
 | 261 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.1.2` | x64 | ❌ | en-US |
 | 262 | Dedoose | Dedoose Desktop App | Dedoose Desktop App | `10.1.5` | x86,x64 | ❌ | en-US |
@@ -1077,7 +1077,7 @@
 | 1069 | NVIDIA | NVIDIA GeForce Experience | NVIDIA GeForce Experience | `11.0.1.163` | x64 | ✅ | en-US |
 | 1070 | NWEA | NWEA Secure Testing Browser | NWEA Secure Testing Browser | `5.4.405.0` | x86,x64 | ❌ | en-US |
 | 1071 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.12.4` | x64 | ❌ | en-US |
-| 1072 | ocenaudio | ocenaudio | ocenaudio | `3.19.1` | x64 | ❌ | en-US |
+| 1072 | ocenaudio | ocenaudio | ocenaudio | `3.19.2` | x64 | ❌ | en-US |
 | 1073 | Oleg Shparber | Zeal | Zeal | `0.8.1` | x64 | ❌ | en-US |
 | 1074 | Ontotext | GraphDB Desktop | GraphDB Desktop | `10.8.4` | x64 | ❌ | en-US |
 | 1075 | openaudible.org | OpenAudible | OpenAudible | `4.8.2` | x64 | ❌ | en-US |
@@ -1463,7 +1463,7 @@
 | 1455 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.7` | x64 | ❌ | en-US |
 | 1456 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.5` | x86,x64 | ❌ | en-US |
 | 1457 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0602` | x64 | ❌ | en-US |
-| 1458 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0597` | x64 | ❌ | en-US |
+| 1458 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0602` | x64 | ❌ | en-US |
 | 1459 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.0.0.0` | x64 | ❌ | en-US |
 | 1460 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
 | 1461 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
