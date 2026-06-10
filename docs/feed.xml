@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 10 Jun 2026 04:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 15:53:58 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-06-10 15:53:58 — +0 added, −0 removed, ↺0 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Wed, 10 Jun 2026 15:53:58 +0000</pubDate>
+      <guid isPermaLink='false'>2026-06-10T15:53:58Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-06-10 15:53:58</p><p><strong>Compared to:</strong> 20260610_042022_AppCatalog.json (2026-06-10 04:20:22)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-06-10 04:20:22 — +0 added, −0 removed, ↺52 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Wed, 10 Jun 2026 04:20:22 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Sun, 17 May 2026 04:03:53 +0000</pubDate>
       <guid isPermaLink='false'>2026-05-17T04:03:53Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-05-17 04:03:53</p><p><strong>Compared to:</strong> 20260516_134710_AppCatalog.json (2026-05-16 13:47:10)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-05-16 13:47:10 — +0 added, −0 removed, ↺0 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Sat, 16 May 2026 13:47:10 +0000</pubDate>
-      <guid isPermaLink='false'>2026-05-16T13:47:10Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-05-16 13:47:10</p><p><strong>Compared to:</strong> 20260516_034610_AppCatalog.json (2026-05-16 03:46:10)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
     </item>
   </channel>
 </rss>

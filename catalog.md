@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260610_042022_AppCatalog.json` (exported 2026-06-10 04:20:22)  
-> **Generated:** 2026-06-10 04:20 UTC  
+> **Source:** `20260610_155358_AppCatalog.json` (exported 2026-06-10 15:53:58)  
+> **Generated:** 2026-06-10 15:54 UTC  
 > **Total:** 1,535 packages · 922 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -1193,25 +1193,25 @@
 | 1185 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.22` | x64 | ❌ | en-US |
 | 1186 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | x64 | ❌ | sk |
 | 1187 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.22` | x64 | ❌ | nl |
-| 1188 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.22` | x64 | ❌ | ro |
-| 1189 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
-| 1190 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.22` | x64 | ❌ | fr |
-| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.22` | x64 | ❌ | es |
-| 1192 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.22` | x64 | ❌ | pl |
-| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
-| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.22` | x64 | ❌ | zh-TW |
-| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.22` | x64 | ❌ | ru |
-| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.22` | x64 | ❌ | da |
-| 1197 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.22` | x64 | ❌ | sv |
-| 1198 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.22` | x64 | ❌ | de |
-| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
-| 1200 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.22` | x64 | ❌ | th |
-| 1201 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.22` | x64 | ❌ | ja |
-| 1202 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.22` | x64 | ❌ | hu |
-| 1203 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.22` | x64 | ❌ | ar |
-| 1204 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
-| 1205 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.22` | x64 | ❌ | fi |
-| 1206 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
+| 1188 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.22` | x64 | ❌ | uk |
+| 1189 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.22` | x64 | ❌ | fr |
+| 1190 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.22` | x64 | ❌ | es |
+| 1191 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.22` | x64 | ❌ | pl |
+| 1192 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
+| 1193 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.22` | x64 | ❌ | zh-TW |
+| 1194 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.22` | x64 | ❌ | ru |
+| 1195 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.22` | x64 | ❌ | da |
+| 1196 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.22` | x64 | ❌ | sv |
+| 1197 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.22` | x64 | ❌ | de |
+| 1198 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
+| 1199 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.22` | x64 | ❌ | th |
+| 1200 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.22` | x64 | ❌ | ja |
+| 1201 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.22` | x64 | ❌ | hu |
+| 1202 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.22` | x64 | ❌ | ar |
+| 1203 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.22` | x64 | ❌ | vi |
+| 1204 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.22` | x64 | ❌ | fi |
+| 1205 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
+| 1206 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.22` | x64 | ❌ | ro |
 | 1207 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.13` | x64 | ❌ | sr |
 | 1208 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.22` | x64 | ❌ | ko |
 | 1209 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.22` | x64 | ❌ | bg |
