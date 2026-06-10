@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 09 Jun 2026 15:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 04:20:22 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-06-10 04:20:22 — +0 added, −0 removed, ↺52 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Wed, 10 Jun 2026 04:20:22 +0000</pubDate>
+      <guid isPermaLink='false'>2026-06-10T04:20:22Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-06-10 04:20:22</p><p><strong>Compared to:</strong> 20260609_151940_AppCatalog.json (2026-06-09 15:19:40)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;52 updated</p><h3>Updated (52)</h3><ul><li>Brink Software B.V. — Ibis Calculeren voor Infra &nbsp;<code>4.2.2604.12101</code> → <code>4.2.2606.10401</code></li><li>CoolUtils — Mail Viewer &nbsp;<code>7.1.9655.26223</code> → <code>7.1.9656.35748</code></li><li>Evernote — Evernote &nbsp;<code>11.19.4</code> → <code>11.20.2</code></li><li>Formlabs — Preform &nbsp;<code>3.59.1</code> → <code>3.60.0</code></li><li>Microsoft — Microsoft Visual Studio Team Explorer 2022 &nbsp;<code>17.14.37314.3</code> → <code>17.14.37328.6</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>151.0.3</code> → <code>151.0.4</code></li><li>… and 32 more</li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-06-09 15:19:40 — +0 added, −0 removed, ↺7 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Tue, 09 Jun 2026 15:19:40 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Sat, 16 May 2026 13:47:10 +0000</pubDate>
       <guid isPermaLink='false'>2026-05-16T13:47:10Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-05-16 13:47:10</p><p><strong>Compared to:</strong> 20260516_034610_AppCatalog.json (2026-05-16 03:46:10)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-05-16 03:46:10 — +0 added, −0 removed, ↺12 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Sat, 16 May 2026 03:46:10 +0000</pubDate>
-      <guid isPermaLink='false'>2026-05-16T03:46:10Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-05-16 03:46:10</p><p><strong>Compared to:</strong> 20260515_142310_AppCatalog.json (2026-05-15 14:23:10)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;12 updated</p><h3>Updated (12)</h3><ul><li>Amazon — AWS SAM command line interface &nbsp;<code>1.160.0</code> → <code>1.160.1</code></li><li>CoolUtils — Mail Viewer &nbsp;<code>1.0.9627.37777</code> → <code>1.0.9631.22499</code></li><li>Evernote — Evernote &nbsp;<code>11.15.2</code> → <code>11.16.3</code></li><li>General Workings, Inc. — General Workings Streamlabs OBS &nbsp;<code>1.20.9</code> → <code>1.21.0</code></li><li>JetBrains — GoLand &nbsp;<code>2026.1.1</code> → <code>2026.1.2</code></li><li>JetBrains — WebStorm &nbsp;<code>2026.1.1</code> → <code>2026.1.2</code></li><li>Mattermost Inc. — Mattermost Desktop &nbsp;<code>6.1.2</code> → <code>6.2.0</code></li><li>Microsoft — Microsoft Analysis Services OLE DB Provider &nbsp;<code>18.0.138.0</code> → <code>18.0.172.0</code></li><li>Microsoft — Microsoft Azure Connected Machine Agent &nbsp;<code>1.63.03384.2896</code> → <code>1.64.03414.2961</code></li><li>Microsoft — Microsoft Edge Beta &nbsp;<code>148.0.3967.54</code> → <code>149.0.4022.8</code></li><li>PortSwigger — Burp Suite Professional Edition &nbsp;<code>2026.3.3</code> → <code>2026.4.3</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0478</code> → <code>9.2.0481</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
