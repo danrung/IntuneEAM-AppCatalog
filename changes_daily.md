@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260610_155358_AppCatalog.json` (exported 2026-06-10 15:53:58)  
-> **vs:** `20260609_151940_AppCatalog.json` (exported 2026-06-09 15:19:40)  
-> **Generated:** 2026-06-10 15:54 UTC
+> **Comparing:** `20260611_044251_AppCatalog.json` (exported 2026-06-11 04:42:51)  
+> **vs:** `20260610_042022_AppCatalog.json` (exported 2026-06-10 04:20:22)  
+> **Generated:** 2026-06-11 04:43 UTC
 
 ## Summary
 
@@ -10,62 +10,28 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 52 |
+| 🔄 Updated (version change) | 18 |
 
-## 🔄 Updated (52 packages)
+## 🔄 Updated (18 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
-| Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2604.12101` | `4.2.2606.10401` | x64 |
-| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9655.26223` | `7.1.9656.35748` | x86,x64 |
-| Evernote | Evernote | Evernote | `11.19.4` | `11.20.2` | x64 |
-| Formlabs | Preform | Preform | `3.59.1` | `3.60.0` | x64 |
-| Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37314.3` | `17.14.37328.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Ansgar Becker | HeidiSQL | HeidiSQL | `12.17.0.7270` | `12.18.0.7304` | x64 |
+| Articulate | Articulate 360 | Articulate 360 (EXE) | `1.118.37034.0` | `1.119.37125.0` | x64 |
+| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.91.168` | `1.91.171` | x64 |
+| DigiDNA SARL | iMazing | iMazing | `3.5.4.0` | `3.5.5.0` | x64 |
+| JetBrains | GoLand | GoLand 2026.1 (x64) | `2026.1.2` | `2026.1.3` | x64 |
+| Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2126.23002` | `8.4.2226.27003` | x64 |
+| Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.314` | `9.0.315` | x64 |
+| Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.99.1` | `0.100.0` | x64 |
+| Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.99.1` | `0.100.0` | x64 |
+| Microsoft | Microsoft Visual C++ v14 Redistributable | Microsoft Visual C++ v14 Redistributable (x64) | `14.51.36231.0` | `14.51.36247.0` | x64 |
+| Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37314.3` | `17.14.37328.6` | x64 |
+| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.123.0` | `1.124.0` | x64 |
+| Proton AG | Proton VPN | Proton VPN (x64) | `4.4.0` | `4.4.1` | x64 |
+| Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.2.2` | `12.11.3.3` | x64 |
+| TablePlus, Inc | TablePlus | TablePlus | `7.1.2` | `7.1.4` | x64 |
+| TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.78.3.0` | `15.78.4.0` | x64 |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0604` | `9.2.0612` | x64 |
+| Zotero | Zotero | Zotero (x64) | `9.0.4` | `9.0.5` | x64 |
 

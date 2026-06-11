@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260610_155358_AppCatalog.json` (exported 2026-06-10 15:53:58)  
-> **Generated:** 2026-06-10 15:54 UTC  
+> **Source:** `20260611_044251_AppCatalog.json` (exported 2026-06-11 04:42:51)  
+> **Generated:** 2026-06-11 04:43 UTC  
 > **Total:** 1,535 packages · 922 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -65,7 +65,7 @@
 | 57 | Android | Android Studio 2022 | Android Studio 2022 | `2022.3.1.22` | x64 | ❌ | en-US |
 | 58 | Android | Android Studio 3 | Android Studio 3 | `3.6.3.0` | x64 | ✅ | en-US |
 | 59 | Android | Android Studio 4 | Android Studio 4 | `4.2.2.0` | x64 | ✅ | en-US |
-| 60 | Ansgar Becker | HeidiSQL | HeidiSQL | `12.17.0.7270` | x64 | ❌ | en-US |
+| 60 | Ansgar Becker | HeidiSQL | HeidiSQL | `12.18.0.7304` | x64 | ❌ | en-US |
 | 61 | Antibody Software | WizTree | WizTree | `4.31` | x64 | ❌ | en-US |
 | 62 | AnyBurn | AnyBurn | AnyBurn | `6.5.0` | x64 | ❌ | en-US |
 | 63 | AnyDesk Software GmbH | AnyDesk | AnyDesk | `9.0.2` | x86,x64 | ❌ | en-US |
@@ -79,7 +79,7 @@
 | 71 | ArcticLine Software | ArcticLine Software Jet Screenshot | Jet Screenshot | `3.1` | x86,x64 | ❌ | en-US |
 | 72 | Arduino | Arduino IDE | Arduino IDE | `2.3.9` | x64 | ✅ | en-US |
 | 73 | Artem Izmaylov | AIMP | AIMP (x64) | `5.40.2653` | x64 | ❌ | en-US |
-| 74 | Articulate | Articulate 360 | Articulate 360 (EXE) | `1.118.37034.0` | x64 | ❌ | en-US |
+| 74 | Articulate | Articulate 360 | Articulate 360 (EXE) | `1.119.37125.0` | x64 | ❌ | en-US |
 | 75 | Articulate | Articulate Replay 360 | Articulate Replay (EXE) | `2.23.24149.0` | x86,x64 | ❌ | en-US |
 | 76 | Ascensio System SIA | AVS Image Converter | AVS Image Converter | `26.0.2.17` | x86,x64 | ✅ | en-US |
 | 77 | Ascensio System SIA | AVS Media Player | AVS Media Player | `6.0.2.21` | x86,x64 | ❌ | en-US |
@@ -192,7 +192,7 @@
 | 184 | Box | Box CLI | Box CLI (x64) | `4.9.2` | x64 | ❌ | en-US |
 | 185 | Box | Box Drive | Box Drive (x64) | `2.51.234` | x64 | ❌ | en-US |
 | 186 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | x64 | ❌ | en-US |
-| 187 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.91.168` | x64 | ❌ | en-US |
+| 187 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.91.171` | x64 | ❌ | en-US |
 | 188 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.85.0` | x64 | ❌ | en-US |
 | 189 | Brink Software B.V. | Ibis Calculeren voor Bouw | Ibis Calculeren voor Bouw | `4.2.73.0` | x64 | ❌ | nl |
 | 190 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2606.10401` | x64 | ❌ | en-US |
@@ -282,7 +282,7 @@
 | 274 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager | `2026.1.19.0` | x64 | ❌ | en-US |
 | 275 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.1.18.0` | x86,x64 | ❌ | en-US |
 | 276 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
-| 277 | DigiDNA SARL | iMazing | iMazing | `3.5.4.0` | x64 | ❌ | en-US |
+| 277 | DigiDNA SARL | iMazing | iMazing | `3.5.5.0` | x64 | ❌ | en-US |
 | 278 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.2.1` | x64 | ❌ | en-US |
 | 279 | dnGrep | dnGrep | dnGrep (x64) | `4.7.54.0` | x64 | ❌ | en-US |
 | 280 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.77.0.228796` | x64 | ✅ | en-US |
@@ -496,10 +496,10 @@
 | 488 | JetBrains | DataSpell | DataSpell 2024.2 | `2024.2.3` | x64 | ❌ | en-US |
 | 489 | JetBrains | DataSpell | DataSpell 2025.2 (x64) | `2025.2.3.1` | x64 | ❌ | en-US |
 | 490 | JetBrains | GoLand | GoLand 2025.1 (x64) | `2025.1.7.1` | x64 | ❌ | en-US |
-| 491 | JetBrains | GoLand | GoLand 2025.2 (x64) | `2025.2.6.1` | x64 | ❌ | en-US |
-| 492 | JetBrains | GoLand | GoLand 2024.3 | `2024.3.6.1` | x64 | ❌ | en-US |
-| 493 | JetBrains | GoLand | GoLand 2025.3 (x64) | `2025.3.5` | x64 | ❌ | en-US |
-| 494 | JetBrains | GoLand | GoLand 2026.1 (x64) | `2026.1.2` | x64 | ❌ | en-US |
+| 491 | JetBrains | GoLand | GoLand 2026.1 (x64) | `2026.1.3` | x64 | ❌ | en-US |
+| 492 | JetBrains | GoLand | GoLand 2025.2 (x64) | `2025.2.6.1` | x64 | ❌ | en-US |
+| 493 | JetBrains | GoLand | GoLand 2024.3 | `2024.3.6.1` | x64 | ❌ | en-US |
+| 494 | JetBrains | GoLand | GoLand 2025.3 (x64) | `2025.3.5` | x64 | ❌ | en-US |
 | 495 | JetBrains | GoLand 2017.3 | GoLand 2017.3 | `2017.3.5` | x64 | ❌ | en-US |
 | 496 | JetBrains | GoLand 2021.1 | GoLand 2021.1 | `2021.1.3` | x64 | ❌ | en-US |
 | 497 | JetBrains | GoLand 2022.2 | GoLand 2022.2 | `2022.2.6` | x64 | ❌ | en-US |
@@ -625,8 +625,8 @@
 | 617 | Microsoft | Microsoft .NET Core 2.2 | .NET Core Runtime 2.2 (x64) | `2.2.8.28209` | x64 | ❌ | en-US |
 | 618 | Microsoft | Microsoft .NET Runtime 6.0 | .NET Runtime 6.0 (x64) | `6.0.36.34214` | x64 | ❌ | en-US |
 | 619 | Microsoft | Microsoft .NET Runtime 7.0 | .NET Runtime 7.0 (x64) | `7.0.20.33717` | x64 | ❌ | en-US |
-| 620 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2126.23002` | x64 | ❌ | en-US |
-| 621 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.314` | x64 | ❌ | en-US |
+| 620 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2226.27003` | x64 | ❌ | en-US |
+| 621 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.315` | x64 | ❌ | en-US |
 | 622 | Microsoft | Microsoft Access Database Engine 2016 | Access Database Engine 2016 (x64) | `16.0.5044.1000` | x64 | ❌ | en-US |
 | 623 | Microsoft | Microsoft Active Directory Rights Management Service Client | Active Directory Rights Management Service Client 2.1 (x64) | `1.0.4114.0` | x64 | ❌ | en-US |
 | 624 | Microsoft | Microsoft Analysis Management Objects | Microsoft Analysis Management Objects | `16.0.5627.0` | x64 | ❌ | en-US |
@@ -686,8 +686,8 @@
 | 678 | Microsoft | Microsoft PowerShell Core | PowerShell Core 6.2 (x64) | `6.2.4` | x64 | ❌ | en-US |
 | 679 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.5 (x64) | `7.5.4` | x64 | ❌ | en-US |
 | 680 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.4 (x64) | `7.4.13` | x64 | ❌ | en-US |
-| 681 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.99.1` | x64 | ✅ | en-US |
-| 682 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.99.1` | x64 | ✅ | en-US |
+| 681 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.100.0` | x64 | ✅ | en-US |
+| 682 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.100.0` | x64 | ✅ | en-US |
 | 683 | Microsoft | Microsoft Purview Information Protection client | Purview Information Protection client | `3.1.310.0` | x86,x64 | ❌ | en-US |
 | 684 | Microsoft | Microsoft Remote Desktop WebRTC Redirector | Remote Desktop WebRTC Redirector | `1.54.2408.19001` | x64 | ❌ | en-US |
 | 685 | Microsoft | Microsoft Remote Help | Remote Help | `5.2.1037.0` | x64 | ✅ | en-US |
@@ -729,9 +729,9 @@
 | 721 | Microsoft | Microsoft Visual C++ 2005 Redistributable | Microsoft Visual C++ 2005 Redistributable (x64) | `8.0.61000` | x64 | ❌ | en-US |
 | 722 | Microsoft | Microsoft Visual C++ 2008 Redistributable | Microsoft Visual C++ 2008 Redistributable (x64) | `9.0.30729.6161` | x64 | ❌ | en-US |
 | 723 | Microsoft | Microsoft Visual C++ 2012 Redistributable | Microsoft Visual C++ 2012 Redistributable (x64) | `11.0.61030.0` | x64 | ❌ | en-US |
-| 724 | Microsoft | Microsoft Visual C++ v14 Redistributable | Microsoft Visual C++ v14 Redistributable (x64) | `14.51.36231.0` | x64 | ❌ | en-US |
+| 724 | Microsoft | Microsoft Visual C++ v14 Redistributable | Microsoft Visual C++ v14 Redistributable (x64) | `14.51.36247.0` | x64 | ❌ | en-US |
 | 725 | Microsoft | Microsoft Visual Studio 2010 Tools for Office Runtime | Visual Studio 2010 Tools for Office Runtime (x64) | `10.0.60917.00` | x64 | ❌ | en-US |
-| 726 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37314.3` | x64 | ❌ | en-US |
+| 726 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37328.6` | x64 | ❌ | en-US |
 | 727 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 728 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 729 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37301.13` | x64 | ❌ | en-US |
@@ -748,7 +748,7 @@
 | 740 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 741 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
 | 742 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 743 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.123.0` | x64 | ✅ | en-US |
+| 743 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.124.0` | x64 | ✅ | en-US |
 | 744 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37328.6` | x64 | ❌ | en-US |
 | 745 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 746 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -1167,7 +1167,7 @@
 | 1159 | PrinterLogic | PrinterLogic Printer Installer Client | Printer Installer Client | `25.1.0.1168` | x86,x64 | ❌ | en-US |
 | 1160 | Privado Networks AG | PrivadoVPN | PrivadoVPN | `4.1.0.0` | x86,x64 | ❌ | en-US |
 | 1161 | Private Internet Access Inc. | Private Internet Access | Private Internet Access (x64) | `3.7.2` | x64 | ❌ | en-US |
-| 1162 | Proton AG | Proton VPN | Proton VPN (x64) | `4.4.0` | x64 | ❌ | en-US |
+| 1162 | Proton AG | Proton VPN | Proton VPN (x64) | `4.4.1` | x64 | ❌ | en-US |
 | 1163 | PURSLANE | RustDesk | RustDesk | `1.3.8` | x64 | ❌ | en-US |
 | 1164 | Python Software Foundation | Python 3.10 | Python 3.10 (x64) | `3.10.11150.0` | x64 | ❌ | en-US |
 | 1165 | Python Software Foundation | Python 3.11 | Python 3.11 (x64) | `3.11.9150.0` | x64 | ❌ | en-US |
@@ -1273,7 +1273,7 @@
 | 1265 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.30.53.0` | x64 | ❌ | en-US |
 | 1266 | Shotcut | Shotcut | Shotcut (x64) | `26.4.30` | x64 | ❌ | en-US |
 | 1267 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.1.1` | x64 | ✅ | en-US |
-| 1268 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.2.2` | x64 | ✅ | en-US |
+| 1268 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.3.3` | x64 | ✅ | en-US |
 | 1269 | Siber Systems Inc | RoboForm | RoboForm | `9.9.4.6` | x86,x64 | ❌ | en-US |
 | 1270 | SideQuest | SideQuest | SideQuest | `0.10.42` | x64 | ❌ | en-US |
 | 1271 | Signiant Inc. | Signiant App | Signiant App | `1.5.1773` | x64 | ❌ | en-US |
@@ -1331,7 +1331,7 @@
 | 1323 | Tableau Software Inc | Tableau Desktop 2022 | Tableau Desktop 2022.4 | `2022.4.20` | x64 | ❌ | en-US |
 | 1324 | Tableau Software Inc | Tableau Prep Builder 2022 | Tableau Prep Builder 2022.3 | `22.3.27404.0` | x64 | ✅ | en-US |
 | 1325 | Tableau Software Inc | Tableau Prep Builder 2022 | Tableau Prep Builder 2022.4 | `22.4.27646.0` | x64 | ✅ | en-US |
-| 1326 | TablePlus, Inc | TablePlus | TablePlus | `7.1.2` | x64 | ❌ | en-US |
+| 1326 | TablePlus, Inc | TablePlus | TablePlus | `7.1.4` | x64 | ❌ | en-US |
 | 1327 | Tabular Editor ApS | Tabular Editor 2 | Tabular Editor 2 | `2.24.1` | x86,x64 | ❌ | en-US |
 | 1328 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.98.1` | x64 | ❌ | en-US |
 | 1329 | Talkdesk, Inc. | Talkdesk | Talkdesk | `3.1.1` | x64 | ❌ | en-US |
@@ -1340,8 +1340,8 @@
 | 1332 | TDP s.r.o. | TDP SecureAnyBox Agent | SecureAnyBox Agent | `3.0.3.0` | x86,x64 | ❌ | en-US |
 | 1333 | TDP s.r.o. | TDP SecureAnyBox Launcher | SecureAnyBox Launcher | `2.6.0.0` | x86,x64 | ❌ | en-US |
 | 1334 | TeamSpeak Systems | TeamSpeak client | TeamSpeak client (x64) | `3.6.2` | x64 | ❌ | en-US |
-| 1335 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host | `15.69.5.0` | x86,x64 | ❌ | en-US |
-| 1336 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.78.3.0` | x64 | ❌ | en-US |
+| 1335 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.78.4.0` | x64 | ❌ | en-US |
+| 1336 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host | `15.69.5.0` | x86,x64 | ❌ | en-US |
 | 1337 | TechSmith Corporation | Camtasia 2018 | Camtasia 2018 | `18.0.8.4591` | x64 | ✅ | en-US |
 | 1338 | TechSmith Corporation | Camtasia Studio 2019 | Camtasia Studio 2019 | `2019.0.11.17779` | x64 | ✅ | en-US |
 | 1339 | TechSmith Corporation | Snagit 2018 | Snagit 2018 (x64) | `2018.2.6` | x64 | ✅ | en-US |
@@ -1462,7 +1462,7 @@
 | 1454 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
 | 1455 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.7` | x64 | ❌ | en-US |
 | 1456 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.5` | x86,x64 | ❌ | en-US |
-| 1457 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0604` | x64 | ❌ | en-US |
+| 1457 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0612` | x64 | ❌ | en-US |
 | 1458 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0604` | x64 | ❌ | en-US |
 | 1459 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.0.0.0` | x64 | ❌ | en-US |
 | 1460 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
@@ -1530,8 +1530,8 @@
 | 1522 | Zoom Video Communications, Inc. | Zoom VDI Universal Plugin | Zoom VDI Universal Plugin (x64) | `6.5.10.26710` | x64 | ❌ | en-US |
 | 1523 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) | `7.0.38856` | x64 | ✅ | en-US |
 | 1524 | Zorus Inc. | Zorus Archon Agent | Zorus Archon Agent | `4.6.0.0` | x64 | ❌ | en-US |
-| 1525 | Zotero | Zotero | Zotero (x64) | `9.0.4` | x64 | ❌ | en-US |
-| 1526 | Zotero | Zotero | Zotero | `7.0.2` | x86,x64 | ❌ | en-US |
+| 1525 | Zotero | Zotero | Zotero | `7.0.2` | x86,x64 | ❌ | en-US |
+| 1526 | Zotero | Zotero | Zotero (x64) | `9.0.5` | x64 | ❌ | en-US |
 | 1527 | Zscaler | Zscaler Client Connector 3.6 | Zscaler Client Connector 3.6 | `3.6.1.25` | x86,x64 | ❌ | en-US |
 | 1528 | Zscaler | Zscaler Client Connector 3.9 | Zscaler Client Connector 3.9 (x64) | `3.9.0.191` | x64 | ❌ | en-US |
 | 1529 | Zscaler | Zscaler Client Connector 3.9 | Zscaler Client Connector 3.9 (x86) | `3.9.0.191` | x86,x64 | ❌ | en-US |
