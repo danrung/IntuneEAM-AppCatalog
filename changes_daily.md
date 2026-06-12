@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260612_044531_AppCatalog.json` (exported 2026-06-12 04:45:31)  
+> **Comparing:** `20260612_153105_AppCatalog.json` (exported 2026-06-12 15:31:05)  
 > **vs:** `20260611_044251_AppCatalog.json` (exported 2026-06-11 04:42:51)  
-> **Generated:** 2026-06-12 04:45 UTC
+> **Generated:** 2026-06-12 15:31 UTC
 
 ## Summary
 
@@ -26,8 +26,8 @@
 | Automattic | Simplenote | Simplenote (x64) | `2.26.0` | `2.26.1` | x64 |
 | Formlabs | Preform | Preform | `3.60.0` | `3.60.1` | x64 |
 | Garmin | Garmin Express | Garmin Express | `7.28.1.0` | `7.29.0.0` | x86,x64 |
-| Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37301.13` | `17.12.37328.8` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37314.3` | `17.14.37328.6` | x64 |
+| Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37301.13` | `17.12.37328.8` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37301.13` | `17.12.37328.8` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37314.3` | `17.14.37328.6` | x64 |
 | NordVPN | NordLayer | NordLayer | `3.7.0.0` | `3.8.1.0` | x86,x64 |
