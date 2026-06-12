@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260611_161441_AppCatalog.json` (exported 2026-06-11 16:14:41)  
-> **Generated:** 2026-06-11 16:15 UTC  
+> **Source:** `20260612_044531_AppCatalog.json` (exported 2026-06-12 04:45:31)  
+> **Generated:** 2026-06-12 04:45 UTC  
 > **Total:** 1,534 packages · 921 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -95,7 +95,7 @@
 | 87 | Atomi Systems, Inc. | Atomi Systems ActivePresenter | ActivePresenter | `9.4.0` | x64 | ✅ | en-US |
 | 88 | Atomi Systems, Inc. | Saola Animate | Saola Animate | `3.1.4` | x64 | ❌ | en-US |
 | 89 | Atostek Oy | Atostek ID | Atostek ID | `4.5.0.0` | x86,x64 | ❌ | en-US |
-| 90 | Audacity | Audacity | Audacity (x64) | `3.7.7` | x64 | ✅ | en-US |
+| 90 | Audacity | Audacity | Audacity (x64) | `3.7.8` | x64 | ✅ | en-US |
 | 91 | Autodesk Inc. | Autodesk Access | Autodesk Access | `2.21.0.646` | x64 | ❌ | en-US |
 | 92 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Polish) (x64) | `15.0.2.10` | x64 | ❌ | pl-PL |
 | 93 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Russian) (x64) | `15.0.2.10` | x64 | ❌ | ru-RU |
@@ -401,7 +401,7 @@
 | 393 | Gamma Telecom Ltd | Horizon Collaborate | Horizon Collaborate | `1.41.0` | x64 | ❌ | en-US |
 | 394 | Garden Gnome GmbH | Garden Gnome Package Viewer | Garden Gnome Package Viewer | `1.6.1` | x64 | ❌ | en-US |
 | 395 | Garmin | Garmin BaseCamp | Garmin BaseCamp | `4.7.5` | x86,x64 | ❌ | en-US |
-| 396 | Garmin | Garmin Express | Garmin Express | `7.28.1.0` | x86,x64 | ❌ | en-US |
+| 396 | Garmin | Garmin Express | Garmin Express | `7.29.0.0` | x86,x64 | ❌ | en-US |
 | 397 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.30.1` | x64 | ❌ | en-US |
 | 398 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.21.3` | x64 | ❌ | en-US |
 | 399 | Genesys | Genesys Cloud | Genesys Cloud | `2.50.909` | x86,x64 | ❌ | en-US |
@@ -734,15 +734,15 @@
 | 726 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37328.6` | x64 | ❌ | en-US |
 | 727 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 728 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 729 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37301.13` | x64 | ❌ | en-US |
-| 730 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
-| 731 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
+| 729 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
+| 730 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
+| 731 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37328.8` | x64 | ❌ | en-US |
 | 732 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
 | 733 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
 | 734 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37328.6` | x64 | ❌ | en-US |
 | 735 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 736 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
-| 737 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37314.3` | x64 | ❌ | en-US |
+| 737 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37328.6` | x64 | ❌ | en-US |
 | 738 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
 | 739 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 740 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
@@ -1071,7 +1071,7 @@
 | 1063 | NoMachine | NoMachine Enterprise Client | NoMachine Enterprise Client (x64) | `9.6.3` | x64 | ❌ | en-US |
 | 1064 | NoMachine | NoMachine Enterprise Desktop | NoMachine Enterprise Desktop (x64) | `9.4.14` | x64 | ❌ | en-US |
 | 1065 | NoMachine | NoMachine Fonts Others | NoMachine Fonts Others (x64) | `9.6.3` | x64 | ❌ | en-US |
-| 1066 | NordVPN | NordLayer | NordLayer | `3.7.0.0` | x86,x64 | ❌ | en-US |
+| 1066 | NordVPN | NordLayer | NordLayer | `3.8.1.0` | x86,x64 | ❌ | en-US |
 | 1067 | Nutanix Inc. | Frame App | Frame App | `7.10.3` | x64 | ❌ | en-US |
 | 1068 | NV Access Limited | NV Access NVDA | NVDA | `2026.1.1` | x64 | ❌ | en-US |
 | 1069 | NVIDIA | NVIDIA GeForce Experience | NVIDIA GeForce Experience | `11.0.1.163` | x64 | ✅ | en-US |
