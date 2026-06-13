@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260612_153105_AppCatalog.json` (exported 2026-06-12 15:31:05)  
-> **Generated:** 2026-06-12 15:31 UTC  
+> **Source:** `20260613_042418_AppCatalog.json` (exported 2026-06-13 04:24:18)  
+> **Generated:** 2026-06-13 04:24 UTC  
 > **Total:** 1,534 packages · 921 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -249,7 +249,7 @@
 | 241 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9656.35748` | x86,x64 | ❌ | en-US |
 | 242 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
 | 243 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.20.2` | x64 | ❌ | en-US |
-| 244 | CPUID, Inc | HWMonitor | HWMonitor | `1.63` | x64 | ❌ | en-US |
+| 244 | CPUID, Inc | HWMonitor | HWMonitor | `1.64` | x64 | ❌ | en-US |
 | 245 | Creative Force | Creative Force Kelvin | Kelvin | `6.2.0` | x64 | ❌ | en-US |
 | 246 | Creative Force | Creative Force Triad | Triad | `4.4.0` | x64 | ❌ | en-US |
 | 247 | Crestron Electronics, Inc. | Crestron AirMedia app | AirMedia app | `5.11.1.164` | x86,x64 | ❌ | en-US |
@@ -278,7 +278,7 @@
 | 270 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
 | 271 | Dell, Inc. | RVTools | RVTools | `4.7.1` | x86,x64 | ❌ | en-US |
 | 272 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.23.0` | x64 | ✅ | en-US |
-| 273 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.7.0` | x64 | ✅ | en-US |
+| 273 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.9.0` | x64 | ✅ | en-US |
 | 274 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager | `2026.1.19.0` | x64 | ❌ | en-US |
 | 275 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.1.18.0` | x86,x64 | ❌ | en-US |
 | 276 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
@@ -447,7 +447,7 @@
 | 439 | IAM Technology Group Ltd | Cloud Drive Mapper | Cloud Drive Mapper 2 | `2.25.0.1` | x64 | ❌ | en-US |
 | 440 | IBM | IBM Aspera Connect | Aspera Connect | `4.2.19.956` | x64 | ❌ | en-US |
 | 441 | Iceni Technology Ltd. | Infix PDF Editor | Infix PDF Editor | `7.7.0.0` | x86,x64 | ❌ | en-US |
-| 442 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `13.6.2` | x64 | ❌ | en-US |
+| 442 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `13.6.3` | x64 | ❌ | en-US |
 | 443 | Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `12.6.2` | x64 | ❌ | en-US |
 | 444 | IDM Computer Solutions | UEStudio | UEStudio | `25.2.24` | x64 | ❌ | en-US |
 | 445 | IDM Computer Solutions | UltraCompare | UltraCompare (x64) | `24.1.5` | x64 | ❌ | en-US |
@@ -748,7 +748,7 @@
 | 740 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
 | 741 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37328.8` | x64 | ❌ | en-US |
 | 742 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 743 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.124.0` | x64 | ✅ | en-US |
+| 743 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.124.2` | x64 | ✅ | en-US |
 | 744 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37328.6` | x64 | ❌ | en-US |
 | 745 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 746 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -1077,7 +1077,7 @@
 | 1069 | NVIDIA | NVIDIA GeForce Experience | NVIDIA GeForce Experience | `11.0.1.163` | x64 | ✅ | en-US |
 | 1070 | NWEA | NWEA Secure Testing Browser | NWEA Secure Testing Browser | `5.4.405.0` | x86,x64 | ❌ | en-US |
 | 1071 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.12.4` | x64 | ❌ | en-US |
-| 1072 | ocenaudio | ocenaudio | ocenaudio | `3.19.2` | x64 | ❌ | en-US |
+| 1072 | ocenaudio | ocenaudio | ocenaudio | `3.19.3` | x64 | ❌ | en-US |
 | 1073 | Oleg Shparber | Zeal | Zeal | `0.8.1` | x64 | ❌ | en-US |
 | 1074 | Ontotext | GraphDB Desktop | GraphDB Desktop | `10.8.4` | x64 | ❌ | en-US |
 | 1075 | openaudible.org | OpenAudible | OpenAudible | `4.8.2` | x64 | ❌ | en-US |
@@ -1161,7 +1161,7 @@
 | 1153 | Plex | Plex Media Server | Plex Media Server (x64) | `1.43.2.10687` | x64 | ❌ | en-US |
 | 1154 | PolderValley | SelfGuide Recorder | SelfGuide Recorder | `1.177.0.0` | x64 | ❌ | en-US |
 | 1155 | Poll Everywhere | Poll Everywhere | Poll Everywhere | `4.3.2` | x86,x64 | ❌ | en-US |
-| 1156 | PortSwigger | Burp Suite Community Edition | Burp Suite Community Edition (x64) | `2026.3.3` | x64 | ✅ | en-US |
+| 1156 | PortSwigger | Burp Suite Community Edition | Burp Suite Community Edition (x64) | `2026.4.3` | x64 | ✅ | en-US |
 | 1157 | PortSwigger | Burp Suite Professional Edition | Burp Suite Professional Edition (x64) | `2026.4.3` | x64 | ✅ | en-US |
 | 1158 | Power BI ALM Toolkit | Power BI ALM Toolkit | Power BI ALM Toolkit | `5.1.20` | x64 | ❌ | en-US |
 | 1159 | PrinterLogic | PrinterLogic Printer Installer Client | Printer Installer Client | `25.1.0.1168` | x86,x64 | ❌ | en-US |
