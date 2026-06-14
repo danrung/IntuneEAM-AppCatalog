@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260614_045146_AppCatalog.json` (exported 2026-06-14 04:51:46)  
-> **Generated:** 2026-06-14 04:52 UTC  
+> **Source:** `20260614_141914_AppCatalog.json` (exported 2026-06-14 14:19:14)  
+> **Generated:** 2026-06-14 14:19 UTC  
 > **Total:** 1,534 packages · 921 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -293,8 +293,8 @@
 | 285 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.4.100` | x64 | ❌ | en-US |
 | 286 | draw.io | draw.io Desktop | draw.io Desktop | `30.0.4` | x64 | ✅ | en-US |
 | 287 | dRofus | dRofus | dRofus | `2.17.16.0` | x86,x64 | ❌ | en-US |
-| 288 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `246.4.3513` | x64 | ✅ | en-US |
-| 289 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `246.4.3513` | x64 | ✅ | en-US |
+| 288 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `246.4.3513` | x64 | ✅ | en-US |
+| 289 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `246.4.3513` | x64 | ✅ | en-US |
 | 290 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `7.5.7` | x64 | ❌ | en-US |
 | 291 | DucFabulous | UltraViewer | UltraViewer | `6.6.124` | x86,x64 | ✅ | en-US |
 | 292 | Duo Security Inc. | Duo Desktop | Duo Desktop | `7.18.0.0` | x86,x64 | ✅ | en-US |
@@ -733,8 +733,8 @@
 | 725 | Microsoft | Microsoft Visual Studio 2010 Tools for Office Runtime | Visual Studio 2010 Tools for Office Runtime (x64) | `10.0.60917.00` | x64 | ❌ | en-US |
 | 726 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37328.6` | x64 | ❌ | en-US |
 | 727 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 728 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37328.6` | x64 | ❌ | en-US |
-| 729 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 728 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 729 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37328.6` | x64 | ❌ | en-US |
 | 730 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
 | 731 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 732 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37328.8` | x64 | ❌ | en-US |
@@ -782,53 +782,53 @@
 | 774 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.8` | x64 | ❌ | en-US |
 | 775 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.8` | x64 | ❌ | en-US |
 | 776 | MOOS Project Viewer | MOOS Project Viewer | MOOS Project Viewer | `4.4.0` | x86,x64 | ❌ | en-US |
-| 777 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `151.0.4` | x64 | ✅ | en-GB |
-| 778 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `151.0.4` | x64 | ✅ | hr |
-| 779 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `151.0.4` | x64 | ✅ | eu |
-| 780 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `151.0.4` | x64 | ✅ | et |
-| 781 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `151.0.4` | x64 | ✅ | fi |
-| 782 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `151.0.4` | x64 | ✅ | en-CA |
-| 783 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `151.0.4` | x64 | ✅ | pt-BR |
-| 784 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `151.0.4` | x64 | ✅ | hi-IN |
+| 777 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `151.0.4` | x64 | ✅ | ja |
+| 778 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `151.0.4` | x64 | ✅ | hi-IN |
+| 779 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `151.0.4` | x64 | ✅ | et |
+| 780 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `151.0.4` | x64 | ✅ | ru |
+| 781 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `151.0.4` | x64 | ✅ | ro |
+| 782 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `151.0.4` | x64 | ✅ | uk |
+| 783 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `151.0.4` | x64 | ✅ | en-GB |
+| 784 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `151.0.4` | x64 | ✅ | gl |
 | 785 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `151.0.4` | x64 | ✅ | pt-PT |
-| 786 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `151.0.4` | x64 | ✅ | nb-NO |
-| 787 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `151.0.4` | x64 | ✅ | af |
-| 788 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `151.0.4` | x64 | ✅ | tr |
-| 789 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `151.0.4` | x64 | ✅ | de |
-| 790 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `151.0.4` | x64 | ✅ | nl |
-| 791 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `151.0.4` | x64 | ✅ | he |
-| 792 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `151.0.4` | x64 | ✅ | hu |
-| 793 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `151.0.4` | x64 | ✅ | sv-SE |
-| 794 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `151.0.4` | x64 | ✅ | nn-NO |
-| 795 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `151.0.4` | x64 | ✅ | cs |
-| 796 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `151.0.4` | x64 | ✅ | da |
-| 797 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `151.0.4` | x64 | ✅ | sr |
-| 798 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `151.0.4` | x64 | ✅ | kk |
-| 799 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `151.0.4` | x64 | ✅ | zh-CN |
-| 800 | Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `151.0.4` | x64 | ✅ | ms |
-| 801 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `151.0.4` | x64 | ✅ | lv |
-| 802 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `151.0.4` | x64 | ✅ | sk |
-| 803 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `151.0.4` | x64 | ✅ | zh-TW |
-| 804 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `151.0.4` | x64 | ✅ | ar |
-| 805 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `151.0.4` | x64 | ✅ | id |
-| 806 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `151.0.4` | x64 | ✅ | bg |
-| 807 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `151.0.4` | x64 | ✅ | sl |
-| 808 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `151.0.4` | x64 | ✅ | ro |
-| 809 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `151.0.4` | x64 | ✅ | ru |
-| 810 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `151.0.4` | x64 | ✅ | el |
-| 811 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `151.0.4` | x64 | ✅ | ja |
-| 812 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `151.0.4` | x64 | ✅ | uk |
-| 813 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `151.0.4` | x64 | ✅ | es-ES |
-| 814 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `151.0.4` | x64 | ✅ | lt |
-| 815 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `151.0.4` | x64 | ✅ | th |
-| 816 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `151.0.4` | x64 | ✅ | it |
-| 817 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `151.0.4` | x64 | ✅ | en-US |
-| 818 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `151.0.4` | x64 | ✅ | ko |
-| 819 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `151.0.4` | x64 | ✅ | fr |
-| 820 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `151.0.4` | x64 | ✅ | vi |
-| 821 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `151.0.4` | x64 | ✅ | es-MX |
-| 822 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `151.0.4` | x64 | ✅ | gl |
-| 823 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `151.0.4` | x64 | ✅ | pl |
+| 786 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `151.0.4` | x64 | ✅ | fi |
+| 787 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `151.0.4` | x64 | ✅ | en-CA |
+| 788 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `151.0.4` | x64 | ✅ | sr |
+| 789 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `151.0.4` | x64 | ✅ | nl |
+| 790 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `151.0.4` | x64 | ✅ | eu |
+| 791 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `151.0.4` | x64 | ✅ | es-ES |
+| 792 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `151.0.4` | x64 | ✅ | da |
+| 793 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `151.0.4` | x64 | ✅ | hr |
+| 794 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `151.0.4` | x64 | ✅ | nb-NO |
+| 795 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `151.0.4` | x64 | ✅ | af |
+| 796 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `151.0.4` | x64 | ✅ | sk |
+| 797 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `151.0.4` | x64 | ✅ | pt-BR |
+| 798 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `151.0.4` | x64 | ✅ | fr |
+| 799 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `151.0.4` | x64 | ✅ | cs |
+| 800 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `151.0.4` | x64 | ✅ | pl |
+| 801 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `151.0.4` | x64 | ✅ | zh-TW |
+| 802 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `151.0.4` | x64 | ✅ | kk |
+| 803 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `151.0.4` | x64 | ✅ | es-MX |
+| 804 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `151.0.4` | x64 | ✅ | lt |
+| 805 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `151.0.4` | x64 | ✅ | de |
+| 806 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `151.0.4` | x64 | ✅ | ar |
+| 807 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `151.0.4` | x64 | ✅ | th |
+| 808 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `151.0.4` | x64 | ✅ | he |
+| 809 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `151.0.4` | x64 | ✅ | it |
+| 810 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `151.0.4` | x64 | ✅ | en-US |
+| 811 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `151.0.4` | x64 | ✅ | vi |
+| 812 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `151.0.4` | x64 | ✅ | id |
+| 813 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `151.0.4` | x64 | ✅ | sl |
+| 814 | Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `151.0.4` | x64 | ✅ | ms |
+| 815 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `151.0.4` | x64 | ✅ | ko |
+| 816 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `151.0.4` | x64 | ✅ | lv |
+| 817 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `151.0.4` | x64 | ✅ | hu |
+| 818 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `151.0.4` | x64 | ✅ | sv-SE |
+| 819 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `151.0.4` | x64 | ✅ | el |
+| 820 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `151.0.4` | x64 | ✅ | nn-NO |
+| 821 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `151.0.4` | x64 | ✅ | bg |
+| 822 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `151.0.4` | x64 | ✅ | zh-CN |
+| 823 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `151.0.4` | x64 | ✅ | tr |
 | 824 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Portuguese Brazilian) (x64) | `102.15.1` | x64 | ✅ | pt-BR |
 | 825 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Greek) (x64) | `102.15.1` | x64 | ✅ | el |
 | 826 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Lithuanian) (x64) | `102.15.1` | x64 | ✅ | lt |
@@ -1446,8 +1446,8 @@
 | 1438 | typora.io | Typora | Typora (x64) | `1.13.7` | x64 | ❌ | en-US |
 | 1439 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.13.0` | x64 | ❌ | en-US |
 | 1440 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | x64 | ❌ | en-US |
-| 1441 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.2` | x64 | ❌ | en-US |
-| 1442 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.2` | x64 | ❌ | en-US |
+| 1441 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.2` | x64 | ❌ | en-US |
+| 1442 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.2` | x64 | ❌ | en-US |
 | 1443 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
 | 1444 | VariCAD | VariCAD | VariCAD (English) | `2026.2.05` | x64 | ❌ | en-US |
 | 1445 | VariCAD | VariCAD | VariCAD (German) | `2026.2.05` | x64 | ❌ | de |
