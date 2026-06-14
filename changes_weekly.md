@@ -1,8 +1,8 @@
 # Catalog Changes — Last 7 Days
 
-> **Comparing:** `20260613_141508_AppCatalog.json` (exported 2026-06-13 14:15:08)  
-> **vs:** `20260606_135837_AppCatalog.json` (exported 2026-06-06 13:58:37)  
-> **Generated:** 2026-06-13 14:15 UTC
+> **Comparing:** `20260614_045146_AppCatalog.json` (exported 2026-06-14 04:51:46)  
+> **vs:** `20260607_044215_AppCatalog.json` (exported 2026-06-07 04:42:15)  
+> **Generated:** 2026-06-14 04:52 UTC
 
 ## Summary
 
@@ -51,57 +51,57 @@
 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37314.3` | `17.14.37328.6` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37301.13` | `17.12.37328.8` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37314.3` | `17.14.37328.6` | x64 |
-| Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37301.13` | `17.12.37328.8` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37314.3` | `17.14.37328.6` | x64 |
+| Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37301.13` | `17.12.37328.8` | x64 |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.123.0` | `1.124.2` | x64 |
 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37314.3` | `17.14.37328.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `151.0.3` | `151.0.4` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `151.0.3` | `151.0.4` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `151.0.3` | `151.0.4` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `151.0.3` | `151.0.4` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `151.0.3` | `151.0.4` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `151.0.3` | `151.0.4` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `151.0.3` | `151.0.4` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `151.0.3` | `151.0.4` | x64 |
 | NordVPN | NordLayer | NordLayer | `3.7.0.0` | `3.8.1.0` | x86,x64 |
 | ocenaudio | ocenaudio | ocenaudio | `3.19.1` | `3.19.3` | x64 |
 | PortSwigger | Burp Suite Community Edition | Burp Suite Community Edition (x64) | `2026.3.3` | `2026.4.3` | x64 |
@@ -113,8 +113,8 @@
 | Stefan Freischlad | Filius | Filius | `2.11.0` | `2.12.1` | x86,x64 |
 | TablePlus, Inc | TablePlus | TablePlus | `7.1.2` | `7.1.4` | x64 |
 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.78.3.0` | `15.78.4.0` | x64 |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0597` | `9.2.0620` | x64 |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0597` | `9.2.0620` | x64 |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0597` | `9.2.0620` | x64 |
 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) | `4.7.0` | `4.7.1` | x64 |
 | Zotero | Zotero | Zotero (x64) | `9.0.4` | `9.0.5` | x64 |
 
