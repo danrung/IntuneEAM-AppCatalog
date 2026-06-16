@@ -49,9 +49,9 @@ The feed keeps the last 50 entries. Compatible with any RSS reader — Feedly, O
 | Total Packages | **1,534** |
 | Unique Products | 921 |
 | Publishers | 496 |
-| Auto-Update Capable | 366 (23.9%) |
+| Auto-Update Capable | 367 (23.9%) |
 | Available Locales | 64 |
-| Last Export | 2026-06-16 05:10:36 |
+| Last Export | 2026-06-16 17:09:38 |
 <!-- CATALOG_STATS_END -->
 
 ## Data Fields

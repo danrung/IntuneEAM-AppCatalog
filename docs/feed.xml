@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 16 Jun 2026 05:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:09:38 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-06-16 17:09:38 — +0 added, −0 removed, ↺0 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Tue, 16 Jun 2026 17:09:38 +0000</pubDate>
+      <guid isPermaLink='false'>2026-06-16T17:09:38Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-06-16 17:09:38</p><p><strong>Compared to:</strong> 20260616_051036_AppCatalog.json (2026-06-16 05:10:36)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-06-16 05:10:36 — +0 added, −0 removed, ↺1 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Tue, 16 Jun 2026 05:10:36 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Sat, 23 May 2026 03:54:17 +0000</pubDate>
       <guid isPermaLink='false'>2026-05-23T03:54:17Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-05-23 03:54:17</p><p><strong>Compared to:</strong> 20260522_145217_AppCatalog.json (2026-05-22 14:52:17)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;4 updated</p><h3>Updated (4)</h3><ul><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.13</code> → <code>1.45.14</code></li><li>CoolUtils — Mail Viewer &nbsp;<code>1.0.9637.23773</code> → <code>1.0.9638.26790</code></li><li>Simon Tatham — PuTTY &nbsp;<code>0.83.0.0</code> → <code>0.84.0.0</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0506</code> → <code>9.2.0509</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-05-22 14:52:17 — +0 added, −0 removed, ↺11 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Fri, 22 May 2026 14:52:17 +0000</pubDate>
-      <guid isPermaLink='false'>2026-05-22T14:52:17Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-05-22 14:52:17</p><p><strong>Compared to:</strong> 20260522_041604_AppCatalog.json (2026-05-22 04:16:04)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;11 updated</p><h3>Updated (11)</h3><ul><li>2BrightSparks Ptd Ltd — CMake &nbsp;<code>4.2.5</code> → <code>4.2.6</code></li><li>2BrightSparks Ptd Ltd — CMake &nbsp;<code>4.3.2</code> → <code>4.3.3</code></li><li>Akiflow — Akiflow &nbsp;<code>2.73.12</code> → <code>2.74.21</code></li><li>Amazon — AWS SAM command line interface &nbsp;<code>1.160.1</code> → <code>1.161.0</code></li><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.12</code> → <code>1.45.13</code></li><li>Exacq Technologies — exacqVision Client &nbsp;<code>26.0.3.0</code> → <code>26.0.11.0</code></li><li>FactSet Research Systems Inc. — FactSet Workstation &nbsp;<code>2016.71.043.057</code> → <code>2016.71.043.062</code></li><li>General Workings, Inc. — General Workings Streamlabs OBS &nbsp;<code>1.21.0</code> → <code>1.21.1</code></li><li>InterPromo GMBH — 4K Video Downloader+ &nbsp;<code>26.1.1</code> → <code>26.1.2</code></li><li>Microsoft — Microsoft Edge Beta &nbsp;<code>149.0.4022.16</code> → <code>149.0.4022.24</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0500</code> → <code>9.2.0509</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
