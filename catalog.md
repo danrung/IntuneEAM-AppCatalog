@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260615_172549_AppCatalog.json` (exported 2026-06-15 17:25:49)  
-> **Generated:** 2026-06-15 17:26 UTC  
+> **Source:** `20260616_051036_AppCatalog.json` (exported 2026-06-16 05:10:36)  
+> **Generated:** 2026-06-16 05:11 UTC  
 > **Total:** 1,534 packages · 921 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -285,7 +285,7 @@
 | 277 | DigiDNA SARL | iMazing | iMazing | `3.5.5.0` | x64 | ❌ | en-US |
 | 278 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.2.1` | x64 | ❌ | en-US |
 | 279 | dnGrep | dnGrep | dnGrep (x64) | `4.7.54.0` | x64 | ❌ | en-US |
-| 280 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.77.0.228796` | x64 | ✅ | en-US |
+| 280 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.78.0.229452` | x64 | ✅ | en-US |
 | 281 | Dominik Reichl | KeePass Password Safe (Classic Edition) | KeePass Password Safe (Classic Edition) | `1.43` | x86,x64 | ✅ | en-US |
 | 282 | Don Ho | Notepad++ | Notepad++ (x64) (MSI) | `8.9.6.1` | x64 | ❌ | en-US |
 | 283 | Don Ho | Notepad++ | Notepad++ (x64) (EXE) | `8.9.6.4` | x64 | ❌ | en-US |
