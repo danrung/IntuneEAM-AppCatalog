@@ -1,46 +1,75 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260618_154108_AppCatalog.json` (exported 2026-06-18 15:41:08)  
-> **vs:** `20260617_045230_AppCatalog.json` (exported 2026-06-17 04:52:30)  
-> **Generated:** 2026-06-18 15:41 UTC
+> **Comparing:** `20260619_050437_AppCatalog.json` (exported 2026-06-19 05:04:37)  
+> **vs:** `20260618_044451_AppCatalog.json` (exported 2026-06-18 04:44:51)  
+> **Generated:** 2026-06-19 05:05 UTC
 
 ## Summary
 
 | Change | Count |
 |--------|------:|
-| ✅ Added | 0 |
+| ✅ Added | 18 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 27 |
+| 🔄 Updated (version change) | 33 |
 
-## 🔄 Updated (27 packages)
+## ✅ Added (18 packages)
+
+| Publisher | App | Branch | Version | Architecture |
+|-----------|-----|--------|---------|:------------:|
+| EPOS Group A/S | EPOS Connect | EPOS Connect | `8.5.0.51443` | x86,x64 |
+| JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.1 (x64) | `2025.1.7.1` | x64 |
+| JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.1 (x64) | `2024.1.7` | x64 |
+| JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2023.3 (x64) | `2023.3.8` | x64 |
+| JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.3 (x64) | `2024.3.4.1` | x64 |
+| JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.2 (x64) | `2024.2.6` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.6.2.1` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Russian) (x64) | `18.6.2.1` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Italian) (x64) | `18.5.1.1` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (German) (x64) | `18.5.1.1` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Spanish) (x64) | `18.5.1.1` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Korean) (x64) | `18.5.1.1` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (French) (x64) | `18.5.1.1` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.6.2.1` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (English) (x64) | `18.6.2.1` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Czech) (x64) | `18.5.1.1` | x64 |
+| Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.095.0519.0003` | x64 |
+| TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.78.4.0` | x64 |
+
+## 🔄 Updated (33 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.814.0` | `1.2.835.0` | x64 |
-| Articulate | Articulate 360 | Articulate 360 (EXE) | `1.119.37125.0` | `1.119.37185.0` | x64 |
-| Bambu Lab | Bambu Studio | Bambu Studio | `2.7.1.57` | `2.7.1.62` | x64 |
-| Benthic Software | Golden 8 | Golden 8 (x64) | `8.2.0.822` | `8.4.0.844` | x64 |
+| Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.16` | `1.45.33` | x64 |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.91.172` | `1.91.175` | x64 |
-| ej-technologies GmbH | JProfiler | JProfiler | `16.1` | `16.1.1` | x64 |
-| Evernote | Evernote | Evernote | `11.20.2` | `11.21.5` | x64 |
-| FLUX, Inc. | Beam Studio | Beam Studio (x64) | `2.5.14` | `2.6.7` | x64 |
-| General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.21.3` | `1.21.4` | x64 |
-| HARMAN International | Adobe AIR | Adobe AIR | `51.3.2.3` | `51.3.3.1` | x86,x64 |
-| Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.318.11` | `3000.322.3` | x64 |
-| Microsoft | Microsoft Universal Print Connector | Microsoft Universal Print Connector | `2.5.9558.42022` | `2.6.9635.41627` | x64 |
-| Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37328.6` | `17.14.37411.7` | x64 |
-| Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37328.6` | `17.14.37411.7` | x64 |
-| Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37328.6` | `17.14.37411.7` | x64 |
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.124.2` | `1.125.0` | x64 |
-| Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37328.6` | `17.14.37411.7` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `151.0.4` | `152.0` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Galician) (x64) | `115.36.0` | `115.37.0` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Swedish) (x64) | `115.36.0` | `115.37.0` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese) (x64) | `115.36.0` | `115.37.0` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English UK) (x64) | `115.36.0` | `115.37.0` | x64 |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Japanese) (x64) | `115.36.0` | `115.37.0` | x64 |
-| Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.138.6` | `2.139.6` | x64 |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0620` | `9.2.0670` | x64 |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0653` | `9.2.0670` | x64 |
-| Waterfox | Waterfox | Waterfox | `6.6.14` | `6.6.15` | x64 |
+| David Kocher | David Kocher Cyberduck | Cyberduck | `9.4.1.44384` | `9.5.0.45237` | x64 |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.9.0` | `2026.2.11.0` | x64 |
+| Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.9.0.0` | `5.10.0.0` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `152.0` | `152.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `152.0` | `152.0.1` | x64 |
+| Tribler | Tribler | Tribler (x64) | `8.4.2` | `8.4.3` | x64 |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0663` | `9.2.0670` | x64 |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0663` | `9.2.0670` | x64 |
 

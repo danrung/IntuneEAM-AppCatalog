@@ -1,18 +1,18 @@
 # App Catalog Statistics
 
-> **Source:** `20260618_154108_AppCatalog.json` (exported 2026-06-18 15:41:08)  
-> **Generated:** 2026-06-18 15:41 UTC
+> **Source:** `20260619_050437_AppCatalog.json` (exported 2026-06-19 05:04:37)  
+> **Generated:** 2026-06-19 05:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|------:|
-| Total Packages | **1,534** |
-| Unique Apps (Publisher + Name) | 922 |
-| Unique Products (by Product ID) | 921 |
-| Publishers | 496 |
-| Auto-Update Capable | 367 (23.9%) |
-| Not Auto-Update Capable | 1,167 (76.1%) |
+| Total Packages | **1,552** |
+| Unique Apps (Publisher + Name) | 927 |
+| Unique Products (by Product ID) | 926 |
+| Publishers | 497 |
+| Auto-Update Capable | 367 (23.6%) |
+| Not Auto-Update Capable | 1,185 (76.4%) |
 | Available Locales | 64 |
 | Multi-Locale Packages | 0 |
 | Packages Without Architecture | 0 |
@@ -21,11 +21,11 @@
 
 | Rank | Publisher | Packages | Share |
 |-----:|-----------|--------:|------:|
-| 1 | Mozilla | 256 | 16.7% |
-| 2 | Microsoft | 167 | 10.9% |
+| 1 | Mozilla | 256 | 16.5% |
+| 2 | Microsoft | 178 | 11.5% |
 | 3 | The Document Foundation | 59 | 3.8% |
-| 4 | JetBrains | 39 | 2.5% |
-| 5 | PaperCut Software Pty Ltd | 30 | 2.0% |
+| 4 | JetBrains | 44 | 2.8% |
+| 5 | PaperCut Software Pty Ltd | 30 | 1.9% |
 | 6 | Rarlab | 29 | 1.9% |
 | 7 | Eclipse Foundation | 23 | 1.5% |
 | 8 | Blender Foundation | 21 | 1.4% |
@@ -36,8 +36,8 @@
 
 | Architecture | Packages | Share |
 |--------------|--------:|------:|
-| x64 | 1,226 | 79.9% |
-| x86,x64 | 308 | 20.1% |
+| x64 | 1,243 | 80.1% |
+| x86,x64 | 309 | 19.9% |
 
 ## Available Locales
 
