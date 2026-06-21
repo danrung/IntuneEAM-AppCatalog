@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260621_050101_AppCatalog.json` (exported 2026-06-21 05:01:01)  
-> **vs:** `20260620_041700_AppCatalog.json` (exported 2026-06-20 04:17:00)  
-> **Generated:** 2026-06-21 05:01 UTC
+> **Comparing:** `20260621_142517_AppCatalog.json` (exported 2026-06-21 14:25:17)  
+> **vs:** `20260620_141918_AppCatalog.json` (exported 2026-06-20 14:19:18)  
+> **Generated:** 2026-06-21 14:25 UTC
 
 ## Summary
 
@@ -10,14 +10,11 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 4 |
+| 🔄 Updated (version change) | 1 |
 
-## 🔄 Updated (4 packages)
+## 🔄 Updated (1 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.125.0` | `1.125.1` | x64 |
-| SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3324.0` | `10.0.3325.0` | x64 |
-| SonicWall | SonicWall NetExtender | SonicWall NetExtender (x64) | `10.3.4` | `10.3.5` | x64 |
-| Tailscale Inc. | Tailscale | Tailscale (x64) | `1.98.1` | `1.98.4` | x64 |
+| draw.io | draw.io Desktop | draw.io Desktop | `30.0.4` | `30.2.4` | x64 |
 
