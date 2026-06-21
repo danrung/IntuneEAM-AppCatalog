@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260620_141918_AppCatalog.json` (exported 2026-06-20 14:19:18)  
-> **Generated:** 2026-06-20 14:19 UTC  
+> **Source:** `20260621_050101_AppCatalog.json` (exported 2026-06-21 05:01:01)  
+> **Generated:** 2026-06-21 05:01 UTC  
 > **Total:** 1,556 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
