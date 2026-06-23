@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260622_170732_AppCatalog.json` (exported 2026-06-22 17:07:32)  
-> **Generated:** 2026-06-22 17:08 UTC  
+> **Source:** `20260623_040634_AppCatalog.json` (exported 2026-06-23 04:06:34)  
+> **Generated:** 2026-06-23 04:07 UTC  
 > **Total:** 1,556 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -201,7 +201,7 @@
 | 193 | Bullzip | Bullzip PDF to Word | PDF to Word | `2.1.0.0` | x86,x64 | ❌ | en-US |
 | 194 | Burnaware | BurnAware Free | BurnAware Free | `19.1` | x86,x64 | ❌ | en-US |
 | 195 | Bytello | Bytello Share | Bytello Share | `5.13.1.4288` | x86,x64 | ❌ | en-US |
-| 196 | Cake.com Inc. | Clockify | Clockify | `2.1.8` | x64 | ❌ | en-US |
+| 196 | Cake.com Inc. | Clockify | Clockify | `2.2.2` | x64 | ❌ | en-US |
 | 197 | Calibrite | Calibrite Profiler | Calibrite Profiler | `2.0.0` | x64 | ❌ | en-US |
 | 198 | Canon Production Printing | Publisher Select 3 | Publisher Select 3 | `3.6.2` | x86,x64 | ❌ | en-US |
 | 199 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `23.7` | x86,x64 | ❌ | en-US |
@@ -267,7 +267,7 @@
 | 259 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.1.0` | x64 | ✅ | en-US |
 | 260 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.1.0` | x64 | ✅ | en-US |
 | 261 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.1.0` | x64 | ✅ | en-US |
-| 262 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.1.2` | x64 | ❌ | en-US |
+| 262 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2` | x64 | ❌ | en-US |
 | 263 | Dedoose | Dedoose Desktop App | Dedoose Desktop App | `10.1.5` | x86,x64 | ❌ | en-US |
 | 264 | Delinea | Delinea Connection Manager | Delinea Connection Manager | `2.8.3.7` | x64 | ❌ | en-US |
 | 265 | Dell, Inc. | Dell Command Update | Dell Command Update (x64) | `5.5.0` | x64 | ✅ | en-US |
@@ -375,8 +375,8 @@
 | 367 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 369 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 370 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
-| 371 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 370 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 371 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 372 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | mul |
 | 373 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 374 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.1.36485` | x64 | ✅ | en-US |

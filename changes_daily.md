@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260622_170732_AppCatalog.json` (exported 2026-06-22 17:07:32)  
+> **Comparing:** `20260623_040634_AppCatalog.json` (exported 2026-06-23 04:06:34)  
 > **vs:** `20260621_142517_AppCatalog.json` (exported 2026-06-21 14:25:17)  
-> **Generated:** 2026-06-22 17:08 UTC
+> **Generated:** 2026-06-23 04:07 UTC
 
 ## Summary
 
@@ -10,17 +10,19 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 18 |
+| 🔄 Updated (version change) | 20 |
 
-## 🔄 Updated (18 packages)
+## 🔄 Updated (20 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.33` | `1.45.34` | x64 |
 | Ansgar Becker | HeidiSQL | HeidiSQL | `12.18.0.7304` | `12.19.0.7314` | x64 |
-| Araxis | Araxis Merge | Araxis Merge (English) | `2025.1` | `2026.0` | x64 |
 | Araxis | Araxis Merge | Araxis Merge (Japanese) | `2025.1` | `2026.0` | x64 |
+| Araxis | Araxis Merge | Araxis Merge (English) | `2025.1` | `2026.0` | x64 |
+| Cake.com Inc. | Clockify | Clockify | `2.1.8` | `2.2.2` | x64 |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.1.0` | `26.1.1` | x64 |
+| DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.1.2` | `26.2` | x64 |
 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.1.0` | `2.11.4.0` | x64 |
 | Laurent Cozic | Joplin | Joplin | `3.6.14` | `3.6.15` | x64 |
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.322.3` | `3000.322.4` | x64 |
