@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260623_151535_AppCatalog.json` (exported 2026-06-23 15:15:35)  
-> **Generated:** 2026-06-23 15:16 UTC  
+> **Source:** `20260624_040932_AppCatalog.json` (exported 2026-06-24 04:09:32)  
+> **Generated:** 2026-06-24 04:10 UTC  
 > **Total:** 1,556 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -177,9 +177,9 @@
 | 169 | Blender Foundation | Blender | Blender 5.1 (x64) | `5.1.2` | x64 | ❌ | en-US |
 | 170 | Blender Foundation | Blender | Blender 3.2 (x64) | `3.2.2` | x64 | ❌ | en-US |
 | 171 | Blender Foundation | Blender | Blender 4.4 (x64) | `4.4.3` | x64 | ❌ | en-US |
-| 172 | Blender Foundation | Blender | Blender 4.1 (x64) | `4.1.1` | x64 | ❌ | en-US |
-| 173 | Blender Foundation | Blender | Blender 2.92 (x64) | `2.92.0` | x64 | ❌ | en-US |
-| 174 | Blender Foundation | Blender | Blender 4.2 LTS (x64) | `4.2.21` | x64 | ❌ | en-US |
+| 172 | Blender Foundation | Blender | Blender 4.2 LTS (x64) | `4.2.22` | x64 | ❌ | en-US |
+| 173 | Blender Foundation | Blender | Blender 4.1 (x64) | `4.1.1` | x64 | ❌ | en-US |
+| 174 | Blender Foundation | Blender | Blender 2.92 (x64) | `2.92.0` | x64 | ❌ | en-US |
 | 175 | Blender Foundation | Blender | Blender 3.6 LTS (x64) | `3.6.23` | x64 | ❌ | en-US |
 | 176 | Blender Foundation | Blender | Blender 2.83 LTS (x64) | `2.83.20` | x64 | ❌ | en-US |
 | 177 | Blender Foundation | Blender | Blender 2.90 (x64) | `2.90.1` | x64 | ❌ | en-US |
@@ -280,7 +280,7 @@
 | 272 | Dell, Inc. | RVTools | RVTools | `4.7.1` | x86,x64 | ❌ | en-US |
 | 273 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.1.23.0` | x64 | ✅ | en-US |
 | 274 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.11.0` | x64 | ✅ | en-US |
-| 275 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.9.0` | x64 | ❌ | en-US |
+| 275 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.11.0` | x64 | ❌ | en-US |
 | 276 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.2.9.0` | x86,x64 | ❌ | en-US |
 | 277 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
 | 278 | DigiDNA SARL | iMazing | iMazing | `3.5.5.0` | x64 | ❌ | en-US |
@@ -364,7 +364,7 @@
 | 356 | FastStone Soft | FastStone Soft Photo Resizer | Photo Resizer | `4.5` | x86,x64 | ❌ | en-US |
 | 357 | FileZilla | FileZilla | FileZilla (x64) | `3.70.6` | x64 | ✅ | en-US |
 | 358 | FLUX, Inc. | Beam Studio | Beam Studio (x64) | `2.6.7` | x64 | ✅ | en-US |
-| 359 | Formlabs | Preform | Preform | `3.60.1` | x64 | ❌ | en-US |
+| 359 | Formlabs | Preform | Preform | `3.60.2` | x64 | ❌ | en-US |
 | 360 | Fortra, LLC | GoAnywhere OpenPGP Studio | GoAnywhere OpenPGP Studio | `1.2.3` | x64 | ❌ | en-US |
 | 361 | Forté | Forté Agent | Agent | `8.00.1272` | x86,x64 | ❌ | en-US |
 | 362 | Foxit Software | Foxit PDF Editor 11 | Foxit PDF Editor 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
@@ -375,8 +375,8 @@
 | 367 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 369 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 370 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
-| 371 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 370 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 371 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
 | 372 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | mul |
 | 373 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
 | 374 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.1.36485` | x64 | ✅ | en-US |
@@ -476,7 +476,7 @@
 | 468 | iterate GmbH | Cyberduck CLI | Cyberduck CLI (x64) | `9.5.0.45237` | x64 | ✅ | en-US |
 | 469 | Ivo Beltchev | Classic Shell | Classic Shell (x64) | `4.3.1` | x64 | ❌ | en-US |
 | 470 | JAM Software GmbH | JAM Software TreeSize Free | TreeSize Free | `4.8.1.610` | x64 | ✅ | en-US |
-| 471 | Jan de Dobbeleer | Oh My Posh | Oh My Posh (x64) | `29.17.0` | x64 | ❌ | en-US |
+| 471 | Jan de Dobbeleer | Oh My Posh | Oh My Posh (x64) | `29.18.0` | x64 | ❌ | en-US |
 | 472 | Jan Fiala | PSPad | PSPad (x64) | `5.5.1.825` | x64 | ❌ | en-US |
 | 473 | JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.5.1` | x64 | ❌ | en-US |
 | 474 | JetBrains | DataGrip | DataGrip 2024.3 (x64) | `2024.3.5.1` | x64 | ❌ | en-US |
@@ -568,11 +568,11 @@
 | 560 | Logitech | Logitech Presentation | Logitech Presentation | `2.10.34` | x64 | ❌ | en-US |
 | 561 | Logitech | Logitech SetPoint | Logitech SetPoint (x64) | `6.90.66` | x64 | ❌ | en-US |
 | 562 | Logitech | Logitech Sync App | Logitech Sync App | `3.10.247` | x86,x64 | ❌ | en-US |
-| 563 | LogMeIn | LogMeIn Client | LogMeIn Client | `1.3.5676` | x86,x64 | ❌ | en-US |
+| 563 | LogMeIn | LogMeIn Client | LogMeIn Client | `1.3.5683` | x86,x64 | ❌ | en-US |
 | 564 | LogMeIn | LogMeIn GoToMeeting IT Installer | GoToMeeting IT Installer | `10.19.19950` | x86,x64 | ✅ | en-US |
 | 565 | LogMeIn | LogMeIn GoToMeeting multi-build Installer | GoToMeeting multi-build Installer | `10.19.19950` | x86,x64 | ❌ | en-US |
 | 566 | LogMeIn | LogMeIn Hamachi | LogMeIn Hamachi | `2.4.0.23` | x86,x64 | ❌ | en-US |
-| 567 | LogMeIn | LogMeIn Host | LogMeIn Host | `4.1.16174` | x86,x64 | ❌ | en-US |
+| 567 | LogMeIn | LogMeIn Host | LogMeIn Host | `4.1.16202` | x86,x64 | ❌ | en-US |
 | 568 | LogMeIn | LogMeIn RemotelyAnywhere | RemotelyAnywhere | `12.4.5378` | x86,x64 | ❌ | en-US |
 | 569 | Lucanet AG | LucaNet.Excel-Add-In | LucaNet.Excel-Add-In 12 LTS | `19.11.7.1245` | x64 | ❌ | en-US |
 | 570 | Lucanet AG | LucaNet.Excel-Add-In | LucaNet.Excel-Add-In 11 LTS | `18.11.27.1216` | x64 | ❌ | en-US |
@@ -763,11 +763,11 @@
 | 755 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
 | 756 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 757 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
-| 758 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 759 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 760 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
-| 761 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37328.8` | x64 | ❌ | en-US |
-| 762 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37411.7` | x64 | ❌ | en-US |
+| 758 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37411.7` | x64 | ❌ | en-US |
+| 759 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
+| 760 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
+| 761 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
+| 762 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37328.8` | x64 | ❌ | en-US |
 | 763 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 764 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.125.1` | x64 | ✅ | en-US |
 | 765 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37411.7` | x64 | ❌ | en-US |
