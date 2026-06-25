@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260625_041011_AppCatalog.json` (exported 2026-06-25 04:10:11)  
-> **Generated:** 2026-06-25 04:10 UTC  
+> **Source:** `20260625_144531_AppCatalog.json` (exported 2026-06-25 14:45:31)  
+> **Generated:** 2026-06-25 14:46 UTC  
 > **Total:** 1,556 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -29,7 +29,7 @@
 | 21 | 3Dconnexion UK | 3DxWare 10 | 3DxWare 10 | `10.9.13.740` | x64 | ❌ | en-US |
 | 22 | 3Dflow srl | 3DF Zephyr Free | 3DF Zephyr Free version | `8.038` | x64 | ❌ | en-US |
 | 23 | 3T Software Labs Ltd | Robo 3T | Robo 3T | `1.4.4` | x64 | ❌ | en-US |
-| 24 | 8x8 Inc. | 8x8 Work | 8x8 Work (x64) | `8.33.2.2` | x64 | ❌ | en-US |
+| 24 | 8x8 Inc. | 8x8 Work | 8x8 Work (x64) | `8.34.1.11` | x64 | ❌ | en-US |
 | 25 | A Must in Every Office BV | ASAP Utilities | ASAP Utilities | `9.1` | x86,x64 | ❌ | en-US |
 | 26 | Abacus Research AG | AbaClient | AbaClient (Italian) | `4.2.1165` | x64 | ❌ | it |
 | 27 | Abacus Research AG | AbaClient | AbaClient (English) | `4.2.1165` | x64 | ❌ | en-US |
@@ -74,10 +74,10 @@
 | 66 | App Dynamic | App Dynamic AirServer Universal | AirServer Universal (x64) | `5.7.2` | x64 | ❌ | en-US |
 | 67 | Appgate | Appgate SDP Client | Appgate SDP Client | `6.5.4.43990` | x64 | ❌ | en-US |
 | 68 | Apple Inc. | Apple iTunes | iTunes (x64) | `12.13.10.3` | x64 | ❌ | en-US |
-| 69 | Araxis | Araxis Merge | Araxis Merge (Japanese) | `2026.0` | x64 | ❌ | ja |
-| 70 | Araxis | Araxis Merge | Araxis Merge (English) | `2026.0` | x64 | ❌ | en-US |
+| 69 | Araxis | Araxis Merge | Araxis Merge (English) | `2026.0` | x64 | ❌ | en-US |
+| 70 | Araxis | Araxis Merge | Araxis Merge (Japanese) | `2026.0` | x64 | ❌ | ja |
 | 71 | ArcticLine Software | ArcticLine Software Jet Screenshot | Jet Screenshot | `3.1` | x86,x64 | ❌ | en-US |
-| 72 | Arduino | Arduino IDE | Arduino IDE | `2.3.9` | x64 | ✅ | en-US |
+| 72 | Arduino | Arduino IDE | Arduino IDE | `2.3.10` | x64 | ✅ | en-US |
 | 73 | Artem Izmaylov | AIMP | AIMP (x64) | `5.40.2653` | x64 | ❌ | en-US |
 | 74 | Articulate | Articulate 360 | Articulate 360 (EXE) | `1.120.37241.0` | x64 | ❌ | en-US |
 | 75 | Articulate | Articulate Replay 360 | Articulate Replay (EXE) | `2.23.24149.0` | x86,x64 | ❌ | en-US |
@@ -193,7 +193,7 @@
 | 185 | Box | Box Drive | Box Drive (x64) | `2.51.234` | x64 | ❌ | en-US |
 | 186 | Box | Box Tools | Box Tools (System Installer) | `4.32.0.1324` | x64 | ❌ | en-US |
 | 187 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | x64 | ❌ | en-US |
-| 188 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.91.175` | x64 | ❌ | en-US |
+| 188 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.91.178` | x64 | ❌ | en-US |
 | 189 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.85.0` | x64 | ❌ | en-US |
 | 190 | Brink Software B.V. | Ibis Calculeren voor Bouw | Ibis Calculeren voor Bouw | `4.2.73.0` | x64 | ❌ | nl |
 | 191 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2606.10401` | x64 | ❌ | en-US |
@@ -298,7 +298,7 @@
 | 290 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `246.4.3513` | x64 | ✅ | en-US |
 | 291 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `7.5.7` | x64 | ❌ | en-US |
 | 292 | DucFabulous | UltraViewer | UltraViewer | `6.6.124` | x86,x64 | ✅ | en-US |
-| 293 | Duo Security Inc. | Duo Desktop | Duo Desktop | `7.18.0.0` | x86,x64 | ✅ | en-US |
+| 293 | Duo Security Inc. | Duo Desktop | Duo Desktop | `7.19.0.0` | x86,x64 | ✅ | en-US |
 | 294 | Dutchview | FlexWhere for Desktop | FlexWhere for Desktop | `3.5` | x64 | ❌ | en-US |
 | 295 | Duxbury Systems | Perky Duck | Perky Duck | `12.7` | x86,x64 | ❌ | en-US |
 | 296 | DYMO | DYMO ID | DYMO ID | `1.5.1` | x86,x64 | ❌ | en-US |
@@ -355,7 +355,7 @@
 | 347 | ESET | ESET Endpoint Security V12 | Endpoint Security V12 (x64) | `12.1.2057.3` | x64 | ❌ | en-US |
 | 348 | ESET | ESET Endpoint Security V9 | Endpoint Security V9 (x64) | `9.1.2071.0` | x64 | ❌ | en-US |
 | 349 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
-| 350 | Evernote | Evernote | Evernote | `11.21.5` | x64 | ✅ | en-US |
+| 350 | Evernote | Evernote | Evernote | `11.22.4` | x64 | ✅ | en-US |
 | 351 | Exacq Technologies | exacqVision Client | exacqVision Client (x64) | `26.0.11.0` | x64 | ❌ | en-US |
 | 352 | EZB Systems | EZB Systems UltraISO | UltraISO (English) | `9.7.6.3860` | x86,x64 | ❌ | en-US |
 | 353 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.71.043.063` | x64 | ❌ | en-US |
@@ -421,7 +421,7 @@
 | 413 | Google | Google Chrome for Business | Chrome for Business 64-bit | `149.0.7827.197` | x64 | ✅ | en-US |
 | 414 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `149.0.7827.18` | x86,x64 | ❌ | en-US |
 | 415 | Google | Google Credential Provider for Windows | Google Credential Provider for Windows (x64) | `138.0.7204.26` | x64 | ❌ | en-US |
-| 416 | Google | Google Drive | Google Drive | `125.0.0.0` | x64 | ✅ | en-US |
+| 416 | Google | Google Drive | Google Drive | `127.0.1.0` | x64 | ✅ | en-US |
 | 417 | Google | Google Drive File Stream | Google Drive File Stream | `127.0.1.0` | x64 | ❌ | en-US |
 | 418 | Google | Google Go Programming Language 1.16 | Go Programming Language 1.16 (x64) | `1.16.15` | x64 | ❌ | en-US |
 | 419 | Google | Google Go Programming Language 1.17 | Go Programming Language 1.17 (x64) | `1.17.13` | x64 | ❌ | en-US |
@@ -626,7 +626,7 @@
 | 618 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 21H2 | `2.0` | x86,x64 | ❌ | en-US |
 | 619 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1607 | `2.0.1607` | x86,x64 | ❌ | en-US |
 | 620 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 22H2 | `1.0` | x86,x64 | ❌ | en-US |
-| 621 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.12.0` | x64 | ❌ | en-US |
+| 621 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.12.1` | x64 | ❌ | en-US |
 | 622 | Microsoft | Fuzzy Lookup Add-In For Excel | Fuzzy Lookup Add-In For Excel | `1.3.0.0` | x86,x64 | ❌ | en-US |
 | 623 | Microsoft | Hanword HWP document converter for Microsoft Word 2016 | Hanword HWP document converter for Microsoft Word 2016 (x64) | `16.0.4288.1000` | x64 | ❌ | en-US |
 | 624 | Microsoft | Local Administrator Password Solution | Local Administrator Password Solution (x64) | `6.2.0.0` | x64 | ❌ | en-US |
@@ -670,18 +670,18 @@
 | 662 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Portuguese Brazil) (x64) | `17.11.1.1` | x64 | ❌ | pt-BR |
 | 663 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (English) (x64) | `17.11.1.1` | x64 | ❌ | en-US |
 | 664 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (French) (x64) | `17.11.1.1` | x64 | ❌ | fr-FR |
-| 665 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Japanese) (x64) | `18.6.2.1` | x64 | ❌ | ja-JP |
+| 665 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Italian) (x64) | `18.6.2.1` | x64 | ❌ | it-IT |
 | 666 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Czech) (x64) | `18.6.2.1` | x64 | ❌ | cs-CZ |
-| 667 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (German) (x64) | `18.6.2.1` | x64 | ❌ | de-DE |
-| 668 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.6.2.1` | x64 | ❌ | zh-TW |
-| 669 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.6.2.1` | x64 | ❌ | pt-BR |
-| 670 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Italian) (x64) | `18.6.2.1` | x64 | ❌ | it-IT |
+| 667 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.6.2.1` | x64 | ❌ | pt-BR |
+| 668 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (French) (x64) | `18.6.2.1` | x64 | ❌ | fr-FR |
+| 669 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (German) (x64) | `18.6.2.1` | x64 | ❌ | de-DE |
+| 670 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.6.2.1` | x64 | ❌ | zh-TW |
 | 671 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.6.2.1` | x64 | ❌ | zh-CN |
-| 672 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (English) (x64) | `18.6.2.1` | x64 | ❌ | en-US |
-| 673 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Spanish) (x64) | `18.6.2.1` | x64 | ❌ | es-ES |
-| 674 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Russian) (x64) | `18.6.2.1` | x64 | ❌ | ru-RU |
-| 675 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (French) (x64) | `18.6.2.1` | x64 | ❌ | fr-FR |
-| 676 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Korean) (x64) | `18.6.2.1` | x64 | ❌ | ko-KR |
+| 672 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Spanish) (x64) | `18.6.2.1` | x64 | ❌ | es-ES |
+| 673 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (English) (x64) | `18.6.2.1` | x64 | ❌ | en-US |
+| 674 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Japanese) (x64) | `18.6.2.1` | x64 | ❌ | ja-JP |
+| 675 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Korean) (x64) | `18.6.2.1` | x64 | ❌ | ko-KR |
+| 676 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Russian) (x64) | `18.6.2.1` | x64 | ❌ | ru-RU |
 | 677 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Czech) (x64) | `18.7.5` | x64 | ❌ | cs-CZ |
 | 678 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Spanish) (x64) | `18.7.5` | x64 | ❌ | es-ES |
 | 679 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Turkish) (x64) | `18.7.5` | x64 | ❌ | tr-TR |
@@ -1263,7 +1263,7 @@
 | 1255 | RStudio | Rstudio 2024 | RStudio 2024.09 | `2024.09.1.394` | x64 | ❌ | en-US |
 | 1256 | RStudio | Rstudio 2024 | RStudio 2024.12 | `2024.12.1.563` | x64 | ❌ | en-US |
 | 1257 | Rystad Energy | Cube Browser | Cube Browser (x64) | `2.6.52.0` | x64 | ❌ | en-US |
-| 1258 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.139.6` | x64 | ❌ | en-US |
+| 1258 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.140.6` | x64 | ❌ | en-US |
 | 1259 | Samsung | Samsung Smart Switch | Samsung Smart Switch | `4.3.24062.1` | x86,x64 | ❌ | en-US |
 | 1260 | Samsung Techwin Co., Ltd | Samsung Smart View | Smart View | `1.0.0.0` | x86,x64 | ❌ | en-US |
 | 1261 | SanDisk Corporation | SanDisk Dashboard | SanDisk Dashboard | `5.2.2.3` | x86,x64 | ✅ | en-US |
@@ -1275,7 +1275,7 @@
 | 1267 | ScreenBeam Inc. | ScreenBeam Conference | ScreenBeam Conference | `1.0.5.10` | x64 | ❌ | en-US |
 | 1268 | ScreenCloud | ScreenCloud Player | ScreenCloud Player (x64) | `3.12.0` | x64 | ✅ | en-US |
 | 1269 | secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.3` | x86,x64 | ❌ | en-US |
-| 1270 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.3` | x64 | ❌ | en-US |
+| 1270 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.5` | x64 | ❌ | en-US |
 | 1271 | Semeru | IBM Semeru Runtime Open Edition JDK 11 (LTS) | IBM Semeru Runtime Open Edition JDK 11 (LTS) | `11.0.30.7` | x64 | ❌ | en-US |
 | 1272 | Semeru | IBM Semeru Runtime Open Edition JDK 16 | IBM Semeru Runtime Open Edition JDK 16 | `16.0.2.7` | x64 | ❌ | en-US |
 | 1273 | Semeru | IBM Semeru Runtime Open Edition JDK 17 (LTS) | IBM Semeru Runtime Open Edition JDK 17 (LTS) | `17.0.18.8` | x64 | ❌ | en-US |
@@ -1471,8 +1471,8 @@
 | 1463 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.4` | x64 | ❌ | en-US |
 | 1464 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.2` | x64 | ❌ | en-US |
 | 1465 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
-| 1466 | VariCAD | VariCAD | VariCAD (English) | `2026.2.05` | x64 | ❌ | en-US |
-| 1467 | VariCAD | VariCAD | VariCAD (German) | `2026.2.05` | x64 | ❌ | de |
+| 1466 | VariCAD | VariCAD | VariCAD (German) | `2026.2.05` | x64 | ❌ | de |
+| 1467 | VariCAD | VariCAD | VariCAD (English) | `2026.2.05` | x64 | ❌ | en-US |
 | 1468 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.05` | x64 | ❌ | en-US |
 | 1469 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.05` | x64 | ❌ | de |
 | 1470 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | x64 | ❌ | en-US |
@@ -1485,7 +1485,7 @@
 | 1477 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.5` | x86,x64 | ❌ | en-US |
 | 1478 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0677` | x64 | ❌ | en-US |
 | 1479 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0677` | x64 | ❌ | en-US |
-| 1480 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.0.0.0` | x64 | ❌ | en-US |
+| 1480 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.1.0.0` | x64 | ❌ | en-US |
 | 1481 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
 | 1482 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
 | 1483 | VMware | VMware Horizon Client 2103 | VMware Horizon Client 2103 | `8.2.0.17759012` | x64 | ❌ | en-US |
@@ -1540,7 +1540,7 @@
 | 1532 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
 | 1533 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.1` | x64 | ❌ | en-US |
 | 1534 | Zandar Labs SL | Aptakube | Aptakube | `1.17.2` | x64 | ❌ | en-US |
-| 1535 | Zello Inc. | Zello | Zello | `18.6.1.0` | x64 | ❌ | en-US |
+| 1535 | Zello Inc. | Zello | Zello | `18.7.0.0` | x64 | ❌ | en-US |
 | 1536 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 5 | `5.7.18` | x86,x64 | ❌ | en-US |
 | 1537 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.2` | x86,x64 | ❌ | en-US |
 | 1538 | Zoho Corporation Pvt. Ltd | Zoho WorkDrive | Zoho WorkDrive | `2.7.48` | x86,x64 | ✅ | en-US |
@@ -1549,7 +1549,7 @@
 | 1541 | Zoom Video Communications, Inc. | Zoom Plugin for Windows Virtual Desktop Client | Zoom Plugin for Windows Virtual Desktop Client | `5.15.24490` | x86,x64 | ❌ | en-US |
 | 1542 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.0.5` | x64 | ❌ | en-US |
 | 1543 | Zoom Video Communications, Inc. | Zoom VDI Universal Plugin | Zoom VDI Universal Plugin (x64) | `6.5.10.26710` | x64 | ❌ | en-US |
-| 1544 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) | `7.0.38856` | x64 | ✅ | en-US |
+| 1544 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) | `7.1.41345` | x64 | ✅ | en-US |
 | 1545 | Zorus Inc. | Zorus Archon Agent | Zorus Archon Agent | `4.6.0.0` | x64 | ❌ | en-US |
 | 1546 | Zotero | Zotero | Zotero | `7.0.2` | x86,x64 | ❌ | en-US |
 | 1547 | Zotero | Zotero | Zotero (x64) | `9.0.5` | x64 | ❌ | en-US |
