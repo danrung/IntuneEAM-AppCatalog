@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 25 Jun 2026 14:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 04:16:48 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-06-26 04:16:48 — +0 added, −0 removed, ↺8 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Fri, 26 Jun 2026 04:16:48 +0000</pubDate>
+      <guid isPermaLink='false'>2026-06-26T04:16:48Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-06-26 04:16:48</p><p><strong>Compared to:</strong> 20260625_144531_AppCatalog.json (2026-06-25 14:45:31)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;8 updated</p><h3>Updated (8)</h3><ul><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.6.0.35178</code> → <code>46.6.1.35236</code></li><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.5.0.35006</code> → <code>46.6.1.35236</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.5.0.35006</code> → <code>46.6.1.35236</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.5.0.35006</code> → <code>46.6.1.35236</code></li><li>Cloud Software Group, Inc. — XenCenter &nbsp;<code>2026.2.1</code> → <code>2026.3.0</code></li><li>Freedom Scientific — Fusion &nbsp;<code>2026.2603.31.400</code> → <code>2026.2606.27.400</code></li><li>Lark Technologies Pte. Ltd. — Lark Deployment Tool &nbsp;<code>7.68.7</code> → <code>7.70.11</code></li><li>Sejda BV — Sejda PDF Desktop &nbsp;<code>7.9.5</code> → <code>7.9.6</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-06-25 14:45:31 — +0 added, −0 removed, ↺12 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Thu, 25 Jun 2026 14:45:31 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Mon, 01 Jun 2026 17:55:21 +0000</pubDate>
       <guid isPermaLink='false'>2026-06-01T17:55:21Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-06-01 17:55:21</p><p><strong>Compared to:</strong> 20260601_045827_AppCatalog.json (2026-06-01 04:58:27)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;12 updated</p><h3>Updated (12)</h3><ul><li>Articulate — Articulate 360 &nbsp;<code>1.118.37003.0</code> → <code>1.118.37026.0</code></li><li>Cato Networks — Cato Client &nbsp;<code>6.2.0.8682</code> → <code>6.4.6.8830</code></li><li>DBeaver Corp — DBeaver Community &nbsp;<code>26.0.5</code> → <code>26.1.0</code></li><li>Don Ho — Notepad++ &nbsp;<code>8.9.6.1</code> → <code>8.9.6.2</code></li><li>Krisp — Krisp &nbsp;<code>3.11.8</code> → <code>3.12.6</code></li><li>Microsoft — Microsoft On-premises data gateway &nbsp;<code>3000.318.9</code> → <code>3000.318.10</code></li><li>NoMachine — NoMachine &nbsp;<code>9.5.7</code> → <code>9.6.3</code></li><li>ocenaudio — ocenaudio &nbsp;<code>3.18.2</code> → <code>3.19.1</code></li><li>Siber Systems Inc — GoodSync Personal &nbsp;<code>12.11.1.1</code> → <code>12.11.2.2</code></li><li>TablePlus, Inc — TablePlus &nbsp;<code>7.1.1</code> → <code>7.1.2</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0555</code> → <code>9.2.0580</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0555</code> → <code>9.2.0580</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-06-01 04:58:27 — +0 added, −0 removed, ↺0 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Mon, 01 Jun 2026 04:58:27 +0000</pubDate>
-      <guid isPermaLink='false'>2026-06-01T04:58:27Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-06-01 04:58:27</p><p><strong>Compared to:</strong> 20260531_140005_AppCatalog.json (2026-05-31 14:00:05)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
     </item>
   </channel>
 </rss>
