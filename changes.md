@@ -1,8 +1,8 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20260628_042522_AppCatalog.json` (exported 2026-06-28 04:25:22)  
-> **vs:** `20260627_135713_AppCatalog.json` (exported 2026-06-27 13:57:13)  
-> **Generated:** 2026-06-28 04:25 UTC
+> **Comparing:** `20260628_140325_AppCatalog.json` (exported 2026-06-28 14:03:25)  
+> **vs:** `20260628_042522_AppCatalog.json` (exported 2026-06-28 04:25:22)  
+> **Generated:** 2026-06-28 14:03 UTC
 
 ## Summary
 
@@ -10,7 +10,11 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 0 |
+| 🔄 Updated (version change) | 1 |
 
-> No changes detected between these two catalog exports.
+## 🔄 Updated (1 packages)
+
+| Publisher | App | Branch | Previous Version | New Version | Architecture |
+|-----------|-----|--------|:---------------:|:-----------:|:------------:|
+| Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.69` | `149.0.4022.96` | x64 |
 

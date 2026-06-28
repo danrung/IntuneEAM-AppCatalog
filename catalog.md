@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260628_042522_AppCatalog.json` (exported 2026-06-28 04:25:22)  
-> **Generated:** 2026-06-28 04:25 UTC  
+> **Source:** `20260628_140325_AppCatalog.json` (exported 2026-06-28 14:03:25)  
+> **Generated:** 2026-06-28 14:03 UTC  
 > **Total:** 1,556 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -220,8 +220,8 @@
 | 212 | Cisco Systems, Inc. | Cisco JVDI Agent 15 | Cisco JVDI Agent 15 | `15.2.1.60904` | x86,x64 | ❌ | en-US |
 | 213 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
 | 214 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
-| 215 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings | `45.6.4.8` | x86,x64 | ✅ | en-US |
-| 216 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
+| 215 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
+| 216 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings | `45.6.4.8` | x86,x64 | ✅ | en-US |
 | 217 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
 | 218 | Cisco Webex LLC | Cisco Webex Productivity Tools | Webex Productivity Tools | `43.6.1.50` | x86,x64 | ❌ | en-US |
 | 219 | Cisco Webex LLC | Cisco WebEx Recorder and Player | WebEx Recorder and Player | `45.6.4.8` | x86,x64 | ❌ | en-US |
@@ -656,7 +656,7 @@
 | 648 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
 | 649 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `150.0.4078.28` | x64 | ✅ | en-US |
 | 650 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `151.0.4105.0` | x64 | ✅ | en-US |
-| 651 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.69` | x64 | ✅ | en-US |
+| 651 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 652 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
 | 653 | Microsoft | Microsoft ODBC Driver 13 for SQL Server | Microsoft ODBC Driver 13 for SQL Server (x64) | `13.1.4414.46` | x64 | ❌ | en-US |
 | 654 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Chinese Traditional) (x64) | `17.11.1.1` | x64 | ❌ | zh-TW |
@@ -803,53 +803,53 @@
 | 795 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.8` | x64 | ❌ | en-US |
 | 796 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.8` | x64 | ❌ | en-US |
 | 797 | MOOS Project Viewer | MOOS Project Viewer | MOOS Project Viewer | `4.4.0` | x86,x64 | ❌ | en-US |
-| 798 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `152.0.3` | x64 | ✅ | pt-BR |
-| 799 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `152.0.3` | x64 | ✅ | it |
-| 800 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `152.0.3` | x64 | ✅ | cs |
-| 801 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `152.0.3` | x64 | ✅ | hi-IN |
-| 802 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `152.0.3` | x64 | ✅ | pl |
-| 803 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `152.0.3` | x64 | ✅ | es-ES |
-| 804 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `152.0.3` | x64 | ✅ | hu |
-| 805 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `152.0.3` | x64 | ✅ | da |
-| 806 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `152.0.3` | x64 | ✅ | id |
-| 807 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `152.0.3` | x64 | ✅ | es-MX |
-| 808 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `152.0.3` | x64 | ✅ | vi |
-| 809 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `152.0.3` | x64 | ✅ | el |
-| 810 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `152.0.3` | x64 | ✅ | gl |
-| 811 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `152.0.3` | x64 | ✅ | nn-NO |
-| 812 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `152.0.3` | x64 | ✅ | eu |
-| 813 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `152.0.3` | x64 | ✅ | he |
-| 814 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `152.0.3` | x64 | ✅ | en-CA |
-| 815 | Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `152.0.3` | x64 | ✅ | ms |
-| 816 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `152.0.3` | x64 | ✅ | zh-TW |
-| 817 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `152.0.3` | x64 | ✅ | en-GB |
-| 818 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `152.0.3` | x64 | ✅ | ro |
-| 819 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `152.0.3` | x64 | ✅ | ar |
-| 820 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `152.0.3` | x64 | ✅ | en-US |
-| 821 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `152.0.3` | x64 | ✅ | bg |
-| 822 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `152.0.3` | x64 | ✅ | fr |
-| 823 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `152.0.3` | x64 | ✅ | et |
-| 824 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `152.0.3` | x64 | ✅ | ja |
-| 825 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `152.0.3` | x64 | ✅ | fi |
-| 826 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `152.0.3` | x64 | ✅ | ko |
-| 827 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `152.0.3` | x64 | ✅ | zh-CN |
-| 828 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `152.0.3` | x64 | ✅ | nl |
-| 829 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `152.0.3` | x64 | ✅ | sk |
-| 830 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `152.0.3` | x64 | ✅ | hr |
-| 831 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `152.0.3` | x64 | ✅ | lt |
-| 832 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `152.0.3` | x64 | ✅ | nb-NO |
-| 833 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `152.0.3` | x64 | ✅ | ru |
-| 834 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `152.0.3` | x64 | ✅ | kk |
-| 835 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `152.0.3` | x64 | ✅ | tr |
-| 836 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `152.0.3` | x64 | ✅ | uk |
-| 837 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `152.0.3` | x64 | ✅ | sl |
-| 838 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `152.0.3` | x64 | ✅ | af |
-| 839 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `152.0.3` | x64 | ✅ | th |
-| 840 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `152.0.3` | x64 | ✅ | sr |
-| 841 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `152.0.3` | x64 | ✅ | lv |
-| 842 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `152.0.3` | x64 | ✅ | pt-PT |
-| 843 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `152.0.3` | x64 | ✅ | de |
-| 844 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `152.0.3` | x64 | ✅ | sv-SE |
+| 798 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `152.0.3` | x64 | ✅ | en-US |
+| 799 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `152.0.3` | x64 | ✅ | hr |
+| 800 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `152.0.3` | x64 | ✅ | bg |
+| 801 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `152.0.3` | x64 | ✅ | ar |
+| 802 | Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `152.0.3` | x64 | ✅ | ms |
+| 803 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `152.0.3` | x64 | ✅ | nl |
+| 804 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `152.0.3` | x64 | ✅ | de |
+| 805 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `152.0.3` | x64 | ✅ | id |
+| 806 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `152.0.3` | x64 | ✅ | af |
+| 807 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `152.0.3` | x64 | ✅ | eu |
+| 808 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `152.0.3` | x64 | ✅ | pt-BR |
+| 809 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `152.0.3` | x64 | ✅ | lv |
+| 810 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `152.0.3` | x64 | ✅ | en-CA |
+| 811 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `152.0.3` | x64 | ✅ | ru |
+| 812 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `152.0.3` | x64 | ✅ | it |
+| 813 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `152.0.3` | x64 | ✅ | tr |
+| 814 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `152.0.3` | x64 | ✅ | et |
+| 815 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `152.0.3` | x64 | ✅ | sl |
+| 816 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `152.0.3` | x64 | ✅ | kk |
+| 817 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `152.0.3` | x64 | ✅ | gl |
+| 818 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `152.0.3` | x64 | ✅ | pt-PT |
+| 819 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `152.0.3` | x64 | ✅ | es-ES |
+| 820 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `152.0.3` | x64 | ✅ | en-GB |
+| 821 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `152.0.3` | x64 | ✅ | nn-NO |
+| 822 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `152.0.3` | x64 | ✅ | he |
+| 823 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `152.0.3` | x64 | ✅ | uk |
+| 824 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `152.0.3` | x64 | ✅ | da |
+| 825 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `152.0.3` | x64 | ✅ | ja |
+| 826 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `152.0.3` | x64 | ✅ | th |
+| 827 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `152.0.3` | x64 | ✅ | cs |
+| 828 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `152.0.3` | x64 | ✅ | es-MX |
+| 829 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `152.0.3` | x64 | ✅ | el |
+| 830 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `152.0.3` | x64 | ✅ | pl |
+| 831 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `152.0.3` | x64 | ✅ | fi |
+| 832 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `152.0.3` | x64 | ✅ | ro |
+| 833 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `152.0.3` | x64 | ✅ | ko |
+| 834 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `152.0.3` | x64 | ✅ | sv-SE |
+| 835 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `152.0.3` | x64 | ✅ | zh-TW |
+| 836 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `152.0.3` | x64 | ✅ | lt |
+| 837 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `152.0.3` | x64 | ✅ | sr |
+| 838 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `152.0.3` | x64 | ✅ | fr |
+| 839 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `152.0.3` | x64 | ✅ | nb-NO |
+| 840 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `152.0.3` | x64 | ✅ | vi |
+| 841 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `152.0.3` | x64 | ✅ | hi-IN |
+| 842 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `152.0.3` | x64 | ✅ | zh-CN |
+| 843 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `152.0.3` | x64 | ✅ | sk |
+| 844 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `152.0.3` | x64 | ✅ | hu |
 | 845 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Portuguese Brazilian) (x64) | `102.15.1` | x64 | ✅ | pt-BR |
 | 846 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Greek) (x64) | `102.15.1` | x64 | ✅ | el |
 | 847 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Lithuanian) (x64) | `102.15.1` | x64 | ✅ | lt |
@@ -1313,8 +1313,8 @@
 | 1305 | SnelStart | SnelStart | SnelStart | `12.195.152` | x86,x64 | ❌ | nl |
 | 1306 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.1` | x64 | ❌ | en-US |
 | 1307 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `6.5.1` | x64 | ❌ | en-US |
-| 1308 | Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.23.28922.0` | x64 | ❌ | de |
-| 1309 | Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.23.28922.0` | x64 | ❌ | en-US |
+| 1308 | Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.23.28922.0` | x64 | ❌ | en-US |
+| 1309 | Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.23.28922.0` | x64 | ❌ | de |
 | 1310 | Softerra | Softerra LDAP Browser | LDAP Browser - German (x64) | `4.5.19808.0` | x64 | ❌ | de |
 | 1311 | Softerra | Softerra LDAP Browser | LDAP Browser - English (x64) | `4.5.19808.0` | x64 | ❌ | en-US |
 | 1312 | SoftFever | OrcaSlicer | OrcaSlicer | `2.4.0` | x64 | ❌ | en-US |
