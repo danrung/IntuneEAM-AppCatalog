@@ -1,8 +1,8 @@
 # Catalog Changes — Last 7 Days
 
-> **Comparing:** `20260628_140325_AppCatalog.json` (exported 2026-06-28 14:03:25)  
-> **vs:** `20260621_050101_AppCatalog.json` (exported 2026-06-21 05:01:01)  
-> **Generated:** 2026-06-28 14:03 UTC
+> **Comparing:** `20260629_044439_AppCatalog.json` (exported 2026-06-29 04:44:39)  
+> **vs:** `20260621_142517_AppCatalog.json` (exported 2026-06-21 14:25:17)  
+> **Generated:** 2026-06-29 04:45 UTC
 
 ## Summary
 
@@ -32,8 +32,8 @@
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.91.175` | `1.91.178` | x64 |
 | Cake.com Inc. | Clockify | Clockify | `2.1.8` | `2.2.2` | x64 |
 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `23.7` | `23.8` | x86,x64 |
-| Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.5.0.35006` | `46.6.1.35236` | x64 |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.6.0.35178` | `46.6.1.35236` | x64 |
+| Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.5.0.35006` | `46.6.1.35236` | x64 |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.5.0.35006` | `46.6.1.35236` | x64 |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.5.0.35006` | `46.6.1.35236` | x64 |
 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.2.1` | `2026.3.0` | x86,x64 |
@@ -46,7 +46,7 @@
 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.1.2` | `26.2` | x64 |
 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.9.0` | `2026.2.11.0` | x64 |
 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.78.0.229452` | `4.79.0.230596` | x64 |
-| draw.io | draw.io Desktop | draw.io Desktop | `30.0.4` | `30.2.6` | x64 |
+| draw.io | draw.io Desktop | draw.io Desktop | `30.2.4` | `30.2.6` | x64 |
 | dRofus | dRofus | dRofus | `2.17.16.0` | `2.18.6.0` | x86,x64 |
 | Duo Security Inc. | Duo Desktop | Duo Desktop | `7.18.0.0` | `7.19.0.0` | x86,x64 |
 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.2.2551` | `6.12.3.2605` | x64 |
@@ -86,53 +86,53 @@
 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.100.0` | `0.100.2` | x64 |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.125.1` | `1.126.0` | x64 |
 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.5.250609` | `2026.6.260931` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `152.0` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `152.0.1` | `152.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `152.0.1` | `152.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `152.0.1` | `152.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `152.0.1` | `152.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `152.0.1` | `152.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `152.0.1` | `152.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `152.0.1` | `152.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `152.0.1` | `152.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `152.0.1` | `152.0.3` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `152.0.1` | `152.0.3` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `152.0.1` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `152.0` | `152.0.3` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `152.0.1` | `152.0.3` | x64 |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `33.0.5.20260519` | `33.0.6.20260622` | x64 |
 | ocenaudio | ocenaudio | ocenaudio | `3.19.3` | `3.19.4` | x64 |
 | openaudible.org | OpenAudible | OpenAudible | `4.8.3` | `4.8.5` | x64 |
@@ -146,8 +146,8 @@
 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.3` | `7.9.6` | x64 |
 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.1.1` | `12.11.4.4` | x64 |
 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.3.3` | `12.11.4.4` | x64 |
-| Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.23.28826.0` | `4.23.28922.0` | x64 |
 | Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.23.28826.0` | `4.23.28922.0` | x64 |
+| Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.23.28826.0` | `4.23.28922.0` | x64 |
 | SoftFever | OrcaSlicer | OrcaSlicer | `2.3.2` | `2.4.0` | x64 |
 | Stefan Freischlad | Filius | Filius | `2.12.2` | `2.13.0` | x86,x64 |
 | SUSE | Rancher Desktop | Rancher Desktop | `1.22.3` | `1.23.0` | x64 |
