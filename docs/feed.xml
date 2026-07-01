@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 30 Jun 2026 14:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 04:39:50 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-07-01 04:39:50 — +0 added, −0 removed, ↺77 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Wed, 01 Jul 2026 04:39:50 +0000</pubDate>
+      <guid isPermaLink='false'>2026-07-01T04:39:50Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-07-01 04:39:50</p><p><strong>Compared to:</strong> 20260630_143243_AppCatalog.json (2026-06-30 14:32:43)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;77 updated</p><h3>Updated (77)</h3><ul><li>Autodesk Inc. — Autodesk Access &nbsp;<code>2.22.0.547</code> → <code>2.22.0.548</code></li><li>Cloudflare, Inc. — Cloudflare One Client &nbsp;<code>26.4.1390.0</code> → <code>26.6.822.0</code></li><li>Creative Force — Creative Force Kelvin &nbsp;<code>6.4.0</code> → <code>6.5.0</code></li><li>Docker Inc. — Docker Desktop &nbsp;<code>4.79.0.230596</code> → <code>4.80.0.232116</code></li><li>Elgato — Elgato Stream Deck &nbsp;<code>7.4.2.22730</code> → <code>7.5.0.22885</code></li><li>Evernote — Evernote &nbsp;<code>11.22.4</code> → <code>11.23.2</code></li><li>Genesys — Genesys Cloud &nbsp;<code>2.51.912</code> → <code>2.51.916</code></li><li>Google — Google Credential Provider for Windows &nbsp;<code>138.0.7204.26</code> → <code>148.0.7778.160</code></li><li>Microsoft — Microsoft Azure Storage Explorer &nbsp;<code>1.43.0</code> → <code>1.44.0</code></li><li>Microsoft — SharePoint Online Management Shell &nbsp;<code>16.0.27215.12000</code> → <code>16.0.27424.12000</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>… and 57 more</li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-06-30 14:32:43 — +0 added, −0 removed, ↺7 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Tue, 30 Jun 2026 14:32:43 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Sat, 06 Jun 2026 13:58:37 +0000</pubDate>
       <guid isPermaLink='false'>2026-06-06T13:58:37Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-06-06 13:58:37</p><p><strong>Compared to:</strong> 20260606_040553_AppCatalog.json (2026-06-06 04:05:53)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;1 updated</p><h3>Updated (1)</h3><ul><li>CoolUtils — Mail Viewer &nbsp;<code>1.0.9650.19638</code> → <code>1.0.9652.19924</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-06-06 04:05:53 — +1 added, −0 removed, ↺2 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Sat, 06 Jun 2026 04:05:53 +0000</pubDate>
-      <guid isPermaLink='false'>2026-06-06T04:05:53Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-06-06 04:05:53</p><p><strong>Compared to:</strong> 20260605_151916_AppCatalog.json (2026-06-05 15:19:16)</p><p>+1 added &nbsp; &minus;0 removed &nbsp; &#x21BA;2 updated</p><h3>Added (1)</h3><ul><li>SuperOffice AS — SuperOffice WebTools <code>13.2.3.0</code></li></ul><h3>Updated (2)</h3><ul><li>JetBrains — GoLand &nbsp;<code>2025.3.4.1</code> → <code>2025.3.5</code></li><li>SuperOffice AS — SuperOffice WebTools &nbsp;<code>13.0.177.0</code> → <code>13.1.61.0</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
