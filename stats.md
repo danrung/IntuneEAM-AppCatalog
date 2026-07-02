@@ -1,7 +1,7 @@
 # App Catalog Statistics
 
-> **Source:** `20260702_040702_AppCatalog.json` (exported 2026-07-02 04:07:02)  
-> **Generated:** 2026-07-02 04:07 UTC
+> **Source:** `20260702_141912_AppCatalog.json` (exported 2026-07-02 14:19:12)  
+> **Generated:** 2026-07-02 14:19 UTC
 
 ## Summary
 
@@ -13,7 +13,7 @@
 | Publishers | 497 |
 | Auto-Update Capable | 367 (23.6%) |
 | Not Auto-Update Capable | 1,189 (76.4%) |
-| Available Locales | 64 |
+| Available Locales | 65 |
 | Multi-Locale Packages | 0 |
 | Packages Without Architecture | 0 |
 
@@ -90,6 +90,7 @@
 | `nn-NO` |
 | `pl` |
 | `pl-PL` |
+| `pt` |
 | `pt-BR` |
 | `pt-PT` |
 | `ro` |
