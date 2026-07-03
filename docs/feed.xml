@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 03 Jul 2026 03:53:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 14:23:33 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-07-03 14:23:33 — +0 added, −0 removed, ↺10 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Fri, 03 Jul 2026 14:23:33 +0000</pubDate>
+      <guid isPermaLink='false'>2026-07-03T14:23:33Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-07-03 14:23:33</p><p><strong>Compared to:</strong> 20260703_035314_AppCatalog.json (2026-07-03 03:53:14)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;10 updated</p><h3>Updated (10)</h3><ul><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.39</code> → <code>1.45.40</code></li><li>Baldur Karlsson — RenderDoc &nbsp;<code>1.44</code> → <code>1.45</code></li><li>Certum — proCertum SmartSign SimplySign Desktop &nbsp;<code>9.4.3.90</code> → <code>9.4.4.92</code></li><li>GitHub, Inc. — GitHub CLI &nbsp;<code>2.95.0</code> → <code>2.96.0</code></li><li>Kovid Goyal — Calibre &nbsp;<code>9.10.0</code> → <code>9.11.0</code></li><li>Microsoft — Microsoft Edge Beta &nbsp;<code>150.0.4078.46</code> → <code>150.0.4078.48</code></li><li>Microsoft — Microsoft On-premises data gateway &nbsp;<code>3000.322.4</code> → <code>3000.322.5</code></li><li>Rocket.Chat Technologies Corp. — Rocket.Chat &nbsp;<code>4.15.1</code> → <code>4.15.2</code></li><li>SonicWall — SonicWall Connect Tunnel &nbsp;<code>12.5.0.221</code> → <code>12.5.0.247</code></li><li>Zandar Labs SL — Aptakube &nbsp;<code>1.18.1</code> → <code>1.18.2</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-07-03 03:53:14 — +4 added, −0 removed, ↺19 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Fri, 03 Jul 2026 03:53:14 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Tue, 09 Jun 2026 04:09:25 +0000</pubDate>
       <guid isPermaLink='false'>2026-06-09T04:09:25Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-06-09 04:09:25</p><p><strong>Compared to:</strong> 20260608_160757_AppCatalog.json (2026-06-08 16:07:57)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;5 updated</p><h3>Updated (5)</h3><ul><li>CoolUtils — Mail Viewer &nbsp;<code>1.0.9652.19924</code> → <code>7.1.9655.26223</code></li><li>DBeaver Corp — DBeaver Enterprise &nbsp;<code>26.0.0</code> → <code>26.1.0</code></li><li>DBeaver Corp — DBeaver Lite &nbsp;<code>26.0.0</code> → <code>26.1.0</code></li><li>ocenaudio — ocenaudio &nbsp;<code>3.19.1</code> → <code>3.19.2</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0597</code> → <code>9.2.0602</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-06-08 16:07:57 — +0 added, −0 removed, ↺4 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Mon, 08 Jun 2026 16:07:57 +0000</pubDate>
-      <guid isPermaLink='false'>2026-06-08T16:07:57Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-06-08 16:07:57</p><p><strong>Compared to:</strong> 20260608_044718_AppCatalog.json (2026-06-08 04:47:18)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;4 updated</p><h3>Updated (4)</h3><ul><li>HandBrake Team — HandBrake &nbsp;<code>1.11.1</code> → <code>1.11.2</code></li><li>Rarlab — Rarlab WinRAR &nbsp;<code>7.13</code> → <code>7.22</code></li><li>Stefan Freischlad — Filius &nbsp;<code>2.11.0</code> → <code>2.12.0</code></li><li>Vim Developers — Vim &nbsp;<code>9.2.0597</code> → <code>9.2.0602</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260703_035314_AppCatalog.json` (exported 2026-07-03 03:53:14)  
-> **Generated:** 2026-07-03 03:53 UTC  
+> **Source:** `20260703_142333_AppCatalog.json` (exported 2026-07-03 14:23:33)  
+> **Generated:** 2026-07-03 14:24 UTC  
 > **Total:** 1,560 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -57,7 +57,7 @@
 | 49 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
 | 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.163.0` | x64 | ❌ | en-US |
 | 51 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.835.0` | x64 | ❌ | en-US |
-| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.39` | x64 | ❌ | en-US |
+| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.40` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 54 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.0.0` | x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.33.0.5939` | x64 | ❌ | en-US |
@@ -139,7 +139,7 @@
 | 131 | Azul Systems, Inc. | Zulu JRE 17 (LTS) | Zulu JRE 17 (LTS) (x64) | `17.66.19` | x64 | ❌ | en-US |
 | 132 | Azul Systems, Inc. | Zulu JRE 7 (LTS) | Zulu JRE 7 (LTS) (x64) | `7.56.0.11` | x64 | ❌ | en-US |
 | 133 | Azul Systems, Inc. | Zulu JRE 8 (LTS) | Zulu JRE 8 (LTS) (x64) | `8.94.0.17` | x64 | ❌ | en-US |
-| 134 | Baldur Karlsson | RenderDoc | RenderDoc (x64) | `1.44` | x64 | ❌ | en-US |
+| 134 | Baldur Karlsson | RenderDoc | RenderDoc (x64) | `1.45` | x64 | ❌ | en-US |
 | 135 | Bambu Lab | Bambu Studio | Bambu Studio | `2.7.1.62` | x64 | ❌ | en-US |
 | 136 | Bandisoft | BandiView | BandiView | `7.27` | x64 | ❌ | en-US |
 | 137 | Beanbag, Inc. | RBTools | RBTools | `6.0` | x64 | ❌ | en-US |
@@ -210,7 +210,7 @@
 | 202 | Cato Networks | Cato Client | Cato Client | `6.4.6.8830` | x86,x64 | ❌ | en-US |
 | 203 | Causasoft | Causasoft ExhibitManager | ExhibitManager | `5.4.8870.21640` | x86,x64 | ❌ | en-US |
 | 204 | CCL | NetLogo | NetLogo (x64) | `7.0.0` | x64 | ❌ | en-US |
-| 205 | Certum | proCertum SmartSign SimplySign Desktop | proCertum SmartSign SimplySign Desktop (x64) | `9.4.3.90` | x64 | ❌ | en-US |
+| 205 | Certum | proCertum SmartSign SimplySign Desktop | proCertum SmartSign SimplySign Desktop (x64) | `9.4.4.92` | x64 | ❌ | en-US |
 | 206 | Charles Lechasseur | Path Copy Copy | Path Copy Copy | `20.0` | x64 | ❌ | en-US |
 | 207 | Chef Software, Inc. | Chef Workstation for Windows | Chef Workstation for Windows | `25.14.2` | x64 | ❌ | en-US |
 | 208 | Cisco Systems, Inc. | Cisco Jabber 14 | Cisco Jabber 14 | `15.0.1.59513` | x86,x64 | ✅ | en-US |
@@ -414,7 +414,7 @@
 | 406 | Gerardo Grignoli | gsudo | gsudo (x64) | `2.6.1` | x64 | ❌ | en-US |
 | 407 | GFI Software | Kerio Connect | Kerio Connect | `10.0.9.10320` | x64 | ❌ | en-US |
 | 408 | GIMP | GIMP | GIMP | `3.2.4.0` | x64 | ❌ | en-US |
-| 409 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.95.0` | x64 | ❌ | en-US |
+| 409 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.96.0` | x64 | ❌ | en-US |
 | 410 | GlavSoft LLC | Remote Ripple | Remote Ripple | `1.2.0` | x64 | ❌ | en-US |
 | 411 | glueckkanja-gab AG | Konnekt | Konnekt (x64) | `2.12.0.0` | x64 | ❌ | en-US |
 | 412 | GN Audio AS | Jabra Direct | Jabra Direct | `6.27.03702` | x64 | ❌ | en-US |
@@ -541,7 +541,7 @@
 | 533 | Klocman | Bulk Crap Uninstaller | Bulk Crap Uninstaller | `5.8.3` | x64 | ❌ | en-US |
 | 534 | KNIME AG | KNIME Analytics Platform | KNIME Analytics Platform | `5.8.3` | x64 | ❌ | en-US |
 | 535 | Kodu | Kodu Game Lab | Kodu Game Lab | `1.6.18` | x86,x64 | ❌ | en-US |
-| 536 | Kovid Goyal | Calibre | Calibre (x64) | `9.10.0` | x64 | ❌ | en-US |
+| 536 | Kovid Goyal | Calibre | Calibre (x64) | `9.11.0` | x64 | ❌ | en-US |
 | 537 | KPN | HIPIN v4 | HIPIN v4 | `4.7.0.9749` | x64 | ❌ | en-US |
 | 538 | KPN | KPN Desktop Integratie | KPN Desktop Integratie | `4.7.0.9749` | x64 | ❌ | nl |
 | 539 | Krisp | Krisp | Krisp 2.x | `2.57.13` | x64 | ❌ | en-US |
@@ -615,17 +615,17 @@
 | 607 | Mersive Technologies, Inc. | Mersive Solstice Client | Mersive Solstice Client (x64) | `6.2.37968` | x64 | ❌ | en-US |
 | 608 | Meta Platforms, Inc. | Meta Quest Developer Hub | Meta Quest Developer Hub | `6.4.1` | x64 | ❌ | en-US |
 | 609 | Meta Platforms, Inc. | Meta Spark Player | Meta Spark Player | `187.0.8` | x64 | ❌ | en-US |
-| 610 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 2004 | `1.0.0` | x86,x64 | ❌ | en-US |
-| 611 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1803 | `1.0.1803` | x86,x64 | ❌ | en-US |
-| 612 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1511 | `1.0.1511` | x86,x64 | ❌ | en-US |
-| 613 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1909 | `1.0.0` | x86,x64 | ❌ | en-US |
+| 610 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1809 | `2.0` | x86,x64 | ❌ | en-US |
+| 611 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1909 | `1.0.0` | x86,x64 | ❌ | en-US |
+| 612 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1803 | `1.0.1803` | x86,x64 | ❌ | en-US |
+| 613 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1511 | `1.0.1511` | x86,x64 | ❌ | en-US |
 | 614 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1703 | `1.0.1703` | x86,x64 | ❌ | en-US |
-| 615 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 21H1 | `1.0` | x86,x64 | ❌ | en-US |
-| 616 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1903 | `3.0.0` | x86,x64 | ❌ | en-US |
+| 615 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 2004 | `1.0.0` | x86,x64 | ❌ | en-US |
+| 616 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 21H1 | `1.0` | x86,x64 | ❌ | en-US |
 | 617 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 20H2 | `2.0` | x86,x64 | ❌ | en-US |
-| 618 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1809 | `2.0` | x86,x64 | ❌ | en-US |
-| 619 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 | `1.0.1507` | x86,x64 | ❌ | en-US |
-| 620 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1709 | `1.0.1709` | x86,x64 | ❌ | en-US |
+| 618 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 | `1.0.1507` | x86,x64 | ❌ | en-US |
+| 619 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1709 | `1.0.1709` | x86,x64 | ❌ | en-US |
+| 620 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1903 | `3.0.0` | x86,x64 | ❌ | en-US |
 | 621 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 21H2 | `2.0` | x86,x64 | ❌ | en-US |
 | 622 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1607 | `2.0.1607` | x86,x64 | ❌ | en-US |
 | 623 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 22H2 | `1.0` | x86,x64 | ❌ | en-US |
@@ -657,7 +657,7 @@
 | 649 | Microsoft | Microsoft Bot Framework Emulator | Microsoft Bot Framework Emulator | `4.15.1` | x64 | ❌ | en-US |
 | 650 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.427.1` | x64 | ❌ | en-US |
 | 651 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
-| 652 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `150.0.4078.46` | x64 | ✅ | en-US |
+| 652 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `150.0.4078.48` | x64 | ✅ | en-US |
 | 653 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `151.0.4119.1` | x64 | ✅ | en-US |
 | 654 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 655 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
@@ -699,7 +699,7 @@
 | 691 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.7.5` | x64 | ❌ | pt-BR |
 | 692 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Japanese) (x64) | `18.7.5` | x64 | ❌ | ja-JP |
 | 693 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.5` | x64 | ❌ | zh-TW |
-| 694 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.322.4` | x64 | ❌ | en-US |
+| 694 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.322.5` | x64 | ❌ | en-US |
 | 695 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.106.0603.0003` | x64 | ❌ | en-US |
 | 696 | Microsoft | Microsoft OneNote | OneNote (x64) | `16.0.18730.20168` | x64 | ❌ | en-US |
 | 697 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.155.332.0` | x64 | ✅ | mul |
@@ -726,9 +726,9 @@
 | 718 | Microsoft | Microsoft SQL Server 2016 Report Builder | Microsoft SQL Server 2016 Report Builder (Spanish) | `15.0.20283.0` | x86,x64 | ❌ | es |
 | 719 | Microsoft | Microsoft SQL Server 2016 Report Builder | Microsoft SQL Server 2016 Report Builder (Dutch) | `15.0.20283.0` | x86,x64 | ❌ | nl |
 | 720 | Microsoft | Microsoft SQL Server 2016 Report Builder | Microsoft SQL Server 2016 Report Builder (Russian) | `15.0.20283.0` | x86,x64 | ❌ | ru |
-| 721 | Microsoft | Microsoft SQL Server 2016 Report Builder | Microsoft SQL Server 2016 Report Builder (English) | `15.1.30001.02` | x64 | ❌ | en-US |
-| 722 | Microsoft | Microsoft SQL Server 2016 Report Builder | Microsoft SQL Server 2016 Report Builder (Italian) | `15.0.20283.0` | x86,x64 | ❌ | it |
-| 723 | Microsoft | Microsoft SQL Server 2016 Report Builder | Microsoft SQL Server 2016 Report Builder (German) | `15.0.20283.0` | x86,x64 | ❌ | de |
+| 721 | Microsoft | Microsoft SQL Server 2016 Report Builder | Microsoft SQL Server 2016 Report Builder (Italian) | `15.0.20283.0` | x86,x64 | ❌ | it |
+| 722 | Microsoft | Microsoft SQL Server 2016 Report Builder | Microsoft SQL Server 2016 Report Builder (German) | `15.0.20283.0` | x86,x64 | ❌ | de |
+| 723 | Microsoft | Microsoft SQL Server 2016 Report Builder | Microsoft SQL Server 2016 Report Builder (English) | `15.1.30001.02` | x64 | ❌ | en-US |
 | 724 | Microsoft | Microsoft SQL Server 2016 Report Builder | Microsoft SQL Server 2016 Report Builder (Swedish) | `15.0.20283.0` | x86,x64 | ❌ | sv |
 | 725 | Microsoft | Microsoft SQL Server 2017 Express Advanced Edition | Microsoft SQL Server 2017 Express Advanced Edition | `14.0.1000.169` | x64 | ❌ | en-US |
 | 726 | Microsoft | Microsoft SQL Server 2017 for Microsoft Windows Latest Cumulative Update | SQL Server 2017 for Microsoft Windows Latest Cumulative Update | `14.0.3456.2` | x64 | ❌ | en-US |
@@ -806,52 +806,52 @@
 | 798 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.8` | x64 | ❌ | en-US |
 | 799 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.8` | x64 | ❌ | en-US |
 | 800 | MOOS Project Viewer | MOOS Project Viewer | MOOS Project Viewer | `4.4.0` | x86,x64 | ❌ | en-US |
-| 801 | Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `152.0.4` | x64 | ✅ | ms |
-| 802 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `152.0.4` | x64 | ✅ | nb-NO |
-| 803 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `152.0.4` | x64 | ✅ | zh-TW |
-| 804 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `152.0.4` | x64 | ✅ | el |
-| 805 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `152.0.4` | x64 | ✅ | kk |
-| 806 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `152.0.4` | x64 | ✅ | pt-PT |
-| 807 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `152.0.4` | x64 | ✅ | hr |
-| 808 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `152.0.4` | x64 | ✅ | fr |
-| 809 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `152.0.4` | x64 | ✅ | lt |
-| 810 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `152.0.4` | x64 | ✅ | he |
-| 811 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `152.0.4` | x64 | ✅ | lv |
-| 812 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `152.0.4` | x64 | ✅ | sk |
-| 813 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `152.0.4` | x64 | ✅ | zh-CN |
-| 814 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `152.0.4` | x64 | ✅ | ko |
-| 815 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `152.0.4` | x64 | ✅ | af |
-| 816 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `152.0.4` | x64 | ✅ | et |
-| 817 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `152.0.4` | x64 | ✅ | pt-BR |
-| 818 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `152.0.4` | x64 | ✅ | sv-SE |
-| 819 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `152.0.4` | x64 | ✅ | da |
-| 820 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `152.0.4` | x64 | ✅ | ja |
-| 821 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `152.0.4` | x64 | ✅ | eu |
-| 822 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `152.0.4` | x64 | ✅ | fi |
-| 823 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `152.0.4` | x64 | ✅ | en-GB |
-| 824 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `152.0.4` | x64 | ✅ | es-MX |
-| 825 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `152.0.4` | x64 | ✅ | ar |
-| 826 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `152.0.4` | x64 | ✅ | uk |
-| 827 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `152.0.4` | x64 | ✅ | en-US |
-| 828 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `152.0.4` | x64 | ✅ | nn-NO |
-| 829 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `152.0.4` | x64 | ✅ | sl |
-| 830 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `152.0.4` | x64 | ✅ | tr |
-| 831 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `152.0.4` | x64 | ✅ | de |
-| 832 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `152.0.4` | x64 | ✅ | sr |
-| 833 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `152.0.4` | x64 | ✅ | vi |
-| 834 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `152.0.4` | x64 | ✅ | hi-IN |
-| 835 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `152.0.4` | x64 | ✅ | th |
-| 836 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `152.0.4` | x64 | ✅ | gl |
-| 837 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `152.0.4` | x64 | ✅ | id |
+| 801 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `152.0.4` | x64 | ✅ | de |
+| 802 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `152.0.4` | x64 | ✅ | af |
+| 803 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `152.0.4` | x64 | ✅ | es-ES |
+| 804 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `152.0.4` | x64 | ✅ | nb-NO |
+| 805 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `152.0.4` | x64 | ✅ | gl |
+| 806 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `152.0.4` | x64 | ✅ | he |
+| 807 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `152.0.4` | x64 | ✅ | en-GB |
+| 808 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `152.0.4` | x64 | ✅ | vi |
+| 809 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `152.0.4` | x64 | ✅ | ko |
+| 810 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `152.0.4` | x64 | ✅ | nn-NO |
+| 811 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `152.0.4` | x64 | ✅ | sr |
+| 812 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `152.0.4` | x64 | ✅ | fi |
+| 813 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `152.0.4` | x64 | ✅ | tr |
+| 814 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `152.0.4` | x64 | ✅ | kk |
+| 815 | Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `152.0.4` | x64 | ✅ | ms |
+| 816 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `152.0.4` | x64 | ✅ | eu |
+| 817 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `152.0.4` | x64 | ✅ | et |
+| 818 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `152.0.4` | x64 | ✅ | lv |
+| 819 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `152.0.4` | x64 | ✅ | ro |
+| 820 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `152.0.4` | x64 | ✅ | zh-TW |
+| 821 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `152.0.4` | x64 | ✅ | el |
+| 822 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `152.0.4` | x64 | ✅ | pt-BR |
+| 823 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `152.0.4` | x64 | ✅ | nl |
+| 824 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `152.0.4` | x64 | ✅ | id |
+| 825 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `152.0.4` | x64 | ✅ | cs |
+| 826 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `152.0.4` | x64 | ✅ | ar |
+| 827 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `152.0.4` | x64 | ✅ | ja |
+| 828 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `152.0.4` | x64 | ✅ | fr |
+| 829 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `152.0.4` | x64 | ✅ | ru |
+| 830 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `152.0.4` | x64 | ✅ | hr |
+| 831 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `152.0.4` | x64 | ✅ | pl |
+| 832 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `152.0.4` | x64 | ✅ | sk |
+| 833 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `152.0.4` | x64 | ✅ | es-MX |
+| 834 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `152.0.4` | x64 | ✅ | pt-PT |
+| 835 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `152.0.4` | x64 | ✅ | bg |
+| 836 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `152.0.4` | x64 | ✅ | uk |
+| 837 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `152.0.4` | x64 | ✅ | sv-SE |
 | 838 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `152.0.4` | x64 | ✅ | hu |
-| 839 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `152.0.4` | x64 | ✅ | ru |
-| 840 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `152.0.4` | x64 | ✅ | es-ES |
+| 839 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `152.0.4` | x64 | ✅ | sl |
+| 840 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `152.0.4` | x64 | ✅ | th |
 | 841 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `152.0.4` | x64 | ✅ | en-CA |
-| 842 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `152.0.4` | x64 | ✅ | cs |
-| 843 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `152.0.4` | x64 | ✅ | pl |
-| 844 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `152.0.4` | x64 | ✅ | bg |
-| 845 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `152.0.4` | x64 | ✅ | ro |
-| 846 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `152.0.4` | x64 | ✅ | nl |
+| 842 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `152.0.4` | x64 | ✅ | en-US |
+| 843 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `152.0.4` | x64 | ✅ | hi-IN |
+| 844 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `152.0.4` | x64 | ✅ | zh-CN |
+| 845 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `152.0.4` | x64 | ✅ | lt |
+| 846 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `152.0.4` | x64 | ✅ | da |
 | 847 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `152.0.4` | x64 | ✅ | it |
 | 848 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Portuguese Brazilian) (x64) | `102.15.1` | x64 | ✅ | pt-BR |
 | 849 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Greek) (x64) | `102.15.1` | x64 | ✅ | el |
@@ -1212,34 +1212,34 @@
 | 1204 | Raising the Floor – US inc. | Morphic | Morphic | `1.10.25153.2` | x64 | ❌ | en-US |
 | 1205 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23081` | x86,x64 | ❌ | en-US |
 | 1206 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.22` | x64 | ❌ | zh-CN |
-| 1207 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.22` | x64 | ❌ | it |
-| 1208 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.23` | x64 | ❌ | hu |
-| 1209 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.23` | x64 | ❌ | uk |
-| 1210 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.23` | x64 | ❌ | bg |
-| 1211 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | x64 | ❌ | sk |
-| 1212 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.23` | x64 | ❌ | sr |
-| 1213 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.23` | x64 | ❌ | ar |
-| 1214 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.23` | x64 | ❌ | en-US |
-| 1215 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.23` | x64 | ❌ | pt |
-| 1216 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.22` | x64 | ❌ | fr |
+| 1207 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.22` | x64 | ❌ | fr |
+| 1208 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.22` | x64 | ❌ | it |
+| 1209 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.23` | x64 | ❌ | hu |
+| 1210 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.23` | x64 | ❌ | fi |
+| 1211 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.23` | x64 | ❌ | uk |
+| 1212 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.23` | x64 | ❌ | bg |
+| 1213 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | x64 | ❌ | sk |
+| 1214 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.23` | x64 | ❌ | sr |
+| 1215 | Rarlab | Rarlab WinRAR | WinRAR (Arabic) (x64) | `7.23` | x64 | ❌ | ar |
+| 1216 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.23` | x64 | ❌ | pt |
 | 1217 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese Brazilian) (x64) | `7.23` | x64 | ❌ | pt-BR |
-| 1218 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.23` | x64 | ❌ | de |
-| 1219 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.23` | x64 | ❌ | zh-TW |
-| 1220 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.23` | x64 | ❌ | vi |
-| 1221 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.22` | x64 | ❌ | ro |
-| 1222 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.23` | x64 | ❌ | da |
-| 1223 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
-| 1224 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.23` | x64 | ❌ | ru |
-| 1225 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.23` | x64 | ❌ | sv |
-| 1226 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.23` | x64 | ❌ | ko |
-| 1227 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.23` | x64 | ❌ | pl |
-| 1228 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
-| 1229 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.22` | x64 | ❌ | ja |
-| 1230 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.23` | x64 | ❌ | th |
-| 1231 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.23` | x64 | ❌ | es |
-| 1232 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.23` | x64 | ❌ | nl |
-| 1233 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
-| 1234 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.23` | x64 | ❌ | fi |
+| 1218 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.23` | x64 | ❌ | zh-TW |
+| 1219 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.23` | x64 | ❌ | vi |
+| 1220 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.22` | x64 | ❌ | ro |
+| 1221 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.23` | x64 | ❌ | da |
+| 1222 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.22` | x64 | ❌ | sl |
+| 1223 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.23` | x64 | ❌ | nl |
+| 1224 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.23` | x64 | ❌ | en-US |
+| 1225 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.23` | x64 | ❌ | ru |
+| 1226 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.23` | x64 | ❌ | sv |
+| 1227 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.23` | x64 | ❌ | es |
+| 1228 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.23` | x64 | ❌ | ko |
+| 1229 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.23` | x64 | ❌ | pl |
+| 1230 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
+| 1231 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.22` | x64 | ❌ | ja |
+| 1232 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.23` | x64 | ❌ | th |
+| 1233 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.23` | x64 | ❌ | de |
+| 1234 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
 | 1235 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.22` | x64 | ❌ | cs |
 | 1236 | Raspberry Pi Ltd | Raspberry Pi Imager | Raspberry Pi Imager | `2.0.4` | x64 | ❌ | en-US |
 | 1237 | Realtime Soft Ltd | UltraMon | UltraMon (x64) | `3.4.1` | x64 | ❌ | en-US |
@@ -1256,7 +1256,7 @@
 | 1248 | RingCentral | RingCentral Phone | RingCentral Phone | `24.3.0.47527` | x86,x64 | ❌ | en-US |
 | 1249 | Ringler Informatik AG | Snapform Viewer | Snapform Viewer (x64) | `1.8.7` | x64 | ❌ | en-US |
 | 1250 | riok GmbH | Kreya | Kreya (x64) | `1.19.1` | x64 | ❌ | en-US |
-| 1251 | Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.15.1` | x64 | ❌ | en-US |
+| 1251 | Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.15.2` | x64 | ❌ | en-US |
 | 1252 | RStudio | RStudio 1.4 | RStudio 1.4 | `1.4.1743` | x86,x64 | ❌ | en-US |
 | 1253 | RStudio | RStudio 2022 | RStudio 2022.02 | `2022.02.5.503` | x86,x64 | ❌ | en-US |
 | 1254 | RStudio | RStudio 2022 | RStudio 2022.12 | `2022.12.0.353` | x64 | ❌ | en-US |
@@ -1324,7 +1324,7 @@
 | 1316 | SoftFever | OrcaSlicer | OrcaSlicer | `2.4.1` | x64 | ❌ | en-US |
 | 1317 | Softland | Softland doPDF | doPDF | `11.9.523` | x64 | ❌ | en-US |
 | 1318 | SolarWinds | SolarWinds Orion SDK | SolarWinds Orion SDK (x64) | `3.3.0.50070` | x64 | ❌ | en-US |
-| 1319 | SonicWall | SonicWall Connect Tunnel | SonicWall Connect Tunnel (x64) | `12.5.0.221` | x64 | ❌ | en-US |
+| 1319 | SonicWall | SonicWall Connect Tunnel | SonicWall Connect Tunnel (x64) | `12.5.0.247` | x64 | ❌ | en-US |
 | 1320 | SonicWall | SonicWall NetExtender | SonicWall NetExtender (x64) | `10.3.5` | x64 | ❌ | en-US |
 | 1321 | Sophos | Sophos Connect | Sophos Connect | `2.3.3003.0207` | x86,x64 | ❌ | en-US |
 | 1322 | South River Technologies | South River Technologies WebDrive | WebDrive (x64) | `1.1.18` | x64 | ❌ | en-US |
@@ -1543,7 +1543,7 @@
 | 1535 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.4.0` | x64 | ❌ | en-US |
 | 1536 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
 | 1537 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.2` | x64 | ❌ | en-US |
-| 1538 | Zandar Labs SL | Aptakube | Aptakube | `1.18.1` | x64 | ❌ | en-US |
+| 1538 | Zandar Labs SL | Aptakube | Aptakube | `1.18.2` | x64 | ❌ | en-US |
 | 1539 | Zello Inc. | Zello | Zello | `18.7.0.0` | x64 | ❌ | en-US |
 | 1540 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 5 | `5.7.18` | x86,x64 | ❌ | en-US |
 | 1541 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.2` | x86,x64 | ❌ | en-US |
