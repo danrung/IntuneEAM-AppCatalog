@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 06 Jul 2026 15:48:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 04:01:45 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-07-07 04:01:45 — +1 added, −0 removed, ↺10 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Tue, 07 Jul 2026 04:01:45 +0000</pubDate>
+      <guid isPermaLink='false'>2026-07-07T04:01:45Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-07-07 04:01:45</p><p><strong>Compared to:</strong> 20260706_154816_AppCatalog.json (2026-07-06 15:48:16)</p><p>+1 added &nbsp; &minus;0 removed &nbsp; &#x21BA;10 updated</p><h3>Added (1)</h3><ul><li>Microsoft — Microsoft ODBC Driver 18 for SQL Server <code>18.6.2.1</code></li></ul><h3>Updated (10)</h3><ul><li>3Dconnexion UK — 3DxWare 10 &nbsp;<code>10.9.13.740</code> → <code>10.9.14.745</code></li><li>8x8 Inc. — 8x8 Work &nbsp;<code>8.34.1.11</code> → <code>8.35.2.6</code></li><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.40</code> → <code>1.45.41</code></li><li>Boris Eyrich Software — Artweaver Free &nbsp;<code>8.1.5.3980</code> → <code>8.1.6.4131</code></li><li>DBeaver Corp — DBeaver Community &nbsp;<code>26.1.1</code> → <code>26.1.2</code></li><li>Docker Inc. — Docker Desktop &nbsp;<code>4.80.0.232116</code> → <code>4.81.0.232925</code></li><li>Karakun — OpenWebStart &nbsp;<code>1.13.0</code> → <code>1.14.0</code></li><li>LucidLink — LucidLink Classic &nbsp;<code>2.9.7722</code> → <code>2.10.8388</code></li><li>Microsoft — Microsoft Azure Connected Machine Agent &nbsp;<code>1.64.03414.2961</code> → <code>1.66.03466.3076</code></li><li>Raspberry Pi Ltd — Raspberry Pi Imager &nbsp;<code>2.0.4</code> → <code>2.0.10</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-07-06 15:48:16 — +1 added, −0 removed, ↺6 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Mon, 06 Jul 2026 15:48:16 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Fri, 12 Jun 2026 15:31:05 +0000</pubDate>
       <guid isPermaLink='false'>2026-06-12T15:31:05Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-06-12 15:31:05</p><p><strong>Compared to:</strong> 20260612_044531_AppCatalog.json (2026-06-12 04:45:31)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-06-12 04:45:31 — +0 added, −0 removed, ↺5 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Fri, 12 Jun 2026 04:45:31 +0000</pubDate>
-      <guid isPermaLink='false'>2026-06-12T04:45:31Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-06-12 04:45:31</p><p><strong>Compared to:</strong> 20260611_161441_AppCatalog.json (2026-06-11 16:14:41)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;5 updated</p><h3>Updated (5)</h3><ul><li>Audacity — Audacity &nbsp;<code>3.7.7</code> → <code>3.7.8</code></li><li>Garmin — Garmin Express &nbsp;<code>7.28.1.0</code> → <code>7.29.0.0</code></li><li>Microsoft — Microsoft Visual Studio 2022 Enterprise &nbsp;<code>17.12.37301.13</code> → <code>17.12.37328.8</code></li><li>Microsoft — Microsoft Visual Studio 2022 Professional &nbsp;<code>17.14.37314.3</code> → <code>17.14.37328.6</code></li><li>NordVPN — NordLayer &nbsp;<code>3.7.0.0</code> → <code>3.8.1.0</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
