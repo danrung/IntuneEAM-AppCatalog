@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260707_040145_AppCatalog.json` (exported 2026-07-07 04:01:45)  
-> **vs:** `20260705_135440_AppCatalog.json` (exported 2026-07-05 13:54:40)  
-> **Generated:** 2026-07-07 04:02 UTC
+> **Comparing:** `20260707_145157_AppCatalog.json` (exported 2026-07-07 14:51:57)  
+> **vs:** `20260706_041117_AppCatalog.json` (exported 2026-07-06 04:11:17)  
+> **Generated:** 2026-07-07 14:52 UTC
 
 ## Summary
 
@@ -10,16 +10,16 @@
 |--------|------:|
 | ✅ Added | 2 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 16 |
+| 🔄 Updated (version change) | 22 |
 
 ## ✅ Added (2 packages)
 
 | Publisher | App | Branch | Version | Architecture |
 |-----------|-----|--------|---------|:------------:|
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Polish) (x64) | `18.6.2.1` | x64 |
 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Turkish) (x64) | `18.6.2.1` | x64 |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Polish) (x64) | `18.6.2.1` | x64 |
 
-## 🔄 Updated (16 packages)
+## 🔄 Updated (22 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
@@ -29,14 +29,20 @@
 | Andrew Ziem | BleachBit | BleachBit | `6.0.0` | `6.0.2` | x86,x64 |
 | Boris Eyrich Software | Artweaver Free | Artweaver Free | `8.1.5.3980` | `8.1.6.4131` | x64 |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.1.1` | `26.1.2` | x64 |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.12.0` | `2026.2.13.0` | x64 |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.12.0` | `2026.2.13.0` | x64 |
+| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.12.0` | `2026.2.13.0` | x64 |
 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.80.0.232116` | `4.81.0.232925` | x64 |
 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.3.2605` | `6.12.4.2635` | x64 |
 | Jan de Dobbeleer | Oh My Posh | Oh My Posh (x64) | `29.20.0` | `29.21.0` | x64 |
 | Karakun | OpenWebStart | OpenWebStart (x64) | `1.13.0` | `1.14.0` | x64 |
 | LucidLink | LucidLink Classic | LucidLink Classic | `2.9.7722` | `2.10.8388` | x64 |
+| Microsoft | Microsoft Azure CLI | Azure CLI (x64) | `2.86.0` | `2.88.0` | x64 |
 | Microsoft | Microsoft Azure Connected Machine Agent | Azure Connected Machine Agent | `1.64.03414.2961` | `1.66.03466.3076` | x64 |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.106.0603.0003` | `26.108.0607.0002` | x64 |
+| ownCloud | ownCloud Desktop Client | ownCloud Desktop Client (x64) | `6.0.3.18040` | `7.1.0.19041` | x64 |
 | Password Safe | Password Safe 3 | Password Safe 3 (x64) | `3.72.0` | `3.72.1` | x64 |
 | Rarlab | Rarlab WinRAR | WinRAR (Slovak) (x64) | `7.22` | `7.23` | x64 |
 | Raspberry Pi Ltd | Raspberry Pi Imager | Raspberry Pi Imager | `2.0.4` | `2.0.10` | x64 |
+| SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.4.1` | `2.4.2` | x64 |
 
