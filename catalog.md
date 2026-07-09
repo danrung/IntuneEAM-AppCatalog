@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260708_142950_AppCatalog.json` (exported 2026-07-08 14:29:50)  
-> **Generated:** 2026-07-08 14:30 UTC  
+> **Source:** `20260709_035531_AppCatalog.json` (exported 2026-07-09 03:55:31)  
+> **Generated:** 2026-07-09 03:56 UTC  
 > **Total:** 1,564 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -57,7 +57,7 @@
 | 49 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
 | 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.163.0` | x64 | ❌ | en-US |
 | 51 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.835.0` | x64 | ❌ | en-US |
-| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.42` | x64 | ❌ | en-US |
+| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.43` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 54 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.0.0` | x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.33.0.5939` | x64 | ❌ | en-US |
@@ -259,7 +259,7 @@
 | 251 | Daiyuu Nobori, University of Tsukuba, Japan | Win10Pcap | Win10Pcap | `10.2.5002` | x86,x64 | ❌ | en-US |
 | 252 | Dane Prairie Systems | Dane Prairie Systems Win2PDF | Win2PDF | `11.0.8.1` | x64 | ❌ | en-US |
 | 253 | Daniel Girardeau-Montaut | CloudCompare | CloudCompare (x64) | `2.13.2` | x64 | ❌ | en-US |
-| 254 | Datadog | Datadog Agent | Datadog Agent | `7.80.4` | x64 | ❌ | en-US |
+| 254 | Datadog | Datadog Agent | Datadog Agent | `7.81.0` | x64 | ❌ | en-US |
 | 255 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.2.45323` | x64 | ❌ | en-US |
 | 256 | DAX Studio | DAX Studio | DAX Studio | `3.5.2.1205` | x64 | ❌ | en-US |
 | 257 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
@@ -277,7 +277,7 @@
 | 269 | Dell, Inc. | Dell Peripheral Manager | Dell Peripheral Manager | `1.7.7` | x64 | ❌ | en-US |
 | 270 | Dell, Inc. | Dell SupportAssist | Dell SupportAssist for Business PCs (x64) | `4.5.3.25254` | x64 | ❌ | en-US |
 | 271 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
-| 272 | Dell, Inc. | RVTools | RVTools | `4.7.1` | x86,x64 | ❌ | en-US |
+| 272 | Dell, Inc. | RVTools | RVTools | `4.8.1` | x86,x64 | ❌ | en-US |
 | 273 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.13.0` | x64 | ✅ | en-US |
 | 274 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.13.0` | x64 | ✅ | en-US |
 | 275 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.13.0` | x64 | ❌ | en-US |
@@ -358,7 +358,7 @@
 | 350 | Evernote | Evernote | Evernote | `11.24.3` | x64 | ✅ | en-US |
 | 351 | Exacq Technologies | exacqVision Client | exacqVision Client (x64) | `26.1.4.0` | x64 | ❌ | en-US |
 | 352 | EZB Systems | EZB Systems UltraISO | UltraISO (English) | `9.7.6.3860` | x86,x64 | ❌ | en-US |
-| 353 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.71.043.063` | x64 | ❌ | en-US |
+| 353 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.72.048.061` | x64 | ❌ | en-US |
 | 354 | FastStone Soft | FastStone Soft Capture | Capture | `11.2` | x86,x64 | ❌ | en-US |
 | 355 | FastStone Soft | FastStone Soft Image Viewer | Image Viewer | `8.5` | x86,x64 | ❌ | en-US |
 | 356 | FastStone Soft | FastStone Soft Photo Resizer | Photo Resizer | `4.5` | x86,x64 | ❌ | en-US |
@@ -371,17 +371,17 @@
 | 363 | Foxit Software | Foxit PDF Editor 11 | Foxit PDF Editor 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 364 | Foxit Software | Foxit PDF Editor 12 | Foxit PDF Editor 12 | `12.1.9.15762` | x86,x64 | ✅ | en-US |
 | 365 | Foxit Software | Foxit PDF Editor 12 | Foxit PDF Editor 12 (Multi-Language) | `12.1.9.15762` | x86,x64 | ✅ | mul |
-| 366 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | en-US |
-| 367 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
+| 366 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.5.24109` | x86,x64 | ✅ | en-US |
+| 367 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.5.24109` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 369 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 370 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
-| 371 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
-| 372 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.4.24048` | x86,x64 | ✅ | mul |
-| 373 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.4.24048` | x86,x64 | ✅ | en-US |
-| 374 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.1.36485` | x64 | ✅ | en-US |
-| 375 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x86) (MSI) | `2025.2.0.33046` | x86,x64 | ✅ | mul |
-| 376 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader | `2025.1.0.27937` | x86,x64 | ✅ | en-US |
+| 370 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 371 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 372 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.5.24109` | x86,x64 | ✅ | en-US |
+| 373 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.5.24109` | x86,x64 | ✅ | mul |
+| 374 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x86) (MSI) | `2025.2.0.33046` | x86,x64 | ✅ | mul |
+| 375 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader | `2025.1.0.27937` | x86,x64 | ✅ | en-US |
+| 376 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.2.36540` | x64 | ✅ | en-US |
 | 377 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (MSI) | `2025.2.0.33046` | x64 | ✅ | en-US |
 | 378 | Foxit Software | Foxit PhantomPDF 10 | Foxit PhantomPDF 10 | `10.1.12.37872` | x86,x64 | ❌ | en-US |
 | 379 | Foxit Software | Foxit PhantomPDF 10 | Foxit PhantomPDF 10 (Multi-Language) | `10.1.12.37872` | x86,x64 | ❌ | mul |
@@ -464,8 +464,8 @@
 | 456 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.10.0.0` | x64 | ❌ | en-US |
 | 457 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.4.0` | x64 | ❌ | en-US |
 | 458 | Inkscape | Inkscape | Inkscape (x64) | `1.4` | x64 | ❌ | en-US |
-| 459 | Inmatrix | Zoom Player | Zoom Player | `22.01` | x86,x64 | ❌ | en-US |
-| 460 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.2` | x86,x64 | ❌ | en-US |
+| 459 | Inmatrix | Zoom Player | Zoom Player | `22.5` | x86,x64 | ❌ | en-US |
+| 460 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.5` | x86,x64 | ❌ | en-US |
 | 461 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.30.53.0` | x64 | ❌ | en-US |
 | 462 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.920.0` | x86,x64 | ❌ | en-US |
 | 463 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.920.0` | x86,x64 | ❌ | en-US |
@@ -479,7 +479,7 @@
 | 471 | iterate GmbH | Cyberduck CLI | Cyberduck CLI (x64) | `9.5.2.45323` | x64 | ✅ | en-US |
 | 472 | Ivo Beltchev | Classic Shell | Classic Shell (x64) | `4.3.1` | x64 | ❌ | en-US |
 | 473 | JAM Software GmbH | JAM Software TreeSize Free | TreeSize Free | `4.8.1.610` | x64 | ✅ | en-US |
-| 474 | Jan de Dobbeleer | Oh My Posh | Oh My Posh (x64) | `29.22.0` | x64 | ❌ | en-US |
+| 474 | Jan de Dobbeleer | Oh My Posh | Oh My Posh (x64) | `29.22.1` | x64 | ❌ | en-US |
 | 475 | Jan Fiala | PSPad | PSPad (x64) | `5.5.1.825` | x64 | ❌ | en-US |
 | 476 | JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.5.1` | x64 | ❌ | en-US |
 | 477 | JetBrains | DataGrip | DataGrip 2024.3 (x64) | `2024.3.5.1` | x64 | ❌ | en-US |
@@ -774,7 +774,7 @@
 | 766 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
 | 767 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37328.8` | x64 | ❌ | en-US |
 | 768 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 769 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.127.0` | x64 | ✅ | en-US |
+| 769 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.128.0` | x64 | ✅ | en-US |
 | 770 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37411.7` | x64 | ❌ | en-US |
 | 771 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 772 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -1204,8 +1204,8 @@
 | 1196 | Python Software Foundation | Python 3.7 | Python 3.7 (x64) | `3.7.9150.0` | x64 | ❌ | en-US |
 | 1197 | Python Software Foundation | Python 3.8 | Python 3.8 (x64) | `3.8.10150.0` | x64 | ❌ | en-US |
 | 1198 | Python Software Foundation | Python 3.9 | Python 3.9 (x64) | `3.9.13150.0` | x64 | ❌ | en-US |
-| 1199 | QGIS | QGIS | QGIS (x64) | `4.0.2` | x64 | ❌ | en-US |
-| 1200 | QGIS | QGIS LTR | QGIS LTR (x64) | `3.44.10` | x64 | ❌ | en-US |
+| 1199 | QGIS | QGIS | QGIS (x64) | `4.2.0` | x64 | ❌ | en-US |
+| 1200 | QGIS | QGIS LTR | QGIS LTR (x64) | `3.44.12` | x64 | ❌ | en-US |
 | 1201 | QNAP | QNAP Qsync | QNAP Qsync | `5.1.10.0918` | x86,x64 | ✅ | en-US |
 | 1202 | Qoppa Software | PDF Studio | PDF Studio (EXE) (x64) | `2024.0.1` | x64 | ❌ | en-US |
 | 1203 | Qoppa Software | PDF Studio | PDF Studio (MSI) (x64) | `2024.0.1.0` | x64 | ❌ | en-US |
@@ -1254,7 +1254,7 @@
 | 1246 | Red Hat | Red Hat OpenJDK JRE | Red Hat OpenJDK JRE 17 | `17.00160.8.1` | x64 | ❌ | en-US |
 | 1247 | Red Hat | Red Hat OpenJDK JRE | Red Hat OpenJDK JRE 21 | `21.0080.9.1` | x64 | ❌ | en-US |
 | 1248 | Red Hat | Red Hat OpenJDK JRE | Red Hat OpenJDK JRE 11 | `11.0.250.1` | x64 | ❌ | en-US |
-| 1249 | Relux Informatik AG | ReluxDesktop | ReluxDesktop (x64) | `2026.2.1.0` | x64 | ❌ | en-US |
+| 1249 | Relux Informatik AG | ReluxDesktop | ReluxDesktop (x64) | `2026.2.2.0` | x64 | ❌ | en-US |
 | 1250 | REV Robotics | REV Hardware Client | REV Hardware Client | `1.7.6` | x64 | ❌ | en-US |
 | 1251 | RingCentral | RingCentral App | RingCentral App | `26.2.3013.1602` | x64 | ❌ | en-US |
 | 1252 | RingCentral | RingCentral Phone | RingCentral Phone | `24.3.0.47527` | x86,x64 | ❌ | en-US |
@@ -1271,7 +1271,7 @@
 | 1263 | RStudio | Rstudio 2024 | RStudio 2024.09 | `2024.09.1.394` | x64 | ❌ | en-US |
 | 1264 | RStudio | Rstudio 2024 | RStudio 2024.12 | `2024.12.1.563` | x64 | ❌ | en-US |
 | 1265 | Rystad Energy | Cube Browser | Cube Browser (x64) | `2.6.62.0` | x64 | ❌ | en-US |
-| 1266 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.141.6` | x64 | ❌ | en-US |
+| 1266 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.142.7` | x64 | ❌ | en-US |
 | 1267 | Samsung | Samsung Smart Switch | Samsung Smart Switch | `4.3.24062.1` | x86,x64 | ❌ | en-US |
 | 1268 | Samsung Techwin Co., Ltd | Samsung Smart View | Smart View | `1.0.0.0` | x86,x64 | ❌ | en-US |
 | 1269 | SanDisk Corporation | SanDisk Dashboard | SanDisk Dashboard | `5.2.2.3` | x86,x64 | ✅ | en-US |
@@ -1489,7 +1489,7 @@
 | 1481 | VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.23` | x64 | ❌ | en-US |
 | 1482 | VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.23` | x64 | ❌ | en-US |
 | 1483 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
-| 1484 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.7` | x64 | ❌ | en-US |
+| 1484 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.8` | x64 | ❌ | en-US |
 | 1485 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.8` | x86,x64 | ❌ | en-US |
 | 1486 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0677` | x64 | ❌ | en-US |
 | 1487 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0677` | x64 | ❌ | en-US |
@@ -1544,7 +1544,7 @@
 | 1536 | XnSoft | XnSoft XnView Minimal | XnView (Minimal) | `2.52.0` | x86,x64 | ❌ | en-US |
 | 1537 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.11.5.0` | x64 | ❌ | en-US |
 | 1538 | XnSoft | XnSoft XnView Standard | XnView (Standard) | `2.52.0` | x86,x64 | ❌ | en-US |
-| 1539 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.4.0` | x64 | ❌ | en-US |
+| 1539 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.4.1` | x64 | ❌ | en-US |
 | 1540 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
 | 1541 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.2` | x64 | ❌ | en-US |
 | 1542 | Zandar Labs SL | Aptakube | Aptakube | `1.18.4` | x64 | ❌ | en-US |
