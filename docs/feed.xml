@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 10 Jul 2026 03:56:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 14:42:43 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-07-10 14:42:43 — +1 added, −0 removed, ↺9 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Fri, 10 Jul 2026 14:42:43 +0000</pubDate>
+      <guid isPermaLink='false'>2026-07-10T14:42:43Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-07-10 14:42:43</p><p><strong>Compared to:</strong> 20260710_035614_AppCatalog.json (2026-07-10 03:56:14)</p><p>+1 added &nbsp; &minus;0 removed &nbsp; &#x21BA;9 updated</p><h3>Added (1)</h3><ul><li>Mendix Technology B.V. — Mendix Studio Pro 9 <code>9.15.1.48706</code></li></ul><h3>Updated (9)</h3><ul><li>Amazon — Amazon AWS VPN Client &nbsp;<code>5.4.0</code> → <code>5.4.1</code></li><li>Brave Software Inc. — Brave Browser &nbsp;<code>1.91.180</code> → <code>1.92.139</code></li><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.6.1.35236</code> → <code>46.7.0.35381</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.6.1.35236</code> → <code>46.7.0.35381</code></li><li>Jan de Dobbeleer — Oh My Posh &nbsp;<code>29.23.0</code> → <code>29.24.0</code></li><li>ocenaudio — ocenaudio &nbsp;<code>3.19.5</code> → <code>3.20.0</code></li><li>Rocket.Chat Technologies Corp. — Rocket.Chat &nbsp;<code>4.15.2</code> → <code>4.15.3</code></li><li>Siber Systems Inc — GoodSync 12 &nbsp;<code>12.11.4.4</code> → <code>12.11.5.2</code></li><li>Waterfox — Waterfox &nbsp;<code>6.6.16</code> → <code>6.6.16.1</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-07-10 03:56:14 — +0 added, −0 removed, ↺11 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Fri, 10 Jul 2026 03:56:14 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Tue, 16 Jun 2026 05:10:36 +0000</pubDate>
       <guid isPermaLink='false'>2026-06-16T05:10:36Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-06-16 05:10:36</p><p><strong>Compared to:</strong> 20260615_172549_AppCatalog.json (2026-06-15 17:25:49)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;1 updated</p><h3>Updated (1)</h3><ul><li>Docker Inc. — Docker Desktop &nbsp;<code>4.77.0.228796</code> → <code>4.78.0.229452</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-06-15 17:25:49 — +0 added, −0 removed, ↺4 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Mon, 15 Jun 2026 17:25:49 +0000</pubDate>
-      <guid isPermaLink='false'>2026-06-15T17:25:49Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-06-15 17:25:49</p><p><strong>Compared to:</strong> 20260615_050809_AppCatalog.json (2026-06-15 05:08:09)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;4 updated</p><h3>Updated (4)</h3><ul><li>Brave Software Inc. — Brave Browser &nbsp;<code>1.91.171</code> → <code>1.91.172</code></li><li>openaudible.org — OpenAudible &nbsp;<code>4.8.2</code> → <code>4.8.3</code></li><li>Passmark Software — PerformanceTest &nbsp;<code>11.1.1010.0</code> → <code>11.1.1011.0</code></li><li>Stefan Freischlad — Filius &nbsp;<code>2.12.1</code> → <code>2.12.2</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
