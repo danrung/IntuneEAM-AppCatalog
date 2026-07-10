@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260709_152506_AppCatalog.json` (exported 2026-07-09 15:25:06)  
-> **Generated:** 2026-07-09 15:25 UTC  
+> **Source:** `20260710_035614_AppCatalog.json` (exported 2026-07-10 03:56:14)  
+> **Generated:** 2026-07-10 03:56 UTC  
 > **Total:** 1,564 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -57,7 +57,7 @@
 | 49 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
 | 50 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.163.0` | x64 | ❌ | en-US |
 | 51 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.835.0` | x64 | ❌ | en-US |
-| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.43` | x64 | ❌ | en-US |
+| 52 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.45` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 54 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.0.0` | x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.33.0.5939` | x64 | ❌ | en-US |
@@ -220,85 +220,85 @@
 | 212 | Cisco Systems, Inc. | Cisco JVDI Agent 15 | Cisco JVDI Agent 15 | `15.2.1.60904` | x86,x64 | ❌ | en-US |
 | 213 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
 | 214 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
-| 215 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
-| 216 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings | `45.6.4.8` | x86,x64 | ✅ | en-US |
-| 217 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
-| 218 | Cisco Webex LLC | Cisco Webex Productivity Tools | Webex Productivity Tools | `43.6.1.50` | x86,x64 | ❌ | en-US |
-| 219 | Cisco Webex LLC | Cisco WebEx Recorder and Player | WebEx Recorder and Player | `45.6.4.8` | x86,x64 | ❌ | en-US |
-| 220 | Cisco Webex LLC | Cisco WebEx Recording Editor | WebEx Recording Editor | `45.6.4.8` | x86,x64 | ❌ | en-US |
-| 221 | Citrix | Citrix Receiver | Citrix Receiver | `14.12.0.18020` | x86,x64 | ✅ | en-US |
-| 222 | Citrix | Citrix Workspace app | Citrix Workspace app | `26.3.10.69` | x86,x64 | ✅ | en-US |
-| 223 | Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR | `25.7.2000.2020` | x86,x64 | ✅ | en-US |
-| 224 | Clarivate | Endnote 20 | Endnote 20 | `20.6.0.17174` | x86,x64 | ❌ | en-US |
-| 225 | Clarivate | Endnote X8 | Endnote X8 | `18.2.0.11343` | x86,x64 | ❌ | en-US |
-| 226 | Clarivate | Endnote X9 | Endnote X9 | `19.3.3.13966` | x86,x64 | ❌ | en-US |
-| 227 | Class Technologies, Inc. | Class | Class | `2.21.0` | x64 | ❌ | en-US |
-| 228 | Cloak Holdings LLC | Encrypt.me | Encrypt.me | `1.1.3.0` | x86,x64 | ✅ | en-US |
-| 229 | ClockAssist | ClockAssist | ClockAssist | `1.1.9666.14975` | x64 | ❌ | en-US |
-| 230 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.3.0` | x86,x64 | ❌ | en-US |
-| 231 | Cloud Video | Pexip | Pexip | `3.0.14` | x86,x64 | ❌ | en-US |
-| 232 | Cloud Video | Pexip Infinity Connect | Pexip Infinity Connect | `1.14.0` | x86,x64 | ❌ | en-US |
-| 233 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.6.850.0` | x64 | ❌ | en-US |
-| 234 | Cockos Incorporated | REAPER | REAPER (x64) | `7.77` | x64 | ❌ | en-US |
-| 235 | Code Sector | TeraCopy for Windows | TeraCopy for Windows | `4.0.0.26` | x64 | ❌ | en-US |
-| 236 | code4ward.net e.U. | Royal TS 5 | Royal TS 5 | `5.04.60415.0` | x86,x64 | ✅ | en-US |
-| 237 | code4ward.net e.U. | Royal TS 6 | Royal TS 6 | `6.01.61019.0` | x64 | ✅ | en-US |
-| 238 | code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50622.0` | x64 | ✅ | en-US |
-| 239 | Cole Williams Software Limited | Windows 10 Codec Pack | Windows 10 Codec Pack | `2.2.0` | x86,x64 | ❌ | en-US |
-| 240 | Comfort Software Group | Free Countdown Timer | Free Countdown Timer | `5.3.1.0` | x86,x64 | ❌ | en-US |
-| 241 | ComponentAgro B.V. | ComponentAgro CHECK PC2Web | CHECK PC2Web | `7.44.0.0` | x86,x64 | ❌ | nl |
-| 242 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9680.21205` | x86,x64 | ❌ | en-US |
-| 243 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
-| 244 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.20.2` | x64 | ❌ | en-US |
-| 245 | CPUID, Inc | HWMonitor | HWMonitor | `1.64` | x64 | ❌ | en-US |
-| 246 | Creative Force | Creative Force Kelvin | Kelvin | `6.5.0` | x64 | ❌ | en-US |
-| 247 | Creative Force | Creative Force Triad | Triad | `4.4.0` | x64 | ❌ | en-US |
-| 248 | Crestron Electronics, Inc. | Crestron AirMedia app | AirMedia app | `5.11.1.164` | x86,x64 | ❌ | en-US |
-| 249 | Crestron Electronics, Inc. | Crestron AirMedia Peripheral Installer | AirMedia Peripheral Installer | `1.11.1.164` | x86,x64 | ❌ | en-US |
-| 250 | CrisisGo Inc. | CrisisGo App | CrisisGo App | `6.34.2.12397` | x86,x64 | ❌ | en-US |
-| 251 | Daiyuu Nobori, University of Tsukuba, Japan | Win10Pcap | Win10Pcap | `10.2.5002` | x86,x64 | ❌ | en-US |
-| 252 | Dane Prairie Systems | Dane Prairie Systems Win2PDF | Win2PDF | `11.0.8.1` | x64 | ❌ | en-US |
-| 253 | Daniel Girardeau-Montaut | CloudCompare | CloudCompare (x64) | `2.13.2` | x64 | ❌ | en-US |
-| 254 | Datadog | Datadog Agent | Datadog Agent | `7.81.0` | x64 | ❌ | en-US |
-| 255 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.2.45323` | x64 | ❌ | en-US |
-| 256 | DAX Studio | DAX Studio | DAX Studio | `3.5.2.1205` | x64 | ❌ | en-US |
-| 257 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
-| 258 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.1.2` | x64 | ✅ | en-US |
-| 259 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.1.0` | x64 | ✅ | en-US |
-| 260 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.1.0` | x64 | ✅ | en-US |
-| 261 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.1.0` | x64 | ✅ | en-US |
-| 262 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.1` | x64 | ❌ | en-US |
-| 263 | Dedoose | Dedoose Desktop App | Dedoose Desktop App | `10.1.5` | x86,x64 | ❌ | en-US |
-| 264 | Delinea | Delinea Connection Manager | Delinea Connection Manager | `2.8.3.7` | x64 | ❌ | en-US |
-| 265 | Dell, Inc. | Dell Command Update | Dell Command Update (x64) | `5.5.0` | x64 | ✅ | en-US |
-| 266 | Dell, Inc. | Dell Command Update (Windows Universal Application) | Dell Command Update (Windows Universal Application) | `5.5.0` | x64 | ✅ | en-US |
-| 267 | Dell, Inc. | Dell Display Manager | Dell Display Manager | `1.56.2110` | x86,x64 | ❌ | en-US |
-| 268 | Dell, Inc. | Dell EMC System Update | Dell EMC System Update | `1.9.3.0` | x64 | ❌ | en-US |
-| 269 | Dell, Inc. | Dell Peripheral Manager | Dell Peripheral Manager | `1.7.7` | x64 | ❌ | en-US |
-| 270 | Dell, Inc. | Dell SupportAssist | Dell SupportAssist for Business PCs (x64) | `4.5.3.25254` | x64 | ❌ | en-US |
-| 271 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
-| 272 | Dell, Inc. | RVTools | RVTools | `4.8.1` | x86,x64 | ❌ | en-US |
-| 273 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.13.0` | x64 | ✅ | en-US |
-| 274 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.13.0` | x64 | ✅ | en-US |
-| 275 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.13.0` | x64 | ❌ | en-US |
-| 276 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.2.9.0` | x86,x64 | ❌ | en-US |
-| 277 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
-| 278 | DigiDNA SARL | iMazing | iMazing | `3.5.5.0` | x64 | ❌ | en-US |
-| 279 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.2.1` | x64 | ❌ | en-US |
-| 280 | dnGrep | dnGrep | dnGrep (x64) | `4.7.54.0` | x64 | ❌ | en-US |
-| 281 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.81.0.232925` | x64 | ✅ | en-US |
-| 282 | Dominik Reichl | KeePass Password Safe (Classic Edition) | KeePass Password Safe (Classic Edition) | `1.43` | x86,x64 | ✅ | en-US |
-| 283 | Don Ho | Notepad++ | Notepad++ (x64) (EXE) | `8.9.6.4` | x64 | ❌ | en-US |
-| 284 | Don Ho | Notepad++ | Notepad++ (x64) (MSI) | `8.9.6.1` | x64 | ❌ | en-US |
-| 285 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
-| 286 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.6.200` | x64 | ❌ | en-US |
-| 287 | draw.io | draw.io Desktop | draw.io Desktop | `30.2.6` | x64 | ✅ | en-US |
-| 288 | dRofus | dRofus | dRofus | `2.18.10.0` | x86,x64 | ❌ | en-US |
-| 289 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `246.4.3513` | x64 | ✅ | en-US |
-| 290 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `246.4.3513` | x64 | ✅ | en-US |
-| 291 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `8.1.3` | x64 | ❌ | en-US |
-| 292 | DucFabulous | UltraViewer | UltraViewer | `6.6.124` | x86,x64 | ✅ | en-US |
-| 293 | Duo Security Inc. | Duo Desktop | Duo Desktop | `7.19.0.0` | x86,x64 | ✅ | en-US |
+| 215 | Cisco Systems, Inc. | Duo Desktop | Duo Desktop | `7.19.0.0` | x86,x64 | ✅ | en-US |
+| 216 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
+| 217 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings | `45.6.4.8` | x86,x64 | ✅ | en-US |
+| 218 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.6.1.35236` | x64 | ✅ | en-US |
+| 219 | Cisco Webex LLC | Cisco Webex Productivity Tools | Webex Productivity Tools | `43.6.1.50` | x86,x64 | ❌ | en-US |
+| 220 | Cisco Webex LLC | Cisco WebEx Recorder and Player | WebEx Recorder and Player | `45.6.4.8` | x86,x64 | ❌ | en-US |
+| 221 | Cisco Webex LLC | Cisco WebEx Recording Editor | WebEx Recording Editor | `45.6.4.8` | x86,x64 | ❌ | en-US |
+| 222 | Citrix | Citrix Receiver | Citrix Receiver | `14.12.0.18020` | x86,x64 | ✅ | en-US |
+| 223 | Citrix | Citrix Workspace app | Citrix Workspace app | `26.3.10.69` | x86,x64 | ✅ | en-US |
+| 224 | Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR | `25.7.2000.2020` | x86,x64 | ✅ | en-US |
+| 225 | Clarivate | Endnote 20 | Endnote 20 | `20.6.0.17174` | x86,x64 | ❌ | en-US |
+| 226 | Clarivate | Endnote X8 | Endnote X8 | `18.2.0.11343` | x86,x64 | ❌ | en-US |
+| 227 | Clarivate | Endnote X9 | Endnote X9 | `19.3.3.13966` | x86,x64 | ❌ | en-US |
+| 228 | Class Technologies, Inc. | Class | Class | `2.21.0` | x64 | ❌ | en-US |
+| 229 | Cloak Holdings LLC | Encrypt.me | Encrypt.me | `1.1.3.0` | x86,x64 | ✅ | en-US |
+| 230 | ClockAssist | ClockAssist | ClockAssist | `1.1.9666.14975` | x64 | ❌ | en-US |
+| 231 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.3.0` | x86,x64 | ❌ | en-US |
+| 232 | Cloud Video | Pexip | Pexip | `3.0.14` | x86,x64 | ❌ | en-US |
+| 233 | Cloud Video | Pexip Infinity Connect | Pexip Infinity Connect | `1.14.0` | x86,x64 | ❌ | en-US |
+| 234 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.6.850.0` | x64 | ❌ | en-US |
+| 235 | Cockos Incorporated | REAPER | REAPER (x64) | `7.77` | x64 | ❌ | en-US |
+| 236 | Code Sector | TeraCopy for Windows | TeraCopy for Windows | `4.0.0.26` | x64 | ❌ | en-US |
+| 237 | code4ward.net e.U. | Royal TS 5 | Royal TS 5 | `5.04.60415.0` | x86,x64 | ✅ | en-US |
+| 238 | code4ward.net e.U. | Royal TS 6 | Royal TS 6 | `6.01.61019.0` | x64 | ✅ | en-US |
+| 239 | code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50622.0` | x64 | ✅ | en-US |
+| 240 | Cole Williams Software Limited | Windows 10 Codec Pack | Windows 10 Codec Pack | `2.2.0` | x86,x64 | ❌ | en-US |
+| 241 | Comfort Software Group | Free Countdown Timer | Free Countdown Timer | `5.3.1.0` | x86,x64 | ❌ | en-US |
+| 242 | ComponentAgro B.V. | ComponentAgro CHECK PC2Web | CHECK PC2Web | `7.44.0.0` | x86,x64 | ❌ | nl |
+| 243 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9680.21205` | x86,x64 | ❌ | en-US |
+| 244 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
+| 245 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.20.2` | x64 | ❌ | en-US |
+| 246 | CPUID, Inc | HWMonitor | HWMonitor | `1.64` | x64 | ❌ | en-US |
+| 247 | Creative Force | Creative Force Kelvin | Kelvin | `6.5.0` | x64 | ❌ | en-US |
+| 248 | Creative Force | Creative Force Triad | Triad | `4.4.0` | x64 | ❌ | en-US |
+| 249 | Crestron Electronics, Inc. | Crestron AirMedia app | AirMedia app | `5.11.1.164` | x86,x64 | ❌ | en-US |
+| 250 | Crestron Electronics, Inc. | Crestron AirMedia Peripheral Installer | AirMedia Peripheral Installer | `1.11.1.164` | x86,x64 | ❌ | en-US |
+| 251 | CrisisGo Inc. | CrisisGo App | CrisisGo App | `6.34.2.12397` | x86,x64 | ❌ | en-US |
+| 252 | Daiyuu Nobori, University of Tsukuba, Japan | Win10Pcap | Win10Pcap | `10.2.5002` | x86,x64 | ❌ | en-US |
+| 253 | Dane Prairie Systems | Dane Prairie Systems Win2PDF | Win2PDF | `11.0.8.1` | x64 | ❌ | en-US |
+| 254 | Daniel Girardeau-Montaut | CloudCompare | CloudCompare (x64) | `2.13.2` | x64 | ❌ | en-US |
+| 255 | Datadog | Datadog Agent | Datadog Agent | `7.81.0` | x64 | ❌ | en-US |
+| 256 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.2.45323` | x64 | ❌ | en-US |
+| 257 | DAX Studio | DAX Studio | DAX Studio | `3.5.2.1205` | x64 | ❌ | en-US |
+| 258 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
+| 259 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.1.2` | x64 | ✅ | en-US |
+| 260 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.1.0` | x64 | ✅ | en-US |
+| 261 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.1.0` | x64 | ✅ | en-US |
+| 262 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.1.0` | x64 | ✅ | en-US |
+| 263 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.1` | x64 | ❌ | en-US |
+| 264 | Dedoose | Dedoose Desktop App | Dedoose Desktop App | `10.1.5` | x86,x64 | ❌ | en-US |
+| 265 | Delinea | Delinea Connection Manager | Delinea Connection Manager | `2.8.3.7` | x64 | ❌ | en-US |
+| 266 | Dell, Inc. | Dell Command Update | Dell Command Update (x64) | `5.5.0` | x64 | ✅ | en-US |
+| 267 | Dell, Inc. | Dell Command Update (Windows Universal Application) | Dell Command Update (Windows Universal Application) | `5.5.0` | x64 | ✅ | en-US |
+| 268 | Dell, Inc. | Dell Display Manager | Dell Display Manager | `1.56.2110` | x86,x64 | ❌ | en-US |
+| 269 | Dell, Inc. | Dell EMC System Update | Dell EMC System Update | `1.9.3.0` | x64 | ❌ | en-US |
+| 270 | Dell, Inc. | Dell Peripheral Manager | Dell Peripheral Manager | `1.7.7` | x64 | ❌ | en-US |
+| 271 | Dell, Inc. | Dell SupportAssist | Dell SupportAssist for Business PCs (x64) | `4.5.3.25254` | x64 | ❌ | en-US |
+| 272 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
+| 273 | Dell, Inc. | RVTools | RVTools | `4.8.1` | x86,x64 | ❌ | en-US |
+| 274 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.13.0` | x64 | ✅ | en-US |
+| 275 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.13.0` | x64 | ✅ | en-US |
+| 276 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.13.0` | x64 | ❌ | en-US |
+| 277 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.2.9.0` | x86,x64 | ❌ | en-US |
+| 278 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
+| 279 | DigiDNA SARL | iMazing | iMazing | `3.5.5.0` | x64 | ❌ | en-US |
+| 280 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.2.1` | x64 | ❌ | en-US |
+| 281 | dnGrep | dnGrep | dnGrep (x64) | `4.7.54.0` | x64 | ❌ | en-US |
+| 282 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.81.0.232925` | x64 | ✅ | en-US |
+| 283 | Dominik Reichl | KeePass Password Safe (Classic Edition) | KeePass Password Safe (Classic Edition) | `1.43` | x86,x64 | ✅ | en-US |
+| 284 | Don Ho | Notepad++ | Notepad++ (x64) (EXE) | `8.9.6.4` | x64 | ❌ | en-US |
+| 285 | Don Ho | Notepad++ | Notepad++ (x64) (MSI) | `8.9.6.1` | x64 | ❌ | en-US |
+| 286 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
+| 287 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.6.200` | x64 | ❌ | en-US |
+| 288 | draw.io | draw.io Desktop | draw.io Desktop | `30.2.6` | x64 | ✅ | en-US |
+| 289 | dRofus | dRofus | dRofus | `2.18.10.0` | x86,x64 | ❌ | en-US |
+| 290 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `246.4.3513` | x64 | ✅ | en-US |
+| 291 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `246.4.3513` | x64 | ✅ | en-US |
+| 292 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `8.1.3` | x64 | ❌ | en-US |
+| 293 | DucFabulous | UltraViewer | UltraViewer | `6.6.124` | x86,x64 | ✅ | en-US |
 | 294 | Dutchview | FlexWhere for Desktop | FlexWhere for Desktop | `3.5` | x64 | ❌ | en-US |
 | 295 | Duxbury Systems | Perky Duck | Perky Duck | `12.7` | x86,x64 | ❌ | en-US |
 | 296 | DYMO | DYMO ID | DYMO ID | `1.5.1` | x86,x64 | ❌ | en-US |
@@ -330,7 +330,7 @@
 | 322 | Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.1.0.180` | x86,x64 | ✅ | en-US |
 | 323 | Egnyte, Inc. | Egnyte WebEdit | Egnyte WebEdit | `2.4.1400.90` | x86,x64 | ❌ | en-US |
 | 324 | EIZO | Screen InStyle | Screen InStyle | `1.1.18` | x86,x64 | ❌ | en-US |
-| 325 | ej-technologies GmbH | Install4j | Install4j (x64) | `12.0.4` | x64 | ❌ | en-US |
+| 325 | ej-technologies GmbH | Install4j | Install4j (x64) | `13.0.1` | x64 | ❌ | en-US |
 | 326 | ej-technologies GmbH | JProfiler | JProfiler 10 | `10.1.5` | x64 | ❌ | en-US |
 | 327 | ej-technologies GmbH | JProfiler | JProfiler | `16.1.1` | x64 | ❌ | en-US |
 | 328 | ej-technologies GmbH | JProfiler | JProfiler 13 | `13.0.7` | x64 | ❌ | en-US |
@@ -375,8 +375,8 @@
 | 367 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.5.24109` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 369 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 370 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
-| 371 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 370 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 371 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 372 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.5.24109` | x86,x64 | ✅ | en-US |
 | 373 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.5.24109` | x86,x64 | ✅ | mul |
 | 374 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x86) (MSI) | `2025.2.0.33046` | x86,x64 | ✅ | mul |
@@ -454,7 +454,7 @@
 | 446 | Iceni Technology Ltd. | Infix PDF Editor | Infix PDF Editor | `7.7.0.0` | x86,x64 | ❌ | en-US |
 | 447 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `13.6.3` | x64 | ❌ | en-US |
 | 448 | Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `12.6.2` | x64 | ❌ | en-US |
-| 449 | IDM Computer Solutions | UEStudio | UEStudio | `25.2.24` | x64 | ❌ | en-US |
+| 449 | IDM Computer Solutions | UEStudio | UEStudio | `26.0.23` | x64 | ❌ | en-US |
 | 450 | IDM Computer Solutions | UltraCompare | UltraCompare (x64) | `24.1.5` | x64 | ❌ | en-US |
 | 451 | IDM Computer Solutions | UltraFinder | UltraFinder | `24.0.17` | x64 | ❌ | en-US |
 | 452 | IDM Computer Solutions | UltraFTP | UltraFTP | `23.0.36` | x64 | ❌ | en-US |
@@ -466,7 +466,7 @@
 | 458 | Inkscape | Inkscape | Inkscape (x64) | `1.4` | x64 | ❌ | en-US |
 | 459 | Inmatrix | Zoom Player | Zoom Player | `22.5` | x86,x64 | ❌ | en-US |
 | 460 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.5` | x86,x64 | ❌ | en-US |
-| 461 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.30.53.0` | x64 | ❌ | en-US |
+| 461 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.31.37.0` | x64 | ❌ | en-US |
 | 462 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.920.0` | x86,x64 | ❌ | en-US |
 | 463 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.920.0` | x86,x64 | ❌ | en-US |
 | 464 | InterPromo GMBH | 4K Video Downloader | 4K Video Downloader (x64) | `4.33.5` | x64 | ❌ | en-US |
@@ -546,12 +546,12 @@
 | 538 | KPN | KPN Desktop Integratie | KPN Desktop Integratie | `4.7.0.9749` | x64 | ❌ | nl |
 | 539 | Krisp | Krisp | Krisp 2.x | `2.57.13` | x64 | ❌ | en-US |
 | 540 | Krisp | Krisp | Krisp 1.x (Legacy) | `1.52.5` | x64 | ❌ | en-US |
-| 541 | Krisp | Krisp | Krisp 3.x | `3.13.8` | x64 | ❌ | en-US |
+| 541 | Krisp | Krisp | Krisp 3.x | `3.13.12` | x64 | ❌ | en-US |
 | 542 | Krita Foundation | Krita | Krita (x64) | `5.3.2.1` | x64 | ❌ | en-US |
 | 543 | KUBUS BV | BCF Manager for Tekla | BCF Manager for Tekla | `6.2.16` | x64 | ❌ | en-US |
 | 544 | Lansweeper | Lansweeper | Lansweeper | `12.8.1.3` | x86,x64 | ❌ | en-US |
-| 545 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `7.70.12` | x64 | ❌ | en-US |
-| 546 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool | `7.48.9` | x86,x64 | ❌ | en-US |
+| 545 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool | `7.48.9` | x86,x64 | ❌ | en-US |
+| 546 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `7.71.13` | x64 | ❌ | en-US |
 | 547 | LastPass | LastPass | LastPass | `5.1.0.1209` | x64 | ❌ | en-US |
 | 548 | Laurent Cozic | Joplin | Joplin | `3.6.15` | x64 | ❌ | en-US |
 | 549 | LEGO | LEGO Education SPIKE | LEGO Education SPIKE | `3.6.0` | x64 | ❌ | en-US |
@@ -1093,10 +1093,10 @@
 | 1085 | Node.js Foundation | Node.js 20 LTS | Node.js 20 LTS (x64) | `20.20.1` | x64 | ❌ | en-US |
 | 1086 | Node.js Foundation | Node.js 21 | Node.js 21 (x64) | `21.7.3` | x64 | ❌ | en-US |
 | 1087 | Node.js Foundation | Node.js 22 LTS | Node.js 22 LTS (x64) | `22.22.2` | x64 | ❌ | en-US |
-| 1088 | NoMachine | NoMachine | NoMachine (x64) | `9.7.3` | x64 | ❌ | en-US |
-| 1089 | NoMachine | NoMachine Enterprise Client | NoMachine Enterprise Client (x64) | `9.7.3` | x64 | ❌ | en-US |
-| 1090 | NoMachine | NoMachine Enterprise Desktop | NoMachine Enterprise Desktop (x64) | `9.7.3` | x64 | ❌ | en-US |
-| 1091 | NoMachine | NoMachine Fonts Others | NoMachine Fonts Others (x64) | `9.7.3` | x64 | ❌ | en-US |
+| 1088 | NoMachine | NoMachine | NoMachine (x64) | `9.8.2` | x64 | ❌ | en-US |
+| 1089 | NoMachine | NoMachine Enterprise Client | NoMachine Enterprise Client (x64) | `9.8.2` | x64 | ❌ | en-US |
+| 1090 | NoMachine | NoMachine Enterprise Desktop | NoMachine Enterprise Desktop (x64) | `9.8.2` | x64 | ❌ | en-US |
+| 1091 | NoMachine | NoMachine Fonts Others | NoMachine Fonts Others (x64) | `9.8.2` | x64 | ❌ | en-US |
 | 1092 | NordVPN | NordLayer | NordLayer | `3.9.0.0` | x86,x64 | ❌ | en-US |
 | 1093 | Nutanix Inc. | Frame App | Frame App | `7.10.3` | x64 | ❌ | en-US |
 | 1094 | NV Access Limited | NV Access NVDA | NVDA | `2026.1.1` | x64 | ❌ | en-US |
@@ -1299,7 +1299,7 @@
 | 1291 | Semeru | IBM Semeru Runtime Open Edition JRE 20 | IBM Semeru Runtime Open Edition JRE 20 | `20.0.2.9` | x64 | ❌ | en-US |
 | 1292 | Semeru | IBM Semeru Runtime Open Edition JRE 22 | IBM Semeru Runtime Open Edition JRE 22 | `22.0.2.9` | x64 | ❌ | en-US |
 | 1293 | Semeru | IBM Semeru Runtime Open Edition JRE 8 (LTS) | IBM Semeru Runtime Open Edition JRE 8 (LTS) (x64) | `8.0.482.8` | x64 | ❌ | en-US |
-| 1294 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.30.53.0` | x64 | ❌ | en-US |
+| 1294 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.31.37.0` | x64 | ❌ | en-US |
 | 1295 | Shotcut | Shotcut | Shotcut (x64) | `26.6.25` | x64 | ❌ | en-US |
 | 1296 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.4.4` | x64 | ✅ | en-US |
 | 1297 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.4.4` | x64 | ✅ | en-US |

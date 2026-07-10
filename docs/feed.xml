@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 09 Jul 2026 15:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 03:56:14 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-07-10 03:56:14 — +0 added, −0 removed, ↺11 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Fri, 10 Jul 2026 03:56:14 +0000</pubDate>
+      <guid isPermaLink='false'>2026-07-10T03:56:14Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-07-10 03:56:14</p><p><strong>Compared to:</strong> 20260709_152506_AppCatalog.json (2026-07-09 15:25:06)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;11 updated</p><h3>Updated (11)</h3><ul><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.43</code> → <code>1.45.45</code></li><li>ej-technologies GmbH — Install4j &nbsp;<code>12.0.4</code> → <code>13.0.1</code></li><li>IDM Computer Solutions — UEStudio &nbsp;<code>25.2.24</code> → <code>26.0.23</code></li><li>Intermedia.net, Inc. — Intermedia Unite &nbsp;<code>2.30.53.0</code> → <code>2.31.37.0</code></li><li>Krisp — Krisp &nbsp;<code>3.13.8</code> → <code>3.13.12</code></li><li>Lark Technologies Pte. Ltd. — Lark Deployment Tool &nbsp;<code>7.70.12</code> → <code>7.71.13</code></li><li>NoMachine — NoMachine &nbsp;<code>9.7.3</code> → <code>9.8.2</code></li><li>NoMachine — NoMachine Enterprise Client &nbsp;<code>9.7.3</code> → <code>9.8.2</code></li><li>NoMachine — NoMachine Enterprise Desktop &nbsp;<code>9.7.3</code> → <code>9.8.2</code></li><li>NoMachine — NoMachine Fonts Others &nbsp;<code>9.7.3</code> → <code>9.8.2</code></li><li>Serverdata.net, Inc. — Elevate UC &nbsp;<code>2.30.53.0</code> → <code>2.31.37.0</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-07-09 15:25:06 — +0 added, −0 removed, ↺9 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Thu, 09 Jul 2026 15:25:06 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Mon, 15 Jun 2026 17:25:49 +0000</pubDate>
       <guid isPermaLink='false'>2026-06-15T17:25:49Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-06-15 17:25:49</p><p><strong>Compared to:</strong> 20260615_050809_AppCatalog.json (2026-06-15 05:08:09)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;4 updated</p><h3>Updated (4)</h3><ul><li>Brave Software Inc. — Brave Browser &nbsp;<code>1.91.171</code> → <code>1.91.172</code></li><li>openaudible.org — OpenAudible &nbsp;<code>4.8.2</code> → <code>4.8.3</code></li><li>Passmark Software — PerformanceTest &nbsp;<code>11.1.1010.0</code> → <code>11.1.1011.0</code></li><li>Stefan Freischlad — Filius &nbsp;<code>2.12.1</code> → <code>2.12.2</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-06-15 05:08:09 — +0 added, −0 removed, ↺0 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Mon, 15 Jun 2026 05:08:09 +0000</pubDate>
-      <guid isPermaLink='false'>2026-06-15T05:08:09Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-06-15 05:08:09</p><p><strong>Compared to:</strong> 20260614_141914_AppCatalog.json (2026-06-14 14:19:14)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
     </item>
   </channel>
 </rss>
