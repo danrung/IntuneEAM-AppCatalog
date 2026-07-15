@@ -1,7 +1,7 @@
 # App Catalog Statistics
 
-> **Source:** `20260715_025615_AppCatalog.json` (exported 2026-07-15 02:56:15)  
-> **Generated:** 2026-07-15 02:56 UTC
+> **Source:** `20260715_135641_AppCatalog.json` (exported 2026-07-15 13:56:41)  
+> **Generated:** 2026-07-15 13:57 UTC
 
 ## Summary
 
@@ -28,8 +28,8 @@
 | 5 | PaperCut Software Pty Ltd | 32 | 2.0% |
 | 6 | Rarlab | 30 | 1.9% |
 | 7 | Eclipse Foundation | 23 | 1.5% |
-| 8 | Blender Foundation | 21 | 1.3% |
-| 9 | Azul Systems, Inc. | 21 | 1.3% |
+| 8 | Azul Systems, Inc. | 21 | 1.3% |
+| 9 | Blender Foundation | 21 | 1.3% |
 | 10 | Foxit Software | 20 | 1.3% |
 
 ## Architecture Breakdown
