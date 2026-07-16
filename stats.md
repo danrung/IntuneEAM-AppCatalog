@@ -1,18 +1,18 @@
 # App Catalog Statistics
 
-> **Source:** `20260715_135641_AppCatalog.json` (exported 2026-07-15 13:56:41)  
-> **Generated:** 2026-07-15 13:57 UTC
+> **Source:** `20260716_031827_AppCatalog.json` (exported 2026-07-16 03:18:27)  
+> **Generated:** 2026-07-16 03:18 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|------:|
-| Total Packages | **1,567** |
+| Total Packages | **1,568** |
 | Unique Apps (Publisher + Name) | 929 |
 | Unique Products (by Product ID) | 928 |
 | Publishers | 496 |
 | Auto-Update Capable | 367 (23.4%) |
-| Not Auto-Update Capable | 1,200 (76.6%) |
+| Not Auto-Update Capable | 1,201 (76.6%) |
 | Available Locales | 65 |
 | Multi-Locale Packages | 0 |
 | Packages Without Architecture | 0 |
@@ -28,15 +28,15 @@
 | 5 | PaperCut Software Pty Ltd | 32 | 2.0% |
 | 6 | Rarlab | 30 | 1.9% |
 | 7 | Eclipse Foundation | 23 | 1.5% |
-| 8 | Azul Systems, Inc. | 21 | 1.3% |
-| 9 | Blender Foundation | 21 | 1.3% |
+| 8 | Blender Foundation | 22 | 1.4% |
+| 9 | Azul Systems, Inc. | 21 | 1.3% |
 | 10 | Foxit Software | 20 | 1.3% |
 
 ## Architecture Breakdown
 
 | Architecture | Packages | Share |
 |--------------|--------:|------:|
-| x64 | 1,258 | 80.3% |
+| x64 | 1,259 | 80.3% |
 | x86,x64 | 309 | 19.7% |
 
 ## Available Locales
