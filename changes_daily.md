@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260717_032123_AppCatalog.json` (exported 2026-07-17 03:21:23)  
+> **Comparing:** `20260717_135201_AppCatalog.json` (exported 2026-07-17 13:52:01)  
 > **vs:** `20260716_031827_AppCatalog.json` (exported 2026-07-16 03:18:27)  
-> **Generated:** 2026-07-17 03:21 UTC
+> **Generated:** 2026-07-17 13:52 UTC
 
 ## Summary
 
@@ -10,15 +10,18 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 9 |
+| 🔄 Updated (version change) | 12 |
 
-## 🔄 Updated (9 packages)
+## 🔄 Updated (12 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Brazilian Portuguese) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
 | Benthic Software | ImpExpPro | ImpExpPro (x64) | `1.2.0.130` | `1.3.0.132` | x64 |
+| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.92.139` | `1.92.140` | x64 |
 | BrowserStack | BrowserStackLocal | BrowserStackLocal | `3.7.6` | `3.7.7` | x86,x64 |
+| Cake.com Inc. | Clockify | Clockify | `2.2.2` | `2.2.3` | x64 |
+| EPOS Group A/S | EPOS Connect | EPOS Connect | `8.5.0.51443` | `8.6.0.52050` | x86,x64 |
 | Mendeley Ltd | Mendeley Reference Manager | Mendeley Reference Manager | `2.146.1.336` | `2.148.0.341` | x64 |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.128.1` | `1.129.0` | x64 |
 | Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.15.4` | `4.15.5` | x64 |
