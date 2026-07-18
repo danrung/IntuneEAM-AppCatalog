@@ -1,18 +1,18 @@
 # App Catalog Statistics
 
-> **Source:** `20260717_135201_AppCatalog.json` (exported 2026-07-17 13:52:01)  
-> **Generated:** 2026-07-17 13:52 UTC
+> **Source:** `20260718_031048_AppCatalog.json` (exported 2026-07-18 03:10:48)  
+> **Generated:** 2026-07-18 03:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|------:|
-| Total Packages | **1,568** |
+| Total Packages | **1,569** |
 | Unique Apps (Publisher + Name) | 929 |
 | Unique Products (by Product ID) | 928 |
 | Publishers | 496 |
 | Auto-Update Capable | 367 (23.4%) |
-| Not Auto-Update Capable | 1,201 (76.6%) |
+| Not Auto-Update Capable | 1,202 (76.6%) |
 | Available Locales | 65 |
 | Multi-Locale Packages | 0 |
 | Packages Without Architecture | 0 |
@@ -24,7 +24,7 @@
 | 1 | Mozilla | 256 | 16.3% |
 | 2 | Microsoft | 183 | 11.7% |
 | 3 | The Document Foundation | 59 | 3.8% |
-| 4 | JetBrains | 45 | 2.9% |
+| 4 | JetBrains | 46 | 2.9% |
 | 5 | PaperCut Software Pty Ltd | 32 | 2.0% |
 | 6 | Rarlab | 30 | 1.9% |
 | 7 | Eclipse Foundation | 23 | 1.5% |
@@ -36,7 +36,7 @@
 
 | Architecture | Packages | Share |
 |--------------|--------:|------:|
-| x64 | 1,259 | 80.3% |
+| x64 | 1,260 | 80.3% |
 | x86,x64 | 309 | 19.7% |
 
 ## Available Locales
