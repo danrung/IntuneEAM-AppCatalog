@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 20 Jul 2026 03:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 14:22:04 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-07-20 14:22:04 — +0 added, −0 removed, ↺1 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Mon, 20 Jul 2026 14:22:04 +0000</pubDate>
+      <guid isPermaLink='false'>2026-07-20T14:22:04Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-07-20 14:22:04</p><p><strong>Compared to:</strong> 20260720_034505_AppCatalog.json (2026-07-20 03:45:05)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;1 updated</p><h3>Updated (1)</h3><ul><li>Code Sector — TeraCopy for Windows &nbsp;<code>4.0.0.37</code> → <code>4.0.3.2</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-07-20 03:45:05 — +0 added, −0 removed, ↺0 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Mon, 20 Jul 2026 03:45:05 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Fri, 26 Jun 2026 04:16:48 +0000</pubDate>
       <guid isPermaLink='false'>2026-06-26T04:16:48Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-06-26 04:16:48</p><p><strong>Compared to:</strong> 20260625_144531_AppCatalog.json (2026-06-25 14:45:31)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;8 updated</p><h3>Updated (8)</h3><ul><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.6.0.35178</code> → <code>46.6.1.35236</code></li><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.5.0.35006</code> → <code>46.6.1.35236</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.5.0.35006</code> → <code>46.6.1.35236</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.5.0.35006</code> → <code>46.6.1.35236</code></li><li>Cloud Software Group, Inc. — XenCenter &nbsp;<code>2026.2.1</code> → <code>2026.3.0</code></li><li>Freedom Scientific — Fusion &nbsp;<code>2026.2603.31.400</code> → <code>2026.2606.27.400</code></li><li>Lark Technologies Pte. Ltd. — Lark Deployment Tool &nbsp;<code>7.68.7</code> → <code>7.70.11</code></li><li>Sejda BV — Sejda PDF Desktop &nbsp;<code>7.9.5</code> → <code>7.9.6</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-06-25 14:45:31 — +0 added, −0 removed, ↺12 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Thu, 25 Jun 2026 14:45:31 +0000</pubDate>
-      <guid isPermaLink='false'>2026-06-25T14:45:31Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-06-25 14:45:31</p><p><strong>Compared to:</strong> 20260625_041011_AppCatalog.json (2026-06-25 04:10:11)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;12 updated</p><h3>Updated (12)</h3><ul><li>8x8 Inc. — 8x8 Work &nbsp;<code>8.33.2.2</code> → <code>8.34.1.11</code></li><li>Arduino — Arduino IDE &nbsp;<code>2.3.9</code> → <code>2.3.10</code></li><li>Brave Software Inc. — Brave Browser &nbsp;<code>1.91.175</code> → <code>1.91.178</code></li><li>Duo Security Inc. — Duo Desktop &nbsp;<code>7.18.0.0</code> → <code>7.19.0.0</code></li><li>Evernote — Evernote &nbsp;<code>11.21.5</code> → <code>11.22.4</code></li><li>Google — Google Drive &nbsp;<code>125.0.0.0</code> → <code>127.0.1.0</code></li><li>Microsoft — Azure Functions Core Tools &nbsp;<code>4.12.0</code> → <code>4.12.1</code></li><li>Salesforce — Salesforce CLI sf v2 &nbsp;<code>2.139.6</code> → <code>2.140.6</code></li><li>Sejda BV — Sejda PDF Desktop &nbsp;<code>7.9.3</code> → <code>7.9.5</code></li><li>Visual Paradigm International Ltd — Visual Paradigm Project Viewer &nbsp;<code>18.0.0.0</code> → <code>18.1.0.0</code></li><li>Zello Inc. — Zello &nbsp;<code>18.6.1.0</code> → <code>18.7.0.0</code></li><li>Zoom Video Communications, Inc. — Zoom Workplace &nbsp;<code>7.0.38856</code> → <code>7.1.41345</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
