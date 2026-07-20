@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260719_133831_AppCatalog.json` (exported 2026-07-19 13:38:31)  
-> **Generated:** 2026-07-19 13:39 UTC  
+> **Source:** `20260720_034505_AppCatalog.json` (exported 2026-07-20 03:45:05)  
+> **Generated:** 2026-07-20 03:45 UTC  
 > **Total:** 1,569 packages · 928 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -377,8 +377,8 @@
 | 369 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.5.24109` | x86,x64 | ✅ | en-US |
 | 370 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 371 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 372 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
-| 373 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 372 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
+| 373 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
 | 374 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.5.24109` | x86,x64 | ✅ | en-US |
 | 375 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.5.24109` | x86,x64 | ✅ | mul |
 | 376 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x86) (MSI) | `2025.2.0.33046` | x86,x64 | ✅ | mul |
@@ -773,11 +773,11 @@
 | 765 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 766 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 767 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
-| 768 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 769 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 770 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
-| 771 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
-| 772 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37502.11` | x64 | ❌ | en-US |
+| 768 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37502.11` | x64 | ❌ | en-US |
+| 769 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
+| 770 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
+| 771 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
+| 772 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
 | 773 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 774 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.129.0` | x64 | ✅ | en-US |
 | 775 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37502.11` | x64 | ❌ | en-US |
