@@ -1,8 +1,8 @@
 # Catalog Changes — Last 7 Days
 
-> **Comparing:** `20260721_032424_AppCatalog.json` (exported 2026-07-21 03:24:24)  
-> **vs:** `20260714_031231_AppCatalog.json` (exported 2026-07-14 03:12:31)  
-> **Generated:** 2026-07-21 03:24 UTC
+> **Comparing:** `20260721_140806_AppCatalog.json` (exported 2026-07-21 14:08:06)  
+> **vs:** `20260714_135934_AppCatalog.json` (exported 2026-07-14 13:59:34)  
+> **Generated:** 2026-07-21 14:08 UTC
 
 ## Summary
 
@@ -29,17 +29,17 @@
 | 3Dflow srl | 3DF Zephyr Free | 3DF Zephyr Free version | `8.038` | `9.001` | x64 |
 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.47` | `1.45.51` | x64 |
 | AnyDesk Software GmbH | AnyDesk | AnyDesk (EXE) | `9.7.2` | `9.7.10` | x86,x64 |
-| Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Polish) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Brazilian Portuguese) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
-| Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Korean) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Simplified Chinese) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
+| Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (English) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
+| Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (German) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
+| Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Italian) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
+| Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Polish) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
+| Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Korean) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Russian) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Spanish) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (French) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
-| Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Italian) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
-| Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (German) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Japanese) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
-| Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (English) (x64) | `15.0.2.10` | `15.3.0.5` | x64 |
 | Bandisoft | BandiView | BandiView | `7.27` | `7.28` | x64 |
 | Benthic Software | ImpExpPro | ImpExpPro (x64) | `1.2.0.130` | `1.3.0.132` | x64 |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.92.139` | `1.92.141` | x64 |
@@ -54,8 +54,8 @@
 | Creative Force | Creative Force Kelvin | Kelvin | `6.5.0` | `6.6.0` | x64 |
 | Datadog | Datadog Agent | Datadog Agent | `7.81.0` | `7.81.1` | x64 |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.1.2` | `26.1.3` | x64 |
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.13.0` | `2026.2.14.0` | x64 |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.13.0` | `2026.2.14.0` | x64 |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.13.0` | `2026.2.14.0` | x64 |
 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.13.0` | `2026.2.14.0` | x64 |
 | dnGrep | dnGrep | dnGrep (x64) | `4.7.54.0` | `5.0.30.0` | x64 |
 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.81.0.232925` | `4.83.0.234302` | x64 |
@@ -80,63 +80,63 @@
 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.315` | `9.0.316` | x64 |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `151.0.4129.21` | `152.0.4148.0` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37411.7` | `17.14.37502.11` | x64 |
-| Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37328.8` | `17.12.37502.7` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37411.7` | `17.14.37502.11` | x64 |
-| Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37328.8` | `17.12.37502.7` | x64 |
+| Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37328.8` | `17.12.37502.7` | x64 |
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37411.7` | `17.14.37502.11` | x64 |
+| Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37328.8` | `17.12.37502.7` | x64 |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.128.0` | `1.129.1` | x64 |
 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37411.7` | `17.14.37502.11` | x64 |
 | Mitel Networks Corporation | Mitel miCollab | Mitel miCollab | `10.2.106` | `10.3.8` | x64 |
 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.49.11` | `1.49.12` | x64 |
 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.11` | `1.49.12` | x64 |
 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.11` | `1.49.12` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `152.0.5` | `152.0.6` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `152.0.5` | `152.0.6` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `152.0.5` | `152.0.6` | x64 |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `152.0.5` | `152.0.6` | x64 |
 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `152.0.5` | `152.0.6` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `152.0.5` | `152.0.6` | x64 |
 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.76.0` | `1.78.0` | x64 |
 | NordVPN | NordLayer | NordLayer | `3.9.0.0` | `3.10.0.0` | x86,x64 |
 | Plex | Plex Media Server | Plex Media Server (x64) | `1.43.2.10687` | `1.43.3.10828` | x64 |
