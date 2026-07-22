@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 21 Jul 2026 14:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 03:22:52 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-07-22 03:22:52 — +0 added, −0 removed, ↺114 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Wed, 22 Jul 2026 03:22:52 +0000</pubDate>
+      <guid isPermaLink='false'>2026-07-22T03:22:52Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-07-22 03:22:52</p><p><strong>Compared to:</strong> 20260721_140806_AppCatalog.json (2026-07-21 14:08:06)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;114 updated</p><h3>Updated (114)</h3><ul><li>Amazon — Amazon AWS VPN Client &nbsp;<code>5.4.1</code> → <code>5.4.2</code></li><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.51</code> → <code>1.45.53</code></li><li>Ben Olden-Cooligan — NAPS2 &nbsp;<code>8.2.1</code> → <code>8.3.1</code></li><li>Blender Foundation — Blender &nbsp;<code>4.2.22</code> → <code>4.2.23</code></li><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.7.0.35381</code> → <code>46.7.0.35472</code></li><li>Cisco Systems, Inc. — Cisco Webex Teams &nbsp;<code>46.7.0.35381</code> → <code>46.7.0.35472</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.7.0.35381</code> → <code>46.7.0.35472</code></li><li>Cisco Webex LLC — Cisco Webex Meetings &nbsp;<code>46.7.0.35381</code> → <code>46.7.0.35472</code></li><li>code4ward.net e.U. — Royal TS 7 &nbsp;<code>7.04.50622.0</code> → <code>7.04.50721.0</code></li><li>CoolUtils — Mail Viewer &nbsp;<code>7.1.9693.42468</code> → <code>7.1.9698.1991</code></li><li>Evernote — Evernote &nbsp;<code>11.25.6</code> → <code>11.26.4</code></li><li>Garmin — Garmin Express &nbsp;<code>7.29.0.0</code> → <code>7.29.1.0</code></li><li>General Workings, Inc. — General Workings Streamlabs OBS &nbsp;<code>1.21.7</code> → <code>1.21.8</code></li><li>Genesys — Genesys Cloud &nbsp;<code>2.51.916</code> → <code>2.52.919</code></li><li>Genesys — Genesys Cloud Background Assistant &nbsp;<code>1.7.468</code> → <code>1.7.481</code></li><li>Microsoft — Microsoft Edge Beta &nbsp;<code>151.0.4129.21</code> → <code>151.0.4129.35</code></li><li>Microsoft — Microsoft Edge Dev &nbsp;<code>152.0.4148.0</code> → <code>152.0.4167.0</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.6</code> → <code>153.0</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.6</code> → <code>153.0</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.6</code> → <code>153.0</code></li><li>… and 94 more</li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-07-21 14:08:06 — +0 added, −0 removed, ↺0 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Tue, 21 Jul 2026 14:08:06 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Sat, 27 Jun 2026 13:57:13 +0000</pubDate>
       <guid isPermaLink='false'>2026-06-27T13:57:13Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-06-27 13:57:13</p><p><strong>Compared to:</strong> 20260627_040250_AppCatalog.json (2026-06-27 04:02:50)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;2 updated</p><h3>Updated (2)</h3><ul><li>Beyond Identity — Beyond Identity &nbsp;<code>2.111.2.1</code> → <code>2.112.0.11</code></li><li>Exacq Technologies — exacqVision Client &nbsp;<code>26.0.11.0</code> → <code>26.1.4.0</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-06-27 04:02:50 — +0 added, −0 removed, ↺42 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Sat, 27 Jun 2026 04:02:50 +0000</pubDate>
-      <guid isPermaLink='false'>2026-06-27T04:02:50Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-06-27 04:02:50</p><p><strong>Compared to:</strong> 20260626_143744_AppCatalog.json (2026-06-26 14:37:44)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;42 updated</p><h3>Updated (42)</h3><ul><li>draw.io — draw.io Desktop &nbsp;<code>30.2.4</code> → <code>30.2.6</code></li><li>Google — Google Chrome for Business &nbsp;<code>149.0.7827.197</code> → <code>149.0.7827.201</code></li><li>Jan de Dobbeleer — Oh My Posh &nbsp;<code>29.18.0</code> → <code>29.19.0</code></li><li>Kandra Labs, Inc. — Zulip &nbsp;<code>5.12.3</code> → <code>5.12.4</code></li><li>Kovid Goyal — Calibre &nbsp;<code>9.9.0</code> → <code>9.10.0</code></li><li>Lark Technologies Pte. Ltd. — Lark Deployment Tool &nbsp;<code>7.70.11</code> → <code>7.70.12</code></li><li>Microsoft — Microsoft PowerToys &nbsp;<code>0.100.1</code> → <code>0.100.2</code></li><li>Microsoft — Microsoft PowerToys &nbsp;<code>0.100.1</code> → <code>0.100.2</code></li><li>Mirantis, Inc — Lens Desktop &nbsp;<code>2026.6.231104</code> → <code>2026.6.260931</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.2</code> → <code>152.0.3</code></li><li>… and 22 more</li></ul>]]></description>
     </item>
   </channel>
 </rss>
