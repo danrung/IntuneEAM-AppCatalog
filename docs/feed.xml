@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 24 Jul 2026 03:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 13:58:46 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-07-24 13:58:46 — +1 added, −0 removed, ↺4 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Fri, 24 Jul 2026 13:58:46 +0000</pubDate>
+      <guid isPermaLink='false'>2026-07-24T13:58:46Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-07-24 13:58:46</p><p><strong>Compared to:</strong> 20260724_032356_AppCatalog.json (2026-07-24 03:23:56)</p><p>+1 added &nbsp; &minus;0 removed &nbsp; &#x21BA;4 updated</p><h3>Added (1)</h3><ul><li>SURF — SURF eduVPN Client <code>4.6.1.0</code></li></ul><h3>Updated (4)</h3><ul><li>Articulate — Articulate 360 &nbsp;<code>1.122.37508.0</code> → <code>1.122.37526.0</code></li><li>BrowserStack — BrowserStackLocal &nbsp;<code>3.7.7</code> → <code>3.7.8</code></li><li>DigiDNA SARL — iMazing &nbsp;<code>3.5.5.0</code> → <code>3.6.0.1</code></li><li>SURF — SURF eduVPN Client &nbsp;<code>4.6</code> → <code>4.6.1</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-07-24 03:23:56 — +0 added, −0 removed, ↺21 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Fri, 24 Jul 2026 03:23:56 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Tue, 30 Jun 2026 04:11:25 +0000</pubDate>
       <guid isPermaLink='false'>2026-06-30T04:11:25Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-06-30 04:11:25</p><p><strong>Compared to:</strong> 20260629_155855_AppCatalog.json (2026-06-29 15:58:55)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;20 updated</p><h3>Updated (20)</h3><ul><li>Brave Software Inc. — Brave Browser &nbsp;<code>1.91.178</code> → <code>1.91.180</code></li><li>Devolutions inc — Devolutions Launcher &nbsp;<code>2026.2.11.0</code> → <code>2026.2.12.0</code></li><li>Devolutions inc — Devolutions Launcher &nbsp;<code>2026.1.23.0</code> → <code>2026.2.12.0</code></li><li>dRofus — dRofus &nbsp;<code>2.18.6.0</code> → <code>2.18.7.0</code></li><li>GFI Software — Kerio Connect &nbsp;<code>10.0.9.10051</code> → <code>10.0.9.10320</code></li><li>Microsoft — Microsoft Edge Beta &nbsp;<code>150.0.4078.28</code> → <code>150.0.4078.38</code></li><li>Microsoft — Microsoft OneDrive &nbsp;<code>26.098.0524.0004</code> → <code>26.106.0603.0003</code></li><li>NEC Platforms, Ltd. — UNIVERGE BLUE CONNECT &nbsp;<code>2.28.26</code> → <code>2.30.90</code></li><li>Nextcloud — Nextcloud &nbsp;<code>33.0.6.20260622</code> → <code>33.0.7.20260629</code></li><li>NordVPN — NordLayer &nbsp;<code>3.8.1.0</code> → <code>3.9.0.0</code></li><li>ocenaudio — ocenaudio &nbsp;<code>3.19.4</code> → <code>3.19.5</code></li><li>R Core Team — R for Windows &nbsp;<code>4.6.0</code> → <code>4.6.1</code></li><li>Sejda BV — Sejda PDF Desktop &nbsp;<code>7.9.6</code> → <code>7.9.7</code></li><li>Shotcut — Shotcut &nbsp;<code>26.4.30</code> → <code>26.6.25</code></li><li>SoftFever — OrcaSlicer &nbsp;<code>2.4.0</code> → <code>2.4.1</code></li><li>TortoiseGit — TortoiseGit &nbsp;<code>2.19.0.0</code> → <code>2.19.1.0</code></li><li>wftpserver.com — FTP Rush v3 &nbsp;<code>3.6.6</code> → <code>3.6.7</code></li><li>XnSoft — XnSoft XnView MP &nbsp;<code>1.11.4.0</code> → <code>1.11.5.0</code></li><li>Zoom Video Communications, Inc. — Zoom Plugin for Microsoft Outlook &nbsp;<code>6.6.10</code> → <code>7.1.0</code></li><li>Zoom Video Communications, Inc. — Zoom Rooms &nbsp;<code>7.0.5</code> → <code>7.1.0</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-06-29 15:58:55 — +0 added, −0 removed, ↺0 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Mon, 29 Jun 2026 15:58:55 +0000</pubDate>
-      <guid isPermaLink='false'>2026-06-29T15:58:55Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-06-29 15:58:55</p><p><strong>Compared to:</strong> 20260629_044439_AppCatalog.json (2026-06-29 04:44:39)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;0 updated</p>]]></description>
     </item>
   </channel>
 </rss>

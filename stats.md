@@ -1,18 +1,18 @@
 # App Catalog Statistics
 
-> **Source:** `20260724_032356_AppCatalog.json` (exported 2026-07-24 03:23:56)  
-> **Generated:** 2026-07-24 03:24 UTC
+> **Source:** `20260724_135846_AppCatalog.json` (exported 2026-07-24 13:58:46)  
+> **Generated:** 2026-07-24 13:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|------:|
-| Total Packages | **1,571** |
+| Total Packages | **1,572** |
 | Unique Apps (Publisher + Name) | 929 |
 | Unique Products (by Product ID) | 928 |
 | Publishers | 496 |
-| Auto-Update Capable | 367 (23.4%) |
-| Not Auto-Update Capable | 1,204 (76.6%) |
+| Auto-Update Capable | 367 (23.3%) |
+| Not Auto-Update Capable | 1,205 (76.7%) |
 | Available Locales | 65 |
 | Multi-Locale Packages | 0 |
 | Packages Without Architecture | 0 |
@@ -36,8 +36,8 @@
 
 | Architecture | Packages | Share |
 |--------------|--------:|------:|
-| x64 | 1,263 | 80.4% |
-| x86,x64 | 308 | 19.6% |
+| x64 | 1,263 | 80.3% |
+| x86,x64 | 309 | 19.7% |
 
 ## Available Locales
 
