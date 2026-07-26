@@ -1,8 +1,8 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20260725_134901_AppCatalog.json` (exported 2026-07-25 13:49:01)  
-> **vs:** `20260725_032149_AppCatalog.json` (exported 2026-07-25 03:21:49)  
-> **Generated:** 2026-07-25 13:49 UTC
+> **Comparing:** `20260726_033540_AppCatalog.json` (exported 2026-07-26 03:35:40)  
+> **vs:** `20260725_134901_AppCatalog.json` (exported 2026-07-25 13:49:01)  
+> **Generated:** 2026-07-26 03:36 UTC
 
 ## Summary
 
@@ -10,7 +10,13 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 0 |
+| 🔄 Updated (version change) | 3 |
 
-> No changes detected between these two catalog exports.
+## 🔄 Updated (3 packages)
+
+| Publisher | App | Branch | Previous Version | New Version | Architecture |
+|-----------|-----|--------|:---------------:|:-----------:|:------------:|
+| Don Ho | Notepad++ | Notepad++ (x64) (MSI) | `8.9.6.1` | `8.9.7` | x64 |
+| Google | Google Chrome for Business | Chrome for Business 64-bit | `150.0.7871.129` | `150.0.7871.187` | x64 |
+| Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) | `7.1.41345` | `7.1.43453` | x64 |
 

@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 25 Jul 2026 13:49:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 03:35:40 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-07-26 03:35:40 — +0 added, −0 removed, ↺3 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Sun, 26 Jul 2026 03:35:40 +0000</pubDate>
+      <guid isPermaLink='false'>2026-07-26T03:35:40Z</guid>
+      <description><![CDATA[<p><strong>Export:</strong> 2026-07-26 03:35:40</p><p><strong>Compared to:</strong> 20260725_134901_AppCatalog.json (2026-07-25 13:49:01)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;3 updated</p><h3>Updated (3)</h3><ul><li>Don Ho — Notepad++ &nbsp;<code>8.9.6.1</code> → <code>8.9.7</code></li><li>Google — Google Chrome for Business &nbsp;<code>150.0.7871.129</code> → <code>150.0.7871.187</code></li><li>Zoom Video Communications, Inc. — Zoom Workplace &nbsp;<code>7.1.41345</code> → <code>7.1.43453</code></li></ul>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-07-25 13:49:01 — +0 added, −0 removed, ↺0 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Sat, 25 Jul 2026 13:49:01 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Wed, 01 Jul 2026 14:50:11 +0000</pubDate>
       <guid isPermaLink='false'>2026-07-01T14:50:11Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-07-01 14:50:11</p><p><strong>Compared to:</strong> 20260701_043950_AppCatalog.json (2026-07-01 04:39:50)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;4 updated</p><h3>Updated (4)</h3><ul><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.37</code> → <code>1.45.38</code></li><li>Google — Google Chrome for Business &nbsp;<code>149.0.7827.201</code> → <code>150.0.7871.47</code></li><li>Microsoft — Microsoft Edge Dev &nbsp;<code>151.0.4105.0</code> → <code>151.0.4119.1</code></li><li>Rarlab — Rarlab WinRAR &nbsp;<code>7.22</code> → <code>7.23</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-07-01 04:39:50 — +0 added, −0 removed, ↺77 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Wed, 01 Jul 2026 04:39:50 +0000</pubDate>
-      <guid isPermaLink='false'>2026-07-01T04:39:50Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-07-01 04:39:50</p><p><strong>Compared to:</strong> 20260630_143243_AppCatalog.json (2026-06-30 14:32:43)</p><p>+0 added &nbsp; &minus;0 removed &nbsp; &#x21BA;77 updated</p><h3>Updated (77)</h3><ul><li>Autodesk Inc. — Autodesk Access &nbsp;<code>2.22.0.547</code> → <code>2.22.0.548</code></li><li>Cloudflare, Inc. — Cloudflare One Client &nbsp;<code>26.4.1390.0</code> → <code>26.6.822.0</code></li><li>Creative Force — Creative Force Kelvin &nbsp;<code>6.4.0</code> → <code>6.5.0</code></li><li>Docker Inc. — Docker Desktop &nbsp;<code>4.79.0.230596</code> → <code>4.80.0.232116</code></li><li>Elgato — Elgato Stream Deck &nbsp;<code>7.4.2.22730</code> → <code>7.5.0.22885</code></li><li>Evernote — Evernote &nbsp;<code>11.22.4</code> → <code>11.23.2</code></li><li>Genesys — Genesys Cloud &nbsp;<code>2.51.912</code> → <code>2.51.916</code></li><li>Google — Google Credential Provider for Windows &nbsp;<code>138.0.7204.26</code> → <code>148.0.7778.160</code></li><li>Microsoft — Microsoft Azure Storage Explorer &nbsp;<code>1.43.0</code> → <code>1.44.0</code></li><li>Microsoft — SharePoint Online Management Shell &nbsp;<code>16.0.27215.12000</code> → <code>16.0.27424.12000</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>Mozilla — Mozilla Firefox &nbsp;<code>152.0.3</code> → <code>152.0.4</code></li><li>… and 57 more</li></ul>]]></description>
     </item>
   </channel>
 </rss>
