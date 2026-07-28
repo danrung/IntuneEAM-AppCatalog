@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260727_145021_AppCatalog.json` (exported 2026-07-27 14:50:21)  
-> **Generated:** 2026-07-27 14:50 UTC  
+> **Source:** `20260728_031534_AppCatalog.json` (exported 2026-07-28 03:15:34)  
+> **Generated:** 2026-07-28 03:16 UTC  
 > **Total:** 1,573 packages · 928 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -58,7 +58,7 @@
 | 50 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
 | 51 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.164.0` | x64 | ❌ | en-US |
 | 52 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.835.0` | x64 | ❌ | en-US |
-| 53 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.56` | x64 | ❌ | en-US |
+| 53 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.57` | x64 | ❌ | en-US |
 | 54 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.0.0` | x64 | ❌ | en-US |
 | 56 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.33.0.5939` | x64 | ❌ | en-US |
@@ -195,7 +195,7 @@
 | 187 | Box | Box Drive | Box Drive (x64) | `2.52.315` | x64 | ❌ | en-US |
 | 188 | Box | Box Tools | Box Tools (System Installer) | `4.32.0.1324` | x64 | ❌ | en-US |
 | 189 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | x64 | ❌ | en-US |
-| 190 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.92.143` | x64 | ❌ | en-US |
+| 190 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.92.144` | x64 | ❌ | en-US |
 | 191 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.85.0` | x64 | ❌ | en-US |
 | 192 | Brink Software B.V. | Ibis Calculeren voor Bouw | Ibis Calculeren voor Bouw | `4.2.73.0` | x64 | ❌ | nl |
 | 193 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.10901` | x64 | ❌ | en-US |
@@ -286,10 +286,10 @@
 | 278 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.16.0` | x64 | ❌ | en-US |
 | 279 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.2.9.0` | x86,x64 | ❌ | en-US |
 | 280 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
-| 281 | DigiDNA SARL | iMazing | iMazing | `3.6.0.1` | x64 | ❌ | en-US |
+| 281 | DigiDNA SARL | iMazing | iMazing | `3.6.1.0` | x64 | ❌ | en-US |
 | 282 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.2.1` | x64 | ❌ | en-US |
 | 283 | dnGrep | dnGrep | dnGrep (x64) | `5.0.30.0` | x64 | ❌ | en-US |
-| 284 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.83.0.234302` | x64 | ✅ | en-US |
+| 284 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.84.0.234817` | x64 | ✅ | en-US |
 | 285 | Dominik Reichl | KeePass Password Safe (Classic Edition) | KeePass Password Safe (Classic Edition) | `1.43` | x86,x64 | ✅ | en-US |
 | 286 | Don Ho | Notepad++ | Notepad++ (x64) (MSI) | `8.9.7` | x64 | ❌ | en-US |
 | 287 | Don Ho | Notepad++ | Notepad++ (x64) (EXE) | `8.9.7` | x64 | ❌ | en-US |
@@ -377,8 +377,8 @@
 | 369 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.5.24109` | x86,x64 | ✅ | en-US |
 | 370 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 371 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 372 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
-| 373 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 372 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
+| 373 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 374 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.5.24109` | x86,x64 | ✅ | en-US |
 | 375 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.5.24109` | x86,x64 | ✅ | mul |
 | 376 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader | `2025.1.0.27937` | x86,x64 | ✅ | en-US |
@@ -461,16 +461,16 @@
 | 453 | IDM Computer Solutions | UltraFinder | UltraFinder | `24.0.17` | x64 | ❌ | en-US |
 | 454 | IDM Computer Solutions | UltraFTP | UltraFTP | `25.0.14` | x64 | ❌ | en-US |
 | 455 | Igor Pavlov | 7-Zip | 7-Zip (x64) | `26.02` | x64 | ❌ | mul |
-| 456 | Image-Line Software | Image-Line Software FL Studio | FL Studio | `25.2.3.5171` | x64 | ❌ | en-US |
+| 456 | Image-Line Software | Image-Line Software FL Studio | FL Studio | `25.1.5.4976` | x64 | ❌ | en-US |
 | 457 | Informatiepunt Leefomgeving | Geomilieu | Geomilieu | `2024.0.0` | x64 | ❌ | nl-NL |
-| 458 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.10.0.0` | x64 | ❌ | en-US |
+| 458 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.11.0.0` | x64 | ❌ | en-US |
 | 459 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.4.0` | x64 | ❌ | en-US |
 | 460 | Inkscape | Inkscape | Inkscape (x64) | `1.4` | x64 | ❌ | en-US |
 | 461 | Inmatrix | Zoom Player | Zoom Player | `22.5` | x86,x64 | ❌ | en-US |
 | 462 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.5` | x86,x64 | ❌ | en-US |
 | 463 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.31.37.0` | x64 | ❌ | en-US |
-| 464 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.920.0` | x86,x64 | ❌ | en-US |
-| 465 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.920.0` | x86,x64 | ❌ | en-US |
+| 464 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.927.1` | x86,x64 | ❌ | en-US |
+| 465 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.927.1` | x86,x64 | ❌ | en-US |
 | 466 | InterPromo GMBH | 4K Video Downloader | 4K Video Downloader (x64) | `4.33.5` | x64 | ❌ | en-US |
 | 467 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.2.1` | x64 | ❌ | en-US |
 | 468 | Intevation GmbH | Gpg4win | Gpg4win | `5.0.2.4861` | x64 | ❌ | en-US |
@@ -663,7 +663,7 @@
 | 655 | Microsoft | Microsoft Bot Framework Emulator | Microsoft Bot Framework Emulator | `4.15.1` | x64 | ❌ | en-US |
 | 656 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.427.1` | x64 | ❌ | en-US |
 | 657 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
-| 658 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `151.0.4129.35` | x64 | ✅ | en-US |
+| 658 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `151.0.4129.50` | x64 | ✅ | en-US |
 | 659 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `152.0.4167.0` | x64 | ✅ | en-US |
 | 660 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 661 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `150.0.4078.65` | x64 | ❌ | en-US |
@@ -708,7 +708,7 @@
 | 700 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.7.5` | x64 | ❌ | pt-BR |
 | 701 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Japanese) (x64) | `18.7.5` | x64 | ❌ | ja-JP |
 | 702 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.5` | x64 | ❌ | zh-TW |
-| 703 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.322.5` | x64 | ❌ | en-US |
+| 703 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.326.10` | x64 | ❌ | en-US |
 | 704 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.123.0628.0001` | x64 | ❌ | en-US |
 | 705 | Microsoft | Microsoft OneNote | OneNote (x64) | `16.0.18730.20168` | x64 | ❌ | en-US |
 | 706 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.156.951.0` | x64 | ✅ | mul |
@@ -1079,7 +1079,7 @@
 | 1071 | Mythicsoft Ltd | Agent Ransack | Agent Ransack | `9.2.3562.1` | x64 | ❌ | en-US |
 | 1072 | Nagios Enterprises | NCPA | NCPA (x64) | `3.4.3` | x64 | ❌ | en-US |
 | 1073 | National Taxation Bureau Taiwan | Business Tax Software BLR | Business Tax Software BLR | `11500.01.1150122` | x86,x64 | ❌ | zh-TW |
-| 1074 | NEC Platforms, Ltd. | UNIVERGE BLUE CONNECT | UNIVERGE BLUE CONNECT | `2.30.90` | x64 | ❌ | en-US |
+| 1074 | NEC Platforms, Ltd. | UNIVERGE BLUE CONNECT | UNIVERGE BLUE CONNECT | `2.31.37` | x64 | ❌ | en-US |
 | 1075 | Neevia Technology | docuPrinter LT | docuPrinter LT | `7.4` | x86,x64 | ❌ | en-US |
 | 1076 | Neevia Technology | docuPrinter PRO | docuPrinter PRO | `7.3` | x86,x64 | ❌ | en-US |
 | 1077 | Neevia Technology | docuPrinter TSE | docuPrinter TSE | `6.0` | x86,x64 | ❌ | en-US |
@@ -1203,7 +1203,7 @@
 | 1195 | PrinterLogic | PrinterLogic Printer Installer Client | Printer Installer Client | `25.1.0.1536` | x86,x64 | ❌ | en-US |
 | 1196 | Privado Networks AG | PrivadoVPN | PrivadoVPN | `4.1.0.0` | x86,x64 | ❌ | en-US |
 | 1197 | Private Internet Access Inc. | Private Internet Access | Private Internet Access (x64) | `3.7.2` | x64 | ❌ | en-US |
-| 1198 | Proton AG | Proton VPN | Proton VPN (x64) | `4.4.1` | x64 | ❌ | en-US |
+| 1198 | Proton AG | Proton VPN | Proton VPN (x64) | `5.1.5` | x64 | ❌ | en-US |
 | 1199 | PURSLANE | RustDesk | RustDesk | `1.3.8` | x64 | ❌ | en-US |
 | 1200 | Python Software Foundation | Python 3.10 | Python 3.10 (x64) | `3.10.11150.0` | x64 | ❌ | en-US |
 | 1201 | Python Software Foundation | Python 3.11 | Python 3.11 (x64) | `3.11.9150.0` | x64 | ❌ | en-US |
@@ -1462,7 +1462,7 @@
 | 1454 | The Git Development Community | Git | Git (x64) | `2.55.0.3` | x64 | ✅ | en-US |
 | 1455 | The Graphviz Authors | Graphviz | Graphviz (x64) | `13.1.0` | x64 | ❌ | en-US |
 | 1456 | The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.2.1` | x64 | ❌ | en-US |
-| 1457 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.56.2` | x64 | ❌ | en-US |
+| 1457 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58` | x64 | ❌ | en-US |
 | 1458 | Thycotic Software, LLC | Thycotic Application Control Agent | Thycotic Application Control Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
 | 1459 | Thycotic Software, LLC | Thycotic Directory Services Agent | Thycotic Directory Services Agent (x64) | `12.0.5041` | x64 | ❌ | en-US |
 | 1460 | Thycotic Software, LLC | Thycotic Local Security Agent | Thycotic Local Security Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
