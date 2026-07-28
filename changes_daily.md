@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260728_031534_AppCatalog.json` (exported 2026-07-28 03:15:34)  
-> **vs:** `20260726_134215_AppCatalog.json` (exported 2026-07-26 13:42:15)  
-> **Generated:** 2026-07-28 03:16 UTC
+> **Comparing:** `20260728_142446_AppCatalog.json` (exported 2026-07-28 14:24:46)  
+> **vs:** `20260727_034400_AppCatalog.json` (exported 2026-07-27 03:44:00)  
+> **Generated:** 2026-07-28 14:25 UTC
 
 ## Summary
 
@@ -10,15 +10,16 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 18 |
+| 🔄 Updated (version change) | 20 |
 
-## 🔄 Updated (18 packages)
+## 🔄 Updated (20 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.56` | `1.45.57` | x64 |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.92.143` | `1.92.144` | x64 |
 | Cato Networks | Cato Client | Cato Client | `6.4.6.8830` | `6.8.3.8958` | x86,x64 |
+| Delinea | Delinea Connection Manager | Delinea Connection Manager | `2.8.3.7` | `2.9.0.33` | x64 |
 | DigiDNA SARL | iMazing | iMazing | `3.6.0.1` | `3.6.1.0` | x64 |
 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.83.0.234302` | `4.84.0.234817` | x64 |
 | FreeCAD | FreeCAD | FreeCAD (x64) | `1.1.0` | `1.1.3` | x64 |
@@ -31,6 +32,7 @@
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.322.5` | `3000.326.10` | x64 |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.113.0614.0004` | `26.123.0628.0001` | x64 |
 | NEC Platforms, Ltd. | UNIVERGE BLUE CONNECT | UNIVERGE BLUE CONNECT | `2.30.90` | `2.31.37` | x64 |
+| NGWIN | PicPick | PicPick | `7.5.0` | `7.6.0` | x86,x64 |
 | ocenaudio | ocenaudio | ocenaudio | `3.20.0` | `3.20.1` | x64 |
 | Proton AG | Proton VPN | Proton VPN (x64) | `4.4.1` | `5.1.5` | x64 |
 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.56.2` | `2.16.58` | x64 |
