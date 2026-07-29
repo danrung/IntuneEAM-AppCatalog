@@ -1,8 +1,8 @@
 # Catalog Changes — Last 24 Hours
 
-> **Comparing:** `20260728_142446_AppCatalog.json` (exported 2026-07-28 14:24:46)  
-> **vs:** `20260727_034400_AppCatalog.json` (exported 2026-07-27 03:44:00)  
-> **Generated:** 2026-07-28 14:25 UTC
+> **Comparing:** `20260729_031850_AppCatalog.json` (exported 2026-07-29 03:18:50)  
+> **vs:** `20260728_031534_AppCatalog.json` (exported 2026-07-28 03:15:34)  
+> **Generated:** 2026-07-29 03:19 UTC
 
 ## Summary
 
@@ -10,30 +10,52 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated (version change) | 20 |
+| 🔄 Updated (version change) | 42 |
 
-## 🔄 Updated (20 packages)
+## 🔄 Updated (42 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Architecture |
 |-----------|-----|--------|:---------------:|:-----------:|:------------:|
-| Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.56` | `1.45.57` | x64 |
-| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.92.143` | `1.92.144` | x64 |
-| Cato Networks | Cato Client | Cato Client | `6.4.6.8830` | `6.8.3.8958` | x86,x64 |
+| Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.57` | `1.45.58` | x64 |
+| Creative Force | Creative Force Kelvin | Kelvin | `6.6.0` | `6.7.0` | x64 |
 | Delinea | Delinea Connection Manager | Delinea Connection Manager | `2.8.3.7` | `2.9.0.33` | x64 |
-| DigiDNA SARL | iMazing | iMazing | `3.6.0.1` | `3.6.1.0` | x64 |
-| Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.83.0.234302` | `4.84.0.234817` | x64 |
-| FreeCAD | FreeCAD | FreeCAD (x64) | `1.1.0` | `1.1.3` | x64 |
-| Image-Line Software | Image-Line Software FL Studio | FL Studio | `25.2.3.5171` | `25.1.5.4976` | x64 |
-| Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.10.0.0` | `5.11.0.0` | x64 |
-| International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.920.0` | `5.4.927.1` | x86,x64 |
-| International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.920.0` | `6.0.927.1` | x86,x64 |
-| Krisp | Krisp | Krisp 3.x | `3.14.4` | `3.14.6` | x64 |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `151.0.4129.35` | `151.0.4129.50` | x64 |
-| Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.322.5` | `3000.326.10` | x64 |
-| Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.113.0614.0004` | `26.123.0628.0001` | x64 |
-| NEC Platforms, Ltd. | UNIVERGE BLUE CONNECT | UNIVERGE BLUE CONNECT | `2.30.90` | `2.31.37` | x64 |
+| Evernote | Evernote | Evernote | `11.26.4` | `11.27.5` | x64 |
+| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.4.0` | `2.11.5.0` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `153.0` | `153.0.1` | x64 |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `153.0` | `153.0.1` | x64 |
+| Nextcloud | Nextcloud | Nextcloud (x64) | `33.0.7.20260629` | `34.0.0.20260727` | x64 |
 | NGWIN | PicPick | PicPick | `7.5.0` | `7.6.0` | x86,x64 |
-| ocenaudio | ocenaudio | ocenaudio | `3.20.0` | `3.20.1` | x64 |
-| Proton AG | Proton VPN | Proton VPN (x64) | `4.4.1` | `5.1.5` | x64 |
-| Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.56.2` | `2.16.58` | x64 |
+| PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 26.0 | `26.0.2.76153` | `26.0.3.76224` | x64 |
+| PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 26.0 | `26.0.2.76154` | `26.0.3.76225` | x64 |
+| Zandar Labs SL | Aptakube | Aptakube | `1.18.7` | `1.18.8` | x64 |
 
