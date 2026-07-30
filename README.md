@@ -6,13 +6,13 @@ The raw data comes from the Microsoft Graph API. Exports are dropped into this r
 
 ## What's in Here
 
-🌐 **[Live Catalog](https://danrung.github.io/IntuneEAM-AppCatalog/)** Searchable, filterable website with the full package list.
+🌐 **[Live Catalog](https://danrung.github.io/IntuneEAM-AppCatalog/)** Searchable, filterable website with the full package list. Follows your system light/dark preference, with a toggle in the header.
 
 📦 **[App Catalog](catalog.md)** Every available package, sorted by publisher and app name.
 
 📊 **[Statistics](stats.md)** Total counts, top publishers, architecture breakdown, and available locales.
 
-🔄 **[Changes](changes.md)** What was added, removed, or version-updated between the two most recent exports.
+🔄 **[Changes](changes.md)** What was added, removed, or updated between the two most recent exports.
 
 📅 **[Daily Changes](changes_daily.md)** Changes compared to the nearest export from at least 24 hours ago.
 
@@ -75,7 +75,9 @@ Each entry reflects what the Graph API returns:
 
 One product can ship as multiple packages, for example separate x64 and x86 branches each get their own entry. The statistics page accounts for this by tracking both raw package count and unique product count.
 
-The changes pages compare package IDs between exports and surface three things: packages that are new, packages that have been removed, and packages where the version string changed. The period-based changelogs (daily, weekly, monthly) use the timestamp embedded in each filename to find the right comparison point automatically.
+The changes pages match packages between exports by `branchId` and surface three things: packages that are new, packages that have been removed, and packages where a tracked field changed. Tracked fields are the version, app name, branch name, publisher, architecture, auto-update capability and locales — so renames and capability changes show up alongside ordinary version bumps, with the changed fields named in each row. The volatile `id` field is ignored.
+
+The period-based changelogs (daily, weekly, monthly) use the timestamp embedded in each filename to find the right comparison point automatically. The period is a minimum, not a fixed window: each one compares against the newest export that is at least that old, which after a gap in exports can be considerably older than the name suggests. Every changelog states the actual span between the two exports it compared.
 
 ## Disclaimer
 

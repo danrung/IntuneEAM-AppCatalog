@@ -208,23 +208,121 @@ def generate_stats(apps, source_file):
 # Changes — core computation (returns structured data + raw lists)
 # ---------------------------------------------------------------------------
 
+# Fields compared when deciding whether a package counts as "updated".
+# `id` is deliberately absent: the Graph API reassigns it on every export.
+TRACKED_FIELDS = [
+    ("versionDisplayName",       "Version"),
+    ("productDisplayName",       "App Name"),
+    ("branchDisplayName",        "Branch"),
+    ("publisherDisplayName",     "Publisher"),
+    ("applicableArchitectures",  "Architecture"),
+    ("packageAutoUpdateCapable", "Auto-Update"),
+    ("locales",                  "Locales"),
+]
+
+
 def _composite_key(a):
-    """Stable composite key for exports that pre-date the branchId field."""
+    """Stable composite key for exports that pre-date the branchId field.
+
+    Deliberately minimal. Architecture and locales would make it more unique,
+    but they are also things that legitimately change — folding them in turns
+    an ordinary update ("dropped x86 support") into a removal plus an addition.
+    The duplicates this leaves behind are handled by _index_by_key instead.
+    """
     return (a.get("productId", "") + "|" + a.get("branchDisplayName", "")).lower()
+
+
+def _tiebreak(a):
+    """Deterministic ordering for records that share a key.
+
+    Ordered by the fields least likely to change between exports, so the same
+    two records pair up run after run. Deliberately excludes `id` (reassigned
+    every export) and `branchId` — collisions only happen on the composite
+    path, where one side of the comparison has no branchId at all and sorting
+    on it would order the two sides by different criteria.
+    """
+    return (
+        a.get("applicableArchitectures") or "",
+        ",".join(a.get("locales") or []),
+        a.get("productDisplayName") or "",
+        a.get("versionDisplayName") or "",
+    )
+
+
+def _index_by_key(apps, key_fn):
+    """Index apps by key, keeping every record when two share a key.
+
+    A plain dict comprehension silently discards duplicates, which understates
+    the package count on both sides of a comparison. Colliding records get a
+    stable ordinal suffix instead. Returns (index, collision_count).
+    """
+    groups = {}
+    for a in apps:
+        groups.setdefault(key_fn(a), []).append(a)
+
+    indexed, collisions = {}, 0
+    for key, group in groups.items():
+        if len(group) == 1:
+            indexed[key] = group[0]
+            continue
+        collisions += len(group) - 1
+        for i, app in enumerate(sorted(group, key=_tiebreak)):
+            indexed[f"{key}#{i}"] = app
+    return indexed, collisions
+
+
+def _format_span(prev_dt, curr_dt):
+    """Human-readable gap between two exports.
+
+    Exports are sometimes pushed minutes apart, where a plain day count would
+    read '0 days' and look broken.
+    """
+    if not prev_dt or not curr_dt:
+        return None
+    secs = max(0, int((curr_dt - prev_dt).total_seconds()))
+    for size, unit in ((86400, "day"), (3600, "hour"), (60, "minute")):
+        if secs >= size:
+            n = secs // size
+            return f"{n:,} {unit}{'' if n == 1 else 's'}"
+    return f"{secs} second{'' if secs == 1 else 's'}"
+
+
+def _fmt_value(v):
+    if isinstance(v, bool):
+        return "Yes" if v else "No"
+    if isinstance(v, list):
+        return ", ".join(str(x) for x in v)
+    return "" if v is None else str(v)
+
+
+def _field_changes(prev, curr):
+    """List every tracked field that differs between two versions of a package."""
+    return [
+        {"field": field, "label": label,
+         "from": _fmt_value(prev.get(field)), "to": _fmt_value(curr.get(field))}
+        for field, label in TRACKED_FIELDS
+        if prev.get(field) != curr.get(field)
+    ]
 
 
 def _compute_changes(current_apps, previous_apps, current_file, previous_file):
     """Compute change sets. Returns (structured_dict, added, removed, updated_pairs)."""
-    curr_has_branch = any(a.get("branchId") for a in current_apps)
-    prev_has_branch = any(a.get("branchId") for a in previous_apps)
+    # Require branchId on *every* record before trusting it as the key — a
+    # partially populated export would otherwise mix GUIDs and composite keys
+    # in one index and report the difference as churn.
+    curr_has_branch = all(a.get("branchId") for a in current_apps)
+    prev_has_branch = all(a.get("branchId") for a in previous_apps)
 
     if curr_has_branch and prev_has_branch:
-        key_fn = lambda a: a.get("branchId") or _composite_key(a)
+        key_fn = lambda a: a.get("branchId")
     else:
         key_fn = _composite_key
 
-    curr_by_id = {key_fn(a): a for a in current_apps}
-    prev_by_id = {key_fn(a): a for a in previous_apps}
+    curr_by_id, curr_dupes = _index_by_key(current_apps, key_fn)
+    prev_by_id, prev_dupes = _index_by_key(previous_apps, key_fn)
+    if curr_dupes or prev_dupes:
+        print(f"      note: {curr_dupes} current / {prev_dupes} previous package(s) "
+              f"share a key and were disambiguated by ordinal")
     curr_ids, prev_ids = set(curr_by_id), set(prev_by_id)
 
     def sk(a):
@@ -232,22 +330,29 @@ def _compute_changes(current_apps, previous_apps, current_file, previous_file):
 
     added   = sorted([curr_by_id[i] for i in curr_ids - prev_ids], key=sk)
     removed = sorted([prev_by_id[i] for i in prev_ids - curr_ids], key=sk)
+
     updated_pairs = sorted(
         [(prev_by_id[i], curr_by_id[i]) for i in curr_ids & prev_ids
-         if curr_by_id[i].get("versionDisplayName") != prev_by_id[i].get("versionDisplayName")],
+         if _field_changes(prev_by_id[i], curr_by_id[i])],
         key=lambda x: sk(x[1]),
     )
 
-    # Structured updated list: current app fields + prevVersionDisplayName
+    # Structured updated list: current app fields + previous version + field deltas
     updated_list = []
     for prev, curr in updated_pairs:
         entry = dict(curr)
         entry["prevVersionDisplayName"] = prev.get("versionDisplayName", "")
+        entry["changes"] = _field_changes(prev, curr)
         updated_list.append(entry)
+
+    prev_dt, curr_dt = parse_dt(previous_file), parse_dt(current_file)
+    span_days = (curr_dt - prev_dt).days if prev_dt and curr_dt else None
 
     structured = {
         "compared_to":    os.path.basename(previous_file),
         "compared_to_ts": filename_to_ts(previous_file),
+        "span_days":      span_days,
+        "span_label":     _format_span(prev_dt, curr_dt),
         "added_count":    len(added),
         "removed_count":  len(removed),
         "updated_count":  len(updated_list),
@@ -263,16 +368,23 @@ def _compute_changes(current_apps, previous_apps, current_file, previous_file):
 # ---------------------------------------------------------------------------
 
 def _render_changes_md(structured, added, removed, updated_pairs, current_file, title):
+    span = structured.get("span_label")
+    span_line = f"> **Span:** {span} between exports  " if span else ""
+
     lines = [
         f"# {title}", "",
         f"> **Comparing:** `{os.path.basename(current_file)}` (exported {filename_to_ts(current_file)})  ",
         f"> **vs:** `{structured['compared_to']}` (exported {structured['compared_to_ts']})  ",
+    ]
+    if span_line:
+        lines.append(span_line)
+    lines += [
         f"> **Generated:** {now_utc()}", "",
         "## Summary", "",
         "| Change | Count |", "|--------|------:|",
         f"| ✅ Added | {len(added):,} |",
         f"| ❌ Removed | {len(removed):,} |",
-        f"| 🔄 Updated (version change) | {len(updated_pairs):,} |", "",
+        f"| 🔄 Updated | {len(updated_pairs):,} |", "",
     ]
 
     if added:
@@ -297,12 +409,13 @@ def _render_changes_md(structured, added, removed, updated_pairs, current_file, 
 
     if updated_pairs:
         lines += [f"## 🔄 Updated ({len(updated_pairs):,} packages)", "",
-                  "| Publisher | App | Branch | Previous Version | New Version | Architecture |",
-                  "|-----------|-----|--------|:---------------:|:-----------:|:------------:|"]
+                  "| Publisher | App | Branch | Previous Version | New Version | Changed |",
+                  "|-----------|-----|--------|:---------------:|:-----------:|---------|"]
         for prev, curr in updated_pairs:
+            changed = ", ".join(c["label"] for c in _field_changes(prev, curr))
             lines.append(f"| {curr.get('publisherDisplayName','')} | {curr.get('productDisplayName','')} "
                          f"| {curr.get('branchDisplayName','')} | `{prev.get('versionDisplayName','')}` "
-                         f"| `{curr.get('versionDisplayName','')}` | {curr.get('applicableArchitectures','')} |")
+                         f"| `{curr.get('versionDisplayName','')}` | {changed} |")
         lines.append("")
 
     if not added and not removed and not updated_pairs:
@@ -343,7 +456,7 @@ def generate_changes_period(current_apps, current_file, all_files, days, output,
 # docs/catalog.json  (the only file the website needs regenerated each run)
 # ---------------------------------------------------------------------------
 
-def generate_catalog_json(apps, stats, source_file, changes=None):
+def generate_catalog_json(apps, stats, source_file):
     sorted_apps = sorted(
         apps,
         key=lambda a: (
@@ -364,14 +477,24 @@ def generate_catalog_json(apps, stats, source_file, changes=None):
             "locales":         stats["locales"],
             "repo_url":        get_repo_url(),
         },
-        "apps":    sorted_apps,
-        "changes": changes or {},
+        "apps": sorted_apps,
     }
 
     os.makedirs("docs", exist_ok=True)
     with open("docs/catalog.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, separators=(",", ":"))
-    print(f"  docs/catalog.json         — {stats['total']:,} packages")
+    size_kb = os.path.getsize("docs/catalog.json") / 1024
+    print(f"  docs/catalog.json         — {stats['total']:,} packages, {size_kb:,.0f} KB")
+
+
+def generate_changes_json(changes):
+    """Change sets live in their own file — the site fetches it only when the
+    Changes tab is opened, keeping them out of the initial page load."""
+    os.makedirs("docs", exist_ok=True)
+    with open("docs/changes.json", "w", encoding="utf-8") as f:
+        json.dump(changes or {}, f, ensure_ascii=False, separators=(",", ":"))
+    size_kb = os.path.getsize("docs/changes.json") / 1024
+    print(f"  docs/changes.json         — {len(changes or {})} period(s), {size_kb:,.0f} KB")
 
 
 # ---------------------------------------------------------------------------
@@ -421,11 +544,16 @@ def _feed_description(structured, source_ts):
         lines.append(f"<h3>Removed ({r:,})</h3>" + pkg_list(structured.get("removed", [])))
     if u:
         upd = structured.get("updated", [])
+
+        def _other(p):
+            labels = [c["label"] for c in p.get("changes", []) if c["field"] != "versionDisplayName"]
+            return f" &nbsp;<em>({_xml_escape(', '.join(labels))})</em>" if labels else ""
+
         rows = "".join(
             f"<li>{_xml_escape(p.get('publisherDisplayName',''))} — "
             f"{_xml_escape(p.get('productDisplayName',''))} &nbsp;"
             f"<code>{_xml_escape(p.get('prevVersionDisplayName',''))}</code> → "
-            f"<code>{_xml_escape(p.get('versionDisplayName',''))}</code></li>"
+            f"<code>{_xml_escape(p.get('versionDisplayName',''))}</code>{_other(p)}</li>"
             for p in upd[:20]
         )
         suffix = f"<li>… and {len(upd) - 20:,} more</li>" if len(upd) > 20 else ""
@@ -532,8 +660,12 @@ def update_readme(stats):
         content, flags=re.DOTALL,
     )
 
+    if "<!-- CATALOG_STATS_START -->" not in content:
+        print("  README.md              — stats markers not found, skipping")
+        return
+
     if new_content == content:
-        print("  README.md              — markers not found, skipping")
+        print("  README.md              — stats already current")
         return
 
     with open(readme, "w", encoding="utf-8") as f:
@@ -581,17 +713,21 @@ def main():
             )
         print("  changes.md             — first run")
 
+    # Titles name the selection rule, not a fixed window: each period compares
+    # against the *newest export at least N days old*, which can be considerably
+    # older than N days when exports are sparse. The Span line states the truth.
     period_defs = [
-        (1,  "daily",   "changes_daily.md",   "Catalog Changes — Last 24 Hours", "daily"),
-        (7,  "weekly",  "changes_weekly.md",  "Catalog Changes — Last 7 Days",   "weekly"),
-        (30, "monthly", "changes_monthly.md", "Catalog Changes — Last 30 Days",  "monthly"),
+        (1,  "daily",   "changes_daily.md",   "Catalog Changes — Daily (≥1 day apart)",    "daily"),
+        (7,  "weekly",  "changes_weekly.md",  "Catalog Changes — Weekly (≥7 days apart)",  "weekly"),
+        (30, "monthly", "changes_monthly.md", "Catalog Changes — Monthly (≥30 days apart)", "monthly"),
     ]
     for days, key, output, title, label in period_defs:
         result = generate_changes_period(current_apps, latest_file, files, days, output, title, label)
         if result is not None:
             changes_data[key] = result
 
-    generate_catalog_json(current_apps, stats, latest_file, changes=changes_data)
+    generate_catalog_json(current_apps, stats, latest_file)
+    generate_changes_json(changes_data)
     generate_feed(changes_data.get("latest"), stats, latest_file, get_repo_url())
     update_readme(stats)
     print("\nDone.")

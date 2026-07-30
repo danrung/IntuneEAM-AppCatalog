@@ -17,7 +17,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
         with:
-          fetch-depth: 0
+          # Nothing here reads git history — the script only shells out to
+          # `git remote get-url origin`. A shallow clone keeps checkout fast as
+          # archive/ grows by one export per run.
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -51,7 +54,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Stage generated docs, README, and any archiving moves
-          git add catalog.md stats.md changes.md changes_daily.md changes_weekly.md changes_monthly.md README.md docs/catalog.json docs/feed.xml
+          git add catalog.md stats.md changes.md changes_daily.md changes_weekly.md changes_monthly.md README.md docs/catalog.json docs/changes.json docs/feed.xml
           git add -A catalog/ archive/
 
           # Exit cleanly if nothing changed

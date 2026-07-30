@@ -6,6 +6,39 @@
 (function () {
   'use strict';
 
+  // ── Theme ─────────────────────────────────────────────────────────────────
+  // The initial theme is resolved by the inline script in <head>. Here we wire the
+  // toggle and keep following the OS until the user makes an explicit choice.
+  function initTheme() {
+    var root = document.documentElement;
+    var btn  = document.getElementById('theme-toggle');
+    var mq   = window.matchMedia('(prefers-color-scheme: dark)');
+
+    function stored() {
+      try { return localStorage.getItem('theme'); } catch (e) { return null; }
+    }
+    function syncLabel() {
+      if (btn) btn.title = 'Switch to ' + (root.dataset.theme === 'dark' ? 'light' : 'dark') + ' theme';
+    }
+
+    mq.addEventListener('change', function (e) {
+      if (stored() === 'light' || stored() === 'dark') return;   // user chose explicitly
+      root.dataset.theme = e.matches ? 'dark' : 'light';
+      syncLabel();
+    });
+
+    if (btn) {
+      btn.addEventListener('click', function () {
+        var next = root.dataset.theme === 'dark' ? 'light' : 'dark';
+        root.dataset.theme = next;
+        try { localStorage.setItem('theme', next); } catch (e) { /* storage blocked */ }
+        syncLabel();
+      });
+    }
+    syncLabel();
+  }
+  initTheme();
+
   // ── Bootstrap ─────────────────────────────────────────────────────────────
   fetch('catalog.json')
     .then(function (r) {
@@ -13,7 +46,7 @@
       return r.json();
     })
     .then(function (data) {
-      init(data.meta, data.apps, data.changes || {});
+      init(data.meta, data.apps);
     })
     .catch(function (err) {
       document.getElementById('loading').innerHTML =
@@ -32,10 +65,11 @@
     document.querySelectorAll('.nav-btn[data-view]').forEach(function (btn) {
       btn.classList.toggle('active', btn.dataset.view === name);
     });
+    if (name === 'changes') showChanges();
   }
 
   // ── Init ──────────────────────────────────────────────────────────────────
-  function init(meta, apps, changes) {
+  function init(meta, apps) {
     document.getElementById('loading').style.display = 'none';
     document.getElementById('app').style.display     = '';
 
@@ -79,7 +113,8 @@
     });
 
     // Stat cards strip (catalog view)
-    var cardColors = ['#0078d4', '#7c3aed', '#0891b2', '#16a34a', '#f59e0b'];
+    var cardColors = ['var(--card-1)', 'var(--card-2)', 'var(--card-3)',
+                      'var(--card-4)', 'var(--card-5)'];
     var statDefs = [
       { label: 'Total Packages',  value: meta.total.toLocaleString() },
       { label: 'Unique Products', value: meta.unique_products.toLocaleString() },
@@ -208,7 +243,7 @@
 
     // Render other views
     renderStatsView(apps, meta);
-    renderChangesView(changes);
+    renderChangesView();
   }
 
   // ── Column Sort ───────────────────────────────────────────────────────────
@@ -322,7 +357,8 @@
     });
     var localeSorted = Object.keys(localeCounts).sort(function (a, b) { return localeCounts[b] - localeCounts[a]; });
 
-    var cardColors = ['#0078d4', '#7c3aed', '#0891b2', '#16a34a', '#f59e0b'];
+    var cardColors = ['var(--card-1)', 'var(--card-2)', 'var(--card-3)',
+                      'var(--card-4)', 'var(--card-5)'];
     var statDefs = [
       { label: 'Total Packages',  value: meta.total.toLocaleString() },
       { label: 'Unique Products', value: meta.unique_products.toLocaleString() },
@@ -374,25 +410,53 @@
   }
 
   // ── Changes view ──────────────────────────────────────────────────────────
-  function renderChangesView(changes) {
-    var activePeriod = 'latest';
+  // Change sets live in their own file and are fetched the first time the tab
+  // is opened — they are roughly a third of the payload and most visits never
+  // need them.
+  var changesData    = null;
+  var changesPromise = null;
+  var activePeriod   = 'latest';
 
+  function loadChanges() {
+    if (!changesPromise) {
+      changesPromise = fetch('changes.json')
+        .then(function (r) {
+          if (!r.ok) throw new Error('HTTP ' + r.status);
+          return r.json();
+        })
+        .then(function (d) { changesData = d || {}; });
+    }
+    return changesPromise;
+  }
+
+  function showChanges() {
+    if (changesData) { renderChangePeriod(activePeriod); return; }
+    var el = document.getElementById('changes-content');
+    el.innerHTML = '<div class="changes-no-data">Loading changes…</div>';
+    loadChanges()
+      .then(function () { renderChangePeriod(activePeriod); })
+      .catch(function (err) {
+        changesPromise = null;   // let a later visit retry
+        el.innerHTML = '<div class="changes-no-data">Failed to load changes.json: ' +
+          esc(err.message) + '</div>';
+      });
+  }
+
+  function renderChangesView() {
     var tabs = document.querySelectorAll('.changes-tab');
     tabs.forEach(function (tab) {
       tab.addEventListener('click', function () {
         tabs.forEach(function (t) { t.classList.remove('active'); });
         tab.classList.add('active');
         activePeriod = tab.dataset.period;
-        renderChangePeriod(changes, activePeriod);
+        showChanges();   // still loading on a fast click — showChanges waits
       });
     });
-
-    renderChangePeriod(changes, activePeriod);
   }
 
-  function renderChangePeriod(changes, period) {
+  function renderChangePeriod(period) {
     var el   = document.getElementById('changes-content');
-    var data = changes[period];
+    var data = changesData ? changesData[period] : null;
 
     if (!data) {
       el.innerHTML = '<div class="changes-no-data">No data available for this period yet. ' +
@@ -406,14 +470,17 @@
 
     // Stat cards — same markup as catalog strip
     var html = '<div class="stats">' +
-      statCard(added.length,   'Added',   '#16a34a') +
-      statCard(removed.length, 'Removed', '#dc2626') +
-      statCard(updated.length, 'Updated', '#7c3aed') +
+      statCard(added.length,   'Added',   'var(--c-added)') +
+      statCard(removed.length, 'Removed', 'var(--c-removed)') +
+      statCard(updated.length, 'Updated', 'var(--c-updated)') +
       '</div>';
 
-    // Meta line
+    // Meta line — the span is stated explicitly because each period compares
+    // against the newest export *at least* N days old, which can be much older.
     html += '<div class="changes-meta">Compared to <strong>' + esc(data.compared_to) +
-      '</strong> &mdash; exported <strong>' + esc(data.compared_to_ts) + '</strong></div>';
+      '</strong> &mdash; exported <strong>' + esc(data.compared_to_ts) + '</strong>' +
+      (data.span_label ? ' &mdash; spanning <strong>' + esc(data.span_label) + '</strong>' : '') +
+      '</div>';
 
     if (added.length) {
       html += changeSection('Added', added, [
@@ -442,7 +509,7 @@
         { label: 'Branch',       key: 'branchDisplayName',       cls: '' },
         { label: 'Prev Version', key: 'prevVersionDisplayName',  cls: 'col-ver' },
         { label: 'New Version',  key: 'versionDisplayName',      cls: 'col-ver' },
-        { label: 'Arch',         key: 'applicableArchitectures', cls: '', render: archTag },
+        { label: 'Changed',      key: 'changes',                 cls: '', render: changedTags },
       ]);
     }
     if (!added.length && !removed.length && !updated.length) {
@@ -511,6 +578,15 @@
     return arch
       ? '<span class="tag tag-arch">' + esc(arch) + '</span>'
       : '<span style="color:var(--text-3)">—</span>';
+  }
+
+  function changedTags(changes) {
+    return (changes || [])
+      .map(function (c) {
+        return '<span class="tag tag-locale" title="' + esc(c.from) + ' → ' + esc(c.to) +
+               '">' + esc(c.label) + '</span>';
+      })
+      .join('');
   }
 
   function localeTags(locales) {
