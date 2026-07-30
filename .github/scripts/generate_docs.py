@@ -514,52 +514,143 @@ def _xml_escape(s):
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
 
 
-def _feed_description(structured, source_ts):
-    """Build a plain-text HTML snippet summarising the changes for the feed item."""
+# Feed items are read in mail clients (Outlook subscribes to the feed), so the
+# description is table-based HTML with inline styles only — Outlook's Word engine
+# ignores <style> blocks, flex/grid, border-radius and padding on div/span.
+FD_FONT   = "'Segoe UI',Segoe,Roboto,Helvetica,Arial,sans-serif"
+FD_MONO   = "Consolas,'Courier New',monospace"
+FD_INK    = "#1b1f23"   # primary text
+FD_DIM    = "#6b7580"   # secondary text
+FD_LINE   = "#e3e8ec"   # hairline rules
+FD_ADDED   = "#107c41"
+FD_REMOVED = "#c4314b"
+FD_UPDATED = "#0f6cbd"
+FD_MAXW    = 680        # px — keeps rows readable in the Outlook reading pane
+
+_FD_TABLE = (
+    f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" '
+    f'style="border-collapse:collapse;max-width:{FD_MAXW}px;font-family:{FD_FONT};'
+    f'font-size:14px;color:{FD_INK};"'
+)
+
+
+def _fd_counter(value, label, color):
+    """One big-number cell for the summary strip."""
+    return (
+        f'<td valign="top" style="padding:0 22px 0 0;font-family:{FD_FONT};">'
+        f'<div style="font-size:21px;font-weight:700;line-height:24px;color:{color};">{value}</div>'
+        f'<div style="font-size:11px;font-weight:600;letter-spacing:.05em;color:{FD_DIM};">{label}</div>'
+        f'</td>'
+    )
+
+
+def _fd_section(title, count, color, rows_html):
+    """A titled block: coloured rule + heading, then the package rows."""
+    return (
+        f'{_FD_TABLE}>'
+        f'<tr><td colspan="2" style="padding:22px 0 5px;font-family:{FD_FONT};font-size:11px;'
+        f'font-weight:700;letter-spacing:.08em;color:{color};border-bottom:2px solid {color};">'
+        f'{title.upper()} &nbsp;&middot;&nbsp; {count:,}</td></tr>'
+        f'{rows_html}</table>'
+    )
+
+
+def _fd_row(product, publisher, version_html, note=""):
+    """Name/publisher on the left, version on the right — one hairline-separated row."""
+    cell = (
+        f'padding:8px 0;border-bottom:1px solid {FD_LINE};font-family:{FD_FONT};'
+        f'font-size:14px;color:{FD_INK};'
+    )
+    note_html = (
+        f'<div style="font-size:11px;color:{FD_DIM};font-style:italic;">{note}</div>' if note else ""
+    )
+    return (
+        f'<tr>'
+        f'<td valign="top" style="{cell}padding-right:12px;">'
+        f'<div style="font-weight:600;">{product}</div>'
+        f'<div style="font-size:12px;color:{FD_DIM};">{publisher}</div>'
+        f'{note_html}</td>'
+        f'<td valign="top" align="right" nowrap="nowrap" style="{cell}'
+        f'font-family:{FD_MONO};font-size:12px;">{version_html}</td>'
+        f'</tr>'
+    )
+
+
+def _fd_more(shown, total):
+    if total <= shown:
+        return ""
+    return (
+        f'<tr><td colspan="2" style="padding:8px 0;font-family:{FD_FONT};font-size:12px;'
+        f'color:{FD_DIM};font-style:italic;">… and {total - shown:,} more</td></tr>'
+    )
+
+
+def _feed_description(structured, source_ts, site_url="#", max_show=20):
+    """Build the HTML body of a feed item — readable in feed readers and in Outlook."""
     a = structured.get("added_count",   0)
     r = structured.get("removed_count", 0)
     u = structured.get("updated_count", 0)
 
-    lines = [
-        f"<p><strong>Export:</strong> {_xml_escape(source_ts)}</p>",
-        f"<p><strong>Compared to:</strong> {_xml_escape(structured.get('compared_to', ''))} "
-        f"({_xml_escape(structured.get('compared_to_ts', ''))})</p>",
-        f"<p>+{a:,} added &nbsp; &minus;{r:,} removed &nbsp; &#x21BA;{u:,} updated</p>",
+    ver = lambda p, key: _xml_escape(p.get(key, "")) or "&mdash;"
+
+    def simple_rows(items, color_version=FD_INK):
+        rows = "".join(
+            _fd_row(
+                _xml_escape(p.get("productDisplayName", "")),
+                _xml_escape(p.get("publisherDisplayName", "")),
+                f'<span style="color:{color_version};">{ver(p, "versionDisplayName")}</span>',
+            )
+            for p in items[:max_show]
+        )
+        return rows + _fd_more(max_show, len(items))
+
+    def updated_rows(items):
+        rows = ""
+        for p in items[:max_show]:
+            labels = [c["label"] for c in p.get("changes", []) if c["field"] != "versionDisplayName"]
+            rows += _fd_row(
+                _xml_escape(p.get("productDisplayName", "")),
+                _xml_escape(p.get("publisherDisplayName", "")),
+                f'<span style="color:{FD_DIM};">{ver(p, "prevVersionDisplayName")}</span>'
+                f'<span style="color:{FD_DIM};">&nbsp;&#8594;&nbsp;</span>'
+                f'<span style="color:{FD_UPDATED};font-weight:700;">{ver(p, "versionDisplayName")}</span>',
+                note=("also " + _xml_escape(", ".join(labels))) if labels else "",
+            )
+        return rows + _fd_more(max_show, len(items))
+
+    parts = [
+        # Header band — export timestamp and the baseline it was diffed against
+        f'{_FD_TABLE}>'
+        f'<tr><td style="padding:14px 18px;background:{FD_UPDATED};font-family:{FD_FONT};">'
+        f'<div style="font-size:16px;font-weight:600;color:#ffffff;">'
+        f'Catalog export {_xml_escape(source_ts)}</div>'
+        f'<div style="font-size:12px;color:#d7e7f8;">compared to '
+        f'{_xml_escape(structured.get("compared_to", ""))} '
+        f'({_xml_escape(structured.get("compared_to_ts", ""))})</div>'
+        f'</td></tr>'
+        # Summary strip
+        f'<tr><td style="padding:14px 18px;background:#f5f7f9;border:1px solid {FD_LINE};border-top:0;">'
+        f'<table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>'
+        + _fd_counter(f"+{a:,}", "ADDED",   FD_ADDED)
+        + _fd_counter(f"&minus;{r:,}", "REMOVED", FD_REMOVED)
+        + _fd_counter(f"{u:,}", "UPDATED", FD_UPDATED)
+        + f'</tr></table></td></tr></table>'
     ]
 
-    def pkg_list(items, max_show=20):
-        shown = items[:max_show]
-        rows = "".join(
-            f"<li>{_xml_escape(p.get('publisherDisplayName',''))} — "
-            f"{_xml_escape(p.get('productDisplayName',''))} "
-            f"<code>{_xml_escape(p.get('versionDisplayName',''))}</code></li>"
-            for p in shown
-        )
-        suffix = f"<li>… and {len(items) - max_show:,} more</li>" if len(items) > max_show else ""
-        return f"<ul>{rows}{suffix}</ul>"
-
     if a:
-        lines.append(f"<h3>Added ({a:,})</h3>" + pkg_list(structured.get("added", [])))
+        parts.append(_fd_section("Added",   a, FD_ADDED,   simple_rows(structured.get("added", []), FD_ADDED)))
     if r:
-        lines.append(f"<h3>Removed ({r:,})</h3>" + pkg_list(structured.get("removed", [])))
+        parts.append(_fd_section("Removed", r, FD_REMOVED, simple_rows(structured.get("removed", []), FD_REMOVED)))
     if u:
-        upd = structured.get("updated", [])
+        parts.append(_fd_section("Updated", u, FD_UPDATED, updated_rows(structured.get("updated", []))))
 
-        def _other(p):
-            labels = [c["label"] for c in p.get("changes", []) if c["field"] != "versionDisplayName"]
-            return f" &nbsp;<em>({_xml_escape(', '.join(labels))})</em>" if labels else ""
+    parts.append(
+        f'{_FD_TABLE}><tr><td style="padding:20px 0 0;font-family:{FD_FONT};font-size:12px;">'
+        f'<a href="{_xml_escape(site_url)}" style="color:{FD_UPDATED};font-weight:600;'
+        f'text-decoration:none;">Open the full catalog &#8594;</a></td></tr></table>'
+    )
 
-        rows = "".join(
-            f"<li>{_xml_escape(p.get('publisherDisplayName',''))} — "
-            f"{_xml_escape(p.get('productDisplayName',''))} &nbsp;"
-            f"<code>{_xml_escape(p.get('prevVersionDisplayName',''))}</code> → "
-            f"<code>{_xml_escape(p.get('versionDisplayName',''))}</code>{_other(p)}</li>"
-            for p in upd[:20]
-        )
-        suffix = f"<li>… and {len(upd) - 20:,} more</li>" if len(upd) > 20 else ""
-        lines.append(f"<h3>Updated ({u:,})</h3><ul>{rows}{suffix}</ul>")
-
-    return "".join(lines)
+    return "".join(parts)
 
 
 def generate_feed(changes_latest, stats, source_file, repo_url):
@@ -583,10 +674,17 @@ def generate_feed(changes_latest, stats, source_file, repo_url):
         r = changes_latest.get("removed_count", 0)
         u = changes_latest.get("updated_count", 0)
         title   = f"EAM Catalog {source_ts} — +{a:,} added, \u2212{r:,} removed, \u21BA{u:,} updated"
-        desc_html = _feed_description(changes_latest, source_ts)
+        desc_html = _feed_description(changes_latest, source_ts, site_url)
     else:
         title     = f"EAM Catalog {source_ts} — initial import ({stats['total']:,} packages)"
-        desc_html = f"<p>Initial catalog import: {stats['total']:,} packages from {stats['publishers']:,} publishers.</p>"
+        desc_html = (
+            f'{_FD_TABLE}>'
+            f'<tr><td style="padding:14px 18px;background:{FD_UPDATED};font-family:{FD_FONT};">'
+            f'<div style="font-size:16px;font-weight:600;color:#ffffff;">'
+            f'Initial catalog import &nbsp;&middot;&nbsp; {_xml_escape(source_ts)}</div>'
+            f'<div style="font-size:12px;color:#d7e7f8;">{stats["total"]:,} packages from '
+            f'{stats["publishers"]:,} publishers</div></td></tr></table>'
+        )
 
     new_item = (
         f"    <item>\n"
