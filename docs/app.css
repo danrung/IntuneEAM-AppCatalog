@@ -320,6 +320,32 @@ main {
   line-height: 1;
   letter-spacing: -.02em;
 }
+/* Cards in the changes view act as section filters */
+.stat-card-filter {
+  cursor: pointer;
+  user-select: none;
+  transition: box-shadow .12s ease, border-color .12s ease, opacity .12s ease;
+}
+.stat-card-filter:hover { border-color: var(--card-color, var(--border)); }
+.stat-card-filter:focus-visible {
+  outline: 2px solid var(--card-color, var(--border));
+  outline-offset: 2px;
+}
+.stat-card-filter.active {
+  border-color: var(--card-color, var(--border));
+  box-shadow: inset 0 0 0 1px var(--card-color, var(--border)), var(--shadow);
+}
+/* Once one card is active the others step back, so the scope is obvious */
+.stats.has-filter .stat-card-filter:not(.active) { opacity: .55; }
+.stat-card-filter.active .stat-label::after {
+  content: " ×";
+  font-weight: 600;
+  color: var(--card-color, var(--text-3));
+}
+@media (prefers-reduced-motion: reduce) {
+  .stat-card-filter { transition: none; }
+}
+
 .stat-label {
   font-size: .6875rem;
   font-weight: 500;

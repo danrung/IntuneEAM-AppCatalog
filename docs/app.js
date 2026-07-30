@@ -468,11 +468,12 @@
     var removed = data.removed || [];
     var updated = data.updated || [];
 
-    // Stat cards — same markup as catalog strip
+    // Stat cards — same markup as catalog strip, but each one filters the
+    // sections below to its own kind; clicking the active card clears it again.
     var html = '<div class="stats">' +
-      statCard(added.length,   'Added',   'var(--c-added)') +
-      statCard(removed.length, 'Removed', 'var(--c-removed)') +
-      statCard(updated.length, 'Updated', 'var(--c-updated)') +
+      statCard(added.length,   'Added',   'var(--c-added)',   'Added') +
+      statCard(removed.length, 'Removed', 'var(--c-removed)', 'Removed') +
+      statCard(updated.length, 'Updated', 'var(--c-updated)', 'Updated') +
       '</div>';
 
     // Meta line — the span is stated explicitly because each period compares
@@ -523,17 +524,61 @@
       initSimpleSort(table);
       initResize(table);
     });
+
+    wireChangeFilters(el);
   }
 
-  function statCard(value, label, color) {
-    return '<div class="stat-card" style="--card-color:' + color + '">' +
-      '<div class="stat-value">' + value.toLocaleString() + '</div>' +
+  // ── Card filtering ────────────────────────────────────────────────────────
+  // A card scopes the view to its own section. The choice survives a period
+  // switch; if the new period has no rows of that kind it falls back to all.
+  var changeFilter = null;
+
+  function wireChangeFilters(el) {
+    var cards = el.querySelectorAll('.stat-card[data-filter]');
+    if (changeFilter && !el.querySelector('.changes-section[data-section="' + changeFilter + '"]')) {
+      changeFilter = null;
+    }
+    cards.forEach(function (card) {
+      function toggle() {
+        changeFilter = changeFilter === card.dataset.filter ? null : card.dataset.filter;
+        applyChangeFilter(el);
+      }
+      card.addEventListener('click', toggle);
+      card.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
+      });
+    });
+    applyChangeFilter(el);
+  }
+
+  function applyChangeFilter(el) {
+    el.querySelectorAll('.changes-section').forEach(function (section) {
+      section.hidden = !!changeFilter && section.dataset.section !== changeFilter;
+    });
+    el.querySelectorAll('.stat-card[data-filter]').forEach(function (card) {
+      var on = changeFilter === card.dataset.filter;
+      card.classList.toggle('active', on);
+      card.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+    el.querySelector('.stats').classList.toggle('has-filter', !!changeFilter);
+  }
+
+  function statCard(value, label, color, filterKey) {
+    // Only a card with rows behind it is interactive — an empty kind renders no section.
+    var interactive = filterKey && value > 0;
+    return '<div class="stat-card' + (interactive ? ' stat-card-filter' : '') + '"' +
+      ' style="--card-color:' + color + '"' +
+      (interactive
+        ? ' data-filter="' + filterKey + '" role="button" tabindex="0" aria-pressed="false"' +
+          ' title="Show only ' + label + ' — click again to show all"'
+        : '') +
+      '><div class="stat-value">' + value.toLocaleString() + '</div>' +
       '<div class="stat-label">' + label + '</div></div>';
   }
 
   function changeSection(title, rows, cols) {
     var html =
-      '<div class="changes-section">' +
+      '<div class="changes-section" data-section="' + title + '">' +
       '<div class="toolbar">' +
       '<span class="section-title">' + title + '</span>' +
       '<span class="section-count">' + rows.length.toLocaleString() + '</span>' +
