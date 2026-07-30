@@ -6,7 +6,7 @@ The raw data comes from the Microsoft Graph API. Exports are dropped into this r
 
 ## What's in Here
 
-🌐 **[Live Catalog](https://danrung.github.io/IntuneEAM-AppCatalog/)** Searchable, filterable website with the full package list. Follows your system light/dark preference, with a toggle in the header.
+🌐 **[Live Catalog](https://danrung.github.io/IntuneEAM-AppCatalog/)** Searchable, filterable website with the full package list — the stat cards double as filters. Follows your system light/dark preference, with a toggle in the header.
 
 📦 **[App Catalog](catalog.md)** Every available package, sorted by publisher and app name.
 

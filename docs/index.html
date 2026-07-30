@@ -186,6 +186,24 @@
         <div class="docs-container">
 
           <section class="docs-section">
+            <h2>Filtering with the Stat Cards</h2>
+            <p>The cards above each table are also filters. Clicking one scopes the view;
+               clicking it again clears it. Cards that only summarise values spread across
+               rows — Publishers, Locales — are read-only.</p>
+            <table class="docs-table">
+              <thead><tr><th>Card</th><th>Click</th></tr></thead>
+              <tbody>
+                <tr><td>Total Packages</td><td>Clears every filter, including the search box.</td></tr>
+                <tr><td>Unique Products</td><td>Shows one row per product — the first version listed, regardless of how the table is sorted.</td></tr>
+                <tr><td>Auto-Update</td><td>Cycles through auto-update capable, not capable, and off. The dropdown follows along.</td></tr>
+                <tr><td>Added / Removed / Updated</td><td>On the Changes tab: shows only that section. The choice carries over when you switch period, unless that period has no such entries.</td></tr>
+              </tbody>
+            </table>
+            <p>Card filters stack with the search box and the dropdowns rather than replacing
+               them, and the <strong>Clear</strong> button resets all of them at once.</p>
+          </section>
+
+          <section class="docs-section">
             <h2>Data Fields</h2>
             <p>Each entry represents one installable package from the Intune EAM catalog,
                as returned by the <code>win32MobileAppCatalogPackage</code> resource in

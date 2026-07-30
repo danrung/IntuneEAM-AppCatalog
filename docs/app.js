@@ -115,24 +115,45 @@
     // Stat cards strip (catalog view)
     var cardColors = ['var(--card-1)', 'var(--card-2)', 'var(--card-3)',
                       'var(--card-4)', 'var(--card-5)'];
+    // `action` marks the cards that double as filters. Publishers and Locales
+    // stay read-only — they count values spread across rows, so there is no
+    // single row predicate a click could stand for.
     var statDefs = [
-      { label: 'Total Packages',  value: meta.total.toLocaleString() },
-      { label: 'Unique Products', value: meta.unique_products.toLocaleString() },
+      { label: 'Total Packages',  value: meta.total.toLocaleString(),           action: 'reset',
+        hint: 'Clear all filters' },
+      { label: 'Unique Products', value: meta.unique_products.toLocaleString(), action: 'unique',
+        hint: 'Show one row per product — the first version listed' },
       { label: 'Publishers',      value: meta.publishers.toLocaleString() },
-      { label: 'Auto-Update',     value: meta.auto_pct + '%' },
+      { label: 'Auto-Update',     value: meta.auto_pct + '%',                   action: 'auto',
+        hint: 'Filter by auto-update capability — Yes, then No, then off' },
       { label: 'Locales',         value: String(meta.locales) },
     ];
     var statsEl    = document.getElementById('stats');
     var statValues = [];  // keep references to update on filter
+    var statLabels = [];
+    var statCards  = [];
     statDefs.forEach(function (s, i) {
       var el = document.createElement('div');
-      el.className = 'stat-card';
+      el.className = 'stat-card' + (s.action ? ' stat-card-filter' : '');
       el.style.setProperty('--card-color', cardColors[i % cardColors.length]);
       el.innerHTML =
         '<div class="stat-value">' + s.value + '</div>' +
         '<div class="stat-label">' + s.label + '</div>';
+      if (s.action) {
+        el.dataset.action = s.action;
+        el.setAttribute('role', 'button');
+        el.setAttribute('tabindex', '0');
+        el.setAttribute('aria-pressed', 'false');
+        el.title = s.hint;
+        el.addEventListener('click', function () { runCardAction(s.action); });
+        el.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); runCardAction(s.action); }
+        });
+      }
       statsEl.appendChild(el);
       statValues.push(el.querySelector('.stat-value'));
+      statLabels.push(el.querySelector('.stat-label'));
+      statCards.push(el);
     });
 
     // Populate filter dropdowns
@@ -167,7 +188,16 @@
         arch:    a.applicableArchitectures || '',
         locales: a.locales || [],
         auto:    a.packageAutoUpdateCapable ? '1' : '0',
+        product: a.productId || (a.publisherDisplayName + '\0' + a.productDisplayName),
       };
+    });
+
+    // First row per product, decided once on the source order so re-sorting the
+    // table cannot change which version represents a product.
+    var seenProducts = Object.create(null);
+    rowMeta.forEach(function (row) {
+      row.firstOfProduct = !seenProducts[row.product];
+      seenProducts[row.product] = true;
     });
 
     // Column sort + resize (scoped to the catalog table only)
@@ -184,9 +214,25 @@
     var emptyEl   = document.getElementById('empty-state');
     var total     = apps.length;
 
+    var uniqueOnly = false;   // set by the Unique Products card; has no dropdown
+
     function hasFilters() {
       return searchEl.value !== '' || archSel.value !== ''
-          || localeSel.value !== '' || autoSel.value !== '';
+          || localeSel.value !== '' || autoSel.value !== '' || uniqueOnly;
+    }
+
+    // Cards drive the same filters the controls do, so both stay in step.
+    function runCardAction(action) {
+      if (action === 'reset') {
+        if (!hasFilters()) return;
+        searchEl.value = ''; archSel.value = ''; localeSel.value = ''; autoSel.value = '';
+        uniqueOnly = false;
+      } else if (action === 'unique') {
+        uniqueOnly = !uniqueOnly;
+      } else if (action === 'auto') {
+        autoSel.value = autoSel.value === '1' ? '0' : (autoSel.value === '0' ? '' : '1');
+      }
+      applyFilters();
     }
 
     function applyFilters() {
@@ -201,7 +247,8 @@
           (!q      || row.search.includes(q))       &&
           (!arch   || row.arch === arch)             &&
           (!locale || row.locales.includes(locale)) &&
-          (!au     || row.auto === au);
+          (!au     || row.auto === au)               &&
+          (!uniqueOnly || row.firstOfProduct);
         row.tr.style.display = show ? '' : 'none';
         if (show) visible++;
       });
@@ -230,6 +277,20 @@
       statValues[2].textContent = fpub.toLocaleString();
       statValues[3].textContent = fapct + '%';
       statValues[4].textContent = String(floc);
+
+      // Card state — driven by the filters themselves, so using the dropdowns
+      // lights up the matching card too.
+      statLabels[3].textContent = 'Auto-Update' +
+        (autoSel.value === '1' ? ' · Yes' : autoSel.value === '0' ? ' · No' : '');
+      setCardState(statCards[1], uniqueOnly);
+      setCardState(statCards[3], autoSel.value !== '');
+      statCards[0].classList.toggle('is-idle', !hasFilters());
+      statsEl.classList.toggle('has-filter', uniqueOnly || autoSel.value !== '');
+    }
+
+    function setCardState(card, on) {
+      card.classList.toggle('active', on);
+      card.setAttribute('aria-pressed', on ? 'true' : 'false');
     }
 
     [searchEl, archSel, localeSel, autoSel].forEach(function (el) {
@@ -237,6 +298,7 @@
     });
     clearBtn.addEventListener('click', function () {
       searchEl.value = ''; archSel.value = ''; localeSel.value = ''; autoSel.value = '';
+      uniqueOnly = false;
       applyFilters();
     });
     applyFilters();

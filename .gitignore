@@ -1,0 +1,11 @@
+# Python bytecode from .github/scripts
+__pycache__/
+*.py[cod]
+
+# Local tooling / editor
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

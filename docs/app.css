@@ -335,8 +335,12 @@ main {
   border-color: var(--card-color, var(--border));
   box-shadow: inset 0 0 0 1px var(--card-color, var(--border)), var(--shadow);
 }
-/* Once one card is active the others step back, so the scope is obvious */
-.stats.has-filter .stat-card-filter:not(.active) { opacity: .55; }
+/* Once one card is active the others step back, so the scope is obvious.
+   The reset card is exempt — it is the one you reach for while a filter runs. */
+.stats.has-filter .stat-card-filter:not(.active):not([data-action="reset"]) { opacity: .55; }
+/* Nothing to clear yet — the reset card should not invite a click */
+.stat-card-filter.is-idle { cursor: default; opacity: .7; }
+.stat-card-filter.is-idle:hover { border-color: var(--border); }
 .stat-card-filter.active .stat-label::after {
   content: " ×";
   font-weight: 600;
