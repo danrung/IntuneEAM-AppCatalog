@@ -6,8 +6,15 @@
     <description>Change feed for the Microsoft Intune EAM App Catalog</description>
     <language>en</language>
     <atom:link href="https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 31 Jul 2026 03:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 14:23:24 +0000</lastBuildDate>
     <item>
+      <title>EAM Catalog 2026-07-31 14:23:24 — +0 added, −0 removed, ↺0 updated</title>
+      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
+      <pubDate>Fri, 31 Jul 2026 14:23:24 +0000</pubDate>
+      <guid isPermaLink='false'>2026-07-31T14:23:24Z</guid>
+      <description><![CDATA[<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;max-width:680px;font-family:'Segoe UI',Segoe,Roboto,Helvetica,Arial,sans-serif;font-size:14px;color:#1b1f23;"><tr><td style="padding:14px 18px;background:#0f6cbd;font-family:'Segoe UI',Segoe,Roboto,Helvetica,Arial,sans-serif;"><div style="font-size:16px;font-weight:600;color:#ffffff;">Catalog export 2026-07-31 14:23:24</div><div style="font-size:12px;color:#d7e7f8;">compared to 20260731_033414_AppCatalog.json (2026-07-31 03:34:14)</div></td></tr><tr><td style="padding:14px 18px;background:#f5f7f9;border:1px solid #e3e8ec;border-top:0;"><table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top" style="padding:0 22px 0 0;font-family:'Segoe UI',Segoe,Roboto,Helvetica,Arial,sans-serif;"><div style="font-size:21px;font-weight:700;line-height:24px;color:#107c41;">+0</div><div style="font-size:11px;font-weight:600;letter-spacing:.05em;color:#6b7580;">ADDED</div></td><td valign="top" style="padding:0 22px 0 0;font-family:'Segoe UI',Segoe,Roboto,Helvetica,Arial,sans-serif;"><div style="font-size:21px;font-weight:700;line-height:24px;color:#c4314b;">&minus;0</div><div style="font-size:11px;font-weight:600;letter-spacing:.05em;color:#6b7580;">REMOVED</div></td><td valign="top" style="padding:0 22px 0 0;font-family:'Segoe UI',Segoe,Roboto,Helvetica,Arial,sans-serif;"><div style="font-size:21px;font-weight:700;line-height:24px;color:#0f6cbd;">0</div><div style="font-size:11px;font-weight:600;letter-spacing:.05em;color:#6b7580;">UPDATED</div></td></tr></table></td></tr></table><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;max-width:680px;font-family:'Segoe UI',Segoe,Roboto,Helvetica,Arial,sans-serif;font-size:14px;color:#1b1f23;"><tr><td style="padding:20px 0 0;font-family:'Segoe UI',Segoe,Roboto,Helvetica,Arial,sans-serif;font-size:12px;"><a href="https://danrung.github.io/IntuneEAM-AppCatalog/" style="color:#0f6cbd;font-weight:600;text-decoration:none;">Open the full catalog &#8594;</a></td></tr></table>]]></description>
+    </item>
+<item>
       <title>EAM Catalog 2026-07-31 03:34:14 — +0 added, −0 removed, ↺14 updated</title>
       <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
       <pubDate>Fri, 31 Jul 2026 03:34:14 +0000</pubDate>
@@ -349,13 +356,6 @@
       <pubDate>Tue, 07 Jul 2026 04:01:45 +0000</pubDate>
       <guid isPermaLink='false'>2026-07-07T04:01:45Z</guid>
       <description><![CDATA[<p><strong>Export:</strong> 2026-07-07 04:01:45</p><p><strong>Compared to:</strong> 20260706_154816_AppCatalog.json (2026-07-06 15:48:16)</p><p>+1 added &nbsp; &minus;0 removed &nbsp; &#x21BA;10 updated</p><h3>Added (1)</h3><ul><li>Microsoft — Microsoft ODBC Driver 18 for SQL Server <code>18.6.2.1</code></li></ul><h3>Updated (10)</h3><ul><li>3Dconnexion UK — 3DxWare 10 &nbsp;<code>10.9.13.740</code> → <code>10.9.14.745</code></li><li>8x8 Inc. — 8x8 Work &nbsp;<code>8.34.1.11</code> → <code>8.35.2.6</code></li><li>Amazon Web Services Developer Relations — Amazon AWS Command Line Interface &nbsp;<code>1.45.40</code> → <code>1.45.41</code></li><li>Boris Eyrich Software — Artweaver Free &nbsp;<code>8.1.5.3980</code> → <code>8.1.6.4131</code></li><li>DBeaver Corp — DBeaver Community &nbsp;<code>26.1.1</code> → <code>26.1.2</code></li><li>Docker Inc. — Docker Desktop &nbsp;<code>4.80.0.232116</code> → <code>4.81.0.232925</code></li><li>Karakun — OpenWebStart &nbsp;<code>1.13.0</code> → <code>1.14.0</code></li><li>LucidLink — LucidLink Classic &nbsp;<code>2.9.7722</code> → <code>2.10.8388</code></li><li>Microsoft — Microsoft Azure Connected Machine Agent &nbsp;<code>1.64.03414.2961</code> → <code>1.66.03466.3076</code></li><li>Raspberry Pi Ltd — Raspberry Pi Imager &nbsp;<code>2.0.4</code> → <code>2.0.10</code></li></ul>]]></description>
-    </item>
-<item>
-      <title>EAM Catalog 2026-07-06 15:48:16 — +1 added, −0 removed, ↺6 updated</title>
-      <link>https://danrung.github.io/IntuneEAM-AppCatalog/</link>
-      <pubDate>Mon, 06 Jul 2026 15:48:16 +0000</pubDate>
-      <guid isPermaLink='false'>2026-07-06T15:48:16Z</guid>
-      <description><![CDATA[<p><strong>Export:</strong> 2026-07-06 15:48:16</p><p><strong>Compared to:</strong> 20260706_041117_AppCatalog.json (2026-07-06 04:11:17)</p><p>+1 added &nbsp; &minus;0 removed &nbsp; &#x21BA;6 updated</p><h3>Added (1)</h3><ul><li>Microsoft — Microsoft ODBC Driver 18 for SQL Server <code>18.6.2.1</code></li></ul><h3>Updated (6)</h3><ul><li>Andrew Ziem — BleachBit &nbsp;<code>6.0.0</code> → <code>6.0.2</code></li><li>Enpass Technologies Inc. — Enpass &nbsp;<code>6.12.3.2605</code> → <code>6.12.4.2635</code></li><li>Jan de Dobbeleer — Oh My Posh &nbsp;<code>29.20.0</code> → <code>29.21.0</code></li><li>Microsoft — Microsoft OneDrive &nbsp;<code>26.106.0603.0003</code> → <code>26.108.0607.0002</code></li><li>Password Safe — Password Safe 3 &nbsp;<code>3.72.0</code> → <code>3.72.1</code></li><li>Rarlab — Rarlab WinRAR &nbsp;<code>7.22</code> → <code>7.23</code></li></ul>]]></description>
     </item>
   </channel>
 </rss>
