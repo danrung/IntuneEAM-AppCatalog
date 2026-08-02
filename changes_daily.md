@@ -1,9 +1,9 @@
 # Catalog Changes — Daily (≥1 day apart)
 
-> **Comparing:** `20260801_134158_AppCatalog.json` (exported 2026-08-01 13:41:58)  
-> **vs:** `20260731_033414_AppCatalog.json` (exported 2026-07-31 03:34:14)  
+> **Comparing:** `20260802_033333_AppCatalog.json` (exported 2026-08-02 03:33:33)  
+> **vs:** `20260731_142324_AppCatalog.json` (exported 2026-07-31 14:23:24)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-08-01 13:42 UTC
+> **Generated:** 2026-08-02 03:34 UTC
 
 ## Summary
 
@@ -11,9 +11,9 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 21 |
+| 🔄 Updated | 25 |
 
-## 🔄 Updated (21 packages)
+## 🔄 Updated (25 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -31,11 +31,15 @@
 | JetBrains | GoLand | GoLand 2025.3 (x64) | `2025.3.5` | `2025.3.5.1` | Version |
 | JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2` | `2026.2.0.1` | Version |
 | JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.6` | `2025.3.6.1` | Version |
-| JetBrains | WebStorm | WebStorm 2025.2 (x64) | `2025.2.6.1` | `2025.2.6.2` | Version |
 | JetBrains | WebStorm | WebStorm 2025.1 (x64) | `2025.1.7.1` | `2025.1.7.2` | Version |
+| JetBrains | WebStorm | WebStorm 2025.2 (x64) | `2025.2.6.1` | `2025.2.6.2` | Version |
 | Kovid Goyal | Calibre | Calibre (x64) | `9.11.0` | `9.12.0` | Version |
 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.16 | `9.16.1.50105` | `9.16.1.50105` | App Name, Branch |
 | Microsoft | Microsoft Azure Storage Explorer | Azure Storage Explorer (x64) | `1.44.0` | `1.45.0` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Swedish) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (English UK) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Simplified) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Portugese) (x64) | `2.53.23` | `2.53.24` | Version |
 | RingCentral | RingCentral App | RingCentral App | `26.2.3013.1602` | `26.3.1012.1623` | Version |
 | typora.io | Typora | Typora (x64) | `1.14.1` | `1.14.8` | Version |
 
