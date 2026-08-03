@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20260803_033559_AppCatalog.json` (exported 2026-08-03 03:35:59)  
-> **vs:** `20260726_134215_AppCatalog.json` (exported 2026-07-26 13:42:15)  
+> **Comparing:** `20260803_145415_AppCatalog.json` (exported 2026-08-03 14:54:15)  
+> **vs:** `20260727_145021_AppCatalog.json` (exported 2026-07-27 14:50:21)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-08-03 03:36 UTC
+> **Generated:** 2026-08-03 14:54 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 143 |
+| 🔄 Updated | 138 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.0.1` | x86,x64 |
 
-## 🔄 Updated (143 packages)
+## 🔄 Updated (138 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -31,7 +31,6 @@
 | Bizagi Limited | Galaxy Modeler | Galaxy Modeler | `12.6.2` | `13.0.0` | Version |
 | Bizagi Limited | Moon Modeler | Moon Modeler | `12.6.2` | `13.0.0` | Version |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.92.143` | `1.93.129` | Version |
-| Cato Networks | Cato Client | Cato Client | `6.4.6.8830` | `6.8.3.8958` | Version |
 | Creative Force | Creative Force Kelvin | Kelvin | `6.6.0` | `6.7.0` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.81.2` | `7.81.3` | Version |
 | Delinea | Delinea Connection Manager | Delinea Connection Manager | `2.8.3.7` | `2.9.0.33` | Version |
@@ -48,11 +47,10 @@
 | EnterpriseDB Corporation | pgAdmin 4 | pgAdmin 4 | `9.16` | `9.17` | Version |
 | Evernote | Evernote | Evernote | `11.26.4` | `11.27.5` | Version |
 | FastStone Soft | FastStone Soft Capture | Capture | `11.2` | `11.3` | Version |
-| FreeCAD | FreeCAD | FreeCAD (x64) | `1.1.0` | `1.1.3` | Version |
 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.96.0` | `2.97.0` | Version |
 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.2.0` | `14.13.3.0` | Version |
-| GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.19.1` | `4.19.2` | Version |
 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.19.1` | `4.19.2` | Version |
+| GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.19.1` | `4.19.2` | Version |
 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `13.6.3` | `14.0.0` | Version |
 | Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `12.6.2` | `13.0.0` | Version |
 | Image-Line Software | Image-Line Software FL Studio | FL Studio | `25.2.3.5171` | `25.1.5.4976` | Version |
@@ -61,21 +59,20 @@
 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.920.0` | `5.4.927.1` | Version |
 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.920.0` | `6.0.927.1` | Version |
 | Intevation GmbH | Gpg4win | Gpg4win | `5.0.2.4861` | `5.1.0.47893` | Version |
-| JetBrains | DataGrip | DataGrip 2025.3 (x64) | `2025.3.5` | `2025.3.6` | Version |
-| JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.5.1` | `2025.2.6` | Version |
-| JetBrains | DataGrip | DataGrip 2025.1 (x64) | `2025.1.4.1` | `2025.1.5` | Version |
 | JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.1` | `2026.2.2` | Version |
+| JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.5.1` | `2025.2.6` | Version |
+| JetBrains | DataGrip | DataGrip 2025.3 (x64) | `2025.3.5` | `2025.3.6` | Version |
+| JetBrains | DataGrip | DataGrip 2025.1 (x64) | `2025.1.4.1` | `2025.1.5` | Version |
 | JetBrains | DataSpell | DataSpell 2026.1 (x64) | `2026.1.2` | `2026.1.3` | Version |
 | JetBrains | GoLand | GoLand 2025.2 (x64) | `2025.2.6.1` | `2025.2.6.2` | Version |
 | JetBrains | GoLand | GoLand 2025.3 (x64) | `2025.3.5` | `2025.3.5.1` | Version |
 | JetBrains | GoLand | GoLand 2025.1 (x64) | `2025.1.7.1` | `2025.1.7.2` | Version |
-| JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.2 (x64) | `2025.2.6.2` | `2025.2.6.3` | Version |
 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.1 (x64) | `2025.1.7.1` | `2025.1.7.2` | Version |
-| JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.6` | `2025.3.6.1` | Version |
+| JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.2 (x64) | `2025.2.6.2` | `2025.2.6.3` | Version |
 | JetBrains | WebStorm | WebStorm 2025.2 (x64) | `2025.2.6.1` | `2025.2.6.2` | Version |
 | JetBrains | WebStorm | WebStorm 2025.1 (x64) | `2025.1.7.1` | `2025.1.7.2` | Version |
+| JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.6` | `2025.3.6.1` | Version |
 | Kovid Goyal | Calibre | Calibre (x64) | `9.11.0` | `9.12.0` | Version |
-| Krisp | Krisp | Krisp 3.x | `3.14.4` | `3.14.6` | Version |
 | Krita Foundation | Krita | Krita (x64) | `5.3.2.1` | `5.3.3` | Version |
 | Logitech | Logitech Sync App | Logitech Sync App | `3.10.247` | `3.11.166` | Version |
 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.16 | `9.16.1.50105` | `9.16.1.50105` | App Name, Branch |
@@ -83,59 +80,58 @@
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `151.0.4129.35` | `151.0.4129.54` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `152.0.4167.0` | `152.0.4181.1` | Version |
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.322.5` | `3000.326.10` | Version |
-| Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.113.0614.0004` | `26.123.0628.0001` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.130.0` | `1.131.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Portugese) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Traditional) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Simplified) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English UK) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Portugese) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Simplified) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Traditional) (x64) | `2.53.23` | `2.53.24` | Version |
 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English US) (x64) | `2.53.23` | `2.53.24` | Version |
 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Swedish) (x64) | `2.53.23` | `2.53.24` | Version |
 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Spain) (x64) | `2.53.23` | `2.53.24` | Version |
@@ -145,7 +141,6 @@
 | Nicke Manarin | ScreenToGif | ScreenToGif (x64) | `2.43.1` | `2.43.2` | Version |
 | NoMachine | NoMachine Enterprise Client | NoMachine Enterprise Client (x64) | `9.8.2` | `10.0.57` | Version |
 | NoMachine | NoMachine Fonts Others | NoMachine Fonts Others (x64) | `9.8.2` | `10.0.57` | Version |
-| ocenaudio | ocenaudio | ocenaudio | `3.20.0` | `3.20.1` | Version |
 | Oleg Shparber | Zeal | Zeal (x64) | `0.8.1` | `0.9.1` | Version, Branch |
 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 26.0 | `26.0.2.76153` | `26.0.3.76224` | Version |
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 26.0 | `26.0.2.76154` | `26.0.3.76225` | Version |
