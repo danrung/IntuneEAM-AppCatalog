@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260802_134156_AppCatalog.json` (exported 2026-08-02 13:41:56)  
-> **Generated:** 2026-08-02 13:42 UTC  
+> **Source:** `20260803_033559_AppCatalog.json` (exported 2026-08-03 03:35:59)  
+> **Generated:** 2026-08-03 03:36 UTC  
 > **Total:** 1,574 packages · 928 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -75,8 +75,8 @@
 | 67 | App Dynamic | App Dynamic AirServer Universal | AirServer Universal (x64) | `5.7.2` | x64 | ❌ | en-US |
 | 68 | Appgate | Appgate SDP Client | Appgate SDP Client | `6.5.4.43990` | x64 | ❌ | en-US |
 | 69 | Apple Inc. | Apple iTunes | iTunes (x64) | `12.13.10.3` | x64 | ❌ | en-US |
-| 70 | Araxis | Araxis Merge | Araxis Merge (Japanese) | `2026.0` | x64 | ❌ | ja |
-| 71 | Araxis | Araxis Merge | Araxis Merge (English) | `2026.0` | x64 | ❌ | en-US |
+| 70 | Araxis | Araxis Merge | Araxis Merge (English) | `2026.0` | x64 | ❌ | en-US |
+| 71 | Araxis | Araxis Merge | Araxis Merge (Japanese) | `2026.0` | x64 | ❌ | ja |
 | 72 | ArcticLine Software | ArcticLine Software Jet Screenshot | Jet Screenshot | `3.1` | x86,x64 | ❌ | en-US |
 | 73 | Arduino | Arduino IDE | Arduino IDE | `2.3.10` | x64 | ✅ | en-US |
 | 74 | Artem Izmaylov | AIMP | AIMP (x64) | `5.40.2653` | x64 | ❌ | en-US |

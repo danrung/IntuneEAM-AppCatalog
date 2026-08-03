@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20260802_134156_AppCatalog.json` (exported 2026-08-02 13:41:56)  
-> **vs:** `20260726_033540_AppCatalog.json` (exported 2026-07-26 03:35:40)  
+> **Comparing:** `20260803_033559_AppCatalog.json` (exported 2026-08-03 03:35:59)  
+> **vs:** `20260726_134215_AppCatalog.json` (exported 2026-07-26 13:42:15)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-08-02 13:42 UTC
+> **Generated:** 2026-08-03 03:36 UTC
 
 ## Summary
 
@@ -61,19 +61,19 @@
 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.920.0` | `5.4.927.1` | Version |
 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.920.0` | `6.0.927.1` | Version |
 | Intevation GmbH | Gpg4win | Gpg4win | `5.0.2.4861` | `5.1.0.47893` | Version |
-| JetBrains | DataGrip | DataGrip 2025.1 (x64) | `2025.1.4.1` | `2025.1.5` | Version |
-| JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.5.1` | `2025.2.6` | Version |
-| JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.1` | `2026.2.2` | Version |
 | JetBrains | DataGrip | DataGrip 2025.3 (x64) | `2025.3.5` | `2025.3.6` | Version |
+| JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.5.1` | `2025.2.6` | Version |
+| JetBrains | DataGrip | DataGrip 2025.1 (x64) | `2025.1.4.1` | `2025.1.5` | Version |
+| JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.1` | `2026.2.2` | Version |
 | JetBrains | DataSpell | DataSpell 2026.1 (x64) | `2026.1.2` | `2026.1.3` | Version |
-| JetBrains | GoLand | GoLand 2025.1 (x64) | `2025.1.7.1` | `2025.1.7.2` | Version |
 | JetBrains | GoLand | GoLand 2025.2 (x64) | `2025.2.6.1` | `2025.2.6.2` | Version |
 | JetBrains | GoLand | GoLand 2025.3 (x64) | `2025.3.5` | `2025.3.5.1` | Version |
-| JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.1 (x64) | `2025.1.7.1` | `2025.1.7.2` | Version |
+| JetBrains | GoLand | GoLand 2025.1 (x64) | `2025.1.7.1` | `2025.1.7.2` | Version |
 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.2 (x64) | `2025.2.6.2` | `2025.2.6.3` | Version |
-| JetBrains | WebStorm | WebStorm 2025.1 (x64) | `2025.1.7.1` | `2025.1.7.2` | Version |
-| JetBrains | WebStorm | WebStorm 2025.2 (x64) | `2025.2.6.1` | `2025.2.6.2` | Version |
+| JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.1 (x64) | `2025.1.7.1` | `2025.1.7.2` | Version |
 | JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.6` | `2025.3.6.1` | Version |
+| JetBrains | WebStorm | WebStorm 2025.2 (x64) | `2025.2.6.1` | `2025.2.6.2` | Version |
+| JetBrains | WebStorm | WebStorm 2025.1 (x64) | `2025.1.7.1` | `2025.1.7.2` | Version |
 | Kovid Goyal | Calibre | Calibre (x64) | `9.11.0` | `9.12.0` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.14.4` | `3.14.6` | Version |
 | Krita Foundation | Krita | Krita (x64) | `5.3.2.1` | `5.3.3` | Version |
@@ -85,60 +85,60 @@
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.322.5` | `3000.326.10` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.113.0614.0004` | `26.123.0628.0001` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.130.0` | `1.131.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `153.0` | `153.0.1` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Swedish) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `153.0` | `153.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `153.0` | `153.0.1` | Version |
 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Portugese) (x64) | `2.53.23` | `2.53.24` | Version |
 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Traditional) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Spain) (x64) | `2.53.23` | `2.53.24` | Version |
 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Simplified) (x64) | `2.53.23` | `2.53.24` | Version |
 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English UK) (x64) | `2.53.23` | `2.53.24` | Version |
 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English US) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Swedish) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Spain) (x64) | `2.53.23` | `2.53.24` | Version |
 | NEC Platforms, Ltd. | UNIVERGE BLUE CONNECT | UNIVERGE BLUE CONNECT | `2.30.90` | `2.31.37` | Version |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `33.0.7.20260629` | `34.0.0.20260727` | Version |
 | NGWIN | PicPick | PicPick | `7.5.0` | `7.6.0` | Version |
