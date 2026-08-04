@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260804_031859_AppCatalog.json` (exported 2026-08-04 03:18:59)  
-> **Generated:** 2026-08-04 03:19 UTC  
+> **Source:** `20260804_143026_AppCatalog.json` (exported 2026-08-04 14:30:26)  
+> **Generated:** 2026-08-04 14:31 UTC  
 > **Total:** 1,574 packages · 928 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -32,9 +32,9 @@
 | 24 | 3T Software Labs Ltd | Robo 3T | Robo 3T | `1.4.4` | x64 | ❌ | en-US |
 | 25 | 8x8 Inc. | 8x8 Work | 8x8 Work (x64) | `8.35.2.6` | x64 | ❌ | en-US |
 | 26 | A Must in Every Office BV | ASAP Utilities | ASAP Utilities | `9.1` | x86,x64 | ❌ | en-US |
-| 27 | Abacus Research AG | AbaClient | AbaClient (Italian) | `4.2.1165` | x64 | ❌ | it |
-| 28 | Abacus Research AG | AbaClient | AbaClient (English) | `4.2.1165` | x64 | ❌ | en-US |
-| 29 | Abacus Research AG | AbaClient | AbaClient (German) | `4.2.1165` | x64 | ❌ | de |
+| 27 | Abacus Research AG | AbaClient | AbaClient (German) | `4.3.1194` | x64 | ❌ | de |
+| 28 | Abacus Research AG | AbaClient | AbaClient (Italian) | `4.2.1165` | x64 | ❌ | it |
+| 29 | Abacus Research AG | AbaClient | AbaClient (English) | `4.2.1165` | x64 | ❌ | en-US |
 | 30 | Abacus Research AG | AbaClient | AbaClient (French) | `4.2.1165` | x64 | ❌ | fr |
 | 31 | Acro Software | CutePDF Writer | CutePDF Writer | `4.0.1.5` | x64 | ✅ | en-US |
 | 32 | ActiveState Software Inc. | ActiveState Software Komodo Edit | Komodo Edit | `12.0.1` | x86,x64 | ❌ | en-US |
@@ -198,7 +198,7 @@
 | 190 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.93.129` | x64 | ❌ | en-US |
 | 191 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.85.0` | x64 | ❌ | en-US |
 | 192 | Brink Software B.V. | Ibis Calculeren voor Bouw | Ibis Calculeren voor Bouw | `4.2.73.0` | x64 | ❌ | nl |
-| 193 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.10901` | x64 | ❌ | en-US |
+| 193 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | x64 | ❌ | en-US |
 | 194 | BrowserStack | BrowserStackLocal | BrowserStackLocal | `3.7.8` | x86,x64 | ❌ | en-US |
 | 195 | Bullzip | Bullzip PDF to Word | PDF to Word | `2.1.0.0` | x86,x64 | ❌ | en-US |
 | 196 | Burnaware | BurnAware Free | BurnAware Free | `19.2` | x86,x64 | ❌ | en-US |
@@ -450,8 +450,8 @@
 | 442 | HP | HP Prime Virtual Calculator | HP Prime Virtual Calculator | `2.4.0.15515` | x64 | ❌ | en-US |
 | 443 | HP | Poly Lens Desktop App | Poly Lens Desktop App | `2.3.1.4673` | x64 | ✅ | en-US |
 | 444 | Huddle | Huddle Desktop | Huddle Desktop | `4.4.10.1` | x86,x64 | ❌ | en-US |
-| 445 | IAM Technology Group Ltd | Cloud Drive Mapper | Cloud Drive Mapper 3 | `3.23.1.41938` | x64 | ❌ | en-US |
-| 446 | IAM Technology Group Ltd | Cloud Drive Mapper | Cloud Drive Mapper 2 | `2.25.0.1` | x64 | ❌ | en-US |
+| 445 | IAM Technology Group Ltd | Cloud Drive Mapper | Cloud Drive Mapper 2 | `2.25.0.1` | x64 | ❌ | en-US |
+| 446 | IAM Technology Group Ltd | Cloud Drive Mapper | Cloud Drive Mapper 3 | `3.23.1.41938` | x64 | ❌ | en-US |
 | 447 | IBM | IBM Aspera Connect | Aspera Connect | `4.2.19.956` | x64 | ❌ | en-US |
 | 448 | Iceni Technology Ltd. | Infix PDF Editor | Infix PDF Editor | `7.7.0.0` | x86,x64 | ❌ | en-US |
 | 449 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `14.0.0` | x64 | ❌ | en-US |
@@ -817,53 +817,53 @@
 | 809 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.12` | x64 | ❌ | en-US |
 | 810 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.12` | x64 | ❌ | en-US |
 | 811 | MOOS Project Viewer | MOOS Project Viewer | MOOS Project Viewer | `4.4.0` | x86,x64 | ❌ | en-US |
-| 812 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `153.0.1` | x64 | ✅ | sr |
-| 813 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `153.0.1` | x64 | ✅ | pl |
-| 814 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `153.0.1` | x64 | ✅ | ko |
-| 815 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `153.0.1` | x64 | ✅ | tr |
-| 816 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `153.0.1` | x64 | ✅ | en-GB |
-| 817 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `153.0.1` | x64 | ✅ | zh-CN |
-| 818 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `153.0.1` | x64 | ✅ | th |
-| 819 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `153.0.1` | x64 | ✅ | kk |
-| 820 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `153.0.1` | x64 | ✅ | pt-BR |
+| 812 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `153.0.1` | x64 | ✅ | id |
+| 813 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `153.0.1` | x64 | ✅ | nb-NO |
+| 814 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `153.0.1` | x64 | ✅ | ja |
+| 815 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `153.0.1` | x64 | ✅ | sl |
+| 816 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `153.0.1` | x64 | ✅ | ko |
+| 817 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `153.0.1` | x64 | ✅ | uk |
+| 818 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `153.0.1` | x64 | ✅ | ar |
+| 819 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `153.0.1` | x64 | ✅ | hu |
+| 820 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `153.0.1` | x64 | ✅ | de |
 | 821 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `153.0.1` | x64 | ✅ | sv-SE |
-| 822 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `153.0.1` | x64 | ✅ | et |
-| 823 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `153.0.1` | x64 | ✅ | hi-IN |
-| 824 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `153.0.1` | x64 | ✅ | ru |
-| 825 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `153.0.1` | x64 | ✅ | id |
-| 826 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `153.0.1` | x64 | ✅ | uk |
-| 827 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `153.0.1` | x64 | ✅ | el |
-| 828 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `153.0.1` | x64 | ✅ | vi |
-| 829 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `153.0.1` | x64 | ✅ | sk |
-| 830 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `153.0.1` | x64 | ✅ | de |
-| 831 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `153.0.1` | x64 | ✅ | nl |
-| 832 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `153.0.1` | x64 | ✅ | ja |
-| 833 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `153.0.1` | x64 | ✅ | en-US |
-| 834 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `153.0.1` | x64 | ✅ | nb-NO |
-| 835 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `153.0.1` | x64 | ✅ | ar |
-| 836 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `153.0.1` | x64 | ✅ | sl |
+| 822 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `153.0.1` | x64 | ✅ | bg |
+| 823 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `153.0.1` | x64 | ✅ | ru |
+| 824 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `153.0.1` | x64 | ✅ | nl |
+| 825 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `153.0.1` | x64 | ✅ | sk |
+| 826 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `153.0.1` | x64 | ✅ | es-ES |
+| 827 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `153.0.1` | x64 | ✅ | tr |
+| 828 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `153.0.1` | x64 | ✅ | eu |
+| 829 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `153.0.1` | x64 | ✅ | lv |
+| 830 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `153.0.1` | x64 | ✅ | zh-CN |
+| 831 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `153.0.1` | x64 | ✅ | ro |
+| 832 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `153.0.1` | x64 | ✅ | fr |
+| 833 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `153.0.1` | x64 | ✅ | hr |
+| 834 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `153.0.1` | x64 | ✅ | it |
+| 835 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `153.0.1` | x64 | ✅ | nn-NO |
+| 836 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `153.0.1` | x64 | ✅ | pl |
 | 837 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `153.0.1` | x64 | ✅ | he |
-| 838 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `153.0.1` | x64 | ✅ | cs |
-| 839 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `153.0.1` | x64 | ✅ | lv |
-| 840 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `153.0.1` | x64 | ✅ | hr |
-| 841 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `153.0.1` | x64 | ✅ | nn-NO |
-| 842 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `153.0.1` | x64 | ✅ | hu |
-| 843 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `153.0.1` | x64 | ✅ | fi |
-| 844 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `153.0.1` | x64 | ✅ | it |
-| 845 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `153.0.1` | x64 | ✅ | zh-TW |
-| 846 | Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `153.0.1` | x64 | ✅ | ms |
-| 847 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `153.0.1` | x64 | ✅ | pt-PT |
-| 848 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `153.0.1` | x64 | ✅ | ro |
-| 849 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `153.0.1` | x64 | ✅ | eu |
-| 850 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `153.0.1` | x64 | ✅ | da |
-| 851 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `153.0.1` | x64 | ✅ | bg |
-| 852 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `153.0.1` | x64 | ✅ | lt |
-| 853 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `153.0.1` | x64 | ✅ | gl |
-| 854 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `153.0.1` | x64 | ✅ | en-CA |
-| 855 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `153.0.1` | x64 | ✅ | af |
-| 856 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `153.0.1` | x64 | ✅ | es-MX |
-| 857 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `153.0.1` | x64 | ✅ | fr |
-| 858 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `153.0.1` | x64 | ✅ | es-ES |
+| 838 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `153.0.1` | x64 | ✅ | gl |
+| 839 | Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `153.0.1` | x64 | ✅ | ms |
+| 840 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `153.0.1` | x64 | ✅ | cs |
+| 841 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `153.0.1` | x64 | ✅ | zh-TW |
+| 842 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `153.0.1` | x64 | ✅ | fi |
+| 843 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `153.0.1` | x64 | ✅ | vi |
+| 844 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `153.0.1` | x64 | ✅ | lt |
+| 845 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `153.0.1` | x64 | ✅ | hi-IN |
+| 846 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `153.0.1` | x64 | ✅ | pt-BR |
+| 847 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `153.0.1` | x64 | ✅ | kk |
+| 848 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `153.0.1` | x64 | ✅ | da |
+| 849 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `153.0.1` | x64 | ✅ | en-GB |
+| 850 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `153.0.1` | x64 | ✅ | sr |
+| 851 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `153.0.1` | x64 | ✅ | es-MX |
+| 852 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `153.0.1` | x64 | ✅ | et |
+| 853 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `153.0.1` | x64 | ✅ | el |
+| 854 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `153.0.1` | x64 | ✅ | af |
+| 855 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `153.0.1` | x64 | ✅ | en-CA |
+| 856 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `153.0.1` | x64 | ✅ | pt-PT |
+| 857 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `153.0.1` | x64 | ✅ | en-US |
+| 858 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `153.0.1` | x64 | ✅ | th |
 | 859 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Portuguese Brazilian) (x64) | `102.15.1` | x64 | ✅ | pt-BR |
 | 860 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Greek) (x64) | `102.15.1` | x64 | ✅ | el |
 | 861 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (Lithuanian) (x64) | `102.15.1` | x64 | ✅ | lt |
@@ -1006,26 +1006,26 @@
 | 998 | Mozilla | Mozilla FrontMotion Firefox Community Edition ESR | FrontMotion Firefox Community Edition ESR (English UK) | `102.15.1` | x86,x64 | ✅ | en-GB |
 | 999 | Mozilla | Mozilla FrontMotion Firefox Community Edition ESR | FrontMotion Firefox Community Edition ESR (Spanish) | `102.15.1` | x86,x64 | ✅ | es-ES |
 | 1000 | Mozilla | Mozilla FrontMotion Firefox Community Edition ESR | FrontMotion Firefox Community Edition ESR (Turkish) | `102.15.1` | x86,x64 | ✅ | tr |
-| 1001 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Finnish) (x64) | `2.53.23` | x64 | ❌ | fi |
-| 1002 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Traditional) (x64) | `2.53.24` | x64 | ❌ | zh-TW |
-| 1003 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Slovak) (x64) | `2.53.23` | x64 | ❌ | sk |
-| 1004 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Swedish) (x64) | `2.53.24` | x64 | ❌ | sv-SE |
-| 1005 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English US) (x64) | `2.53.24` | x64 | ❌ | en-US |
-| 1006 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Russian) (x64) | `2.53.23` | x64 | ❌ | ru |
-| 1007 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Argentina) (x64) | `2.53.23` | x64 | ❌ | es-AR |
-| 1008 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Portugese) (x64) | `2.53.24` | x64 | ❌ | pt-PT |
-| 1009 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Dutch) (x64) | `2.53.23` | x64 | ❌ | nl |
-| 1010 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Japanese) (x64) | `2.53.23` | x64 | ❌ | ja |
-| 1011 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Italian) (x64) | `2.53.23` | x64 | ❌ | it |
-| 1012 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Hungarian) (x64) | `2.53.23` | x64 | ❌ | hu |
-| 1013 | Mozilla | Mozilla SeaMonkey | SeaMonkey (French) (x64) | `2.53.23` | x64 | ❌ | fr |
-| 1014 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Czech) (x64) | `2.53.23` | x64 | ❌ | cs |
-| 1015 | Mozilla | Mozilla SeaMonkey | SeaMonkey (German) (x64) | `2.53.23` | x64 | ❌ | de |
-| 1016 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Spain) (x64) | `2.53.24` | x64 | ❌ | es-ES |
-| 1017 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Simplified) (x64) | `2.53.24` | x64 | ❌ | zh-CN |
-| 1018 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Norwegian Bokmål) (x64) | `2.53.23` | x64 | ❌ | nb-NO |
-| 1019 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Polish) (x64) | `2.53.23` | x64 | ❌ | pl |
-| 1020 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English UK) (x64) | `2.53.24` | x64 | ❌ | en-GB |
+| 1001 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Portugese) (x64) | `2.53.24` | x64 | ❌ | pt-PT |
+| 1002 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Finnish) (x64) | `2.53.23` | x64 | ❌ | fi |
+| 1003 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Traditional) (x64) | `2.53.24` | x64 | ❌ | zh-TW |
+| 1004 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Slovak) (x64) | `2.53.23` | x64 | ❌ | sk |
+| 1005 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Russian) (x64) | `2.53.23` | x64 | ❌ | ru |
+| 1006 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Swedish) (x64) | `2.53.24` | x64 | ❌ | sv-SE |
+| 1007 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Simplified) (x64) | `2.53.24` | x64 | ❌ | zh-CN |
+| 1008 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Argentina) (x64) | `2.53.23` | x64 | ❌ | es-AR |
+| 1009 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English UK) (x64) | `2.53.24` | x64 | ❌ | en-GB |
+| 1010 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English US) (x64) | `2.53.24` | x64 | ❌ | en-US |
+| 1011 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Dutch) (x64) | `2.53.23` | x64 | ❌ | nl |
+| 1012 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Japanese) (x64) | `2.53.23` | x64 | ❌ | ja |
+| 1013 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Italian) (x64) | `2.53.23` | x64 | ❌ | it |
+| 1014 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Hungarian) (x64) | `2.53.23` | x64 | ❌ | hu |
+| 1015 | Mozilla | Mozilla SeaMonkey | SeaMonkey (French) (x64) | `2.53.23` | x64 | ❌ | fr |
+| 1016 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Czech) (x64) | `2.53.23` | x64 | ❌ | cs |
+| 1017 | Mozilla | Mozilla SeaMonkey | SeaMonkey (German) (x64) | `2.53.23` | x64 | ❌ | de |
+| 1018 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Spain) (x64) | `2.53.24` | x64 | ❌ | es-ES |
+| 1019 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Norwegian Bokmål) (x64) | `2.53.23` | x64 | ❌ | nb-NO |
+| 1020 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Polish) (x64) | `2.53.23` | x64 | ❌ | pl |
 | 1021 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Portuguese Brazilian) (x64) | `2.53.23` | x64 | ❌ | pt-BR |
 | 1022 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Greek) (x64) | `2.53.23` | x64 | ❌ | el |
 | 1023 | Mozilla | Mozilla Thunderbird | Thunderbird (Bulgarian) (x64) | `115.8.0` | x64 | ✅ | bg |
@@ -1372,7 +1372,7 @@
 | 1364 | Tableau Software Inc | Tableau Prep Builder 2022 | Tableau Prep Builder 2022.4 | `22.4.27646.0` | x64 | ✅ | en-US |
 | 1365 | TablePlus, Inc | TablePlus | TablePlus | `26.8.0` | x64 | ❌ | en-US |
 | 1366 | Tabular Editor ApS | Tabular Editor 2 | Tabular Editor 2 | `2.24.1` | x86,x64 | ❌ | en-US |
-| 1367 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.98.10` | x64 | ❌ | en-US |
+| 1367 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.102.1` | x64 | ❌ | en-US |
 | 1368 | Talkdesk, Inc. | Talkdesk | Talkdesk | `3.1.1` | x64 | ❌ | en-US |
 | 1369 | Talkdesk, Inc. | Talkdesk | Talkdesk (x64) | `1.6.3.1974` | x64 | ❌ | en-US |
 | 1370 | Tarma Software Research Ltd | Publish or Perish | Publish or Perish | `8.19.5300.9483` | x64 | ❌ | en-US |

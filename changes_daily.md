@@ -1,9 +1,9 @@
 # Catalog Changes — Daily (≥1 day apart)
 
-> **Comparing:** `20260804_031859_AppCatalog.json` (exported 2026-08-04 03:18:59)  
-> **vs:** `20260802_134156_AppCatalog.json` (exported 2026-08-02 13:41:56)  
+> **Comparing:** `20260804_143026_AppCatalog.json` (exported 2026-08-04 14:30:26)  
+> **vs:** `20260803_033559_AppCatalog.json` (exported 2026-08-03 03:35:59)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-08-04 03:19 UTC
+> **Generated:** 2026-08-04 14:31 UTC
 
 ## Summary
 
@@ -11,21 +11,23 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 24 |
+| 🔄 Updated | 27 |
 
-## 🔄 Updated (24 packages)
+## 🔄 Updated (27 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
 | 3Dflow srl | 3DF Zephyr Free | 3DF Zephyr Free version | `9.005` | `9.007` | Version |
+| Abacus Research AG | AbaClient | AbaClient (German) | `4.2.1165` | `4.3.1194` | Version |
 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.164.0` | `1.165.0` | Version |
 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.62` | `1.45.63` | Version |
 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.0.0` | `2.2.1.0` | Version |
+| Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.10901` | `4.2.2607.13001` | Version |
 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.4.0` | `2026.4.1` | Version |
 | CPUID, Inc | HWMonitor | HWMonitor | `1.66` | `1.67` | Version |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.1.3` | `26.1.4` | Version |
-| Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.7` | `8.9.7` | Branch |
 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.7` | `8.9.7` | Branch |
+| Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.7` | `8.9.7` | Branch |
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (MSI) | `3.73.0` | `3.77.0` | Version |
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.73.0` | `3.77.0` | Version |
 | Google | Google Credential Provider for Windows | Google Credential Provider for Windows (x64) | `148.0.7778.160` | `150.0.7871.100` | Version |
@@ -39,6 +41,7 @@
 | ocenaudio | ocenaudio | ocenaudio | `3.20.1` | `3.20.2` | Version |
 | Paessler AG | PRTG Desktop | PRTG Desktop (x64) | `26.0.0` | `26.1.0` | Version |
 | Shotcut | Shotcut | Shotcut (x64) | `26.6.25` | `26.8.1` | Version |
+| Tailscale Inc. | Tailscale | Tailscale (x64) | `1.98.10` | `1.102.1` | Version |
 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.1.0` | `7.1.5` | Version |
 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) (msi) | `7.1.43453` | `7.1.43453` | Branch, Auto-Update |
 
