@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260805_142310_AppCatalog.json` (exported 2026-08-05 14:23:10)  
-> **Generated:** 2026-08-05 14:23 UTC  
+> **Source:** `20260806_031728_AppCatalog.json` (exported 2026-08-06 03:17:28)  
+> **Generated:** 2026-08-06 03:17 UTC  
 > **Total:** 1,575 packages · 928 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -58,7 +58,7 @@
 | 50 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
 | 51 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.165.0` | x64 | ❌ | en-US |
 | 52 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.835.0` | x64 | ❌ | en-US |
-| 53 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.45.63` | x64 | ❌ | en-US |
+| 53 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.46.0` | x64 | ❌ | en-US |
 | 54 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
 | 55 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.1.0` | x64 | ❌ | en-US |
 | 56 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.33.0.5939` | x64 | ❌ | en-US |
@@ -295,7 +295,7 @@
 | 287 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.7` | x64 | ❌ | en-US |
 | 288 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.7` | x64 | ❌ | en-US |
 | 289 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
-| 290 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.6.200` | x64 | ❌ | en-US |
+| 290 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.8.0` | x64 | ❌ | en-US |
 | 291 | draw.io | draw.io Desktop | draw.io Desktop | `31.1.5` | x64 | ✅ | en-US |
 | 292 | dRofus | dRofus | dRofus | `2.18.11.0` | x86,x64 | ❌ | en-US |
 | 293 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `246.4.3513` | x64 | ✅ | en-US |
@@ -426,8 +426,8 @@
 | 418 | Google | Google Backup and Sync | Backup and Sync | `3.56.3802.7766` | x86,x64 | ❌ | en-US |
 | 419 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `151.0.7922.13` | x86,x64 | ❌ | en-US |
 | 420 | Google | Google Credential Provider for Windows | Google Credential Provider for Windows (x64) | `150.0.7871.100` | x64 | ❌ | en-US |
-| 421 | Google | Google Drive | Google Drive | `128.0.0.0` | x64 | ✅ | en-US |
-| 422 | Google | Google Drive File Stream | Google Drive File Stream | `128.0.0.0` | x64 | ❌ | en-US |
+| 421 | Google | Google Drive | Google Drive | `129.0.1.0` | x64 | ✅ | en-US |
+| 422 | Google | Google Drive File Stream | Google Drive File Stream | `129.0.1.0` | x64 | ❌ | en-US |
 | 423 | Google | Google Go Programming Language 1.16 | Go Programming Language 1.16 (x64) | `1.16.15` | x64 | ❌ | en-US |
 | 424 | Google | Google Go Programming Language 1.17 | Go Programming Language 1.17 (x64) | `1.17.13` | x64 | ❌ | en-US |
 | 425 | Google | Google Go Programming Language 1.18 | Go Programming Language 1.18 (x64) | `1.18.10` | x64 | ❌ | en-US |
@@ -437,9 +437,9 @@
 | 429 | Google | Google Go Programming Language 1.22 | Go Programming Language 1.22 (x64) | `1.22.12` | x64 | ❌ | en-US |
 | 430 | Google | Google Web Designer | Google Web Designer (x64) | `14.3.0.0` | x64 | ❌ | en-US |
 | 431 | Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | x64 | ❌ | en-US |
-| 432 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `151.0.7922.72` | x64 | ❌ | en-US |
-| 433 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.19.2` | x64 | ❌ | en-US |
-| 434 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.19.2` | x64 | ❌ | en-US |
+| 432 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `151.0.7922.76` | x64 | ❌ | en-US |
+| 433 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.19.2` | x64 | ❌ | en-US |
+| 434 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.19.2` | x64 | ❌ | en-US |
 | 435 | GP Software | Directory Opus | Directory Opus | `13.18` | x64 | ✅ | en-US |
 | 436 | GSL Biotech LLC | SnapGene Viewer | SnapGene Viewer | `8.2.2` | x86,x64 | ❌ | en-US |
 | 437 | HandBrake Team | HandBrake | HandBrake (x64) | `1.11.2` | x64 | ❌ | en-US |
@@ -469,7 +469,7 @@
 | 461 | Inkscape | Inkscape | Inkscape (x64) | `1.4` | x64 | ❌ | en-US |
 | 462 | Inmatrix | Zoom Player | Zoom Player | `22.5` | x86,x64 | ❌ | en-US |
 | 463 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.5` | x86,x64 | ❌ | en-US |
-| 464 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.31.37.0` | x64 | ❌ | en-US |
+| 464 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.32.60.0` | x64 | ❌ | en-US |
 | 465 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.927.1` | x86,x64 | ❌ | en-US |
 | 466 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.927.1` | x86,x64 | ❌ | en-US |
 | 467 | InterPromo GMBH | 4K Video Downloader | 4K Video Downloader (x64) | `4.33.5` | x64 | ❌ | en-US |
@@ -666,7 +666,7 @@
 | 658 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.427.1` | x64 | ❌ | en-US |
 | 659 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
 | 660 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `151.0.4129.59` | x64 | ✅ | en-US |
-| 661 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `152.0.4181.1` | x64 | ✅ | en-US |
+| 661 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `152.0.4191.7` | x64 | ✅ | en-US |
 | 662 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 663 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `150.0.4078.65` | x64 | ❌ | en-US |
 | 664 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
@@ -1012,10 +1012,10 @@
 | 1004 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Portugese) (x64) | `2.53.24` | x64 | ❌ | pt-PT |
 | 1005 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English UK) (x64) | `2.53.24` | x64 | ❌ | en-GB |
 | 1006 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Slovak) (x64) | `2.53.23` | x64 | ❌ | sk |
-| 1007 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Swedish) (x64) | `2.53.24` | x64 | ❌ | sv-SE |
-| 1008 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English US) (x64) | `2.53.24` | x64 | ❌ | en-US |
-| 1009 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Russian) (x64) | `2.53.23` | x64 | ❌ | ru |
-| 1010 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Argentina) (x64) | `2.53.23` | x64 | ❌ | es-AR |
+| 1007 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English US) (x64) | `2.53.24` | x64 | ❌ | en-US |
+| 1008 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Russian) (x64) | `2.53.23` | x64 | ❌ | ru |
+| 1009 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Argentina) (x64) | `2.53.23` | x64 | ❌ | es-AR |
+| 1010 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Swedish) (x64) | `2.53.24` | x64 | ❌ | sv-SE |
 | 1011 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Dutch) (x64) | `2.53.23` | x64 | ❌ | nl |
 | 1012 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Japanese) (x64) | `2.53.23` | x64 | ❌ | ja |
 | 1013 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Italian) (x64) | `2.53.23` | x64 | ❌ | it |
@@ -1281,7 +1281,7 @@
 | 1273 | RStudio | Rstudio 2024 | RStudio 2024.09 | `2024.09.1.394` | x64 | ❌ | en-US |
 | 1274 | RStudio | Rstudio 2024 | RStudio 2024.12 | `2024.12.1.563` | x64 | ❌ | en-US |
 | 1275 | Rystad Energy | Cube Browser | Cube Browser (x64) | `2.6.62.0` | x64 | ❌ | en-US |
-| 1276 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.145.6` | x64 | ❌ | en-US |
+| 1276 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.146.3` | x64 | ❌ | en-US |
 | 1277 | Samsung | Samsung Smart Switch | Samsung Smart Switch | `4.3.24062.1` | x86,x64 | ❌ | en-US |
 | 1278 | Samsung Techwin Co., Ltd | Samsung Smart View | Smart View | `1.0.0.0` | x86,x64 | ❌ | en-US |
 | 1279 | SanDisk Corporation | SanDisk Dashboard | SanDisk Dashboard | `5.2.2.3` | x86,x64 | ✅ | en-US |
@@ -1309,7 +1309,7 @@
 | 1301 | Semeru | IBM Semeru Runtime Open Edition JRE 20 | IBM Semeru Runtime Open Edition JRE 20 | `20.0.2.9` | x64 | ❌ | en-US |
 | 1302 | Semeru | IBM Semeru Runtime Open Edition JRE 22 | IBM Semeru Runtime Open Edition JRE 22 | `22.0.2.9` | x64 | ❌ | en-US |
 | 1303 | Semeru | IBM Semeru Runtime Open Edition JRE 8 (LTS) | IBM Semeru Runtime Open Edition JRE 8 (LTS) (x64) | `8.0.482.8` | x64 | ❌ | en-US |
-| 1304 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.31.37.0` | x64 | ❌ | en-US |
+| 1304 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.32.60.0` | x64 | ❌ | en-US |
 | 1305 | Shotcut | Shotcut | Shotcut (x64) | `26.8.1` | x64 | ❌ | en-US |
 | 1306 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.5.5` | x64 | ✅ | en-US |
 | 1307 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.5.5` | x64 | ✅ | en-US |
@@ -1549,7 +1549,7 @@
 | 1541 | XMind Ltd | XMind 2020 | XMind 2020 | `10.1.0` | x64 | ❌ | en-US |
 | 1542 | XMind Ltd | XMind 2021 | XMind 2021 | `11.1.2` | x64 | ❌ | en-US |
 | 1543 | XMind Ltd | XMind 2022 | Xmind 2022 | `12.0.3` | x64 | ❌ | en-US |
-| 1544 | XnSoft | XnSoft XnConvert | XnConvert (x64) | `1.114.0` | x64 | ❌ | en-US |
+| 1544 | XnSoft | XnSoft XnConvert | XnConvert (x64) | `1.115.0` | x64 | ❌ | en-US |
 | 1545 | XnSoft | XnSoft XnShell | XnShell (x64) | `4.2.0.0` | x64 | ❌ | en-US |
 | 1546 | XnSoft | XnSoft XnView Extended | XnView (Extended) | `2.52.0` | x86,x64 | ❌ | en-US |
 | 1547 | XnSoft | XnSoft XnView Minimal | XnView (Minimal) | `2.52.0` | x86,x64 | ❌ | en-US |
