@@ -1,9 +1,9 @@
 # Catalog Changes — Daily (≥1 day apart)
 
-> **Comparing:** `20260809_021022_AppCatalog.json` (exported 2026-08-09 02:10:22)  
-> **vs:** `20260808_020248_AppCatalog.json` (exported 2026-08-08 02:02:48)  
+> **Comparing:** `20260809_130354_AppCatalog.json` (exported 2026-08-09 13:03:54)  
+> **vs:** `20260808_130100_AppCatalog.json` (exported 2026-08-08 13:01:00)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-08-09 02:10 UTC
+> **Generated:** 2026-08-09 13:04 UTC
 
 ## Summary
 
@@ -11,11 +11,7 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 1 |
+| 🔄 Updated | 0 |
 
-## 🔄 Updated (1 packages)
-
-| Publisher | App | Branch | Previous Version | New Version | Changed |
-|-----------|-----|--------|:---------------:|:-----------:|---------|
-| Zoom Video Communications, Inc. | Zoom VDI Universal Plugin | Zoom VDI Universal Plugin (x64) | `6.5.10.26710` | `7.0.11.27050` | Version |
+> No changes detected between these two catalog exports.
 
