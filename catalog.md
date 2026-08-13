@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260812_132326_AppCatalog.json` (exported 2026-08-12 13:23:26)  
-> **Generated:** 2026-08-12 13:24 UTC  
+> **Source:** `20260813_022858_AppCatalog.json` (exported 2026-08-13 02:28:58)  
+> **Generated:** 2026-08-13 02:29 UTC  
 > **Total:** 1,574 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -164,8 +164,8 @@
 | 156 | Binary Fortress Software | ClipboardFusion | ClipboardFusion | `6.3` | x64 | ❌ | en-US |
 | 157 | Binary Fortress Software | CloudShow | CloudShow (x64) | `6.6.0.0` | x64 | ❌ | en-US |
 | 158 | Binary Fortress Software | HashTools | HashTools | `4.8.4` | x64 | ✅ | en-US |
-| 159 | Bizagi Limited | Galaxy Modeler | Galaxy Modeler | `13.0.0` | x64 | ❌ | en-US |
-| 160 | Bizagi Limited | Moon Modeler | Moon Modeler | `13.0.0` | x64 | ❌ | en-US |
+| 159 | Bizagi Limited | Galaxy Modeler | Galaxy Modeler | `13.0.1` | x64 | ❌ | en-US |
+| 160 | Bizagi Limited | Moon Modeler | Moon Modeler | `13.0.1` | x64 | ❌ | en-US |
 | 161 | Blender Foundation | Blender | Blender 3.4 (x64) | `3.4.1` | x64 | ❌ | en-US |
 | 162 | Blender Foundation | Blender | Blender 5.0 (x64) | `5.0.1` | x64 | ❌ | en-US |
 | 163 | Blender Foundation | Blender | Blender 3.1 (x64) | `3.1.2` | x64 | ❌ | en-US |
@@ -251,7 +251,7 @@
 | 243 | Cole Williams Software Limited | Windows 10 Codec Pack | Windows 10 Codec Pack | `2.2.0` | x86,x64 | ❌ | en-US |
 | 244 | Comfort Software Group | Free Countdown Timer | Free Countdown Timer | `5.3.1.0` | x86,x64 | ❌ | en-US |
 | 245 | ComponentAgro B.V. | ComponentAgro CHECK PC2Web | CHECK PC2Web | `7.44.0.0` | x86,x64 | ❌ | nl |
-| 246 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9716.421` | x86,x64 | ❌ | en-US |
+| 246 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9720.21565` | x86,x64 | ❌ | en-US |
 | 247 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
 | 248 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `2.20.2` | x64 | ❌ | en-US |
 | 249 | CPUID, Inc | HWMonitor | HWMonitor | `1.67` | x64 | ❌ | en-US |
@@ -289,7 +289,7 @@
 | 281 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
 | 282 | DigiDNA SARL | iMazing | iMazing | `3.6.2.0` | x64 | ❌ | en-US |
 | 283 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.2.1` | x64 | ❌ | en-US |
-| 284 | dnGrep | dnGrep | dnGrep (x64) | `5.0.30.0` | x64 | ❌ | en-US |
+| 284 | dnGrep | dnGrep | dnGrep (x64) | `5.0.49.0` | x64 | ❌ | en-US |
 | 285 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.86.0.236216` | x64 | ✅ | en-US |
 | 286 | Dominik Reichl | KeePass Password Safe (Classic Edition) | KeePass Password Safe (Classic Edition) | `1.43` | x86,x64 | ✅ | en-US |
 | 287 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.7` | x64 | ❌ | en-US |
@@ -330,7 +330,7 @@
 | 322 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 22 | Eclipse Temurin JRE with Hotspot 22 (x64) | `22.0.2.9` | x64 | ❌ | en-US |
 | 323 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 23 | Eclipse Temurin JRE with Hotspot 23 (x64) | `23.0.2.7` | x64 | ❌ | en-US |
 | 324 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 8 (LTS) | Eclipse Temurin JRE with Hotspot 8 (LTS) (x64) | `8.0.502.7` | x64 | ❌ | en-US |
-| 325 | Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.5.1.201` | x64 | ✅ | en-US |
+| 325 | Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.6.0.203` | x64 | ✅ | en-US |
 | 326 | Egnyte, Inc. | Egnyte WebEdit | Egnyte WebEdit | `2.4.1400.90` | x86,x64 | ❌ | en-US |
 | 327 | EIZO | Screen InStyle | Screen InStyle | `1.1.18` | x86,x64 | ❌ | en-US |
 | 328 | ej-technologies GmbH | Install4j | Install4j (x64) | `13.0.2` | x64 | ❌ | en-US |
@@ -358,7 +358,7 @@
 | 350 | ESET | ESET Endpoint Security V12 | Endpoint Security V12 (x64) | `12.1.2057.3` | x64 | ❌ | en-US |
 | 351 | ESET | ESET Endpoint Security V9 | Endpoint Security V9 (x64) | `9.1.2071.0` | x64 | ❌ | en-US |
 | 352 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
-| 353 | Evernote | Evernote | Evernote | `11.28.2` | x64 | ✅ | en-US |
+| 353 | Evernote | Evernote | Evernote | `11.29.2` | x64 | ✅ | en-US |
 | 354 | Exacq Technologies | exacqVision Client | exacqVision Client (x64) | `26.1.8.0` | x64 | ❌ | en-US |
 | 355 | EZB Systems | EZB Systems UltraISO | UltraISO (English) | `9.7.6.3860` | x86,x64 | ❌ | en-US |
 | 356 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.72.048.062` | x64 | ❌ | en-US |
@@ -424,7 +424,7 @@
 | 416 | Google | Google Ads Editor | Google Ads Editor (EXE) | `14.12.6.0` | x64 | ❌ | en-US |
 | 417 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.3.0` | x64 | ❌ | en-US |
 | 418 | Google | Google Backup and Sync | Backup and Sync | `3.56.3802.7766` | x86,x64 | ❌ | en-US |
-| 419 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `151.0.7922.13` | x86,x64 | ❌ | en-US |
+| 419 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `152.0.7977.9` | x86,x64 | ❌ | en-US |
 | 420 | Google | Google Credential Provider for Windows | Google Credential Provider for Windows (x64) | `150.0.7871.100` | x64 | ❌ | en-US |
 | 421 | Google | Google Drive | Google Drive | `129.0.1.0` | x64 | ✅ | en-US |
 | 422 | Google | Google Drive File Stream | Google Drive File Stream | `129.0.1.0` | x64 | ❌ | en-US |
@@ -438,8 +438,8 @@
 | 430 | Google | Google Web Designer | Google Web Designer (x64) | `14.3.0.0` | x64 | ❌ | en-US |
 | 431 | Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | x64 | ❌ | en-US |
 | 432 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `151.0.7922.109` | x64 | ❌ | en-US |
-| 433 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.19.2` | x64 | ❌ | en-US |
-| 434 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.19.2` | x64 | ❌ | en-US |
+| 433 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.19.3` | x64 | ❌ | en-US |
+| 434 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.19.3` | x64 | ❌ | en-US |
 | 435 | GP Software | Directory Opus | Directory Opus | `13.18` | x64 | ✅ | en-US |
 | 436 | GSL Biotech LLC | SnapGene Viewer | SnapGene Viewer | `8.2.2` | x86,x64 | ❌ | en-US |
 | 437 | HandBrake Team | HandBrake | HandBrake (x64) | `1.11.2` | x64 | ❌ | en-US |
@@ -455,8 +455,8 @@
 | 447 | IAM Technology Group Ltd | Cloud Drive Mapper | Cloud Drive Mapper 3 | `3.23.1.41938` | x64 | ❌ | en-US |
 | 448 | IBM | IBM Aspera Connect | Aspera Connect | `4.2.19.956` | x64 | ❌ | en-US |
 | 449 | Iceni Technology Ltd. | Infix PDF Editor | Infix PDF Editor | `7.7.0.0` | x86,x64 | ❌ | en-US |
-| 450 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `14.0.0` | x64 | ❌ | en-US |
-| 451 | Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `13.0.0` | x64 | ❌ | en-US |
+| 450 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `14.0.1` | x64 | ❌ | en-US |
+| 451 | Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `13.0.1` | x64 | ❌ | en-US |
 | 452 | IDM Computer Solutions | UEStudio | UEStudio | `26.0.23` | x64 | ❌ | en-US |
 | 453 | IDM Computer Solutions | UltraCompare | UltraCompare (x64) | `24.1.5` | x64 | ❌ | en-US |
 | 454 | IDM Computer Solutions | UltraFinder | UltraFinder | `24.0.17` | x64 | ❌ | en-US |
@@ -643,8 +643,8 @@
 | 635 | Microsoft | Microsoft .NET Core 2.2 | .NET Core Runtime 2.2 (x64) | `2.2.8.28209` | x64 | ❌ | en-US |
 | 636 | Microsoft | Microsoft .NET Runtime 6.0 | .NET Runtime 6.0 (x64) | `6.0.36.34214` | x64 | ❌ | en-US |
 | 637 | Microsoft | Microsoft .NET Runtime 7.0 | .NET Runtime 7.0 (x64) | `7.0.20.33717` | x64 | ❌ | en-US |
-| 638 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2326.32602` | x64 | ❌ | en-US |
-| 639 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.316` | x64 | ❌ | en-US |
+| 638 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2426.37308` | x64 | ❌ | en-US |
+| 639 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.317` | x64 | ❌ | en-US |
 | 640 | Microsoft | Microsoft Access Database Engine 2016 | Access Database Engine 2016 (x64) | `16.0.5044.1000` | x64 | ❌ | en-US |
 | 641 | Microsoft | Microsoft Active Directory Rights Management Service Client | Active Directory Rights Management Service Client 2.1 (x64) | `1.0.4114.0` | x64 | ❌ | en-US |
 | 642 | Microsoft | Microsoft Analysis Management Objects | Microsoft Analysis Management Objects | `16.0.5627.0` | x64 | ❌ | en-US |
@@ -653,7 +653,7 @@
 | 645 | Microsoft | Microsoft ASP.NET Core Runtime 5.0 | ASP.NET Core Runtime 5.0 (x64) | `5.0.17.22215` | x64 | ❌ | en-US |
 | 646 | Microsoft | Microsoft ASP.NET Core Runtime 6.0 | ASP.NET Core Runtime 6.0 (x64) | `6.0.36.24516` | x64 | ❌ | en-US |
 | 647 | Microsoft | Microsoft ASP.NET Core Runtime 7.0 | ASP.NET Core Runtime 7.0 (x64) | `7.0.20.24269` | x64 | ❌ | en-US |
-| 648 | Microsoft | Microsoft Azure CLI | Azure CLI (x64) | `2.89.0` | x64 | ❌ | en-US |
+| 648 | Microsoft | Microsoft Azure CLI | Azure CLI (x64) | `2.89.1` | x64 | ❌ | en-US |
 | 649 | Microsoft | Microsoft Azure CLI | Azure CLI | `2.60.0` | x86,x64 | ❌ | en-US |
 | 650 | Microsoft | Microsoft Azure Connected Machine Agent | Azure Connected Machine Agent | `1.67.03504.3207` | x64 | ❌ | en-US |
 | 651 | Microsoft | Microsoft Azure Data CLI | Azure Data CLI | `20.3.14` | x64 | ❌ | en-US |
@@ -665,7 +665,7 @@
 | 657 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.727.1` | x64 | ❌ | en-US |
 | 658 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
 | 659 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `152.0.4191.19` | x64 | ✅ | en-US |
-| 660 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `152.0.4191.10` | x64 | ✅ | en-US |
+| 660 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `153.0.4210.0` | x64 | ✅ | en-US |
 | 661 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 662 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `150.0.4078.65` | x64 | ❌ | en-US |
 | 663 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
@@ -767,22 +767,22 @@
 | 759 | Microsoft | Microsoft Visual Studio 2010 Tools for Office Runtime | Visual Studio 2010 Tools for Office Runtime (x64) | `10.0.60917.00` | x64 | ❌ | en-US |
 | 760 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37531.7` | x64 | ❌ | en-US |
 | 761 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 762 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
-| 763 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
-| 764 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
-| 765 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 766 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
-| 767 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 768 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37516.0` | x64 | ❌ | en-US |
+| 762 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37531.7` | x64 | ❌ | en-US |
+| 763 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
+| 764 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
+| 765 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
+| 766 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
+| 767 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
+| 768 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 769 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 770 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
-| 771 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37516.0` | x64 | ❌ | en-US |
-| 772 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 773 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 774 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
-| 775 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
+| 771 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
+| 772 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
+| 773 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
+| 774 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
+| 775 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37531.7` | x64 | ❌ | en-US |
 | 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 777 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.132.0` | x64 | ✅ | en-US |
+| 777 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.133.0` | x64 | ✅ | en-US |
 | 778 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37531.7` | x64 | ❌ | en-US |
 | 779 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 780 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -1112,7 +1112,7 @@
 | 1104 | NVIDIA | NVIDIA GeForce Experience | NVIDIA GeForce Experience | `11.0.1.163` | x64 | ✅ | en-US |
 | 1105 | NWEA | NWEA Secure Testing Browser | NWEA Secure Testing Browser | `5.4.405.0` | x86,x64 | ❌ | en-US |
 | 1106 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.12.4` | x64 | ❌ | en-US |
-| 1107 | ocenaudio | ocenaudio | ocenaudio | `3.20.2` | x64 | ❌ | en-US |
+| 1107 | ocenaudio | ocenaudio | ocenaudio | `3.20.4` | x64 | ❌ | en-US |
 | 1108 | Oleg Shparber | Zeal | Zeal (x64) | `0.9.1` | x64 | ❌ | en-US |
 | 1109 | Ontotext | GraphDB Desktop | GraphDB Desktop | `10.8.4` | x64 | ❌ | en-US |
 | 1110 | openaudible.org | OpenAudible | OpenAudible | `4.8.8` | x64 | ❌ | en-US |
@@ -1329,7 +1329,7 @@
 | 1321 | Snapmaker | Snapmaker Luban | Snapmaker Luban (x64) | `4.15.0` | x64 | ❌ | en-US |
 | 1322 | SnelStart | SnelStart | SnelStart | `12.195.179` | x86,x64 | ❌ | nl |
 | 1323 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.5` | x64 | ❌ | en-US |
-| 1324 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.0.1` | x64 | ❌ | en-US |
+| 1324 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.0.2` | x64 | ❌ | en-US |
 | 1325 | Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.23.28922.0` | x64 | ❌ | de |
 | 1326 | Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.23.28922.0` | x64 | ❌ | en-US |
 | 1327 | Softerra | Softerra LDAP Browser | LDAP Browser - German (x64) | `4.5.19808.0` | x64 | ❌ | de |
@@ -1373,15 +1373,15 @@
 | 1365 | TablePlus, Inc | TablePlus | TablePlus | `26.8.0` | x64 | ❌ | en-US |
 | 1366 | Tabular Editor ApS | Tabular Editor 2 | Tabular Editor 2 | `2.24.1` | x86,x64 | ❌ | en-US |
 | 1367 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.102.2` | x64 | ❌ | en-US |
-| 1368 | Talkdesk, Inc. | Talkdesk | Talkdesk | `3.1.1` | x64 | ❌ | en-US |
+| 1368 | Talkdesk, Inc. | Talkdesk | Talkdesk | `3.2.0` | x64 | ❌ | en-US |
 | 1369 | Talkdesk, Inc. | Talkdesk | Talkdesk (x64) | `1.6.3.1974` | x64 | ❌ | en-US |
 | 1370 | Tarma Software Research Ltd | Publish or Perish | Publish or Perish | `8.19.5300.9483` | x64 | ❌ | en-US |
 | 1371 | TDP s.r.o. | TDP SecureAnyBox Agent | SecureAnyBox Agent | `3.0.3.0` | x86,x64 | ❌ | en-US |
 | 1372 | TDP s.r.o. | TDP SecureAnyBox Launcher | SecureAnyBox Launcher | `2.6.0.0` | x86,x64 | ❌ | en-US |
 | 1373 | TeamSpeak Systems | TeamSpeak client | TeamSpeak client (x64) | `3.6.2` | x64 | ❌ | en-US |
-| 1374 | TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.80.4.0` | x64 | ❌ | en-US |
+| 1374 | TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.80.6.0` | x64 | ❌ | en-US |
 | 1375 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host | `15.69.5.0` | x86,x64 | ❌ | en-US |
-| 1376 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.80.4.0` | x64 | ❌ | en-US |
+| 1376 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.80.6.0` | x64 | ❌ | en-US |
 | 1377 | TechSmith Corporation | Camtasia 2018 | Camtasia 2018 | `18.0.8.4591` | x64 | ✅ | en-US |
 | 1378 | TechSmith Corporation | Camtasia Studio 2019 | Camtasia Studio 2019 | `2019.0.11.17779` | x64 | ✅ | en-US |
 | 1379 | TechSmith Corporation | Snagit 2018 | Snagit 2018 (x64) | `2018.2.6` | x64 | ✅ | en-US |
@@ -1460,7 +1460,7 @@
 | 1452 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (French) | `7.5.9.2` | x64 | ❌ | fr |
 | 1453 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (English US) | `7.5.9.2` | x64 | ❌ | en-US |
 | 1454 | The Document Foundation | The Document Foundation LibreOffice 7.5 SDK | LibreOffice 7.5 SDK | `7.5.9.2` | x64 | ❌ | en-US |
-| 1455 | The Git Development Community | Git | Git (x64) | `2.55.0.3` | x64 | ✅ | en-US |
+| 1455 | The Git Development Community | Git | Git (x64) | `2.55.0.4` | x64 | ✅ | en-US |
 | 1456 | The Graphviz Authors | Graphviz | Graphviz (x64) | `13.1.0` | x64 | ❌ | en-US |
 | 1457 | The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.2.1` | x64 | ❌ | en-US |
 | 1458 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58` | x64 | ❌ | en-US |
