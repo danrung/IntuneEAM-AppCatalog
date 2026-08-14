@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260813_132456_AppCatalog.json` (exported 2026-08-13 13:24:56)  
-> **Generated:** 2026-08-13 13:25 UTC  
+> **Source:** `20260814_022656_AppCatalog.json` (exported 2026-08-14 02:26:56)  
+> **Generated:** 2026-08-14 02:27 UTC  
 > **Total:** 1,574 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -196,7 +196,7 @@
 | 188 | Box | Box Drive | Box Drive (x64) | `2.53.223` | x64 | ❌ | en-US |
 | 189 | Box | Box Tools | Box Tools (System Installer) | `4.32.0.1324` | x64 | ❌ | en-US |
 | 190 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | x64 | ❌ | en-US |
-| 191 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.93.129` | x64 | ❌ | en-US |
+| 191 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.93.136` | x64 | ❌ | en-US |
 | 192 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.85.0` | x64 | ❌ | en-US |
 | 193 | Brink Software B.V. | Ibis Calculeren voor Bouw | Ibis Calculeren voor Bouw | `4.2.73.0` | x64 | ❌ | nl |
 | 194 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | x64 | ❌ | en-US |
@@ -311,7 +311,7 @@
 | 303 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 12 | Eclipse Temurin JDK with Hotspot 12 (x64) | `12.0.2.10` | x64 | ❌ | en-US |
 | 304 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 15 | Eclipse Temurin JDK with Hotspot 15 (x64) | `15.0.2.7` | x64 | ❌ | en-US |
 | 305 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 16 | Eclipse Temurin JDK with Hotspot 16 (x64) | `16.0.2.7` | x64 | ❌ | en-US |
-| 306 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.19.10` | x64 | ❌ | en-US |
+| 306 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.20.8` | x64 | ❌ | en-US |
 | 307 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 18 | Eclipse Temurin JDK with Hotspot 18 (x64) | `18.0.2.101` | x64 | ❌ | en-US |
 | 308 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 19 | Eclipse Temurin JDK with Hotspot 19 (x64) | `19.0.2.7` | x64 | ❌ | en-US |
 | 309 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 20 | Eclipse Temurin JDK with Hotspot 20 (x64) | `20.0.2.9` | x64 | ❌ | en-US |
@@ -323,7 +323,7 @@
 | 315 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 12 | Eclipse Temurin JRE with Hotspot 12 (x64) | `12.0.2.10` | x64 | ❌ | en-US |
 | 316 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 15 | Eclipse Temurin JRE with Hotspot 15 (x64) | `15.0.2.7` | x64 | ❌ | en-US |
 | 317 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 16 | Eclipse Temurin JRE with Hotspot 16 (x64) | `16.0.1.9` | x64 | ❌ | en-US |
-| 318 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 17 (LTS) | Eclipse Temurin JRE with Hotspot 17 (LTS) (x64) | `17.0.19.10` | x64 | ❌ | en-US |
+| 318 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 17 (LTS) | Eclipse Temurin JRE with Hotspot 17 (LTS) (x64) | `17.0.20.8` | x64 | ❌ | en-US |
 | 319 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 18 | Eclipse Temurin JRE with Hotspot 18 (x64) | `18.0.2.101` | x64 | ❌ | en-US |
 | 320 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 19 | Eclipse Temurin JRE with Hotspot 19 (x64) | `19.0.2.7` | x64 | ❌ | en-US |
 | 321 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 20 | Eclipse Temurin JRE with Hotspot 20 (x64) | `20.0.2.9` | x64 | ❌ | en-US |
@@ -374,25 +374,25 @@
 | 366 | Foxit Software | Foxit PDF Editor 11 | Foxit PDF Editor 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 367 | Foxit Software | Foxit PDF Editor 12 | Foxit PDF Editor 12 | `12.1.9.15762` | x86,x64 | ✅ | en-US |
 | 368 | Foxit Software | Foxit PDF Editor 12 | Foxit PDF Editor 12 (Multi-Language) | `12.1.9.15762` | x86,x64 | ✅ | mul |
-| 369 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.5.24109` | x86,x64 | ✅ | en-US |
-| 370 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.5.24109` | x86,x64 | ✅ | en-US |
+| 369 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.6.24111` | x86,x64 | ✅ | en-US |
+| 370 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.5.24109` | x86,x64 | ✅ | en-US |
 | 371 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 372 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 373 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
 | 374 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 375 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.5.24109` | x86,x64 | ✅ | en-US |
-| 376 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.5.24109` | x86,x64 | ✅ | mul |
+| 376 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.6.24111` | x86,x64 | ✅ | mul |
 | 377 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader | `2025.1.0.27937` | x86,x64 | ✅ | en-US |
-| 378 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.2.36540` | x64 | ✅ | en-US |
+| 378 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.3.36551` | x64 | ✅ | en-US |
 | 379 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (MSI) | `2025.2.0.33046` | x64 | ✅ | en-US |
 | 380 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x86) (MSI) | `2025.2.0.33046` | x86,x64 | ✅ | mul |
-| 381 | Foxit Software | Foxit PhantomPDF 10 | Foxit PhantomPDF 10 (Multi-Language) | `10.1.12.37872` | x86,x64 | ❌ | mul |
-| 382 | Foxit Software | Foxit PhantomPDF 10 | Foxit PhantomPDF 10 | `10.1.12.37872` | x86,x64 | ❌ | en-US |
-| 383 | Foxit Software | Foxit PhantomPDF Pro 10 | Foxit PhantomPDF Pro 10 | `10.1.11.37866` | x86,x64 | ❌ | en-US |
-| 384 | Foxit Software | Foxit PhantomPDF Pro 10 | Foxit PhantomPDF Pro 10 (Multi-Language) | `10.1.12.37872` | x86,x64 | ❌ | mul |
+| 381 | Foxit Software | Foxit PhantomPDF 10 | Foxit PhantomPDF 10 | `10.1.12.37872` | x86,x64 | ❌ | en-US |
+| 382 | Foxit Software | Foxit PhantomPDF 10 | Foxit PhantomPDF 10 (Multi-Language) | `10.1.12.37872` | x86,x64 | ❌ | mul |
+| 383 | Foxit Software | Foxit PhantomPDF Pro 10 | Foxit PhantomPDF Pro 10 (Multi-Language) | `10.1.12.37872` | x86,x64 | ❌ | mul |
+| 384 | Foxit Software | Foxit PhantomPDF Pro 10 | Foxit PhantomPDF Pro 10 | `10.1.11.37866` | x86,x64 | ❌ | en-US |
 | 385 | FreeCAD | FreeCAD | FreeCAD (x64) | `1.1.3` | x64 | ❌ | en-US |
-| 386 | Freedom Scientific | Fusion | Fusion 2025 (x64) | `2025.2508.29.400` | x64 | ❌ | en-US |
-| 387 | Freedom Scientific | Fusion | Fusion 2026 (x64) | `2026.2606.27.400` | x64 | ❌ | en-US |
+| 386 | Freedom Scientific | Fusion | Fusion 2026 (x64) | `2026.2608.3.400` | x64 | ❌ | en-US |
+| 387 | Freedom Scientific | Fusion | Fusion 2025 (x64) | `2025.2508.29.400` | x64 | ❌ | en-US |
 | 388 | Freedom Scientific | JAWS | JAWS 2026 (x64) | `2026.2603.86.400` | x64 | ❌ | en-US |
 | 389 | Freedom Scientific | JAWS | JAWS 2025 (x64) | `2025.2508.120.400` | x64 | ❌ | en-US |
 | 390 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.77.0` | x64 | ❌ | en-US |
@@ -437,7 +437,7 @@
 | 429 | Google | Google Go Programming Language 1.22 | Go Programming Language 1.22 (x64) | `1.22.12` | x64 | ❌ | en-US |
 | 430 | Google | Google Web Designer | Google Web Designer (x64) | `14.3.0.0` | x64 | ❌ | en-US |
 | 431 | Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | x64 | ❌ | en-US |
-| 432 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `151.0.7922.109` | x64 | ❌ | en-US |
+| 432 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `151.0.7922.138` | x64 | ❌ | en-US |
 | 433 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.19.3` | x64 | ❌ | en-US |
 | 434 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.19.3` | x64 | ❌ | en-US |
 | 435 | GP Software | Directory Opus | Directory Opus | `13.18` | x64 | ✅ | en-US |
@@ -525,15 +525,15 @@
 | 517 | JetBrains | JetBrains dotUltimate | dotUltimate 2024.1 | `2024.1.7` | x86,x64 | ❌ | en-US |
 | 518 | JetBrains | JetBrains ReSharper 2023.1 | ReSharper 2023.1 | `2023.1.7` | x86,x64 | ❌ | en-US |
 | 519 | JetBrains | TeamCity | TeamCity | `2026.1.2` | x86,x64 | ❌ | en-US |
-| 520 | JetBrains | WebStorm | WebStorm 2026.1 (x64) | `2026.1.4` | x64 | ❌ | en-US |
-| 521 | JetBrains | WebStorm | WebStorm 2026.2 (x64) | `2026.2.1` | x64 | ❌ | en-US |
-| 522 | JetBrains | WebStorm | WebStorm 2024.3 (x64) | `2024.3.6.1` | x64 | ❌ | en-US |
-| 523 | JetBrains | WebStorm | WebStorm 2025.1 (x64) | `2025.1.7.2` | x64 | ❌ | en-US |
+| 520 | JetBrains | WebStorm | WebStorm 2026.2 (x64) | `2026.2.1` | x64 | ❌ | en-US |
+| 521 | JetBrains | WebStorm | WebStorm 2024.3 (x64) | `2024.3.6.1` | x64 | ❌ | en-US |
+| 522 | JetBrains | WebStorm | WebStorm 2025.1 (x64) | `2025.1.7.2` | x64 | ❌ | en-US |
+| 523 | JetBrains | WebStorm | WebStorm 2026.1 (x64) | `2026.1.5` | x64 | ❌ | en-US |
 | 524 | JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.6.1` | x64 | ❌ | en-US |
 | 525 | JetBrains | WebStorm | WebStorm 2025.2 (x64) | `2025.2.6.2` | x64 | ❌ | en-US |
 | 526 | JetBrains | WebStorm 2022.2 | WebStorm 2022.2 (x64) | `2022.2.5` | x64 | ❌ | en-US |
 | 527 | Joachim Eibl | KDiff3 | KDiff3 (x64) | `1.12.4` | x64 | ❌ | en-US |
-| 528 | John MacFarlane | Pandoc | Pandoc | `3.10.1` | x64 | ❌ | en-US |
+| 528 | John MacFarlane | Pandoc | Pandoc | `3.10.2` | x64 | ❌ | en-US |
 | 529 | Junction Networks | OnSIP | OnSIP | `3.35.0` | x64 | ❌ | en-US |
 | 530 | Juraj Simlovic | TED Notepad | TED Notepad (ANSI) | `6.3.1` | x86,x64 | ✅ | en-US |
 | 531 | Juraj Simlovic | TED Notepad | TED Notepad (Unicode) | `6.3.1` | x86,x64 | ✅ | en-US |
@@ -603,7 +603,7 @@
 | 595 | Martin Prikryl | WinSCP | WinSCP (MSI) | `6.3.8` | x86,x64 | ✅ | en-US |
 | 596 | Martin Raiber | UrBackup Client | UrBackup Client | `2.5.25` | x64 | ❌ | en-US |
 | 597 | MatterHackers Inc. | MatterControl | MatterControl | `2.22.04.11498` | x86,x64 | ❌ | en-US |
-| 598 | Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.2.2` | x64 | ❌ | en-US |
+| 598 | Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.0` | x64 | ❌ | en-US |
 | 599 | Maxima Software (Pty) Ltd | Maxcut | Maxcut | `2.9.6.7` | x86,x64 | ❌ | en-US |
 | 600 | Medixant | RadiAnt DICOM viewer | RadiAnt DICOM viewer | `2025.1` | x64 | ❌ | en-US |
 | 601 | MementoDB Inc. | Memento Desktop Edition | Memento Desktop Edition (x64) | `3.9.0` | x64 | ❌ | en-US |
@@ -1265,7 +1265,7 @@
 | 1257 | Red Hat | Red Hat OpenJDK JRE | Red Hat OpenJDK JRE 11 | `11.0.250.1` | x64 | ❌ | en-US |
 | 1258 | Relux Informatik AG | ReluxDesktop | ReluxDesktop (x64) | `2026.2.2.0` | x64 | ❌ | en-US |
 | 1259 | REV Robotics | REV Hardware Client | REV Hardware Client | `1.7.6` | x64 | ❌ | en-US |
-| 1260 | RingCentral | RingCentral App | RingCentral App | `26.3.1012.1623` | x64 | ❌ | en-US |
+| 1260 | RingCentral | RingCentral App | RingCentral App (x64) | `26.3.1012.1623` | x64 | ❌ | en-US |
 | 1261 | RingCentral | RingCentral Phone | RingCentral Phone | `24.3.0.47527` | x86,x64 | ❌ | en-US |
 | 1262 | Ringler Informatik AG | Snapform Viewer | Snapform Viewer (x64) | `1.8.7` | x64 | ❌ | en-US |
 | 1263 | riok GmbH | Kreya | Kreya (x64) | `1.20.3` | x64 | ❌ | en-US |
@@ -1363,7 +1363,7 @@
 | 1355 | Synology | Synology Cloud Station Backup | Synology Cloud Station Backup | `4.3.3.4469` | x86,x64 | ❌ | en-US |
 | 1356 | Synology | Synology Cloud Station Drive | Synology Cloud Station Drive | `4.3.3.4469` | x86,x64 | ❌ | en-US |
 | 1357 | Synology | Synology Drive Client | Synology Drive Client | `3.5.0.16084` | x86,x64 | ❌ | en-US |
-| 1358 | Synology | Synology Drive Client | Synology Drive Client (x64) | `4.0.3.17892` | x64 | ❌ | en-US |
+| 1358 | Synology | Synology Drive Client | Synology Drive Client (x64) | `4.2.0.20058` | x64 | ❌ | en-US |
 | 1359 | Synology | Synology Evidence Integrity Authenticator | Synology Evidence Integrity Authenticator | `1.2.3.025` | x86,x64 | ❌ | en-US |
 | 1360 | Sysprogs | Sysprogs SmarTTY | SmarTTY | `3.0` | x86,x64 | ❌ | en-US |
 | 1361 | Tableau Software Inc | Tableau Desktop 2022 | Tableau Desktop 2022.3 | `2022.3.22` | x64 | ❌ | en-US |
@@ -1536,8 +1536,8 @@
 | 1528 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.4.0` | x86,x64 | ❌ | en-US |
 | 1529 | WinDirStat Team | WinDirStat | WinDirStat (x64) | `2.2.2` | x64 | ❌ | en-US |
 | 1530 | WireGuard LLC | WireGuard | WireGuard (x64) | `0.5.3` | x64 | ❌ | en-US |
-| 1531 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.7` | x64 | ❌ | en-US |
-| 1532 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.17` | x64 | ❌ | en-US |
+| 1531 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.18` | x64 | ❌ | en-US |
+| 1532 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.8` | x64 | ❌ | en-US |
 | 1533 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) | `4.7.2` | x64 | ❌ | en-US |
 | 1534 | WiX Toolset | WiX Toolset 3 | WiX Toolset 3 | `3.14` | x86,x64 | ❌ | en-US |
 | 1535 | Wonder Unit Inc. | Storyboarder | Storyboarder | `3.0.0` | x64 | ❌ | en-US |
