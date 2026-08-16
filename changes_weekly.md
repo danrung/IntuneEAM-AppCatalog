@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20260815_124928_AppCatalog.json` (exported 2026-08-15 12:49:28)  
-> **vs:** `20260808_020248_AppCatalog.json` (exported 2026-08-08 02:02:48)  
+> **Comparing:** `20260816_014445_AppCatalog.json` (exported 2026-08-16 01:44:45)  
+> **vs:** `20260808_130100_AppCatalog.json` (exported 2026-08-08 13:01:00)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-08-15 12:49 UTC
+> **Generated:** 2026-08-16 01:45 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 143 |
+| 🔄 Updated | 142 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Box | Box Tools | Box Tools (User Installer) | `4.32.0.1324` | x64 |
 
-## 🔄 Updated (143 packages)
+## 🔄 Updated (142 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -30,10 +30,10 @@
 | Bizagi Limited | Moon Modeler | Moon Modeler | `13.0.0` | `13.0.1` | Version |
 | Box | Box Drive | Box Drive (x64) | `2.52.315` | `2.53.223` | Version |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.93.129` | `1.93.136` | Version |
-| Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.8.0.35593` | `46.8.0.35631` | Version |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.8.0.35593` | `46.8.0.35631` | Version |
-| Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.8.0.35593` | `46.8.0.35631` | Version |
+| Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.8.0.35593` | `46.8.0.35631` | Version |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.8.0.35593` | `46.8.0.35631` | Version |
+| Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.8.0.35593` | `46.8.0.35631` | Version |
 | Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR | `25.7.2000.2020` | `25.7.3000.3034` | Version |
 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.6.880.0` | `26.6.905.0` | Version |
 | code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50721.0` | `7.04.50814.0` | Version |
@@ -87,66 +87,66 @@
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37516.0` | `17.14.37531.7` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.132.0` | `1.133.0` | Version |
 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37516.0` | `17.14.37531.7` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `153.0.3` | `153.0.4` | Version |
 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `153.0.3` | `153.0.4` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `153.0.3` | `153.0.4` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `153.0.3` | `153.0.4` | Version |
 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `153.0.3` | `153.0.4` | Version |
 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `153.0.3` | `153.0.4` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `153.0.3` | `153.0.4` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Portuguese Brazilian) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Finnish) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Norwegian Bokmål) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Polish) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Russian) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Greek) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (German) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Italian) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Czech) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Hungarian) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Dutch) (x64) | `2.53.23` | `2.53.24` | Version |
-| Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Argentina) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `153.0.3` | `153.0.4` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `153.0.3` | `153.0.4` | Version |
 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Japanese) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Russian) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Portuguese Brazilian) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Dutch) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Finnish) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Argentina) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Italian) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Polish) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (German) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Czech) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Norwegian Bokmål) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Greek) (x64) | `2.53.23` | `2.53.24` | Version |
+| Mozilla | Mozilla SeaMonkey | SeaMonkey (Hungarian) (x64) | `2.53.23` | `2.53.24` | Version |
 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.78.1` | `1.79.0` | Version |
 | ocenaudio | ocenaudio | ocenaudio | `3.20.2` | `3.20.4` | Version |
 | openaudible.org | OpenAudible | OpenAudible | `4.8.7` | `4.8.8` | Version |
@@ -162,8 +162,7 @@
 | TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.80.4.0` | `15.80.6.0` | Version |
 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.80.4.0` | `15.80.6.0` | Version |
 | The Git Development Community | Git | Git (x64) | `2.55.0.3` | `2.55.0.4` | Version |
-| Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.7` | `4.6.8` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.17` | `4.4.18` | Version |
+| Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.7` | `4.6.8` | Version |
 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.1.5` | `7.1.6` | Version |
-| Zoom Video Communications, Inc. | Zoom VDI Universal Plugin | Zoom VDI Universal Plugin (x64) | `6.5.10.26710` | `7.0.11.27050` | Version |
 
