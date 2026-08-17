@@ -83,13 +83,12 @@
       document.getElementById('repo-link').href   = repo;
       document.getElementById('footer-link').href = repo;
 
-      // Derive GitHub Pages URL: github.com/user/repo → user.github.io/repo
-      var m = repo.match(/github\.com\/([^/]+)\/([^/]+)/);
-      if (m) {
-        var feedUrl = 'https://' + m[1] + '.github.io/' + m[2] + '/feed.xml';
-        var feedEl  = document.getElementById('rss-feed-url');
-        if (feedEl) feedEl.textContent = feedUrl;
-      }
+    }
+
+    // Feed URL from the page's own location — works on the custom domain and on github.io
+    var feedEl = document.getElementById('rss-feed-url');
+    if (feedEl && location.protocol.indexOf('http') === 0) {
+      feedEl.textContent = new URL('feed.xml', location.href).href;
     }
 
     // Nav buttons

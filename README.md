@@ -6,7 +6,7 @@ The raw data comes from the Microsoft Graph API. Exports are dropped into this r
 
 ## What's in Here
 
-🌐 **[Live Catalog](https://danrung.github.io/IntuneEAM-AppCatalog/)** Searchable, filterable website with the full package list — the stat cards double as filters. Follows your system light/dark preference, with a toggle in the header.
+🌐 **[Live Catalog](https://eam.drung.dev/)** Searchable, filterable website with the full package list — the stat cards double as filters. Follows your system light/dark preference, with a toggle in the header.
 
 📦 **[App Catalog](catalog.md)** Every available package, sorted by publisher and app name.
 
@@ -20,7 +20,7 @@ The raw data comes from the Microsoft Graph API. Exports are dropped into this r
 
 🗓️ **[Monthly Changes](changes_monthly.md)** Changes compared to the nearest export from at least 30 days ago.
 
-📡 **[RSS Feed](https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml)** Subscribe to catalog changes in any RSS reader.
+📡 **[RSS Feed](https://eam.drung.dev/feed.xml)** Subscribe to catalog changes in any RSS reader.
 
 Raw exports: [catalog/](catalog/) for the current file, [archive/](archive/) for the full history.
 
@@ -30,7 +30,7 @@ Stay up to date without checking the site manually. Every time a new catalog exp
 
 **Feed URL:**
 ```
-https://danrung.github.io/IntuneEAM-AppCatalog/feed.xml
+https://eam.drung.dev/feed.xml
 ```
 
 Each feed item contains:

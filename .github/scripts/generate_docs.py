@@ -656,13 +656,20 @@ def _feed_description(structured, source_ts, site_url="#", max_show=20):
 def generate_feed(changes_latest, stats, source_file, repo_url):
     """Append a new RSS item to docs/feed.xml, keeping the last 50 items."""
     feed_path = "docs/feed.xml"
-    site_url  = f"{repo_url.rstrip('/')}/".replace("github.com/", "danrung.github.io/") \
-                if "github.com" in (repo_url or "") else (repo_url or "#")
-    # Derive GitHub Pages URL from repo URL: github.com/user/repo → user.github.io/repo
-    import re as _re
-    m = _re.search(r"github\.com/([^/]+)/([^/]+)$", repo_url or "")
-    if m:
-        site_url = f"https://{m.group(1)}.github.io/{m.group(2)}/"
+    site_url  = repo_url or "#"
+    # Prefer the custom domain in docs/CNAME; fall back to the GitHub Pages URL
+    # derived from the repo URL: github.com/user/repo → user.github.io/repo
+    custom_domain = ""
+    if os.path.exists("docs/CNAME"):
+        with open("docs/CNAME", encoding="utf-8") as f:
+            custom_domain = f.read().strip()
+    if custom_domain:
+        site_url = f"https://{custom_domain}/"
+    else:
+        import re as _re
+        m = _re.search(r"github\.com/([^/]+)/([^/]+)$", repo_url or "")
+        if m:
+            site_url = f"https://{m.group(1)}.github.io/{m.group(2)}/"
     feed_url = site_url.rstrip("/") + "/feed.xml"
 
     source_ts = stats["source_ts"]
