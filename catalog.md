@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260816_125059_AppCatalog.json` (exported 2026-08-16 12:50:59)  
-> **Generated:** 2026-08-16 12:51 UTC  
+> **Source:** `20260817_014233_AppCatalog.json` (exported 2026-08-17 01:42:33)  
+> **Generated:** 2026-08-17 01:43 UTC  
 > **Total:** 1,575 packages · 927 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -767,8 +767,8 @@
 | 759 | Microsoft | Microsoft Visual C++ v14 Redistributable | Microsoft Visual C++ v14 Redistributable (x64) | `14.51.36247.0` | x64 | ❌ | en-US |
 | 760 | Microsoft | Microsoft Visual Studio 2010 Tools for Office Runtime | Visual Studio 2010 Tools for Office Runtime (x64) | `10.0.60917.00` | x64 | ❌ | en-US |
 | 761 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37531.7` | x64 | ❌ | en-US |
-| 762 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 763 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37531.7` | x64 | ❌ | en-US |
+| 762 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37531.7` | x64 | ❌ | en-US |
+| 763 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 764 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
 | 765 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
 | 766 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
