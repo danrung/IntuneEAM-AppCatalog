@@ -486,6 +486,9 @@ select:focus { border-color: var(--accent); }
   max-height: 70dvh;
   min-height: 200px;
 }
+/* The changes tables size to their rows — the 200px floor above is only for the
+   catalog table, where filters can empty the list without collapsing the card. */
+#view-changes .table-scroll { min-height: 0; }
 table {
   width: 100%;
   border-collapse: collapse;
