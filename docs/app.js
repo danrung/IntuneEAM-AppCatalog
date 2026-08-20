@@ -91,9 +91,18 @@
       feedEl.textContent = new URL('feed.xml', location.href).href;
     }
 
-    // Nav buttons
+    // Nav buttons — the hash mirrors the view so the static pages under apps/
+    // can deep-link into a view (../#stats) and back/forward moves between views.
     document.querySelectorAll('.nav-btn[data-view]').forEach(function (btn) {
-      btn.addEventListener('click', function () { switchView(btn.dataset.view); });
+      btn.addEventListener('click', function () {
+        var v = btn.dataset.view;
+        if (v === 'catalog') {
+          history.replaceState(null, '', location.pathname + location.search);
+        } else if (location.hash !== '#' + v) {
+          location.hash = v;
+        }
+        switchView(v);
+      });
     });
 
     // Imprint modal — focus moves into the dialog on open, Tab stays inside it,
@@ -127,6 +136,16 @@
       if (e.shiftKey && document.activeElement === first)      { e.preventDefault(); last.focus(); }
       else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
     });
+
+    // Apply the view (or the imprint modal) named in the URL hash, now and on
+    // every hash change. Unknown hashes fall back to the catalog.
+    function applyHash() {
+      var h = location.hash.replace('#', '');
+      if (h === 'imprint') { openImprint(); return; }
+      switchView(VIEWS.indexOf(h) !== -1 ? h : 'catalog');
+    }
+    window.addEventListener('hashchange', applyHash);
+    applyHash();
 
     // Stat cards strip (catalog view)
     var cardColors = ['var(--card-1)', 'var(--card-2)', 'var(--card-3)',

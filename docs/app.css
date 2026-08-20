@@ -166,6 +166,7 @@ header {
 }
 .header-logo svg { width: 16px; height: 16px; stroke: var(--accent-fg); }
 .header-title {
+  margin: 0;   /* neutralise the h1 default so the header keeps its height */
   font-size: 1rem;
   font-weight: 600;
   color: var(--text-1);
@@ -270,6 +271,8 @@ header {
 .nav-btn:hover { color: var(--text-1); }
 .nav-btn.active { color: var(--accent); }
 .nav-btn.active::after { opacity: 1; }
+/* Nav entries that are links (the whole nav on the static app pages) */
+a.nav-btn { text-decoration: none; }
 
 .nav-sep {
   flex: 1;
@@ -289,13 +292,16 @@ main {
   .topnav { position: static; }
 
   #view-catalog { display: flex; flex-direction: column; height: 100%; }
+  /* The card grows with its rows but never past the available space — a short
+     result list ends with the card instead of dragging empty surface behind it. */
+  #view-catalog > :not(.table-card) { flex-shrink: 0; }
   #view-catalog .table-card {
-    flex: 1;
+    flex: 0 1 auto;
     min-height: 200px;
     display: flex;
     flex-direction: column;
   }
-  #view-catalog .table-scroll { flex: 1; min-height: 0; max-height: none; }
+  #view-catalog .table-scroll { flex: 0 1 auto; min-height: 0; max-height: none; }
 }
 
 /* ── STAT CARDS ──────────────────────────────────────────────────────────── */
@@ -952,6 +958,22 @@ footer a:hover { color: var(--text-1); }
   border-top: 1px solid var(--border);
   margin: 4px 0;
 }
+
+/* ── STATIC APP PAGES (docs/apps/) ───────────────────────────────────────── */
+.app-page { margin: 0 auto; }   /* centre the content column on the screen */
+.header-title a { color: inherit; text-decoration: none; }
+.app-title {
+  margin: 0 0 6px;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-1);
+  letter-spacing: -.01em;
+}
+.app-breadcrumb { font-size: .8125rem; color: var(--text-3); }
+.app-breadcrumb a { color: var(--accent); text-decoration: none; }
+.app-breadcrumb a:hover { text-decoration: underline; }
+.docs-section a { color: var(--accent); text-decoration: none; }
+.docs-section a:hover { text-decoration: underline; }
 
 /* ── RESPONSIVE ──────────────────────────────────────────────────────────── */
 @media (max-width: 768px) {

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eam.drung.dev/sitemap.xml

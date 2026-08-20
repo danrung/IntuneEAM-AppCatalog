@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """
-Generate catalog.md, stats.md, changes*.md, docs/catalog.json and update README.md
-from *_AppCatalog.json files found in catalog/ and archive/.
+Generate catalog.md, stats.md, changes*.md, docs/catalog.json, the static per-product
+pages under docs/apps/, docs/sitemap.xml, and update README.md from *_AppCatalog.json
+files found in catalog/ and archive/.
 
 Static website files (docs/index.html, docs/app.css, docs/app.js) are committed once
-and never regenerated — only docs/catalog.json changes on each run.
+and never regenerated — docs/catalog.json, docs/changes.json, docs/feed.xml,
+docs/apps/ and docs/sitemap.xml are rewritten on each run.
 
 Run from the repository root:
     python .github/scripts/generate_docs.py
@@ -81,6 +83,23 @@ def get_repo_url():
             return f"https://github.com/{m.group(1)}"
     except Exception:
         pass
+    return ""
+
+
+def get_site_url(repo_url):
+    """Public base URL of the website, with trailing slash.
+
+    Prefers the custom domain in docs/CNAME; falls back to the GitHub Pages URL
+    derived from the repo URL: github.com/user/repo → user.github.io/repo.
+    """
+    if os.path.exists("docs/CNAME"):
+        with open("docs/CNAME", encoding="utf-8") as f:
+            domain = f.read().strip()
+        if domain:
+            return f"https://{domain}/"
+    m = re.search(r"github\.com/([^/]+)/([^/]+)$", repo_url or "")
+    if m:
+        return f"https://{m.group(1)}.github.io/{m.group(2)}/"
     return ""
 
 
@@ -656,21 +675,8 @@ def _feed_description(structured, source_ts, site_url="#", max_show=20):
 def generate_feed(changes_latest, stats, source_file, repo_url):
     """Append a new RSS item to docs/feed.xml, keeping the last 50 items."""
     feed_path = "docs/feed.xml"
-    site_url  = repo_url or "#"
-    # Prefer the custom domain in docs/CNAME; fall back to the GitHub Pages URL
-    # derived from the repo URL: github.com/user/repo → user.github.io/repo
-    custom_domain = ""
-    if os.path.exists("docs/CNAME"):
-        with open("docs/CNAME", encoding="utf-8") as f:
-            custom_domain = f.read().strip()
-    if custom_domain:
-        site_url = f"https://{custom_domain}/"
-    else:
-        import re as _re
-        m = _re.search(r"github\.com/([^/]+)/([^/]+)$", repo_url or "")
-        if m:
-            site_url = f"https://{m.group(1)}.github.io/{m.group(2)}/"
-    feed_url = site_url.rstrip("/") + "/feed.xml"
+    site_url  = get_site_url(repo_url) or repo_url or "#"
+    feed_url  = site_url.rstrip("/") + "/feed.xml"
 
     source_ts = stats["source_ts"]
     pub_date  = _rss_date(source_ts)
@@ -733,6 +739,326 @@ def generate_feed(changes_latest, stats, source_file, repo_url):
     with open(feed_path, "w", encoding="utf-8") as f:
         f.write(channel)
     print(f"  docs/feed.xml             — {len(all_items)} item(s)")
+
+
+# ---------------------------------------------------------------------------
+# docs/apps/ — static per-product pages + index, crawlable without JavaScript.
+# The SPA renders the catalog client-side, which search engines index poorly;
+# these pages give every product a stable URL with real HTML content.
+# ---------------------------------------------------------------------------
+
+# Single-line copy of the theme bootstrap inlined in docs/index.html.
+_THEME_SCRIPT = (
+    "(function(){var t=null;try{t=localStorage.getItem('theme')}catch(e){}"
+    "if(t!=='light'&&t!=='dark'){t=window.matchMedia('(prefers-color-scheme: dark)')"
+    ".matches?'dark':'light'}document.documentElement.dataset.theme=t}());"
+)
+
+_FAVICON = (
+    "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E"
+    "%3Crect width='32' height='32' rx='7' fill='%230078d4'/%3E%3Cg fill='none' stroke='%23fff' "
+    "stroke-width='2.6' stroke-linejoin='round'%3E%3Crect x='7' y='7' width='7.5' height='7.5'/%3E"
+    "%3Crect x='17.5' y='7' width='7.5' height='7.5'/%3E%3Crect x='7' y='17.5' width='7.5' "
+    "height='7.5'/%3E%3Crect x='17.5' y='17.5' width='7.5' height='7.5'/%3E%3C/g%3E%3C/svg%3E"
+)
+
+# Same Cloudflare Web Analytics beacon as docs/index.html — covered by the
+# privacy notice in the imprint on the main page.
+_CF_BEACON = (
+    '<script type=\'module\' src=\'https://static.cloudflareinsights.com/beacon.min.js\' '
+    'data-cf-beacon=\'{"token": "2905f0a2f65147db9c879ca2702b1743"}\'></script>'
+)
+
+# SVG icons copied from docs/index.html so both look identical.
+_ICON_GITHUB = (
+    '<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">'
+    '<path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 '
+    "0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695"
+    "-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99"
+    ".105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225"
+    "-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405"
+    "c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 "
+    "0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 "
+    '0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>'
+)
+_ICON_SUN = (
+    '<svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" '
+    'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    '<circle cx="12" cy="12" r="4"/>'
+    '<path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2'
+    'M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>'
+)
+_ICON_MOON = (
+    '<svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" '
+    'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    '<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>'
+)
+
+_TOPNAV = (
+    '<nav class="topnav"><div class="topnav-inner">'
+    '<a class="nav-btn" href="../">Catalog</a>'
+    '<a class="nav-btn" href="../#stats">Statistics</a>'
+    '<a class="nav-btn" href="../#changes">Changes</a>'
+    '<a class="nav-btn" href="../#docs">Docs</a>'
+    "</div></nav>"
+)
+
+# Wires the theme toggle; the initial theme is resolved by _THEME_SCRIPT in <head>.
+_TOGGLE_SCRIPT = (
+    "<script>(function(){var r=document.documentElement,"
+    "b=document.getElementById('theme-toggle');if(!b)return;"
+    "b.addEventListener('click',function(){"
+    "var n=r.dataset.theme==='dark'?'light':'dark';r.dataset.theme=n;"
+    "try{localStorage.setItem('theme',n)}catch(e){}});}());</script>"
+)
+
+
+def _page_header(repo_url):
+    gh = (
+        f'<a class="header-link" href="{_xml_escape(repo_url)}" target="_blank" '
+        f'rel="noopener">{_ICON_GITHUB} GitHub</a>'
+    ) if repo_url else ""
+    return (
+        '<header><div class="header-inner"><div class="header-brand">'
+        '<div class="header-logo"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" '
+        'stroke-linecap="round" stroke-linejoin="round">'
+        '<rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>'
+        '<rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>'
+        "</svg></div>"
+        '<div><div class="header-title"><a href="../">Intune EAM App Catalog</a></div>'
+        '<div class="header-sub">Microsoft Intune Enterprise Application Management</div>'
+        "</div></div>"
+        '<div class="header-meta">'
+        '<button class="theme-toggle" id="theme-toggle" type="button" '
+        'aria-label="Switch between light and dark theme" title="Toggle theme">'
+        f"{_ICON_SUN}{_ICON_MOON}</button>"
+        f"{gh}"
+        "</div></div></header>"
+    )
+
+
+def _page_footer(repo_url):
+    gh = (
+        f'<a href="{_xml_escape(repo_url)}" target="_blank" rel="noopener">View on GitHub</a>'
+        '<span class="footer-sep">&middot;</span>'
+    ) if repo_url else ""
+    return (
+        '<footer><span>Made with <span class="heart">&#9829;</span> by Daniel Rung</span>'
+        "<span>Data from the Microsoft Graph API &mdash; "
+        "<code>win32MobileAppCatalogPackage</code></span>"
+        f'<div class="footer-links"><a href="./">All Apps</a>'
+        f'<span class="footer-sep">&middot;</span>{gh}'
+        '<a href="../#imprint">Legal Notice</a></div></footer>'
+    )
+
+
+def _slugify(s):
+    """URL slug from a display name; accents folded, everything else hyphenated."""
+    import unicodedata
+    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode("ascii")
+    s = re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+    return s or "app"
+
+
+def _version_key(v):
+    """Sort key that orders '9.0' before '10.1' inside a version string."""
+    return [(0, int(p)) if p.isdigit() else (1, p.lower())
+            for p in re.split(r"(\d+)", v or "")]
+
+
+def _product_key(a):
+    return a.get("productId") or (
+        (a.get("publisherDisplayName") or "") + "|" + (a.get("productDisplayName") or "")
+    )
+
+
+def _static_page(title, desc, canonical, body_html, extra_head="", repo_url=""):
+    canon = f'\n  <link rel="canonical" href="{_xml_escape(canonical)}" />' if canonical else ""
+    return (
+        "<!DOCTYPE html>\n"
+        '<html lang="en">\n'
+        "<head>\n"
+        '  <meta charset="UTF-8" />\n'
+        '  <meta name="viewport" content="width=device-width, initial-scale=1.0" />\n'
+        '  <meta name="color-scheme" content="light dark" />\n'
+        f"  <title>{_xml_escape(title)}</title>\n"
+        f'  <meta name="description" content="{_xml_escape(desc)}" />'
+        f"{canon}\n"
+        f"  <script>{_THEME_SCRIPT}</script>\n"
+        f'  <link rel="icon" href="{_FAVICON}" />\n'
+        '  <link rel="stylesheet" href="../app.css" />\n'
+        f"  {_CF_BEACON}"
+        f"{extra_head}\n"
+        "</head>\n"
+        '<body>\n<div id="app">\n'
+        f"{_page_header(repo_url)}\n{_TOPNAV}\n"
+        '<main><div class="docs-container app-page">\n'
+        f"{body_html}\n"
+        "</div></main>\n"
+        f"{_page_footer(repo_url)}\n"
+        "</div>\n"
+        f"{_TOGGLE_SCRIPT}\n"
+        "</body>\n</html>\n"
+    )
+
+
+def _render_app_page(slug, packages, site_url, source_ts, repo_url):
+    product   = packages[0].get("productDisplayName", "")
+    publisher = packages[0].get("publisherDisplayName", "")
+    n      = len(packages)
+    latest = max((p.get("versionDisplayName") or "" for p in packages), key=_version_key)
+    auto   = any(p.get("packageAutoUpdateCapable") for p in packages)
+
+    desc = (
+        f"{product} by {publisher} in the Microsoft Intune Enterprise App Management (EAM) "
+        f"catalog — {n} package{'s' if n != 1 else ''}, latest version {latest}, "
+        f"auto-update {'supported' if auto else 'not supported'}."
+    )
+    ld = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": product,
+        "operatingSystem": "Windows",
+        "softwareVersion": latest,
+        "publisher": {"@type": "Organization", "name": publisher},
+    }, ensure_ascii=False)
+
+    rows = "".join(
+        f"<tr><td>{_xml_escape(p.get('branchDisplayName', ''))}</td>"
+        f"<td><code>{_xml_escape(p.get('versionDisplayName', ''))}</code></td>"
+        f"<td>{_xml_escape(p.get('applicableArchitectures', ''))}</td>"
+        f"<td>{'Yes' if p.get('packageAutoUpdateCapable') else 'No'}</td>"
+        f"<td>{_xml_escape(', '.join(p.get('locales', [])))}</td></tr>"
+        for p in sorted(packages, key=lambda p: (
+            (p.get("branchDisplayName") or "").lower(),
+            _version_key(p.get("versionDisplayName")),
+        ))
+    )
+    body = (
+        '<nav class="app-breadcrumb"><a href="../">Catalog</a> &rsaquo; '
+        f'<a href="./">All Apps</a> &rsaquo; {_xml_escape(product)}</nav>\n'
+        '<section class="docs-section">\n'
+        f'<h1 class="app-title">{_xml_escape(product)}</h1>\n'
+        f"<p>Published by <strong>{_xml_escape(publisher)}</strong> available in the "
+        "Microsoft Intune Enterprise App Management (EAM) catalog as "
+        f"{n} package{'s' if n != 1 else ''}; latest version <code>{_xml_escape(latest)}</code>; "
+        f"auto-update {'supported' if auto else 'not supported'}.</p>\n"
+        '<table class="docs-table"><thead><tr><th>Branch</th><th>Version</th>'
+        "<th>Architecture</th><th>Auto-Update</th><th>Locales</th></tr></thead>"
+        f"<tbody>{rows}</tbody></table>\n"
+        f"<p>Data exported {_xml_escape(source_ts)}. "
+        '<a href="../">Browse and search the full catalog</a> for current versions and '
+        "change history. Not affiliated with Microsoft.</p>\n"
+        "</section>"
+    )
+    canonical = f"{site_url}apps/{slug}.html" if site_url else ""
+    extra_head = f'\n  <script type="application/ld+json">{ld}</script>'
+    return _static_page(f"{product} by {publisher} — Intune EAM App Catalog",
+                        desc, canonical, body, extra_head, repo_url)
+
+
+def _render_apps_index(products, site_url, source_ts, repo_url):
+    rows = "".join(
+        f"<tr><td>{_xml_escape(pub)}</td>"
+        f'<td><a href="{slug}.html">{_xml_escape(name)}</a></td>'
+        f"<td>{n}</td><td><code>{_xml_escape(latest)}</code></td></tr>"
+        for slug, pub, name, n, latest in products
+    )
+    desc = (
+        f"Index of all {len(products):,} applications available in the "
+        "Microsoft Intune Enterprise App Management (EAM) catalog."
+    )
+    body = (
+        '<nav class="app-breadcrumb"><a href="../">Catalog</a> &rsaquo; All Apps</nav>\n'
+        '<section class="docs-section">\n'
+        '<h1 class="app-title">All Apps</h1>\n'
+        f"<p>{desc} Data exported {_xml_escape(source_ts)}.</p>\n"
+        '<table class="docs-table"><thead><tr><th>Publisher</th><th>App</th>'
+        "<th>Packages</th><th>Latest Version</th></tr></thead>"
+        f"<tbody>{rows}</tbody></table>\n"
+        "</section>"
+    )
+    canonical = f"{site_url}apps/" if site_url else ""
+    return _static_page("All Apps — Intune EAM App Catalog", desc, canonical, body,
+                        repo_url=repo_url)
+
+
+def generate_app_pages(apps, latest_file, site_url, repo_url):
+    """Write one static page per product plus an index; prune pages for products
+    that left the catalog. Returns the sorted list of page slugs."""
+    groups = {}
+    for a in apps:
+        groups.setdefault(_product_key(a), []).append(a)
+
+    def gname(key):
+        p = groups[key][0]
+        return ((p.get("publisherDisplayName") or "").lower(),
+                (p.get("productDisplayName") or "").lower())
+
+    # Slugs are assigned in a deterministic order so name collisions get the
+    # same ordinal suffix run after run.
+    slug_map = {}
+    for key in sorted(groups, key=gname):
+        g = groups[key]
+        pub, name = g[0].get("publisherDisplayName", ""), g[0].get("productDisplayName", "")
+        # Skip the publisher prefix when the product name already starts with it
+        # ("Mozilla" + "Mozilla Firefox" → mozilla-firefox, not mozilla-mozilla-firefox).
+        base = _slugify(name if name.lower().startswith(pub.lower()) else f"{pub}-{name}")
+        slug, i = base, 2
+        while slug in slug_map:
+            slug = f"{base}-{i}"
+            i += 1
+        slug_map[slug] = g
+
+    os.makedirs("docs/apps", exist_ok=True)
+    source_ts = filename_to_ts(latest_file)
+    index_rows = []
+    for slug, g in slug_map.items():
+        with open(f"docs/apps/{slug}.html", "w", encoding="utf-8") as f:
+            f.write(_render_app_page(slug, g, site_url, source_ts, repo_url))
+        index_rows.append((
+            slug,
+            g[0].get("publisherDisplayName", ""),
+            g[0].get("productDisplayName", ""),
+            len(g),
+            max((p.get("versionDisplayName") or "" for p in g), key=_version_key),
+        ))
+
+    index_rows.sort(key=lambda r: (r[1].lower(), r[2].lower()))
+    with open("docs/apps/index.html", "w", encoding="utf-8") as f:
+        f.write(_render_apps_index(index_rows, site_url, source_ts, repo_url))
+
+    keep = {f"{s}.html" for s in slug_map} | {"index.html"}
+    stale = [p for p in glob.glob("docs/apps/*.html") if os.path.basename(p) not in keep]
+    for p in stale:
+        os.remove(p)
+
+    note = f", {len(stale)} stale page(s) removed" if stale else ""
+    print(f"  docs/apps/                — {len(slug_map):,} product page(s) + index{note}")
+    return sorted(slug_map)
+
+
+# ---------------------------------------------------------------------------
+# docs/sitemap.xml — homepage, apps index, and every product page
+# ---------------------------------------------------------------------------
+
+def generate_sitemap(site_url, slugs, latest_file):
+    if not site_url:
+        print("  docs/sitemap.xml          — skipped (no site URL available)")
+        return
+    dt = parse_dt(latest_file)
+    lastmod = f"\n    <lastmod>{dt.strftime('%Y-%m-%d')}</lastmod>" if dt else ""
+    urls = [site_url, f"{site_url}apps/"] + [f"{site_url}apps/{s}.html" for s in slugs]
+    entries = "".join(
+        f"  <url>\n    <loc>{_xml_escape(u)}</loc>{lastmod}\n  </url>\n" for u in urls
+    )
+    with open("docs/sitemap.xml", "w", encoding="utf-8") as f:
+        f.write(
+            '<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            + entries + "</urlset>\n"
+        )
+    print(f"  docs/sitemap.xml          — {len(urls):,} URL(s)")
 
 
 # ---------------------------------------------------------------------------
@@ -833,7 +1159,11 @@ def main():
 
     generate_catalog_json(current_apps, stats, latest_file)
     generate_changes_json(changes_data)
-    generate_feed(changes_data.get("latest"), stats, latest_file, get_repo_url())
+    repo_url = get_repo_url()
+    site_url = get_site_url(repo_url)
+    generate_feed(changes_data.get("latest"), stats, latest_file, repo_url)
+    slugs = generate_app_pages(current_apps, latest_file, site_url, repo_url)
+    generate_sitemap(site_url, slugs, latest_file)
     update_readme(stats)
     print("\nDone.")
 

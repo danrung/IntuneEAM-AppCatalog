@@ -13,6 +13,15 @@
   <meta property="og:description" content="Browsable catalog of Microsoft Intune Enterprise App Management (EAM) packages — searchable app list with statistics, change history, and an RSS feed for catalog updates." />
   <meta property="og:url" content="https://eam.drung.dev/" />
   <meta name="twitter:card" content="summary" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Intune EAM App Catalog",
+    "url": "https://eam.drung.dev/",
+    "description": "Browsable catalog of Microsoft Intune Enterprise App Management (EAM) packages — searchable app list with statistics, change history, and an RSS feed for catalog updates."
+  }
+  </script>
   <script>
     /* Resolve the theme before first paint so the page never flashes the wrong palette.
        Stored choice wins; otherwise follow the OS. app.js keeps following the OS
@@ -54,7 +63,7 @@
             </svg>
           </div>
           <div>
-            <div class="header-title">Intune EAM App Catalog</div>
+            <h1 class="header-title">Intune EAM App Catalog</h1>
             <div class="header-sub">Microsoft Intune Enterprise Application Management</div>
           </div>
         </div>
@@ -366,6 +375,8 @@
       <span>Made with <span class="heart">♥</span> by Daniel Rung</span>
       <span>Data from the Microsoft Graph API &mdash; <code>win32MobileAppCatalogPackage</code></span>
       <div class="footer-links">
+        <a href="apps/">All Apps</a>
+        <span class="footer-sep">·</span>
         <a id="footer-link" href="#" target="_blank" rel="noopener">View on GitHub</a>
         <span class="footer-sep">·</span>
         <button class="footer-imprint-btn" id="imprint-open">Legal Notice</button>
