@@ -707,6 +707,20 @@ td.col-ver  {
   font-size: .75rem;
   color: var(--text-3);
 }
+/* Rows beyond the top-N cutoff stay rendered but hidden until the block expands */
+.stats-block:not(.expanded) .stats-extra { display: none; }
+.stats-toggle {
+  margin-top: 12px;
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: .75rem;
+  color: var(--text-2);
+  background: var(--bg);
+  cursor: pointer;
+  transition: border-color .15s, background .15s;
+}
+.stats-toggle:hover { border-color: var(--border-strong); background: var(--surface-3); }
 
 /* ── CHANGES VIEW ────────────────────────────────────────────────────────── */
 .changes-tabs {

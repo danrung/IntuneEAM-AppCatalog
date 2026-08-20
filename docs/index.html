@@ -5,6 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="color-scheme" content="light dark" />
   <title>Intune EAM App Catalog</title>
+  <meta name="description" content="Browsable catalog of Microsoft Intune Enterprise App Management (EAM) packages — searchable app list with statistics, change history, and an RSS feed for catalog updates." />
+  <link rel="canonical" href="https://eam.drung.dev/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Intune EAM App Catalog" />
+  <meta property="og:title" content="Intune EAM App Catalog" />
+  <meta property="og:description" content="Browsable catalog of Microsoft Intune Enterprise App Management (EAM) packages — searchable app list with statistics, change history, and an RSS feed for catalog updates." />
+  <meta property="og:url" content="https://eam.drung.dev/" />
+  <meta name="twitter:card" content="summary" />
   <script>
     /* Resolve the theme before first paint so the page never flashes the wrong palette.
        Stored choice wins; otherwise follow the OS. app.js keeps following the OS
@@ -21,6 +29,7 @@
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230078d4'/%3E%3Cg fill='none' stroke='%23fff' stroke-width='2.6' stroke-linejoin='round'%3E%3Crect x='7' y='7' width='7.5' height='7.5'/%3E%3Crect x='17.5' y='7' width='7.5' height='7.5'/%3E%3Crect x='7' y='17.5' width='7.5' height='7.5'/%3E%3Crect x='17.5' y='17.5' width='7.5' height='7.5'/%3E%3C/g%3E%3C/svg%3E" />
   <link rel="stylesheet" href="app.css" />
   <link rel="alternate" type="application/rss+xml" title="Intune EAM App Catalog — Changes" href="feed.xml" />
+  <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "2905f0a2f65147db9c879ca2702b1743"}'></script><!-- End Cloudflare Web Analytics -->
 </head>
 <body>
 
@@ -118,6 +127,7 @@
             </svg>
             <input type="search" id="search"
                    placeholder="Search publisher, app name, branch, version…"
+                   aria-label="Search packages by publisher, app name, branch, or version"
                    autocomplete="off" />
           </div>
           <div class="controls-divider"></div>
@@ -400,10 +410,17 @@
            are described in the
            <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement"
               target="_blank" rel="noopener">GitHub Privacy Statement</a>.</p>
-        <p>The site itself sets no cookies and uses no analytics, tracking, or third-party
-           services. Your selected colour theme is stored locally in your browser
-           (<code>localStorage</code>) and is never transmitted. No personal data is
-           collected or stored by me.</p>
+        <p>This site uses <strong>Cloudflare Web Analytics</strong>, a privacy-focused
+           measurement service operated by Cloudflare, Inc. (USA). It works without
+           cookies, stores no identifiers in your browser, and does not track you
+           across sites; it records aggregated usage data such as the visited page,
+           referrer, browser type, and country. Details are described in the
+           <a href="https://www.cloudflare.com/privacypolicy/"
+              target="_blank" rel="noopener">Cloudflare Privacy Policy</a>.</p>
+        <p>Beyond that, the site sets no cookies and uses no other analytics, tracking,
+           or third-party services. Your selected colour theme is stored locally in your
+           browser (<code>localStorage</code>) and is never transmitted. No personal data
+           is collected or stored by me.</p>
       </div>
     </div>
   </div>

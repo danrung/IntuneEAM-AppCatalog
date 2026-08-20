@@ -51,7 +51,7 @@
     .catch(function (err) {
       document.getElementById('loading').innerHTML =
         '<p style="color:#ef4444;font-size:.875rem">Failed to load catalog.json: ' +
-        err.message + '</p>';
+        esc(err.message) + '</p>';
     });
 
   // ── View switching ────────────────────────────────────────────────────────
@@ -96,19 +96,36 @@
       btn.addEventListener('click', function () { switchView(btn.dataset.view); });
     });
 
-    // Imprint modal
-    var overlay = document.getElementById('imprint-overlay');
-    document.getElementById('imprint-open').addEventListener('click', function () {
+    // Imprint modal — focus moves into the dialog on open, Tab stays inside it,
+    // and closing hands focus back to wherever it came from.
+    var overlay   = document.getElementById('imprint-overlay');
+    var modal     = overlay.querySelector('.imprint-modal');
+    var lastFocus = null;
+
+    function openImprint() {
+      lastFocus = document.activeElement;
       overlay.classList.add('open');
-    });
-    document.getElementById('imprint-close').addEventListener('click', function () {
+      document.getElementById('imprint-close').focus();
+    }
+    function closeImprint() {
       overlay.classList.remove('open');
-    });
+      if (lastFocus && lastFocus.focus) lastFocus.focus();
+    }
+
+    document.getElementById('imprint-open').addEventListener('click', openImprint);
+    document.getElementById('imprint-close').addEventListener('click', closeImprint);
     overlay.addEventListener('click', function (e) {
-      if (e.target === overlay) overlay.classList.remove('open');
+      if (e.target === overlay) closeImprint();
     });
     document.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape') overlay.classList.remove('open');
+      if (!overlay.classList.contains('open')) return;
+      if (e.key === 'Escape') { closeImprint(); return; }
+      if (e.key !== 'Tab') return;
+      var focusables = modal.querySelectorAll('a[href], button');
+      if (!focusables.length) return;
+      var first = focusables[0], last = focusables[focusables.length - 1];
+      if (e.shiftKey && document.activeElement === first)      { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
     });
 
     // Stat cards strip (catalog view)
@@ -308,6 +325,14 @@
   }
 
   // ── Column Sort ───────────────────────────────────────────────────────────
+  // Numeric-aware compare so version strings order naturally ("9.0" before "10.1").
+  function cmpValues(av, bv) {
+    if (typeof av === 'string' && typeof bv === 'string') {
+      return av.localeCompare(bv, undefined, { numeric: true });
+    }
+    return av < bv ? -1 : av > bv ? 1 : 0;
+  }
+
   // col index → sort key extractor
   var SORT_KEYS = {
     1: function (r) { return (r.app.publisherDisplayName || '').toLowerCase(); },
@@ -334,8 +359,7 @@
 
         var keyFn = SORT_KEYS[i];
         rowMeta.sort(function (a, b) {
-          var av = keyFn(a), bv = keyFn(b);
-          return av < bv ? -sortDir : av > bv ? sortDir : 0;
+          return cmpValues(keyFn(a), keyFn(b)) * sortDir;
         });
         rowMeta.forEach(function (row) { tbody.appendChild(row.tr); });
 
@@ -387,7 +411,7 @@
         rows.sort(function (a, b) {
           var av = a.cells[i] ? a.cells[i].textContent.toLowerCase() : '';
           var bv = b.cells[i] ? b.cells[i].textContent.toLowerCase() : '';
-          return av < bv ? -sortDir : av > bv ? sortDir : 0;
+          return cmpValues(av, bv) * sortDir;
         });
         rows.forEach(function (r) { tbody.appendChild(r); });
       });
@@ -402,8 +426,7 @@
       pubCounts[pub] = (pubCounts[pub] || 0) + 1;
     });
     var pubSorted = Object.keys(pubCounts).sort(function (a, b) { return pubCounts[b] - pubCounts[a]; });
-    var top10  = pubSorted.slice(0, 10);
-    var maxPub = pubCounts[top10[0]] || 1;
+    var maxPub = pubCounts[pubSorted[0]] || 1;
 
     var archCounts = {};
     apps.forEach(function (a) {
@@ -436,15 +459,18 @@
     html += '</div>';
 
     html += '<div class="stats-block"><div class="stats-block-title">Top Publishers</div>';
-    top10.forEach(function (pub) {
+    pubSorted.forEach(function (pub, i) {
       var count = pubCounts[pub];
       var pct   = Math.round((count / maxPub) * 100);
-      html += '<div class="pub-bar-row">' +
+      html += '<div class="pub-bar-row' + (i >= 10 ? ' stats-extra' : '') + '">' +
         '<span class="pub-name" title="' + esc(pub) + '">' + esc(pub) + '</span>' +
         '<div class="bar-wrap"><div class="bar-fill" style="width:' + pct + '%"></div></div>' +
         '<span class="pub-count">' + count.toLocaleString() + '</span></div>';
     });
-    if (pubSorted.length > 10) html += '<p class="stats-note">Top 10 of ' + pubSorted.length.toLocaleString() + ' publishers.</p>';
+    if (pubSorted.length > 10) {
+      html += statsToggle('Show all ' + pubSorted.length.toLocaleString() + ' publishers',
+                          'Show top 10 only');
+    }
     html += '</div>';
 
     html += '<div class="stats-block"><div class="stats-block-title">Architecture Breakdown</div>' +
@@ -458,16 +484,33 @@
 
     html += '<div class="stats-block"><div class="stats-block-title">Supported Locales</div>' +
       '<table class="stats-table"><thead><tr><th>Locale</th><th>Packages</th></tr></thead><tbody>';
-    localeSorted.slice(0, 20).forEach(function (locale) {
-      html += '<tr><td><span class="tag tag-locale">' + esc(locale) + '</span></td>' +
+    localeSorted.forEach(function (locale, i) {
+      html += '<tr' + (i >= 20 ? ' class="stats-extra"' : '') + '>' +
+        '<td><span class="tag tag-locale">' + esc(locale) + '</span></td>' +
         '<td>' + localeCounts[locale].toLocaleString() + '</td></tr>';
     });
+    html += '</tbody></table>';
     if (localeSorted.length > 20) {
-      html += '<tr><td colspan="2" class="stats-note">… and ' + (localeSorted.length - 20) + ' more</td></tr>';
+      html += statsToggle('Show all ' + localeSorted.length + ' locales', 'Show top 20 only');
     }
-    html += '</tbody></table></div>';
+    html += '</div>';
 
-    document.getElementById('stats-content').innerHTML = html;
+    var statsRoot = document.getElementById('stats-content');
+    statsRoot.innerHTML = html;
+
+    // Each toggle expands its own block; the hidden rows are already rendered.
+    statsRoot.querySelectorAll('.stats-toggle').forEach(function (btn) {
+      var block = btn.closest('.stats-block');
+      btn.addEventListener('click', function () {
+        var open = block.classList.toggle('expanded');
+        btn.textContent = open ? btn.dataset.less : btn.dataset.more;
+      });
+    });
+  }
+
+  function statsToggle(moreLabel, lessLabel) {
+    return '<button type="button" class="stats-toggle" data-more="' + esc(moreLabel) +
+      '" data-less="' + esc(lessLabel) + '">' + esc(moreLabel) + '</button>';
   }
 
   // ── Changes view ──────────────────────────────────────────────────────────
@@ -671,7 +714,8 @@
   }
 
   function esc(s) {
-    return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+                    .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
   }
 
   function autoBadge(capable) {
