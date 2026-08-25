@@ -1,9 +1,9 @@
 # Catalog Changes — Daily (≥1 day apart)
 
-> **Comparing:** `20260824_130147_AppCatalog.json` (exported 2026-08-24 13:01:47)  
+> **Comparing:** `20260825_013929_AppCatalog.json` (exported 2026-08-25 01:39:29)  
 > **vs:** `20260823_125201_AppCatalog.json` (exported 2026-08-23 12:52:01)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-08-24 13:02 UTC
+> **Generated:** 2026-08-25 01:39 UTC
 
 ## Summary
 
@@ -11,7 +11,28 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 0 |
+| 🔄 Updated | 18 |
 
-> No changes detected between these two catalog exports.
+## 🔄 Updated (18 packages)
+
+| Publisher | App | Branch | Previous Version | New Version | Changed |
+|-----------|-----|--------|:---------------:|:-----------:|---------|
+| DAX Studio | DAX Studio | DAX Studio | `3.5.2.1205` | `3.6.0.1243` | Version |
+| Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.87.0.236836` | `4.88.0.237115` | Version |
+| Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.7` | `8.9.8` | Version |
+| Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.7` | `8.9.8` | Version |
+| draw.io | draw.io Desktop | draw.io Desktop | `31.3.1` | `31.3.2` | Version |
+| dRofus | dRofus | dRofus | `2.18.14.0` | `2.18.15.0` | Version |
+| Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.20.8` | `17.0.20.101` | Version |
+| Eclipse Foundation | Eclipse Temurin JRE with Hotspot 17 (LTS) | Eclipse Temurin JRE with Hotspot 17 (LTS) (x64) | `17.0.20.8` | `17.0.20.101` | Version |
+| GN Audio AS | Jabra Direct | Jabra Direct | `6.27.03702` | `8.2.23201` | Version |
+| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.6.0` | `2.11.7.0` | Version |
+| Kai Kramer | KeyStore Explorer | KeyStore Explorer | `5.6.1` | `5.7.0` | Version, Architecture |
+| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `152.0.4191.35` | `152.0.4191.41` | Version |
+| Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.139.0720.0007` | `26.145.0728.0011` | Version |
+| Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.5.5` | `12.11.6.6` | Version |
+| Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.5.5` | `12.11.6.6` | Version |
+| Simon Tatham | PuTTY CAC | PuTTY CAC (x64) | `0.83` | `0.85` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0907` | `9.2.0958` | Version |
+| Zandar Labs SL | Aptakube | Aptakube | `1.18.8` | `1.19.1` | Version |
 
