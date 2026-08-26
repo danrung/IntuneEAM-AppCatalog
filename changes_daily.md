@@ -1,9 +1,9 @@
 # Catalog Changes — Daily (≥1 day apart)
 
-> **Comparing:** `20260825_125813_AppCatalog.json` (exported 2026-08-25 12:58:13)  
-> **vs:** `20260824_014429_AppCatalog.json` (exported 2026-08-24 01:44:29)  
+> **Comparing:** `20260826_014430_AppCatalog.json` (exported 2026-08-26 01:44:30)  
+> **vs:** `20260825_013929_AppCatalog.json` (exported 2026-08-25 01:39:29)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-08-25 12:58 UTC
+> **Generated:** 2026-08-26 01:44 UTC
 
 ## Summary
 
@@ -11,29 +11,33 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 19 |
+| 🔄 Updated | 23 |
 
-## 🔄 Updated (19 packages)
+## 🔄 Updated (23 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| DAX Studio | DAX Studio | DAX Studio | `3.5.2.1205` | `3.6.0.1243` | Version |
-| Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.87.0.236836` | `4.88.0.237115` | Version |
-| Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.7` | `8.9.8` | Version |
-| Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.7` | `8.9.8` | Version |
-| draw.io | draw.io Desktop | draw.io Desktop | `31.3.1` | `31.3.2` | Version |
-| dRofus | dRofus | dRofus | `2.18.14.0` | `2.18.15.0` | Version |
-| Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.20.8` | `17.0.20.101` | Version |
-| Eclipse Foundation | Eclipse Temurin JRE with Hotspot 17 (LTS) | Eclipse Temurin JRE with Hotspot 17 (LTS) (x64) | `17.0.20.8` | `17.0.20.101` | Version |
-| GN Audio AS | Jabra Direct | Jabra Direct | `6.27.03702` | `8.2.23201` | Version |
-| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.6.0` | `2.11.7.0` | Version |
-| Kai Kramer | KeyStore Explorer | KeyStore Explorer | `5.6.1` | `5.7.0` | Version, Architecture |
+| Blender Foundation | Blender | Blender 5.2 (x64) | `5.2.0` | `5.2.1` | Version |
+| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9725.42051` | `7.1.9733.23775` | Version |
+| Creative Force | Creative Force Kelvin | Kelvin | `6.8.2` | `6.9.0` | Version |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.17.0` | `2026.2.18.0` | Version |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.17.0` | `2026.2.18.0` | Version |
+| Dương Diệu Pháp | ImageGlass | ImageGlass 10 (x64) | `10.0.4.819` | `10.0.5.825` | Version |
+| Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.32.60.0` | `2.32.143.0` | Version |
+| International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.927.1` | `6.0.929.3` | Version |
+| iterate GmbH | Cyberduck CLI | Cyberduck CLI (x64) | `9.5.2.45323` | `9.5.4.45528` | Version |
 | Keeper | Keeper | Keeper | `18.5.1.0` | `18.6.0.0` | Version |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `152.0.4191.35` | `152.0.4191.41` | Version |
-| Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.139.0720.0007` | `26.145.0728.0011` | Version |
-| Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.5.5` | `12.11.6.6` | Version |
-| Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.5.5` | `12.11.6.6` | Version |
-| Simon Tatham | PuTTY CAC | PuTTY CAC (x64) | `0.83` | `0.85` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0907` | `9.2.0958` | Version |
-| Zandar Labs SL | Aptakube | Aptakube | `1.18.8` | `1.19.1` | Version |
+| Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.13.0` | `4.14.0` | Version |
+| Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.326.12` | `3000.330.1` | Version |
+| Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.100.2` | `0.101.2362.0` | Version |
+| Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.100.2` | `0.101.2362.0` | Version |
+| MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.49.14` | `1.49.15` | Version |
+| MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.14` | `1.49.15` | Version |
+| MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.14` | `1.49.15` | Version |
+| Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.32.60.0` | `2.32.143.0` | Version |
+| TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.80.6.0` | `15.64.7.0` | Version |
+| TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.80.6.0` | `15.64.7.0` | Version |
+| Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.30.0.769` | `1.32.0.827` | Version |
+| Zandar Labs SL | Aptakube | Aptakube | `1.19.1` | `1.19.2` | Version |
+| Zotero | Zotero | Zotero (x64) | `10.0` | `10.0.1` | Version |
 
