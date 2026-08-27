@@ -1,7 +1,7 @@
 # App Catalog Statistics
 
-> **Source:** `20260826_130350_AppCatalog.json` (exported 2026-08-26 13:03:50)  
-> **Generated:** 2026-08-26 13:04 UTC
+> **Source:** `20260827_084522_AppCatalog.json` (exported 2026-08-27 08:45:22)  
+> **Generated:** 2026-08-27 08:45 UTC
 
 ## Summary
 
@@ -22,7 +22,7 @@
 | Rank | Publisher | Packages | Share |
 |-----:|-----------|--------:|------:|
 | 1 | Mozilla | 256 | 16.2% |
-| 2 | Microsoft | 183 | 11.6% |
+| 2 | Microsoft | 182 | 11.5% |
 | 3 | The Document Foundation | 59 | 3.7% |
 | 4 | JetBrains | 49 | 3.1% |
 | 5 | PaperCut Software Pty Ltd | 32 | 2.0% |
