@@ -155,16 +155,14 @@ header {
 }
 .header-brand { display: flex; align-items: center; gap: 12px; }
 .header-logo {
-  width: 28px;
-  height: 28px;
-  background: var(--accent);
-  border-radius: 6px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  width: 30px;
+  height: 30px;
   flex-shrink: 0;
+  /* Relative to app.css, so /index.html and /apps/*.html resolve the same URL.
+     The dark twin carries light ink and a --surface-coloured page fill. */
+  background: url("logo.svg") center / contain no-repeat;
 }
-.header-logo svg { width: 16px; height: 16px; stroke: var(--accent-fg); }
+:root[data-theme="dark"] .header-logo { background-image: url("logo-dark.svg"); }
 .header-title {
   margin: 0;   /* neutralise the h1 default so the header keeps its height */
   font-size: 1rem;
@@ -826,6 +824,25 @@ td.col-ver  {
 }
 .docs-table tbody tr:not(:last-child) td { border-bottom: 1px solid var(--border-soft); }
 .docs-table tbody tr:hover td { background: var(--row-hover); }
+/* Framed wrapper for the tables on the static app pages. Deliberately NOT
+   .table-scroll — that class already drives the catalog view's own scroll box.
+   The frame lives on the wrapper, so the plain .docs-table in the docs view is
+   untouched, and a narrow screen scrolls the table instead of crushing it. */
+.app-table-wrap {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+.app-table-wrap .docs-table { min-width: 520px; table-layout: auto; }
+.app-table-wrap .docs-table thead th { border-radius: 0; }
+.app-table-wrap .docs-table tbody td { vertical-align: middle; }
+.app-table-wrap .docs-table tbody tr:last-child td { border-bottom: none; }
+/* The row carrying the newest version gets an accent edge, not a fill. */
+.app-table-wrap .docs-table tr.is-latest td:first-child {
+  box-shadow: inset 2px 0 0 var(--accent);
+}
 .docs-table code {
   font-family: ui-monospace, 'Cascadia Code', Menlo, monospace;
   font-size: .8125rem;
@@ -963,17 +980,169 @@ footer a:hover { color: var(--text-1); }
 .app-page { margin: 0 auto; }   /* centre the content column on the screen */
 .header-title a { color: inherit; text-decoration: none; }
 .app-title {
-  margin: 0 0 6px;
-  font-size: 1.25rem;
-  font-weight: 600;
+  margin: 0 0 2px;
+  font-size: 1.5rem;
+  font-weight: 650;
   color: var(--text-1);
-  letter-spacing: -.01em;
+  letter-spacing: -.02em;
+  line-height: 1.25;
 }
 .app-breadcrumb { font-size: .8125rem; color: var(--text-3); }
 .app-breadcrumb a { color: var(--accent); text-decoration: none; }
 .app-breadcrumb a:hover { text-decoration: underline; }
 .docs-section a { color: var(--accent); text-decoration: none; }
 .docs-section a:hover { text-decoration: underline; }
+/* A card whose last element is a <p> would otherwise carry its 16px tail. */
+.app-page .docs-section > p:last-child { margin-bottom: 0; }
+
+.app-publisher {
+  font-size: .875rem;
+  color: var(--text-3);
+  margin-bottom: 12px;
+}
+.app-lede {
+  font-size: .875rem;
+  color: var(--text-2);
+  line-height: 1.6;
+  margin-bottom: 18px;
+  max-width: 62ch;
+}
+
+/* At-a-glance facts: one bordered strip, each fact a micro-label over its
+   value. Flex rather than grid on purpose — an odd item count wrapping in a
+   grid leaves a filled empty cell, and five facts always wrap somewhere. */
+.app-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 8px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 4px;
+}
+.app-fact {
+  flex: 1 1 148px;
+  min-width: 0;
+  padding: 9px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.app-fact dt {
+  font-size: .6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--text-3);
+}
+.app-fact dd {
+  font-size: .875rem;
+  font-weight: 500;
+  color: var(--text-1);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+}
+.app-fact code { word-break: break-all; }
+.app-dash { color: var(--text-4); }
+
+/* Section heading with the row count riding alongside it. */
+.app-page .docs-section h2 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+.count-pill {
+  padding: 1px 8px;
+  border-radius: 99px;
+  background: var(--surface-3);
+  color: var(--text-3);
+  font-size: .6875rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+.tag-latest {
+  background: var(--accent-ring);
+  color: var(--accent);
+  margin-left: 6px;
+}
+/* The "+N" overflow tag in the facts panel reads as a count, not a locale. */
+.tag-more { background: transparent; color: var(--text-3); padding-left: 2px; }
+.docs-table td.col-version { white-space: nowrap; }
+
+/* Collapsed by default: the steps are there for a first-time visitor without
+   costing a returning one any vertical space. */
+.app-howto {
+  margin-top: 16px;
+  border-top: 1px solid var(--border-soft);
+  padding-top: 14px;
+}
+.app-howto summary {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: .8125rem;
+  font-weight: 600;
+  color: var(--text-2);
+  list-style: none;
+}
+.app-howto summary::-webkit-details-marker { display: none; }
+.app-howto summary::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 5px solid var(--text-4);
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+  transition: transform .15s ease;
+}
+.app-howto[open] summary::before { transform: rotate(90deg); }
+.app-howto summary:hover { color: var(--text-1); }
+.app-howto ol {
+  margin: 12px 0 0;
+  padding-left: 20px;
+  font-size: .8125rem;
+  color: var(--text-2);
+  line-height: 1.7;
+}
+.app-howto li { padding-left: 2px; }
+.app-howto strong { color: var(--text-1); font-weight: 600; }
+
+/* Sideways links to the publisher's other products. */
+.app-siblings { display: flex; flex-wrap: wrap; gap: 8px; }
+.docs-section .app-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 12px;
+  border: 1px solid var(--border);
+  border-radius: 99px;
+  background: var(--surface-2);
+  font-size: .8125rem;
+  color: var(--text-2);
+  text-decoration: none;
+  transition: border-color .15s ease, color .15s ease, background .15s ease;
+}
+.docs-section .app-chip:hover {
+  border-color: var(--accent);
+  background: var(--surface);
+  color: var(--accent);
+  text-decoration: none;
+}
+.docs-section .app-chip-more { color: var(--text-3); font-weight: 500; }
+
+.app-note {
+  font-size: .75rem;
+  color: var(--text-3);
+  line-height: 1.6;
+  text-align: center;
+  padding: 0 8px;
+}
+.app-note a { color: var(--accent); text-decoration: none; }
+.app-note a:hover { text-decoration: underline; }
 
 /* ── RESPONSIVE ──────────────────────────────────────────────────────────── */
 @media (max-width: 768px) {
@@ -995,6 +1164,9 @@ footer a:hover { color: var(--text-1); }
   footer         { padding: 16px; flex-direction: column; text-align: center; }
   .stats-grid    { grid-template-columns: 1fr; }
   .docs-container { max-width: 100%; }
+  .docs-section  { padding: 18px 16px; }
+  .app-title     { font-size: 1.25rem; }
+  .app-fact      { flex-basis: 132px; }
 
   /* Data tables: give the remaining columns room and scroll sideways rather
      than crushing eight columns into a phone width. */

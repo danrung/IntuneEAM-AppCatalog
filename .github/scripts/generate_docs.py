@@ -754,13 +754,8 @@ _THEME_SCRIPT = (
     ".matches?'dark':'light'}document.documentElement.dataset.theme=t}());"
 )
 
-_FAVICON = (
-    "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E"
-    "%3Crect width='32' height='32' rx='7' fill='%230078d4'/%3E%3Cg fill='none' stroke='%23fff' "
-    "stroke-width='2.6' stroke-linejoin='round'%3E%3Crect x='7' y='7' width='7.5' height='7.5'/%3E"
-    "%3Crect x='17.5' y='7' width='7.5' height='7.5'/%3E%3Crect x='7' y='17.5' width='7.5' "
-    "height='7.5'/%3E%3Crect x='17.5' y='17.5' width='7.5' height='7.5'/%3E%3C/g%3E%3C/svg%3E"
-)
+# App pages live in docs/apps/, so the shared icon sits one level up.
+_FAVICON = "../favicon.svg"
 
 # Same Cloudflare Web Analytics beacon as docs/index.html — covered by the
 # privacy notice in the imprint on the main page.
@@ -820,11 +815,9 @@ def _page_header(repo_url):
     ) if repo_url else ""
     return (
         '<header><div class="header-inner"><div class="header-brand">'
-        '<div class="header-logo"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" '
-        'stroke-linecap="round" stroke-linejoin="round">'
-        '<rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>'
-        '<rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>'
-        "</svg></div>"
+        # The mark itself comes from app.css (logo.svg / logo-dark.svg), which
+        # resolves to the same file from /index.html and from /apps/*.html.
+        '<div class="header-logo" aria-hidden="true"></div>'
         '<div><div class="header-title"><a href="../">Intune EAM App Catalog</a></div>'
         '<div class="header-sub">Microsoft Intune Enterprise Application Management</div>'
         "</div></div>"
@@ -885,7 +878,7 @@ def _static_page(title, desc, canonical, body_html, extra_head="", repo_url=""):
         f'  <meta name="description" content="{_xml_escape(desc)}" />'
         f"{canon}\n"
         f"  <script>{_THEME_SCRIPT}</script>\n"
-        f'  <link rel="icon" href="{_FAVICON}" />\n'
+        f'  <link rel="icon" href="{_FAVICON}" type="image/svg+xml" />\n'
         '  <link rel="stylesheet" href="../app.css" />\n'
         f"  {_CF_BEACON}"
         f"{extra_head}\n"
@@ -902,12 +895,73 @@ def _static_page(title, desc, canonical, body_html, extra_head="", repo_url=""):
     )
 
 
-def _render_app_page(slug, packages, site_url, source_ts, repo_url):
+# Width order an admin expects, rather than whatever order the export used.
+_ARCH_ORDER = ("x86", "x64", "arm", "arm64")
+
+
+def _arch_tags(arch):
+    """Architecture string ("x86,x64") as the same tags the catalog view uses."""
+    parts = [a.strip() for a in (arch or "").split(",") if a.strip()]
+    if not parts:
+        return '<span class="app-dash">&mdash;</span>'
+    return "".join(f'<span class="tag tag-arch">{_xml_escape(a)}</span>' for a in parts)
+
+
+def _locale_tags(locales, limit=None):
+    """Locale tags. With a limit, the overflow collapses into a "+N" tag —
+    Firefox alone ships 47 locales, which would swamp the summary panel."""
+    parts = [l for l in (locales or []) if l]
+    if not parts:
+        return '<span class="app-dash">&mdash;</span>'
+    rest = ""
+    if limit and len(parts) > limit:
+        rest = f'<span class="tag tag-locale tag-more">+{len(parts) - limit}</span>'
+        parts = parts[:limit]
+    return "".join(
+        f'<span class="tag tag-locale">{_xml_escape(l)}</span>' for l in parts
+    ) + rest
+
+
+def _auto_badge(capable, label=None):
+    cls = "badge-yes" if capable else "badge-no"
+    return f'<span class="badge {cls}">{label or ("Yes" if capable else "No")}</span>'
+
+
+def _fact(term, value):
+    return f'<div class="app-fact"><dt>{term}</dt><dd>{value}</dd></div>'
+
+
+# Kept short on purpose: enough to act on, not a second manual.
+_HOWTO = (
+    '<details class="app-howto"><summary>How to deploy this from Intune</summary>'
+    "<ol>"
+    "<li>In the Microsoft Intune admin center, go to <strong>Apps &rsaquo; All apps "
+    "&rsaquo; Create</strong>.</li>"
+    "<li>Choose the <strong>Enterprise App Catalog app</strong> type, then search the "
+    "catalog for {product}.</li>"
+    "<li>Pick the package whose branch, version, architecture and locale you need "
+    "&mdash; the table above lists every one Microsoft publishes.</li>"
+    "<li>Finish the app information and assignment steps. Where auto-update is "
+    "supported, Intune keeps the app current on its own.</li>"
+    "</ol></details>"
+)
+
+
+def _render_app_page(slug, packages, site_url, source_ts, repo_url, siblings=()):
     product   = packages[0].get("productDisplayName", "")
     publisher = packages[0].get("publisherDisplayName", "")
     n      = len(packages)
     latest = max((p.get("versionDisplayName") or "" for p in packages), key=_version_key)
-    auto   = any(p.get("packageAutoUpdateCapable") for p in packages)
+    n_auto = sum(1 for p in packages if p.get("packageAutoUpdateCapable"))
+    auto   = n_auto > 0
+
+    # Union of the per-package values, in a stable presentation order.
+    arches = {a.strip() for p in packages
+              for a in (p.get("applicableArchitectures") or "").split(",") if a.strip()}
+    arches = sorted(arches, key=lambda a: (
+        _ARCH_ORDER.index(a.lower()) if a.lower() in _ARCH_ORDER else len(_ARCH_ORDER), a
+    ))
+    locales = sorted({l for p in packages for l in (p.get("locales") or []) if l})
 
     desc = (
         f"{product} by {publisher} in the Microsoft Intune Enterprise App Management (EAM) "
@@ -923,33 +977,89 @@ def _render_app_page(slug, packages, site_url, source_ts, repo_url):
         "publisher": {"@type": "Organization", "name": publisher},
     }, ensure_ascii=False)
 
-    rows = "".join(
-        f"<tr><td>{_xml_escape(p.get('branchDisplayName', ''))}</td>"
-        f"<td><code>{_xml_escape(p.get('versionDisplayName', ''))}</code></td>"
-        f"<td>{_xml_escape(p.get('applicableArchitectures', ''))}</td>"
-        f"<td>{'Yes' if p.get('packageAutoUpdateCapable') else 'No'}</td>"
-        f"<td>{_xml_escape(', '.join(p.get('locales', [])))}</td></tr>"
-        for p in sorted(packages, key=lambda p: (
-            (p.get("branchDisplayName") or "").lower(),
-            _version_key(p.get("versionDisplayName")),
-        ))
+    # Auto-update reads three ways: every package, none of them, or a mix.
+    if n_auto == n:
+        auto_fact = _auto_badge(True, "Supported")
+    elif n_auto == 0:
+        auto_fact = _auto_badge(False, "Not supported")
+    else:
+        auto_fact = _auto_badge(False, f"{n_auto} of {n} packages")
+
+    facts = (
+        '<dl class="app-facts">'
+        + _fact("Latest version", f"<code>{_xml_escape(latest)}</code>")
+        + _fact("Packages", f"{n:,}")
+        + _fact("Auto-update", auto_fact)
+        + _fact("Architectures", _arch_tags(",".join(arches)))
+        + _fact("Locales", _locale_tags(locales, limit=8))
+        + "</dl>"
     )
+
+    # The latest-version marker only earns its place when the rows disagree —
+    # Firefox ships 47 packages that all carry the same version, and flagging
+    # every one of them says nothing.
+    mixed_versions = len({p.get("versionDisplayName") or "" for p in packages}) > 1
+
+    def row(p):
+        ver  = p.get("versionDisplayName") or ""
+        mark = ('<span class="tag tag-latest">Latest</span>'
+                if mixed_versions and ver == latest else "")
+        cls  = ' class="is-latest"' if mark else ""
+        return (
+            f"<tr{cls}><td>{_xml_escape(p.get('branchDisplayName', ''))}</td>"
+            f'<td class="col-version"><code>{_xml_escape(ver)}</code>{mark}</td>'
+            f"<td>{_arch_tags(p.get('applicableArchitectures'))}</td>"
+            f"<td>{_auto_badge(p.get('packageAutoUpdateCapable'))}</td>"
+            f"<td>{_locale_tags(p.get('locales'))}</td></tr>"
+        )
+
+    rows = "".join(row(p) for p in sorted(packages, key=lambda p: (
+        (p.get("branchDisplayName") or "").lower(),
+        _version_key(p.get("versionDisplayName")),
+    )))
+
+    # Sibling products keep a visitor who landed from a search moving sideways.
+    sib_html = ""
+    if siblings:
+        shown = siblings[:12]
+        chips = "".join(
+            f'<a class="app-chip" href="{s}.html">{_xml_escape(name)}</a>'
+            for s, name in shown
+        )
+        more = (f'<a class="app-chip app-chip-more" href="./">'
+                f"+{len(siblings) - len(shown):,} more</a>"
+                if len(siblings) > len(shown) else "")
+        sib_html = (
+            '\n<section class="docs-section">\n'
+            f'<h2>More from {_xml_escape(publisher)}'
+            f'<span class="count-pill">{len(siblings):,}</span></h2>\n'
+            f'<div class="app-siblings">{chips}{more}</div>\n'
+            "</section>"
+        )
+
     body = (
         '<nav class="app-breadcrumb"><a href="../">Catalog</a> &rsaquo; '
-        f'<a href="./">All Apps</a> &rsaquo; {_xml_escape(product)}</nav>\n'
-        '<section class="docs-section">\n'
+        f'<a href="./">All Apps</a> &rsaquo; <span>{_xml_escape(product)}</span></nav>\n'
+        '<section class="docs-section app-hero">\n'
         f'<h1 class="app-title">{_xml_escape(product)}</h1>\n'
-        f"<p>Published by <strong>{_xml_escape(publisher)}</strong> available in the "
-        "Microsoft Intune Enterprise App Management (EAM) catalog as "
-        f"{n} package{'s' if n != 1 else ''}; latest version <code>{_xml_escape(latest)}</code>; "
-        f"auto-update {'supported' if auto else 'not supported'}.</p>\n"
-        '<table class="docs-table"><thead><tr><th>Branch</th><th>Version</th>'
-        "<th>Architecture</th><th>Auto-Update</th><th>Locales</th></tr></thead>"
-        f"<tbody>{rows}</tbody></table>\n"
-        f"<p>Data exported {_xml_escape(source_ts)}. "
-        '<a href="../">Browse and search the full catalog</a> for current versions and '
-        "change history. Not affiliated with Microsoft.</p>\n"
+        f'<p class="app-publisher">by {_xml_escape(publisher)}</p>\n'
+        f'<p class="app-lede">{_xml_escape(product)} is published in the Microsoft Intune '
+        "Enterprise App Management (EAM) catalog, so Intune can deploy and update it on "
+        "Windows devices without a repackaged installer.</p>\n"
+        f"{facts}\n"
+        "</section>\n"
+        '<section class="docs-section">\n'
+        f'<h2>Packages<span class="count-pill">{n:,}</span></h2>\n'
+        '<div class="app-table-wrap"><table class="docs-table"><thead><tr>'
+        "<th>Branch</th><th>Version</th><th>Architecture</th>"
+        "<th>Auto-Update</th><th>Locales</th></tr></thead>"
+        f"<tbody>{rows}</tbody></table></div>\n"
+        f"{_HOWTO.format(product=_xml_escape(product))}\n"
         "</section>"
+        f"{sib_html}\n"
+        f'<p class="app-note">Data exported {_xml_escape(source_ts)} from the Microsoft '
+        'Graph API. <a href="../">Browse and search the full catalog</a> for current '
+        "versions and change history. Not affiliated with Microsoft.</p>"
     )
     canonical = f"{site_url}apps/{slug}.html" if site_url else ""
     extra_head = f'\n  <script type="application/ld+json">{ld}</script>'
@@ -973,9 +1083,10 @@ def _render_apps_index(products, site_url, source_ts, repo_url):
         '<section class="docs-section">\n'
         '<h1 class="app-title">All Apps</h1>\n'
         f"<p>{desc} Data exported {_xml_escape(source_ts)}.</p>\n"
-        '<table class="docs-table"><thead><tr><th>Publisher</th><th>App</th>'
+        '<div class="app-table-wrap"><table class="docs-table">'
+        '<thead><tr><th>Publisher</th><th>App</th>'
         "<th>Packages</th><th>Latest Version</th></tr></thead>"
-        f"<tbody>{rows}</tbody></table>\n"
+        f"<tbody>{rows}</tbody></table></div>\n"
         "</section>"
     )
     canonical = f"{site_url}apps/" if site_url else ""
@@ -1010,12 +1121,23 @@ def generate_app_pages(apps, latest_file, site_url, repo_url):
             i += 1
         slug_map[slug] = g
 
+    # Every other product from the same publisher, for the cross-links at the
+    # foot of each page. Alphabetical so the pick stays stable run to run.
+    by_publisher = {}
+    for s, g in slug_map.items():
+        key = (g[0].get("publisherDisplayName") or "").lower()
+        by_publisher.setdefault(key, []).append((s, g[0].get("productDisplayName") or ""))
+    for v in by_publisher.values():
+        v.sort(key=lambda t: t[1].lower())
+
     os.makedirs("docs/apps", exist_ok=True)
     source_ts = filename_to_ts(latest_file)
     index_rows = []
     for slug, g in slug_map.items():
+        key = (g[0].get("publisherDisplayName") or "").lower()
+        siblings = [t for t in by_publisher[key] if t[0] != slug]
         with open(f"docs/apps/{slug}.html", "w", encoding="utf-8") as f:
-            f.write(_render_app_page(slug, g, site_url, source_ts, repo_url))
+            f.write(_render_app_page(slug, g, site_url, source_ts, repo_url, siblings))
         index_rows.append((
             slug,
             g[0].get("publisherDisplayName", ""),

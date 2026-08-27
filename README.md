@@ -8,7 +8,7 @@ The raw data comes from the Microsoft Graph API. Exports are dropped into this r
 
 🌐 **[Live Catalog](https://eam.drung.dev/)** Searchable, filterable website with the full package list — the stat cards double as filters. Follows your system light/dark preference, with a toggle in the header.
 
-🔗 **[App Pages](https://eam.drung.dev/apps/)** A static, linkable page for every product in the catalog with its branches, versions, architectures, and locales — regenerated on every export.
+🔗 **[App Pages](https://eam.drung.dev/apps/)** A static, linkable page for every product in the catalog: an at-a-glance summary panel, a table of every branch, version, architecture and locale, the steps to deploy it from Intune, and links to the publisher's other apps — regenerated on every export.
 
 📦 **[App Catalog](catalog.md)** Every available package, sorted by publisher and app name.
 

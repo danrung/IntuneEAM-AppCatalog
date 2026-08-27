@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="64" height="64" role="img" aria-label="Intune EAM App Catalog">
+  <title>Intune EAM App Catalog</title>
+  <defs>
+    <!-- A catalog tile as printed on the page: square, flat, with top and bottom
+         edges sheared onto the page curve. #ftl leans towards the spine on the
+         left page, #ftr mirrors it on the right. -->
+    <path id="ftl" d="M0 0 60 10V70L0 60Z"/>
+    <path id="ftr" d="M0 0 60 -10V50L0 60Z"/>
+  </defs>
+  <rect width="1024" height="1024" rx="180" fill="#17294e"/>
+  <g fill="#17294e" stroke="#ffffff" stroke-width="34" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="178" y="300" width="668" height="436" rx="18"/>
+    <circle cx="512" cy="698" r="62"/>
+    <path d="M230 256c96-14 210 10 282 62v386c-72-44-186-56-282-38Z"/>
+    <path d="M794 256c-96-14-210 10-282 62v386c72-44 186-56 282-38Z"/>
+  </g>
+  <g fill="#ef4358">
+    <use href="#ftl" x="265" y="337"/><use href="#ftl" x="341" y="350"/><use href="#ftl" x="417" y="363"/>
+    <use href="#ftl" x="265" y="421"/><use href="#ftl" x="341" y="434"/><use href="#ftl" x="417" y="447"/>
+    <use href="#ftl" x="265" y="505"/><use href="#ftl" x="341" y="518"/><use href="#ftl" x="417" y="531"/>
+    <use href="#ftr" x="699" y="337"/><use href="#ftr" x="623" y="350"/><use href="#ftr" x="547" y="363"/>
+    <use href="#ftr" x="699" y="421"/><use href="#ftr" x="623" y="434"/><use href="#ftr" x="547" y="447"/>
+    <use href="#ftr" x="699" y="505"/><use href="#ftr" x="623" y="518"/><use href="#ftr" x="547" y="531"/>
+  </g>
+</svg>

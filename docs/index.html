@@ -35,7 +35,12 @@
       document.documentElement.dataset.theme = t;
     }());
   </script>
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230078d4'/%3E%3Cg fill='none' stroke='%23fff' stroke-width='2.6' stroke-linejoin='round'%3E%3Crect x='7' y='7' width='7.5' height='7.5'/%3E%3Crect x='17.5' y='7' width='7.5' height='7.5'/%3E%3Crect x='7' y='17.5' width='7.5' height='7.5'/%3E%3Crect x='17.5' y='17.5' width='7.5' height='7.5'/%3E%3C/g%3E%3C/svg%3E" />
+  <!-- Google reads the favicon from the home page only, and does not document
+       SVG support; the .ico is the crawlable fallback for Search and for
+       clients that skip SVG icons. Both live at the site root. -->
+  <link rel="icon" href="/favicon.ico" sizes="48x48" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="stylesheet" href="app.css" />
   <link rel="alternate" type="application/rss+xml" title="Intune EAM App Catalog — Changes" href="feed.xml" />
   <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "2905f0a2f65147db9c879ca2702b1743"}'></script><!-- End Cloudflare Web Analytics -->
@@ -53,15 +58,7 @@
     <header>
       <div class="header-inner">
         <div class="header-brand">
-          <div class="header-logo">
-            <svg viewBox="0 0 24 24" fill="none" stroke-width="2"
-                 stroke-linecap="round" stroke-linejoin="round">
-              <rect x="3"  y="3"  width="7" height="7"/>
-              <rect x="14" y="3"  width="7" height="7"/>
-              <rect x="14" y="14" width="7" height="7"/>
-              <rect x="3"  y="14" width="7" height="7"/>
-            </svg>
-          </div>
+          <div class="header-logo" aria-hidden="true"></div>
           <div>
             <h1 class="header-title">Intune EAM App Catalog</h1>
             <div class="header-sub">Microsoft Intune Enterprise Application Management</div>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="151 137 722 722" width="722" height="722" role="img" aria-label="Intune EAM App Catalog">
+  <title>Intune EAM App Catalog</title>
+  <defs>
+    <!-- A catalog tile as printed on the page: square, flat, with top and bottom
+         edges sheared onto the page curve. #tl leans towards the spine on the
+         left page, #tr mirrors it on the right. -->
+    <path id="tl" d="M0 0 60 10V70L0 60Z"/>
+    <path id="tr" d="M0 0 60 -10V50L0 60Z"/>
+  </defs>
+  <g fill="#ffffff" stroke="#17294e" stroke-width="34" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="178" y="300" width="668" height="436" rx="18"/>
+    <circle cx="512" cy="698" r="62"/>
+    <path d="M230 256c96-14 210 10 282 62v386c-72-44-186-56-282-38Z"/>
+    <path d="M794 256c-96-14-210 10-282 62v386c72-44 186-56 282-38Z"/>
+  </g>
+  <g fill="#ef4358">
+    <use href="#tl" x="265" y="337"/><use href="#tl" x="341" y="350"/><use href="#tl" x="417" y="363"/>
+    <use href="#tl" x="265" y="421"/><use href="#tl" x="341" y="434"/><use href="#tl" x="417" y="447"/>
+    <use href="#tl" x="265" y="505"/><use href="#tl" x="341" y="518"/><use href="#tl" x="417" y="531"/>
+    <use href="#tr" x="699" y="337"/><use href="#tr" x="623" y="350"/><use href="#tr" x="547" y="363"/>
+    <use href="#tr" x="699" y="421"/><use href="#tr" x="623" y="434"/><use href="#tr" x="547" y="447"/>
+    <use href="#tr" x="699" y="505"/><use href="#tr" x="623" y="518"/><use href="#tr" x="547" y="531"/>
+  </g>
+</svg>
