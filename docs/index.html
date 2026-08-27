@@ -4,22 +4,26 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="color-scheme" content="light dark" />
-  <title>Intune EAM App Catalog</title>
-  <meta name="description" content="Browsable catalog of Microsoft Intune Enterprise App Management (EAM) packages — searchable app list with statistics, change history, and an RSS feed for catalog updates." />
+  <title>Intune EAM App Catalog - Searchable List of All EAM Apps</title>
+  <meta name="description" content="Every app in the Microsoft Intune Enterprise App Management (EAM) catalog in one searchable list — publisher, version, architecture and auto-update support for each package, plus statistics, a changelog and an RSS feed." />
   <link rel="canonical" href="https://eam.drung.dev/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Intune EAM App Catalog" />
-  <meta property="og:title" content="Intune EAM App Catalog" />
-  <meta property="og:description" content="Browsable catalog of Microsoft Intune Enterprise App Management (EAM) packages — searchable app list with statistics, change history, and an RSS feed for catalog updates." />
+  <meta property="og:title" content="Intune EAM App Catalog — Searchable List of All EAM Apps" />
+  <meta property="og:description" content="Every app in the Microsoft Intune Enterprise App Management (EAM) catalog in one searchable list — publisher, version, architecture and auto-update support for each package, plus statistics, a changelog and an RSS feed." />
   <meta property="og:url" content="https://eam.drung.dev/" />
-  <meta name="twitter:card" content="summary" />
+  <meta property="og:image" content="https://eam.drung.dev/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Intune EAM App Catalog" />
+  <meta name="twitter:card" content="summary_large_image" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "Intune EAM App Catalog",
     "url": "https://eam.drung.dev/",
-    "description": "Browsable catalog of Microsoft Intune Enterprise App Management (EAM) packages — searchable app list with statistics, change history, and an RSS feed for catalog updates."
+    "description": "Every app in the Microsoft Intune Enterprise App Management (EAM) catalog in one searchable list — publisher, version, architecture and auto-update support for each package, plus statistics, a changelog and an RSS feed."
   }
   </script>
   <script>
@@ -52,7 +56,7 @@
     <p>Loading catalog…</p>
   </div>
 
-  <div id="app" style="display:none">
+  <div id="app">
 
     <!-- ── Header ─────────────────────────────────────────────────────── -->
     <header>
@@ -114,6 +118,7 @@
         <button class="nav-btn" data-view="stats">Statistics</button>
         <button class="nav-btn" data-view="changes">Changes</button>
         <button class="nav-btn" data-view="docs">Docs</button>
+        <a class="nav-btn" href="apps/">All Apps</a>
       </div>
     </nav>
 
@@ -122,6 +127,8 @@
 
       <!-- Catalog view ────────────────────────────────────────────────── -->
       <div id="view-catalog">
+        <p class="page-lede">Every application in the <strong>Microsoft Intune Enterprise App Management (EAM)</strong> catalog, in one searchable list — publisher, version, architecture, locales and auto-update support for every package, refreshed with each catalog export. For the feature itself, see <a href="https://learn.microsoft.com/en-us/intune/app-management/deployment/enterprise-app-management" target="_blank" rel="noopener">Microsoft's Enterprise App Management documentation</a>.</p>
+
         <div class="stats" id="stats"></div>
 
         <div class="controls-card">
@@ -200,6 +207,28 @@
       <!-- Docs view ───────────────────────────────────────────────────── -->
       <div id="view-docs" style="display:none">
         <div class="docs-container">
+
+          <section class="docs-section">
+            <h2>About the Intune EAM App Catalog</h2>
+            <p>Enterprise App Management (EAM) is the Microsoft Intune feature that
+               publishes ready-made Win32 applications — packaged, with detection rules
+               and update logic already in place — so an administrator can deploy them
+               without wrapping an installer. Microsoft does not publish the contents of
+               that catalog as a browsable list; the only official view is the app picker
+               inside the Intune admin center. Microsoft documents the feature itself on
+               <a href="https://learn.microsoft.com/en-us/intune/app-management/deployment/enterprise-app-management"
+                  target="_blank" rel="noopener">Microsoft Learn</a>.</p>
+            <p>This site is that list. Every package returned by the
+               <code>win32MobileAppCatalogPackage</code> Graph resource is exported on a
+               schedule and rendered here: a searchable table of all packages, a
+               <a href="apps/">page for each application</a> with its full branch and
+               version history, statistics, and a changelog of what Microsoft added,
+               removed or updated between exports.</p>
+            <p>Use it to check whether an application is available in EAM before planning
+               a deployment, to see which version Intune currently offers, to confirm
+               whether a package can update itself, or to subscribe to the RSS feed and be
+               told when the catalog changes.</p>
+          </section>
 
           <section class="docs-section">
             <h2>Filtering with the Stat Cards</h2>

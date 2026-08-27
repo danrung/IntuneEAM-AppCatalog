@@ -475,7 +475,7 @@ def generate_changes_period(current_apps, current_file, all_files, days, output,
 # docs/catalog.json  (the only file the website needs regenerated each run)
 # ---------------------------------------------------------------------------
 
-def generate_catalog_json(apps, stats, source_file):
+def generate_catalog_json(apps, stats, source_file, slug_by_key=None):
     sorted_apps = sorted(
         apps,
         key=lambda a: (
@@ -483,6 +483,13 @@ def generate_catalog_json(apps, stats, source_file):
             a.get("productDisplayName", "").lower(),
         ),
     )
+
+    # Each row carries the slug of its product page, so the catalog table can
+    # link every app to its own URL without rebuilding the slug rules in JS.
+    # Copies, not mutations — the loaded export is still read further down.
+    if slug_by_key:
+        sorted_apps = [dict(a, slug=slug_by_key.get(_product_key(a), ""))
+                       for a in sorted_apps]
 
     payload = {
         "meta": {
@@ -865,8 +872,58 @@ def _product_key(a):
     )
 
 
-def _static_page(title, desc, canonical, body_html, extra_head="", repo_url=""):
+def _build_slug_map(apps):
+    """Group packages by product and hand each group its page slug.
+
+    Returns (slug_map, slug_by_key): slug -> its packages, and product key ->
+    slug, so catalog.json can point the catalog table at the very same URLs the
+    pages are written to. Slugs are assigned in a deterministic order so name
+    collisions keep the same ordinal suffix run after run.
+    """
+    groups = {}
+    for a in apps:
+        groups.setdefault(_product_key(a), []).append(a)
+
+    def gname(key):
+        p = groups[key][0]
+        return ((p.get("publisherDisplayName") or "").lower(),
+                (p.get("productDisplayName") or "").lower())
+
+    slug_map, slug_by_key = {}, {}
+    for key in sorted(groups, key=gname):
+        g = groups[key]
+        pub, name = g[0].get("publisherDisplayName", ""), g[0].get("productDisplayName", "")
+        # Skip the publisher prefix when the product name already starts with it
+        # ("Mozilla" + "Mozilla Firefox" → mozilla-firefox, not mozilla-mozilla-firefox).
+        base = _slugify(name if name.lower().startswith(pub.lower()) else f"{pub}-{name}")
+        slug, i = base, 2
+        while slug in slug_map:
+            slug = f"{base}-{i}"
+            i += 1
+        slug_map[slug] = g
+        slug_by_key[key] = slug
+    return slug_map, slug_by_key
+
+
+def _static_page(title, desc, canonical, body_html, extra_head="", repo_url="",
+                 site_url=""):
     canon = f'\n  <link rel="canonical" href="{_xml_escape(canonical)}" />' if canonical else ""
+    # Link previews (Teams, Slack, LinkedIn, Mastodon) read Open Graph, not the
+    # canonical tag. Absolute URLs only — a relative og:image is ignored.
+    og = (
+        '\n  <meta property="og:type" content="website" />'
+        '\n  <meta property="og:site_name" content="Intune EAM App Catalog" />'
+        f'\n  <meta property="og:title" content="{_xml_escape(title)}" />'
+        f'\n  <meta property="og:description" content="{_xml_escape(desc)}" />'
+        + (f'\n  <meta property="og:url" content="{_xml_escape(canonical)}" />'
+           if canonical else "")
+        + (f'\n  <meta property="og:image" content="{_xml_escape(site_url)}og-image.png" />'
+           '\n  <meta property="og:image:width" content="1200" />'
+           '\n  <meta property="og:image:height" content="630" />'
+           '\n  <meta property="og:image:alt" content="Intune EAM App Catalog" />'
+           '\n  <meta name="twitter:card" content="summary_large_image" />'
+           if site_url else '\n  <meta name="twitter:card" content="summary" />')
+    )
     return (
         "<!DOCTYPE html>\n"
         '<html lang="en">\n'
@@ -876,7 +933,7 @@ def _static_page(title, desc, canonical, body_html, extra_head="", repo_url=""):
         '  <meta name="color-scheme" content="light dark" />\n'
         f"  <title>{_xml_escape(title)}</title>\n"
         f'  <meta name="description" content="{_xml_escape(desc)}" />'
-        f"{canon}\n"
+        f"{canon}{og}\n"
         f"  <script>{_THEME_SCRIPT}</script>\n"
         f'  <link rel="icon" href="{_FAVICON}" type="image/svg+xml" />\n'
         '  <link rel="stylesheet" href="../app.css" />\n'
@@ -932,6 +989,12 @@ def _fact(term, value):
 
 
 # Kept short on purpose: enough to act on, not a second manual.
+# Microsoft's own page for the feature. Linked from the app pages and the app
+# index so a visitor who landed here from a search can get to the authoritative
+# documentation without going back through a search engine.
+_LEARN_URL = ("https://learn.microsoft.com/en-us/intune/app-management/deployment/enterprise-app-management")
+
+
 _HOWTO = (
     '<details class="app-howto"><summary>How to deploy this from Intune</summary>'
     "<ol>"
@@ -943,7 +1006,11 @@ _HOWTO = (
     "&mdash; the table above lists every one Microsoft publishes.</li>"
     "<li>Finish the app information and assignment steps. Where auto-update is "
     "supported, Intune keeps the app current on its own.</li>"
-    "</ol></details>"
+    "</ol>"
+    '<p class="howto-more">Microsoft\'s own documentation: '
+    f'<a href="{_LEARN_URL}" target="_blank" rel="noopener">'
+    "Enterprise App Management in Intune</a>.</p>"
+    "</details>"
 )
 
 
@@ -1064,7 +1131,43 @@ def _render_app_page(slug, packages, site_url, source_ts, repo_url, siblings=())
     canonical = f"{site_url}apps/{slug}.html" if site_url else ""
     extra_head = f'\n  <script type="application/ld+json">{ld}</script>'
     return _static_page(f"{product} by {publisher} — Intune EAM App Catalog",
-                        desc, canonical, body, extra_head, repo_url)
+                        desc, canonical, body, extra_head, repo_url, site_url)
+
+
+# Answers double as page copy and as FAQPage structured data, so the two can
+# never drift. Plain text only — the HTML rendering escapes, the JSON does not
+# want markup. These target the questions people actually type into a search
+# engine ("what is the intune eam catalog", "how many apps"), which the SPA on
+# the home page cannot answer in crawlable HTML.
+def _apps_index_faq(n_products, n_packages, source_ts):
+    return [
+        ("What is the Intune EAM app catalog?",
+         "Enterprise App Management (EAM) is the Microsoft Intune feature that offers "
+         "ready-made Win32 applications. Microsoft packages the app, its detection rules "
+         "and its update logic; an administrator picks it from the catalog in the Intune "
+         "admin center and assigns it, instead of wrapping an installer by hand."),
+        ("How many apps are in the Intune EAM catalog?",
+         f"{n_products:,} applications and {n_packages:,} individual packages as of the "
+         f"export on {source_ts}. One application can ship several packages \u2014 one per "
+         "branch, architecture and version."),
+        ("Is this an official Microsoft list?",
+         "No. This is an independent, read-only view built from the Microsoft Graph API "
+         "resource win32MobileAppCatalogPackage. It is not affiliated with or endorsed by "
+         "Microsoft, and it reflects the catalog as of the last export rather than this "
+         "moment."),
+        ("How often is this list updated?",
+         "Every time a new catalog export is processed. Each page names the export it was "
+         "built from, and the RSS feed publishes an entry for every set of added, removed "
+         "and updated packages."),
+        ("Can Intune update EAM apps automatically?",
+         "Many packages are auto-update capable, which lets Intune install a newer version "
+         "as soon as it appears in the catalog. Every app page states whether its packages "
+         "support it, and the main catalog can be filtered by it."),
+        ("How do I check whether a specific app is available in EAM?",
+         "Search the table on this page, or the package table on the main catalog page \u2014 "
+         "publisher, app name, branch and version are all searchable. Every application also "
+         "has its own page listing each branch, version, architecture and locale it ships."),
+    ]
 
 
 def _render_apps_index(products, site_url, source_ts, repo_url):
@@ -1074,53 +1177,65 @@ def _render_apps_index(products, site_url, source_ts, repo_url):
         f"<td>{n}</td><td><code>{_xml_escape(latest)}</code></td></tr>"
         for slug, pub, name, n, latest in products
     )
+    n_products = len(products)
+    n_packages = sum(r[3] for r in products)
+
     desc = (
-        f"Index of all {len(products):,} applications available in the "
-        "Microsoft Intune Enterprise App Management (EAM) catalog."
+        f"Complete list of all {n_products:,} applications in the Microsoft Intune "
+        "Enterprise App Management (EAM) catalog \u2014 publisher, package count and latest "
+        "version for every app, updated with each catalog export."
     )
+
+    faq = _apps_index_faq(n_products, n_packages, source_ts)
+    faq_html = "".join(
+        f'<h3 class="faq-q">{_xml_escape(q)}</h3>\n<p>{_xml_escape(a)}</p>\n'
+        for q, a in faq
+    )
+    ld = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": q,
+             "acceptedAnswer": {"@type": "Answer", "text": a}}
+            for q, a in faq
+        ],
+    }, ensure_ascii=False)
+
     body = (
         '<nav class="app-breadcrumb"><a href="../">Catalog</a> &rsaquo; All Apps</nav>\n'
+        '<section class="docs-section app-hero">\n'
+        '<h1 class="app-title">All Apps in the Intune EAM Catalog</h1>\n'
+        f'<p class="app-lede">Every one of the {n_products:,} applications currently '
+        "published in the Microsoft Intune Enterprise App Management (EAM) catalog, with "
+        "the publisher, how many packages each one ships and the latest version Intune "
+        f"offers. Exported {_xml_escape(source_ts)} from the Microsoft Graph API.</p>\n"
+        "<p>Open an application to see every branch, version, architecture and locale it "
+        'ships, or <a href="../">search the full package table</a> on the main catalog '
+        "page. Microsoft's own documentation for the feature is on "
+        f'<a href="{_LEARN_URL}" target="_blank" rel="noopener">Microsoft Learn</a>.</p>\n'
+        "</section>\n"
         '<section class="docs-section">\n'
-        '<h1 class="app-title">All Apps</h1>\n'
-        f"<p>{desc} Data exported {_xml_escape(source_ts)}.</p>\n"
+        f'<h2>Applications<span class="count-pill">{n_products:,}</span></h2>\n'
         '<div class="app-table-wrap"><table class="docs-table">'
         '<thead><tr><th>Publisher</th><th>App</th>'
         "<th>Packages</th><th>Latest Version</th></tr></thead>"
         f"<tbody>{rows}</tbody></table></div>\n"
+        "</section>\n"
+        '<section class="docs-section">\n'
+        "<h2>Frequently asked questions</h2>\n"
+        f"{faq_html}"
         "</section>"
     )
     canonical = f"{site_url}apps/" if site_url else ""
-    return _static_page("All Apps — Intune EAM App Catalog", desc, canonical, body,
-                        repo_url=repo_url)
+    extra_head = f'\n  <script type="application/ld+json">{ld}</script>'
+    return _static_page("All Apps in the Intune EAM Catalog \u2014 Complete List",
+                        desc, canonical, body, extra_head, repo_url, site_url)
 
 
-def generate_app_pages(apps, latest_file, site_url, repo_url):
+def generate_app_pages(slug_map, latest_file, site_url, repo_url):
     """Write one static page per product plus an index; prune pages for products
-    that left the catalog. Returns the sorted list of page slugs."""
-    groups = {}
-    for a in apps:
-        groups.setdefault(_product_key(a), []).append(a)
-
-    def gname(key):
-        p = groups[key][0]
-        return ((p.get("publisherDisplayName") or "").lower(),
-                (p.get("productDisplayName") or "").lower())
-
-    # Slugs are assigned in a deterministic order so name collisions get the
-    # same ordinal suffix run after run.
-    slug_map = {}
-    for key in sorted(groups, key=gname):
-        g = groups[key]
-        pub, name = g[0].get("publisherDisplayName", ""), g[0].get("productDisplayName", "")
-        # Skip the publisher prefix when the product name already starts with it
-        # ("Mozilla" + "Mozilla Firefox" → mozilla-firefox, not mozilla-mozilla-firefox).
-        base = _slugify(name if name.lower().startswith(pub.lower()) else f"{pub}-{name}")
-        slug, i = base, 2
-        while slug in slug_map:
-            slug = f"{base}-{i}"
-            i += 1
-        slug_map[slug] = g
-
+    that left the catalog. Takes the map from _build_slug_map so the pages and
+    the links in catalog.json cannot drift apart. Returns the sorted slugs."""
     # Every other product from the same publisher, for the cross-links at the
     # foot of each page. Alphabetical so the pick stays stable run to run.
     by_publisher = {}
@@ -1279,12 +1394,13 @@ def main():
         if result is not None:
             changes_data[key] = result
 
-    generate_catalog_json(current_apps, stats, latest_file)
+    slug_map, slug_by_key = _build_slug_map(current_apps)
+    generate_catalog_json(current_apps, stats, latest_file, slug_by_key)
     generate_changes_json(changes_data)
     repo_url = get_repo_url()
     site_url = get_site_url(repo_url)
     generate_feed(changes_data.get("latest"), stats, latest_file, repo_url)
-    slugs = generate_app_pages(current_apps, latest_file, site_url, repo_url)
+    slugs = generate_app_pages(slug_map, latest_file, site_url, repo_url)
     generate_sitemap(site_url, slugs, latest_file)
     update_readme(stats)
     print("\nDone.")

@@ -208,7 +208,7 @@
       tr.innerHTML =
         '<td class="col-num">' + (i + 1) + '</td>' +
         '<td class="col-pub">'  + esc(a.publisherDisplayName)  + '</td>' +
-        '<td class="col-name">' + esc(a.productDisplayName)    + '</td>' +
+        '<td class="col-name">' + nameCell(a)                  + '</td>' +
         '<td>'                  + esc(a.branchDisplayName)      + '</td>' +
         '<td class="col-ver">'  + esc(a.versionDisplayName)    + '</td>' +
         '<td>'                  + archTag(a.applicableArchitectures) + '</td>' +
@@ -735,6 +735,17 @@
   function esc(s) {
     return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
                     .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  // The catalog table is the site's main internal link surface: every product
+  // name points at its own static page under apps/, which is the version search
+  // engines can read without running this script. Exports made before slugs were
+  // written into catalog.json fall back to plain text.
+  function nameCell(a) {
+    var name = esc(a.productDisplayName);
+    return a.slug
+      ? '<a class="row-link" href="apps/' + esc(a.slug) + '.html">' + name + '</a>'
+      : name;
   }
 
   function autoBadge(capable) {

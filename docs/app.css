@@ -121,7 +121,10 @@ select:focus-visible {
 
 /* ── LOADING ─────────────────────────────────────────────────────────────── */
 #loading {
-  min-height: 100vh;
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: var(--bg);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -301,6 +304,16 @@ main {
   }
   #view-catalog .table-scroll { flex: 0 1 auto; min-height: 0; max-height: none; }
 }
+
+.page-lede {
+  font-size: .875rem;
+  color: var(--text-2);
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+.page-lede strong { color: var(--text-1); font-weight: 600; }
+.page-lede a { color: var(--accent); text-decoration: none; }
+.page-lede a:hover { text-decoration: underline; }
 
 /* ── STAT CARDS ──────────────────────────────────────────────────────────── */
 .stats {
@@ -556,6 +569,10 @@ td {
 td.col-num  { color: var(--text-3); font-size: .75rem; width: 44px; }
 td.col-pub  { color: var(--text-1); font-weight: 500; }
 td.col-name { color: var(--text-1); }
+/* Each row is the entry point to that product's own page. Styled as plain text
+   so 3,000 links do not turn the table blue; the colour arrives on hover. */
+td.col-name .row-link { color: inherit; text-decoration: none; }
+td.col-name .row-link:hover { color: var(--accent); text-decoration: underline; }
 td.col-ver  {
   font-family: ui-monospace, 'Cascadia Code', 'Fira Mono', Menlo, monospace;
   font-size: .75rem;
@@ -1111,6 +1128,13 @@ footer a:hover { color: var(--text-1); }
 }
 .app-howto li { padding-left: 2px; }
 .app-howto strong { color: var(--text-1); font-weight: 600; }
+.app-howto .howto-more {
+  margin: 12px 0 0;
+  font-size: .8125rem;
+  color: var(--text-3);
+}
+.app-howto .howto-more a { color: var(--accent); text-decoration: none; }
+.app-howto .howto-more a:hover { text-decoration: underline; }
 
 /* Sideways links to the publisher's other products. */
 .app-siblings { display: flex; flex-wrap: wrap; gap: 8px; }
@@ -1133,6 +1157,14 @@ footer a:hover { color: var(--text-1); }
   text-decoration: none;
 }
 .docs-section .app-chip-more { color: var(--text-3); font-weight: 500; }
+
+.faq-q {
+  font-size: .875rem;
+  font-weight: 600;
+  color: var(--text-1);
+  margin: 22px 0 6px;
+}
+.docs-section .faq-q:first-of-type { margin-top: 0; }
 
 .app-note {
   font-size: .75rem;
