@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260827_084522_AppCatalog.json` (exported 2026-08-27 08:45:22)  
-> **Generated:** 2026-08-27 08:45 UTC  
+> **Source:** `20260827_220725_AppCatalog.json` (exported 2026-08-27 22:07:25)  
+> **Generated:** 2026-08-27 22:08 UTC  
 > **Total:** 1,577 packages · 928 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -192,7 +192,7 @@
 | 184 | Blue Jeans | BlueJeans 2 | BlueJeans 2 User Installer | `2.45.37` | x64 | ✅ | en-US |
 | 185 | Boris Eyrich Software | Artweaver Free | Artweaver Free | `8.1.6.4131` | x64 | ✅ | en-US |
 | 186 | Botkind, Inc. | Allway Sync | Allway Sync (x64) | `22.0.1` | x64 | ❌ | en-US |
-| 187 | Box | Box CLI | Box CLI (x64) | `4.9.2` | x64 | ❌ | en-US |
+| 187 | Box | Box CLI | Box CLI (x64) | `4.10.0` | x64 | ❌ | en-US |
 | 188 | Box | Box Drive | Box Drive (x64) | `2.53.223` | x64 | ❌ | en-US |
 | 189 | Box | Box Tools | Box Tools (System Installer) | `4.32.0.1324` | x64 | ❌ | en-US |
 | 190 | Box | Box Tools | Box Tools (User Installer) | `4.32.0.1324` | x64 | ❌ | en-US |
@@ -367,7 +367,7 @@
 | 359 | FastStone Soft | FastStone Soft Capture | Capture | `11.3` | x86,x64 | ❌ | en-US |
 | 360 | FastStone Soft | FastStone Soft Image Viewer | Image Viewer | `8.5` | x86,x64 | ❌ | en-US |
 | 361 | FastStone Soft | FastStone Soft Photo Resizer | Photo Resizer | `4.5` | x86,x64 | ❌ | en-US |
-| 362 | FileZilla | FileZilla | FileZilla (x64) | `3.70.6` | x64 | ✅ | en-US |
+| 362 | FileZilla | FileZilla | FileZilla (x64) | `3.71.1` | x64 | ✅ | en-US |
 | 363 | FLUX, Inc. | Beam Studio | Beam Studio (x64) | `2.6.8` | x64 | ✅ | en-US |
 | 364 | Formlabs | Preform | Preform | `3.60.3` | x64 | ❌ | en-US |
 | 365 | Fortra, LLC | GoAnywhere OpenPGP Studio | GoAnywhere OpenPGP Studio | `1.2.3` | x64 | ❌ | en-US |
@@ -667,8 +667,8 @@
 | 659 | Microsoft | Microsoft Bot Framework Emulator | Microsoft Bot Framework Emulator | `4.15.1` | x64 | ❌ | en-US |
 | 660 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.813.1` | x64 | ❌ | en-US |
 | 661 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
-| 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `152.0.4191.41` | x64 | ✅ | en-US |
-| 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `153.0.4234.2` | x64 | ✅ | en-US |
+| 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `152.0.4191.51` | x64 | ✅ | en-US |
+| 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `154.0.4238.0` | x64 | ✅ | en-US |
 | 664 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 665 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `151.0.4129.107` | x64 | ❌ | en-US |
 | 666 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
@@ -784,7 +784,7 @@
 | 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
 | 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 778 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37614.0` | x64 | ❌ | en-US |
-| 779 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.134.0` | x64 | ✅ | en-US |
+| 779 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.135.0` | x64 | ✅ | en-US |
 | 780 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37614.0` | x64 | ❌ | en-US |
 | 781 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 782 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -809,7 +809,7 @@
 | 801 | Microsoft | SharePoint Online Management Shell | SharePoint Online Management Shell | `16.0.27424.12000` | x64 | ❌ | en-US |
 | 802 | Microsoft Corporation | Microsoft Visual C++ 2015-2022 Redistributable | Microsoft Visual C++ 2015-2022 Redistributable (x64) (exe) | `14.51.36247.0` | x64 | ❌ | en-US |
 | 803 | Microsoft Corporation | Remote Help | Remote Help (x64) (exe) | `5.2.1040.0` | x64 | ❌ | en-US |
-| 804 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.8.190756` | x64 | ❌ | en-US |
+| 804 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.8.270956` | x64 | ❌ | en-US |
 | 805 | Mitel Networks Corporation | Mitel miCollab | Mitel miCollab | `10.3.8` | x64 | ❌ | en-US |
 | 806 | Mobirise.com | Mobirise | Mobirise | `6.0.5.150` | x86,x64 | ❌ | en-US |
 | 807 | MochaSoft Aps | Mocha TN3270 | Mocha TN3270 | `4.3.0` | x86,x64 | ❌ | en-US |
@@ -1177,7 +1177,7 @@
 | 1169 | Parallels International GmbH | Parallels Client 19 | Parallels Client 19 (x64) | `19.4.25221` | x64 | ✅ | en-US |
 | 1170 | Parallels International GmbH | Parallels Toolbox | Parallels Toolbox | `7.1.1.4366` | x64 | ❌ | en-US |
 | 1171 | PASCO scientific | Spectrometry | Spectrometry | `2.5.0.4` | x64 | ❌ | en-US |
-| 1172 | Passmark Software | PerformanceTest | PerformanceTest (x64) | `11.1.1013.0` | x64 | ❌ | en-US |
+| 1172 | Passmark Software | PerformanceTest | PerformanceTest (x64) | `11.1.1014.0` | x64 | ❌ | en-US |
 | 1173 | Password Safe | Password Safe 3 | Password Safe 3 (x64) | `3.72.1` | x64 | ❌ | en-US |
 | 1174 | Pausit AB | Pausit Launcher | Pausit Launcher | `1.0.33.0` | x86,x64 | ❌ | en-US |
 | 1175 | PDF-XChange Co Ltd | PDF-Tools | PDF-Tools 10 (x64) | `10.8.5.410` | x64 | ❌ | en-US |
@@ -1466,7 +1466,7 @@
 | 1458 | The Git Development Community | Git | Git (x64) | `2.55.0.5` | x64 | ✅ | en-US |
 | 1459 | The Graphviz Authors | Graphviz | Graphviz (x64) | `13.1.0` | x64 | ❌ | en-US |
 | 1460 | The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.3.1` | x64 | ❌ | en-US |
-| 1461 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58` | x64 | ❌ | en-US |
+| 1461 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58.2` | x64 | ❌ | en-US |
 | 1462 | Thycotic Software, LLC | Thycotic Application Control Agent | Thycotic Application Control Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
 | 1463 | Thycotic Software, LLC | Thycotic Directory Services Agent | Thycotic Directory Services Agent (x64) | `12.0.5041` | x64 | ❌ | en-US |
 | 1464 | Thycotic Software, LLC | Thycotic Local Security Agent | Thycotic Local Security Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
@@ -1560,7 +1560,7 @@
 | 1552 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.4.1` | x64 | ❌ | en-US |
 | 1553 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
 | 1554 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.2` | x64 | ❌ | en-US |
-| 1555 | Zandar Labs SL | Aptakube | Aptakube | `1.19.2` | x64 | ❌ | en-US |
+| 1555 | Zandar Labs SL | Aptakube | Aptakube | `1.19.3` | x64 | ❌ | en-US |
 | 1556 | Zello Inc. | Zello | Zello | `18.7.0.0` | x64 | ❌ | en-US |
 | 1557 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 5 | `5.7.18` | x86,x64 | ❌ | en-US |
 | 1558 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.2` | x86,x64 | ❌ | en-US |
