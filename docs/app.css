@@ -309,7 +309,7 @@ main {
   font-size: .875rem;
   color: var(--text-2);
   line-height: 1.6;
-  margin-bottom: 20px;
+  margin-bottom: 32px;
 }
 .page-lede strong { color: var(--text-1); font-weight: 600; }
 .page-lede a { color: var(--accent); text-decoration: none; }
