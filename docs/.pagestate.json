@@ -5408,19 +5408,6 @@
   "coolutils-mail-viewer": [
    {
     "added": 0,
-    "date": "2026-04-15",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "5.1.0.135",
-      "1.0.9600.39956",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-04-25",
     "fields": [],
     "removed": 0,
@@ -5714,6 +5701,19 @@
      [
       "7.1.9725.42051",
       "7.1.9733.23775",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9733.23775",
+      "7.1.9735.40371",
       1
      ]
     ]
@@ -7276,6 +7276,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.6.2.0",
+      "3.6.3.0",
+      1
+     ]
+    ]
    }
   ],
   "diroots-lda-diroots-prosheets": [
@@ -8818,6 +8831,19 @@
      [
       "4.5.1.201",
       "4.6.0.203",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.6.0.203",
+      "4.6.1.204",
       1
      ]
     ]
@@ -26688,6 +26714,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.7.0",
+      "6.7.1.1",
+      1
+     ]
+    ]
    }
   ],
   "wazuh-inc-wazuh-agent": [
@@ -27510,6 +27549,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.19.3",
+      "1.19.4",
+      1
+     ]
+    ]
    }
   ],
   "zello-inc-zello": [
@@ -27930,7 +27982,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260827_220725_AppCatalog.json",
+ "history_through": "20260828_105829_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -27939,9 +27991,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "d097115bce3f44ab3d7d62c7a910a6c257ad39ff",
-   "hash": "5759f4910c706c7731426ec0ed32089d8c050f6f",
-   "lastmod": "2026-08-27"
+   "exact": "4382dc81851182aeb4be1ed3510e92ef8219cf6a",
+   "hash": "1ce14e2f3899250a8ca06aae45883707ccc31e3d",
+   "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "ac66ba299424d083e08d89536ac6275d61c445f7",
@@ -28819,9 +28871,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "3014e5732502d78e5ad3dd24e8bd76811cc4629b",
-   "hash": "3014e5732502d78e5ad3dd24e8bd76811cc4629b",
-   "lastmod": "2026-08-27"
+   "exact": "00ac98f552cc4ebfcf87a403a145164aea2a3d68",
+   "hash": "00ac98f552cc4ebfcf87a403a145164aea2a3d68",
+   "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "f78fe4c0342308dbaaa7f535dbdf2a11148510b4",
@@ -28994,9 +29046,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/digidna-sarl-imazing.html": {
-   "exact": "24193992ee38b30e8df45248bab036830b993326",
-   "hash": "24193992ee38b30e8df45248bab036830b993326",
-   "lastmod": "2026-08-27"
+   "exact": "345f994116144aef59b1fe318926be657ca4b23e",
+   "hash": "345f994116144aef59b1fe318926be657ca4b23e",
+   "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/diroots-lda-diroots-prosheets.html": {
    "exact": "bfcc6fccacb816c4dd85c330a87961b523564f3f",
@@ -29194,9 +29246,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/egnyte-inc-egnyte-connect-desktop-app.html": {
-   "exact": "839d3c43aeb040ac6fd19ad6344042cbc007ee4a",
-   "hash": "839d3c43aeb040ac6fd19ad6344042cbc007ee4a",
-   "lastmod": "2026-08-27"
+   "exact": "065b975616bdf430a960c909b72c8a36bdb94020",
+   "hash": "065b975616bdf430a960c909b72c8a36bdb94020",
+   "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/egnyte-inc-egnyte-webedit.html": {
    "exact": "c2d0ce3a3e55da1d69b91bdbd975dec551365b7c",
@@ -32349,9 +32401,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/waterfox.html": {
-   "exact": "afc308fa489ac111a5beef3aad2d9b1a24e8a6fb",
-   "hash": "afc308fa489ac111a5beef3aad2d9b1a24e8a6fb",
-   "lastmod": "2026-08-27"
+   "exact": "3aef6b9d286ac176fd5923ee8275dc019dadc3a7",
+   "hash": "3aef6b9d286ac176fd5923ee8275dc019dadc3a7",
+   "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/wazuh-inc-wazuh-agent.html": {
    "exact": "a3b4508b49c2494ca7698ff8bfc31ecfe1cf2327",
@@ -32489,9 +32541,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "354b2f1795e17ef1bcf1377dd79d21eb2701724b",
-   "hash": "354b2f1795e17ef1bcf1377dd79d21eb2701724b",
-   "lastmod": "2026-08-27"
+   "exact": "0b0ed85e535206952b19d0fba9958a387bdd225b",
+   "hash": "0b0ed85e535206952b19d0fba9958a387bdd225b",
+   "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",
