@@ -675,6 +675,52 @@ def generate_changes_json(changes):
     print(f"  docs/changes.json         — {len(changes or {})} period(s), {size_kb:,.0f} KB")
 
 
+def generate_summary_json(stats, changes, slug_by_key=None):
+    """A few hundred bytes of headline numbers for other sites to embed
+    (drung.dev shows them on its project page). catalog.json and changes.json
+    are far too large for a one-line stat, so this carries only the counts,
+    the change totals per period and the most recent additions — no package
+    lists. Served with CORS by GitHub Pages like everything else in docs/."""
+    def period(key):
+        p = (changes or {}).get(key)
+        if not p:
+            return None
+        return {
+            "compared_to_ts": p.get("compared_to_ts"),
+            "span_label":     p.get("span_label"),
+            "added_count":    p.get("added_count", 0),
+            "removed_count":  p.get("removed_count", 0),
+            "updated_count":  p.get("updated_count", 0),
+        }
+
+    recent = []
+    for a in ((changes or {}).get("monthly") or {}).get("added", [])[:3]:
+        recent.append({
+            "name":      a.get("productDisplayName", ""),
+            "publisher": a.get("publisherDisplayName", ""),
+            "slug":      (slug_by_key or {}).get(_product_key(a), ""),
+        })
+
+    payload = {
+        "source_ts":       stats["source_ts"],
+        "generated":       now_utc(),
+        "total":           stats["total"],
+        "unique_products": stats["unique_products"],
+        "publishers":      stats["publishers"],
+        "auto_pct":        stats["auto_pct"],
+        "locales":         stats["locales"],
+        "latest":          period("latest"),
+        "daily":           period("daily"),
+        "weekly":          period("weekly"),
+        "monthly":         period("monthly"),
+        "recent_added":    recent,
+    }
+    os.makedirs("docs", exist_ok=True)
+    with open("docs/summary.json", "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, separators=(",", ":"))
+    print(f"  docs/summary.json         — {os.path.getsize('docs/summary.json'):,} bytes")
+
+
 # ---------------------------------------------------------------------------
 # docs/feed.xml  — RSS feed of catalog changes (keeps last 50 items)
 # ---------------------------------------------------------------------------
@@ -1906,6 +1952,7 @@ def main():
     slug_map, slug_by_key = _build_slug_map(current_apps)
     generate_catalog_json(current_apps, stats, latest_file, slug_by_key)
     generate_changes_json(changes_data)
+    generate_summary_json(stats, changes_data, slug_by_key)
     repo_url = get_repo_url()
     site_url = get_site_url(repo_url)
     generate_feed(changes_data.get("latest"), stats, latest_file, repo_url)
