@@ -905,6 +905,31 @@ def _build_slug_map(apps):
     return slug_map, slug_by_key
 
 
+# Search engines cut a description off past ~160 characters, and the SEO
+# checkers flag anything outside 25–160. Product names in this catalog run long
+# enough that a fixed template cannot be trusted to stay inside that, so the
+# descriptions are assembled to fit rather than written and hoped for.
+_META_DESC_MAX = 160
+
+
+def _meta_desc(head, *clauses, limit=_META_DESC_MAX):
+    """Join head and clauses into a meta description that fits `limit`.
+
+    Renders as "head — clause, clause." Trailing clauses are dropped one at a
+    time until the text fits, so pass them least-important last; a head long
+    enough to overrun on its own is cut back to a word boundary.
+    """
+    clauses = list(clauses)
+    while True:
+        s = head + (" — " + ", ".join(clauses) if clauses else "") + "."
+        if len(s) <= limit or not clauses:
+            break
+        clauses.pop()
+    if len(s) > limit:
+        s = head[:limit - 1].rsplit(" ", 1)[0].rstrip(" ,—-") + "…"
+    return s
+
+
 def _static_page(title, desc, canonical, body_html, extra_head="", repo_url="",
                  site_url=""):
     canon = f'\n  <link rel="canonical" href="{_xml_escape(canonical)}" />' if canonical else ""
@@ -1030,10 +1055,13 @@ def _render_app_page(slug, packages, site_url, source_ts, repo_url, siblings=())
     ))
     locales = sorted({l for p in packages for l in (p.get("locales") or []) if l})
 
-    desc = (
-        f"{product} by {publisher} in the Microsoft Intune Enterprise App Management (EAM) "
-        f"catalog — {n} package{'s' if n != 1 else ''}, latest version {latest}, "
-        f"auto-update {'supported' if auto else 'not supported'}."
+    # Least-important clause last: on a long product name the auto-update note
+    # falls off the end rather than the version, and the name is never cut.
+    desc = _meta_desc(
+        f"{product} by {publisher} in the Intune EAM app catalog",
+        f"{n} package{'s' if n != 1 else ''}",
+        f"latest {latest}",
+        f"auto-update {'supported' if auto else 'not supported'}",
     )
     ld = json.dumps({
         "@context": "https://schema.org",
@@ -1180,10 +1208,10 @@ def _render_apps_index(products, site_url, source_ts, repo_url):
     n_products = len(products)
     n_packages = sum(r[3] for r in products)
 
-    desc = (
-        f"Complete list of all {n_products:,} applications in the Microsoft Intune "
-        "Enterprise App Management (EAM) catalog \u2014 publisher, package count and latest "
-        "version for every app, updated with each catalog export."
+    desc = _meta_desc(
+        f"All {n_products:,} apps in the Intune EAM catalog",
+        "publisher", "package count", "latest version for every app",
+        "updated with each export",
     )
 
     faq = _apps_index_faq(n_products, n_packages, source_ts)
