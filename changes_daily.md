@@ -3,7 +3,7 @@
 > **Comparing:** `20260828_105829_AppCatalog.json` (exported 2026-08-28 10:58:29)  
 > **vs:** `20260827_084522_AppCatalog.json` (exported 2026-08-27 08:45:22)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-08-28 10:59 UTC
+> **Generated:** 2026-08-28 15:14 UTC
 
 ## Summary
 

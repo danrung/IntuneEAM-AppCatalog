@@ -1082,6 +1082,36 @@ def _meta_desc(head, *clauses, limit=_META_DESC_MAX):
     return s
 
 
+# Bing warns on any <title> past 70 characters, and product names in this
+# catalog run long enough that a fixed "{product} by {publisher} — site" template
+# cannot be trusted to stay inside that. Same approach as the descriptions:
+# assembled to fit, dropping the least important part first — the publisher goes
+# before the site name, and the product name itself is only cut as a last resort.
+_TITLE_MAX = 70
+
+
+def _page_title(product, publisher):
+    """Longest variant of the app-page <title> that fits `_TITLE_MAX`."""
+    for title in (
+        f"{product} by {publisher} — Intune EAM App Catalog",
+        f"{product} — Intune EAM App Catalog",
+        f"{product} — Intune EAM",
+        product,
+    ):
+        if len(title) <= _TITLE_MAX:
+            return title
+    # A product name too long even on its own is cut in the middle, not at the
+    # end: the tail is where such names differ ("… Update 1607" vs "… Update
+    # 1809"), and cutting it would leave several pages with the same title.
+    words = product.split()
+    head, tail = words[:len(words) // 2], words[len(words) // 2:]
+    while head and len(" ".join(head + ["…"] + tail)) > _TITLE_MAX:
+        head.pop()
+    if head:
+        return " ".join(head + ["…"] + tail)
+    return product[:_TITLE_MAX - 1].rsplit(" ", 1)[0].rstrip(" ,—-") + "…"
+
+
 def _static_page(title, desc, canonical, body_html, extra_head="", repo_url="",
                  site_url=""):
     canon = f'\n  <link rel="canonical" href="{_xml_escape(canonical)}" />' if canonical else ""
@@ -1526,7 +1556,7 @@ def _render_app_page(slug, packages, site_url, repo_url,
     )
     canonical = f"{site_url}apps/{slug}.html" if site_url else ""
     extra_head = f'\n  <script type="application/ld+json">{ld}</script>'
-    return _static_page(f"{product} by {publisher} — Intune EAM App Catalog",
+    return _static_page(_page_title(product, publisher),
                         desc, canonical, body, extra_head, repo_url, site_url)
 
 
