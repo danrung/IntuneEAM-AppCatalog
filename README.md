@@ -8,7 +8,7 @@ The raw data comes from the Microsoft Graph API. Exports are dropped into this r
 
 🌐 **[Live Catalog](https://eam.drung.dev/)** Searchable, filterable website with the full package list — the stat cards double as filters. Follows your system light/dark preference, with a toggle in the header.
 
-🔗 **[App Pages](https://eam.drung.dev/apps/)** A static, linkable page for every product in the catalog: an at-a-glance summary panel, a table of every branch, version, architecture and locale, the steps to deploy it from Intune, and links to the publisher's other apps — regenerated on every export.
+🔗 **[App Pages](https://eam.drung.dev/apps/)** A static, linkable page for every product in the catalog: an at-a-glance summary panel, a table of every branch, version, architecture and locale, that product's own dated change history, the steps to deploy it from Intune, and links to the publisher's other apps — rewritten only when something about the product actually changes.
 
 📦 **[App Catalog](catalog.md)** Every available package, sorted by publisher and app name.
 
@@ -80,6 +80,33 @@ One product can ship as multiple packages, for example separate x64 and x86 bran
 The changes pages match packages between exports by `branchId` and surface three things: packages that are new, packages that have been removed, and packages where a tracked field changed. Tracked fields are the version, app name, branch name, publisher, architecture, auto-update capability and locales — so renames and capability changes show up alongside ordinary version bumps, with the changed fields named in each row. The volatile `id` field is ignored.
 
 The period-based changelogs (daily, weekly, monthly) use the timestamp embedded in each filename to find the right comparison point automatically. The period is a minimum, not a fixed window: each one compares against the newest export that is at least that old, which after a gap in exports can be considerably older than the name suggests. Every changelog states the actual span between the two exports it compared.
+
+## How the Pages Are Published
+
+The pages are static and there are around nine hundred of them, so the pipeline is careful
+about claiming that any of them changed.
+
+`docs/.pagestate.json` holds a content fingerprint and a last-changed date for every URL.
+A page is rewritten only when its content differs from the fingerprint, which keeps a
+no-op export from churning the whole tree through git, and `docs/sitemap.xml` takes each
+`<lastmod>` from that date rather than from the export timestamp. The distinction matters:
+stamping every URL with the export date told crawlers that all nine hundred pages changed
+daily when the only difference was a printed timestamp, and a crawler that samples a few of
+those and finds them identical stops trusting the dates — and stops crawling. The export
+timestamp is therefore no longer printed on product pages at all; what each page shows
+instead is the date that product itself last moved in the catalog.
+
+Change history is accumulated in the same file. Each run folds its own export-to-export
+diff into a per-product log, capped at the most recent entries, so a product page has
+something of its own to say beyond a name and a version. On first run, with nothing to
+carry forward, the log is seeded from the exports already in `archive/`; set `HISTORY_SEED`
+to bound that backfill to the newest *N* exports.
+
+After the push, the workflow submits the URLs that actually changed — and only those —
+to [IndexNow](https://www.indexnow.org/), which Bing and several other engines accept as a
+change notification. The key file is published at the site root; set an `INDEXNOW_KEY`
+repository secret to pin or rotate the key, otherwise one is minted on the first run and
+kept in the state file.
 
 ## Disclaimer
 

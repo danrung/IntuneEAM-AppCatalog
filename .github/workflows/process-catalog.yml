@@ -28,6 +28,11 @@ jobs:
           python-version: '3.x'
 
       - name: Generate docs
+        env:
+          # Optional. Set the INDEXNOW_KEY repository secret to pin or rotate
+          # the key; without it the script mints one on the first run and keeps
+          # it in docs/.pagestate.json.
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: python .github/scripts/generate_docs.py
 
       - name: Archive previous catalog files
@@ -56,6 +61,11 @@ jobs:
           # Stage generated docs, README, and any archiving moves. docs/apps/ is
           # staged with -A so pages pruned for removed products are deleted too.
           git add catalog.md stats.md changes.md changes_daily.md changes_weekly.md changes_monthly.md README.md docs/catalog.json docs/changes.json docs/feed.xml docs/sitemap.xml
+          # docs/.pagestate.json is what makes the sitemap dates and the
+          # IndexNow list mean anything on the next run — it has to travel with
+          # the pages it describes. The *.txt glob picks up the IndexNow key
+          # file, which has to be published for a submission to validate.
+          git add docs/.pagestate.json docs/*.txt
           git add -A docs/apps/ catalog/ archive/
 
           # Exit cleanly if nothing changed
@@ -65,3 +75,44 @@ jobs:
             | grep -oP '\d{8}_\d{6}' || echo "unknown")
           git commit -m "chore: update catalog docs from export ${EXPORT_TS}"
           git push
+
+      - name: Submit changed URLs to IndexNow
+        # After the push, never before: the submission is validated by fetching
+        # keyLocation, so the key file has to be live on the site first. The
+        # payload only ever names URLs whose content actually changed — a
+        # submission full of unchanged pages is the same false signal that got
+        # the sitemap's lastmod dates ignored in the first place.
+        run: |
+          if [ ! -s docs/.indexnow.json ]; then
+            echo "No changed URLs — nothing to submit"
+            exit 0
+          fi
+
+          n=$(python -c "import json,sys;print(len(json.load(open('docs/.indexnow.json'))['urlList']))")
+          key_url=$(python -c "import json,sys;print(json.load(open('docs/.indexnow.json'))['keyLocation'])")
+
+          # Wait for Pages to publish the key file rather than guessing at a
+          # build time. Submitting before it is reachable is not fatal, so this
+          # gives up after ~3 minutes and sends anyway.
+          for i in $(seq 1 12); do
+            if curl -fsS -o /dev/null "$key_url"; then
+              echo "Key file live at $key_url"
+              break
+            fi
+            sleep 15
+          done
+
+          code=$(curl -sS -o /tmp/indexnow.body -w '%{http_code}' \
+            -X POST 'https://api.indexnow.org/IndexNow' \
+            -H 'Content-Type: application/json; charset=utf-8' \
+            --data @docs/.indexnow.json) || code=000
+          echo "Submitted ${n} URL(s) — IndexNow returned ${code}"
+          cat /tmp/indexnow.body 2>/dev/null || true
+
+          # 200 accepted, 202 accepted pending key validation. Anything else is
+          # worth seeing but not worth failing the run over: the pages are
+          # already published and the sitemap still carries them.
+          case "$code" in
+            200|202) ;;
+            *) echo "::warning::IndexNow returned ${code}" ;;
+          esac

@@ -9,3 +9,6 @@ venv/
 .idea/
 .DS_Store
 Thumbs.db
+
+# IndexNow submission payload — regenerated each run, consumed by the workflow
+docs/.indexnow.json

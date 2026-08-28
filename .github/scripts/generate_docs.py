@@ -8,17 +8,25 @@ Static website files (docs/index.html, docs/app.css, docs/app.js) are committed 
 and never regenerated — docs/catalog.json, docs/changes.json, docs/feed.xml,
 docs/apps/ and docs/sitemap.xml are rewritten on each run.
 
+Generated pages are written only when their content actually changes. What
+changed, when each URL last changed, and the per-product change history the
+pages render all live in docs/.pagestate.json, which is why the sitemap's
+<lastmod> dates and the IndexNow submission can be trusted by a crawler.
+
 Run from the repository root:
     python .github/scripts/generate_docs.py
 """
 
 import glob
+import hashlib
 import json
 import os
 import re
 import subprocess
 import sys
+import uuid
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlsplit
 
 
 # ---------------------------------------------------------------------------
@@ -54,6 +62,150 @@ def filename_to_ts(path):
 
 def now_utc():
     return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+
+# ---------------------------------------------------------------------------
+# docs/.pagestate.json — what every generated page looked like last run
+#
+# Two published signals depend on knowing whether a page's *content* actually
+# moved. Sitemap <lastmod> is worthless to a crawler the moment it fires on
+# every URL every day: it stamped all 900-odd product pages with the export
+# date even though the only difference between two runs was the export
+# timestamp printed in the footer, so a crawler that sampled a few of them
+# learned the dates carry no information and deprioritised the rest. IndexNow
+# has the same failure mode, louder. Both need a content fingerprint per URL.
+#
+# The file also carries the per-product change history the pages render, so
+# that history survives without re-reading a few hundred megabytes of archived
+# exports on every run.
+#
+# It lives under docs/ so it travels with the pages it describes, and its name
+# starts with a dot so GitHub Pages does not publish it.
+# ---------------------------------------------------------------------------
+
+STATE_PATH = "docs/.pagestate.json"
+
+# Entries kept per product. Long enough to show a real release cadence, short
+# enough that a page stays a page rather than a changelog dump.
+HISTORY_MAX = 24
+
+# How many of the archived exports to walk when the history is empty and has to
+# be seeded. Zero means all of them, which is the default because the whole
+# archive currently costs a few seconds and a product whose page shows no
+# history at all is exactly the thin page this is meant to fix. Set
+# HISTORY_SEED to a positive number to bound the backfill if the archive ever
+# grows past the point where that is comfortable.
+HISTORY_SEED = int(os.environ.get("HISTORY_SEED", "0"))
+
+# IndexNow accepts at most 10,000 URLs in a single submission.
+INDEXNOW_MAX = 10000
+
+
+def _load_state():
+    try:
+        with open(STATE_PATH, encoding="utf-8") as f:
+            state = json.load(f)
+    except (OSError, ValueError):
+        state = {}
+    state.setdefault("version", 1)
+    state.setdefault("pages", {})     # absolute URL -> {hash, exact, lastmod}
+    state.setdefault("history", {})   # slug -> [entry, ...] oldest first
+    state.setdefault("history_from", None)     # oldest export the history saw
+    state.setdefault("history_through", None)  # newest export already folded in
+    return state
+
+
+def _save_state(state):
+    """Written indented and key-sorted, not minified.
+
+    It is committed on every export, and the one thing anyone will ever want to
+    check in a diff is which dates moved — which is unreadable as a single
+    400 KB line. Indenting also gives git something to delta against.
+    """
+    os.makedirs("docs", exist_ok=True)
+    with open(STATE_PATH, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, sort_keys=True, indent=1)
+        f.write("\n")
+
+
+# The export timestamp is stamped into pages that are otherwise byte-identical
+# run to run. Folding it into the digest would mark every page as changed every
+# day — the exact false signal this machinery exists to remove — so it is
+# blanked before the hash is taken. Bare YYYY-MM-DD dates are left alone: those
+# are history entries, and they are real content.
+_TS_RE = re.compile(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}(:\d{2})?( UTC)?")
+
+
+def _fingerprint(html):
+    """Digest of a page's meaningful content, export timestamp excluded."""
+    return hashlib.sha1(_TS_RE.sub("", html).encode("utf-8")).hexdigest()
+
+
+def _disk_digest(path):
+    """Digest of the file as it stands, or None if it is not there.
+
+    Read as text, not bytes, so it is comparable with the digest of the string
+    that was written: Windows translates newlines on the way out, which makes a
+    byte-for-byte comparison report every page as stale on every local run.
+    """
+    try:
+        with open(path, encoding="utf-8") as f:
+            return hashlib.sha1(f.read().encode("utf-8")).hexdigest()
+    except OSError:
+        return None
+
+
+def _write_page(path, html, url, state, today, changed):
+    """Write a generated page, and record whether its content actually moved.
+
+    Two digests, because the two questions are different. Whether to write the
+    file at all is settled against the bytes on disk — cheap, and self-healing
+    if the state file and the working tree ever drift apart. Whether the URL
+    counts as *changed* is settled by `hash`, which ignores the export
+    timestamp; that is what feeds <lastmod> and IndexNow, so a page whose only
+    difference is a printed date is rewritten without claiming to have changed.
+    """
+    prev  = state["pages"].get(url) or {}
+    exact = hashlib.sha1(html.encode("utf-8")).hexdigest()
+    content = _fingerprint(html)
+    moved = prev.get("hash") != content
+    wrote = _disk_digest(path) != exact
+    if wrote:
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(html)
+    if moved:
+        changed.append(url)
+    state["pages"][url] = {
+        "hash":    content,
+        "exact":   exact,
+        "lastmod": today if moved else (prev.get("lastmod") or today),
+    }
+    return wrote
+
+
+def _track_static(path, url, state, today, changed):
+    """Give a hand-maintained page the same honest lastmod as a generated one.
+
+    docs/index.html is committed by hand and never regenerated, so there is
+    nothing to write — but its sitemap entry should still move on the day it is
+    edited rather than on every export, which means fingerprinting the file as
+    it currently stands.
+    """
+    try:
+        with open(path, encoding="utf-8") as f:
+            html = f.read()
+    except OSError:
+        return
+    prev = state["pages"].get(url) or {}
+    content = _fingerprint(html)
+    moved = prev.get("hash") != content
+    if moved:
+        changed.append(url)
+    state["pages"][url] = {
+        "hash":    content,
+        "exact":   content,
+        "lastmod": today if moved else (prev.get("lastmod") or today),
+    }
 
 
 def find_comparison_file(all_files, latest_file, days):
@@ -1039,7 +1191,197 @@ _HOWTO = (
 )
 
 
-def _render_app_page(slug, packages, site_url, source_ts, repo_url, siblings=()):
+# ---------------------------------------------------------------------------
+# Per-product change history
+#
+# What made the product pages weak was that they had nothing of their own to
+# say: nine hundred pages off one template, differing by a name and a version,
+# with no reason for any of them to be re-read. The catalog diffs this script
+# already computes are the missing content — "Firefox moved 154.0 → 154.0.1 on
+# 27 Aug" is specific to the page, true, and grows on its own.
+#
+# History accumulates in the state file: each run folds its own diff in, so the
+# archived exports are re-read only once, when there is nothing to carry
+# forward.
+# ---------------------------------------------------------------------------
+
+_MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun",
+           "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
+
+
+def _pretty_date(iso):
+    """'2026-08-27' -> '27 Aug 2026'; anything unparseable passes through."""
+    try:
+        y, m, d = (int(p) for p in iso.split("-"))
+        return f"{d} {_MONTHS[m - 1]} {y}"
+    except (ValueError, IndexError):
+        return iso
+
+
+def _summarise_changes(structured, slug_by_key, date):
+    """Fold one export-to-export diff into a per-product history entry.
+
+    Package-level detail is deliberately collapsed. Firefox ships one package
+    per locale, so a version bump lands as 47 near-identical rows; what belongs
+    on a product page is "the version moved from X to Y", once. Version moves
+    are therefore reduced to their distinct from-to pairs and everything else
+    is counted or named.
+    """
+    per_slug = {}
+
+    def bucket(app):
+        slug = slug_by_key.get(_product_key(app))
+        if not slug:
+            return None
+        return per_slug.setdefault(slug, {
+            "date": date, "added": 0, "removed": 0, "versions": [], "fields": [],
+        })
+
+    for a in structured.get("added") or []:
+        b = bucket(a)
+        if b is not None:
+            b["added"] += 1
+
+    # A removed package still belongs to a product that may well remain in the
+    # catalog — only a product that left entirely has no page to record it on.
+    for a in structured.get("removed") or []:
+        b = bucket(a)
+        if b is not None:
+            b["removed"] += 1
+
+    for a in structured.get("updated") or []:
+        b = bucket(a)
+        if b is None:
+            continue
+        prev = a.get("prevVersionDisplayName") or ""
+        curr = a.get("versionDisplayName") or ""
+        if prev and curr and prev != curr:
+            # Counted, not just noted. A product like Firefox ships one package
+            # per locale and Microsoft rolls them over across two exports, so
+            # the same from-to pair legitimately appears on consecutive days;
+            # without the count that reads as a duplicate rather than as a
+            # staged rollout.
+            for v in b["versions"]:
+                if v[0] == prev and v[1] == curr:
+                    v[2] += 1
+                    break
+            else:
+                b["versions"].append([prev, curr, 1])
+        for c in a.get("changes") or []:
+            label = c.get("label") or c.get("field")
+            if label and label != "Version" and label not in b["fields"]:
+                b["fields"].append(label)
+    return per_slug
+
+
+def _merge_entries(a, b):
+    """Combine two same-day entries — exports are sometimes pushed hours apart."""
+    versions = [list(v) for v in a["versions"]]
+    for prev, curr, n in b["versions"]:
+        for v in versions:
+            if v[0] == prev and v[1] == curr:
+                v[2] += n
+                break
+        else:
+            versions.append([prev, curr, n])
+    return {
+        "date":     a["date"],
+        "added":    a["added"] + b["added"],
+        "removed":  a["removed"] + b["removed"],
+        "versions": versions,
+        "fields":   a["fields"] + [f for f in b["fields"] if f not in a["fields"]],
+    }
+
+
+def _record_history(state, per_slug):
+    """Append one run's per-product entries, newest last, capped per product."""
+    for slug, entry in per_slug.items():
+        if not (entry["added"] or entry["removed"] or entry["versions"] or entry["fields"]):
+            continue
+        log = state["history"].setdefault(slug, [])
+        if log and log[-1].get("date") == entry["date"]:
+            log[-1] = _merge_entries(log[-1], entry)
+        else:
+            log.append(entry)
+        del log[:-HISTORY_MAX]
+
+
+def seed_history(state, files, slug_by_key):
+    """Backfill history from the exports already in the repository.
+
+    Runs only when there is nothing to carry forward — after this pass the
+    state file carries the history and each run appends only its own diff. Walks
+    the whole archive by default; HISTORY_SEED bounds it to the newest N exports
+    if that ever gets expensive.
+    """
+    if state["history"] or len(files) < 2:
+        return False
+    window = files[-HISTORY_SEED:] if HISTORY_SEED > 0 else files
+    if len(window) < 2:
+        return False
+    print(f"  history                   — seeding from {len(window)} export(s), "
+          "one-off; subsequent runs append only")
+    prev_apps = load_catalog(window[0])
+    for prev_file, curr_file in zip(window, window[1:]):
+        curr_apps = load_catalog(curr_file)
+        dt = parse_dt(curr_file)
+        if dt:
+            structured, *_ = _compute_changes(curr_apps, prev_apps, curr_file, prev_file)
+            _record_history(state, _summarise_changes(
+                structured, slug_by_key, dt.strftime("%Y-%m-%d")))
+        prev_apps = curr_apps
+    state["history_from"] = (parse_dt(window[0]) or datetime.min).strftime("%Y-%m-%d")
+    n = sum(len(v) for v in state["history"].values())
+    print(f"  history                   — {n:,} entries across "
+          f"{len(state['history']):,} product(s)")
+    return True
+
+
+def _render_history(entries, since):
+    """The change-history section for one product page."""
+    if not entries:
+        return "", ""
+
+    def version_bit(prev, curr, n):
+        moved = (f'<span class="hist-n">{n:,} packages</span>' if n > 1 else "")
+        return (f"<code>{_xml_escape(prev)}</code> &rarr; "
+                f"<code>{_xml_escape(curr)}</code>{moved}")
+
+    def phrase(e):
+        # Tolerates the pre-count entry shape so an existing state file does not
+        # have to be thrown away to pick up this change.
+        bits = [version_bit(v[0], v[1], v[2] if len(v) > 2 else 1)
+                for v in e.get("versions") or []]
+        if e.get("added"):
+            n = e["added"]
+            bits.append(f"{n:,} package{'' if n == 1 else 's'} added")
+        if e.get("removed"):
+            n = e["removed"]
+            bits.append(f"{n:,} package{'' if n == 1 else 's'} removed")
+        for label in e.get("fields") or []:
+            bits.append(f"{_xml_escape(label)} changed")
+        return ", ".join(bits) or "Catalog entry updated"
+
+    items = "".join(
+        f'<li><time datetime="{_xml_escape(e["date"])}">'
+        f'{_xml_escape(_pretty_date(e["date"]))}</time>'
+        f'<span class="hist-what">{phrase(e)}</span></li>'
+        for e in reversed(entries)
+    )
+    note = (f'<p class="hist-note">Recorded from the catalog exports in this '
+            f"repository since {_xml_escape(_pretty_date(since))}.</p>"
+            if since else "")
+    html = (
+        '\n<section class="docs-section">\n'
+        f'<h2>Change history<span class="count-pill">{len(entries):,}</span></h2>\n'
+        f'<ol class="app-history">{items}</ol>\n{note}\n'
+        "</section>"
+    )
+    return html, entries[-1]["date"]
+
+
+def _render_app_page(slug, packages, site_url, repo_url,
+                     siblings=(), history=(), history_from=None):
     product   = packages[0].get("productDisplayName", "")
     publisher = packages[0].get("publisherDisplayName", "")
     n      = len(packages)
@@ -1055,6 +1397,8 @@ def _render_app_page(slug, packages, site_url, source_ts, repo_url, siblings=())
     ))
     locales = sorted({l for p in packages for l in (p.get("locales") or []) if l})
 
+    hist_html, last_change = _render_history(history, history_from)
+
     # Least-important clause last: on a long product name the auto-update note
     # falls off the end rather than the version, and the name is never cut.
     desc = _meta_desc(
@@ -1063,14 +1407,19 @@ def _render_app_page(slug, packages, site_url, source_ts, repo_url, siblings=())
         f"latest {latest}",
         f"auto-update {'supported' if auto else 'not supported'}",
     )
-    ld = json.dumps({
+    ld_data = {
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
         "name": product,
         "operatingSystem": "Windows",
         "softwareVersion": latest,
         "publisher": {"@type": "Organization", "name": publisher},
-    }, ensure_ascii=False)
+    }
+    # The date the *app* last moved in the catalog, not the date this file was
+    # regenerated — the second one is noise and was what the page used to say.
+    if last_change:
+        ld_data["dateModified"] = last_change
+    ld = json.dumps(ld_data, ensure_ascii=False)
 
     # Auto-update reads three ways: every package, none of them, or a mix.
     if n_auto == n:
@@ -1087,6 +1436,18 @@ def _render_app_page(slug, packages, site_url, source_ts, repo_url, siblings=())
         + _fact("Auto-update", auto_fact)
         + _fact("Architectures", _arch_tags(",".join(arches)))
         + _fact("Locales", _locale_tags(locales, limit=8))
+        # A product that has never moved says so rather than dropping the row:
+        # "unchanged since December" is a real answer for an admin deciding
+        # whether a package is stable, and it keeps the panel the same shape on
+        # every page.
+        + (_fact("Last change",
+                 f'<time datetime="{_xml_escape(last_change)}">'
+                 f"{_xml_escape(_pretty_date(last_change))}</time>")
+           if last_change else
+           _fact("Last change",
+                 '<span class="app-dash">No change since '
+                 f"{_xml_escape(_pretty_date(history_from))}</span>")
+           if history_from else "")
         + "</dl>"
     )
 
@@ -1151,10 +1512,17 @@ def _render_app_page(slug, packages, site_url, source_ts, repo_url, siblings=())
         f"<tbody>{rows}</tbody></table></div>\n"
         f"{_HOWTO.format(product=_xml_escape(product))}\n"
         "</section>"
+        f"{hist_html}"
         f"{sib_html}\n"
-        f'<p class="app-note">Data exported {_xml_escape(source_ts)} from the Microsoft '
-        'Graph API. <a href="../">Browse and search the full catalog</a> for current '
-        "versions and change history. Not affiliated with Microsoft.</p>"
+        # No export timestamp here. It changed on every run whether or not this
+        # app did, which rewrote all 900-odd pages daily and pushed a bogus
+        # <lastmod> for each of them into the sitemap; the date that actually
+        # belongs on this page is the app's own last change, up in the facts.
+        '<p class="app-note">Built from the Microsoft Graph API resource '
+        "<code>win32MobileAppCatalogPackage</code>. "
+        '<a href="../">Browse and search the full catalog</a> for the current '
+        "export date and the complete change history. "
+        "Not affiliated with Microsoft.</p>"
     )
     canonical = f"{site_url}apps/{slug}.html" if site_url else ""
     extra_head = f'\n  <script type="application/ld+json">{ld}</script>'
@@ -1260,7 +1628,13 @@ def _render_apps_index(products, site_url, source_ts, repo_url):
                         desc, canonical, body, extra_head, repo_url, site_url)
 
 
-def generate_app_pages(slug_map, latest_file, site_url, repo_url):
+def _page_url(site_url, rel):
+    """Absolute URL of a page, or its root-relative path when no site URL is
+    known — either way a stable key for the state file."""
+    return f"{site_url}{rel}" if site_url else f"/{rel}"
+
+
+def generate_app_pages(slug_map, latest_file, site_url, repo_url, state, today, changed):
     """Write one static page per product plus an index; prune pages for products
     that left the catalog. Takes the map from _build_slug_map so the pages and
     the links in catalog.json cannot drift apart. Returns the sorted slugs."""
@@ -1275,12 +1649,16 @@ def generate_app_pages(slug_map, latest_file, site_url, repo_url):
 
     os.makedirs("docs/apps", exist_ok=True)
     source_ts = filename_to_ts(latest_file)
-    index_rows = []
+    history_from = state.get("history_from")
+    index_rows, written = [], 0
     for slug, g in slug_map.items():
         key = (g[0].get("publisherDisplayName") or "").lower()
         siblings = [t for t in by_publisher[key] if t[0] != slug]
-        with open(f"docs/apps/{slug}.html", "w", encoding="utf-8") as f:
-            f.write(_render_app_page(slug, g, site_url, source_ts, repo_url, siblings))
+        html = _render_app_page(slug, g, site_url, repo_url, siblings,
+                                state["history"].get(slug, []), history_from)
+        written += _write_page(f"docs/apps/{slug}.html", html,
+                               _page_url(site_url, f"apps/{slug}.html"),
+                               state, today, changed)
         index_rows.append((
             slug,
             g[0].get("publisherDisplayName", ""),
@@ -1290,16 +1668,22 @@ def generate_app_pages(slug_map, latest_file, site_url, repo_url):
         ))
 
     index_rows.sort(key=lambda r: (r[1].lower(), r[2].lower()))
-    with open("docs/apps/index.html", "w", encoding="utf-8") as f:
-        f.write(_render_apps_index(index_rows, site_url, source_ts, repo_url))
+    written += _write_page(
+        "docs/apps/index.html",
+        _render_apps_index(index_rows, site_url, source_ts, repo_url),
+        _page_url(site_url, "apps/"), state, today, changed)
 
     keep = {f"{s}.html" for s in slug_map} | {"index.html"}
     stale = [p for p in glob.glob("docs/apps/*.html") if os.path.basename(p) not in keep]
     for p in stale:
         os.remove(p)
+        base = os.path.basename(p)
+        state["pages"].pop(_page_url(site_url, f"apps/{base}"), None)
+        state["history"].pop(os.path.splitext(base)[0], None)
 
     note = f", {len(stale)} stale page(s) removed" if stale else ""
-    print(f"  docs/apps/                — {len(slug_map):,} product page(s) + index{note}")
+    print(f"  docs/apps/                — {len(slug_map):,} product page(s) + index"
+          f"{note}; {written:,} file(s) rewritten")
     return sorted(slug_map)
 
 
@@ -1307,23 +1691,90 @@ def generate_app_pages(slug_map, latest_file, site_url, repo_url):
 # docs/sitemap.xml — homepage, apps index, and every product page
 # ---------------------------------------------------------------------------
 
-def generate_sitemap(site_url, slugs, latest_file):
+def generate_sitemap(site_url, slugs, state):
+    """One <lastmod> per URL, taken from when that page's content last moved.
+
+    This used to stamp every URL with the export date, so the sitemap claimed
+    900-odd changes a day that had not happened. A crawler that samples a few of
+    those, finds them identical and has no other way to prioritise a flat set of
+    near-identical pages stops trusting the dates and stops crawling most of
+    them — which is exactly the state Bing reported. Dates that move only on a
+    real change are the whole point of the state file.
+    """
     if not site_url:
         print("  docs/sitemap.xml          — skipped (no site URL available)")
         return
-    dt = parse_dt(latest_file)
-    lastmod = f"\n    <lastmod>{dt.strftime('%Y-%m-%d')}</lastmod>" if dt else ""
     urls = [site_url, f"{site_url}apps/"] + [f"{site_url}apps/{s}.html" for s in slugs]
-    entries = "".join(
-        f"  <url>\n    <loc>{_xml_escape(u)}</loc>{lastmod}\n  </url>\n" for u in urls
-    )
+
+    def entry(u):
+        lm = (state["pages"].get(u) or {}).get("lastmod")
+        lastmod = f"\n    <lastmod>{lm}</lastmod>" if lm else ""
+        return f"  <url>\n    <loc>{_xml_escape(u)}</loc>{lastmod}\n  </url>\n"
+
+    entries = "".join(entry(u) for u in urls)
     with open("docs/sitemap.xml", "w", encoding="utf-8") as f:
         f.write(
             '<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
             + entries + "</urlset>\n"
         )
-    print(f"  docs/sitemap.xml          — {len(urls):,} URL(s)")
+    dates = {(state["pages"].get(u) or {}).get("lastmod") for u in urls} - {None}
+    print(f"  docs/sitemap.xml          — {len(urls):,} URL(s), "
+          f"{len(dates):,} distinct lastmod date(s)")
+
+
+# ---------------------------------------------------------------------------
+# IndexNow — tell Bing which URLs moved, and only those
+#
+# Bing discovered these pages from the sitemap and then declined to crawl them.
+# A submission naming URLs that did not change is the same false signal in a
+# louder channel, so the list comes straight from _write_page: a page whose
+# content is unchanged never reaches this function. The payload is left on disk
+# for the workflow to POST after the push, because the key file has to be live
+# at keyLocation before the submission can be validated.
+# ---------------------------------------------------------------------------
+
+INDEXNOW_PAYLOAD = "docs/.indexnow.json"
+_KEYFILE_RE = re.compile(r"^[0-9a-f]{8,128}\.txt$")
+
+
+def generate_indexnow(site_url, changed, state):
+    if os.path.exists(INDEXNOW_PAYLOAD):
+        os.remove(INDEXNOW_PAYLOAD)
+    if not site_url:
+        print("  IndexNow                  — skipped (no site URL available)")
+        return
+    # A key supplied by the workflow wins, so it can be rotated without touching
+    # the repository; otherwise one is minted once and carried in the state
+    # file. Either way the key file has to be published at the site root.
+    key = os.environ.get("INDEXNOW_KEY", "").strip() or state.get("indexnow_key")
+    if not key:
+        key = uuid.uuid4().hex
+    state["indexnow_key"] = key
+
+    with open(f"docs/{key}.txt", "w", encoding="utf-8") as f:
+        f.write(key + "\n")
+    for p in glob.glob("docs/*.txt"):
+        base = os.path.basename(p)
+        if _KEYFILE_RE.match(base) and base != f"{key}.txt":
+            os.remove(p)
+
+    if not changed:
+        print("  IndexNow                  — nothing changed, no submission")
+        return
+    if len(changed) > INDEXNOW_MAX:
+        print(f"  IndexNow                  — {len(changed):,} changed, submitting "
+              f"the first {INDEXNOW_MAX:,} (per-request limit)")
+    payload = {
+        "host":        urlsplit(site_url).netloc,
+        "key":         key,
+        "keyLocation": f"{site_url}{key}.txt",
+        "urlList":     changed[:INDEXNOW_MAX],
+    }
+    with open(INDEXNOW_PAYLOAD, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False)
+    print(f"  IndexNow                  — {len(payload['urlList']):,} changed URL(s) "
+          f"queued in {INDEXNOW_PAYLOAD}")
 
 
 # ---------------------------------------------------------------------------
@@ -1428,8 +1879,36 @@ def main():
     repo_url = get_repo_url()
     site_url = get_site_url(repo_url)
     generate_feed(changes_data.get("latest"), stats, latest_file, repo_url)
-    slugs = generate_app_pages(slug_map, latest_file, site_url, repo_url)
-    generate_sitemap(site_url, slugs, latest_file)
+
+    # Which pages to write, which sitemap dates to move and which URLs to hand
+    # IndexNow are all the same question — did this page's content change — so
+    # they share one state file and one pass.
+    state   = _load_state()
+    today   = (parse_dt(latest_file) or datetime.now(timezone.utc)).strftime("%Y-%m-%d")
+    changed = []
+
+    # Each export's diff is folded in exactly once. The seed window ends on the
+    # same pair of exports changes_data describes, and re-running the script
+    # against an unchanged catalog would otherwise keep merging that diff into
+    # the same dated entry and inflating its counts.
+    latest_name = os.path.basename(latest_file)
+    seeded = seed_history(state, files, slug_by_key)
+    if (not seeded and changes_data.get("latest")
+            and state.get("history_through") != latest_name):
+        _record_history(
+            state, _summarise_changes(changes_data["latest"], slug_by_key, today))
+    state["history_through"] = latest_name
+    if not state.get("history_from"):
+        state["history_from"] = today
+
+    slugs = generate_app_pages(slug_map, latest_file, site_url, repo_url,
+                               state, today, changed)
+    # The home page is hand-maintained, but its sitemap entry should still date
+    # from when it was last edited rather than from the newest export.
+    _track_static("docs/index.html", _page_url(site_url, ""), state, today, changed)
+    generate_sitemap(site_url, slugs, state)
+    generate_indexnow(site_url, changed, state)
+    _save_state(state)
     update_readme(stats)
     print("\nDone.")
 

@@ -1166,6 +1166,45 @@ footer a:hover { color: var(--text-1); }
 }
 .docs-section .faq-q:first-of-type { margin-top: 0; }
 
+/* Change history: the one part of a product page that is genuinely its own,
+   so it reads as a dated list rather than another table of the same shape. */
+.app-history {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.app-history li {
+  display: flex;
+  gap: 12px;
+  align-items: baseline;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border-soft);
+  font-size: .8125rem;
+}
+.app-history li:last-child { border-bottom: 0; padding-bottom: 0; }
+.app-history li:first-child { padding-top: 0; }
+.app-history time {
+  flex: 0 0 92px;
+  color: var(--text-3);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.hist-what { color: var(--text-2); min-width: 0; }
+.hist-what code { white-space: nowrap; }
+/* How many packages moved: rides alongside the version arrow without
+   competing with it. */
+.hist-n {
+  margin-left: 8px;
+  color: var(--text-3);
+  font-size: .75rem;
+  font-variant-numeric: tabular-nums;
+}
+.hist-note {
+  margin-top: 12px;
+  font-size: .75rem;
+  color: var(--text-3);
+}
+
 .app-note {
   font-size: .75rem;
   color: var(--text-3);
@@ -1198,6 +1237,8 @@ footer a:hover { color: var(--text-1); }
   .docs-container { max-width: 100%; }
   .docs-section  { padding: 18px 16px; }
   .app-title     { font-size: 1.25rem; }
+  .app-history li { flex-direction: column; gap: 2px; }
+  .app-history time { flex: none; }
   .app-fact      { flex-basis: 132px; }
 
   /* Data tables: give the remaining columns room and scroll sideways rather
