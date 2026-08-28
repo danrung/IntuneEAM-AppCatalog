@@ -1176,19 +1176,6 @@
   "amazon-web-services-developer-relations-amazon-aws-command-line-interface": [
    {
     "added": 0,
-    "date": "2026-07-01",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.45.37",
-      "1.45.38",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-02",
     "fields": [],
     "removed": 0,
@@ -1482,6 +1469,19 @@
      [
       "1.45.63",
       "1.46.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.46.0",
+      "1.46.1",
       1
      ]
     ]
@@ -11624,6 +11624,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "151.0.7922.174",
+      "152.0.7977.65",
+      1
+     ]
+    ]
    }
   ],
   "google-web-designer": [
@@ -14146,6 +14159,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.13.0",
+      "9.14.0",
+      1
+     ]
+    ]
    }
   ],
   "krisp": [
@@ -15768,19 +15794,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-04-28",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "148.0.3967.20",
-      "148.0.3967.34",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-04",
     "fields": [],
     "removed": 0,
@@ -16084,6 +16097,19 @@
      [
       "152.0.4191.41",
       "152.0.4191.51",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "152.0.4191.51",
+      "153.0.4234.6",
       1
      ]
     ]
@@ -21413,6 +21439,19 @@
      [
       "2.1.18",
       "2.1.19",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.1.19",
+      "2.1.20",
       1
      ]
     ]
@@ -27982,7 +28021,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260828_105829_AppCatalog.json",
+ "history_through": "20260828_220620_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -27991,8 +28030,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "4382dc81851182aeb4be1ed3510e92ef8219cf6a",
-   "hash": "1ce14e2f3899250a8ca06aae45883707ccc31e3d",
+   "exact": "fa2bac7b0c22fcb054895e4c2ab604b9d939cf96",
+   "hash": "8aadc989ff4158a11a9762106592c6b1ba9850b7",
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -28161,8 +28200,8 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/amazon-web-services-developer-relations-amazon-aws-command-line-interface.html": {
-   "exact": "86f4dc521f63d39b366a0269e4c78f391afc7b08",
-   "hash": "86f4dc521f63d39b366a0269e4c78f391afc7b08",
+   "exact": "94ddec936586ea17ad5725648512e81055651b1a",
+   "hash": "94ddec936586ea17ad5725648512e81055651b1a",
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/amazon-web-services-developer-relations-amazon-aws-tools-for-windows.html": {
@@ -29641,9 +29680,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/google-llc-google-chrome.html": {
-   "exact": "2bf24661cff6860bb5602efbf7676e3ac5e9afe5",
-   "hash": "2bf24661cff6860bb5602efbf7676e3ac5e9afe5",
-   "lastmod": "2026-08-27"
+   "exact": "df0e60cbe0aca0396bed39001e5c758a88306a7e",
+   "hash": "df0e60cbe0aca0396bed39001e5c758a88306a7e",
+   "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/google-web-designer.html": {
    "exact": "522a5d497135415967ab562043b584a80f4c56fa",
@@ -30031,9 +30070,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/kovid-goyal-calibre.html": {
-   "exact": "b49532f16a2f64ce7f79ebb1b39fddab7a680f19",
-   "hash": "b49532f16a2f64ce7f79ebb1b39fddab7a680f19",
-   "lastmod": "2026-08-27"
+   "exact": "22c12787fe2dc74124b683aa712172e2492e0fc6",
+   "hash": "22c12787fe2dc74124b683aa712172e2492e0fc6",
+   "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/kpn-desktop-integratie.html": {
    "exact": "33228f9f44477f694060bbea06cc9029e63c616f",
@@ -30446,9 +30485,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "ba01e07b3eef179dd5143d5d944bca23fc24c0d7",
-   "hash": "ba01e07b3eef179dd5143d5d944bca23fc24c0d7",
-   "lastmod": "2026-08-27"
+   "exact": "c1547d70f5c3d2f23d3094c68e9a6fc3cdb0db0d",
+   "hash": "c1547d70f5c3d2f23d3094c68e9a6fc3cdb0db0d",
+   "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "5647fe8a6d8272a7875bf3a88e096b84e44fbd73",
@@ -31241,9 +31280,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/pdfgear.html": {
-   "exact": "d511baed21c5e33a9964647f84988ccdc2ed10ad",
-   "hash": "d511baed21c5e33a9964647f84988ccdc2ed10ad",
-   "lastmod": "2026-08-27"
+   "exact": "79822d893b4e0f5c9f48bba3cfdcecfeba562814",
+   "hash": "79822d893b4e0f5c9f48bba3cfdcecfeba562814",
+   "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/peazip-srl-peazip.html": {
    "exact": "c987254b64a63b3d8db3b99bbbf33a46e508369c",
