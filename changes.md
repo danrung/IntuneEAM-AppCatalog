@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20260828_220620_AppCatalog.json` (exported 2026-08-28 22:06:20)  
-> **vs:** `20260828_105829_AppCatalog.json` (exported 2026-08-28 10:58:29)  
-> **Span:** 11 hours between exports  
-> **Generated:** 2026-08-28 22:06 UTC
+> **Comparing:** `20260829_064352_AppCatalog.json` (exported 2026-08-29 06:43:52)  
+> **vs:** `20260828_220620_AppCatalog.json` (exported 2026-08-28 22:06:20)  
+> **Span:** 8 hours between exports  
+> **Generated:** 2026-08-29 06:44 UTC
 
 ## Summary
 
@@ -11,15 +11,14 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 5 |
+| 🔄 Updated | 4 |
 
-## 🔄 Updated (5 packages)
+## 🔄 Updated (4 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.46.0` | `1.46.1` | Version |
-| Google LLC | Google Chrome | Google Chrome (x64) (msi) | `151.0.7922.174` | `152.0.7977.65` | Version |
-| Kovid Goyal | Calibre | Calibre (x64) | `9.13.0` | `9.14.0` | Version |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `152.0.4191.51` | `153.0.4234.6` | Version |
-| PDFgear | PDFgear | PDFgear | `2.1.19` | `2.1.20` | Version |
+| Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.7.1343.0` | `26.7.1376.0` | Version |
+| Logitech | Logitech Sync App | Logitech Sync App | `3.11.166` | `3.11.203` | Version |
+| Microsoft | Microsoft Universal Print Connector | Microsoft Universal Print Connector | `2.6.9673.32386` | `2.7.9706.34664` | Version |
+| Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.10` | `7.9.11` | Version |
 

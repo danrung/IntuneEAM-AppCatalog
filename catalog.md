@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260828_220620_AppCatalog.json` (exported 2026-08-28 22:06:20)  
-> **Generated:** 2026-08-28 22:06 UTC  
+> **Source:** `20260829_064352_AppCatalog.json` (exported 2026-08-29 06:43:52)  
+> **Generated:** 2026-08-29 06:44 UTC  
 > **Total:** 1,577 packages · 928 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -243,7 +243,7 @@
 | 235 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.4.1` | x86,x64 | ❌ | en-US |
 | 236 | Cloud Video | Pexip | Pexip | `3.0.14` | x86,x64 | ❌ | en-US |
 | 237 | Cloud Video | Pexip Infinity Connect | Pexip Infinity Connect | `1.14.0` | x86,x64 | ❌ | en-US |
-| 238 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.7.1343.0` | x64 | ❌ | en-US |
+| 238 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.7.1376.0` | x64 | ❌ | en-US |
 | 239 | Cockos Incorporated | REAPER | REAPER (x64) | `7.79` | x64 | ❌ | en-US |
 | 240 | Code Sector | TeraCopy for Windows | TeraCopy for Windows | `4.0.3.2` | x64 | ❌ | en-US |
 | 241 | code4ward.net e.U. | Royal TS 5 | Royal TS 5 | `5.04.60415.0` | x86,x64 | ✅ | en-US |
@@ -578,7 +578,7 @@
 | 570 | Logitech | Logitech Options | Logitech Options | `10.26.14` | x64 | ❌ | en-US |
 | 571 | Logitech | Logitech Presentation | Logitech Presentation | `2.10.34` | x64 | ❌ | en-US |
 | 572 | Logitech | Logitech SetPoint | Logitech SetPoint (x64) | `6.90.66` | x64 | ❌ | en-US |
-| 573 | Logitech | Logitech Sync App | Logitech Sync App | `3.11.166` | x86,x64 | ❌ | en-US |
+| 573 | Logitech | Logitech Sync App | Logitech Sync App | `3.11.203` | x86,x64 | ❌ | en-US |
 | 574 | LogMeIn | LogMeIn Client | LogMeIn Client | `1.3.5692` | x86,x64 | ❌ | en-US |
 | 575 | LogMeIn | LogMeIn GoToMeeting IT Installer | GoToMeeting IT Installer | `10.19.19950` | x86,x64 | ✅ | en-US |
 | 576 | LogMeIn | LogMeIn GoToMeeting multi-build Installer | GoToMeeting multi-build Installer | `10.19.19950` | x86,x64 | ❌ | en-US |
@@ -761,7 +761,7 @@
 | 753 | Microsoft | Microsoft Surface Data Eraser | Microsoft Surface Data Eraser | `3.54.139.0` | x86,x64 | ❌ | en-US |
 | 754 | Microsoft | Microsoft Surface Diagnostic Toolkit for Business | Microsoft Surface Diagnostic Toolkit for Business (x64) | `2.239.139.0` | x64 | ❌ | en-US |
 | 755 | Microsoft | Microsoft System CLR Types for SQL Server 2014 | Microsoft System CLR Types for SQL Server 2014 (x64) | `12.0.2402.11` | x64 | ❌ | en-US |
-| 756 | Microsoft | Microsoft Universal Print Connector | Microsoft Universal Print Connector | `2.6.9673.32386` | x64 | ❌ | en-US |
+| 756 | Microsoft | Microsoft Universal Print Connector | Microsoft Universal Print Connector | `2.7.9706.34664` | x64 | ❌ | en-US |
 | 757 | Microsoft | Microsoft Visio 2016 Viewer | Microsoft Visio 2016 Viewer (Dutch) (x64) | `16.0.4339.1001` | x64 | ❌ | nl-NL |
 | 758 | Microsoft | Microsoft Visual C++ 2005 Redistributable | Microsoft Visual C++ 2005 Redistributable (x64) | `8.0.61000` | x64 | ❌ | en-US |
 | 759 | Microsoft | Microsoft Visual C++ 2008 Redistributable | Microsoft Visual C++ 2008 Redistributable (x64) | `9.0.30729.6161` | x64 | ❌ | en-US |
@@ -1295,7 +1295,7 @@
 | 1287 | ScreenBeam Inc. | ScreenBeam Conference | ScreenBeam Conference | `1.0.5.10` | x64 | ❌ | en-US |
 | 1288 | ScreenCloud | ScreenCloud Player | ScreenCloud Player (x64) | `3.12.0` | x64 | ✅ | en-US |
 | 1289 | secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.4` | x86,x64 | ❌ | en-US |
-| 1290 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.10` | x64 | ❌ | en-US |
+| 1290 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.11` | x64 | ❌ | en-US |
 | 1291 | Semeru | IBM Semeru Runtime Open Edition JDK 11 (LTS) | IBM Semeru Runtime Open Edition JDK 11 (LTS) | `11.0.30.7` | x64 | ❌ | en-US |
 | 1292 | Semeru | IBM Semeru Runtime Open Edition JDK 16 | IBM Semeru Runtime Open Edition JDK 16 | `16.0.2.7` | x64 | ❌ | en-US |
 | 1293 | Semeru | IBM Semeru Runtime Open Edition JDK 17 (LTS) | IBM Semeru Runtime Open Edition JDK 17 (LTS) | `17.0.18.8` | x64 | ❌ | en-US |

@@ -5101,6 +5101,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.7.1343.0",
+      "26.7.1376.0",
+      1
+     ]
+    ]
    }
   ],
   "cockos-incorporated-reaper": [
@@ -14723,6 +14736,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.11.166",
+      "3.11.203",
+      1
+     ]
+    ]
    }
   ],
   "logmein-client": [
@@ -17346,6 +17372,19 @@
      [
       "2.6.9635.41627",
       "2.6.9673.32386",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.6.9673.32386",
+      "2.7.9706.34664",
       1
      ]
     ]
@@ -23118,6 +23157,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.9.10",
+      "7.9.11",
+      1
+     ]
+    ]
    }
   ],
   "semeru-ibm-semeru-runtime-open-edition-jdk-11-lts": [
@@ -28021,7 +28073,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260828_220620_AppCatalog.json",
+ "history_through": "20260829_064352_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -28030,9 +28082,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "fa2bac7b0c22fcb054895e4c2ab604b9d939cf96",
-   "hash": "8aadc989ff4158a11a9762106592c6b1ba9850b7",
-   "lastmod": "2026-08-28"
+   "exact": "6a02ba6c90c8634dc806bfe8e6f722468e28c325",
+   "hash": "adda76677e3ce9edbea7ab74e58a09403c7f6902",
+   "lastmod": "2026-08-29"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "ac66ba299424d083e08d89536ac6275d61c445f7",
@@ -28865,9 +28917,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cloudflare-inc-cloudflare-one-client.html": {
-   "exact": "3b44a91b9ae98fb564b14e9faeebb70b9ed5faa2",
-   "hash": "3b44a91b9ae98fb564b14e9faeebb70b9ed5faa2",
-   "lastmod": "2026-08-27"
+   "exact": "1b0e4946ac2da289cef66e9b706903f74224d74d",
+   "hash": "1b0e4946ac2da289cef66e9b706903f74224d74d",
+   "lastmod": "2026-08-29"
   },
   "https://eam.drung.dev/apps/cockos-incorporated-reaper.html": {
    "exact": "658a3847b9b84d7c11c9502d6e0d99a726ef7b3a",
@@ -30195,9 +30247,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/logitech-sync-app.html": {
-   "exact": "4e4fef979ebd47f418f6e1778ddabad794396e55",
-   "hash": "4e4fef979ebd47f418f6e1778ddabad794396e55",
-   "lastmod": "2026-08-27"
+   "exact": "11ec7ea1d1938510e2308babc723d1978f6cbdf9",
+   "hash": "11ec7ea1d1938510e2308babc723d1978f6cbdf9",
+   "lastmod": "2026-08-29"
   },
   "https://eam.drung.dev/apps/logmein-client.html": {
    "exact": "d896ed128b25631b180fa45fcfa5165ef1cfe4d1",
@@ -30710,9 +30762,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/microsoft-universal-print-connector.html": {
-   "exact": "3037b79cf33dec272d42a17b49ad3a5f7f2711e0",
-   "hash": "3037b79cf33dec272d42a17b49ad3a5f7f2711e0",
-   "lastmod": "2026-08-28"
+   "exact": "2c16c5413c8142ce11da49b373ea7f8c1b354120",
+   "hash": "2c16c5413c8142ce11da49b373ea7f8c1b354120",
+   "lastmod": "2026-08-29"
   },
   "https://eam.drung.dev/apps/microsoft-visio-2016-viewer.html": {
    "exact": "445bccc1bd0251b6e7d693d1a1ef2793c6329711",
@@ -31605,9 +31657,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/sejda-bv-sejda-pdf-desktop.html": {
-   "exact": "09cd260a9a024251e401caad704aea891a2e868d",
-   "hash": "09cd260a9a024251e401caad704aea891a2e868d",
-   "lastmod": "2026-08-27"
+   "exact": "8c43005732c930953f62bfa0ff7a61cedd2ddbd2",
+   "hash": "8c43005732c930953f62bfa0ff7a61cedd2ddbd2",
+   "lastmod": "2026-08-29"
   },
   "https://eam.drung.dev/apps/semeru-ibm-semeru-runtime-open-edition-jdk-11-lts.html": {
    "exact": "e06526fb8d35cd7bf264a682eca940b6b505f9a5",
