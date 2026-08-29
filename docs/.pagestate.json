@@ -21781,6 +21781,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "25.1.0.1536",
+      "25.1.0.1612",
+      1
+     ]
+    ]
    }
   ],
   "privado-networks-ag-privadovpn": [
@@ -28073,7 +28086,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260829_064352_AppCatalog.json",
+ "history_through": "20260829_163437_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -28082,8 +28095,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "6a02ba6c90c8634dc806bfe8e6f722468e28c325",
-   "hash": "adda76677e3ce9edbea7ab74e58a09403c7f6902",
+   "exact": "53b4e036bef75609d624c5887370295906cbb8a1",
+   "hash": "39f0b0ca281439ae9f2d1f6cbd48daef4ae0d0d6",
    "lastmod": "2026-08-29"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -31417,9 +31430,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/printerlogic-printer-installer-client.html": {
-   "exact": "b4fa8efd98ed78bc0b88b3d6133974cf2ca14442",
-   "hash": "b4fa8efd98ed78bc0b88b3d6133974cf2ca14442",
-   "lastmod": "2026-08-28"
+   "exact": "5346a4240e01776f77de71ac2775dc6ad60d8b8c",
+   "hash": "5346a4240e01776f77de71ac2775dc6ad60d8b8c",
+   "lastmod": "2026-08-29"
   },
   "https://eam.drung.dev/apps/privado-networks-ag-privadovpn.html": {
    "exact": "a5d001958ff2522b9ca4a25106b7fa1f59f9b932",
