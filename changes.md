@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20260829_163437_AppCatalog.json` (exported 2026-08-29 16:34:37)  
-> **vs:** `20260829_064352_AppCatalog.json` (exported 2026-08-29 06:43:52)  
-> **Span:** 9 hours between exports  
-> **Generated:** 2026-08-29 16:35 UTC
+> **Comparing:** `20260830_045653_AppCatalog.json` (exported 2026-08-30 04:56:53)  
+> **vs:** `20260829_163437_AppCatalog.json` (exported 2026-08-29 16:34:37)  
+> **Span:** 12 hours between exports  
+> **Generated:** 2026-08-30 04:57 UTC
 
 ## Summary
 
@@ -11,11 +11,7 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 1 |
+| 🔄 Updated | 0 |
 
-## 🔄 Updated (1 packages)
-
-| Publisher | App | Branch | Previous Version | New Version | Changed |
-|-----------|-----|--------|:---------------:|:-----------:|---------|
-| PrinterLogic | PrinterLogic Printer Installer Client | Printer Installer Client | `25.1.0.1536` | `25.1.0.1612` | Version |
+> No changes detected between these two catalog exports.
 
