@@ -1552,6 +1552,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.2.1.0",
+      "2.2.2.0",
+      1
+     ]
+    ]
    }
   ],
   "amazon-web-services-inc-amazon-workspaces": [
@@ -6577,6 +6590,19 @@
      [
       "26.1.4",
       "26.1.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.1.5",
+      "26.2.0",
       1
      ]
     ]
@@ -13751,6 +13777,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.10.2",
+      "3.11",
+      1
+     ]
+    ]
    }
   ],
   "junction-networks-onsip": [
@@ -15820,19 +15859,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-05-04",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "148.0.3967.34",
-      "148.0.3967.42",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-07",
     "fields": [],
     "removed": 0,
@@ -16136,6 +16162,19 @@
      [
       "152.0.4191.51",
       "153.0.4234.6",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "153.0.4234.6",
+      "153.0.4234.8",
       1
      ]
     ]
@@ -16890,6 +16929,19 @@
      [
       "26.139.0720.0007",
       "26.145.0728.0011",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.145.0728.0011",
+      "26.150.0804.0011",
       1
      ]
     ]
@@ -20456,6 +20508,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.1.1",
+      "2026.2",
+      1
+     ]
+    ]
    }
   ],
   "obsidian": [
@@ -20777,6 +20842,19 @@
      [
       "3.3.0",
       "3.5.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.5.1",
+      "4.0.0",
       1
      ]
     ]
@@ -24405,6 +24483,19 @@
      [
       "2.12.2",
       "2.13.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-08-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.13.0",
+      "2.14.0",
       1
      ]
     ]
@@ -28086,7 +28177,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260831_050147_AppCatalog.json",
+ "history_through": "20260831_190213_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -28095,9 +28186,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "43d93c40f2798c0160c620df27812b93e7c9e7bc",
-   "hash": "39f0b0ca281439ae9f2d1f6cbd48daef4ae0d0d6",
-   "lastmod": "2026-08-29"
+   "exact": "a09723152fed3e3ab6f68d601abecaf4de875147",
+   "hash": "dbdea198d53a4339dbf0bc3d0e398c76a076c79d",
+   "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "ac66ba299424d083e08d89536ac6275d61c445f7",
@@ -28275,9 +28366,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/amazon-web-services-inc-amazon-redshift-odbc-driver.html": {
-   "exact": "735f5cd70415cddf0753455c59e4948506c45de6",
-   "hash": "735f5cd70415cddf0753455c59e4948506c45de6",
-   "lastmod": "2026-08-28"
+   "exact": "623e997dab86ec1d65559b2fb366495b990bada4",
+   "hash": "623e997dab86ec1d65559b2fb366495b990bada4",
+   "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/amazon-web-services-inc-amazon-workspaces.html": {
    "exact": "0e03d93a8056dae351f5f1284b3e3482c5550755",
@@ -29055,9 +29146,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-community.html": {
-   "exact": "b5dab369d1d33b42897a20963a05583d0c6cb178",
-   "hash": "b5dab369d1d33b42897a20963a05583d0c6cb178",
-   "lastmod": "2026-08-27"
+   "exact": "2bcbbd100768602223f895f375ba1a4fede71df7",
+   "hash": "2bcbbd100768602223f895f375ba1a4fede71df7",
+   "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-enterprise.html": {
    "exact": "e7574354f73349e17a1f68b120767a992f837547",
@@ -30070,9 +30161,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/john-macfarlane-pandoc.html": {
-   "exact": "8a848ea31d1cd593e34fa0a8c0f29ae796df2fac",
-   "hash": "8a848ea31d1cd593e34fa0a8c0f29ae796df2fac",
-   "lastmod": "2026-08-27"
+   "exact": "b7f9c8cf26538c4212fd6fa0b33e2a959faf2fd5",
+   "hash": "b7f9c8cf26538c4212fd6fa0b33e2a959faf2fd5",
+   "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/junction-networks-onsip.html": {
    "exact": "c6085a4749aeec75d8add65e3f00a012228bc860",
@@ -30550,9 +30641,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "c1547d70f5c3d2f23d3094c68e9a6fc3cdb0db0d",
-   "hash": "c1547d70f5c3d2f23d3094c68e9a6fc3cdb0db0d",
-   "lastmod": "2026-08-28"
+   "exact": "9ec02f00f9bef53119fc3ad93e733330425e4073",
+   "hash": "9ec02f00f9bef53119fc3ad93e733330425e4073",
+   "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "5647fe8a6d8272a7875bf3a88e096b84e44fbd73",
@@ -30645,9 +30736,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
-   "exact": "4a5aab1bc4938e5888a19c742e09b11fd8ecdbe2",
-   "hash": "4a5aab1bc4938e5888a19c742e09b11fd8ecdbe2",
-   "lastmod": "2026-08-27"
+   "exact": "91f1de90046efe8a916b3907aa1f77c67a999677",
+   "hash": "91f1de90046efe8a916b3907aa1f77c67a999677",
+   "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/microsoft-onenote.html": {
    "exact": "e1946e6d076c76a3c2d08436bd0d6d916ea61021",
@@ -31145,9 +31236,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/nv-access-limited-nv-access-nvda.html": {
-   "exact": "31ea0a4d1d41af7c932beb2af76ae54c917d700d",
-   "hash": "31ea0a4d1d41af7c932beb2af76ae54c917d700d",
-   "lastmod": "2026-08-27"
+   "exact": "41ad31fe83af14a1a92051b6a222c308c8faaea6",
+   "hash": "41ad31fe83af14a1a92051b6a222c308c8faaea6",
+   "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/nvidia-geforce-experience.html": {
    "exact": "83237573417d83593b2562ffbb04e00aef690eb6",
@@ -31195,9 +31286,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/openshot-studios-openshot-video-editor.html": {
-   "exact": "e24af6e15292bcf88515566fda46828fe50102af",
-   "hash": "e24af6e15292bcf88515566fda46828fe50102af",
-   "lastmod": "2026-08-27"
+   "exact": "17d0ec0b82e71357a1b1418a9acbabc851df06d4",
+   "hash": "17d0ec0b82e71357a1b1418a9acbabc851df06d4",
+   "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/opensight-software-llc-flashfxp.html": {
    "exact": "fd6d975c94bfcdb0f8ad8a3cb04f967c017cfcbb",
@@ -31945,9 +32036,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/stefan-freischlad-filius.html": {
-   "exact": "ae5990a51b7f8f658519248e4a38895c951ac8f9",
-   "hash": "ae5990a51b7f8f658519248e4a38895c951ac8f9",
-   "lastmod": "2026-08-27"
+   "exact": "36707f3f2f75ee02b8fd2d53705e75be6b6af4f2",
+   "hash": "36707f3f2f75ee02b8fd2d53705e75be6b6af4f2",
+   "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/stefans-tools-grepwin.html": {
    "exact": "1aeb54737ca555fc8072f8289dbb384523f09b54",
