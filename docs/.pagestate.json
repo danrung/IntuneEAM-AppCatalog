@@ -10163,6 +10163,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.1.3.36551",
+      "2026.2.0.39747",
+      1
+     ]
+    ]
    }
   ],
   "freecad": [
@@ -28229,7 +28242,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260901_044004_AppCatalog.json",
+ "history_through": "20260901_162545_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -28238,8 +28251,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "d045a24a393f161233ab5a066175b973b7ddec08",
-   "hash": "ff12a7e59c6bfb84ba297edb66dc74c5e746d050",
+   "exact": "72814299af956f1acc259a4a133c524fc161a959",
+   "hash": "0a4805b6097fe47e3c2c19bc5960678591b3edfc",
    "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -29673,9 +29686,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/foxit-software-foxit-pdf-reader.html": {
-   "exact": "7f2973c6a79f9be60c6b64819cc0046031ede751",
-   "hash": "7f2973c6a79f9be60c6b64819cc0046031ede751",
-   "lastmod": "2026-08-27"
+   "exact": "fd9b2373cf685a471d18040402a3f8b47f8b8381",
+   "hash": "fd9b2373cf685a471d18040402a3f8b47f8b8381",
+   "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/foxit-software-foxit-phantompdf-10.html": {
    "exact": "06111a4f9ccac3ac0589e1e722269b3fba00f48e",

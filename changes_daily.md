@@ -1,9 +1,9 @@
 # Catalog Changes — Daily (≥1 day apart)
 
-> **Comparing:** `20260901_044004_AppCatalog.json` (exported 2026-09-01 04:40:04)  
-> **vs:** `20260830_162952_AppCatalog.json` (exported 2026-08-30 16:29:52)  
+> **Comparing:** `20260901_162545_AppCatalog.json` (exported 2026-09-01 16:25:45)  
+> **vs:** `20260831_050147_AppCatalog.json` (exported 2026-08-31 05:01:47)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-09-01 04:40 UTC
+> **Generated:** 2026-09-01 16:26 UTC
 
 ## Summary
 
@@ -11,14 +11,15 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 12 |
+| 🔄 Updated | 13 |
 
-## 🔄 Updated (12 packages)
+## 🔄 Updated (13 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.1.0` | `2.2.2.0` | Version |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.1.5` | `26.2.0` | Version |
+| Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.3.36551` | `2026.2.0.39747` | Version |
 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.7.0` | `2.11.8.0` | Version |
 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.1` | `26.3.2` | Version |
 | John MacFarlane | Pandoc | Pandoc | `3.10.2` | `3.11` | Version |

@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20260901_044004_AppCatalog.json` (exported 2026-09-01 04:40:04)  
-> **vs:** `20260825_013929_AppCatalog.json` (exported 2026-08-25 01:39:29)  
+> **Comparing:** `20260901_162545_AppCatalog.json` (exported 2026-09-01 16:25:45)  
+> **vs:** `20260825_125813_AppCatalog.json` (exported 2026-08-25 12:58:13)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-09-01 04:40 UTC
+> **Generated:** 2026-09-01 16:26 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 122 |
+| 🔄 Updated | 123 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Maxon Computer GmbH | ZBrush | ZBrush (x64) | `2026.2.1` | x64 |
 
-## 🔄 Updated (122 packages)
+## 🔄 Updated (123 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -49,6 +49,7 @@
 | ej-technologies GmbH | JProfiler | JProfiler | `16.2` | `16.2.1` | Version |
 | Evernote | Evernote | Evernote | `11.30.6` | `11.31.5` | Version |
 | FileZilla | FileZilla | FileZilla (x64) | `3.70.6` | `3.71.1` | Version |
+| Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.1.3.36551` | `2026.2.0.39747` | Version |
 | Google | Google Drive | Google Drive | `129.0.1.0` | `130.0.2.0` | Version |
 | Google | Google Drive File Stream | Google Drive File Stream | `129.0.1.0` | `130.0.2.0` | Version |
 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `151.0.7922.174` | `152.0.7977.65` | Version |
@@ -59,7 +60,7 @@
 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.1` | `26.3.2` | Version |
 | iterate GmbH | Cyberduck CLI | Cyberduck CLI (x64) | `9.5.2.45323` | `9.5.4.45528` | Version |
 | John MacFarlane | Pandoc | Pandoc | `3.10.2` | `3.11` | Version |
-| Keeper | Keeper | Keeper | `18.5.1.0` | `18.6.1.0` | Version |
+| Keeper | Keeper | Keeper | `18.6.0.0` | `18.6.1.0` | Version |
 | Kovid Goyal | Calibre | Calibre (x64) | `9.13.0` | `9.14.0` | Version |
 | Logitech | Logitech Sync App | Logitech Sync App | `3.11.166` | `3.11.203` | Version |
 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.13.0` | `4.14.0` | Version |
@@ -68,8 +69,8 @@
 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `151.0.4129.93` | `151.0.4129.107` | Version |
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.326.12` | `3000.330.1` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.145.0728.0011` | `26.150.0804.0011` | Version |
-| Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.100.2` | `0.101.2362.0` | Version |
 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.100.2` | `0.101.2362.0` | Version |
+| Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.100.2` | `0.101.2362.0` | Version |
 | Microsoft | Microsoft Universal Print Connector | Microsoft Universal Print Connector | `2.6.9673.32386` | `2.7.9706.34664` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.134.0` | `1.135.0` | Version |
 | Microsoft Corporation | Microsoft Visual C++ 2015-2022 Redistributable | Microsoft Visual C++ 2015-2022 Redistributable (x64) (exe) | `14.51.36247.0` | `14.51.36247.0` | App Name, Branch, Publisher |
@@ -77,53 +78,53 @@
 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.49.14` | `1.49.15` | Version |
 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.49.14` | `1.49.15` | Version |
 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.49.14` | `1.49.15` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `154.0` | `154.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `154.0` | `154.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `154.0` | `154.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `154.0` | `154.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `154.0` | `154.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `154.0` | `154.0.1` | Version |
 | NEC Platforms, Ltd. | UNIVERGE BLUE CONNECT | UNIVERGE BLUE CONNECT | `2.31.37` | `2.32.60` | Version |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.2.20260819` | `34.0.3.20260826` | Version |
 | NV Access Limited | NV Access NVDA | NVDA | `2026.1.1` | `2026.2` | Version |
