@@ -12372,6 +12372,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.11.7.0",
+      "2.11.8.0",
+      1
+     ]
+    ]
    }
   ],
   "inmatrix-zoom-player": [
@@ -12680,6 +12693,19 @@
      [
       "26.3.0",
       "26.3.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.3.1",
+      "26.3.2",
       1
      ]
     ]
@@ -19666,6 +19692,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.31.37",
+      "2.32.60",
+      1
+     ]
+    ]
    }
   ],
   "neevia-technology-docuprinter-lt": [
@@ -22738,6 +22777,19 @@
      [
       "1.19.1",
       "1.20.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.20.3",
+      "1.21.0",
       1
      ]
     ]
@@ -28177,7 +28229,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260831_190213_AppCatalog.json",
+ "history_through": "20260901_044004_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -28186,9 +28238,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "a09723152fed3e3ab6f68d601abecaf4de875147",
-   "hash": "dbdea198d53a4339dbf0bc3d0e398c76a076c79d",
-   "lastmod": "2026-08-31"
+   "exact": "d045a24a393f161233ab5a066175b973b7ddec08",
+   "hash": "ff12a7e59c6bfb84ba297edb66dc74c5e746d050",
+   "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "ac66ba299424d083e08d89536ac6275d61c445f7",
@@ -29966,9 +30018,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
-   "exact": "f4657997d4537e6b9f5b5cb9ab95fa4cb46fd566",
-   "hash": "f4657997d4537e6b9f5b5cb9ab95fa4cb46fd566",
-   "lastmod": "2026-08-27"
+   "exact": "f0d454e9ec8ca2907ca56032a510d6b5f0eb0765",
+   "hash": "f0d454e9ec8ca2907ca56032a510d6b5f0eb0765",
+   "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/inkscape.html": {
    "exact": "6c650156d763368a3165c7f4b1a4dc2c4c48fbd2",
@@ -30001,9 +30053,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/interpromo-gmbh-4k-video-downloader-2.html": {
-   "exact": "7bc0faefa88d258c807b251a8da85f834346b21d",
-   "hash": "7bc0faefa88d258c807b251a8da85f834346b21d",
-   "lastmod": "2026-08-27"
+   "exact": "0832563c745e2cae214e391ce7e825c98b0c08fa",
+   "hash": "0832563c745e2cae214e391ce7e825c98b0c08fa",
+   "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/interpromo-gmbh-4k-video-downloader.html": {
    "exact": "cd9a61e54a999aa41af17501a015de5b0498689b",
@@ -31096,9 +31148,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/nec-platforms-ltd-univerge-blue-connect.html": {
-   "exact": "8987c8487f4f4b4ab54b2fabd9a282a421359b08",
-   "hash": "8987c8487f4f4b4ab54b2fabd9a282a421359b08",
-   "lastmod": "2026-08-27"
+   "exact": "ce568291f41f03cd6e10239433d9a6bfbe51abc3",
+   "hash": "ce568291f41f03cd6e10239433d9a6bfbe51abc3",
+   "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/neevia-technology-docuprinter-lt.html": {
    "exact": "b9264b87d58421adc1217a580ef089ee6390e378",
@@ -31681,9 +31733,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/riok-gmbh-kreya.html": {
-   "exact": "bb469a58c3a450a4668850e2a779a803c425b531",
-   "hash": "bb469a58c3a450a4668850e2a779a803c425b531",
-   "lastmod": "2026-08-27"
+   "exact": "5e7ea43a9ac041719f74995299e82475caee776c",
+   "hash": "5e7ea43a9ac041719f74995299e82475caee776c",
+   "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/rocket-chat-technologies-corp-rocket-chat.html": {
    "exact": "b5b5ebbedde6e48fa59b3abf6538dde3607b4ca7",

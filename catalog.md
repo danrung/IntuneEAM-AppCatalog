@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260831_190213_AppCatalog.json` (exported 2026-08-31 19:02:13)  
-> **Generated:** 2026-08-31 19:02 UTC  
+> **Source:** `20260901_044004_AppCatalog.json` (exported 2026-09-01 04:40:04)  
+> **Generated:** 2026-09-01 04:40 UTC  
 > **Total:** 1,577 packages · 928 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -466,7 +466,7 @@
 | 458 | Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.02` | x64 | ❌ | en-US |
 | 459 | Informatiepunt Leefomgeving | Geomilieu | Geomilieu | `2024.0.0` | x64 | ❌ | nl-NL |
 | 460 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.11.0.0` | x64 | ❌ | en-US |
-| 461 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.7.0` | x64 | ❌ | en-US |
+| 461 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.8.0` | x64 | ❌ | en-US |
 | 462 | Inkscape | Inkscape | Inkscape (x64) | `1.4` | x64 | ❌ | en-US |
 | 463 | Inmatrix | Zoom Player | Zoom Player | `22.5` | x86,x64 | ❌ | en-US |
 | 464 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.5` | x86,x64 | ❌ | en-US |
@@ -474,7 +474,7 @@
 | 466 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.929.3` | x86,x64 | ❌ | en-US |
 | 467 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.929.3` | x86,x64 | ❌ | en-US |
 | 468 | InterPromo GMBH | 4K Video Downloader | 4K Video Downloader (x64) | `4.33.5` | x64 | ❌ | en-US |
-| 469 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.1` | x64 | ❌ | en-US |
+| 469 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.2` | x64 | ❌ | en-US |
 | 470 | Intevation GmbH | Gpg4win | Gpg4win | `5.1.0.47893` | x64 | ❌ | en-US |
 | 471 | Investintech.com Inc. | Able2Extract Professional | Able2Extract Professional | `20.0.3.0` | x64 | ❌ | en-US |
 | 472 | Irfan Skiljan | IrfanView | IrfanView (x64) | `4.72` | x64 | ❌ | en-US |
@@ -1083,7 +1083,7 @@
 | 1075 | Mythicsoft Ltd | Agent Ransack | Agent Ransack | `9.2.3562.1` | x64 | ❌ | en-US |
 | 1076 | Nagios Enterprises | NCPA | NCPA (x64) | `3.4.3` | x64 | ❌ | en-US |
 | 1077 | National Taxation Bureau Taiwan | Business Tax Software BLR | Business Tax Software BLR | `11500.01.1150122` | x86,x64 | ❌ | zh-TW |
-| 1078 | NEC Platforms, Ltd. | UNIVERGE BLUE CONNECT | UNIVERGE BLUE CONNECT | `2.31.37` | x64 | ❌ | en-US |
+| 1078 | NEC Platforms, Ltd. | UNIVERGE BLUE CONNECT | UNIVERGE BLUE CONNECT | `2.32.60` | x64 | ❌ | en-US |
 | 1079 | Neevia Technology | docuPrinter LT | docuPrinter LT | `7.4` | x86,x64 | ❌ | en-US |
 | 1080 | Neevia Technology | docuPrinter PRO | docuPrinter PRO | `7.3` | x86,x64 | ❌ | en-US |
 | 1081 | Neevia Technology | docuPrinter TSE | docuPrinter TSE | `6.0` | x86,x64 | ❌ | en-US |
@@ -1271,7 +1271,7 @@
 | 1263 | RingCentral | RingCentral App | RingCentral App (x64) | `26.3.1012.1623` | x64 | ❌ | en-US |
 | 1264 | RingCentral | RingCentral Phone | RingCentral Phone | `24.3.0.47527` | x86,x64 | ❌ | en-US |
 | 1265 | Ringler Informatik AG | Snapform Viewer | Snapform Viewer (x64) | `1.8.7` | x64 | ❌ | en-US |
-| 1266 | riok GmbH | Kreya | Kreya (x64) | `1.20.3` | x64 | ❌ | en-US |
+| 1266 | riok GmbH | Kreya | Kreya (x64) | `1.21.0` | x64 | ❌ | en-US |
 | 1267 | Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.16.0` | x64 | ❌ | en-US |
 | 1268 | RStudio | RStudio 1.4 | RStudio 1.4 | `1.4.1743` | x86,x64 | ❌ | en-US |
 | 1269 | RStudio | RStudio 2022 | RStudio 2022.02 | `2022.02.5.503` | x86,x64 | ❌ | en-US |
