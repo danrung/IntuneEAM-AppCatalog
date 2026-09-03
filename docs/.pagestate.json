@@ -4276,6 +4276,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.2.6",
+      "2.3.0",
+      1
+     ]
+    ]
    }
   ],
   "caphyon-advanced-installer": [
@@ -7262,6 +7275,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.17.0",
+      "2026.2.18.0",
+      1
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager-agent": [
@@ -9851,6 +9877,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2016.73.179.026",
+      "2016.73.179.027",
+      1
+     ]
+    ]
    }
   ],
   "faststone-soft-capture": [
@@ -11078,6 +11117,19 @@
      [
       "2.97.0",
       "2.98.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.98.0",
+      "2.99.0",
       1
      ]
     ]
@@ -20178,6 +20230,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.80.1",
+      "1.80.2",
+      1
+     ]
+    ]
    }
   ],
   "nextcloud": [
@@ -21052,6 +21117,19 @@
      [
       "3.20.4",
       "3.20.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.20.5",
+      "3.21.0",
       1
      ]
     ]
@@ -23061,6 +23139,19 @@
     ],
     "removed": 0,
     "versions": []
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.3.1012.1623",
+      "26.3.2012.1787",
+      1
+     ]
+    ]
    }
   ],
   "riok-gmbh-kreya": [
@@ -23455,6 +23546,19 @@
      [
       "2.148.3",
       "2.149.9",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.149.9",
+      "2.150.6",
       1
      ]
     ]
@@ -28636,7 +28740,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260902_162341_AppCatalog.json",
+ "history_through": "20260903_040044_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -28645,9 +28749,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "bfef8f200eea370e9fdf1272f18f16d9bfd1518b",
-   "hash": "bac2189e235b27b2655f4538c0630f4d50b391a1",
-   "lastmod": "2026-09-02"
+   "exact": "90a2b965c3bfff2cffe4c50eacf5931d8eeba879",
+   "hash": "c9e71cf71fab3bb51ca8351ef2526ed50346b742",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "ac66ba299424d083e08d89536ac6275d61c445f7",
@@ -29305,9 +29409,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cake-com-inc-clockify.html": {
-   "exact": "3bc91b843f62ea0cd20f208ffd0d4f40dd567794",
-   "hash": "3bc91b843f62ea0cd20f208ffd0d4f40dd567794",
-   "lastmod": "2026-09-02"
+   "exact": "2b65844c7a6b30f0515987314930327e45e83394",
+   "hash": "2b65844c7a6b30f0515987314930327e45e83394",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/calibrite-profiler.html": {
    "exact": "f481623386bb678d224124d8e39bec0d2dc96346",
@@ -29690,9 +29794,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html": {
-   "exact": "0d51dc0f87080a149bfa23b20725c88176bc6a2c",
-   "hash": "0d51dc0f87080a149bfa23b20725c88176bc6a2c",
-   "lastmod": "2026-08-28"
+   "exact": "8717a144ca2f84f9ae0b39af5d1692ed8fbd250c",
+   "hash": "8717a144ca2f84f9ae0b39af5d1692ed8fbd250c",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-workspace.html": {
    "exact": "cab5c26bfe4145300e51e79ac3157fe33a2a2e3b",
@@ -30005,9 +30109,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/factset-research-systems-inc-factset-workstation.html": {
-   "exact": "bf68a1139a928a0081ff2e4076ab03beb34baaca",
-   "hash": "bf68a1139a928a0081ff2e4076ab03beb34baaca",
-   "lastmod": "2026-08-28"
+   "exact": "d724ea43554bab8207150d62fbb32eb83487c2b5",
+   "hash": "d724ea43554bab8207150d62fbb32eb83487c2b5",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/faststone-soft-capture.html": {
    "exact": "1c3564379d40086edd25bb5b8df45516ef18bf73",
@@ -30205,9 +30309,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/github-inc-github-cli.html": {
-   "exact": "9a68cec98a900e094336ecccadadf6ef9adc6163",
-   "hash": "9a68cec98a900e094336ecccadadf6ef9adc6163",
-   "lastmod": "2026-08-27"
+   "exact": "316c9f1ad7175ebe505ce16f2149bb6cc6829f18",
+   "hash": "316c9f1ad7175ebe505ce16f2149bb6cc6829f18",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/glavsoft-llc-remote-ripple.html": {
    "exact": "49d94c0b4e9e426ba8cf4e12adb786c0f81ffad3",
@@ -31590,9 +31694,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/new-relic-inc-new-relic-infrastructure-agent.html": {
-   "exact": "ce7ca78a250d96aefcbf6c25b6a50f9b0eb47be6",
-   "hash": "ce7ca78a250d96aefcbf6c25b6a50f9b0eb47be6",
-   "lastmod": "2026-09-02"
+   "exact": "4f3e7b9fac1272ac1ee34e621f60af38b6f68b7d",
+   "hash": "4f3e7b9fac1272ac1ee34e621f60af38b6f68b7d",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/nextcloud.html": {
    "exact": "15bf48a708bbc4b5548e1439847f3bd3f079ba88",
@@ -31715,9 +31819,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ocenaudio.html": {
-   "exact": "64ed9dbe70c7565dc3db57529b5f396dedcb592d",
-   "hash": "64ed9dbe70c7565dc3db57529b5f396dedcb592d",
-   "lastmod": "2026-08-27"
+   "exact": "0b20b839ff2cd07852d087a37350245ddf24dbfc",
+   "hash": "0b20b839ff2cd07852d087a37350245ddf24dbfc",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/oleg-shparber-zeal.html": {
    "exact": "360faffaba5d3db4596882b2d9c6b58b07871725",
@@ -32125,9 +32229,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ringcentral-app.html": {
-   "exact": "af85c4bd8f075acea93dde079595527030f7cac7",
-   "hash": "af85c4bd8f075acea93dde079595527030f7cac7",
-   "lastmod": "2026-08-27"
+   "exact": "6c4a58d2c7ae7d9d430823d5715e3f936f59142d",
+   "hash": "6c4a58d2c7ae7d9d430823d5715e3f936f59142d",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/ringcentral-phone.html": {
    "exact": "db000d540b022c9e6fa414a470d195db44460660",
@@ -32175,9 +32279,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/salesforce-cli-sf-v2.html": {
-   "exact": "ba5b4ea3233f5f35226b70db3b16b0ebe4d94a8e",
-   "hash": "ba5b4ea3233f5f35226b70db3b16b0ebe4d94a8e",
-   "lastmod": "2026-08-27"
+   "exact": "31a5bc04fda0ea67f110837e5069f04d7075731a",
+   "hash": "31a5bc04fda0ea67f110837e5069f04d7075731a",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/samsung-smart-switch.html": {
    "exact": "dba3bb170ab4fdf5a77b385f06c4576b8cd98148",

@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260902_162341_AppCatalog.json` (exported 2026-09-02 16:23:41)  
-> **Generated:** 2026-09-02 16:24 UTC  
+> **Source:** `20260903_040044_AppCatalog.json` (exported 2026-09-03 04:00:44)  
+> **Generated:** 2026-09-03 04:01 UTC  
 > **Total:** 1,577 packages · 928 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -205,7 +205,7 @@
 | 197 | Bullzip | Bullzip PDF to Word | PDF to Word | `2.1.0.0` | x86,x64 | ❌ | en-US |
 | 198 | Burnaware | BurnAware Free | BurnAware Free | `19.3` | x86,x64 | ❌ | en-US |
 | 199 | Bytello | Bytello Share | Bytello Share | `5.13.1.4288` | x86,x64 | ❌ | en-US |
-| 200 | Cake.com Inc. | Clockify | Clockify | `2.2.6` | x64 | ❌ | en-US |
+| 200 | Cake.com Inc. | Clockify | Clockify | `2.3.0` | x64 | ❌ | en-US |
 | 201 | Calibrite | Calibrite Profiler | Calibrite Profiler | `2.0.0` | x64 | ❌ | en-US |
 | 202 | Canon Production Printing | Publisher Select 3 | Publisher Select 3 | `3.6.2` | x86,x64 | ❌ | en-US |
 | 203 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `23.9` | x86,x64 | ❌ | en-US |
@@ -285,7 +285,7 @@
 | 277 | Dell, Inc. | RVTools | RVTools | `4.8.1` | x86,x64 | ❌ | en-US |
 | 278 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.18.0` | x64 | ✅ | en-US |
 | 279 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.18.0` | x64 | ✅ | en-US |
-| 280 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.17.0` | x64 | ❌ | en-US |
+| 280 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.18.0` | x64 | ❌ | en-US |
 | 281 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.2.9.0` | x86,x64 | ❌ | en-US |
 | 282 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
 | 283 | DigiDNA SARL | iMazing | iMazing | `3.6.3.0` | x64 | ❌ | en-US |
@@ -363,7 +363,7 @@
 | 355 | Evernote | Evernote | Evernote | `11.32.5` | x64 | ✅ | en-US |
 | 356 | Exacq Technologies | exacqVision Client | exacqVision Client (x64) | `26.1.8.0` | x64 | ❌ | en-US |
 | 357 | EZB Systems | EZB Systems UltraISO | UltraISO (English) | `9.7.6.3860` | x86,x64 | ❌ | en-US |
-| 358 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.73.179.026` | x64 | ❌ | en-US |
+| 358 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.73.179.027` | x64 | ❌ | en-US |
 | 359 | FastStone Soft | FastStone Soft Capture | Capture | `11.3` | x86,x64 | ❌ | en-US |
 | 360 | FastStone Soft | FastStone Soft Image Viewer | Image Viewer | `8.5` | x86,x64 | ❌ | en-US |
 | 361 | FastStone Soft | FastStone Soft Photo Resizer | Photo Resizer | `4.5` | x86,x64 | ❌ | en-US |
@@ -419,7 +419,7 @@
 | 411 | Gerardo Grignoli | gsudo | gsudo (x64) | `2.6.1` | x64 | ❌ | en-US |
 | 412 | GFI Software | Kerio Connect | Kerio Connect | `10.0.9.10320` | x64 | ❌ | en-US |
 | 413 | GIMP | GIMP | GIMP | `3.2.4.0` | x64 | ❌ | en-US |
-| 414 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.98.0` | x64 | ❌ | en-US |
+| 414 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.99.0` | x64 | ❌ | en-US |
 | 415 | GlavSoft LLC | Remote Ripple | Remote Ripple | `1.2.0` | x64 | ❌ | en-US |
 | 416 | glueckkanja-gab AG | Konnekt | Konnekt (x64) | `2.12.0.0` | x64 | ❌ | en-US |
 | 417 | GN Audio AS | Jabra Direct | Jabra Direct | `8.2.23201` | x64 | ❌ | en-US |
@@ -776,13 +776,13 @@
 | 768 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
 | 769 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
 | 770 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 771 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37614.0` | x64 | ❌ | en-US |
-| 772 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
-| 773 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
-| 774 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 775 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
-| 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
+| 771 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
+| 772 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
+| 773 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
+| 774 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
+| 775 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
+| 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
+| 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37614.0` | x64 | ❌ | en-US |
 | 778 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 779 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.135.0` | x64 | ✅ | en-US |
 | 780 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37614.0` | x64 | ❌ | en-US |
@@ -1090,7 +1090,7 @@
 | 1082 | NetBird GmbH | NetBird | NetBird | `0.66.3` | x64 | ✅ | en-US |
 | 1083 | NetSetMan GmbH | NetSetMan | NetSetMan | `5.4.0` | x86,x64 | ❌ | en-US |
 | 1084 | NETworkManager | NETworkManager | NETworkManager | `2026.7.7.0` | x64 | ❌ | en-US |
-| 1085 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.1` | x64 | ❌ | en-US |
+| 1085 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.2` | x64 | ❌ | en-US |
 | 1086 | Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.3.20260826` | x64 | ❌ | en-US |
 | 1087 | Nextiva | NextivaONE | NextivaONE | `1.20.1.0` | x64 | ❌ | en-US |
 | 1088 | NGWIN | PicPick | PicPick | `7.6.0` | x86,x64 | ❌ | en-US |
@@ -1115,7 +1115,7 @@
 | 1107 | NVIDIA | NVIDIA GeForce Experience | NVIDIA GeForce Experience | `11.0.1.163` | x64 | ✅ | en-US |
 | 1108 | NWEA | NWEA Secure Testing Browser | NWEA Secure Testing Browser | `5.4.405.0` | x86,x64 | ❌ | en-US |
 | 1109 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.12.4` | x64 | ❌ | en-US |
-| 1110 | ocenaudio | ocenaudio | ocenaudio | `3.20.5` | x64 | ❌ | en-US |
+| 1110 | ocenaudio | ocenaudio | ocenaudio | `3.21.0` | x64 | ❌ | en-US |
 | 1111 | Oleg Shparber | Zeal | Zeal (x64) | `0.9.1` | x64 | ❌ | en-US |
 | 1112 | Ontotext | GraphDB Desktop | GraphDB Desktop | `10.8.4` | x64 | ❌ | en-US |
 | 1113 | openaudible.org | OpenAudible | OpenAudible | `4.8.8` | x64 | ❌ | en-US |
@@ -1268,7 +1268,7 @@
 | 1260 | Red Hat | Red Hat OpenJDK JRE | Red Hat OpenJDK JRE 11 | `11.0.250.1` | x64 | ❌ | en-US |
 | 1261 | Relux Informatik AG | ReluxDesktop | ReluxDesktop (x64) | `2026.2.4.0` | x64 | ❌ | en-US |
 | 1262 | REV Robotics | REV Hardware Client | REV Hardware Client | `1.7.6` | x64 | ❌ | en-US |
-| 1263 | RingCentral | RingCentral App | RingCentral App (x64) | `26.3.1012.1623` | x64 | ❌ | en-US |
+| 1263 | RingCentral | RingCentral App | RingCentral App (x64) | `26.3.2012.1787` | x64 | ❌ | en-US |
 | 1264 | RingCentral | RingCentral Phone | RingCentral Phone | `24.3.0.47527` | x86,x64 | ❌ | en-US |
 | 1265 | Ringler Informatik AG | Snapform Viewer | Snapform Viewer (x64) | `1.8.7` | x64 | ❌ | en-US |
 | 1266 | riok GmbH | Kreya | Kreya (x64) | `1.21.0` | x64 | ❌ | en-US |
@@ -1283,7 +1283,7 @@
 | 1275 | RStudio | Rstudio 2024 | RStudio 2024.09 | `2024.09.1.394` | x64 | ❌ | en-US |
 | 1276 | RStudio | Rstudio 2024 | RStudio 2024.12 | `2024.12.1.563` | x64 | ❌ | en-US |
 | 1277 | Rystad Energy | Cube Browser | Cube Browser (x64) | `2.6.62.0` | x64 | ❌ | en-US |
-| 1278 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.149.9` | x64 | ❌ | en-US |
+| 1278 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.150.6` | x64 | ❌ | en-US |
 | 1279 | Samsung | Samsung Smart Switch | Samsung Smart Switch | `4.3.24062.1` | x86,x64 | ❌ | en-US |
 | 1280 | Samsung Techwin Co., Ltd | Samsung Smart View | Smart View | `1.0.0.0` | x86,x64 | ❌ | en-US |
 | 1281 | SanDisk Corporation | SanDisk Dashboard | SanDisk Dashboard | `5.2.2.3` | x86,x64 | ✅ | en-US |
