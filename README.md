@@ -1,5 +1,7 @@
 # IntuneEAM AppCatalog
 
+[![Process App Catalog](https://github.com/danrung/IntuneEAM-AppCatalog/actions/workflows/process-catalog.yml/badge.svg)](https://github.com/danrung/IntuneEAM-AppCatalog/actions/workflows/process-catalog.yml) [![Packages](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Feam.drung.dev%2Fsummary.json&query=%24.total&label=packages&color=0078d4)](https://eam.drung.dev/) [![Last Commit](https://img.shields.io/github/last-commit/danrung/IntuneEAM-AppCatalog)](https://github.com/danrung/IntuneEAM-AppCatalog/commits/main) [![License: MIT](https://img.shields.io/github/license/danrung/IntuneEAM-AppCatalog)](LICENSE) [![RSS](https://img.shields.io/badge/RSS-feed-orange?logo=rss)](https://eam.drung.dev/feed.xml)
+
 A reference for the **Microsoft Intune Enterprise Application Management (EAM)** app catalog. If you work with Intune EAM and have ever wanted a quick, browsable overview of what's actually in the catalog, what apps are available, which publishers are represented, what changed recently, here it is.
 
 The raw data comes from the Microsoft Graph API. Exports are dropped into this repo and a GitHub Actions workflow takes care of building the tables, stats, and change history automatically.

@@ -60,7 +60,7 @@ jobs:
 
           # Stage generated docs, README, and any archiving moves. docs/apps/ is
           # staged with -A so pages pruned for removed products are deleted too.
-          git add catalog.md stats.md changes.md changes_daily.md changes_weekly.md changes_monthly.md README.md docs/catalog.json docs/changes.json docs/feed.xml docs/sitemap.xml
+          git add catalog.md stats.md changes.md changes_daily.md changes_weekly.md changes_monthly.md README.md docs/catalog.json docs/changes.json docs/summary.json docs/feed.xml docs/sitemap.xml
           # docs/.pagestate.json is what makes the sitemap dates and the
           # IndexNow list mean anything on the next run — it has to travel with
           # the pages it describes. The *.txt glob picks up the IndexNow key
