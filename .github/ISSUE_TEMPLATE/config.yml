@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question or idea
+    url: https://github.com/danrung/IntuneEAM-AppCatalog/discussions
+    about: Ask a question, share an idea, or discuss how to use the catalog.
+  - name: Report a security issue
+    url: https://github.com/danrung/IntuneEAM-AppCatalog/security/advisories/new
+    about: Report a vulnerability privately instead of opening a public issue.

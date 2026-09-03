@@ -1,0 +1,42 @@
+name: Bug report
+description: Something in the website, the generator script, the workflow, or the Quickstart script is broken.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Website (docs/)
+        - Generator script (.github/scripts/generate_docs.py)
+        - GitHub Actions workflow
+        - Quickstart PowerShell script
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Describe the problem and how to reproduce it.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error output or screenshots
+      description: Browser console output, workflow log lines, PowerShell errors, or a screenshot.
+      render: text
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      description: Browser and OS for website bugs, PowerShell and module versions for the Quickstart script.
+      placeholder: "Edge 128 on Windows 11 / PowerShell 7.4, Microsoft.Graph 2.20"

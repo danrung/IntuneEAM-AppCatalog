@@ -1,0 +1,49 @@
+name: Catalog data problem
+description: An app is missing, shows a wrong version, or looks otherwise off.
+title: "[Data] "
+labels: ["data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The catalog reflects what the Microsoft Graph API returned at export time. If the problem is in Microsoft's data itself, it cannot be fixed here, but the report still helps others who see the same thing.
+  - type: input
+    id: app
+    attributes:
+      label: App and publisher
+      description: As shown on eam.drung.dev or in catalog.md.
+      placeholder: "7-Zip / Igor Pavlov"
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did you see it?
+      multiple: true
+      options:
+        - Website (eam.drung.dev)
+        - App page (eam.drung.dev/apps/...)
+        - catalog.md / stats.md / changes*.md
+        - RSS feed
+        - Quickstart script
+        - Raw export (catalog/ or archive/)
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: What do you see, and what did you expect instead?
+    validations:
+      required: true
+  - type: input
+    id: export
+    attributes:
+      label: Export timestamp
+      description: The "Last Export" value from the README or the page footer.
+      placeholder: "2026-08-28 10:58:29"
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence (optional)
+      description: A Graph API response, a screenshot from the Intune admin center, or anything else that shows the expected value.
