@@ -1,18 +1,18 @@
 # App Catalog Statistics
 
-> **Source:** `20260903_040044_AppCatalog.json` (exported 2026-09-03 04:00:44)  
-> **Generated:** 2026-09-03 04:01 UTC
+> **Source:** `20260903_161408_AppCatalog.json` (exported 2026-09-03 16:14:08)  
+> **Generated:** 2026-09-03 16:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|------:|
-| Total Packages | **1,577** |
-| Unique Apps (Publisher + Name) | 929 |
-| Unique Products (by Product ID) | 928 |
+| Total Packages | **1,588** |
+| Unique Apps (Publisher + Name) | 932 |
+| Unique Products (by Product ID) | 931 |
 | Publishers | 498 |
-| Auto-Update Capable | 364 (23.1%) |
-| Not Auto-Update Capable | 1,213 (76.9%) |
+| Auto-Update Capable | 365 (23.0%) |
+| Not Auto-Update Capable | 1,223 (77.0%) |
 | Available Locales | 65 |
 | Multi-Locale Packages | 0 |
 | Packages Without Architecture | 0 |
@@ -21,13 +21,13 @@
 
 | Rank | Publisher | Packages | Share |
 |-----:|-----------|--------:|------:|
-| 1 | Mozilla | 256 | 16.2% |
-| 2 | Microsoft | 182 | 11.5% |
+| 1 | Mozilla | 256 | 16.1% |
+| 2 | Microsoft | 183 | 11.5% |
 | 3 | The Document Foundation | 59 | 3.7% |
 | 4 | JetBrains | 49 | 3.1% |
 | 5 | PaperCut Software Pty Ltd | 32 | 2.0% |
 | 6 | Rarlab | 30 | 1.9% |
-| 7 | Eclipse Foundation | 23 | 1.5% |
+| 7 | Eclipse Foundation | 23 | 1.4% |
 | 8 | Blender Foundation | 22 | 1.4% |
 | 9 | Azul Systems, Inc. | 21 | 1.3% |
 | 10 | Foxit Software | 20 | 1.3% |
@@ -36,8 +36,8 @@
 
 | Architecture | Packages | Share |
 |--------------|--------:|------:|
-| x64 | 1,268 | 80.4% |
-| x86,x64 | 309 | 19.6% |
+| x64 | 1,279 | 80.5% |
+| x86,x64 | 309 | 19.5% |
 
 ## Available Locales
 

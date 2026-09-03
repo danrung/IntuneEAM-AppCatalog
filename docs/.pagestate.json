@@ -17705,6 +17705,15 @@
     ]
    }
   ],
+  "microsoft-sql-server-management-studio-22": [
+   {
+    "added": 1,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": []
+   }
+  ],
   "microsoft-universal-print-connector": [
    {
     "added": 0,
@@ -20446,6 +20455,15 @@
       1
      ]
     ]
+   }
+  ],
+  "node-js-foundation-node-js": [
+   {
+    "added": 2,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": []
    }
   ],
   "node-js-foundation-node-js-20-lts": [
@@ -23306,6 +23324,15 @@
     ]
    }
   ],
+  "rstudio": [
+   {
+    "added": 8,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": []
+   }
+  ],
   "rystad-energy-cube-browser": [
    {
     "added": 0,
@@ -25579,6 +25606,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.2.0",
+      "3.3.0",
+      1
+     ]
+    ]
    }
   ],
   "tarma-software-research-ltd-publish-or-perish": [
@@ -25765,6 +25805,19 @@
      [
       "15.64.7.0",
       "15.81.5.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "15.81.5.0",
+      "15.81.6.0",
       1
      ]
     ]
@@ -27758,6 +27811,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.7.2",
+      "4.7.3",
+      1
+     ]
+    ]
    }
   ],
   "wrike-com-wrike": [
@@ -27770,6 +27836,19 @@
      [
       "4.6.0.3013",
       "4.6.1.3034",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.6.1.3034",
+      "4.6.2.3052",
       1
      ]
     ]
@@ -28294,6 +28373,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.19.5",
+      "1.19.6",
+      1
+     ]
+    ]
    }
   ],
   "zello-inc-zello": [
@@ -28740,7 +28832,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260903_040044_AppCatalog.json",
+ "history_through": "20260903_161408_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -28749,8 +28841,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "90a2b965c3bfff2cffe4c50eacf5931d8eeba879",
-   "hash": "c9e71cf71fab3bb51ca8351ef2526ed50346b742",
+   "exact": "b525bcbe8fa269d91b0b97a3b422aa9687b90fc7",
+   "hash": "5a17b6ec4b363c1e877fb9edd554cf1b699f2459",
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -31094,94 +31186,94 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/microsoft-access-database-engine-2016.html": {
-   "exact": "538fae7f690e34d9ab61b08895cc53cdd8398fcd",
-   "hash": "538fae7f690e34d9ab61b08895cc53cdd8398fcd",
-   "lastmod": "2026-08-28"
+   "exact": "28278680d664b0a9309d0ce25acc605e37064387",
+   "hash": "28278680d664b0a9309d0ce25acc605e37064387",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-active-directory-rights-management-service-client.html": {
-   "exact": "18d5f3605e9eaed37f13b33ee94e795fca302679",
-   "hash": "18d5f3605e9eaed37f13b33ee94e795fca302679",
-   "lastmod": "2026-08-28"
+   "exact": "00333d3bf54c81f25e917808b813f1ac1a4d63d9",
+   "hash": "00333d3bf54c81f25e917808b813f1ac1a4d63d9",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-administrative-templates-admx-for-windows-10.html": {
-   "exact": "efae8849fa7f9e9e435509f091fbb4b2ec1eae82",
-   "hash": "efae8849fa7f9e9e435509f091fbb4b2ec1eae82",
-   "lastmod": "2026-08-28"
+   "exact": "d985a25afc7451537ae8c4f519eadbd3f6d2249e",
+   "hash": "d985a25afc7451537ae8c4f519eadbd3f6d2249e",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-analysis-management-objects.html": {
-   "exact": "28c021d4ab289f852ecb80c91b5580339f11aab4",
-   "hash": "28c021d4ab289f852ecb80c91b5580339f11aab4",
-   "lastmod": "2026-08-28"
+   "exact": "f616f2ed32e86ed5db51a770ff6dd36e9a38c214",
+   "hash": "f616f2ed32e86ed5db51a770ff6dd36e9a38c214",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-analysis-services-adomd-net.html": {
-   "exact": "1889db2ba0a0e2506375ae7355a50492848b9032",
-   "hash": "1889db2ba0a0e2506375ae7355a50492848b9032",
-   "lastmod": "2026-08-28"
+   "exact": "16efd00a427e2d55d8898d9664685973e70179f1",
+   "hash": "16efd00a427e2d55d8898d9664685973e70179f1",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-analysis-services-ole-db-provider.html": {
-   "exact": "b2bb30aac3980140f174668f0f4b820cdaedc0ab",
-   "hash": "b2bb30aac3980140f174668f0f4b820cdaedc0ab",
-   "lastmod": "2026-08-28"
+   "exact": "d3ecfeef797b370afd9524588022dc00edf91fb3",
+   "hash": "d3ecfeef797b370afd9524588022dc00edf91fb3",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-asp-net-core-runtime-5-0.html": {
-   "exact": "d962c7d940727fa342b6602e042bf361fa87fbb9",
-   "hash": "d962c7d940727fa342b6602e042bf361fa87fbb9",
-   "lastmod": "2026-08-28"
+   "exact": "1db9e66630df95c39fde2c7fa9f1f64fd4c32f45",
+   "hash": "1db9e66630df95c39fde2c7fa9f1f64fd4c32f45",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-asp-net-core-runtime-6-0.html": {
-   "exact": "89d043131bca53314ed9e80978522c5e8d62ffaa",
-   "hash": "89d043131bca53314ed9e80978522c5e8d62ffaa",
-   "lastmod": "2026-08-28"
+   "exact": "6d942502fb9c5327f2a82cc64aeb67f75220c053",
+   "hash": "6d942502fb9c5327f2a82cc64aeb67f75220c053",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-asp-net-core-runtime-7-0.html": {
-   "exact": "a584951e3cfea058481dd854a650f76a5b543f43",
-   "hash": "a584951e3cfea058481dd854a650f76a5b543f43",
-   "lastmod": "2026-08-28"
+   "exact": "c3a997587082f0e3dff60a8595518458bdf836a2",
+   "hash": "c3a997587082f0e3dff60a8595518458bdf836a2",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-azure-cli.html": {
-   "exact": "57d77b79a3c6113755104ca0e480116ee56ad4ed",
-   "hash": "57d77b79a3c6113755104ca0e480116ee56ad4ed",
-   "lastmod": "2026-09-02"
+   "exact": "b1806ff49764d1e485972febd83e26e82cd07a30",
+   "hash": "b1806ff49764d1e485972febd83e26e82cd07a30",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-azure-connected-machine-agent.html": {
-   "exact": "d544cb8254073daaeca6d691fa69e28b143deb62",
-   "hash": "d544cb8254073daaeca6d691fa69e28b143deb62",
-   "lastmod": "2026-08-28"
+   "exact": "326f7a35f4290537571fbf43a610dbd5e6674b35",
+   "hash": "326f7a35f4290537571fbf43a610dbd5e6674b35",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-azure-data-cli.html": {
-   "exact": "0da9242481743dc680361b0ee27e950af392c9a4",
-   "hash": "0da9242481743dc680361b0ee27e950af392c9a4",
-   "lastmod": "2026-08-27"
+   "exact": "d6f5819b130da9990a5cc675d46d87f0e0f534fe",
+   "hash": "d6f5819b130da9990a5cc675d46d87f0e0f534fe",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-azure-data-studio.html": {
-   "exact": "5f17eb6325b120efb59a8377044f9978cef81646",
-   "hash": "5f17eb6325b120efb59a8377044f9978cef81646",
-   "lastmod": "2026-08-27"
+   "exact": "aac32846f2234444285c8234a0c36bca0bff8809",
+   "hash": "aac32846f2234444285c8234a0c36bca0bff8809",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-azure-functions-core-tools.html": {
-   "exact": "52a4f96a451dfd5085c846655a285f62070073a8",
-   "hash": "52a4f96a451dfd5085c846655a285f62070073a8",
-   "lastmod": "2026-08-27"
+   "exact": "6cd792a694c1dac1700b812fc935d145190c2d97",
+   "hash": "6cd792a694c1dac1700b812fc935d145190c2d97",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-azure-powershell.html": {
-   "exact": "5413b9ca254225072c1800d727e77910cae74a32",
-   "hash": "5413b9ca254225072c1800d727e77910cae74a32",
-   "lastmod": "2026-09-02"
+   "exact": "0aeff33003519594d4961cad5f1a0ff127502661",
+   "hash": "0aeff33003519594d4961cad5f1a0ff127502661",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-azure-storage-explorer.html": {
-   "exact": "f317a12cac2eb63d02faa2df3c322deb580321ac",
-   "hash": "f317a12cac2eb63d02faa2df3c322deb580321ac",
-   "lastmod": "2026-09-02"
+   "exact": "4cfc92809a38f04560a756763501914a76fa8288",
+   "hash": "4cfc92809a38f04560a756763501914a76fa8288",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-bot-framework-composer.html": {
-   "exact": "86fbce1c529f1b353d4b164a5bb87863838f6dba",
-   "hash": "86fbce1c529f1b353d4b164a5bb87863838f6dba",
-   "lastmod": "2026-08-27"
+   "exact": "492521e8673f8f48d9ad926dad1bcbeb63584124",
+   "hash": "492521e8673f8f48d9ad926dad1bcbeb63584124",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-bot-framework-emulator.html": {
-   "exact": "db23c8f8ef0c2be3ffa5a96e7b2ce6d2f3bdc2da",
-   "hash": "db23c8f8ef0c2be3ffa5a96e7b2ce6d2f3bdc2da",
-   "lastmod": "2026-08-27"
+   "exact": "75fcdcf9392afb85d78db91ae6e373049c78ed57",
+   "hash": "75fcdcf9392afb85d78db91ae6e373049c78ed57",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-corporation-microsoft-visual-c-2015-2022-redistributable.html": {
    "exact": "d573bd2b709441a01764196d6713d75d98c3806d",
@@ -31194,344 +31286,349 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/microsoft-defender-for-endpoint-plug-in-for-wsl.html": {
-   "exact": "ebe8446ca1d5c851c6359b8818d96b3aafe08786",
-   "hash": "ebe8446ca1d5c851c6359b8818d96b3aafe08786",
-   "lastmod": "2026-08-28"
+   "exact": "3a7c80567847d523013115c0fa786c43f6fe7b26",
+   "hash": "3a7c80567847d523013115c0fa786c43f6fe7b26",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-deployment-toolkit-8456.html": {
-   "exact": "9dc1a1bc5556c815727dc8be3f0b65f7fa95b610",
-   "hash": "9dc1a1bc5556c815727dc8be3f0b65f7fa95b610",
-   "lastmod": "2026-08-28"
+   "exact": "e620750aa2e88d65c3466da14391be1432f443d2",
+   "hash": "e620750aa2e88d65c3466da14391be1432f443d2",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "38949f2eff761270dea3fdd81ccc02151902ef6c",
-   "hash": "38949f2eff761270dea3fdd81ccc02151902ef6c",
-   "lastmod": "2026-09-02"
+   "exact": "57137676ab22f825a4327b8c4c9473e735434367",
+   "hash": "57137676ab22f825a4327b8c4c9473e735434367",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
-   "exact": "2a37bd13ae8841bf01c8ddcdba7a801d5db164cb",
-   "hash": "2a37bd13ae8841bf01c8ddcdba7a801d5db164cb",
-   "lastmod": "2026-09-02"
+   "exact": "0ca2466c1df034b6d95c24cb66e9c70148301e9e",
+   "hash": "0ca2466c1df034b6d95c24cb66e9c70148301e9e",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-edge-for-business.html": {
-   "exact": "9f091b265fa15bdfd8d6dd667df2ba31151edfaf",
-   "hash": "9f091b265fa15bdfd8d6dd667df2ba31151edfaf",
-   "lastmod": "2026-08-27"
+   "exact": "1eb38f2d630fdd74b7e468694197ca53f08b34cc",
+   "hash": "1eb38f2d630fdd74b7e468694197ca53f08b34cc",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-edge-webview2-runtime.html": {
-   "exact": "49e77ec0db06836a791385d88a85a628d4f6c939",
-   "hash": "49e77ec0db06836a791385d88a85a628d4f6c939",
-   "lastmod": "2026-08-27"
+   "exact": "9d6e7732b2260ddc5a819cbb0b1419b530278b2b",
+   "hash": "9d6e7732b2260ddc5a819cbb0b1419b530278b2b",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-enterprise-mode-site-list-manager.html": {
-   "exact": "efcad71feae3cd03b4b826abaaa140ba3c518008",
-   "hash": "efcad71feae3cd03b4b826abaaa140ba3c518008",
-   "lastmod": "2026-08-28"
+   "exact": "0e9551dc14b335d670b8c40a8910b698c7dea819",
+   "hash": "0e9551dc14b335d670b8c40a8910b698c7dea819",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-fuzzy-lookup-add-in-for-excel.html": {
-   "exact": "badf1adf5e2465a9cbcbb90512a8146ef7b9ea0c",
-   "hash": "badf1adf5e2465a9cbcbb90512a8146ef7b9ea0c",
-   "lastmod": "2026-08-27"
+   "exact": "77824323efe877dcf42305be31b1b8c85e5799d8",
+   "hash": "77824323efe877dcf42305be31b1b8c85e5799d8",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-hanword-hwp-document-converter-for-microsoft-word-2016.html": {
-   "exact": "9915c8a7cb5d5378fd0799d5e43b850f8b7aff7a",
-   "hash": "9915c8a7cb5d5378fd0799d5e43b850f8b7aff7a",
-   "lastmod": "2026-08-28"
+   "exact": "e14faa5561848761db1e333ee219bb926dcc6adf",
+   "hash": "e14faa5561848761db1e333ee219bb926dcc6adf",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-local-administrator-password-solution.html": {
-   "exact": "cbe58d2fc7ddde8c46569cdf9cbcace2c5856733",
-   "hash": "cbe58d2fc7ddde8c46569cdf9cbcace2c5856733",
-   "lastmod": "2026-08-28"
+   "exact": "587ab34c891ee26902c3036cf888b8f1ead5ed38",
+   "hash": "587ab34c891ee26902c3036cf888b8f1ead5ed38",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-msix-core.html": {
-   "exact": "65de5e9fb0fdeb09a9db39243bc46969d1f317f0",
-   "hash": "65de5e9fb0fdeb09a9db39243bc46969d1f317f0",
-   "lastmod": "2026-08-27"
+   "exact": "d55cfb3d57b7e8cbae6b34d3a653c54259d695c9",
+   "hash": "d55cfb3d57b7e8cbae6b34d3a653c54259d695c9",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-net-core-2-2.html": {
-   "exact": "d49e7d7fa1ea31373583c09f05894016b3e982d0",
-   "hash": "d49e7d7fa1ea31373583c09f05894016b3e982d0",
-   "lastmod": "2026-08-27"
+   "exact": "346c00dad6b81686a09abd2047f0e1a362c8ab16",
+   "hash": "346c00dad6b81686a09abd2047f0e1a362c8ab16",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-net-runtime-6-0.html": {
-   "exact": "2ce05a8244af7a31d172aa6a968ee212bddd8dc3",
-   "hash": "2ce05a8244af7a31d172aa6a968ee212bddd8dc3",
-   "lastmod": "2026-08-27"
+   "exact": "4300fd70edd5aee7e656701f69a8e2386e8c9974",
+   "hash": "4300fd70edd5aee7e656701f69a8e2386e8c9974",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-net-runtime-7-0.html": {
-   "exact": "4d25ee9b00e30a2944fcaea22461e5d4c00d09a5",
-   "hash": "4d25ee9b00e30a2944fcaea22461e5d4c00d09a5",
-   "lastmod": "2026-08-27"
+   "exact": "228950cb72c992ecda78cbb8fbcc5c3af621b278",
+   "hash": "228950cb72c992ecda78cbb8fbcc5c3af621b278",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-net-sdk-8-0.html": {
-   "exact": "22fc1c08c6123fa7cfbec88dbcb430e5c2acbc67",
-   "hash": "22fc1c08c6123fa7cfbec88dbcb430e5c2acbc67",
-   "lastmod": "2026-08-27"
+   "exact": "64f0876f5b932eb4bd472fd433a8af82e83b1a59",
+   "hash": "64f0876f5b932eb4bd472fd433a8af82e83b1a59",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-net-sdk-9-0.html": {
-   "exact": "bcbc93d61449af478b616388a37976c8b5a6d9e7",
-   "hash": "bcbc93d61449af478b616388a37976c8b5a6d9e7",
-   "lastmod": "2026-08-27"
+   "exact": "8f296958c3856fe95be0216e8814c29bd236a631",
+   "hash": "8f296958c3856fe95be0216e8814c29bd236a631",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-odbc-driver-13-for-sql-server.html": {
-   "exact": "47b0784c1a35c006079259496d0fd484145a0e1f",
-   "hash": "47b0784c1a35c006079259496d0fd484145a0e1f",
-   "lastmod": "2026-08-28"
+   "exact": "a788f1ac69bf8bc86ccf683980ad72d88e5456e2",
+   "hash": "a788f1ac69bf8bc86ccf683980ad72d88e5456e2",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-odbc-driver-17-for-sql-server.html": {
-   "exact": "b5a30d6c42dec49a56cc7b274e763edc80e952ea",
-   "hash": "b5a30d6c42dec49a56cc7b274e763edc80e952ea",
-   "lastmod": "2026-08-28"
+   "exact": "4a7cb97f7d450be70383302ba69b3f31c6e11d50",
+   "hash": "4a7cb97f7d450be70383302ba69b3f31c6e11d50",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-odbc-driver-18-for-sql-server.html": {
-   "exact": "dd1f4a12eaed28981f9950bac3932cdfd2f81429",
-   "hash": "dd1f4a12eaed28981f9950bac3932cdfd2f81429",
-   "lastmod": "2026-08-28"
+   "exact": "7800c835a8635a9dd74744514c6b1aa2c4149fa2",
+   "hash": "7800c835a8635a9dd74744514c6b1aa2c4149fa2",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-ole-db-driver-18-for-sql-server.html": {
-   "exact": "a3810d7576f6a86a8d7ab81dbb60ae551c3e7c7b",
-   "hash": "a3810d7576f6a86a8d7ab81dbb60ae551c3e7c7b",
-   "lastmod": "2026-08-28"
+   "exact": "1ef364c0b4134c275fcc32e875bbe6fccffd225a",
+   "hash": "1ef364c0b4134c275fcc32e875bbe6fccffd225a",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-on-premises-data-gateway.html": {
-   "exact": "0a83d146cea14c767a7287d7aaca09cba4e4a122",
-   "hash": "0a83d146cea14c767a7287d7aaca09cba4e4a122",
-   "lastmod": "2026-08-28"
+   "exact": "f327673396c62f3f015c27a943a225b2efa44c88",
+   "hash": "f327673396c62f3f015c27a943a225b2efa44c88",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
-   "exact": "91f1de90046efe8a916b3907aa1f77c67a999677",
-   "hash": "91f1de90046efe8a916b3907aa1f77c67a999677",
-   "lastmod": "2026-08-31"
+   "exact": "c4cd605f32de2fbe2a2a027d1be1cdfb276c10db",
+   "hash": "c4cd605f32de2fbe2a2a027d1be1cdfb276c10db",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-onenote.html": {
-   "exact": "e1946e6d076c76a3c2d08436bd0d6d916ea61021",
-   "hash": "e1946e6d076c76a3c2d08436bd0d6d916ea61021",
-   "lastmod": "2026-08-27"
+   "exact": "d42182f34f1aa34ab1b1a5a115039e11047ed11a",
+   "hash": "d42182f34f1aa34ab1b1a5a115039e11047ed11a",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk-11.html": {
-   "exact": "f94d850ff9ff542d15a7ec787bc7752e2cf71174",
-   "hash": "f94d850ff9ff542d15a7ec787bc7752e2cf71174",
-   "lastmod": "2026-08-27"
+   "exact": "3fa7fcb6fc227bf9f43b717aeef918278bc1a2c5",
+   "hash": "3fa7fcb6fc227bf9f43b717aeef918278bc1a2c5",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk-16.html": {
-   "exact": "c3d8f825db0b5ae0a92aa09594109bf6bd9440c5",
-   "hash": "c3d8f825db0b5ae0a92aa09594109bf6bd9440c5",
-   "lastmod": "2026-08-27"
+   "exact": "a4c43d2c687198d138ce4e92a394051fc30178ee",
+   "hash": "a4c43d2c687198d138ce4e92a394051fc30178ee",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk-17.html": {
-   "exact": "b99d5748e58ff5b51313e5e554dcf1545c528503",
-   "hash": "b99d5748e58ff5b51313e5e554dcf1545c528503",
-   "lastmod": "2026-08-27"
+   "exact": "2ae8b7620ede61b60be78a892e52a32b959d7aa0",
+   "hash": "2ae8b7620ede61b60be78a892e52a32b959d7aa0",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk.html": {
-   "exact": "a8772430f7131aef5a18f43378c9abb58ee48002",
-   "hash": "a8772430f7131aef5a18f43378c9abb58ee48002",
-   "lastmod": "2026-08-27"
+   "exact": "91e26ca0adb09c59ca55b46b5de30b7fcc7ac33f",
+   "hash": "91e26ca0adb09c59ca55b46b5de30b7fcc7ac33f",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-power-bi-desktop.html": {
-   "exact": "8c6bddb935d5beed010aeece365cd6fa58b0aaee",
-   "hash": "8c6bddb935d5beed010aeece365cd6fa58b0aaee",
-   "lastmod": "2026-08-27"
+   "exact": "582ce39776fe964100b421d50042b136cf09503c",
+   "hash": "582ce39776fe964100b421d50042b136cf09503c",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-powershell-core.html": {
-   "exact": "ad4ce28b6886b15aac9e899ffb8ba563fa5f8caf",
-   "hash": "ad4ce28b6886b15aac9e899ffb8ba563fa5f8caf",
-   "lastmod": "2026-08-27"
+   "exact": "85920d4f07ec8628223a13cf21dde59d370c2049",
+   "hash": "85920d4f07ec8628223a13cf21dde59d370c2049",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-powertoys.html": {
-   "exact": "7456ededabec9a885e17b49ebc080e3296b0811d",
-   "hash": "7456ededabec9a885e17b49ebc080e3296b0811d",
-   "lastmod": "2026-08-27"
+   "exact": "76ef83f26a2bdce18b6d432acf1dd6da66c15374",
+   "hash": "76ef83f26a2bdce18b6d432acf1dd6da66c15374",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-purview-information-protection-client.html": {
-   "exact": "c84a555e2285fcb29342779ed0a3f60541109dcd",
-   "hash": "c84a555e2285fcb29342779ed0a3f60541109dcd",
-   "lastmod": "2026-08-28"
+   "exact": "87a3eb5c8215fafde39a7406f78b1e4c0f43352e",
+   "hash": "87a3eb5c8215fafde39a7406f78b1e4c0f43352e",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-remote-desktop-webrtc-redirector.html": {
-   "exact": "f34c7ea36f88f6a331f00305cada7743e4c7a75d",
-   "hash": "f34c7ea36f88f6a331f00305cada7743e4c7a75d",
-   "lastmod": "2026-08-28"
+   "exact": "7feca0bb174170af48aa6c43580e11ba45e9d565",
+   "hash": "7feca0bb174170af48aa6c43580e11ba45e9d565",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sharepoint-online-management-shell.html": {
-   "exact": "b6b9f8ddfdeadf4a066c33d690244e605629f373",
-   "hash": "b6b9f8ddfdeadf4a066c33d690244e605629f373",
-   "lastmod": "2026-08-28"
+   "exact": "ee745dea0b461ba4eaa97a1b335930edc3e9b43c",
+   "hash": "ee745dea0b461ba4eaa97a1b335930edc3e9b43c",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-skype-for-desktop.html": {
-   "exact": "b2e0b8d6667629f324be69fdcf3de369fa2b7c8e",
-   "hash": "b2e0b8d6667629f324be69fdcf3de369fa2b7c8e",
-   "lastmod": "2026-08-27"
+   "exact": "68b47df3738033f50f3f56f353cd003c36a56235",
+   "hash": "68b47df3738033f50f3f56f353cd003c36a56235",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-skype-tx.html": {
-   "exact": "9f8f24a8a93976491369fc784a9d0a783dab066f",
-   "hash": "9f8f24a8a93976491369fc784a9d0a783dab066f",
-   "lastmod": "2026-08-27"
+   "exact": "3078b77739ef193ab5949fa40fb28df59dbd16b9",
+   "hash": "3078b77739ef193ab5949fa40fb28df59dbd16b9",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-2012-express-with-advanced-services.html": {
-   "exact": "fe9ff97fbdae9a95bb857243e97eba8c7dd67c2f",
-   "hash": "fe9ff97fbdae9a95bb857243e97eba8c7dd67c2f",
-   "lastmod": "2026-08-28"
+   "exact": "fd8206749a604d80dfd1a9580319915c7a79d6e1",
+   "hash": "fd8206749a604d80dfd1a9580319915c7a79d6e1",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-2012-native-client.html": {
-   "exact": "8bff87aa7cc75eea37a385e7d66cecf64f95a80d",
-   "hash": "8bff87aa7cc75eea37a385e7d66cecf64f95a80d",
-   "lastmod": "2026-08-28"
+   "exact": "ab2b2f9b35b644a0445de7eb7935a22118b8fff0",
+   "hash": "ab2b2f9b35b644a0445de7eb7935a22118b8fff0",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-2014-express-localdb.html": {
-   "exact": "b95e618e994b5f0e35055ab208c965d8b873b729",
-   "hash": "b95e618e994b5f0e35055ab208c965d8b873b729",
-   "lastmod": "2026-08-28"
+   "exact": "91241d23da1d9987a62e6e70a9e9543baa9051c4",
+   "hash": "91241d23da1d9987a62e6e70a9e9543baa9051c4",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-2016-report-builder.html": {
-   "exact": "a0a1739206420634d5e87146b445077350b613d3",
-   "hash": "a0a1739206420634d5e87146b445077350b613d3",
-   "lastmod": "2026-08-28"
+   "exact": "2f58048ad3969ccb37fbfe2ad25eb9b6125847e9",
+   "hash": "2f58048ad3969ccb37fbfe2ad25eb9b6125847e9",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-2017-express-advanced-edition.html": {
-   "exact": "b2e41d224d1558b5688c805080e6e2d097662142",
-   "hash": "b2e41d224d1558b5688c805080e6e2d097662142",
-   "lastmod": "2026-08-28"
+   "exact": "b35b67af185a8a776f12585d21cc9f991e50a049",
+   "hash": "b35b67af185a8a776f12585d21cc9f991e50a049",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-2017-for-microsoft-windows-latest-cumulative-update.html": {
-   "exact": "ffcc4ee58321f85956aabdaf6829ff561d8750b0",
-   "hash": "ffcc4ee58321f85956aabdaf6829ff561d8750b0",
-   "lastmod": "2026-08-28"
+   "exact": "c4339a30978f3170fbb5aeef8072d5f6e63f62b2",
+   "hash": "c4339a30978f3170fbb5aeef8072d5f6e63f62b2",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-2017-reporting-services.html": {
-   "exact": "43a8b7465b66b0ed8a0fc5a3ac74019376803ff2",
-   "hash": "43a8b7465b66b0ed8a0fc5a3ac74019376803ff2",
-   "lastmod": "2026-08-28"
+   "exact": "0da07961d1d51844750673391aaa3b56fa5794ff",
+   "hash": "0da07961d1d51844750673391aaa3b56fa5794ff",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-2022-express-edition.html": {
-   "exact": "3803ddaf1f1529366d52769a0d077b771c47415b",
-   "hash": "3803ddaf1f1529366d52769a0d077b771c47415b",
-   "lastmod": "2026-08-28"
+   "exact": "0298795fa9a0248f3aa3debbfd0a16c69809d406",
+   "hash": "0298795fa9a0248f3aa3debbfd0a16c69809d406",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-management-studio-20.html": {
-   "exact": "b4d3c356ed3aef7a11f795d8618dd414d42a089a",
-   "hash": "b4d3c356ed3aef7a11f795d8618dd414d42a089a",
-   "lastmod": "2026-08-28"
+   "exact": "b5be15babab2fce382ee227240a6834767bdc18f",
+   "hash": "b5be15babab2fce382ee227240a6834767bdc18f",
+   "lastmod": "2026-09-03"
+  },
+  "https://eam.drung.dev/apps/microsoft-sql-server-management-studio-22.html": {
+   "exact": "2b922d494f6efa571e728d72ac5d84147a2157d0",
+   "hash": "2b922d494f6efa571e728d72ac5d84147a2157d0",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-surface-data-eraser.html": {
-   "exact": "548bb92d050c804f10c6416751fbb3446ea0493c",
-   "hash": "548bb92d050c804f10c6416751fbb3446ea0493c",
-   "lastmod": "2026-08-27"
+   "exact": "73f2c1d942ce8b68f5450ce667406ab7143f91b9",
+   "hash": "73f2c1d942ce8b68f5450ce667406ab7143f91b9",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-surface-diagnostic-toolkit-for-business.html": {
-   "exact": "a2750e5ac9f903f38912d27af45c58db80f975a8",
-   "hash": "a2750e5ac9f903f38912d27af45c58db80f975a8",
-   "lastmod": "2026-08-28"
+   "exact": "8720729753a11c21abc4a87e9b04472637e84925",
+   "hash": "8720729753a11c21abc4a87e9b04472637e84925",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-system-clr-types-for-sql-server-2014.html": {
-   "exact": "f6a8a0c9f0e1e458c4b3c7b541567111b0878b6a",
-   "hash": "f6a8a0c9f0e1e458c4b3c7b541567111b0878b6a",
-   "lastmod": "2026-08-28"
+   "exact": "04031002eb67a84e845f6fa39f1a91e63e64a07f",
+   "hash": "04031002eb67a84e845f6fa39f1a91e63e64a07f",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-universal-print-connector.html": {
-   "exact": "2c16c5413c8142ce11da49b373ea7f8c1b354120",
-   "hash": "2c16c5413c8142ce11da49b373ea7f8c1b354120",
-   "lastmod": "2026-08-29"
+   "exact": "b727ad9080829c3519bac20319187a21dc86beed",
+   "hash": "b727ad9080829c3519bac20319187a21dc86beed",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visio-2016-viewer.html": {
-   "exact": "445bccc1bd0251b6e7d693d1a1ef2793c6329711",
-   "hash": "445bccc1bd0251b6e7d693d1a1ef2793c6329711",
-   "lastmod": "2026-08-27"
+   "exact": "1a46953202b4959adb2dbbdf8245f9ed108cac5c",
+   "hash": "1a46953202b4959adb2dbbdf8245f9ed108cac5c",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-c-2005-redistributable.html": {
-   "exact": "3a85b3f3800d84b12e140202ac855d5dbe3389a6",
-   "hash": "3a85b3f3800d84b12e140202ac855d5dbe3389a6",
-   "lastmod": "2026-08-28"
+   "exact": "38745087161a8ae278431c9020f87957b3b9d276",
+   "hash": "38745087161a8ae278431c9020f87957b3b9d276",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-c-2008-redistributable.html": {
-   "exact": "cb50fc63877d97e0e502c62ca231fb0c3d998558",
-   "hash": "cb50fc63877d97e0e502c62ca231fb0c3d998558",
-   "lastmod": "2026-08-28"
+   "exact": "c6981da0dd90f76ef08939f174381a67dd7d67a2",
+   "hash": "c6981da0dd90f76ef08939f174381a67dd7d67a2",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-c-2012-redistributable.html": {
-   "exact": "8ea3bf0e8f471e47aae231e85c62fdc7c649385e",
-   "hash": "8ea3bf0e8f471e47aae231e85c62fdc7c649385e",
-   "lastmod": "2026-08-28"
+   "exact": "dea7e8b14d9321dd0649445f19014f5fcb3c9f7e",
+   "hash": "dea7e8b14d9321dd0649445f19014f5fcb3c9f7e",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2010-tools-for-office-runtime.html": {
-   "exact": "b48e401311afa291417be1fd540955cb7bbb1423",
-   "hash": "b48e401311afa291417be1fd540955cb7bbb1423",
-   "lastmod": "2026-08-28"
+   "exact": "6e880a1a5950016797c156ea8aaa4b6001dc21c7",
+   "hash": "6e880a1a5950016797c156ea8aaa4b6001dc21c7",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-community.html": {
-   "exact": "356d160c5433f2bf2102efb49a37c3f18f8767a8",
-   "hash": "356d160c5433f2bf2102efb49a37c3f18f8767a8",
-   "lastmod": "2026-08-28"
+   "exact": "566d498bbe511a9b82212880104cbe6a807edb0d",
+   "hash": "566d498bbe511a9b82212880104cbe6a807edb0d",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-enterprise.html": {
-   "exact": "d1523006d985db52b883047485fa7695f378096c",
-   "hash": "d1523006d985db52b883047485fa7695f378096c",
-   "lastmod": "2026-08-28"
+   "exact": "ab12ace4dd1260954fc6401218440f688e604a4f",
+   "hash": "ab12ace4dd1260954fc6401218440f688e604a4f",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-professional.html": {
-   "exact": "b3d0347f844a2cc7111f30a69daaa40fcf3cfedd",
-   "hash": "b3d0347f844a2cc7111f30a69daaa40fcf3cfedd",
-   "lastmod": "2026-08-28"
+   "exact": "ad65aca4e519619b24cb498d614db5ad1912dc3f",
+   "hash": "ad65aca4e519619b24cb498d614db5ad1912dc3f",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "5384a4a018d0ae79dc7d5398943b4452fecbb982",
-   "hash": "5384a4a018d0ae79dc7d5398943b4452fecbb982",
-   "lastmod": "2026-08-27"
+   "exact": "7fa8e30a318d8de50ee460d434181a1dfec783fd",
+   "hash": "7fa8e30a318d8de50ee460d434181a1dfec783fd",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
-   "exact": "f54bc41cfff79913e19614b3e8289210d95b837a",
-   "hash": "f54bc41cfff79913e19614b3e8289210d95b837a",
-   "lastmod": "2026-08-28"
+   "exact": "b69e447158d6384cc14bc7d7350ee2a7f204306f",
+   "hash": "b69e447158d6384cc14bc7d7350ee2a7f204306f",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-windows-admin-center.html": {
-   "exact": "40d8b43162e69e8c693e725c59d6da9354d6401b",
-   "hash": "40d8b43162e69e8c693e725c59d6da9354d6401b",
-   "lastmod": "2026-08-27"
+   "exact": "f6ef07abe51047b659abd75161f150cf5f1ddd75",
+   "hash": "f6ef07abe51047b659abd75161f150cf5f1ddd75",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-windows-assessment-and-deployment-kit-adk-for-windows-10-update-1607.html": {
-   "exact": "19e461fbf079fd81d3cced1ee9a0e625d82d3d5f",
-   "hash": "19e461fbf079fd81d3cced1ee9a0e625d82d3d5f",
-   "lastmod": "2026-08-28"
+   "exact": "11759a72b522d5cbe1e7de55e8bb8fe76fd76775",
+   "hash": "11759a72b522d5cbe1e7de55e8bb8fe76fd76775",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-windows-assessment-and-deployment-kit-adk-for-windows-10-update-1803.html": {
-   "exact": "328afcdb77bf14150919cab4e1b565eb76b4ca36",
-   "hash": "328afcdb77bf14150919cab4e1b565eb76b4ca36",
-   "lastmod": "2026-08-28"
+   "exact": "c89c7a5e9971cd750b5bc4cb7d4b406c5df497e3",
+   "hash": "c89c7a5e9971cd750b5bc4cb7d4b406c5df497e3",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-windows-assessment-and-deployment-kit-adk-for-windows-10-update-1809.html": {
-   "exact": "faf8b6b1e0cd6a588ef3a39d35cdd614d85e0b5a",
-   "hash": "faf8b6b1e0cd6a588ef3a39d35cdd614d85e0b5a",
-   "lastmod": "2026-08-28"
+   "exact": "005d12614d34c1dcb098914442a94459bff20762",
+   "hash": "005d12614d34c1dcb098914442a94459bff20762",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-windows-assessment-and-deployment-kit-adk-for-windows-10-update-1903.html": {
-   "exact": "dc170a5281888d804be090be84d1dd35efba1a7c",
-   "hash": "dc170a5281888d804be090be84d1dd35efba1a7c",
-   "lastmod": "2026-08-28"
+   "exact": "c70d145971485566867af1a2f871ef3bf8b121cf",
+   "hash": "c70d145971485566867af1a2f871ef3bf8b121cf",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-windows-assessment-and-deployment-kit-adk-for-windows-10-update-2004.html": {
-   "exact": "f6537651b0a7cd2cb88b74a2eda0d7656f19531f",
-   "hash": "f6537651b0a7cd2cb88b74a2eda0d7656f19531f",
-   "lastmod": "2026-08-28"
+   "exact": "30041afea1162a8f7e23496314f2f547c252cfd5",
+   "hash": "30041afea1162a8f7e23496314f2f547c252cfd5",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-windows-assessment-and-deployment-kit-adk-for-windows-11.html": {
-   "exact": "27a36a2d3a1637cbeccfb970ee10165bdc6df3d0",
-   "hash": "27a36a2d3a1637cbeccfb970ee10165bdc6df3d0",
-   "lastmod": "2026-08-28"
+   "exact": "c73117879921afb66531f6d7aea5228664bfcb8c",
+   "hash": "c73117879921afb66531f6d7aea5228664bfcb8c",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-windows-desktop-runtime-6-0.html": {
-   "exact": "0bd207b08888512cbc3d6bc8e0de50f9ac01528d",
-   "hash": "0bd207b08888512cbc3d6bc8e0de50f9ac01528d",
-   "lastmod": "2026-08-28"
+   "exact": "62ce2c9a31f60705f2390c4cbda203c4b64da6f2",
+   "hash": "62ce2c9a31f60705f2390c4cbda203c4b64da6f2",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-windows-desktop-runtime-7-0.html": {
-   "exact": "72ed06ceabf32447a71e2a5c49b2ee5409d053c8",
-   "hash": "72ed06ceabf32447a71e2a5c49b2ee5409d053c8",
-   "lastmod": "2026-08-28"
+   "exact": "61972cc36b7e9c6dc9511a728b491652d34ae597",
+   "hash": "61972cc36b7e9c6dc9511a728b491652d34ae597",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-windows-pe-add-on-for-adk-for-windows-11.html": {
-   "exact": "d410b67409737b45c4ab19bf1d8cbbd4d3452b1a",
-   "hash": "d410b67409737b45c4ab19bf1d8cbbd4d3452b1a",
-   "lastmod": "2026-08-28"
+   "exact": "06946f5083019418a85686f87a79863b1c3e37d8",
+   "hash": "06946f5083019418a85686f87a79863b1c3e37d8",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/mirantis-inc-lens-desktop.html": {
    "exact": "a403a95f668350b3967ea09900ff0d03843c7d21",
@@ -31734,39 +31831,44 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-15.html": {
-   "exact": "b392f72fb4e3ad0ac9400fc60280e7f7db903926",
-   "hash": "b392f72fb4e3ad0ac9400fc60280e7f7db903926",
-   "lastmod": "2026-08-27"
+   "exact": "ff17e86503772c672d25ee6cb51dba45ccb7023e",
+   "hash": "ff17e86503772c672d25ee6cb51dba45ccb7023e",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-17.html": {
-   "exact": "785a432223eacfd333513b54d4bf06a24234d90a",
-   "hash": "785a432223eacfd333513b54d4bf06a24234d90a",
-   "lastmod": "2026-08-27"
+   "exact": "0ef3d94c8d7bb16e10e4a7d8ba3780c6800d5637",
+   "hash": "0ef3d94c8d7bb16e10e4a7d8ba3780c6800d5637",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-18-lts.html": {
-   "exact": "bf632907b56d3a9c5919e30571f96abc4dc98471",
-   "hash": "bf632907b56d3a9c5919e30571f96abc4dc98471",
-   "lastmod": "2026-08-27"
+   "exact": "622893c8fa2488df169e7907777f0a402e3e8339",
+   "hash": "622893c8fa2488df169e7907777f0a402e3e8339",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-19.html": {
-   "exact": "19218b7e3c360cd0f0b838dd085f0c00fd0e0505",
-   "hash": "19218b7e3c360cd0f0b838dd085f0c00fd0e0505",
-   "lastmod": "2026-08-27"
+   "exact": "583f35aac5a5e8662676e6fe31f79a6ea091df18",
+   "hash": "583f35aac5a5e8662676e6fe31f79a6ea091df18",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-20-lts.html": {
-   "exact": "1123323671ad89c58a1227293726db875b18c4a4",
-   "hash": "1123323671ad89c58a1227293726db875b18c4a4",
-   "lastmod": "2026-08-27"
+   "exact": "4678588d1ebf2b147941a70a80e331a6f25732f2",
+   "hash": "4678588d1ebf2b147941a70a80e331a6f25732f2",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-21.html": {
-   "exact": "b0303b499e5c281e60b26bfc6a71271032c84862",
-   "hash": "b0303b499e5c281e60b26bfc6a71271032c84862",
-   "lastmod": "2026-08-27"
+   "exact": "0d36dbf8ea5937a6a8574827f038fe2a2595f639",
+   "hash": "0d36dbf8ea5937a6a8574827f038fe2a2595f639",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-22-lts.html": {
-   "exact": "f7c186123f715c0a9fe5ae264c8c95214d756584",
-   "hash": "f7c186123f715c0a9fe5ae264c8c95214d756584",
-   "lastmod": "2026-08-27"
+   "exact": "9013296cdeac87e04473161d2b782817ca45069f",
+   "hash": "9013296cdeac87e04473161d2b782817ca45069f",
+   "lastmod": "2026-09-03"
+  },
+  "https://eam.drung.dev/apps/node-js-foundation-node-js.html": {
+   "exact": "4ef27aad0d4e622767d067f3fce7f4dd01348579",
+   "hash": "4ef27aad0d4e622767d067f3fce7f4dd01348579",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/nomachine-enterprise-client.html": {
    "exact": "3d0df285bf174179532cdc5d5ab815310a63550c",
@@ -32254,24 +32356,29 @@
    "lastmod": "2026-09-02"
   },
   "https://eam.drung.dev/apps/rstudio-1-4.html": {
-   "exact": "7f856e4d4fbb724acf22f6dd65182bd72c966475",
-   "hash": "7f856e4d4fbb724acf22f6dd65182bd72c966475",
-   "lastmod": "2026-08-27"
+   "exact": "95dadf6c22da9407325e1a385becfb3c6decd419",
+   "hash": "95dadf6c22da9407325e1a385becfb3c6decd419",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/rstudio-2022.html": {
-   "exact": "2e3ee29e284d2532540086167e6cb8e4f8adb5c6",
-   "hash": "2e3ee29e284d2532540086167e6cb8e4f8adb5c6",
-   "lastmod": "2026-08-27"
+   "exact": "ca7a6c0bd7349258f02672a30423155202f20a24",
+   "hash": "ca7a6c0bd7349258f02672a30423155202f20a24",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/rstudio-2023.html": {
-   "exact": "7346f815448a5f06884b7534e4588083f6c512d6",
-   "hash": "7346f815448a5f06884b7534e4588083f6c512d6",
-   "lastmod": "2026-08-27"
+   "exact": "53a2d17ebd51bc606944b7433207ff90abedc50f",
+   "hash": "53a2d17ebd51bc606944b7433207ff90abedc50f",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/rstudio-2024.html": {
-   "exact": "78c60ee1eb7bc9b7da7f336861fb508f33d2ef0b",
-   "hash": "78c60ee1eb7bc9b7da7f336861fb508f33d2ef0b",
-   "lastmod": "2026-08-27"
+   "exact": "db3b67870c84b006266e307f609f000cc42666a8",
+   "hash": "db3b67870c84b006266e307f609f000cc42666a8",
+   "lastmod": "2026-09-03"
+  },
+  "https://eam.drung.dev/apps/rstudio.html": {
+   "exact": "c6ee1dbe55f52d203206fb9dcdcc4fa30291e2ae",
+   "hash": "c6ee1dbe55f52d203206fb9dcdcc4fa30291e2ae",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/rystad-energy-cube-browser.html": {
    "exact": "0376652d2d56349b599b02a7e7291bb8c35ac6ae",
@@ -32694,9 +32801,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/talkdesk-inc-talkdesk.html": {
-   "exact": "05db3342d453f6451255717ffdefb1e34c567af2",
-   "hash": "05db3342d453f6451255717ffdefb1e34c567af2",
-   "lastmod": "2026-08-27"
+   "exact": "f57846b7625745a55249d60730743b4097183994",
+   "hash": "f57846b7625745a55249d60730743b4097183994",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/tarma-software-research-ltd-publish-or-perish.html": {
    "exact": "ffef1e9912e1d0dafc32ced561871351f46c5d50",
@@ -32719,9 +32826,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer-host.html": {
-   "exact": "7086a8dc8e44fe4ec8046c8d6e0668e00c93dda7",
-   "hash": "7086a8dc8e44fe4ec8046c8d6e0668e00c93dda7",
-   "lastmod": "2026-08-27"
+   "exact": "c3b17fae2b810a01ebf3bf42ef727ceecd758937",
+   "hash": "c3b17fae2b810a01ebf3bf42ef727ceecd758937",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer.html": {
    "exact": "342f4f67a30701f783c397b0275560c1fbae16bd",
@@ -33204,9 +33311,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/wireshark-foundation-wireshark.html": {
-   "exact": "edfeb84b3c155bb0da75b48ea3409a03e5782f5e",
-   "hash": "edfeb84b3c155bb0da75b48ea3409a03e5782f5e",
-   "lastmod": "2026-08-27"
+   "exact": "3bc5ab7c33f0fd3b2373b70f9b9a51e37ba97af7",
+   "hash": "3bc5ab7c33f0fd3b2373b70f9b9a51e37ba97af7",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/wix-toolset-3.html": {
    "exact": "d62751383027c796756faa1c92a112c13326aa3f",
@@ -33219,9 +33326,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/wrike-com-wrike.html": {
-   "exact": "57675c8ec933656c41ee565be6865022f2895454",
-   "hash": "57675c8ec933656c41ee565be6865022f2895454",
-   "lastmod": "2026-08-27"
+   "exact": "e9da80c12791a0003d8e0ea4b9c1704567a4dc0e",
+   "hash": "e9da80c12791a0003d8e0ea4b9c1704567a4dc0e",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/xamarin-inc-xamarin-mono.html": {
    "exact": "c30dd1a893667f3b160282d3fe1ceef929735971",
@@ -33299,9 +33406,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "cd48ca36c4b918629676f58d2219d621e64202db",
-   "hash": "cd48ca36c4b918629676f58d2219d621e64202db",
-   "lastmod": "2026-09-02"
+   "exact": "56754bf015cd1f5b48cbb78d2a79c4d1f0c28978",
+   "hash": "56754bf015cd1f5b48cbb78d2a79c4d1f0c28978",
+   "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",
