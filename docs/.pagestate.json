@@ -3950,6 +3950,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.94.117",
+      "1.94.119",
+      1
+     ]
+    ]
    }
   ],
   "brightsign-llc-brightauthor-connected": [
@@ -4340,6 +4353,19 @@
      [
       "23.8",
       "23.9",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "23.9",
+      "24.0",
       1
      ]
     ]
@@ -9197,6 +9223,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.3.3",
+      "9.5.3",
+      1
+     ]
+    ]
    }
   ],
   "elgato-stream-deck": [
@@ -12611,6 +12650,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.11.9.0",
+      "2.11.10.0",
+      1
+     ]
+    ]
    }
   ],
   "inmatrix-zoom-player": [
@@ -14690,6 +14742,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "12.9.0.3",
+      "12.9.1.1",
+      1
+     ]
+    ]
    }
   ],
   "lark-technologies-pte-ltd-lark-deployment-tool": [
@@ -14819,6 +14884,19 @@
      [
       "7.73.11",
       "7.74.22",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.74.22",
+      "7.75.20",
       1
      ]
     ]
@@ -15094,6 +15172,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.3.5692",
+      "1.3.5702",
+      1
+     ]
+    ]
    }
   ],
   "logmein-host": [
@@ -15145,6 +15236,19 @@
      [
       "4.1.16202",
       "4.1.16212",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.1.16212",
+      "4.1.16226",
       1
      ]
     ]
@@ -18275,19 +18379,6 @@
   "microsoft-visual-studio-code": [
    {
     "added": 0,
-    "date": "2026-04-22",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.116.0",
-      "1.117.0",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-04-30",
     "fields": [],
     "removed": 0,
@@ -18584,6 +18675,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.135.0",
+      "1.136.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-visual-studio-team-explorer-2022": [
@@ -18819,6 +18923,19 @@
      [
       "2026.8.190756",
       "2026.8.270956",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.8.270956",
+      "2026.9.20601",
       1
      ]
     ]
@@ -28832,7 +28949,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260903_161408_AppCatalog.json",
+ "history_through": "20260904_040332_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -28841,9 +28958,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "b525bcbe8fa269d91b0b97a3b422aa9687b90fc7",
-   "hash": "5a17b6ec4b363c1e877fb9edd554cf1b699f2459",
-   "lastmod": "2026-09-03"
+   "exact": "6c4f60ba0a63d279319fb3ad1cd96df4cef88f0f",
+   "hash": "4cca26475cf4482536dee8669a80f7a59c6f8266",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "ac66ba299424d083e08d89536ac6275d61c445f7",
@@ -29461,9 +29578,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "aca737d4c1200cf0cbaf1f7bddb3074bf43add1d",
-   "hash": "aca737d4c1200cf0cbaf1f7bddb3074bf43add1d",
-   "lastmod": "2026-09-02"
+   "exact": "e49dc31a2712160dfa1dff17d8a89414feb5b86a",
+   "hash": "e49dc31a2712160dfa1dff17d8a89414feb5b86a",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "f05b6b1175f1470b9fee50fcad7408888d0cc0c0",
@@ -29516,9 +29633,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/caphyon-advanced-installer.html": {
-   "exact": "2842333aca682e376863c08591101b9c0ebca058",
-   "hash": "2842333aca682e376863c08591101b9c0ebca058",
-   "lastmod": "2026-08-27"
+   "exact": "9ec85262a3465ca859a313071fc1d04495096122",
+   "hash": "9ec85262a3465ca859a313071fc1d04495096122",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/capture-one-20.html": {
    "exact": "367308896327672a32e0d31fb36c7d8bd092c52c",
@@ -30121,9 +30238,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/elasticsearch-b-v-beats-winlogbeat.html": {
-   "exact": "648ebd75b521725a17cef34882f7174ad814a4e5",
-   "hash": "648ebd75b521725a17cef34882f7174ad814a4e5",
-   "lastmod": "2026-08-27"
+   "exact": "7d87a26233e2556cf99f3c201a4a41005eeb98de",
+   "hash": "7d87a26233e2556cf99f3c201a4a41005eeb98de",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/elgato-stream-deck.html": {
    "exact": "c81ff840bdd2ed7160c413c44e33fa65ab0f2f3b",
@@ -30621,9 +30738,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
-   "exact": "fb15a54e49d8f7b3f6297c286d9b9c3b90f9d53b",
-   "hash": "fb15a54e49d8f7b3f6297c286d9b9c3b90f9d53b",
-   "lastmod": "2026-09-02"
+   "exact": "a0b2090b2df337182c2102f36c774dbf1a650128",
+   "hash": "a0b2090b2df337182c2102f36c774dbf1a650128",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/inkscape.html": {
    "exact": "6c650156d763368a3165c7f4b1a4dc2c4c48fbd2",
@@ -30911,14 +31028,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/lansweeper.html": {
-   "exact": "bba51c590f4066b7929e6867cdf2931420329704",
-   "hash": "bba51c590f4066b7929e6867cdf2931420329704",
-   "lastmod": "2026-08-27"
+   "exact": "98f96df25f1d28678f9678dea583502b9ca9253e",
+   "hash": "98f96df25f1d28678f9678dea583502b9ca9253e",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/lark-technologies-pte-ltd-lark-deployment-tool.html": {
-   "exact": "e2eb99720ad2a05a322f41dbfae92804f865f968",
-   "hash": "e2eb99720ad2a05a322f41dbfae92804f865f968",
-   "lastmod": "2026-08-28"
+   "exact": "f554adbf359bcd90dfcf28f95d4dc962ce07e80f",
+   "hash": "f554adbf359bcd90dfcf28f95d4dc962ce07e80f",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/lastpass.html": {
    "exact": "c376fb3fcd8abddc7939d02efb1090dbae7d9c65",
@@ -31011,9 +31128,9 @@
    "lastmod": "2026-08-29"
   },
   "https://eam.drung.dev/apps/logmein-client.html": {
-   "exact": "d896ed128b25631b180fa45fcfa5165ef1cfe4d1",
-   "hash": "d896ed128b25631b180fa45fcfa5165ef1cfe4d1",
-   "lastmod": "2026-08-27"
+   "exact": "051a3253d4aff0542ad0d12b3d6077e4cbee76bf",
+   "hash": "051a3253d4aff0542ad0d12b3d6077e4cbee76bf",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/logmein-gotomeeting-it-installer.html": {
    "exact": "86659b2f4d50c753e2f2a43296b6a45e84b4c203",
@@ -31031,9 +31148,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/logmein-host.html": {
-   "exact": "d6875236e8149818f5a03714922676daa875ba0c",
-   "hash": "d6875236e8149818f5a03714922676daa875ba0c",
-   "lastmod": "2026-08-27"
+   "exact": "c1ce178ed00680a6885a4fb4fbd3571511c5f97d",
+   "hash": "c1ce178ed00680a6885a4fb4fbd3571511c5f97d",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/logmein-remotelyanywhere.html": {
    "exact": "ee889ed68d16148c3bcbd456299822d581fa0fcc",
@@ -31571,9 +31688,9 @@
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "7fa8e30a318d8de50ee460d434181a1dfec783fd",
-   "hash": "7fa8e30a318d8de50ee460d434181a1dfec783fd",
-   "lastmod": "2026-09-03"
+   "exact": "4fccc6729a063ac7b08ff682a3e7b2a6c7d01b7d",
+   "hash": "4fccc6729a063ac7b08ff682a3e7b2a6c7d01b7d",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "b69e447158d6384cc14bc7d7350ee2a7f204306f",
@@ -31631,9 +31748,9 @@
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/mirantis-inc-lens-desktop.html": {
-   "exact": "a403a95f668350b3967ea09900ff0d03843c7d21",
-   "hash": "a403a95f668350b3967ea09900ff0d03843c7d21",
-   "lastmod": "2026-08-27"
+   "exact": "207ee972cd44be4286c4926c50aad7308e3056be",
+   "hash": "207ee972cd44be4286c4926c50aad7308e3056be",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/mitel-networks-corporation-mitel-micollab.html": {
    "exact": "2da35b7857657c5432d262f8940c00262c7e7d77",
