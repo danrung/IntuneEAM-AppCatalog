@@ -795,6 +795,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.165.0",
+      "1.166.1",
+      1
+     ]
+    ]
    }
   ],
   "amazon-aws-vpn-client": [
@@ -2139,6 +2152,19 @@
      [
       "1.124.37782.0",
       "1.125.37959.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.125.37959.0",
+      "1.125.37980.0",
       1
      ]
     ]
@@ -6520,6 +6546,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.82.3",
+      "7.83.0",
+      1
+     ]
+    ]
    }
   ],
   "david-kocher-cyberduck": [
@@ -9234,6 +9273,11 @@
       "9.3.3",
       "9.5.3",
       1
+     ],
+     [
+      "8.19.14",
+      "8.19.21",
+      1
      ]
     ]
    }
@@ -11169,6 +11213,19 @@
      [
       "2.98.0",
       "2.99.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.99.0",
+      "2.100.0",
       1
      ]
     ]
@@ -13457,6 +13514,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.4",
+      "2026.2.5",
+      1
+     ]
+    ]
    }
   ],
   "jetbrains-dataspell": [
@@ -14022,6 +14092,19 @@
      [
       "2026.1.4",
       "2026.1.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.1",
+      "2026.2.2",
       1
      ]
     ]
@@ -16267,19 +16350,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-05-08",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "148.0.3967.52",
-      "148.0.3967.54",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-16",
     "fields": [],
     "removed": 0,
@@ -16583,6 +16653,19 @@
      [
       "153.0.4234.8",
       "153.0.4234.13",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "153.0.4234.13",
+      "153.0.4234.19",
       1
      ]
     ]
@@ -17636,6 +17719,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.157.879.0",
+      "2.157.1354.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-powershell-core": [
@@ -17804,6 +17900,19 @@
      [
       "16.0.27215.12000",
       "16.0.27424.12000",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "16.0.27424.12000",
+      "16.0.27612.12000",
       1
      ]
     ]
@@ -18685,6 +18794,11 @@
      [
       "1.135.0",
       "1.136.0",
+      1
+     ],
+     [
+      "1.136.0",
+      "1.136.1",
       1
      ]
     ]
@@ -20209,6 +20323,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.66.3",
+      "0.78.0",
+      1
+     ]
+    ]
    }
   ],
   "networkmanager": [
@@ -21512,6 +21639,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.7.601",
+      "2.7.701",
+      1
+     ]
+    ]
    }
   ],
   "openvpn-technologies-inc-openvpn-connect": [
@@ -21734,6 +21874,19 @@
      [
       "6.0.3.18040",
       "7.1.0.19041",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.0.19041",
+      "7.1.1.19543",
       1
      ]
     ]
@@ -25576,6 +25729,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.9.8",
+      "26.10.2",
+      1
+     ]
+    ]
    }
   ],
   "tailscale-inc-tailscale": [
@@ -25809,6 +25975,19 @@
      [
       "15.64.7.0",
       "15.81.5.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "15.81.5.0",
+      "15.81.6.0",
       1
      ]
     ]
@@ -28949,7 +29128,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260904_040332_AppCatalog.json",
+ "history_through": "20260904_160914_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -28958,8 +29137,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "6c4f60ba0a63d279319fb3ad1cd96df4cef88f0f",
-   "hash": "4cca26475cf4482536dee8669a80f7a59c6f8266",
+   "exact": "ce73ff3ac521360fdd82192d3a78824837e52ad0",
+   "hash": "e04810d90da6085c3d1010a61a66e524a2629c6d",
    "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -29073,9 +29252,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/amazon-aws-sam-command-line-interface.html": {
-   "exact": "cffb509ef3bee528505f95deae3d219b8858ed23",
-   "hash": "cffb509ef3bee528505f95deae3d219b8858ed23",
-   "lastmod": "2026-08-27"
+   "exact": "762c1280081d75515ea0eec17443c2cece0a26cb",
+   "hash": "762c1280081d75515ea0eec17443c2cece0a26cb",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
    "exact": "5cf2bb32ca15c18fe356e981c46a181c4e8a7ef7",
@@ -29228,9 +29407,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/articulate-360.html": {
-   "exact": "98312662c90e0bf10ae6c46614328243ddd47a48",
-   "hash": "98312662c90e0bf10ae6c46614328243ddd47a48",
-   "lastmod": "2026-09-02"
+   "exact": "37f1db513709f146f9bbca2c29c727f4ad5e06e4",
+   "hash": "37f1db513709f146f9bbca2c29c727f4ad5e06e4",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/articulate-replay-360.html": {
    "exact": "20797f80c91578173ba923d8644d7d5e178225c1",
@@ -29898,9 +30077,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/datadog-agent.html": {
-   "exact": "745d09c807738818d42913f2a01e38838b9dadcd",
-   "hash": "745d09c807738818d42913f2a01e38838b9dadcd",
-   "lastmod": "2026-08-27"
+   "exact": "c02dea8873bfd8568f0759d94fd289bf04c4f139",
+   "hash": "c02dea8873bfd8568f0759d94fd289bf04c4f139",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/david-kocher-cyberduck.html": {
    "exact": "25f0fab361b2ea8780d10e7c02b7a6c216dd1fb3",
@@ -30238,8 +30417,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/elasticsearch-b-v-beats-winlogbeat.html": {
-   "exact": "7d87a26233e2556cf99f3c201a4a41005eeb98de",
-   "hash": "7d87a26233e2556cf99f3c201a4a41005eeb98de",
+   "exact": "bc60f3ac5ca205209b9aba9deff9b4170b2ae2ad",
+   "hash": "bc60f3ac5ca205209b9aba9deff9b4170b2ae2ad",
    "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/elgato-stream-deck.html": {
@@ -30518,9 +30697,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/github-inc-github-cli.html": {
-   "exact": "316c9f1ad7175ebe505ce16f2149bb6cc6829f18",
-   "hash": "316c9f1ad7175ebe505ce16f2149bb6cc6829f18",
-   "lastmod": "2026-09-03"
+   "exact": "e49cd827f20cfbd594f407e67f3d69f2454d1e9a",
+   "hash": "e49cd827f20cfbd594f407e67f3d69f2454d1e9a",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/glavsoft-llc-remote-ripple.html": {
    "exact": "49d94c0b4e9e426ba8cf4e12adb786c0f81ffad3",
@@ -30868,9 +31047,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip.html": {
-   "exact": "0fffbf85c5037297a40412cb92547dbe08bab202",
-   "hash": "0fffbf85c5037297a40412cb92547dbe08bab202",
-   "lastmod": "2026-08-27"
+   "exact": "6889ee2f3a2275a6b473a0effe4e9fae69bfcbc8",
+   "hash": "6889ee2f3a2275a6b473a0effe4e9fae69bfcbc8",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/jetbrains-dataspell.html": {
    "exact": "5b51bae1ffa48eea773c668fbd53e3d59b3d286f",
@@ -30923,9 +31102,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/jetbrains-webstorm.html": {
-   "exact": "f3babe7e076658f2b3da63eeab03b8dbc103e080",
-   "hash": "f3babe7e076658f2b3da63eeab03b8dbc103e080",
-   "lastmod": "2026-08-27"
+   "exact": "1521a4c2d0e8b01874034472cfeaeec1e144d389",
+   "hash": "1521a4c2d0e8b01874034472cfeaeec1e144d389",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/joachim-eibl-kdiff3.html": {
    "exact": "7d8add082ad981a15f992153fb09f8cebe4d1bf6",
@@ -31413,9 +31592,9 @@
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "57137676ab22f825a4327b8c4c9473e735434367",
-   "hash": "57137676ab22f825a4327b8c4c9473e735434367",
-   "lastmod": "2026-09-03"
+   "exact": "a7619905b594d38988540f0e7ec36c8746ff68d0",
+   "hash": "a7619905b594d38988540f0e7ec36c8746ff68d0",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "0ca2466c1df034b6d95c24cb66e9c70148301e9e",
@@ -31538,9 +31717,9 @@
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-power-bi-desktop.html": {
-   "exact": "582ce39776fe964100b421d50042b136cf09503c",
-   "hash": "582ce39776fe964100b421d50042b136cf09503c",
-   "lastmod": "2026-09-03"
+   "exact": "ec3e8c150fe4575b7fc283eba0d23764efff9bd6",
+   "hash": "ec3e8c150fe4575b7fc283eba0d23764efff9bd6",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/microsoft-powershell-core.html": {
    "exact": "85920d4f07ec8628223a13cf21dde59d370c2049",
@@ -31563,9 +31742,9 @@
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-sharepoint-online-management-shell.html": {
-   "exact": "ee745dea0b461ba4eaa97a1b335930edc3e9b43c",
-   "hash": "ee745dea0b461ba4eaa97a1b335930edc3e9b43c",
-   "lastmod": "2026-09-03"
+   "exact": "5d77e9e0b6709ea3a6268977e105c1c962d42b86",
+   "hash": "5d77e9e0b6709ea3a6268977e105c1c962d42b86",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/microsoft-skype-for-desktop.html": {
    "exact": "68b47df3738033f50f3f56f353cd003c36a56235",
@@ -31688,8 +31867,8 @@
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "4fccc6729a063ac7b08ff682a3e7b2a6c7d01b7d",
-   "hash": "4fccc6729a063ac7b08ff682a3e7b2a6c7d01b7d",
+   "exact": "f1bc98692d502028e28a3776f6e5c83600b78254",
+   "hash": "f1bc98692d502028e28a3776f6e5c83600b78254",
    "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
@@ -31893,9 +32072,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/netbird-gmbh-netbird.html": {
-   "exact": "30c7688d3c61ec76ce5acac28679b8c51175104f",
-   "hash": "30c7688d3c61ec76ce5acac28679b8c51175104f",
-   "lastmod": "2026-08-27"
+   "exact": "63ca8aab0ce37018568bdfac2e4f3c9640a56089",
+   "hash": "63ca8aab0ce37018568bdfac2e4f3c9640a56089",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/netsetman-gmbh-netsetman.html": {
    "exact": "4452cad32918981d8e3791d483203c293ce29657",
@@ -32083,9 +32262,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/openvpn-technologies-inc-openvpn.html": {
-   "exact": "e0ca21c7d099978032949e4a1333f8080710a18e",
-   "hash": "e0ca21c7d099978032949e4a1333f8080710a18e",
-   "lastmod": "2026-08-27"
+   "exact": "30c973255179c027d6275786d270337a8909ddee",
+   "hash": "30c973255179c027d6275786d270337a8909ddee",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/opera-software-asa-opera-one.html": {
    "exact": "f4829c43d5b799aa0161f5b5199b2fd82b89d84f",
@@ -32138,9 +32317,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/owncloud-desktop-client.html": {
-   "exact": "1854ad1a702ee2c87b630de6c5e775a297202a23",
-   "hash": "1854ad1a702ee2c87b630de6c5e775a297202a23",
-   "lastmod": "2026-08-27"
+   "exact": "270cb4ac9d870bafd3181e71de9a769b2d82b24e",
+   "hash": "270cb4ac9d870bafd3181e71de9a769b2d82b24e",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/paessler-ag-prtg-desktop.html": {
    "exact": "b2b678c6a5c2d3c9dbf7329119b145c162af646d",
@@ -32903,9 +33082,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/tableplus-inc-tableplus.html": {
-   "exact": "35634c99e614f5491ab4df91c057e610e88fb723",
-   "hash": "35634c99e614f5491ab4df91c057e610e88fb723",
-   "lastmod": "2026-08-27"
+   "exact": "2a64274002ddfea1c33cae3675d0e505f18d4da6",
+   "hash": "2a64274002ddfea1c33cae3675d0e505f18d4da6",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/tabular-editor-aps-tabular-editor-2.html": {
    "exact": "7d436321c2062b88ab61d826a748bf0cec554921",
@@ -32948,9 +33127,9 @@
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer.html": {
-   "exact": "342f4f67a30701f783c397b0275560c1fbae16bd",
-   "hash": "342f4f67a30701f783c397b0275560c1fbae16bd",
-   "lastmod": "2026-08-27"
+   "exact": "a1bd985e454eb42c50ee7e52b2efc929a39ab91b",
+   "hash": "a1bd985e454eb42c50ee7e52b2efc929a39ab91b",
+   "lastmod": "2026-09-04"
   },
   "https://eam.drung.dev/apps/techsmith-corporation-camtasia-2018.html": {
    "exact": "0c84364f2646f2c27c6fec60799f7c819001ce68",
