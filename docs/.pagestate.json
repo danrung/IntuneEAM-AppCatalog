@@ -13912,6 +13912,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.1.1",
+      "2026.2.2.1",
+      1
+     ]
+    ]
    }
   ],
   "jetbrains-intellij-idea-community": [
@@ -19895,7 +19908,7 @@
      [
       "155.0",
       "155.0.1",
-      37
+      47
      ]
     ]
    }
@@ -23458,6 +23471,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.4.0",
+      "2026.2.5.0",
+      1
+     ]
+    ]
    }
   ],
   "rev-robotics-rev-hardware-client": [
@@ -24591,6 +24617,19 @@
      [
       "12.11.5.5",
       "12.11.6.6",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "12.11.6.6",
+      "12.11.7.7",
       1
      ]
     ]
@@ -29276,7 +29315,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260905_035932_AppCatalog.json",
+ "history_through": "20260905_145748_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -29285,8 +29324,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "68bf9c9323db64a4775a1c11a573be9415396743",
-   "hash": "e2cbc04941c4a82c88d86afa155674b3d801679f",
+   "exact": "1b9e3ecd84ed2f757f6c4f9350a4fb21122a0022",
+   "hash": "aea80a724ef4a983ae60ea1cb8b7ff19f63b3329",
    "lastmod": "2026-09-05"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -31225,9 +31264,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/jetbrains-goland.html": {
-   "exact": "31561697bf8289aa0a80a67e6d9a9d7e7dce4dff",
-   "hash": "31561697bf8289aa0a80a67e6d9a9d7e7dce4dff",
-   "lastmod": "2026-08-27"
+   "exact": "1626fd672fbc98c07c0cbadb0bc557ddcddd34b0",
+   "hash": "1626fd672fbc98c07c0cbadb0bc557ddcddd34b0",
+   "lastmod": "2026-09-05"
   },
   "https://eam.drung.dev/apps/jetbrains-intellij-idea-community.html": {
    "exact": "cd8fdab011e8c8548a79e7b3ac32c2f2aaa7c6fd",
@@ -32140,8 +32179,8 @@
    "lastmod": "2026-09-02"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
-   "exact": "38c1a2506d2e35b84cd14241ee86584b3fb6699e",
-   "hash": "38c1a2506d2e35b84cd14241ee86584b3fb6699e",
+   "exact": "38454cbf7b51ed1660f9143dd01d117954bc4256",
+   "hash": "38454cbf7b51ed1660f9143dd01d117954bc4256",
    "lastmod": "2026-09-05"
   },
   "https://eam.drung.dev/apps/mozilla-frontmotion-firefox-community-edition-esr.html": {
@@ -32765,9 +32804,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/relux-informatik-ag-reluxdesktop.html": {
-   "exact": "6f877912eb7037c5b65a3828bc69aa476839d1d6",
-   "hash": "6f877912eb7037c5b65a3828bc69aa476839d1d6",
-   "lastmod": "2026-08-27"
+   "exact": "c55ecf28c046364b7641477335d74de701fa0dd4",
+   "hash": "c55ecf28c046364b7641477335d74de701fa0dd4",
+   "lastmod": "2026-09-05"
   },
   "https://eam.drung.dev/apps/rev-robotics-rev-hardware-client.html": {
    "exact": "61ac211979004df4fdd04509ccfb59dc781f21c2",
@@ -32970,9 +33009,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-goodsync-personal.html": {
-   "exact": "db16be570b856c7abf39c72338e34220dd1b00d8",
-   "hash": "db16be570b856c7abf39c72338e34220dd1b00d8",
-   "lastmod": "2026-08-27"
+   "exact": "b65261faae37d30de15b4354e1753cb7dc7b2c80",
+   "hash": "b65261faae37d30de15b4354e1753cb7dc7b2c80",
+   "lastmod": "2026-09-05"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-roboform.html": {
    "exact": "3329f65e15b10e25ca62a5f6e8efdf4543c8b118",
