@@ -1689,6 +1689,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.34.0.2800",
+      "5.34.1.2887",
+      1
+     ]
+    ]
    }
   ],
   "andrew-ziem-bleachbit": [
@@ -2266,6 +2279,19 @@
      [
       "10.2.6",
       "10.2.16",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.2.16",
+      "10.2.17",
       1
      ]
     ]
@@ -8347,6 +8373,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "31.4.2",
+      "31.4.4",
+      1
+     ]
+    ]
    }
   ],
   "drofus": [
@@ -8704,6 +8743,19 @@
      [
       "10.0.4.819",
       "10.0.5.825",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.0.5.825",
+      "10.0.6.906",
       1
      ]
     ]
@@ -11056,6 +11108,19 @@
      [
       "0.10.1",
       "0.11.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.11.2",
+      "0.11.3",
       1
      ]
     ]
@@ -22285,6 +22350,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.72.1",
+      "3.72.2",
+      1
+     ]
+    ]
    }
   ],
   "pdf-xchange-co-ltd-pdf-tools": [
@@ -24501,6 +24579,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "12.11.6.6",
+      "12.11.7.7",
+      1
+     ]
+    ]
    }
   ],
   "siber-systems-inc-goodsync-personal": [
@@ -25339,6 +25430,19 @@
      [
       "3.8.4.0",
       "3.8.6.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.8.6.0",
+      "3.8.6.1",
       1
      ]
     ]
@@ -29315,7 +29419,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260907_040556_AppCatalog.json",
+ "history_through": "20260907_173838_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -29324,9 +29428,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "993e662ce4c6139eaf5e316050cd90f009391039",
-   "hash": "aea80a724ef4a983ae60ea1cb8b7ff19f63b3329",
-   "lastmod": "2026-09-05"
+   "exact": "42ae9a94b9f06c4546d7974af3242e04f607e3bd",
+   "hash": "eda1f6c12ef3754e3989ba0031fed95d185f5ea4",
+   "lastmod": "2026-09-07"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -29509,9 +29613,9 @@
    "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/amazon-web-services-inc-amazon-workspaces.html": {
-   "exact": "0e03d93a8056dae351f5f1284b3e3482c5550755",
-   "hash": "0e03d93a8056dae351f5f1284b3e3482c5550755",
-   "lastmod": "2026-08-27"
+   "exact": "54e01c43361b725d054b242b746cbe203e00c67f",
+   "hash": "54e01c43361b725d054b242b746cbe203e00c67f",
+   "lastmod": "2026-09-07"
   },
   "https://eam.drung.dev/apps/andrew-ziem-bleachbit.html": {
    "exact": "0c92f427064669dcb15e66b2b891cfe9f06db1fb",
@@ -29629,9 +29733,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/atlassian-inc-atlassian-confluence.html": {
-   "exact": "996b5adba3b9671c4ac68d4e97cdb30370016ed3",
-   "hash": "996b5adba3b9671c4ac68d4e97cdb30370016ed3",
-   "lastmod": "2026-09-02"
+   "exact": "572abf72d51bd9f3eb2618e7c9ab6a4bc1f02a4b",
+   "hash": "572abf72d51bd9f3eb2618e7c9ab6a4bc1f02a4b",
+   "lastmod": "2026-09-07"
   },
   "https://eam.drung.dev/apps/atomi-systems-inc-atomi-systems-activepresenter.html": {
    "exact": "dcc8c0b728559057962be6fd479bf55cf10012f2",
@@ -30419,9 +30523,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/draw-io-desktop.html": {
-   "exact": "9af45f9a2a9b772b13ee865b0c904e165f78c820",
-   "hash": "9af45f9a2a9b772b13ee865b0c904e165f78c820",
-   "lastmod": "2026-09-05"
+   "exact": "db81e611b1706c57e26c842107dc7ba64645880a",
+   "hash": "db81e611b1706c57e26c842107dc7ba64645880a",
+   "lastmod": "2026-09-07"
   },
   "https://eam.drung.dev/apps/drofus.html": {
    "exact": "c5d4679d1129e03484f62487c5e7a58ae7f7dfa0",
@@ -30444,9 +30548,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/duong-dieu-phap-imageglass.html": {
-   "exact": "0a0d405df70495b5c56f862b6242ddec28521b58",
-   "hash": "0a0d405df70495b5c56f862b6242ddec28521b58",
-   "lastmod": "2026-08-27"
+   "exact": "35c149889908d258b78d2c12b1cfa269ae9fa898",
+   "hash": "35c149889908d258b78d2c12b1cfa269ae9fa898",
+   "lastmod": "2026-09-07"
   },
   "https://eam.drung.dev/apps/dutchview-flexwhere-for-desktop.html": {
    "exact": "a1e6876ec4dcc58ce37cc2b70e3b5d89b2abbc79",
@@ -30864,9 +30968,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/gephi.html": {
-   "exact": "e390f2ec571ffb83fd21343b9da5ce5d0bfd509f",
-   "hash": "e390f2ec571ffb83fd21343b9da5ce5d0bfd509f",
-   "lastmod": "2026-08-27"
+   "exact": "9a276ef147df2623c2388e71447b54a44225cef0",
+   "hash": "9a276ef147df2623c2388e71447b54a44225cef0",
+   "lastmod": "2026-09-07"
   },
   "https://eam.drung.dev/apps/gerardo-grignoli-gsudo.html": {
    "exact": "6ff6e71e7fcd34bbfa3f776eaf744c830e676841",
@@ -32559,9 +32663,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/password-safe-3.html": {
-   "exact": "242d23bd538451baa8c5aa2dd53b0b76722c7a7c",
-   "hash": "242d23bd538451baa8c5aa2dd53b0b76722c7a7c",
-   "lastmod": "2026-08-27"
+   "exact": "090421d2d27c93f7ccdf3e10511a4f3e0cff9369",
+   "hash": "090421d2d27c93f7ccdf3e10511a4f3e0cff9369",
+   "lastmod": "2026-09-07"
   },
   "https://eam.drung.dev/apps/pausit-ab-pausit-launcher.html": {
    "exact": "883a2fd8d968b51303fbc1d94107d363d2f156bd",
@@ -33004,9 +33108,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-goodsync-12.html": {
-   "exact": "b50e8adfeca036309f89d9334a912cc14f32b0bb",
-   "hash": "b50e8adfeca036309f89d9334a912cc14f32b0bb",
-   "lastmod": "2026-08-27"
+   "exact": "e3e4e6ab6ad8dbcd615e41179f8057319e1416df",
+   "hash": "e3e4e6ab6ad8dbcd615e41179f8057319e1416df",
+   "lastmod": "2026-09-07"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-goodsync-personal.html": {
    "exact": "b65261faae37d30de15b4354e1753cb7dc7b2c80",
@@ -33154,9 +33258,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/splashtop-inc-splashtop-business.html": {
-   "exact": "e9d6e3804fc01ead51dc8c53f286957eea2805b3",
-   "hash": "e9d6e3804fc01ead51dc8c53f286957eea2805b3",
-   "lastmod": "2026-08-27"
+   "exact": "aaec0919dd89867fe62317633651cac63bcce4c4",
+   "hash": "aaec0919dd89867fe62317633651cac63bcce4c4",
+   "lastmod": "2026-09-07"
   },
   "https://eam.drung.dev/apps/squirrels-airparrot-2.html": {
    "exact": "7b3321a154982b009d87862be353aee95c077f3e",
