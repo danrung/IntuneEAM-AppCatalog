@@ -4775,6 +4775,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "46.9.0.35771",
+      "46.9.0.35800",
+      2
+     ]
+    ]
    }
   ],
   "cisco-systems-inc-duo-desktop": [
@@ -5011,6 +5024,19 @@
      [
       "46.8.0.35631",
       "46.9.0.35771",
+      2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "46.9.0.35771",
+      "46.9.0.35800",
       2
      ]
     ]
@@ -23032,6 +23058,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.2.1",
+      "4.2.2",
+      1
+     ]
+    ]
    }
   ],
   "qgis-ltr": [
@@ -29460,7 +29499,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260908_040730_AppCatalog.json",
+ "history_through": "20260908_162635_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -29469,8 +29508,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "42ff96f2bd3a93c97a2faf793895d002f3f43b7e",
-   "hash": "5eafb956a7c537b14bb60e03b0ef78d8a6947629",
+   "exact": "54c9cf2726c3ebb8671c7260ce452f0ff6bb9fd0",
+   "hash": "99434c4d39f5ddc7300a4d5f798e13695d3d2e43",
    "lastmod": "2026-09-08"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -30214,9 +30253,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cisco-systems-inc-cisco-webex-teams.html": {
-   "exact": "95f6f26a0d8b0bdb7f29dd250c10fbc33da10eae",
-   "hash": "95f6f26a0d8b0bdb7f29dd250c10fbc33da10eae",
-   "lastmod": "2026-09-02"
+   "exact": "7a61f1f7c1f8d7600ff516a57461bea71b172281",
+   "hash": "7a61f1f7c1f8d7600ff516a57461bea71b172281",
+   "lastmod": "2026-09-08"
   },
   "https://eam.drung.dev/apps/cisco-systems-inc-duo-desktop.html": {
    "exact": "245fdf15334be5427d68f0fdbd9a5268272a3589",
@@ -30224,9 +30263,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cisco-webex-llc-cisco-webex-meetings.html": {
-   "exact": "0875898917399a87b5532e5be309996ba99d6c8d",
-   "hash": "0875898917399a87b5532e5be309996ba99d6c8d",
-   "lastmod": "2026-09-02"
+   "exact": "6efde62e7cd256ccb493d26bb598752831631a81",
+   "hash": "6efde62e7cd256ccb493d26bb598752831631a81",
+   "lastmod": "2026-09-08"
   },
   "https://eam.drung.dev/apps/cisco-webex-llc-cisco-webex-productivity-tools.html": {
    "exact": "8b4edce157b85336741b030f3e0dfef014599b64",
@@ -32879,9 +32918,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/qgis.html": {
-   "exact": "027302368a180d5cce3f321f45eb199e99fad055",
-   "hash": "027302368a180d5cce3f321f45eb199e99fad055",
-   "lastmod": "2026-08-27"
+   "exact": "0f2c748a8a2c5c2a30ebe586ecc490305da36da6",
+   "hash": "0f2c748a8a2c5c2a30ebe586ecc490305da36da6",
+   "lastmod": "2026-09-08"
   },
   "https://eam.drung.dev/apps/qnap-qsync.html": {
    "exact": "fa114c180e4a6e12fddc5340fc9b6696b60916a7",

@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20260908_040730_AppCatalog.json` (exported 2026-09-08 04:07:30)  
-> **vs:** `20260907_173838_AppCatalog.json` (exported 2026-09-07 17:38:38)  
-> **Span:** 10 hours between exports  
-> **Generated:** 2026-09-08 04:08 UTC
+> **Comparing:** `20260908_162635_AppCatalog.json` (exported 2026-09-08 16:26:35)  
+> **vs:** `20260908_040730_AppCatalog.json` (exported 2026-09-08 04:07:30)  
+> **Span:** 12 hours between exports  
+> **Generated:** 2026-09-08 16:27 UTC
 
 ## Summary
 
@@ -11,13 +11,15 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 3 |
+| 🔄 Updated | 5 |
 
-## 🔄 Updated (3 packages)
+## 🔄 Updated (5 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.88.1.237512` | `4.90.0.238679` | Version |
-| PlanGrid, Inc. | PlanGrid | PlanGrid | `1.125.0.16107` | `1.126.0.463` | Version |
-| Zandar Labs SL | Aptakube | Aptakube | `1.19.6` | `1.19.7` | Version |
+| Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
+| Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
+| Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
+| Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
+| QGIS | QGIS | QGIS (x64) | `4.2.1` | `4.2.2` | Version |
 
