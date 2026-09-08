@@ -7890,6 +7890,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.88.1.237512",
+      "4.90.0.238679",
+      1
+     ]
+    ]
    }
   ],
   "don-ho-notepad": [
@@ -22503,6 +22516,21 @@
     ]
    }
   ],
+  "plangrid-inc-plangrid": [
+   {
+    "added": 0,
+    "date": "2026-09-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.125.0.16107",
+      "1.126.0.463",
+      1
+     ]
+    ]
+   }
+  ],
   "plex-media-server": [
    {
     "added": 0,
@@ -28973,6 +29001,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.19.6",
+      "1.19.7",
+      1
+     ]
+    ]
    }
   ],
   "zello-inc-zello": [
@@ -29419,7 +29460,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260907_173838_AppCatalog.json",
+ "history_through": "20260908_040730_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -29428,9 +29469,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "42ae9a94b9f06c4546d7974af3242e04f607e3bd",
-   "hash": "eda1f6c12ef3754e3989ba0031fed95d185f5ea4",
-   "lastmod": "2026-09-07"
+   "exact": "42ff96f2bd3a93c97a2faf793895d002f3f43b7e",
+   "hash": "5eafb956a7c537b14bb60e03b0ef78d8a6947629",
+   "lastmod": "2026-09-08"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -30498,9 +30539,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/docker-inc-docker-desktop.html": {
-   "exact": "49b6c28d3af7047ece9d14baa0697be876c132f7",
-   "hash": "49b6c28d3af7047ece9d14baa0697be876c132f7",
-   "lastmod": "2026-08-27"
+   "exact": "d670e62c1261d3278ec668a35b4e98a8bf49610d",
+   "hash": "d670e62c1261d3278ec668a35b4e98a8bf49610d",
+   "lastmod": "2026-09-08"
   },
   "https://eam.drung.dev/apps/dominik-reichl-keepass-password-safe-classic-edition.html": {
    "exact": "2a807271e957308f0916a349a0605a10e79b777e",
@@ -32733,9 +32774,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/plangrid-inc-plangrid.html": {
-   "exact": "b88c6e260cd731b349ffe58889b46e492d9b7fb7",
-   "hash": "b88c6e260cd731b349ffe58889b46e492d9b7fb7",
-   "lastmod": "2026-08-27"
+   "exact": "8e02407605c3d85c5d5fa26cf6862761e90f0933",
+   "hash": "8e02407605c3d85c5d5fa26cf6862761e90f0933",
+   "lastmod": "2026-09-08"
   },
   "https://eam.drung.dev/apps/plex-media-player.html": {
    "exact": "826264b782498c4de289ce56a22e69597d48ecee",
@@ -33993,9 +34034,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "56754bf015cd1f5b48cbb78d2a79c4d1f0c28978",
-   "hash": "56754bf015cd1f5b48cbb78d2a79c4d1f0c28978",
-   "lastmod": "2026-09-03"
+   "exact": "2827994eafaacd0cbd372ffd80cb35361d4a9a3d",
+   "hash": "2827994eafaacd0cbd372ffd80cb35361d4a9a3d",
+   "lastmod": "2026-09-08"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",
