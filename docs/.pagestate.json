@@ -2295,6 +2295,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.2.17",
+      "10.2.18",
+      1
+     ],
+     [
+      "9.2.24",
+      "9.2.25",
+      1
+     ]
+    ]
    }
   ],
   "atostek-oy-atostek-id": [
@@ -4033,6 +4051,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.94.119",
+      "1.94.121",
+      1
+     ]
+    ]
    }
   ],
   "brightsign-llc-brightauthor-connected": [
@@ -4369,6 +4400,19 @@
      [
       "2.2.6",
       "2.3.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.3.0",
+      "2.3.1",
       1
      ]
     ]
@@ -4861,6 +4905,19 @@
      [
       "7.19.0.0",
       "7.20.0.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.20.0.0",
+      "7.21.0.0",
       1
      ]
     ]
@@ -5691,19 +5748,6 @@
   "coolutils-mail-viewer": [
    {
     "added": 0,
-    "date": "2026-05-06",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.0.9610.34127",
-      "1.0.9621.26752",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-08",
     "fields": [],
     "removed": 0,
@@ -5997,6 +6041,19 @@
      [
       "7.1.9735.40371",
       "7.1.9743.36606",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9743.36606",
+      "7.1.9747.33336",
       1
      ]
     ]
@@ -6911,6 +6968,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.1.0",
+      "26.2.0",
+      1
+     ]
+    ]
    }
   ],
   "dbeaver-corp-dbeaver-lite": [
@@ -6933,6 +7003,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.1.0",
+      "26.2.0",
+      1
+     ]
+    ]
    }
   ],
   "dbeaver-corp-dbeaver-ultimate": [
@@ -6952,6 +7035,19 @@
      [
       "26.0.0",
       "26.1.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.1.0",
+      "26.2.0",
       1
      ]
     ]
@@ -9945,6 +10041,19 @@
      [
       "11.31.5",
       "11.32.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.32.5",
+      "11.33.5",
       1
      ]
     ]
@@ -18675,19 +18784,6 @@
   "microsoft-visual-studio-code": [
    {
     "added": 0,
-    "date": "2026-04-30",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.117.0",
-      "1.118.1",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-06",
     "fields": [],
     "removed": 0,
@@ -18986,6 +19082,19 @@
      [
       "1.136.0",
       "1.136.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.136.1",
+      "1.136.2",
       1
      ]
     ]
@@ -20329,6 +20438,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.7.4.260706075",
+      "4.7.5.260831071",
+      1
+     ]
+    ]
    }
   ],
   "mythicsoft-ltd-agent-ransack": [
@@ -20408,6 +20530,19 @@
      [
       "3.4.2",
       "3.4.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.4.3",
+      "3.5.0",
       1
      ]
     ]
@@ -20693,6 +20828,19 @@
      [
       "1.80.1",
       "1.80.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.80.2",
+      "1.80.3",
       1
      ]
     ]
@@ -21618,6 +21766,19 @@
      [
       "3.20.5",
       "3.21.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.21.0",
+      "3.21.1",
       1
      ]
     ]
@@ -29499,7 +29660,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260908_162635_AppCatalog.json",
+ "history_through": "20260909_041426_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -29508,9 +29669,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "54c9cf2726c3ebb8671c7260ce452f0ff6bb9fd0",
-   "hash": "99434c4d39f5ddc7300a4d5f798e13695d3d2e43",
-   "lastmod": "2026-09-08"
+   "exact": "6705518beda0dc75e66f82acff47d2ed2d1b1425",
+   "hash": "f0de0cc9bce33ef1d18c622a8c5e75cd07d5a183",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -29813,9 +29974,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/atlassian-inc-atlassian-confluence.html": {
-   "exact": "572abf72d51bd9f3eb2618e7c9ab6a4bc1f02a4b",
-   "hash": "572abf72d51bd9f3eb2618e7c9ab6a4bc1f02a4b",
-   "lastmod": "2026-09-07"
+   "exact": "d2411a816fa1401a2678b180e5654ed0b7f8e799",
+   "hash": "d2411a816fa1401a2678b180e5654ed0b7f8e799",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/atomi-systems-inc-atomi-systems-activepresenter.html": {
    "exact": "dcc8c0b728559057962be6fd479bf55cf10012f2",
@@ -30128,9 +30289,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "e49dc31a2712160dfa1dff17d8a89414feb5b86a",
-   "hash": "e49dc31a2712160dfa1dff17d8a89414feb5b86a",
-   "lastmod": "2026-09-04"
+   "exact": "09a01930086edb98a8b83ea8a70f6c9152474c77",
+   "hash": "09a01930086edb98a8b83ea8a70f6c9152474c77",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "f05b6b1175f1470b9fee50fcad7408888d0cc0c0",
@@ -30168,9 +30329,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cake-com-inc-clockify.html": {
-   "exact": "2b65844c7a6b30f0515987314930327e45e83394",
-   "hash": "2b65844c7a6b30f0515987314930327e45e83394",
-   "lastmod": "2026-09-03"
+   "exact": "cd284004b3134af497ba79179b9a31a3c3c69c20",
+   "hash": "cd284004b3134af497ba79179b9a31a3c3c69c20",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/calibrite-profiler.html": {
    "exact": "f481623386bb678d224124d8e39bec0d2dc96346",
@@ -30258,9 +30419,9 @@
    "lastmod": "2026-09-08"
   },
   "https://eam.drung.dev/apps/cisco-systems-inc-duo-desktop.html": {
-   "exact": "245fdf15334be5427d68f0fdbd9a5268272a3589",
-   "hash": "245fdf15334be5427d68f0fdbd9a5268272a3589",
-   "lastmod": "2026-08-27"
+   "exact": "ff3002af968fabeaa5c011ea7ad366cdfc557220",
+   "hash": "ff3002af968fabeaa5c011ea7ad366cdfc557220",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/cisco-webex-llc-cisco-webex-meetings.html": {
    "exact": "6efde62e7cd256ccb493d26bb598752831631a81",
@@ -30388,9 +30549,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "ad4b6abccb1be409461a5b67c8dc942f15d63394",
-   "hash": "ad4b6abccb1be409461a5b67c8dc942f15d63394",
-   "lastmod": "2026-09-05"
+   "exact": "06f27b087459b9540167a0473e380ed926b046a9",
+   "hash": "06f27b087459b9540167a0473e380ed926b046a9",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "f78fe4c0342308dbaaa7f535dbdf2a11148510b4",
@@ -30473,19 +30634,19 @@
    "lastmod": "2026-08-31"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-enterprise.html": {
-   "exact": "e7574354f73349e17a1f68b120767a992f837547",
-   "hash": "e7574354f73349e17a1f68b120767a992f837547",
-   "lastmod": "2026-08-27"
+   "exact": "d417aa08f6a83a82e917e21fa74f9bd13e32c017",
+   "hash": "d417aa08f6a83a82e917e21fa74f9bd13e32c017",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-lite.html": {
-   "exact": "73640a51ec4449b63b3ce7396bad18b312d9b872",
-   "hash": "73640a51ec4449b63b3ce7396bad18b312d9b872",
-   "lastmod": "2026-08-27"
+   "exact": "9fb2b8697465a52cec789a2bea9b1207c7dfcd4c",
+   "hash": "9fb2b8697465a52cec789a2bea9b1207c7dfcd4c",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-ultimate.html": {
-   "exact": "39faf9b0e62cbbb06546601e1fd213019d1de93a",
-   "hash": "39faf9b0e62cbbb06546601e1fd213019d1de93a",
-   "lastmod": "2026-08-27"
+   "exact": "8c16a52fdd281ba5226b328d1239c863f9dc9dcc",
+   "hash": "8c16a52fdd281ba5226b328d1239c863f9dc9dcc",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/dbvis-software-ab-dbvisualizer.html": {
    "exact": "af5295f7d514319c3422378dfe0a5536aced9376",
@@ -30853,9 +31014,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/evernote.html": {
-   "exact": "69af25d7b5d37ae95bbe92ca5c82d45d53debde7",
-   "hash": "69af25d7b5d37ae95bbe92ca5c82d45d53debde7",
-   "lastmod": "2026-09-02"
+   "exact": "ac6adcc2558f418b3dcfdd8666a7ea8edaf9e5f6",
+   "hash": "ac6adcc2558f418b3dcfdd8666a7ea8edaf9e5f6",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/exacq-technologies-exacqvision-client.html": {
    "exact": "9bc9aa9a57d835275ffde248e48402a5fc05e834",
@@ -32238,9 +32399,9 @@
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "f1bc98692d502028e28a3776f6e5c83600b78254",
-   "hash": "f1bc98692d502028e28a3776f6e5c83600b78254",
-   "lastmod": "2026-09-04"
+   "exact": "72d17d7a095c29863499826430c0b76fb88abb86",
+   "hash": "72d17d7a095c29863499826430c0b76fb88abb86",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "b69e447158d6384cc14bc7d7350ee2a7f204306f",
@@ -32403,9 +32564,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/musescore-studio-4.html": {
-   "exact": "27c810a0330861775d4eafe4b42ca2a72bc4d179",
-   "hash": "27c810a0330861775d4eafe4b42ca2a72bc4d179",
-   "lastmod": "2026-08-27"
+   "exact": "a44c49374c0a417f7799b914535c4cd819c005f4",
+   "hash": "a44c49374c0a417f7799b914535c4cd819c005f4",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/mythicsoft-ltd-agent-ransack.html": {
    "exact": "3ae75e4ca5fb4813cbb7375f04c00c89c9769739",
@@ -32413,9 +32574,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/nagios-enterprises-ncpa.html": {
-   "exact": "d2a01c76c3f5693e44b52a8e0ceed9f42b91ea05",
-   "hash": "d2a01c76c3f5693e44b52a8e0ceed9f42b91ea05",
-   "lastmod": "2026-08-27"
+   "exact": "5ec022933f1a602762af491ce74b0012eb329a4c",
+   "hash": "5ec022933f1a602762af491ce74b0012eb329a4c",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/national-taxation-bureau-taiwan-business-tax-software-blr.html": {
    "exact": "65ddb379fd741d16b9f1d0d64c49accda175be7f",
@@ -32458,9 +32619,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/new-relic-inc-new-relic-infrastructure-agent.html": {
-   "exact": "4f3e7b9fac1272ac1ee34e621f60af38b6f68b7d",
-   "hash": "4f3e7b9fac1272ac1ee34e621f60af38b6f68b7d",
-   "lastmod": "2026-09-03"
+   "exact": "1a6b7e5a82b2340c7aa62aaace2165477b3e7102",
+   "hash": "1a6b7e5a82b2340c7aa62aaace2165477b3e7102",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/nextcloud.html": {
    "exact": "15bf48a708bbc4b5548e1439847f3bd3f079ba88",
@@ -32588,9 +32749,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ocenaudio.html": {
-   "exact": "0b20b839ff2cd07852d087a37350245ddf24dbfc",
-   "hash": "0b20b839ff2cd07852d087a37350245ddf24dbfc",
-   "lastmod": "2026-09-03"
+   "exact": "1fa7844da7e9caee052d33f73389300f5250ef08",
+   "hash": "1fa7844da7e9caee052d33f73389300f5250ef08",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/oleg-shparber-zeal.html": {
    "exact": "360faffaba5d3db4596882b2d9c6b58b07871725",
