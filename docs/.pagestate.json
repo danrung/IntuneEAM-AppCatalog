@@ -8521,6 +8521,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "31.4.4",
+      "31.4.5",
+      1
+     ]
+    ]
    }
   ],
   "drofus": [
@@ -29660,7 +29673,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260909_041426_AppCatalog.json",
+ "history_through": "20260909_162303_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -29669,8 +29682,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "6705518beda0dc75e66f82acff47d2ed2d1b1425",
-   "hash": "f0de0cc9bce33ef1d18c622a8c5e75cd07d5a183",
+   "exact": "550de8f15356ac9b1434b009d68c5c6688356857",
+   "hash": "af9cfbc552e0d1edfe6388ac03621d9ff79b48bd",
    "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -30764,9 +30777,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/draw-io-desktop.html": {
-   "exact": "db81e611b1706c57e26c842107dc7ba64645880a",
-   "hash": "db81e611b1706c57e26c842107dc7ba64645880a",
-   "lastmod": "2026-09-07"
+   "exact": "b1020ff6de72133aa76496a4ad0108f417a460aa",
+   "hash": "b1020ff6de72133aa76496a4ad0108f417a460aa",
+   "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/drofus.html": {
    "exact": "c5d4679d1129e03484f62487c5e7a58ae7f7dfa0",

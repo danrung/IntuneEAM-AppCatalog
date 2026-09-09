@@ -1,9 +1,9 @@
 # Catalog Changes — Daily (≥1 day apart)
 
-> **Comparing:** `20260909_041426_AppCatalog.json` (exported 2026-09-09 04:14:26)  
+> **Comparing:** `20260909_162303_AppCatalog.json` (exported 2026-09-09 16:23:03)  
 > **vs:** `20260908_040730_AppCatalog.json` (exported 2026-09-08 04:07:30)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-09-09 04:14 UTC
+> **Generated:** 2026-09-09 16:23 UTC
 
 ## Summary
 
@@ -11,9 +11,9 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 20 |
+| 🔄 Updated | 21 |
 
-## 🔄 Updated (20 packages)
+## 🔄 Updated (21 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -21,8 +21,8 @@
 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 9.2 (LTS) | `9.2.24` | `9.2.25` | Version |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.94.119` | `1.94.121` | Version |
 | Cake.com Inc. | Clockify | Clockify | `2.3.0` | `2.3.1` | Version |
-| Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
+| Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
 | Cisco Systems, Inc. | Duo Desktop | Duo Desktop | `7.20.0.0` | `7.21.0.0` | Version |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
@@ -30,6 +30,7 @@
 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.1.0` | `26.2.0` | Version |
 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.1.0` | `26.2.0` | Version |
 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.1.0` | `26.2.0` | Version |
+| draw.io | draw.io Desktop | draw.io Desktop | `31.4.4` | `31.4.5` | Version |
 | Evernote | Evernote | Evernote | `11.32.5` | `11.33.5` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.136.1` | `1.136.2` | Version |
 | MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.7.4.260706075` | `4.7.5.260831071` | Version |
