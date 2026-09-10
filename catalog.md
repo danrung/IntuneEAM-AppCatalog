@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260909_162303_AppCatalog.json` (exported 2026-09-09 16:23:03)  
-> **Generated:** 2026-09-09 16:23 UTC  
+> **Source:** `20260910_041123_AppCatalog.json` (exported 2026-09-10 04:11:23)  
+> **Generated:** 2026-09-10 04:11 UTC  
 > **Total:** 1,588 packages · 931 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -296,7 +296,7 @@
 | 288 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8` | x64 | ❌ | en-US |
 | 289 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8` | x64 | ❌ | en-US |
 | 290 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
-| 291 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.8.1` | x64 | ❌ | en-US |
+| 291 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.9.0` | x64 | ❌ | en-US |
 | 292 | draw.io | draw.io Desktop | draw.io Desktop | `31.4.5` | x64 | ✅ | en-US |
 | 293 | dRofus | dRofus | dRofus | `2.18.16.0` | x86,x64 | ❌ | en-US |
 | 294 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `268.4.4124` | x64 | ✅ | en-US |
@@ -646,8 +646,8 @@
 | 638 | Microsoft | Microsoft .NET Core 2.2 | .NET Core Runtime 2.2 (x64) | `2.2.8.28209` | x64 | ❌ | en-US |
 | 639 | Microsoft | Microsoft .NET Runtime 6.0 | .NET Runtime 6.0 (x64) | `6.0.36.34214` | x64 | ❌ | en-US |
 | 640 | Microsoft | Microsoft .NET Runtime 7.0 | .NET Runtime 7.0 (x64) | `7.0.20.33717` | x64 | ❌ | en-US |
-| 641 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2426.37308` | x64 | ❌ | en-US |
-| 642 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.317` | x64 | ❌ | en-US |
+| 641 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2526.42109` | x64 | ❌ | en-US |
+| 642 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.318` | x64 | ❌ | en-US |
 | 643 | Microsoft | Microsoft Access Database Engine 2016 | Access Database Engine 2016 (x64) | `16.0.5044.1000` | x64 | ❌ | en-US |
 | 644 | Microsoft | Microsoft Active Directory Rights Management Service Client | Active Directory Rights Management Service Client 2.1 (x64) | `1.0.4114.0` | x64 | ❌ | en-US |
 | 645 | Microsoft | Microsoft Analysis Management Objects | Microsoft Analysis Management Objects | `16.0.5627.0` | x64 | ❌ | en-US |
@@ -758,7 +758,7 @@
 | 750 | Microsoft | Microsoft SQL Server Management Studio 20 | SQL Server Management Studio 20 (Portuguese Brazil) | `20.2.37.0` | x64 | ✅ | pt-BR |
 | 751 | Microsoft | Microsoft SQL Server Management Studio 20 | SQL Server Management Studio 20 (English) | `20.2.37.0` | x64 | ✅ | en-US |
 | 752 | Microsoft | Microsoft SQL Server Management Studio 20 | SQL Server Management Studio 20 (Spanish) | `20.2.37.0` | x64 | ✅ | es |
-| 753 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.9.2` | x64 | ✅ | en-US |
+| 753 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.10.0` | x64 | ✅ | en-US |
 | 754 | Microsoft | Microsoft Surface Data Eraser | Microsoft Surface Data Eraser | `3.54.139.0` | x86,x64 | ❌ | en-US |
 | 755 | Microsoft | Microsoft Surface Diagnostic Toolkit for Business | Microsoft Surface Diagnostic Toolkit for Business (x64) | `2.239.139.0` | x64 | ❌ | en-US |
 | 756 | Microsoft | Microsoft System CLR Types for SQL Server 2014 | Microsoft System CLR Types for SQL Server 2014 (x64) | `12.0.2402.11` | x64 | ❌ | en-US |
@@ -768,7 +768,7 @@
 | 760 | Microsoft | Microsoft Visual C++ 2008 Redistributable | Microsoft Visual C++ 2008 Redistributable (x64) | `9.0.30729.6161` | x64 | ❌ | en-US |
 | 761 | Microsoft | Microsoft Visual C++ 2012 Redistributable | Microsoft Visual C++ 2012 Redistributable (x64) | `11.0.61030.0` | x64 | ❌ | en-US |
 | 762 | Microsoft | Microsoft Visual Studio 2010 Tools for Office Runtime | Visual Studio 2010 Tools for Office Runtime (x64) | `10.0.60917.00` | x64 | ❌ | en-US |
-| 763 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37614.0` | x64 | ❌ | en-US |
+| 763 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37628.2` | x64 | ❌ | en-US |
 | 764 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 765 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37614.0` | x64 | ❌ | en-US |
 | 766 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
@@ -779,14 +779,14 @@
 | 771 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 772 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 773 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
-| 774 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 775 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
-| 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37614.0` | x64 | ❌ | en-US |
+| 774 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37628.2` | x64 | ❌ | en-US |
+| 775 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
+| 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
+| 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
 | 778 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
 | 779 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 780 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.136.2` | x64 | ✅ | en-US |
-| 781 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37614.0` | x64 | ❌ | en-US |
+| 781 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37628.2` | x64 | ❌ | en-US |
 | 782 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 783 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
 | 784 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1803 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1803 | `10.1.17134.1` | x86,x64 | ❌ | en-US |
@@ -1118,7 +1118,7 @@
 | 1110 | NVIDIA | NVIDIA GeForce Experience | NVIDIA GeForce Experience | `11.0.1.163` | x64 | ✅ | en-US |
 | 1111 | NWEA | NWEA Secure Testing Browser | NWEA Secure Testing Browser | `5.4.405.0` | x86,x64 | ❌ | en-US |
 | 1112 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.12.4` | x64 | ❌ | en-US |
-| 1113 | ocenaudio | ocenaudio | ocenaudio | `3.21.1` | x64 | ❌ | en-US |
+| 1113 | ocenaudio | ocenaudio | ocenaudio | `3.21.2` | x64 | ❌ | en-US |
 | 1114 | Oleg Shparber | Zeal | Zeal (x64) | `0.9.1` | x64 | ❌ | en-US |
 | 1115 | Ontotext | GraphDB Desktop | GraphDB Desktop | `10.8.4` | x64 | ❌ | en-US |
 | 1116 | openaudible.org | OpenAudible | OpenAudible | `4.8.8` | x64 | ❌ | en-US |
@@ -1138,7 +1138,7 @@
 | 1130 | Oracle | Oracle MySQL Connector NET 8 | MySQL Connector NET 8.0 | `8.0.33.1` | x86,x64 | ❌ | en-US |
 | 1131 | Oracle | Oracle MySQL Connector NET 9 | MySQL Connector NET 9 | `9.7.0` | x86,x64 | ❌ | en-US |
 | 1132 | Oracle | Oracle MySQL Installer 8 | MySQL Installer 8 for Windows | `8.0.46.0` | x86,x64 | ❌ | en-US |
-| 1133 | Orica Limited | SHOTPlus 6 | SHOTPlus 6 | `6.26.1.0` | x86,x64 | ❌ | en-US |
+| 1133 | Orica Limited | SHOTPlus 6 | SHOTPlus 6 | `6.27.1.0` | x86,x64 | ❌ | en-US |
 | 1134 | Orica Limited | SHOTPlus Tunnel | SHOTPlus Tunnel | `2.24.1.0` | x86,x64 | ❌ | en-US |
 | 1135 | Orica Limited | SHOTPlus Underground | SHOTPlus Underground | `2.10.1.0` | x86,x64 | ❌ | en-US |
 | 1136 | ownCloud | ownCloud Desktop Client | ownCloud Desktop Client (x64) | `7.1.1.19543` | x64 | ❌ | en-US |
@@ -1500,8 +1500,8 @@
 | 1492 | typora.io | Typora | Typora (x64) | `1.14.9` | x64 | ❌ | en-US |
 | 1493 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.13.0` | x64 | ❌ | en-US |
 | 1494 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | x64 | ❌ | en-US |
-| 1495 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.4` | x64 | ❌ | en-US |
-| 1496 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.2` | x64 | ❌ | en-US |
+| 1495 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.9` | x64 | ❌ | en-US |
+| 1496 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.9` | x64 | ❌ | en-US |
 | 1497 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
 | 1498 | VariCAD | VariCAD | VariCAD (German) | `2026.2.05` | x64 | ❌ | de |
 | 1499 | VariCAD | VariCAD | VariCAD (English) | `2026.2.05` | x64 | ❌ | en-US |
@@ -1538,8 +1538,8 @@
 | 1530 | voidtools | voidtools Everything | Everything (MSI) (x64) | `1.4.1.1031` | x64 | ❌ | en-US |
 | 1531 | voidtools | voidtools Everything Lite | Everything Lite (MSI) (x64) | `1.4.1.1031` | x64 | ❌ | en-US |
 | 1532 | voidtools | voidtools Everything Lite | Everything Lite (EXE) (x64) | `1.4.1.1032` | x64 | ❌ | en-US |
-| 1533 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.126.04524` | x64 | ❌ | en-US |
-| 1534 | Waterfox | Waterfox | Waterfox | `6.7.1.1` | x64 | ❌ | en-US |
+| 1533 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.135.06055` | x64 | ❌ | en-US |
+| 1534 | Waterfox | Waterfox | Waterfox | `6.7.2` | x64 | ❌ | en-US |
 | 1535 | Waterfox | Waterfox Classic | Waterfox Classic | `2022.11` | x64 | ❌ | en-US |
 | 1536 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.7` | x86,x64 | ❌ | en-US |
 | 1537 | Webprofusion Pty Ltd | Certify The Web | Certify The Web | `6.1.0` | x64 | ❌ | en-US |
@@ -1552,7 +1552,7 @@
 | 1544 | WireGuard LLC | WireGuard | WireGuard (x64) | `0.5.3` | x64 | ❌ | en-US |
 | 1545 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.18` | x64 | ❌ | en-US |
 | 1546 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.8` | x64 | ❌ | en-US |
-| 1547 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) | `4.7.3` | x64 | ❌ | en-US |
+| 1547 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (EXE) | `4.7.3` | x64 | ❌ | en-US |
 | 1548 | WiX Toolset | WiX Toolset 3 | WiX Toolset 3 | `3.14` | x86,x64 | ❌ | en-US |
 | 1549 | Wonder Unit Inc. | Storyboarder | Storyboarder | `3.0.0` | x64 | ❌ | en-US |
 | 1550 | Wrike.com | Wrike | Wrike (x64) | `4.6.2.3052` | x64 | ❌ | en-US |
