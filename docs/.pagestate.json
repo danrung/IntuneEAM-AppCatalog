@@ -14968,6 +14968,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-11",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.6.1.0",
+      "18.6.2.0",
+      1
+     ]
+    ]
    }
   ],
   "knime-ag-knime-analytics-platform": [
@@ -26869,6 +26882,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-11",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.102.3",
+      "1.102.4",
+      1
+     ]
+    ]
    }
   ],
   "talkdesk-inc-talkdesk": [
@@ -30241,7 +30267,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260911_041118_AppCatalog.json",
+ "history_through": "20260911_161629_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -30250,8 +30276,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "3c1f24b22bec8ed93c7d29f2a3f5e75f2abc302b",
-   "hash": "450424af29de516e3048ea3d622883443a3cfc93",
+   "exact": "2a5246a1b5f2958ec53f68ed439cf82a69b8147f",
+   "hash": "bb546dd5353b7bde870124d96cac1bc7fedc56af",
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -32260,9 +32286,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/keeper.html": {
-   "exact": "03bc26fd618beddfc46e4a9c0f8570c53050b8a1",
-   "hash": "03bc26fd618beddfc46e4a9c0f8570c53050b8a1",
-   "lastmod": "2026-08-27"
+   "exact": "d658ef929e5b6b52752d6cde3738de3e4badbb7a",
+   "hash": "d658ef929e5b6b52752d6cde3738de3e4badbb7a",
+   "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/keeweb.html": {
    "exact": "3572c678aef0cc163fb077c9d30339ba571ad825",
@@ -34210,9 +34236,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/tailscale-inc-tailscale.html": {
-   "exact": "b35a9fe4912720a762c1f41f2cc3aa974eeed887",
-   "hash": "b35a9fe4912720a762c1f41f2cc3aa974eeed887",
-   "lastmod": "2026-08-27"
+   "exact": "f4a39a3127564fbc687f056c13404223b28b632b",
+   "hash": "f4a39a3127564fbc687f056c13404223b28b632b",
+   "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/talkdesk-inc-talkdesk.html": {
    "exact": "f57846b7625745a55249d60730743b4097183994",
