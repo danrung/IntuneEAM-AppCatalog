@@ -357,6 +357,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-12",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.011",
+      "9.013",
+      1
+     ]
+    ]
    }
   ],
   "8x8-inc-8x8-work": [
@@ -23272,6 +23285,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-12",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.43.3.10896",
+      "1.43.4.10903",
+      1
+     ]
+    ]
    }
   ],
   "poldervalley-selfguide-recorder": [
@@ -27880,6 +27906,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-12",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.14.9",
+      "1.14.10",
+      1
+     ]
+    ]
    }
   ],
   "ultimaker-cura": [
@@ -29497,21 +29536,6 @@
   "zandar-labs-sl-aptakube": [
    {
     "added": 0,
-    "date": "2026-04-15",
-    "fields": [
-     "Publisher"
-    ],
-    "removed": 0,
-    "versions": [
-     [
-      "1.14.0",
-      "1.16.0",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-04-16",
     "fields": [],
     "removed": 0,
@@ -29805,6 +29829,19 @@
      [
       "1.19.7",
       "1.20.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-12",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.20.0",
+      "1.20.1",
       1
      ]
     ]
@@ -30267,7 +30304,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260911_161629_AppCatalog.json",
+ "history_through": "20260912_041034_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -30276,9 +30313,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "2a5246a1b5f2958ec53f68ed439cf82a69b8147f",
-   "hash": "bb546dd5353b7bde870124d96cac1bc7fedc56af",
-   "lastmod": "2026-09-11"
+   "exact": "f226515ddc1bb8ddb5e931303be950a7f9cd1eb0",
+   "hash": "0bdd7386720eaf1743620f91762a5b0315dd2976",
+   "lastmod": "2026-09-12"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -30311,9 +30348,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/3dflow-srl-3df-zephyr-free.html": {
-   "exact": "b2e87f41df64ed64f9fc209bcd2507298093f872",
-   "hash": "b2e87f41df64ed64f9fc209bcd2507298093f872",
-   "lastmod": "2026-08-27"
+   "exact": "62b0c8efb8d57e68753be7cd1eaaee5e62d6e692",
+   "hash": "62b0c8efb8d57e68753be7cd1eaaee5e62d6e692",
+   "lastmod": "2026-09-12"
   },
   "https://eam.drung.dev/apps/3t-software-labs-ltd-robo-3t.html": {
    "exact": "a60e27854813e968e0837e810c28c3756e1c2bf9",
@@ -33596,9 +33633,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/plex-media-server.html": {
-   "exact": "19f45908f4e27987220844a4bd6de8ef826344f0",
-   "hash": "19f45908f4e27987220844a4bd6de8ef826344f0",
-   "lastmod": "2026-08-27"
+   "exact": "bcc18f33f0fd8637300db743658580ac952cdbac",
+   "hash": "bcc18f33f0fd8637300db743658580ac952cdbac",
+   "lastmod": "2026-09-12"
   },
   "https://eam.drung.dev/apps/poldervalley-selfguide-recorder.html": {
    "exact": "53176c24ff923d8e0df541774939e6a0fd75634f",
@@ -34531,9 +34568,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/typora-io-typora.html": {
-   "exact": "647ca72545193a08b0357b085bd45513d90abc3c",
-   "hash": "647ca72545193a08b0357b085bd45513d90abc3c",
-   "lastmod": "2026-08-27"
+   "exact": "1ce661a643befb07145d02c3ed347545794d3c79",
+   "hash": "1ce661a643befb07145d02c3ed347545794d3c79",
+   "lastmod": "2026-09-12"
   },
   "https://eam.drung.dev/apps/ultimaker-cura.html": {
    "exact": "ce453dfb5e7965833854b2887a6849fee6044a33",
@@ -34846,9 +34883,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "f42877f57282ff5ee6a67059547a9c2c2184c264",
-   "hash": "f42877f57282ff5ee6a67059547a9c2c2184c264",
-   "lastmod": "2026-09-10"
+   "exact": "50da1a62ab23a7122db2e079482496a3317185f2",
+   "hash": "50da1a62ab23a7122db2e079482496a3317185f2",
+   "lastmod": "2026-09-12"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",

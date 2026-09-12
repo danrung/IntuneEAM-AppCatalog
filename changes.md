@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20260911_161629_AppCatalog.json` (exported 2026-09-11 16:16:29)  
-> **vs:** `20260911_041118_AppCatalog.json` (exported 2026-09-11 04:11:18)  
-> **Span:** 12 hours between exports  
-> **Generated:** 2026-09-11 16:17 UTC
+> **Comparing:** `20260912_041034_AppCatalog.json` (exported 2026-09-12 04:10:34)  
+> **vs:** `20260911_161629_AppCatalog.json` (exported 2026-09-11 16:16:29)  
+> **Span:** 11 hours between exports  
+> **Generated:** 2026-09-12 04:11 UTC
 
 ## Summary
 
@@ -11,12 +11,14 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 2 |
+| 🔄 Updated | 4 |
 
-## 🔄 Updated (2 packages)
+## 🔄 Updated (4 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Keeper | Keeper | Keeper | `18.6.1.0` | `18.6.2.0` | Version |
-| Tailscale Inc. | Tailscale | Tailscale (x64) | `1.102.3` | `1.102.4` | Version |
+| 3Dflow srl | 3DF Zephyr Free | 3DF Zephyr Free version | `9.011` | `9.013` | Version |
+| Plex | Plex Media Server | Plex Media Server (x64) | `1.43.3.10896` | `1.43.4.10903` | Version |
+| typora.io | Typora | Typora (x64) | `1.14.9` | `1.14.10` | Version |
+| Zandar Labs SL | Aptakube | Aptakube | `1.20.0` | `1.20.1` | Version |
 

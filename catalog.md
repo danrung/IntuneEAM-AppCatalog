@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260911_161629_AppCatalog.json` (exported 2026-09-11 16:16:29)  
-> **Generated:** 2026-09-11 16:17 UTC  
+> **Source:** `20260912_041034_AppCatalog.json` (exported 2026-09-12 04:10:34)  
+> **Generated:** 2026-09-12 04:11 UTC  
 > **Total:** 1,589 packages · 932 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -28,7 +28,7 @@
 | 20 | 3CX | 3CX Desktop App | 3CX Desktop App | `18.13.959.0` | x64 | ❌ | en-US |
 | 21 | 3CX | 3CXPhone for Windows | 3CXPhone for Windows | `16.3.0.264` | x86,x64 | ❌ | en-US |
 | 22 | 3Dconnexion UK | 3DxWare 10 | 3DxWare 10 | `10.9.14.745` | x64 | ❌ | en-US |
-| 23 | 3Dflow srl | 3DF Zephyr Free | 3DF Zephyr Free version | `9.011` | x64 | ❌ | en-US |
+| 23 | 3Dflow srl | 3DF Zephyr Free | 3DF Zephyr Free version | `9.013` | x64 | ❌ | en-US |
 | 24 | 3T Software Labs Ltd | Robo 3T | Robo 3T | `1.4.4` | x64 | ❌ | en-US |
 | 25 | 8x8 Inc. | 8x8 Work | 8x8 Work (x64) | `8.37.2.1` | x64 | ❌ | en-US |
 | 26 | A Must in Every Office BV | ASAP Utilities | ASAP Utilities | `9.1` | x86,x64 | ❌ | en-US |
@@ -1202,7 +1202,7 @@
 | 1194 | Piriform Ltd | Piriform CCleaner Slim | CCleaner Slim | `6.39.11548` | x64 | ❌ | en-US |
 | 1195 | PlanGrid, Inc. | PlanGrid | PlanGrid | `1.126.0.463` | x86,x64 | ❌ | en-US |
 | 1196 | Plex | Plex Media Player | Plex Media Player | `2.58.0.1076` | x64 | ❌ | en-US |
-| 1197 | Plex | Plex Media Server | Plex Media Server (x64) | `1.43.3.10896` | x64 | ❌ | en-US |
+| 1197 | Plex | Plex Media Server | Plex Media Server (x64) | `1.43.4.10903` | x64 | ❌ | en-US |
 | 1198 | PolderValley | SelfGuide Recorder | SelfGuide Recorder | `2.200.0.0` | x64 | ❌ | en-US |
 | 1199 | Poll Everywhere | Poll Everywhere | Poll Everywhere | `4.3.2` | x86,x64 | ❌ | en-US |
 | 1200 | PortSwigger | Burp Suite Community Edition | Burp Suite Community Edition (x64) | `2026.7.1` | x64 | ✅ | en-US |
@@ -1498,7 +1498,7 @@
 | 1490 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.32.0.827` | x64 | ❌ | en-US |
 | 1491 | Turbo | Turbo Studio | Turbo Studio | `26.4.4.515` | x86,x64 | ❌ | en-US |
 | 1492 | Turbo.net | Turbo.net Desktop | Turbo.net Desktop | `26.3.11.2687` | x86,x64 | ❌ | en-US |
-| 1493 | typora.io | Typora | Typora (x64) | `1.14.9` | x64 | ❌ | en-US |
+| 1493 | typora.io | Typora | Typora (x64) | `1.14.10` | x64 | ❌ | en-US |
 | 1494 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.13.0` | x64 | ❌ | en-US |
 | 1495 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | x64 | ❌ | en-US |
 | 1496 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.9` | x64 | ❌ | en-US |
@@ -1572,7 +1572,7 @@
 | 1564 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.4.2` | x64 | ❌ | en-US |
 | 1565 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
 | 1566 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.2` | x64 | ❌ | en-US |
-| 1567 | Zandar Labs SL | Aptakube | Aptakube | `1.20.0` | x64 | ❌ | en-US |
+| 1567 | Zandar Labs SL | Aptakube | Aptakube | `1.20.1` | x64 | ❌ | en-US |
 | 1568 | Zello Inc. | Zello | Zello | `18.7.0.0` | x64 | ❌ | en-US |
 | 1569 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 5 | `5.7.18` | x86,x64 | ❌ | en-US |
 | 1570 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.2` | x86,x64 | ❌ | en-US |
