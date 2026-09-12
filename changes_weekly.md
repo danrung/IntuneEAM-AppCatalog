@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20260912_041034_AppCatalog.json` (exported 2026-09-12 04:10:34)  
-> **vs:** `20260905_035932_AppCatalog.json` (exported 2026-09-05 03:59:32)  
+> **Comparing:** `20260912_152258_AppCatalog.json` (exported 2026-09-12 15:22:58)  
+> **vs:** `20260905_145748_AppCatalog.json` (exported 2026-09-05 14:57:48)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-09-12 04:11 UTC
+> **Generated:** 2026-09-12 15:23 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 106 |
+| 🔄 Updated | 94 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.10.12201.205` | x64 |
 
-## 🔄 Updated (106 packages)
+## 🔄 Updated (94 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -38,8 +38,8 @@
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
 | Cisco Systems, Inc. | Duo Desktop | Duo Desktop | `7.20.0.0` | `7.21.0.0` | Version |
-| Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
+| Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.9.0.35771` | `46.9.0.35800` | Version |
 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9743.36606` | `7.1.9747.33336` | Version |
 | Dane Prairie Systems | Dane Prairie Systems Win2PDF | Win2PDF | `11.0.8.1` | `11.0.10.1` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.83.0` | `7.83.1` | Version |
@@ -56,9 +56,9 @@
 | Evernote | Evernote | Evernote | `11.32.5` | `11.33.5` | Version |
 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.73.179.027` | `2016.73.179.028` | Version |
 | Gephi | Gephi | Gephi (x64) | `0.11.2` | `0.11.3` | Version |
+| GIMP | GIMP | GIMP | `3.2.4.0` | `3.2.6.0` | Version |
 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `152.0.7977.83` | `153.0.8010.37` | Version |
 | Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.02` | `26.03` | Version |
-| JetBrains | GoLand | GoLand 2026.2 (x64) | `2026.2.1.1` | `2026.2.2.1` | Version |
 | Keeper | Keeper | Keeper | `18.6.1.0` | `18.6.2.0` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.15.6` | `3.16.8` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `12.9.1.1` | `12.9.2.2` | Version |
@@ -68,36 +68,26 @@
 | Microsoft | Microsoft Analysis Services OLE DB Provider | Microsoft Analysis Services OLE DB Provider (x64) | `18.0.264.0` | `18.0.291.0` | Version |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `153.0.4234.19` | `154.0.4258.9` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `154.0.4251.0` | `155.0.4268.0` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (German) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Turkish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Korean) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Japanese) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (English) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Spanish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Russian) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Italian) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (French) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Czech) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Polish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Spanish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (German) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Polish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Japanese) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Russian) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Turkish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (English) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (French) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Korean) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Italian) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.9.2` | `22.10.0` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37614.0` | `17.14.37628.2` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37614.0` | `17.14.37628.2` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37614.0` | `17.14.37628.2` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.136.1` | `1.137.0` | Version |
 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37614.0` | `17.14.37628.2` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `155.0` | `155.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `155.0` | `155.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `155.0` | `155.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `155.0` | `155.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `155.0` | `155.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `155.0` | `155.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `155.0` | `155.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `155.0` | `155.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `155.0` | `155.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `155.0` | `155.0.1` | Version |
 | MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.7.4.260706075` | `4.7.5.260831071` | Version |
 | Nagios Enterprises | NCPA | NCPA (x64) | `3.4.3` | `3.5.0` | Version |
 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.2` | `1.80.3` | Version |
@@ -108,16 +98,14 @@
 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 26.0 | `26.0.3.76224` | `26.0.5.76602` | Version |
 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 25.0 | `25.0.11.75756` | `25.0.13.76604` | Version |
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 26.0 | `26.0.3.76225` | `26.0.5.76603` | Version |
-| PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 25.0 | `25.0.11.75758` | `25.0.13.76605` | Version |
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 24.1 | `24.1.5.71849` | `24.1.10.76611` | Version |
+| PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 25.0 | `25.0.11.75758` | `25.0.13.76605` | Version |
 | Password Safe | Password Safe 3 | Password Safe 3 (x64) | `3.72.1` | `3.72.2` | Version |
 | PlanGrid, Inc. | PlanGrid | PlanGrid | `1.125.0.16107` | `1.126.0.463` | Version |
 | Plex | Plex Media Server | Plex Media Server (x64) | `1.43.3.10896` | `1.43.4.10903` | Version |
 | Privado Networks AG | PrivadoVPN | PrivadoVPN | `4.1.0.0` | `4.1.4.0` | Version |
 | QGIS | QGIS | QGIS (x64) | `4.2.1` | `4.2.2` | Version |
-| Relux Informatik AG | ReluxDesktop | ReluxDesktop (x64) | `2026.2.4.0` | `2026.2.5.0` | Version |
 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.6.6` | `12.11.7.7` | Version |
-| Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.6.6` | `12.11.7.7` | Version |
 | Splashtop Inc. | Splashtop Business | Splashtop Business | `3.8.6.0` | `3.8.6.1` | Version |
 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.102.3` | `1.102.4` | Version |
 | typora.io | Typora | Typora (x64) | `1.14.9` | `1.14.10` | Version |
