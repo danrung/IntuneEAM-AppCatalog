@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20260912_152258_AppCatalog.json` (exported 2026-09-12 15:22:58)  
-> **vs:** `20260905_145748_AppCatalog.json` (exported 2026-09-05 14:57:48)  
+> **Comparing:** `20260913_042217_AppCatalog.json` (exported 2026-09-13 04:22:17)  
+> **vs:** `20260906_040652_AppCatalog.json` (exported 2026-09-06 04:06:52)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-09-12 15:23 UTC
+> **Generated:** 2026-09-13 04:22 UTC
 
 ## Summary
 
@@ -68,20 +68,20 @@
 | Microsoft | Microsoft Analysis Services OLE DB Provider | Microsoft Analysis Services OLE DB Provider (x64) | `18.0.264.0` | `18.0.291.0` | Version |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `153.0.4234.19` | `154.0.4258.9` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `154.0.4251.0` | `155.0.4268.0` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Czech) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Spanish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (German) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Polish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Japanese) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Russian) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Turkish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (English) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
-| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (French) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Korean) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (English) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Czech) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Polish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (French) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Spanish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Russian) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (German) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Turkish) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Italian) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
+| Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Japanese) (x64) | `18.6.2.1` | `18.7.1.1` | Version |
 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.9.2` | `22.10.0` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37614.0` | `17.14.37628.2` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37614.0` | `17.14.37628.2` | Version |
@@ -94,9 +94,9 @@
 | Node.js Foundation | Node.js | Node.js 26 (x64) | `26.8.1` | `26.8.2` | Version |
 | ocenaudio | ocenaudio | ocenaudio | `3.21.0` | `3.21.3` | Version |
 | Orica Limited | SHOTPlus 6 | SHOTPlus 6 | `6.26.1.0` | `6.27.1.0` | Version |
+| PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 25.0 | `25.0.11.75756` | `25.0.13.76604` | Version |
 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 24.1 | `24.1.3.71485` | `24.1.10.76610` | Version |
 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 26.0 | `26.0.3.76224` | `26.0.5.76602` | Version |
-| PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 25.0 | `25.0.11.75756` | `25.0.13.76604` | Version |
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 26.0 | `26.0.3.76225` | `26.0.5.76603` | Version |
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 24.1 | `24.1.5.71849` | `24.1.10.76611` | Version |
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 25.0 | `25.0.11.75758` | `25.0.13.76605` | Version |
@@ -109,8 +109,8 @@
 | Splashtop Inc. | Splashtop Business | Splashtop Business | `3.8.6.0` | `3.8.6.1` | Version |
 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.102.3` | `1.102.4` | Version |
 | typora.io | Typora | Typora (x64) | `1.14.9` | `1.14.10` | Version |
-| UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.2` | `1.8.2.9` | Version |
 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.4` | `1.8.2.9` | Version |
+| UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.2` | `1.8.2.9` | Version |
 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.126.04524` | `1.135.06055` | Version |
 | Waterfox | Waterfox | Waterfox | `6.7.1.1` | `6.7.2` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (EXE) | `4.7.3` | `4.7.3` | Branch |
