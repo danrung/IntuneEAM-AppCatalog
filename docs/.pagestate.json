@@ -15619,6 +15619,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.6.16",
+      "3.7.16",
+      1
+     ]
+    ]
    }
   ],
   "liquidfiles-pty-ltd-liquidfiles-outlook-plugin": [
@@ -30317,7 +30330,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260913_042217_AppCatalog.json",
+ "history_through": "20260913_160050_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -30326,9 +30339,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "04d85f9fa812ee347e178f891fe2e51a17e955ac",
-   "hash": "ee2dd2bd8f1da6ca7714e5bb1e1246585d8951d9",
-   "lastmod": "2026-09-12"
+   "exact": "5893bce28f79e76b20015d7867b94042b3bce475",
+   "hash": "3c5d66c5324fb39c0d947ebde53363f0137875b8",
+   "lastmod": "2026-09-13"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -32411,9 +32424,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/laurent-cozic-joplin.html": {
-   "exact": "f7534f365fb5f2e1ac157a56273b47b6c8933c32",
-   "hash": "f7534f365fb5f2e1ac157a56273b47b6c8933c32",
-   "lastmod": "2026-08-27"
+   "exact": "cda4d674c24da303c1d57419f0cadaa91ea7efb2",
+   "hash": "cda4d674c24da303c1d57419f0cadaa91ea7efb2",
+   "lastmod": "2026-09-13"
   },
   "https://eam.drung.dev/apps/lego-education-spike.html": {
    "exact": "f43be0616640adcc836842531d5371e958edc556",
