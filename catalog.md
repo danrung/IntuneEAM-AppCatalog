@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260914_042856_AppCatalog.json` (exported 2026-09-14 04:28:56)  
-> **Generated:** 2026-09-14 04:29 UTC  
+> **Source:** `20260914_175909_AppCatalog.json` (exported 2026-09-14 17:59:09)  
+> **Generated:** 2026-09-14 17:59 UTC  
 > **Total:** 1,589 packages · 932 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -56,7 +56,7 @@
 | 48 | Amazon | Amazon Corretto JDK 19 | Amazon Corretto JDK 19 | `19.0.2.7.1` | x64 | ❌ | en-US |
 | 49 | Amazon | Amazon Corretto JDK 8 | Amazon Corretto JDK 8 (x64) | `8.504.01.1` | x64 | ❌ | en-US |
 | 50 | Amazon | Amazon Kindle | Kindle | `2.9.1.71006` | x86,x64 | ❌ | en-US |
-| 51 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.166.1` | x64 | ❌ | en-US |
+| 51 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.166.2` | x64 | ❌ | en-US |
 | 52 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.835.0` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.46.1` | x64 | ❌ | en-US |
 | 54 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
@@ -244,7 +244,7 @@
 | 236 | Cloud Video | Pexip | Pexip | `3.0.14` | x86,x64 | ❌ | en-US |
 | 237 | Cloud Video | Pexip Infinity Connect | Pexip Infinity Connect | `1.14.0` | x86,x64 | ❌ | en-US |
 | 238 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.7.1376.0` | x64 | ❌ | en-US |
-| 239 | Cockos Incorporated | REAPER | REAPER (x64) | `7.79` | x64 | ❌ | en-US |
+| 239 | Cockos Incorporated | REAPER | REAPER (x64) | `7.80` | x64 | ❌ | en-US |
 | 240 | Code Sector | TeraCopy for Windows | TeraCopy for Windows | `4.0.3.2` | x64 | ❌ | en-US |
 | 241 | code4ward.net e.U. | Royal TS 5 | Royal TS 5 | `5.04.60415.0` | x86,x64 | ✅ | en-US |
 | 242 | code4ward.net e.U. | Royal TS 6 | Royal TS 6 | `6.01.61019.0` | x64 | ✅ | en-US |
@@ -283,9 +283,9 @@
 | 275 | Dell, Inc. | Dell SupportAssist | Dell SupportAssist for Business PCs (x64) | `4.5.3.25254` | x64 | ❌ | en-US |
 | 276 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
 | 277 | Dell, Inc. | RVTools | RVTools | `4.8.2` | x86,x64 | ❌ | en-US |
-| 278 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.18.0` | x64 | ✅ | en-US |
-| 279 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.18.0` | x64 | ✅ | en-US |
-| 280 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.18.0` | x64 | ❌ | en-US |
+| 278 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.18.0` | x64 | ✅ | en-US |
+| 279 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.19.0` | x64 | ✅ | en-US |
+| 280 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.19.0` | x64 | ❌ | en-US |
 | 281 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.2.9.0` | x86,x64 | ❌ | en-US |
 | 282 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
 | 283 | DigiDNA SARL | iMazing | iMazing | `3.6.3.0` | x64 | ❌ | en-US |
@@ -359,8 +359,8 @@
 | 351 | ESET | ESET Endpoint Encryption | ESET Endpoint Encryption (x64) | `5.1.5.38` | x64 | ❌ | en-US |
 | 352 | ESET | ESET Endpoint Security V12 | Endpoint Security V12 (x64) | `12.1.2057.3` | x64 | ❌ | en-US |
 | 353 | ESET | ESET Endpoint Security V9 | Endpoint Security V9 (x64) | `9.1.2071.0` | x64 | ❌ | en-US |
-| 354 | Evernote | Evernote | Evernote | `11.33.5` | x64 | ✅ | en-US |
-| 355 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
+| 354 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
+| 355 | Evernote | Evernote | Evernote | `11.33.5` | x64 | ✅ | en-US |
 | 356 | Exacq Technologies | exacqVision Client | exacqVision Client (x64) | `26.1.8.0` | x64 | ❌ | en-US |
 | 357 | EZB Systems | EZB Systems UltraISO | UltraISO (English) | `9.7.6.3860` | x86,x64 | ❌ | en-US |
 | 358 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.73.179.028` | x64 | ❌ | en-US |
@@ -561,7 +561,7 @@
 | 553 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool | `7.48.9` | x86,x64 | ❌ | en-US |
 | 554 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `7.75.20` | x64 | ❌ | en-US |
 | 555 | LastPass | LastPass | LastPass | `5.1.0.1209` | x64 | ❌ | en-US |
-| 556 | Laurent Cozic | Joplin | Joplin | `3.7.16` | x64 | ❌ | en-US |
+| 556 | Laurent Cozic | Joplin | Joplin | `3.7.18` | x64 | ❌ | en-US |
 | 557 | LEGO | LEGO Education SPIKE | LEGO Education SPIKE | `3.6.0` | x64 | ❌ | en-US |
 | 558 | Lenovo Software | Lenovo Accessories and Display Manager | Lenovo Accessories and Display Manager | `1.0.7.8` | x64 | ❌ | en-US |
 | 559 | Lenovo Software | Lenovo Quick Clean | Lenovo Quick Clean | `1.02.0051` | x64 | ❌ | en-US |
@@ -667,7 +667,7 @@
 | 659 | Microsoft | Microsoft Bot Framework Emulator | Microsoft Bot Framework Emulator | `4.15.1` | x64 | ❌ | en-US |
 | 660 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.813.1` | x64 | ❌ | en-US |
 | 661 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
-| 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `154.0.4258.9` | x64 | ✅ | en-US |
+| 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `154.0.4258.12` | x64 | ✅ | en-US |
 | 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `155.0.4268.0` | x64 | ✅ | en-US |
 | 664 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 665 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `151.0.4129.107` | x64 | ❌ | en-US |
@@ -713,7 +713,7 @@
 | 705 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Japanese) (x64) | `18.7.5` | x64 | ❌ | ja-JP |
 | 706 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.5` | x64 | ❌ | zh-TW |
 | 707 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.330.1` | x64 | ❌ | en-US |
-| 708 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.153.0809.0004` | x64 | ❌ | en-US |
+| 708 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.158.0816.0003` | x64 | ❌ | en-US |
 | 709 | Microsoft | Microsoft OneNote | OneNote (x64) | `16.0.18730.20168` | x64 | ❌ | en-US |
 | 710 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.157.1354.0` | x64 | ✅ | mul |
 | 711 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.3 (x64) | `7.3.12` | x64 | ❌ | en-US |
@@ -781,8 +781,8 @@
 | 773 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
 | 774 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 775 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37628.2` | x64 | ❌ | en-US |
-| 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
+| 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
+| 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37628.2` | x64 | ❌ | en-US |
 | 778 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
 | 779 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 780 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.10.12201.205` | x64 | ❌ | en-US |
@@ -1113,7 +1113,7 @@
 | 1105 | NoMachine | NoMachine Enterprise Client | NoMachine Enterprise Client (x64) | `10.0.60` | x64 | ❌ | en-US |
 | 1106 | NoMachine | NoMachine Enterprise Desktop | NoMachine Enterprise Desktop (x64) | `10.0.60` | x64 | ❌ | en-US |
 | 1107 | NoMachine | NoMachine Fonts Others | NoMachine Fonts Others (x64) | `10.0.57` | x64 | ❌ | en-US |
-| 1108 | NordVPN | NordLayer | NordLayer | `3.11.0.0` | x86,x64 | ❌ | en-US |
+| 1108 | NordVPN | NordLayer | NordLayer | `4.0.0.0` | x86,x64 | ❌ | en-US |
 | 1109 | Nutanix Inc. | Frame App | Frame App | `7.10.3` | x64 | ❌ | en-US |
 | 1110 | NV Access Limited | NV Access NVDA | NVDA | `2026.2` | x64 | ❌ | en-US |
 | 1111 | NVIDIA | NVIDIA GeForce Experience | NVIDIA GeForce Experience | `11.0.1.163` | x64 | ✅ | en-US |
@@ -1143,7 +1143,7 @@
 | 1135 | Orica Limited | SHOTPlus Tunnel | SHOTPlus Tunnel | `2.24.1.0` | x86,x64 | ❌ | en-US |
 | 1136 | Orica Limited | SHOTPlus Underground | SHOTPlus Underground | `2.10.1.0` | x86,x64 | ❌ | en-US |
 | 1137 | ownCloud | ownCloud Desktop Client | ownCloud Desktop Client (x64) | `7.1.1.19543` | x64 | ❌ | en-US |
-| 1138 | Paessler AG | PRTG Desktop | PRTG Desktop (x64) | `26.1.0` | x64 | ❌ | en-US |
+| 1138 | Paessler AG | PRTG Desktop | PRTG Desktop (x64) | `26.2.0` | x64 | ❌ | en-US |
 | 1139 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 18.3 | `18.3.9.49587` | x64 | ❌ | en-US |
 | 1140 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 22.1 | `22.1.5.68857` | x64 | ❌ | en-US |
 | 1141 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 26.0 | `26.0.5.76602` | x64 | ❌ | en-US |
@@ -1339,7 +1339,7 @@
 | 1331 | Smart Projects | IsoBuster | IsoBuster (x64) | `5.8` | x64 | ❌ | en-US |
 | 1332 | SmartBear Software | SoapUI | SoapUI (x64) | `5.10.0` | x64 | ❌ | en-US |
 | 1333 | Smartsheet Inc. | Smartsheet desktop app | Smartsheet desktop app | `1.0.54` | x64 | ❌ | en-US |
-| 1334 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3326.0` | x64 | ❌ | en-US |
+| 1334 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3328.0` | x64 | ❌ | en-US |
 | 1335 | SMath LLC | SMath Studio | SMath Studio | `1.5.0-9678` | x86,x64 | ❌ | en-US |
 | 1336 | Snapmaker | Snapmaker Luban | Snapmaker Luban (x64) | `4.15.0` | x64 | ❌ | en-US |
 | 1337 | SnelStart | SnelStart | SnelStart | `12.195.179` | x86,x64 | ❌ | nl |
@@ -1502,7 +1502,7 @@
 | 1494 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.13.0` | x64 | ❌ | en-US |
 | 1495 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | x64 | ❌ | en-US |
 | 1496 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.9` | x64 | ❌ | en-US |
-| 1497 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.2.9` | x64 | ❌ | en-US |
+| 1497 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.3.0` | x64 | ❌ | en-US |
 | 1498 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
 | 1499 | VariCAD | VariCAD | VariCAD (German) | `2026.2.05` | x64 | ❌ | de |
 | 1500 | VariCAD | VariCAD | VariCAD (English) | `2026.2.05` | x64 | ❌ | en-US |
@@ -1540,7 +1540,7 @@
 | 1532 | voidtools | voidtools Everything Lite | Everything Lite (MSI) (x64) | `1.4.1.1031` | x64 | ❌ | en-US |
 | 1533 | voidtools | voidtools Everything Lite | Everything Lite (EXE) (x64) | `1.4.1.1032` | x64 | ❌ | en-US |
 | 1534 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.135.06055` | x64 | ❌ | en-US |
-| 1535 | Waterfox | Waterfox | Waterfox | `6.7.2` | x64 | ❌ | en-US |
+| 1535 | Waterfox | Waterfox | Waterfox | `6.7.3` | x64 | ❌ | en-US |
 | 1536 | Waterfox | Waterfox Classic | Waterfox Classic | `2022.11` | x64 | ❌ | en-US |
 | 1537 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.7` | x86,x64 | ❌ | en-US |
 | 1538 | Webprofusion Pty Ltd | Certify The Web | Certify The Web | `6.1.0` | x64 | ❌ | en-US |
