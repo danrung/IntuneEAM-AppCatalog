@@ -6321,6 +6321,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.67",
+      "1.68",
+      1
+     ]
+    ]
    }
   ],
   "creative-force-kelvin": [
@@ -7560,6 +7573,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.18.0",
+      "2026.2.19.0",
+      1
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager": [
@@ -8233,6 +8259,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.90.0.238679",
+      "4.91.0.239619",
+      1
+     ]
+    ]
    }
   ],
   "don-ho-notepad": [
@@ -8477,6 +8516,19 @@
      [
       "26.8.1",
       "26.9.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.9.0",
+      "26.9.1",
       1
      ]
     ]
@@ -15591,6 +15643,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.75.20",
+      "8.0.3",
+      1
+     ]
+    ]
    }
   ],
   "laurent-cozic-joplin": [
@@ -16622,6 +16687,19 @@
      [
       "1.66.03466.3076",
       "1.67.03504.3207",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.67.03504.3207",
+      "1.68.03532.3282",
       1
      ]
     ]
@@ -21801,6 +21879,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.0.60",
+      "10.1.7",
+      1
+     ]
+    ]
    }
   ],
   "nomachine-enterprise-desktop": [
@@ -21878,6 +21969,19 @@
      [
       "10.0.59",
       "10.0.60",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.0.60",
+      "10.1.7",
       1
      ]
     ]
@@ -24710,6 +24814,13 @@
    {
     "added": 8,
     "date": "2026-09-03",
+    "fields": [],
+    "removed": 0,
+    "versions": []
+   },
+   {
+    "added": 1,
+    "date": "2026-09-15",
     "fields": [],
     "removed": 0,
     "versions": []
@@ -29705,19 +29816,6 @@
   "zandar-labs-sl-aptakube": [
    {
     "added": 0,
-    "date": "2026-04-16",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.16.0",
-      "1.16.1",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-04-24",
     "fields": [],
     "removed": 0,
@@ -30011,6 +30109,19 @@
      [
       "1.20.0",
       "1.20.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.20.1",
+      "1.20.2",
       1
      ]
     ]
@@ -30473,7 +30584,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260914_175909_AppCatalog.json",
+ "history_through": "20260915_042916_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -30482,9 +30593,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "4934e885d4b29775c1f5acdd6d15fe7a61403a1a",
-   "hash": "5f01ec6f46fb81fe70ae75a37b4eeb36c0e52300",
-   "lastmod": "2026-09-14"
+   "exact": "548893fee742545169d2ea6af4126ad62fcfbe66",
+   "hash": "8385a03c4a446ef6512f837df088c9481555b198",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -31377,9 +31488,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cpuid-inc-hwmonitor.html": {
-   "exact": "f156ebeab053498d8b39483ef4efdd026fec6d40",
-   "hash": "f156ebeab053498d8b39483ef4efdd026fec6d40",
-   "lastmod": "2026-08-27"
+   "exact": "afaec06cd0eafa1fa94ed3e950ed83cd7caf16e9",
+   "hash": "afaec06cd0eafa1fa94ed3e950ed83cd7caf16e9",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/creative-force-kelvin.html": {
    "exact": "e6e93b397a0aca58061dd7f73a00ea831d6c5efb",
@@ -31517,9 +31628,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html": {
-   "exact": "fa28a15377991d00b126232808db6037e60659d5",
-   "hash": "fa28a15377991d00b126232808db6037e60659d5",
-   "lastmod": "2026-09-14"
+   "exact": "77643c570d0dc0df3a00e099f4f5c966e490f651",
+   "hash": "77643c570d0dc0df3a00e099f4f5c966e490f651",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html": {
    "exact": "c162eaba79751b32e3666085748e8c7c79b707c3",
@@ -31552,9 +31663,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/docker-inc-docker-desktop.html": {
-   "exact": "d670e62c1261d3278ec668a35b4e98a8bf49610d",
-   "hash": "d670e62c1261d3278ec668a35b4e98a8bf49610d",
-   "lastmod": "2026-09-08"
+   "exact": "22b76ed125cb225d222de78d14bdbe6e63ae3e59",
+   "hash": "22b76ed125cb225d222de78d14bdbe6e63ae3e59",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/dominik-reichl-keepass-password-safe-classic-edition.html": {
    "exact": "2a807271e957308f0916a349a0605a10e79b777e",
@@ -31572,9 +31683,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/draftable-desktop.html": {
-   "exact": "e89fc7d02eea4a84a830c95bd1726a7d1e42aa31",
-   "hash": "e89fc7d02eea4a84a830c95bd1726a7d1e42aa31",
-   "lastmod": "2026-09-10"
+   "exact": "1562e2269bc2ecbe54c125c1bd2eb6efa744c71c",
+   "hash": "1562e2269bc2ecbe54c125c1bd2eb6efa744c71c",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/draw-io-desktop.html": {
    "exact": "b1020ff6de72133aa76496a4ad0108f417a460aa",
@@ -32557,9 +32668,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/lark-technologies-pte-ltd-lark-deployment-tool.html": {
-   "exact": "f554adbf359bcd90dfcf28f95d4dc962ce07e80f",
-   "hash": "f554adbf359bcd90dfcf28f95d4dc962ce07e80f",
-   "lastmod": "2026-09-04"
+   "exact": "52d01bf4cea9190c4b6abf762a700760af53faeb",
+   "hash": "52d01bf4cea9190c4b6abf762a700760af53faeb",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/lastpass.html": {
    "exact": "c376fb3fcd8abddc7939d02efb1090dbae7d9c65",
@@ -32877,9 +32988,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-azure-connected-machine-agent.html": {
-   "exact": "dbc157c0fcd7fc900a6b31ed382e97e326b5d25b",
-   "hash": "dbc157c0fcd7fc900a6b31ed382e97e326b5d25b",
-   "lastmod": "2026-09-11"
+   "exact": "f7844a6322ef429895a35de741f21dfca550c8a1",
+   "hash": "f7844a6322ef429895a35de741f21dfca550c8a1",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/microsoft-azure-data-cli.html": {
    "exact": "36bb52dd9d1f1950d4fc61c1bfb4f041b598f191",
@@ -33517,14 +33628,14 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/nomachine-enterprise-client.html": {
-   "exact": "239882f3c8bf36279eb725b9134242c58e7ebfd0",
-   "hash": "239882f3c8bf36279eb725b9134242c58e7ebfd0",
-   "lastmod": "2026-09-05"
+   "exact": "4fcbd826e0c075b55a7020bcf4ae0f7c7c417afc",
+   "hash": "4fcbd826e0c075b55a7020bcf4ae0f7c7c417afc",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/nomachine-enterprise-desktop.html": {
-   "exact": "7d6cf5e93f6e6bd871209ebae5a4f8b11c3d17b9",
-   "hash": "7d6cf5e93f6e6bd871209ebae5a4f8b11c3d17b9",
-   "lastmod": "2026-09-05"
+   "exact": "b6b7998a3b165254587e37dc0f1f8b5db09cec44",
+   "hash": "b6b7998a3b165254587e37dc0f1f8b5db09cec44",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/nomachine-fonts-others.html": {
    "exact": "4a109901cfcdb185cd31b2a19e5a43a61406219e",
@@ -34022,9 +34133,9 @@
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/rstudio.html": {
-   "exact": "c6ee1dbe55f52d203206fb9dcdcc4fa30291e2ae",
-   "hash": "c6ee1dbe55f52d203206fb9dcdcc4fa30291e2ae",
-   "lastmod": "2026-09-03"
+   "exact": "30e06b007f9cab9c69cefbc1d5c3006a6a1d38c3",
+   "hash": "30e06b007f9cab9c69cefbc1d5c3006a6a1d38c3",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/rystad-energy-cube-browser.html": {
    "exact": "0376652d2d56349b599b02a7e7291bb8c35ac6ae",
@@ -35052,9 +35163,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "50da1a62ab23a7122db2e079482496a3317185f2",
-   "hash": "50da1a62ab23a7122db2e079482496a3317185f2",
-   "lastmod": "2026-09-12"
+   "exact": "82172f589cf9d1575e01a7756f8402d04f9488e1",
+   "hash": "82172f589cf9d1575e01a7756f8402d04f9488e1",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",

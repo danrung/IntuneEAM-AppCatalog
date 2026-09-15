@@ -1,8 +1,8 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260914_175909_AppCatalog.json` (exported 2026-09-14 17:59:09)  
-> **Generated:** 2026-09-14 17:59 UTC  
-> **Total:** 1,589 packages · 932 unique products
+> **Source:** `20260915_042916_AppCatalog.json` (exported 2026-09-15 04:29:16)  
+> **Generated:** 2026-09-15 04:29 UTC  
+> **Total:** 1,590 packages · 932 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
 |--:|-----------|----------|--------|---------|:------------:|:-----------:|---------|
@@ -255,7 +255,7 @@
 | 247 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9747.33336` | x86,x64 | ❌ | en-US |
 | 248 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
 | 249 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `3.01` | x64 | ❌ | en-US |
-| 250 | CPUID, Inc | HWMonitor | HWMonitor | `1.67` | x64 | ❌ | en-US |
+| 250 | CPUID, Inc | HWMonitor | HWMonitor | `1.68` | x64 | ❌ | en-US |
 | 251 | Creative Force | Creative Force Kelvin | Kelvin | `6.9.0` | x64 | ❌ | en-US |
 | 252 | Creative Force | Creative Force Triad | Triad | `4.5.0` | x64 | ❌ | en-US |
 | 253 | Crestron Electronics, Inc. | Crestron AirMedia app | AirMedia app | `5.11.1.164` | x86,x64 | ❌ | en-US |
@@ -283,7 +283,7 @@
 | 275 | Dell, Inc. | Dell SupportAssist | Dell SupportAssist for Business PCs (x64) | `4.5.3.25254` | x64 | ❌ | en-US |
 | 276 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
 | 277 | Dell, Inc. | RVTools | RVTools | `4.8.2` | x86,x64 | ❌ | en-US |
-| 278 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.18.0` | x64 | ✅ | en-US |
+| 278 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.19.0` | x64 | ✅ | en-US |
 | 279 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.2.19.0` | x64 | ✅ | en-US |
 | 280 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.2.19.0` | x64 | ❌ | en-US |
 | 281 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.2.9.0` | x86,x64 | ❌ | en-US |
@@ -291,12 +291,12 @@
 | 283 | DigiDNA SARL | iMazing | iMazing | `3.6.3.0` | x64 | ❌ | en-US |
 | 284 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.4.2` | x64 | ❌ | en-US |
 | 285 | dnGrep | dnGrep | dnGrep (x64) | `5.0.57.0` | x64 | ❌ | en-US |
-| 286 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.90.0.238679` | x64 | ✅ | en-US |
+| 286 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.91.0.239619` | x64 | ✅ | en-US |
 | 287 | Dominik Reichl | KeePass Password Safe (Classic Edition) | KeePass Password Safe (Classic Edition) | `1.43` | x86,x64 | ✅ | en-US |
 | 288 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8` | x64 | ❌ | en-US |
 | 289 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8` | x64 | ❌ | en-US |
 | 290 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
-| 291 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.9.0` | x64 | ❌ | en-US |
+| 291 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.9.1` | x64 | ❌ | en-US |
 | 292 | draw.io | draw.io Desktop | draw.io Desktop | `31.4.5` | x64 | ✅ | en-US |
 | 293 | dRofus | dRofus | dRofus | `2.18.16.0` | x86,x64 | ❌ | en-US |
 | 294 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `268.4.4124` | x64 | ✅ | en-US |
@@ -559,7 +559,7 @@
 | 551 | KUBUS BV | BCF Manager for Tekla | BCF Manager for Tekla | `6.2.16` | x64 | ❌ | en-US |
 | 552 | Lansweeper | Lansweeper | Lansweeper | `12.9.2.2` | x86,x64 | ❌ | en-US |
 | 553 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool | `7.48.9` | x86,x64 | ❌ | en-US |
-| 554 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `7.75.20` | x64 | ❌ | en-US |
+| 554 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.0.3` | x64 | ❌ | en-US |
 | 555 | LastPass | LastPass | LastPass | `5.1.0.1209` | x64 | ❌ | en-US |
 | 556 | Laurent Cozic | Joplin | Joplin | `3.7.18` | x64 | ❌ | en-US |
 | 557 | LEGO | LEGO Education SPIKE | LEGO Education SPIKE | `3.6.0` | x64 | ❌ | en-US |
@@ -658,7 +658,7 @@
 | 650 | Microsoft | Microsoft ASP.NET Core Runtime 7.0 | ASP.NET Core Runtime 7.0 (x64) | `7.0.20.24269` | x64 | ❌ | en-US |
 | 651 | Microsoft | Microsoft Azure CLI | Azure CLI | `2.60.0` | x86,x64 | ❌ | en-US |
 | 652 | Microsoft | Microsoft Azure CLI | Azure CLI (x64) | `2.90.0` | x64 | ❌ | en-US |
-| 653 | Microsoft | Microsoft Azure Connected Machine Agent | Azure Connected Machine Agent | `1.67.03504.3207` | x64 | ❌ | en-US |
+| 653 | Microsoft | Microsoft Azure Connected Machine Agent | Azure Connected Machine Agent | `1.68.03532.3282` | x64 | ❌ | en-US |
 | 654 | Microsoft | Microsoft Azure Data CLI | Azure Data CLI | `20.3.14` | x64 | ❌ | en-US |
 | 655 | Microsoft | Microsoft Azure Data Studio | Azure Data Studio (System Installer) (x64) | `1.52.0` | x64 | ❌ | en-US |
 | 656 | Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.3.0.41101` | x64 | ❌ | en-US |
@@ -1110,8 +1110,8 @@
 | 1102 | Node.js Foundation | Node.js 21 | Node.js 21 (x64) | `21.7.3` | x64 | ❌ | en-US |
 | 1103 | Node.js Foundation | Node.js 22 LTS | Node.js 22 LTS (x64) | `22.23.1` | x64 | ❌ | en-US |
 | 1104 | NoMachine | NoMachine | NoMachine (x64) | `9.8.2` | x64 | ❌ | en-US |
-| 1105 | NoMachine | NoMachine Enterprise Client | NoMachine Enterprise Client (x64) | `10.0.60` | x64 | ❌ | en-US |
-| 1106 | NoMachine | NoMachine Enterprise Desktop | NoMachine Enterprise Desktop (x64) | `10.0.60` | x64 | ❌ | en-US |
+| 1105 | NoMachine | NoMachine Enterprise Client | NoMachine Enterprise Client (x64) | `10.1.7` | x64 | ❌ | en-US |
+| 1106 | NoMachine | NoMachine Enterprise Desktop | NoMachine Enterprise Desktop (x64) | `10.1.7` | x64 | ❌ | en-US |
 | 1107 | NoMachine | NoMachine Fonts Others | NoMachine Fonts Others (x64) | `10.0.57` | x64 | ❌ | en-US |
 | 1108 | NordVPN | NordLayer | NordLayer | `4.0.0.0` | x86,x64 | ❌ | en-US |
 | 1109 | Nutanix Inc. | Frame App | Frame App | `7.10.3` | x64 | ❌ | en-US |
@@ -1280,318 +1280,319 @@
 | 1272 | RStudio | Rstudio | RStudio 2025.09 | `2025.09.2.418` | x64 | ❌ | en-US |
 | 1273 | RStudio | Rstudio | RStudio 2026.07 | `2026.07.1.147` | x64 | ❌ | en-US |
 | 1274 | RStudio | Rstudio | RStudio 2025.05 | `2025.05.1.513` | x64 | ❌ | en-US |
-| 1275 | RStudio | Rstudio | RStudio 2026.08 | `2026.08.2.200` | x64 | ❌ | en-US |
-| 1276 | RStudio | Rstudio | RStudio 2026.04 | `2026.04.0.526` | x64 | ❌ | en-US |
-| 1277 | RStudio | Rstudio | RStudio 2026.01 | `2026.01.2.418` | x64 | ❌ | en-US |
-| 1278 | RStudio | Rstudio | RStudio 2026.06 | `2026.06.0.242` | x64 | ❌ | en-US |
-| 1279 | RStudio | Rstudio | RStudio 2026.05 | `2026.05.1.225` | x64 | ❌ | en-US |
-| 1280 | RStudio | RStudio 1.4 | RStudio 1.4 | `1.4.1743` | x86,x64 | ❌ | en-US |
-| 1281 | RStudio | RStudio 2022 | RStudio 2022.02 | `2022.02.5.503` | x86,x64 | ❌ | en-US |
-| 1282 | RStudio | RStudio 2022 | RStudio 2022.12 | `2022.12.0.353` | x64 | ❌ | en-US |
-| 1283 | RStudio | RStudio 2022 | RStudio 2022.07 | `2022.07.3.585` | x86,x64 | ❌ | en-US |
-| 1284 | RStudio | RStudio 2023 | RStudio 2023.03 | `2023.03.2.454` | x64 | ❌ | en-US |
-| 1285 | RStudio | RStudio 2023 | RStudio 2023.12 | `2023.12.1.402` | x64 | ❌ | en-US |
-| 1286 | RStudio | RStudio 2023 | RStudio 2023.09 | `2023.09.1.494` | x64 | ❌ | en-US |
-| 1287 | RStudio | Rstudio 2024 | RStudio 2024.09 | `2024.09.1.394` | x64 | ❌ | en-US |
-| 1288 | RStudio | Rstudio 2024 | RStudio 2024.12 | `2024.12.1.563` | x64 | ❌ | en-US |
-| 1289 | Rystad Energy | Cube Browser | Cube Browser (x64) | `2.6.62.0` | x64 | ❌ | en-US |
-| 1290 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.150.6` | x64 | ❌ | en-US |
-| 1291 | Samsung | Samsung Smart Switch | Samsung Smart Switch | `4.3.24062.1` | x86,x64 | ❌ | en-US |
-| 1292 | Samsung Techwin Co., Ltd | Samsung Smart View | Smart View | `1.0.0.0` | x86,x64 | ❌ | en-US |
-| 1293 | SanDisk Corporation | SanDisk Dashboard | SanDisk Dashboard | `5.2.2.3` | x86,x64 | ✅ | en-US |
-| 1294 | SanDisk Corporation | SanDisk Dashboard | Western Digital Dashboard | `5.0.2.3` | x86,x64 | ✅ | en-US |
-| 1295 | ScaleFT | ScaleFT | ScaleFT | `1.83.4` | x64 | ❌ | en-US |
-| 1296 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 4 | `4.4.0.25886` | x64 | ❌ | en-US |
-| 1297 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 4 (x64) | `4.4.7.28397` | x64 | ❌ | en-US |
-| 1298 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 5 (x64) | `5.2.5.32528` | x64 | ❌ | en-US |
-| 1299 | ScreenBeam Inc. | ScreenBeam Conference | ScreenBeam Conference | `1.0.5.10` | x64 | ❌ | en-US |
-| 1300 | ScreenCloud | ScreenCloud Player | ScreenCloud Player (x64) | `3.12.0` | x64 | ✅ | en-US |
-| 1301 | secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.4` | x86,x64 | ❌ | en-US |
-| 1302 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.11` | x64 | ❌ | en-US |
-| 1303 | Semeru | IBM Semeru Runtime Open Edition JDK 11 (LTS) | IBM Semeru Runtime Open Edition JDK 11 (LTS) | `11.0.30.7` | x64 | ❌ | en-US |
-| 1304 | Semeru | IBM Semeru Runtime Open Edition JDK 16 | IBM Semeru Runtime Open Edition JDK 16 | `16.0.2.7` | x64 | ❌ | en-US |
-| 1305 | Semeru | IBM Semeru Runtime Open Edition JDK 17 (LTS) | IBM Semeru Runtime Open Edition JDK 17 (LTS) | `17.0.18.8` | x64 | ❌ | en-US |
-| 1306 | Semeru | IBM Semeru Runtime Open Edition JDK 18 | IBM Semeru Runtime Open Edition JDK 18 | `18.0.2.9` | x64 | ❌ | en-US |
-| 1307 | Semeru | IBM Semeru Runtime Open Edition JDK 19 | IBM Semeru Runtime Open Edition JDK 19 | `19.0.2.7` | x64 | ❌ | en-US |
-| 1308 | Semeru | IBM Semeru Runtime Open Edition JDK 20 | IBM Semeru Runtime Open Edition JDK 20 | `20.0.2.9` | x64 | ❌ | en-US |
-| 1309 | Semeru | IBM Semeru Runtime Open Edition JDK 22 | IBM Semeru Runtime Open Edition JDK 22 | `22.0.2.9` | x64 | ❌ | en-US |
-| 1310 | Semeru | IBM Semeru Runtime Open Edition JDK 8 (LTS) | IBM Semeru Runtime Open Edition JDK 8 (LTS) (x64) | `8.0.482.8` | x64 | ❌ | en-US |
-| 1311 | Semeru | IBM Semeru Runtime Open Edition JRE 11 (LTS) | IBM Semeru Runtime Open Edition JRE 11 (LTS) | `11.0.30.7` | x64 | ❌ | en-US |
-| 1312 | Semeru | IBM Semeru Runtime Open Edition JRE 17 (LTS) | IBM Semeru Runtime Open Edition JRE 17 (LTS) | `17.0.18.8` | x64 | ❌ | en-US |
-| 1313 | Semeru | IBM Semeru Runtime Open Edition JRE 18 | IBM Semeru Runtime Open Edition JRE 18 | `18.0.2.9` | x64 | ❌ | en-US |
-| 1314 | Semeru | IBM Semeru Runtime Open Edition JRE 19 | IBM Semeru Runtime Open Edition JRE 19 | `19.0.2.7` | x64 | ❌ | en-US |
-| 1315 | Semeru | IBM Semeru Runtime Open Edition JRE 20 | IBM Semeru Runtime Open Edition JRE 20 | `20.0.2.9` | x64 | ❌ | en-US |
-| 1316 | Semeru | IBM Semeru Runtime Open Edition JRE 22 | IBM Semeru Runtime Open Edition JRE 22 | `22.0.2.9` | x64 | ❌ | en-US |
-| 1317 | Semeru | IBM Semeru Runtime Open Edition JRE 8 (LTS) | IBM Semeru Runtime Open Edition JRE 8 (LTS) (x64) | `8.0.482.8` | x64 | ❌ | en-US |
-| 1318 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.32.143.0` | x64 | ❌ | en-US |
-| 1319 | Shotcut | Shotcut | Shotcut (x64) | `26.8.1` | x64 | ❌ | en-US |
-| 1320 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.7.7` | x64 | ✅ | en-US |
-| 1321 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.7.7` | x64 | ✅ | en-US |
-| 1322 | Siber Systems Inc | RoboForm | RoboForm | `9.9.4.6` | x86,x64 | ❌ | en-US |
-| 1323 | SideQuest | SideQuest | SideQuest | `1.1.0` | x64 | ❌ | en-US |
-| 1324 | Signiant Inc. | Signiant App | Signiant App | `1.5.1773` | x64 | ❌ | en-US |
-| 1325 | Simnet Ltd | Simple Sticky Notes | Simple Sticky Notes | `6.9` | x86,x64 | ❌ | en-US |
-| 1326 | Simon Tatham | PuTTY | PuTTY (x64) | `0.85.0.0` | x64 | ❌ | en-US |
-| 1327 | Simon Tatham | PuTTY CAC | PuTTY CAC (x64) | `0.85` | x64 | ✅ | en-US |
-| 1328 | Skillbrains | Skillbrains LightShot | LightShot | `5.5.0.7` | x86,x64 | ❌ | en-US |
-| 1329 | Skymatic GmbH | Cryptomator | Cryptomator | `1.19.3.6495` | x64 | ❌ | en-US |
-| 1330 | Slido | Slido | Slido | `1.22.4` | x64 | ❌ | en-US |
-| 1331 | Smart Projects | IsoBuster | IsoBuster (x64) | `5.8` | x64 | ❌ | en-US |
-| 1332 | SmartBear Software | SoapUI | SoapUI (x64) | `5.10.0` | x64 | ❌ | en-US |
-| 1333 | Smartsheet Inc. | Smartsheet desktop app | Smartsheet desktop app | `1.0.54` | x64 | ❌ | en-US |
-| 1334 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3328.0` | x64 | ❌ | en-US |
-| 1335 | SMath LLC | SMath Studio | SMath Studio | `1.5.0-9678` | x86,x64 | ❌ | en-US |
-| 1336 | Snapmaker | Snapmaker Luban | Snapmaker Luban (x64) | `4.15.0` | x64 | ❌ | en-US |
-| 1337 | SnelStart | SnelStart | SnelStart | `12.195.179` | x86,x64 | ❌ | nl |
-| 1338 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.5` | x64 | ❌ | en-US |
-| 1339 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.0.2` | x64 | ❌ | en-US |
-| 1340 | Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.23.28922.0` | x64 | ❌ | de |
-| 1341 | Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.23.28922.0` | x64 | ❌ | en-US |
-| 1342 | Softerra | Softerra LDAP Browser | LDAP Browser - German (x64) | `4.5.19808.0` | x64 | ❌ | de |
-| 1343 | Softerra | Softerra LDAP Browser | LDAP Browser - English (x64) | `4.5.19808.0` | x64 | ❌ | en-US |
-| 1344 | SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.4.2` | x64 | ❌ | en-US |
-| 1345 | Softland | Softland doPDF | doPDF | `11.9.523` | x64 | ❌ | en-US |
-| 1346 | SolarWinds | SolarWinds Orion SDK | SolarWinds Orion SDK (x64) | `3.3.0.50070` | x64 | ❌ | en-US |
-| 1347 | SonicWall | SonicWall Connect Tunnel | SonicWall Connect Tunnel (x64) | `12.5.0.247` | x64 | ❌ | en-US |
-| 1348 | SonicWall | SonicWall NetExtender | SonicWall NetExtender (x64) | `10.3.5` | x64 | ❌ | en-US |
-| 1349 | Sophos | Sophos Connect | Sophos Connect | `2.3.3003.0207` | x86,x64 | ❌ | en-US |
-| 1350 | South River Technologies | South River Technologies WebDrive | WebDrive (x64) | `1.1.18` | x64 | ❌ | en-US |
-| 1351 | Sparkol | VideoScribe | VideoScribe | `3.14.2` | x64 | ❌ | en-US |
-| 1352 | Splashtop Inc. | Splashtop Business | Splashtop Business | `3.8.6.1` | x86,x64 | ❌ | en-US |
-| 1353 | Squirrels | AirParrot 2 | AirParrot 2 (x64) | `2.7.5` | x64 | ❌ | en-US |
-| 1354 | Squirrels | Ditto Connect | Ditto Connect (x64) | `1.11.2` | x64 | ❌ | en-US |
-| 1355 | Squirrels | Squirrels Reflector 3 | Reflector 3 (x64) | `3.2.0` | x64 | ❌ | en-US |
-| 1356 | Squirrels | Squirrels Reflector 4 | Reflector 4 (x64) | `4.1.2` | x64 | ❌ | en-US |
-| 1357 | SRWare | SRWare Iron | Iron (x64) | `150.0.7900.0` | x64 | ❌ | en-US |
-| 1358 | Steam | Steam | Steam | `2.10.91.91` | x86,x64 | ❌ | en-US |
-| 1359 | Stefan Freischlad | Filius | Filius | `2.14.0` | x86,x64 | ❌ | de |
-| 1360 | Stefans Tools | grepWin | grepWin (x64) | `2.1.12.1434` | x64 | ❌ | en-US |
-| 1361 | Stellarium Developers | Stellarium | Stellarium (x64) | `26.1` | x64 | ❌ | en-US |
-| 1362 | Stephen J. Ressler | Bridge Designer 2016 | Bridge Designer 2016 | `2016.2` | x86,x64 | ❌ | en-US |
-| 1363 | SuperOffice AS | SuperOffice WebTools | SuperOffice WebTools for SuperOffice 10.3.1 up to 11.10 | `13.1.61.0` | x86,x64 | ❌ | en-US |
-| 1364 | SuperOffice AS | SuperOffice WebTools | SuperOffice WebTools for SuperOffice 11.11.0 or newer | `13.2.3.0` | x86,x64 | ❌ | en-US |
-| 1365 | SURF | SURF eduVPN Client | eduVPN Client (x64) | `4.6.2` | x64 | ❌ | en-US |
-| 1366 | SURF | SURF eduVPN Client | eduVPN Client (Neutral) (EXE) | `4.6.2.0` | x86,x64 | ❌ | en-US |
-| 1367 | SURF | SURFdrive | SURFdrive (x64) | `5.3.2.15536` | x64 | ❌ | en-US |
-| 1368 | SUSE | Rancher Desktop | Rancher Desktop | `1.24.0` | x64 | ❌ | en-US |
-| 1369 | Symphony Communication Services, LLC | Symphony Desktop Application | Symphony Desktop Application | `26.2.0.2988` | x64 | ❌ | en-US |
-| 1370 | Synology | Synology Cloud Station Backup | Synology Cloud Station Backup | `4.3.3.4469` | x86,x64 | ❌ | en-US |
-| 1371 | Synology | Synology Cloud Station Drive | Synology Cloud Station Drive | `4.3.3.4469` | x86,x64 | ❌ | en-US |
-| 1372 | Synology | Synology Drive Client | Synology Drive Client | `3.5.0.16084` | x86,x64 | ❌ | en-US |
-| 1373 | Synology | Synology Drive Client | Synology Drive Client (x64) | `4.2.0.20058` | x64 | ❌ | en-US |
-| 1374 | Synology | Synology Evidence Integrity Authenticator | Synology Evidence Integrity Authenticator | `1.2.3.025` | x86,x64 | ❌ | en-US |
-| 1375 | Sysprogs | Sysprogs SmarTTY | SmarTTY | `3.0` | x86,x64 | ❌ | en-US |
-| 1376 | Tableau Software Inc | Tableau Desktop 2022 | Tableau Desktop 2022.3 | `2022.3.22` | x64 | ❌ | en-US |
-| 1377 | Tableau Software Inc | Tableau Desktop 2022 | Tableau Desktop 2022.4 | `2022.4.20` | x64 | ❌ | en-US |
-| 1378 | Tableau Software Inc | Tableau Prep Builder 2022 | Tableau Prep Builder 2022.3 | `22.3.27404.0` | x64 | ✅ | en-US |
-| 1379 | Tableau Software Inc | Tableau Prep Builder 2022 | Tableau Prep Builder 2022.4 | `22.4.27646.0` | x64 | ✅ | en-US |
-| 1380 | TablePlus, Inc | TablePlus | TablePlus | `26.10.2` | x64 | ❌ | en-US |
-| 1381 | Tabular Editor ApS | Tabular Editor 2 | Tabular Editor 2 | `2.24.1` | x86,x64 | ❌ | en-US |
-| 1382 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.102.4` | x64 | ❌ | en-US |
-| 1383 | Talkdesk, Inc. | Talkdesk | Talkdesk | `3.3.0` | x64 | ❌ | en-US |
-| 1384 | Talkdesk, Inc. | Talkdesk | Talkdesk (x64) | `1.6.3.1974` | x64 | ❌ | en-US |
-| 1385 | Tarma Software Research Ltd | Publish or Perish | Publish or Perish | `8.19.5300.9483` | x64 | ❌ | en-US |
-| 1386 | TDP s.r.o. | TDP SecureAnyBox Agent | SecureAnyBox Agent | `3.0.3.0` | x86,x64 | ❌ | en-US |
-| 1387 | TDP s.r.o. | TDP SecureAnyBox Launcher | SecureAnyBox Launcher | `2.6.0.0` | x86,x64 | ❌ | en-US |
-| 1388 | TeamSpeak Systems | TeamSpeak client | TeamSpeak client (x64) | `3.6.2` | x64 | ❌ | en-US |
-| 1389 | TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.81.6.0` | x64 | ❌ | en-US |
-| 1390 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host | `15.69.5.0` | x86,x64 | ❌ | en-US |
-| 1391 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.81.6.0` | x64 | ❌ | en-US |
-| 1392 | TechSmith Corporation | Camtasia 2018 | Camtasia 2018 | `18.0.8.4591` | x64 | ✅ | en-US |
-| 1393 | TechSmith Corporation | Camtasia Studio 2019 | Camtasia Studio 2019 | `2019.0.11.17779` | x64 | ✅ | en-US |
-| 1394 | TechSmith Corporation | Snagit 2018 | Snagit 2018 (x64) | `2018.2.6` | x64 | ✅ | en-US |
-| 1395 | TechSmith Corporation | Snagit 2019 | Snagit 2019 (x64) | `19.1.7` | x64 | ✅ | en-US |
-| 1396 | TechSmith Corporation | Snagit 2020 | Snagit 2020 (x64) | `20.1.8` | x64 | ✅ | en-US |
-| 1397 | TechSmith Corporation | Snagit 2021 | Snagit 2021 (x64) | `2021.4.7` | x64 | ❌ | en-US |
-| 1398 | TechSmith Corporation | Snagit 2023 | Snagit 2023 | `2023.2.7` | x64 | ✅ | en-US |
-| 1399 | TechSmith Corporation | Snagit 2024 | Snagit 2024 | `2024.3.7` | x64 | ✅ | en-US |
-| 1400 | Telus | TELUS Business Connect Phone | Business Connect Phone | `24.1.3.46833` | x86,x64 | ❌ | en-US |
-| 1401 | Temperature Technology | Temperature Technology T-TEC | T-TEC | `16.5` | x86,x64 | ❌ | en-US |
-| 1402 | Tenable, Inc. | Nessus Agent 10 | Nessus Agent 10 (x64) | `10.9.3.20018` | x64 | ✅ | en-US |
-| 1403 | Terminalworks | TSPrint Client | TSPrint Client | `3.2.3.13` | x86,x64 | ❌ | en-US |
-| 1404 | Texas Instruments | TI-Nspire CX CAS Student Software | TI-Nspire CX CAS Student Software | `6.3.0.119` | x64 | ❌ | en-US |
-| 1405 | Texas Instruments | TI-Nspire CX Premium Teacher Software | TI-Nspire CX Premium Teacher Software | `6.4.0.74` | x64 | ❌ | en-US |
-| 1406 | Texas Instruments | TI-SmartView CE-T | TI-SmartView CE-T | `6.0.4.688` | x64 | ❌ | en-US |
-| 1407 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.5` | x64 | ✅ | en-US |
-| 1408 | TGRMN Software | TGRMN Software Bulk Rename Utility | Bulk Rename Utility (x64) | `4.1.0.1` | x64 | ❌ | en-US |
-| 1409 | The AnyLogic Company | AnyLogic Professional | AnyLogic Professional | `8.9.6` | x64 | ❌ | en-US |
-| 1410 | The AnyLogic Company | AnyLogic University | AnyLogic University | `8.9.9` | x64 | ❌ | en-US |
-| 1411 | The Document Foundation | The Document Foundation LibreOffice 24 | LibreOffice 24.8 (x64) | `24.8.7.2` | x64 | ❌ | en-US |
-| 1412 | The Document Foundation | The Document Foundation LibreOffice 24 | LibreOffice 24.2 (x64) | `24.2.7.2` | x64 | ❌ | en-US |
-| 1413 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (German) | `24.8.7.2` | x64 | ❌ | de |
-| 1414 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Russian) | `24.2.7.2` | x64 | ❌ | ru |
-| 1415 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (English US) | `24.2.7.2` | x64 | ❌ | en-US |
-| 1416 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Arabic) | `24.2.7.2` | x64 | ❌ | ar |
-| 1417 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Hungarian) | `24.2.7.2` | x64 | ❌ | hu |
-| 1418 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Croatian) | `24.2.7.2` | x64 | ❌ | en-US |
-| 1419 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Slovak) | `24.8.7.2` | x64 | ❌ | sk |
-| 1420 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Ukrainian) | `24.2.7.2` | x64 | ❌ | uk |
-| 1421 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (English GB) | `24.2.7.2` | x64 | ❌ | en-GB |
-| 1422 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (French) | `24.8.7.2` | x64 | ❌ | fr |
-| 1423 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Czech) | `24.2.7.2` | x64 | ❌ | cs |
-| 1424 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Hungarian) | `24.8.7.2` | x64 | ❌ | hu |
-| 1425 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Ukrainian) | `24.8.7.2` | x64 | ❌ | uk |
-| 1426 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (English GB) | `24.8.7.2` | x64 | ❌ | en-GB |
-| 1427 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Swedish) | `24.8.7.2` | x64 | ❌ | sv |
-| 1428 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Finnish) | `24.2.7.2` | x64 | ❌ | fi |
-| 1429 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (French) | `24.2.7.2` | x64 | ❌ | fr |
-| 1430 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Croatian) | `24.2.7.2` | x64 | ❌ | hr |
-| 1431 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Bulgarian) | `24.2.7.2` | x64 | ❌ | bg |
-| 1432 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (German) | `24.2.7.2` | x64 | ❌ | de |
-| 1433 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Dutch) | `24.2.7.2` | x64 | ❌ | nl |
-| 1434 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Dutch) | `24.8.7.2` | x64 | ❌ | nl |
-| 1435 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Croatian) | `24.8.7.2` | x64 | ❌ | hr |
-| 1436 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Arabic) | `24.8.7.2` | x64 | ❌ | ar |
-| 1437 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Swedish) | `24.2.7.2` | x64 | ❌ | sv |
-| 1438 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Russian) | `24.8.7.2` | x64 | ❌ | ru |
-| 1439 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (English US) | `24.8.7.2` | x64 | ❌ | en-US |
-| 1440 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Finnish) | `24.8.7.2` | x64 | ❌ | fi |
-| 1441 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Slovenian) | `24.8.7.2` | x64 | ❌ | sl |
-| 1442 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Slovak) | `24.2.7.2` | x64 | ❌ | sk |
-| 1443 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Bulgarian) | `24.8.7.2` | x64 | ❌ | bg |
-| 1444 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Slovenian) | `24.2.7.2` | x64 | ❌ | sl |
-| 1445 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Czech) | `24.8.7.2` | x64 | ❌ | cs |
-| 1446 | The Document Foundation | The Document Foundation LibreOffice 6.2 | LibreOffice 6.2 (x64) | `6.2.8.2` | x64 | ❌ | en-US |
-| 1447 | The Document Foundation | The Document Foundation LibreOffice 6.3 | LibreOffice 6.3 (x64) | `6.3.6.2` | x64 | ❌ | en-US |
-| 1448 | The Document Foundation | The Document Foundation LibreOffice 6.4 | LibreOffice 6.4 (x64) | `6.4.7.2` | x64 | ❌ | en-US |
-| 1449 | The Document Foundation | The Document Foundation LibreOffice 7.4 | LibreOffice 7.4 (x64) | `7.4.7.2` | x64 | ❌ | en-US |
-| 1450 | The Document Foundation | The Document Foundation LibreOffice 7.4 Help Pack | LibreOffice 7.4 Help Pack (x64) (Dutch) | `7.4.7.2` | x64 | ❌ | nl |
-| 1451 | The Document Foundation | The Document Foundation LibreOffice 7.4 Help Pack | LibreOffice 7.4 Help Pack (x64) (English US) | `7.4.7.2` | x64 | ❌ | en-US |
-| 1452 | The Document Foundation | The Document Foundation LibreOffice 7.5 | LibreOffice 7.5 (x64) | `7.5.9.2` | x64 | ❌ | en-US |
-| 1453 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (German) | `7.5.9.2` | x64 | ❌ | de |
-| 1454 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Dutch) | `7.5.9.2` | x64 | ❌ | nl |
-| 1455 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Spanish) | `7.5.9.2` | x64 | ❌ | es |
-| 1456 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Italian) | `7.5.9.2` | x64 | ❌ | it |
-| 1457 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Simplified Chinese) | `7.5.9.2` | x64 | ❌ | zh-CN |
-| 1458 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Traditional Chinese) | `7.5.9.2` | x64 | ❌ | zh-TW |
-| 1459 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Romanian) | `7.5.9.2` | x64 | ❌ | ro |
+| 1275 | RStudio | Rstudio | RStudio 2026.09 | `2026.09.0.174` | x64 | ❌ | en-US |
+| 1276 | RStudio | Rstudio | RStudio 2026.08 | `2026.08.2.200` | x64 | ❌ | en-US |
+| 1277 | RStudio | Rstudio | RStudio 2026.04 | `2026.04.0.526` | x64 | ❌ | en-US |
+| 1278 | RStudio | Rstudio | RStudio 2026.01 | `2026.01.2.418` | x64 | ❌ | en-US |
+| 1279 | RStudio | Rstudio | RStudio 2026.06 | `2026.06.0.242` | x64 | ❌ | en-US |
+| 1280 | RStudio | Rstudio | RStudio 2026.05 | `2026.05.1.225` | x64 | ❌ | en-US |
+| 1281 | RStudio | RStudio 1.4 | RStudio 1.4 | `1.4.1743` | x86,x64 | ❌ | en-US |
+| 1282 | RStudio | RStudio 2022 | RStudio 2022.02 | `2022.02.5.503` | x86,x64 | ❌ | en-US |
+| 1283 | RStudio | RStudio 2022 | RStudio 2022.12 | `2022.12.0.353` | x64 | ❌ | en-US |
+| 1284 | RStudio | RStudio 2022 | RStudio 2022.07 | `2022.07.3.585` | x86,x64 | ❌ | en-US |
+| 1285 | RStudio | RStudio 2023 | RStudio 2023.03 | `2023.03.2.454` | x64 | ❌ | en-US |
+| 1286 | RStudio | RStudio 2023 | RStudio 2023.12 | `2023.12.1.402` | x64 | ❌ | en-US |
+| 1287 | RStudio | RStudio 2023 | RStudio 2023.09 | `2023.09.1.494` | x64 | ❌ | en-US |
+| 1288 | RStudio | Rstudio 2024 | RStudio 2024.09 | `2024.09.1.394` | x64 | ❌ | en-US |
+| 1289 | RStudio | Rstudio 2024 | RStudio 2024.12 | `2024.12.1.563` | x64 | ❌ | en-US |
+| 1290 | Rystad Energy | Cube Browser | Cube Browser (x64) | `2.6.62.0` | x64 | ❌ | en-US |
+| 1291 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.150.6` | x64 | ❌ | en-US |
+| 1292 | Samsung | Samsung Smart Switch | Samsung Smart Switch | `4.3.24062.1` | x86,x64 | ❌ | en-US |
+| 1293 | Samsung Techwin Co., Ltd | Samsung Smart View | Smart View | `1.0.0.0` | x86,x64 | ❌ | en-US |
+| 1294 | SanDisk Corporation | SanDisk Dashboard | SanDisk Dashboard | `5.2.2.3` | x86,x64 | ✅ | en-US |
+| 1295 | SanDisk Corporation | SanDisk Dashboard | Western Digital Dashboard | `5.0.2.3` | x86,x64 | ✅ | en-US |
+| 1296 | ScaleFT | ScaleFT | ScaleFT | `1.83.4` | x64 | ❌ | en-US |
+| 1297 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 4 | `4.4.0.25886` | x64 | ❌ | en-US |
+| 1298 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 4 (x64) | `4.4.7.28397` | x64 | ❌ | en-US |
+| 1299 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 5 (x64) | `5.2.5.32528` | x64 | ❌ | en-US |
+| 1300 | ScreenBeam Inc. | ScreenBeam Conference | ScreenBeam Conference | `1.0.5.10` | x64 | ❌ | en-US |
+| 1301 | ScreenCloud | ScreenCloud Player | ScreenCloud Player (x64) | `3.12.0` | x64 | ✅ | en-US |
+| 1302 | secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.4` | x86,x64 | ❌ | en-US |
+| 1303 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.11` | x64 | ❌ | en-US |
+| 1304 | Semeru | IBM Semeru Runtime Open Edition JDK 11 (LTS) | IBM Semeru Runtime Open Edition JDK 11 (LTS) | `11.0.30.7` | x64 | ❌ | en-US |
+| 1305 | Semeru | IBM Semeru Runtime Open Edition JDK 16 | IBM Semeru Runtime Open Edition JDK 16 | `16.0.2.7` | x64 | ❌ | en-US |
+| 1306 | Semeru | IBM Semeru Runtime Open Edition JDK 17 (LTS) | IBM Semeru Runtime Open Edition JDK 17 (LTS) | `17.0.18.8` | x64 | ❌ | en-US |
+| 1307 | Semeru | IBM Semeru Runtime Open Edition JDK 18 | IBM Semeru Runtime Open Edition JDK 18 | `18.0.2.9` | x64 | ❌ | en-US |
+| 1308 | Semeru | IBM Semeru Runtime Open Edition JDK 19 | IBM Semeru Runtime Open Edition JDK 19 | `19.0.2.7` | x64 | ❌ | en-US |
+| 1309 | Semeru | IBM Semeru Runtime Open Edition JDK 20 | IBM Semeru Runtime Open Edition JDK 20 | `20.0.2.9` | x64 | ❌ | en-US |
+| 1310 | Semeru | IBM Semeru Runtime Open Edition JDK 22 | IBM Semeru Runtime Open Edition JDK 22 | `22.0.2.9` | x64 | ❌ | en-US |
+| 1311 | Semeru | IBM Semeru Runtime Open Edition JDK 8 (LTS) | IBM Semeru Runtime Open Edition JDK 8 (LTS) (x64) | `8.0.482.8` | x64 | ❌ | en-US |
+| 1312 | Semeru | IBM Semeru Runtime Open Edition JRE 11 (LTS) | IBM Semeru Runtime Open Edition JRE 11 (LTS) | `11.0.30.7` | x64 | ❌ | en-US |
+| 1313 | Semeru | IBM Semeru Runtime Open Edition JRE 17 (LTS) | IBM Semeru Runtime Open Edition JRE 17 (LTS) | `17.0.18.8` | x64 | ❌ | en-US |
+| 1314 | Semeru | IBM Semeru Runtime Open Edition JRE 18 | IBM Semeru Runtime Open Edition JRE 18 | `18.0.2.9` | x64 | ❌ | en-US |
+| 1315 | Semeru | IBM Semeru Runtime Open Edition JRE 19 | IBM Semeru Runtime Open Edition JRE 19 | `19.0.2.7` | x64 | ❌ | en-US |
+| 1316 | Semeru | IBM Semeru Runtime Open Edition JRE 20 | IBM Semeru Runtime Open Edition JRE 20 | `20.0.2.9` | x64 | ❌ | en-US |
+| 1317 | Semeru | IBM Semeru Runtime Open Edition JRE 22 | IBM Semeru Runtime Open Edition JRE 22 | `22.0.2.9` | x64 | ❌ | en-US |
+| 1318 | Semeru | IBM Semeru Runtime Open Edition JRE 8 (LTS) | IBM Semeru Runtime Open Edition JRE 8 (LTS) (x64) | `8.0.482.8` | x64 | ❌ | en-US |
+| 1319 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.32.143.0` | x64 | ❌ | en-US |
+| 1320 | Shotcut | Shotcut | Shotcut (x64) | `26.8.1` | x64 | ❌ | en-US |
+| 1321 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.7.7` | x64 | ✅ | en-US |
+| 1322 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.7.7` | x64 | ✅ | en-US |
+| 1323 | Siber Systems Inc | RoboForm | RoboForm | `9.9.4.6` | x86,x64 | ❌ | en-US |
+| 1324 | SideQuest | SideQuest | SideQuest | `1.1.0` | x64 | ❌ | en-US |
+| 1325 | Signiant Inc. | Signiant App | Signiant App | `1.5.1773` | x64 | ❌ | en-US |
+| 1326 | Simnet Ltd | Simple Sticky Notes | Simple Sticky Notes | `6.9` | x86,x64 | ❌ | en-US |
+| 1327 | Simon Tatham | PuTTY | PuTTY (x64) | `0.85.0.0` | x64 | ❌ | en-US |
+| 1328 | Simon Tatham | PuTTY CAC | PuTTY CAC (x64) | `0.85` | x64 | ✅ | en-US |
+| 1329 | Skillbrains | Skillbrains LightShot | LightShot | `5.5.0.7` | x86,x64 | ❌ | en-US |
+| 1330 | Skymatic GmbH | Cryptomator | Cryptomator | `1.19.3.6495` | x64 | ❌ | en-US |
+| 1331 | Slido | Slido | Slido | `1.22.4` | x64 | ❌ | en-US |
+| 1332 | Smart Projects | IsoBuster | IsoBuster (x64) | `5.8` | x64 | ❌ | en-US |
+| 1333 | SmartBear Software | SoapUI | SoapUI (x64) | `5.10.0` | x64 | ❌ | en-US |
+| 1334 | Smartsheet Inc. | Smartsheet desktop app | Smartsheet desktop app | `1.0.54` | x64 | ❌ | en-US |
+| 1335 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3328.0` | x64 | ❌ | en-US |
+| 1336 | SMath LLC | SMath Studio | SMath Studio | `1.5.0-9678` | x86,x64 | ❌ | en-US |
+| 1337 | Snapmaker | Snapmaker Luban | Snapmaker Luban (x64) | `4.15.0` | x64 | ❌ | en-US |
+| 1338 | SnelStart | SnelStart | SnelStart | `12.195.179` | x86,x64 | ❌ | nl |
+| 1339 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.5` | x64 | ❌ | en-US |
+| 1340 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.0.2` | x64 | ❌ | en-US |
+| 1341 | Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.23.28922.0` | x64 | ❌ | de |
+| 1342 | Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.23.28922.0` | x64 | ❌ | en-US |
+| 1343 | Softerra | Softerra LDAP Browser | LDAP Browser - German (x64) | `4.5.19808.0` | x64 | ❌ | de |
+| 1344 | Softerra | Softerra LDAP Browser | LDAP Browser - English (x64) | `4.5.19808.0` | x64 | ❌ | en-US |
+| 1345 | SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.4.2` | x64 | ❌ | en-US |
+| 1346 | Softland | Softland doPDF | doPDF | `11.9.523` | x64 | ❌ | en-US |
+| 1347 | SolarWinds | SolarWinds Orion SDK | SolarWinds Orion SDK (x64) | `3.3.0.50070` | x64 | ❌ | en-US |
+| 1348 | SonicWall | SonicWall Connect Tunnel | SonicWall Connect Tunnel (x64) | `12.5.0.247` | x64 | ❌ | en-US |
+| 1349 | SonicWall | SonicWall NetExtender | SonicWall NetExtender (x64) | `10.3.5` | x64 | ❌ | en-US |
+| 1350 | Sophos | Sophos Connect | Sophos Connect | `2.3.3003.0207` | x86,x64 | ❌ | en-US |
+| 1351 | South River Technologies | South River Technologies WebDrive | WebDrive (x64) | `1.1.18` | x64 | ❌ | en-US |
+| 1352 | Sparkol | VideoScribe | VideoScribe | `3.14.2` | x64 | ❌ | en-US |
+| 1353 | Splashtop Inc. | Splashtop Business | Splashtop Business | `3.8.6.1` | x86,x64 | ❌ | en-US |
+| 1354 | Squirrels | AirParrot 2 | AirParrot 2 (x64) | `2.7.5` | x64 | ❌ | en-US |
+| 1355 | Squirrels | Ditto Connect | Ditto Connect (x64) | `1.11.2` | x64 | ❌ | en-US |
+| 1356 | Squirrels | Squirrels Reflector 3 | Reflector 3 (x64) | `3.2.0` | x64 | ❌ | en-US |
+| 1357 | Squirrels | Squirrels Reflector 4 | Reflector 4 (x64) | `4.1.2` | x64 | ❌ | en-US |
+| 1358 | SRWare | SRWare Iron | Iron (x64) | `150.0.7900.0` | x64 | ❌ | en-US |
+| 1359 | Steam | Steam | Steam | `2.10.91.91` | x86,x64 | ❌ | en-US |
+| 1360 | Stefan Freischlad | Filius | Filius | `2.14.0` | x86,x64 | ❌ | de |
+| 1361 | Stefans Tools | grepWin | grepWin (x64) | `2.1.12.1434` | x64 | ❌ | en-US |
+| 1362 | Stellarium Developers | Stellarium | Stellarium (x64) | `26.1` | x64 | ❌ | en-US |
+| 1363 | Stephen J. Ressler | Bridge Designer 2016 | Bridge Designer 2016 | `2016.2` | x86,x64 | ❌ | en-US |
+| 1364 | SuperOffice AS | SuperOffice WebTools | SuperOffice WebTools for SuperOffice 10.3.1 up to 11.10 | `13.1.61.0` | x86,x64 | ❌ | en-US |
+| 1365 | SuperOffice AS | SuperOffice WebTools | SuperOffice WebTools for SuperOffice 11.11.0 or newer | `13.2.3.0` | x86,x64 | ❌ | en-US |
+| 1366 | SURF | SURF eduVPN Client | eduVPN Client (x64) | `4.6.2` | x64 | ❌ | en-US |
+| 1367 | SURF | SURF eduVPN Client | eduVPN Client (Neutral) (EXE) | `4.6.2.0` | x86,x64 | ❌ | en-US |
+| 1368 | SURF | SURFdrive | SURFdrive (x64) | `5.3.2.15536` | x64 | ❌ | en-US |
+| 1369 | SUSE | Rancher Desktop | Rancher Desktop | `1.24.0` | x64 | ❌ | en-US |
+| 1370 | Symphony Communication Services, LLC | Symphony Desktop Application | Symphony Desktop Application | `26.2.0.2988` | x64 | ❌ | en-US |
+| 1371 | Synology | Synology Cloud Station Backup | Synology Cloud Station Backup | `4.3.3.4469` | x86,x64 | ❌ | en-US |
+| 1372 | Synology | Synology Cloud Station Drive | Synology Cloud Station Drive | `4.3.3.4469` | x86,x64 | ❌ | en-US |
+| 1373 | Synology | Synology Drive Client | Synology Drive Client | `3.5.0.16084` | x86,x64 | ❌ | en-US |
+| 1374 | Synology | Synology Drive Client | Synology Drive Client (x64) | `4.2.0.20058` | x64 | ❌ | en-US |
+| 1375 | Synology | Synology Evidence Integrity Authenticator | Synology Evidence Integrity Authenticator | `1.2.3.025` | x86,x64 | ❌ | en-US |
+| 1376 | Sysprogs | Sysprogs SmarTTY | SmarTTY | `3.0` | x86,x64 | ❌ | en-US |
+| 1377 | Tableau Software Inc | Tableau Desktop 2022 | Tableau Desktop 2022.3 | `2022.3.22` | x64 | ❌ | en-US |
+| 1378 | Tableau Software Inc | Tableau Desktop 2022 | Tableau Desktop 2022.4 | `2022.4.20` | x64 | ❌ | en-US |
+| 1379 | Tableau Software Inc | Tableau Prep Builder 2022 | Tableau Prep Builder 2022.3 | `22.3.27404.0` | x64 | ✅ | en-US |
+| 1380 | Tableau Software Inc | Tableau Prep Builder 2022 | Tableau Prep Builder 2022.4 | `22.4.27646.0` | x64 | ✅ | en-US |
+| 1381 | TablePlus, Inc | TablePlus | TablePlus | `26.10.2` | x64 | ❌ | en-US |
+| 1382 | Tabular Editor ApS | Tabular Editor 2 | Tabular Editor 2 | `2.24.1` | x86,x64 | ❌ | en-US |
+| 1383 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.102.4` | x64 | ❌ | en-US |
+| 1384 | Talkdesk, Inc. | Talkdesk | Talkdesk | `3.3.0` | x64 | ❌ | en-US |
+| 1385 | Talkdesk, Inc. | Talkdesk | Talkdesk (x64) | `1.6.3.1974` | x64 | ❌ | en-US |
+| 1386 | Tarma Software Research Ltd | Publish or Perish | Publish or Perish | `8.19.5300.9483` | x64 | ❌ | en-US |
+| 1387 | TDP s.r.o. | TDP SecureAnyBox Agent | SecureAnyBox Agent | `3.0.3.0` | x86,x64 | ❌ | en-US |
+| 1388 | TDP s.r.o. | TDP SecureAnyBox Launcher | SecureAnyBox Launcher | `2.6.0.0` | x86,x64 | ❌ | en-US |
+| 1389 | TeamSpeak Systems | TeamSpeak client | TeamSpeak client (x64) | `3.6.2` | x64 | ❌ | en-US |
+| 1390 | TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.81.6.0` | x64 | ❌ | en-US |
+| 1391 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host | `15.69.5.0` | x86,x64 | ❌ | en-US |
+| 1392 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.81.6.0` | x64 | ❌ | en-US |
+| 1393 | TechSmith Corporation | Camtasia 2018 | Camtasia 2018 | `18.0.8.4591` | x64 | ✅ | en-US |
+| 1394 | TechSmith Corporation | Camtasia Studio 2019 | Camtasia Studio 2019 | `2019.0.11.17779` | x64 | ✅ | en-US |
+| 1395 | TechSmith Corporation | Snagit 2018 | Snagit 2018 (x64) | `2018.2.6` | x64 | ✅ | en-US |
+| 1396 | TechSmith Corporation | Snagit 2019 | Snagit 2019 (x64) | `19.1.7` | x64 | ✅ | en-US |
+| 1397 | TechSmith Corporation | Snagit 2020 | Snagit 2020 (x64) | `20.1.8` | x64 | ✅ | en-US |
+| 1398 | TechSmith Corporation | Snagit 2021 | Snagit 2021 (x64) | `2021.4.7` | x64 | ❌ | en-US |
+| 1399 | TechSmith Corporation | Snagit 2023 | Snagit 2023 | `2023.2.7` | x64 | ✅ | en-US |
+| 1400 | TechSmith Corporation | Snagit 2024 | Snagit 2024 | `2024.3.7` | x64 | ✅ | en-US |
+| 1401 | Telus | TELUS Business Connect Phone | Business Connect Phone | `24.1.3.46833` | x86,x64 | ❌ | en-US |
+| 1402 | Temperature Technology | Temperature Technology T-TEC | T-TEC | `16.5` | x86,x64 | ❌ | en-US |
+| 1403 | Tenable, Inc. | Nessus Agent 10 | Nessus Agent 10 (x64) | `10.9.3.20018` | x64 | ✅ | en-US |
+| 1404 | Terminalworks | TSPrint Client | TSPrint Client | `3.2.3.13` | x86,x64 | ❌ | en-US |
+| 1405 | Texas Instruments | TI-Nspire CX CAS Student Software | TI-Nspire CX CAS Student Software | `6.3.0.119` | x64 | ❌ | en-US |
+| 1406 | Texas Instruments | TI-Nspire CX Premium Teacher Software | TI-Nspire CX Premium Teacher Software | `6.4.0.74` | x64 | ❌ | en-US |
+| 1407 | Texas Instruments | TI-SmartView CE-T | TI-SmartView CE-T | `6.0.4.688` | x64 | ❌ | en-US |
+| 1408 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.5` | x64 | ✅ | en-US |
+| 1409 | TGRMN Software | TGRMN Software Bulk Rename Utility | Bulk Rename Utility (x64) | `4.1.0.1` | x64 | ❌ | en-US |
+| 1410 | The AnyLogic Company | AnyLogic Professional | AnyLogic Professional | `8.9.6` | x64 | ❌ | en-US |
+| 1411 | The AnyLogic Company | AnyLogic University | AnyLogic University | `8.9.9` | x64 | ❌ | en-US |
+| 1412 | The Document Foundation | The Document Foundation LibreOffice 24 | LibreOffice 24.8 (x64) | `24.8.7.2` | x64 | ❌ | en-US |
+| 1413 | The Document Foundation | The Document Foundation LibreOffice 24 | LibreOffice 24.2 (x64) | `24.2.7.2` | x64 | ❌ | en-US |
+| 1414 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (German) | `24.8.7.2` | x64 | ❌ | de |
+| 1415 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Russian) | `24.2.7.2` | x64 | ❌ | ru |
+| 1416 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (English US) | `24.2.7.2` | x64 | ❌ | en-US |
+| 1417 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Arabic) | `24.2.7.2` | x64 | ❌ | ar |
+| 1418 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Hungarian) | `24.2.7.2` | x64 | ❌ | hu |
+| 1419 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Croatian) | `24.2.7.2` | x64 | ❌ | en-US |
+| 1420 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Slovak) | `24.8.7.2` | x64 | ❌ | sk |
+| 1421 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Ukrainian) | `24.2.7.2` | x64 | ❌ | uk |
+| 1422 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (English GB) | `24.2.7.2` | x64 | ❌ | en-GB |
+| 1423 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (French) | `24.8.7.2` | x64 | ❌ | fr |
+| 1424 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Czech) | `24.2.7.2` | x64 | ❌ | cs |
+| 1425 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Hungarian) | `24.8.7.2` | x64 | ❌ | hu |
+| 1426 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Ukrainian) | `24.8.7.2` | x64 | ❌ | uk |
+| 1427 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (English GB) | `24.8.7.2` | x64 | ❌ | en-GB |
+| 1428 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Swedish) | `24.8.7.2` | x64 | ❌ | sv |
+| 1429 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Finnish) | `24.2.7.2` | x64 | ❌ | fi |
+| 1430 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (French) | `24.2.7.2` | x64 | ❌ | fr |
+| 1431 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Croatian) | `24.2.7.2` | x64 | ❌ | hr |
+| 1432 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Bulgarian) | `24.2.7.2` | x64 | ❌ | bg |
+| 1433 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (German) | `24.2.7.2` | x64 | ❌ | de |
+| 1434 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Dutch) | `24.2.7.2` | x64 | ❌ | nl |
+| 1435 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Dutch) | `24.8.7.2` | x64 | ❌ | nl |
+| 1436 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Croatian) | `24.8.7.2` | x64 | ❌ | hr |
+| 1437 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Arabic) | `24.8.7.2` | x64 | ❌ | ar |
+| 1438 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Swedish) | `24.2.7.2` | x64 | ❌ | sv |
+| 1439 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Russian) | `24.8.7.2` | x64 | ❌ | ru |
+| 1440 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (English US) | `24.8.7.2` | x64 | ❌ | en-US |
+| 1441 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Finnish) | `24.8.7.2` | x64 | ❌ | fi |
+| 1442 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Slovenian) | `24.8.7.2` | x64 | ❌ | sl |
+| 1443 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Slovak) | `24.2.7.2` | x64 | ❌ | sk |
+| 1444 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Bulgarian) | `24.8.7.2` | x64 | ❌ | bg |
+| 1445 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.2 Help Pack (x64) (Slovenian) | `24.2.7.2` | x64 | ❌ | sl |
+| 1446 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (Czech) | `24.8.7.2` | x64 | ❌ | cs |
+| 1447 | The Document Foundation | The Document Foundation LibreOffice 6.2 | LibreOffice 6.2 (x64) | `6.2.8.2` | x64 | ❌ | en-US |
+| 1448 | The Document Foundation | The Document Foundation LibreOffice 6.3 | LibreOffice 6.3 (x64) | `6.3.6.2` | x64 | ❌ | en-US |
+| 1449 | The Document Foundation | The Document Foundation LibreOffice 6.4 | LibreOffice 6.4 (x64) | `6.4.7.2` | x64 | ❌ | en-US |
+| 1450 | The Document Foundation | The Document Foundation LibreOffice 7.4 | LibreOffice 7.4 (x64) | `7.4.7.2` | x64 | ❌ | en-US |
+| 1451 | The Document Foundation | The Document Foundation LibreOffice 7.4 Help Pack | LibreOffice 7.4 Help Pack (x64) (Dutch) | `7.4.7.2` | x64 | ❌ | nl |
+| 1452 | The Document Foundation | The Document Foundation LibreOffice 7.4 Help Pack | LibreOffice 7.4 Help Pack (x64) (English US) | `7.4.7.2` | x64 | ❌ | en-US |
+| 1453 | The Document Foundation | The Document Foundation LibreOffice 7.5 | LibreOffice 7.5 (x64) | `7.5.9.2` | x64 | ❌ | en-US |
+| 1454 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (German) | `7.5.9.2` | x64 | ❌ | de |
+| 1455 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Dutch) | `7.5.9.2` | x64 | ❌ | nl |
+| 1456 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Spanish) | `7.5.9.2` | x64 | ❌ | es |
+| 1457 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Italian) | `7.5.9.2` | x64 | ❌ | it |
+| 1458 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Simplified Chinese) | `7.5.9.2` | x64 | ❌ | zh-CN |
+| 1459 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Traditional Chinese) | `7.5.9.2` | x64 | ❌ | zh-TW |
 | 1460 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Romanian) | `7.5.9.2` | x64 | ❌ | ro |
-| 1461 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Korean) | `7.5.9.2` | x64 | ❌ | ko |
-| 1462 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Hungarian) | `7.5.9.2` | x64 | ❌ | hu |
-| 1463 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Finnish) | `7.5.9.2` | x64 | ❌ | fi |
-| 1464 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Bulgarian) | `7.5.9.2` | x64 | ❌ | bg |
-| 1465 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (English GB) | `7.5.9.2` | x64 | ❌ | en-GB |
-| 1466 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Polish) | `7.5.9.2` | x64 | ❌ | pl |
-| 1467 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (French) | `7.5.9.2` | x64 | ❌ | fr |
-| 1468 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (English US) | `7.5.9.2` | x64 | ❌ | en-US |
-| 1469 | The Document Foundation | The Document Foundation LibreOffice 7.5 SDK | LibreOffice 7.5 SDK | `7.5.9.2` | x64 | ❌ | en-US |
-| 1470 | The Git Development Community | Git | Git (x64) | `2.55.0.5` | x64 | ✅ | en-US |
-| 1471 | The Graphviz Authors | Graphviz | Graphviz (x64) | `13.1.0` | x64 | ❌ | en-US |
-| 1472 | The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.3.1` | x64 | ❌ | en-US |
-| 1473 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58.2` | x64 | ❌ | en-US |
-| 1474 | Thycotic Software, LLC | Thycotic Application Control Agent | Thycotic Application Control Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
-| 1475 | Thycotic Software, LLC | Thycotic Directory Services Agent | Thycotic Directory Services Agent (x64) | `12.0.5041` | x64 | ❌ | en-US |
-| 1476 | Thycotic Software, LLC | Thycotic Local Security Agent | Thycotic Local Security Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
-| 1477 | Tidio | Tidio | Tidio | `5.7.0` | x64 | ❌ | en-US |
-| 1478 | TightVNC | TightVNC | TightVNC (x64) | `2.8.88.0` | x64 | ❌ | en-US |
-| 1479 | Topaz Systems, Inc. | Topaz SigPlusExtLite | Topaz SigPlusExtLite | `3.2.17.0` | x86,x64 | ❌ | en-US |
-| 1480 | TortoiseGit | TortoiseGit | TortoiseGit (x64) | `2.19.1.0` | x64 | ❌ | en-US |
-| 1481 | TortoiseHg | TortoiseHg | TortoiseHg (x64) | `7.0.1` | x64 | ❌ | en-US |
-| 1482 | TortoiseSVN | TortoiseSVN | TortoiseSVN (x64) | `1.14.29743` | x64 | ✅ | en-US |
-| 1483 | TortoiseSVN | TortoiseSVN ipv6 | TortoiseSVN ipv6 (x64) | `1.14.29387` | x64 | ✅ | en-US |
-| 1484 | TPGi | Colour Contrast Analyser | Colour Contrast Analyser (EXE) | `3.5.5` | x64 | ❌ | en-US |
-| 1485 | TPGi | Colour Contrast Analyser | Colour Contrast Analyser (MSI) | `3.5.5` | x64 | ❌ | en-US |
-| 1486 | TransIP BV | TransIP STACK | TransIP STACK | `6.0.2.490` | x64 | ❌ | nl |
-| 1487 | Tribler | Tribler | Tribler (x64) | `8.4.3` | x64 | ❌ | en-US |
-| 1488 | Trimble Navigation Limited | Sketchup Pro | Sketchup Pro 2026 | `2026.2.243` | x64 | ❌ | en-US |
-| 1489 | Trimble Navigation Limited | Sketchup Pro 2024 | Sketchup Pro 2024 | `24.0.594.0` | x64 | ❌ | en-US |
-| 1490 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.32.0.827` | x64 | ❌ | en-US |
-| 1491 | Turbo | Turbo Studio | Turbo Studio | `26.4.4.515` | x86,x64 | ❌ | en-US |
-| 1492 | Turbo.net | Turbo.net Desktop | Turbo.net Desktop | `26.3.11.2687` | x86,x64 | ❌ | en-US |
-| 1493 | typora.io | Typora | Typora (x64) | `1.14.10` | x64 | ❌ | en-US |
-| 1494 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.13.0` | x64 | ❌ | en-US |
-| 1495 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | x64 | ❌ | en-US |
-| 1496 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.9` | x64 | ❌ | en-US |
+| 1461 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Romanian) | `7.5.9.2` | x64 | ❌ | ro |
+| 1462 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Korean) | `7.5.9.2` | x64 | ❌ | ko |
+| 1463 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Hungarian) | `7.5.9.2` | x64 | ❌ | hu |
+| 1464 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Finnish) | `7.5.9.2` | x64 | ❌ | fi |
+| 1465 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Bulgarian) | `7.5.9.2` | x64 | ❌ | bg |
+| 1466 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (English GB) | `7.5.9.2` | x64 | ❌ | en-GB |
+| 1467 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (Polish) | `7.5.9.2` | x64 | ❌ | pl |
+| 1468 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (French) | `7.5.9.2` | x64 | ❌ | fr |
+| 1469 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (English US) | `7.5.9.2` | x64 | ❌ | en-US |
+| 1470 | The Document Foundation | The Document Foundation LibreOffice 7.5 SDK | LibreOffice 7.5 SDK | `7.5.9.2` | x64 | ❌ | en-US |
+| 1471 | The Git Development Community | Git | Git (x64) | `2.55.0.5` | x64 | ✅ | en-US |
+| 1472 | The Graphviz Authors | Graphviz | Graphviz (x64) | `13.1.0` | x64 | ❌ | en-US |
+| 1473 | The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.3.1` | x64 | ❌ | en-US |
+| 1474 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58.2` | x64 | ❌ | en-US |
+| 1475 | Thycotic Software, LLC | Thycotic Application Control Agent | Thycotic Application Control Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
+| 1476 | Thycotic Software, LLC | Thycotic Directory Services Agent | Thycotic Directory Services Agent (x64) | `12.0.5041` | x64 | ❌ | en-US |
+| 1477 | Thycotic Software, LLC | Thycotic Local Security Agent | Thycotic Local Security Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
+| 1478 | Tidio | Tidio | Tidio | `5.7.0` | x64 | ❌ | en-US |
+| 1479 | TightVNC | TightVNC | TightVNC (x64) | `2.8.88.0` | x64 | ❌ | en-US |
+| 1480 | Topaz Systems, Inc. | Topaz SigPlusExtLite | Topaz SigPlusExtLite | `3.2.17.0` | x86,x64 | ❌ | en-US |
+| 1481 | TortoiseGit | TortoiseGit | TortoiseGit (x64) | `2.19.1.0` | x64 | ❌ | en-US |
+| 1482 | TortoiseHg | TortoiseHg | TortoiseHg (x64) | `7.0.1` | x64 | ❌ | en-US |
+| 1483 | TortoiseSVN | TortoiseSVN | TortoiseSVN (x64) | `1.14.29743` | x64 | ✅ | en-US |
+| 1484 | TortoiseSVN | TortoiseSVN ipv6 | TortoiseSVN ipv6 (x64) | `1.14.29387` | x64 | ✅ | en-US |
+| 1485 | TPGi | Colour Contrast Analyser | Colour Contrast Analyser (EXE) | `3.5.5` | x64 | ❌ | en-US |
+| 1486 | TPGi | Colour Contrast Analyser | Colour Contrast Analyser (MSI) | `3.5.5` | x64 | ❌ | en-US |
+| 1487 | TransIP BV | TransIP STACK | TransIP STACK | `6.0.2.490` | x64 | ❌ | nl |
+| 1488 | Tribler | Tribler | Tribler (x64) | `8.4.3` | x64 | ❌ | en-US |
+| 1489 | Trimble Navigation Limited | Sketchup Pro | Sketchup Pro 2026 | `2026.2.243` | x64 | ❌ | en-US |
+| 1490 | Trimble Navigation Limited | Sketchup Pro 2024 | Sketchup Pro 2024 | `24.0.594.0` | x64 | ❌ | en-US |
+| 1491 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.32.0.827` | x64 | ❌ | en-US |
+| 1492 | Turbo | Turbo Studio | Turbo Studio | `26.4.4.515` | x86,x64 | ❌ | en-US |
+| 1493 | Turbo.net | Turbo.net Desktop | Turbo.net Desktop | `26.3.11.2687` | x86,x64 | ❌ | en-US |
+| 1494 | typora.io | Typora | Typora (x64) | `1.14.10` | x64 | ❌ | en-US |
+| 1495 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.13.0` | x64 | ❌ | en-US |
+| 1496 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | x64 | ❌ | en-US |
 | 1497 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.3.0` | x64 | ❌ | en-US |
-| 1498 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
-| 1499 | VariCAD | VariCAD | VariCAD (German) | `2026.2.05` | x64 | ❌ | de |
-| 1500 | VariCAD | VariCAD | VariCAD (English) | `2026.2.05` | x64 | ❌ | en-US |
-| 1501 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.05` | x64 | ❌ | de |
-| 1502 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.05` | x64 | ❌ | en-US |
-| 1503 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | x64 | ❌ | en-US |
-| 1504 | VEX Robotics | VEXcode IQ 3 | VEXcode IQ 3 | `3.0.4.1` | x86,x64 | ❌ | en-US |
-| 1505 | VEX Robotics | VEXcode V5 | VEXcode V5 | `3.0.4.3` | x86,x64 | ❌ | en-US |
-| 1506 | VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.23` | x64 | ❌ | en-US |
-| 1507 | VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.23` | x64 | ❌ | en-US |
-| 1508 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
-| 1509 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.8` | x64 | ❌ | en-US |
-| 1510 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.8` | x86,x64 | ❌ | en-US |
-| 1511 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0907` | x64 | ❌ | en-US |
-| 1512 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0958` | x64 | ❌ | en-US |
-| 1513 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.1.0.0` | x64 | ❌ | en-US |
-| 1514 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
-| 1515 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
-| 1516 | VMware | VMware Horizon Client 2103 | VMware Horizon Client 2103 | `8.2.0.17759012` | x64 | ❌ | en-US |
-| 1517 | VMware | VMware Horizon Client 2209 | VMware Horizon Client 2209 | `8.7.1.21490452` | x64 | ❌ | en-US |
-| 1518 | VMware | VMware Horizon Client 4.5 | VMware Horizon Client 4.5 (x64) | `4.5.0.5650915` | x64 | ❌ | en-US |
-| 1519 | VMware | VMware Horizon Client 4.6 | VMware Horizon Client 4.6 (x64) | `4.6.0.6605044` | x64 | ❌ | en-US |
-| 1520 | VMware | VMware Horizon Client 4.7 | VMware Horizon Client 4.7 (x64) | `4.7.0.11074` | x64 | ❌ | en-US |
-| 1521 | VMware | VMware Horizon Client 4.8.1 | VMware Horizon Client 4.8.1 (x64) | `4.8.1.8980186` | x64 | ❌ | en-US |
-| 1522 | VMware | VMware Horizon Client 5.0 | VMware Horizon Client 5.0 (x64) | `5.0.0.12606690` | x64 | ❌ | en-US |
-| 1523 | VMware | VMware Horizon Client 5.2 | VMware Horizon Client 5.2 (x64) | `5.2.0.7817` | x64 | ❌ | en-US |
-| 1524 | VMware | VMware Horizon Client 5.3 | VMware Horizon Client 5.3 (x64) | `5.3.0.15208953` | x64 | ❌ | en-US |
-| 1525 | VMware | VMware Horizon Client 5.4.2 | VMware Horizon Client 5.4.2 (x64) | `5.4.2.15936851` | x64 | ❌ | en-US |
-| 1526 | VMware | VMware Horizon Client 5.4.3 | VMware Horizon Client 5.4.3 (x64) | `5.4.3.16346110` | x64 | ❌ | en-US |
-| 1527 | VMware | VMware Horizon Client 5.5 | VMware Horizon Client 5.5 (x64) | `5.5.6.21409430` | x64 | ❌ | en-US |
-| 1528 | VMware | VMware Horizon View Client 3.5 | VMware Horizon View Client 3.5 (x64) | `3.5.2.3150477` | x64 | ❌ | en-US |
-| 1529 | VMware | VMware Horizon View Client 5.4 | VMware Horizon View Client 5.4 (x64) | `5.4.0.1219906` | x64 | ❌ | en-US |
-| 1530 | voidtools | voidtools Everything | Everything (EXE) (x64) | `1.4.1.1032` | x64 | ❌ | en-US |
-| 1531 | voidtools | voidtools Everything | Everything (MSI) (x64) | `1.4.1.1031` | x64 | ❌ | en-US |
-| 1532 | voidtools | voidtools Everything Lite | Everything Lite (MSI) (x64) | `1.4.1.1031` | x64 | ❌ | en-US |
-| 1533 | voidtools | voidtools Everything Lite | Everything Lite (EXE) (x64) | `1.4.1.1032` | x64 | ❌ | en-US |
-| 1534 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.135.06055` | x64 | ❌ | en-US |
-| 1535 | Waterfox | Waterfox | Waterfox | `6.7.3` | x64 | ❌ | en-US |
-| 1536 | Waterfox | Waterfox Classic | Waterfox Classic | `2022.11` | x64 | ❌ | en-US |
-| 1537 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.7` | x86,x64 | ❌ | en-US |
-| 1538 | Webprofusion Pty Ltd | Certify The Web | Certify The Web | `6.1.0` | x64 | ❌ | en-US |
-| 1539 | wftpserver.com | FTP Rush v3 | FTP Rush v3 | `3.6.7` | x86,x64 | ❌ | en-US |
-| 1540 | Wibu Systems | CodeMeter Runtime Kit | CodeMeter Runtime Kit | `9.10.8166.500` | x64 | ✅ | en-US |
-| 1541 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.7.3.381` | x64 | ❌ | en-US |
-| 1542 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.7.3.381` | x64 | ❌ | en-US |
-| 1543 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.5.0` | x86,x64 | ❌ | en-US |
-| 1544 | WinDirStat Team | WinDirStat | WinDirStat (x64) | `2.2.2` | x64 | ❌ | en-US |
-| 1545 | WireGuard LLC | WireGuard | WireGuard (x64) | `0.5.3` | x64 | ❌ | en-US |
-| 1546 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.18` | x64 | ❌ | en-US |
-| 1547 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.8` | x64 | ❌ | en-US |
-| 1548 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (EXE) | `4.7.3` | x64 | ❌ | en-US |
-| 1549 | WiX Toolset | WiX Toolset 3 | WiX Toolset 3 | `3.14` | x86,x64 | ❌ | en-US |
-| 1550 | Wonder Unit Inc. | Storyboarder | Storyboarder | `3.0.0` | x64 | ❌ | en-US |
-| 1551 | Wrike.com | Wrike | Wrike (x64) | `4.6.2.3052` | x64 | ❌ | en-US |
-| 1552 | Xamarin, Inc. | Xamarin Mono | Mono (x64) | `6.12.0.182` | x64 | ❌ | en-US |
-| 1553 | Xink | Xink Client AD | Xink Client AD | `3.2.41` | x86,x64 | ❌ | en-US |
-| 1554 | XK72 Ltd | Charles | Charles 4 (x64) | `4.6.8.0` | x64 | ❌ | en-US |
-| 1555 | XMind Ltd | XMind 2020 | XMind 2020 | `10.1.0` | x64 | ❌ | en-US |
-| 1556 | XMind Ltd | XMind 2021 | XMind 2021 | `11.1.2` | x64 | ❌ | en-US |
-| 1557 | XMind Ltd | XMind 2022 | Xmind 2022 | `12.0.3` | x64 | ❌ | en-US |
-| 1558 | XnSoft | XnSoft XnConvert | XnConvert (x64) | `1.116.0` | x64 | ❌ | en-US |
-| 1559 | XnSoft | XnSoft XnShell | XnShell (x64) | `4.2.0.0` | x64 | ❌ | en-US |
-| 1560 | XnSoft | XnSoft XnView Extended | XnView (Extended) | `2.52.0` | x86,x64 | ❌ | en-US |
-| 1561 | XnSoft | XnSoft XnView Minimal | XnView (Minimal) | `2.52.0` | x86,x64 | ❌ | en-US |
-| 1562 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.11.6.0` | x64 | ❌ | en-US |
-| 1563 | XnSoft | XnSoft XnView Standard | XnView (Standard) | `2.52.0` | x86,x64 | ❌ | en-US |
-| 1564 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.4.2` | x64 | ❌ | en-US |
-| 1565 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
-| 1566 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.2` | x64 | ❌ | en-US |
-| 1567 | Zandar Labs SL | Aptakube | Aptakube | `1.20.1` | x64 | ❌ | en-US |
-| 1568 | Zello Inc. | Zello | Zello | `18.7.0.0` | x64 | ❌ | en-US |
-| 1569 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 5 | `5.7.18` | x86,x64 | ❌ | en-US |
-| 1570 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.2` | x86,x64 | ❌ | en-US |
-| 1571 | Zoho Corporation Pvt. Ltd | Zoho WorkDrive | Zoho WorkDrive | `2.7.48` | x86,x64 | ✅ | en-US |
-| 1572 | Zoom Video Communications, Inc. | Zoom Plugin for Microsoft Outlook | Zoom Plugin for Microsoft Outlook | `7.1.0` | x86,x64 | ❌ | en-US |
-| 1573 | Zoom Video Communications, Inc. | Zoom Plugin for Skype for Business | Zoom Plugin for Skype for Business | `5.13.10` | x86,x64 | ❌ | en-US |
-| 1574 | Zoom Video Communications, Inc. | Zoom Plugin for Windows Virtual Desktop Client | Zoom Plugin for Windows Virtual Desktop Client | `5.15.24490` | x86,x64 | ❌ | en-US |
-| 1575 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.1.6` | x64 | ❌ | en-US |
-| 1576 | Zoom Video Communications, Inc. | Zoom VDI Universal Plugin | Zoom VDI Universal Plugin (x64) | `7.0.12.27080` | x64 | ❌ | en-US |
-| 1577 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) (msi) | `7.1.46825` | x64 | ❌ | en-US |
-| 1578 | Zorus Inc. | Zorus Archon Agent | Zorus Archon Agent | `4.6.0.0` | x64 | ❌ | en-US |
-| 1579 | Zotero | Zotero | Zotero | `7.0.2` | x86,x64 | ❌ | en-US |
-| 1580 | Zotero | Zotero | Zotero (x64) | `10.0.2` | x64 | ❌ | en-US |
-| 1581 | Zscaler | Zscaler Client Connector 3.6 | Zscaler Client Connector 3.6 | `3.6.1.25` | x86,x64 | ❌ | en-US |
-| 1582 | Zscaler | Zscaler Client Connector 3.9 | Zscaler Client Connector 3.9 (x64) | `3.9.0.191` | x64 | ❌ | en-US |
-| 1583 | Zscaler | Zscaler Client Connector 3.9 | Zscaler Client Connector 3.9 (x86) | `3.9.0.191` | x86,x64 | ❌ | en-US |
-| 1584 | Zscaler | Zscaler Client Connector 4.0 | Zscaler Client Connector 4.0 (x64) | `4.0.0.89` | x64 | ❌ | en-US |
-| 1585 | Zscaler | Zscaler Client Connector 4.0 | Zscaler Client Connector 4.0 (x86) | `4.0.0.89` | x86,x64 | ❌ | en-US |
-| 1586 | Zscaler | Zscaler Client Connector 4.1 | Zscaler Client Connector 4.1 (x64) | `4.1.0.104` | x64 | ❌ | en-US |
-| 1587 | Zscaler | Zscaler Client Connector 4.3 | Zscaler Client Connector 4.3 (x64) | `4.3.0.277` | x64 | ❌ | en-US |
-| 1588 | Zscaler | Zscaler Client Connector for VDI | Zscaler Client Connector for VDI | `1.4.0.8` | x64 | ❌ | en-US |
-| 1589 | Zultys, Inc. | ZAC | ZAC (x64) | `10.0.10` | x64 | ❌ | en-US |
+| 1498 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.9` | x64 | ❌ | en-US |
+| 1499 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
+| 1500 | VariCAD | VariCAD | VariCAD (German) | `2026.2.05` | x64 | ❌ | de |
+| 1501 | VariCAD | VariCAD | VariCAD (English) | `2026.2.05` | x64 | ❌ | en-US |
+| 1502 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.05` | x64 | ❌ | de |
+| 1503 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.05` | x64 | ❌ | en-US |
+| 1504 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | x64 | ❌ | en-US |
+| 1505 | VEX Robotics | VEXcode IQ 3 | VEXcode IQ 3 | `3.0.4.1` | x86,x64 | ❌ | en-US |
+| 1506 | VEX Robotics | VEXcode V5 | VEXcode V5 | `3.0.4.3` | x86,x64 | ❌ | en-US |
+| 1507 | VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.23` | x64 | ❌ | en-US |
+| 1508 | VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.23` | x64 | ❌ | en-US |
+| 1509 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
+| 1510 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.8` | x64 | ❌ | en-US |
+| 1511 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.8` | x86,x64 | ❌ | en-US |
+| 1512 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0907` | x64 | ❌ | en-US |
+| 1513 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0958` | x64 | ❌ | en-US |
+| 1514 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.1.0.0` | x64 | ❌ | en-US |
+| 1515 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
+| 1516 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
+| 1517 | VMware | VMware Horizon Client 2103 | VMware Horizon Client 2103 | `8.2.0.17759012` | x64 | ❌ | en-US |
+| 1518 | VMware | VMware Horizon Client 2209 | VMware Horizon Client 2209 | `8.7.1.21490452` | x64 | ❌ | en-US |
+| 1519 | VMware | VMware Horizon Client 4.5 | VMware Horizon Client 4.5 (x64) | `4.5.0.5650915` | x64 | ❌ | en-US |
+| 1520 | VMware | VMware Horizon Client 4.6 | VMware Horizon Client 4.6 (x64) | `4.6.0.6605044` | x64 | ❌ | en-US |
+| 1521 | VMware | VMware Horizon Client 4.7 | VMware Horizon Client 4.7 (x64) | `4.7.0.11074` | x64 | ❌ | en-US |
+| 1522 | VMware | VMware Horizon Client 4.8.1 | VMware Horizon Client 4.8.1 (x64) | `4.8.1.8980186` | x64 | ❌ | en-US |
+| 1523 | VMware | VMware Horizon Client 5.0 | VMware Horizon Client 5.0 (x64) | `5.0.0.12606690` | x64 | ❌ | en-US |
+| 1524 | VMware | VMware Horizon Client 5.2 | VMware Horizon Client 5.2 (x64) | `5.2.0.7817` | x64 | ❌ | en-US |
+| 1525 | VMware | VMware Horizon Client 5.3 | VMware Horizon Client 5.3 (x64) | `5.3.0.15208953` | x64 | ❌ | en-US |
+| 1526 | VMware | VMware Horizon Client 5.4.2 | VMware Horizon Client 5.4.2 (x64) | `5.4.2.15936851` | x64 | ❌ | en-US |
+| 1527 | VMware | VMware Horizon Client 5.4.3 | VMware Horizon Client 5.4.3 (x64) | `5.4.3.16346110` | x64 | ❌ | en-US |
+| 1528 | VMware | VMware Horizon Client 5.5 | VMware Horizon Client 5.5 (x64) | `5.5.6.21409430` | x64 | ❌ | en-US |
+| 1529 | VMware | VMware Horizon View Client 3.5 | VMware Horizon View Client 3.5 (x64) | `3.5.2.3150477` | x64 | ❌ | en-US |
+| 1530 | VMware | VMware Horizon View Client 5.4 | VMware Horizon View Client 5.4 (x64) | `5.4.0.1219906` | x64 | ❌ | en-US |
+| 1531 | voidtools | voidtools Everything | Everything (EXE) (x64) | `1.4.1.1032` | x64 | ❌ | en-US |
+| 1532 | voidtools | voidtools Everything | Everything (MSI) (x64) | `1.4.1.1031` | x64 | ❌ | en-US |
+| 1533 | voidtools | voidtools Everything Lite | Everything Lite (MSI) (x64) | `1.4.1.1031` | x64 | ❌ | en-US |
+| 1534 | voidtools | voidtools Everything Lite | Everything Lite (EXE) (x64) | `1.4.1.1032` | x64 | ❌ | en-US |
+| 1535 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.135.06055` | x64 | ❌ | en-US |
+| 1536 | Waterfox | Waterfox | Waterfox | `6.7.3` | x64 | ❌ | en-US |
+| 1537 | Waterfox | Waterfox Classic | Waterfox Classic | `2022.11` | x64 | ❌ | en-US |
+| 1538 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.7` | x86,x64 | ❌ | en-US |
+| 1539 | Webprofusion Pty Ltd | Certify The Web | Certify The Web | `6.1.0` | x64 | ❌ | en-US |
+| 1540 | wftpserver.com | FTP Rush v3 | FTP Rush v3 | `3.6.7` | x86,x64 | ❌ | en-US |
+| 1541 | Wibu Systems | CodeMeter Runtime Kit | CodeMeter Runtime Kit | `9.10.8166.500` | x64 | ✅ | en-US |
+| 1542 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.7.3.381` | x64 | ❌ | en-US |
+| 1543 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.7.3.381` | x64 | ❌ | en-US |
+| 1544 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.5.0` | x86,x64 | ❌ | en-US |
+| 1545 | WinDirStat Team | WinDirStat | WinDirStat (x64) | `2.2.2` | x64 | ❌ | en-US |
+| 1546 | WireGuard LLC | WireGuard | WireGuard (x64) | `0.5.3` | x64 | ❌ | en-US |
+| 1547 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.18` | x64 | ❌ | en-US |
+| 1548 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.8` | x64 | ❌ | en-US |
+| 1549 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (EXE) | `4.7.3` | x64 | ❌ | en-US |
+| 1550 | WiX Toolset | WiX Toolset 3 | WiX Toolset 3 | `3.14` | x86,x64 | ❌ | en-US |
+| 1551 | Wonder Unit Inc. | Storyboarder | Storyboarder | `3.0.0` | x64 | ❌ | en-US |
+| 1552 | Wrike.com | Wrike | Wrike (x64) | `4.6.2.3052` | x64 | ❌ | en-US |
+| 1553 | Xamarin, Inc. | Xamarin Mono | Mono (x64) | `6.12.0.182` | x64 | ❌ | en-US |
+| 1554 | Xink | Xink Client AD | Xink Client AD | `3.2.41` | x86,x64 | ❌ | en-US |
+| 1555 | XK72 Ltd | Charles | Charles 4 (x64) | `4.6.8.0` | x64 | ❌ | en-US |
+| 1556 | XMind Ltd | XMind 2020 | XMind 2020 | `10.1.0` | x64 | ❌ | en-US |
+| 1557 | XMind Ltd | XMind 2021 | XMind 2021 | `11.1.2` | x64 | ❌ | en-US |
+| 1558 | XMind Ltd | XMind 2022 | Xmind 2022 | `12.0.3` | x64 | ❌ | en-US |
+| 1559 | XnSoft | XnSoft XnConvert | XnConvert (x64) | `1.116.0` | x64 | ❌ | en-US |
+| 1560 | XnSoft | XnSoft XnShell | XnShell (x64) | `4.2.0.0` | x64 | ❌ | en-US |
+| 1561 | XnSoft | XnSoft XnView Extended | XnView (Extended) | `2.52.0` | x86,x64 | ❌ | en-US |
+| 1562 | XnSoft | XnSoft XnView Minimal | XnView (Minimal) | `2.52.0` | x86,x64 | ❌ | en-US |
+| 1563 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.11.6.0` | x64 | ❌ | en-US |
+| 1564 | XnSoft | XnSoft XnView Standard | XnView (Standard) | `2.52.0` | x86,x64 | ❌ | en-US |
+| 1565 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.4.2` | x64 | ❌ | en-US |
+| 1566 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
+| 1567 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.2` | x64 | ❌ | en-US |
+| 1568 | Zandar Labs SL | Aptakube | Aptakube | `1.20.2` | x64 | ❌ | en-US |
+| 1569 | Zello Inc. | Zello | Zello | `18.7.0.0` | x64 | ❌ | en-US |
+| 1570 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 5 | `5.7.18` | x86,x64 | ❌ | en-US |
+| 1571 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.2` | x86,x64 | ❌ | en-US |
+| 1572 | Zoho Corporation Pvt. Ltd | Zoho WorkDrive | Zoho WorkDrive | `2.7.48` | x86,x64 | ✅ | en-US |
+| 1573 | Zoom Video Communications, Inc. | Zoom Plugin for Microsoft Outlook | Zoom Plugin for Microsoft Outlook | `7.1.0` | x86,x64 | ❌ | en-US |
+| 1574 | Zoom Video Communications, Inc. | Zoom Plugin for Skype for Business | Zoom Plugin for Skype for Business | `5.13.10` | x86,x64 | ❌ | en-US |
+| 1575 | Zoom Video Communications, Inc. | Zoom Plugin for Windows Virtual Desktop Client | Zoom Plugin for Windows Virtual Desktop Client | `5.15.24490` | x86,x64 | ❌ | en-US |
+| 1576 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.1.6` | x64 | ❌ | en-US |
+| 1577 | Zoom Video Communications, Inc. | Zoom VDI Universal Plugin | Zoom VDI Universal Plugin (x64) | `7.0.12.27080` | x64 | ❌ | en-US |
+| 1578 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) (msi) | `7.1.46825` | x64 | ❌ | en-US |
+| 1579 | Zorus Inc. | Zorus Archon Agent | Zorus Archon Agent | `4.6.0.0` | x64 | ❌ | en-US |
+| 1580 | Zotero | Zotero | Zotero | `7.0.2` | x86,x64 | ❌ | en-US |
+| 1581 | Zotero | Zotero | Zotero (x64) | `10.0.2` | x64 | ❌ | en-US |
+| 1582 | Zscaler | Zscaler Client Connector 3.6 | Zscaler Client Connector 3.6 | `3.6.1.25` | x86,x64 | ❌ | en-US |
+| 1583 | Zscaler | Zscaler Client Connector 3.9 | Zscaler Client Connector 3.9 (x64) | `3.9.0.191` | x64 | ❌ | en-US |
+| 1584 | Zscaler | Zscaler Client Connector 3.9 | Zscaler Client Connector 3.9 (x86) | `3.9.0.191` | x86,x64 | ❌ | en-US |
+| 1585 | Zscaler | Zscaler Client Connector 4.0 | Zscaler Client Connector 4.0 (x64) | `4.0.0.89` | x64 | ❌ | en-US |
+| 1586 | Zscaler | Zscaler Client Connector 4.0 | Zscaler Client Connector 4.0 (x86) | `4.0.0.89` | x86,x64 | ❌ | en-US |
+| 1587 | Zscaler | Zscaler Client Connector 4.1 | Zscaler Client Connector 4.1 (x64) | `4.1.0.104` | x64 | ❌ | en-US |
+| 1588 | Zscaler | Zscaler Client Connector 4.3 | Zscaler Client Connector 4.3 (x64) | `4.3.0.277` | x64 | ❌ | en-US |
+| 1589 | Zscaler | Zscaler Client Connector for VDI | Zscaler Client Connector for VDI | `1.4.0.8` | x64 | ❌ | en-US |
+| 1590 | Zultys, Inc. | ZAC | ZAC (x64) | `10.0.10` | x64 | ❌ | en-US |
