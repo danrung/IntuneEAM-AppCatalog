@@ -3112,6 +3112,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.28",
+      "8.0",
+      1
+     ]
+    ]
    }
   ],
   "beanbag-inc-rbtools": [
@@ -17088,19 +17101,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-05-22",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "149.0.4022.16",
-      "149.0.4022.24",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-27",
     "fields": [],
     "removed": 0,
@@ -17404,6 +17404,19 @@
      [
       "154.0.4258.9",
       "154.0.4258.12",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "154.0.4258.12",
+      "154.0.4258.18",
       1
      ]
     ]
@@ -21265,6 +21278,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.78.1",
+      "0.78.2",
+      1
+     ]
+    ]
    }
   ],
   "networkmanager": [
@@ -24808,6 +24834,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.17.0",
+      "4.17.1",
+      1
+     ]
+    ]
    }
   ],
   "rstudio": [
@@ -26629,6 +26668,15 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [
+     "Branch"
+    ],
+    "removed": 0,
+    "versions": []
    }
   ],
   "surf-eduvpn-client": [
@@ -29179,6 +29227,15 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-15",
+    "fields": [
+     "Branch"
+    ],
+    "removed": 0,
+    "versions": []
    }
   ],
   "wazuh-inc-wazuh-agent": [
@@ -30584,7 +30641,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260915_042916_AppCatalog.json",
+ "history_through": "20260915_164356_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -30593,8 +30650,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "548893fee742545169d2ea6af4126ad62fcfbe66",
-   "hash": "8385a03c4a446ef6512f837df088c9481555b198",
+   "exact": "59f8d02f336208e6a19a8bcf4c534a0864259286",
+   "hash": "15695e91dae127ee48302baab0eeb6ce790b0f4e",
    "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -31088,9 +31145,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/bandisoft-bandiview.html": {
-   "exact": "2244a23b78fc50b079fbf9808ad759c714a2a187",
-   "hash": "2244a23b78fc50b079fbf9808ad759c714a2a187",
-   "lastmod": "2026-08-27"
+   "exact": "211dde5a7fa930d9f66dc92af9b849690554860d",
+   "hash": "211dde5a7fa930d9f66dc92af9b849690554860d",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/beanbag-inc-rbtools.html": {
    "exact": "3e523ca1bc7e1fb4174c6c7ac4d49b400d1bfca7",
@@ -33048,9 +33105,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "2124c703183e65825a37b7ebc12eefd44c1fd228",
-   "hash": "2124c703183e65825a37b7ebc12eefd44c1fd228",
-   "lastmod": "2026-09-14"
+   "exact": "c937fe5c9ba3d0392d2bb872480cf2f981379315",
+   "hash": "c937fe5c9ba3d0392d2bb872480cf2f981379315",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "ff6d875c510336dee539d024d8a955a4cd71fd01",
@@ -33533,9 +33590,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/netbird-gmbh-netbird.html": {
-   "exact": "703fbd9b4c630bf98c4b14d22a56ce6b845cc84e",
-   "hash": "703fbd9b4c630bf98c4b14d22a56ce6b845cc84e",
-   "lastmod": "2026-09-05"
+   "exact": "584c7b229c931130178e19a19d1acec9292e6ab2",
+   "hash": "584c7b229c931130178e19a19d1acec9292e6ab2",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/netsetman-gmbh-netsetman.html": {
    "exact": "4452cad32918981d8e3791d483203c293ce29657",
@@ -34108,9 +34165,9 @@
    "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/rocket-chat-technologies-corp-rocket-chat.html": {
-   "exact": "5a6684bfc18d64a75fe701c4167a61c148eb9937",
-   "hash": "5a6684bfc18d64a75fe701c4167a61c148eb9937",
-   "lastmod": "2026-09-02"
+   "exact": "2532e4e28e8e28f2a09e889ffae4f273c42f4498",
+   "hash": "2532e4e28e8e28f2a09e889ffae4f273c42f4498",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/rstudio-1-4.html": {
    "exact": "95dadf6c22da9407325e1a385becfb3c6decd419",
@@ -34483,9 +34540,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/superoffice-as-superoffice-webtools.html": {
-   "exact": "a99df83d157353a6ebcd428afa4a7c5cc448e5fb",
-   "hash": "a99df83d157353a6ebcd428afa4a7c5cc448e5fb",
-   "lastmod": "2026-08-27"
+   "exact": "1fb302000061ef10a7aff3a52d5a422de18be223",
+   "hash": "1fb302000061ef10a7aff3a52d5a422de18be223",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/surf-eduvpn-client.html": {
    "exact": "fadbe83131912b998535ed0538776cbd7d42f272",
@@ -35023,9 +35080,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/waterfox.html": {
-   "exact": "a707a606b78a371c7c2ae541360afbf53e450765",
-   "hash": "a707a606b78a371c7c2ae541360afbf53e450765",
-   "lastmod": "2026-09-14"
+   "exact": "38e6765894540c803808754c482e3045dcd53266",
+   "hash": "38e6765894540c803808754c482e3045dcd53266",
+   "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/wazuh-inc-wazuh-agent.html": {
    "exact": "a3b4508b49c2494ca7698ff8bfc31ecfe1cf2327",
