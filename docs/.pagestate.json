@@ -9849,6 +9849,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.5.3",
+      "9.5.4",
+      1
+     ]
+    ]
    }
   ],
   "elgato-stream-deck": [
@@ -13002,6 +13015,19 @@
      [
       "14.0.0",
       "14.0.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "14.0.1",
+      "14.5.0",
       1
      ]
     ]
@@ -17790,6 +17816,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "151.0.4129.107",
+      "152.0.4191.66",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-net-sdk-8-0": [
@@ -18645,6 +18684,24 @@
      [
       "7.6.4",
       "7.6.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.5.4",
+      "7.5.11",
+      1
+     ],
+     [
+      "7.6.5",
+      "7.6.6",
       1
      ]
     ]
@@ -20508,19 +20565,6 @@
   "mozilla-firefox": [
    {
     "added": 0,
-    "date": "2026-05-13",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "150.0.2",
-      "150.0.3",
-      47
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-21",
     "fields": [],
     "removed": 0,
@@ -20822,6 +20866,19 @@
       47
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "155.0.1",
+      "156.0",
+      9
+     ]
+    ]
    }
   ],
   "mozilla-firefox-esr-115": [
@@ -20968,6 +21025,24 @@
      [
       "115.38.0",
       "115.40.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "115.40.0",
+      "115.41.0",
+      11
+     ],
+     [
+      "115.39.0",
+      "115.41.0",
       1
      ]
     ]
@@ -26034,6 +26109,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.22.4",
+      "1.23.0",
+      1
+     ]
+    ]
    }
   ],
   "smart-projects-isobuster": [
@@ -28700,19 +28788,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-05-13",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0461",
-      "9.2.0478",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-16",
     "fields": [],
     "removed": 0,
@@ -29061,6 +29136,24 @@
      [
       "9.2.0907",
       "9.2.0958",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.0958",
+      "9.2.1054",
+      1
+     ],
+     [
+      "9.2.0907",
+      "9.2.1036",
       1
      ]
     ]
@@ -30767,11 +30860,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.0.10",
+      "10.2.4",
+      1
+     ]
+    ]
    }
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260916_042454_AppCatalog.json",
+ "history_through": "20260916_163700_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -30780,8 +30886,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "4756ea38026abff1fa35f0e3011f965ed8704b09",
-   "hash": "4facd9a6aa405ba53343662314d8ccbcb6124271",
+   "exact": "e1a1681501ac1a9521523fac8718464cf66a0fdb",
+   "hash": "3c0d135999428e9ce1776e0fd3f2c822c67007a1",
    "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -32060,9 +32166,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/elasticsearch-b-v-beats-winlogbeat.html": {
-   "exact": "bc60f3ac5ca205209b9aba9deff9b4170b2ae2ad",
-   "hash": "bc60f3ac5ca205209b9aba9deff9b4170b2ae2ad",
-   "lastmod": "2026-09-04"
+   "exact": "1fb0cd0c3e4d80c782fd29047dc3daeeefa86b08",
+   "hash": "1fb0cd0c3e4d80c782fd29047dc3daeeefa86b08",
+   "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/elgato-stream-deck.html": {
    "exact": "c81ff840bdd2ed7160c413c44e33fa65ab0f2f3b",
@@ -32515,9 +32621,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ideamerit-s-r-o-luna-modeler.html": {
-   "exact": "144b2ba959db9a6c62b280037291326984d85965",
-   "hash": "144b2ba959db9a6c62b280037291326984d85965",
-   "lastmod": "2026-08-27"
+   "exact": "52dbc278b3f9856338fc61caece364025007ad69",
+   "hash": "52dbc278b3f9856338fc61caece364025007ad69",
+   "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/ideamerit-s-r-o-meteor-modeler.html": {
    "exact": "03b460a5609c000c3e0dfda31ba0857b13a35738",
@@ -33250,9 +33356,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-webview2-runtime.html": {
-   "exact": "63afb7ac2202dc87e9b43dbe9be38f750b14a5d9",
-   "hash": "63afb7ac2202dc87e9b43dbe9be38f750b14a5d9",
-   "lastmod": "2026-09-11"
+   "exact": "b3c8174ab9271077195098683381fa9b6aa82be0",
+   "hash": "b3c8174ab9271077195098683381fa9b6aa82be0",
+   "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/microsoft-enterprise-mode-site-list-manager.html": {
    "exact": "1dcfa2766c01b3499a2c89574d336932d12b4d6f",
@@ -33365,9 +33471,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-powershell-core.html": {
-   "exact": "d52eb2cef275af74f0c8adeba7d7977c70a680a7",
-   "hash": "d52eb2cef275af74f0c8adeba7d7977c70a680a7",
-   "lastmod": "2026-09-11"
+   "exact": "4ca509ee8d11cc6d7e0f59969ed8c249d8945f21",
+   "hash": "4ca509ee8d11cc6d7e0f59969ed8c249d8945f21",
+   "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/microsoft-powertoys.html": {
    "exact": "8ac331368ba3da4eafd5c3a6b2c3e0cb074fae93",
@@ -33635,14 +33741,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/mozilla-firefox-esr-115.html": {
-   "exact": "6842902f4aa431c78e12a6ac3aa4e83c5eac5ec2",
-   "hash": "6842902f4aa431c78e12a6ac3aa4e83c5eac5ec2",
-   "lastmod": "2026-09-02"
+   "exact": "fc931835e498e702dba8e7db8e75d2b513db9269",
+   "hash": "fc931835e498e702dba8e7db8e75d2b513db9269",
+   "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
-   "exact": "38454cbf7b51ed1660f9143dd01d117954bc4256",
-   "hash": "38454cbf7b51ed1660f9143dd01d117954bc4256",
-   "lastmod": "2026-09-05"
+   "exact": "844c6084b952c68153d71cec80cf0beb17b1440d",
+   "hash": "844c6084b952c68153d71cec80cf0beb17b1440d",
+   "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/mozilla-frontmotion-firefox-community-edition-esr.html": {
    "exact": "e1924c59caa32d75297d8d3be7b0b0a7d8c68523",
@@ -34515,9 +34621,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/slido.html": {
-   "exact": "74ae495a9566289df2e0099bb2ce26b1b6c8b705",
-   "hash": "74ae495a9566289df2e0099bb2ce26b1b6c8b705",
-   "lastmod": "2026-08-27"
+   "exact": "41c0bbb6ba7f17f175684b4ca3581150233968dc",
+   "hash": "41c0bbb6ba7f17f175684b4ca3581150233968dc",
+   "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/smart-projects-isobuster.html": {
    "exact": "29f32831307dbea28368bd7bc2bfef83ff4fb3c5",
@@ -35100,9 +35206,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "bccd2c988587e4ecf80827b4d98740ddef4c6ae5",
-   "hash": "bccd2c988587e4ecf80827b4d98740ddef4c6ae5",
-   "lastmod": "2026-08-27"
+   "exact": "587e119b04506fc785f5960b44d90dcba0326d8d",
+   "hash": "587e119b04506fc785f5960b44d90dcba0326d8d",
+   "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",
@@ -35440,9 +35546,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zultys-inc-zac.html": {
-   "exact": "9f1e4ff08768e70897238dc2139be28ed902d6a6",
-   "hash": "9f1e4ff08768e70897238dc2139be28ed902d6a6",
-   "lastmod": "2026-08-27"
+   "exact": "e6f56e229af40ff13300eb6baa4c0456f1573725",
+   "hash": "e6f56e229af40ff13300eb6baa4c0456f1573725",
+   "lastmod": "2026-09-16"
   }
  },
  "version": 1
