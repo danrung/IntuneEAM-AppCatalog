@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260915_164356_AppCatalog.json` (exported 2026-09-15 16:43:56)  
-> **Generated:** 2026-09-15 16:44 UTC  
+> **Source:** `20260916_042454_AppCatalog.json` (exported 2026-09-16 04:24:54)  
+> **Generated:** 2026-09-16 04:25 UTC  
 > **Total:** 1,590 packages · 932 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -60,7 +60,7 @@
 | 52 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.835.0` | x64 | ❌ | en-US |
 | 53 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.46.1` | x64 | ❌ | en-US |
 | 54 | Amazon Web Services Developer Relations | Amazon AWS Tools for Windows | AWS Tools for Windows | `3.15.2304` | x86,x64 | ❌ | en-US |
-| 55 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.2.0` | x64 | ❌ | en-US |
+| 55 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.3.0` | x64 | ❌ | en-US |
 | 56 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.34.1.2887` | x64 | ❌ | en-US |
 | 57 | Andrew Ziem | BleachBit | BleachBit | `6.0.2` | x86,x64 | ❌ | en-US |
 | 58 | Android | Android Studio 2022 | Android Studio 2022 | `2022.3.1.22` | x64 | ✅ | en-US |
@@ -97,7 +97,7 @@
 | 89 | Atomi Systems, Inc. | Atomi Systems ActivePresenter | ActivePresenter | `9.4.0` | x64 | ✅ | en-US |
 | 90 | Atomi Systems, Inc. | Saola Animate | Saola Animate | `3.1.4` | x64 | ❌ | en-US |
 | 91 | Atostek Oy | Atostek ID | Atostek ID | `4.5.1.0` | x86,x64 | ❌ | en-US |
-| 92 | Audacity | Audacity | Audacity (x64) | `3.7.9` | x64 | ✅ | en-US |
+| 92 | Audacity | Audacity | Audacity (x64) | `4.0.0` | x64 | ✅ | en-US |
 | 93 | Autodesk Inc. | Autodesk Access | Autodesk Access | `2.23.0.517` | x64 | ❌ | en-US |
 | 94 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Brazilian Portuguese) (x64) | `15.3.0.5` | x64 | ❌ | pt-BR |
 | 95 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (German) (x64) | `15.3.0.5` | x64 | ❌ | de-DE |
@@ -175,16 +175,16 @@
 | 167 | Blender Foundation | Blender | Blender 2.93 LTS (x64) | `2.93.18` | x64 | ❌ | en-US |
 | 168 | Blender Foundation | Blender | Blender 3.0 (x64) | `3.0.1` | x64 | ❌ | en-US |
 | 169 | Blender Foundation | Blender | Blender 3.5 (x64) | `3.5.1` | x64 | ❌ | en-US |
-| 170 | Blender Foundation | Blender | Blender 5.1 (x64) | `5.1.2` | x64 | ❌ | en-US |
-| 171 | Blender Foundation | Blender | Blender 3.2 (x64) | `3.2.2` | x64 | ❌ | en-US |
-| 172 | Blender Foundation | Blender | Blender 4.2 LTS (x64) | `4.2.23` | x64 | ❌ | en-US |
-| 173 | Blender Foundation | Blender | Blender 4.4 (x64) | `4.4.3` | x64 | ❌ | en-US |
-| 174 | Blender Foundation | Blender | Blender 3.3 LTS (x64) | `3.3.21` | x64 | ❌ | en-US |
-| 175 | Blender Foundation | Blender | Blender 4.1 (x64) | `4.1.1` | x64 | ❌ | en-US |
-| 176 | Blender Foundation | Blender | Blender 2.92 (x64) | `2.92.0` | x64 | ❌ | en-US |
-| 177 | Blender Foundation | Blender | Blender 3.6 LTS (x64) | `3.6.23` | x64 | ❌ | en-US |
-| 178 | Blender Foundation | Blender | Blender 2.83 LTS (x64) | `2.83.20` | x64 | ❌ | en-US |
-| 179 | Blender Foundation | Blender | Blender 5.2 (x64) | `5.2.1` | x64 | ❌ | en-US |
+| 170 | Blender Foundation | Blender | Blender 5.2 (x64) | `5.2.2` | x64 | ❌ | en-US |
+| 171 | Blender Foundation | Blender | Blender 5.1 (x64) | `5.1.2` | x64 | ❌ | en-US |
+| 172 | Blender Foundation | Blender | Blender 3.2 (x64) | `3.2.2` | x64 | ❌ | en-US |
+| 173 | Blender Foundation | Blender | Blender 4.2 LTS (x64) | `4.2.23` | x64 | ❌ | en-US |
+| 174 | Blender Foundation | Blender | Blender 4.4 (x64) | `4.4.3` | x64 | ❌ | en-US |
+| 175 | Blender Foundation | Blender | Blender 3.3 LTS (x64) | `3.3.21` | x64 | ❌ | en-US |
+| 176 | Blender Foundation | Blender | Blender 4.1 (x64) | `4.1.1` | x64 | ❌ | en-US |
+| 177 | Blender Foundation | Blender | Blender 2.92 (x64) | `2.92.0` | x64 | ❌ | en-US |
+| 178 | Blender Foundation | Blender | Blender 3.6 LTS (x64) | `3.6.23` | x64 | ❌ | en-US |
+| 179 | Blender Foundation | Blender | Blender 2.83 LTS (x64) | `2.83.20` | x64 | ❌ | en-US |
 | 180 | Blender Foundation | Blender | Blender 2.90 (x64) | `2.90.1` | x64 | ❌ | en-US |
 | 181 | Blender Foundation | Blender | Blender 4.3 (x64) | `4.3.2` | x64 | ❌ | en-US |
 | 182 | Blender Foundation | Blender | Blender 4.0 (x64) | `4.0.2` | x64 | ❌ | en-US |
@@ -360,7 +360,7 @@
 | 352 | ESET | ESET Endpoint Security V12 | Endpoint Security V12 (x64) | `12.1.2057.3` | x64 | ❌ | en-US |
 | 353 | ESET | ESET Endpoint Security V9 | Endpoint Security V9 (x64) | `9.1.2071.0` | x64 | ❌ | en-US |
 | 354 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
-| 355 | Evernote | Evernote | Evernote | `11.33.5` | x64 | ✅ | en-US |
+| 355 | Evernote | Evernote | Evernote | `11.34.8` | x64 | ✅ | en-US |
 | 356 | Exacq Technologies | exacqVision Client | exacqVision Client (x64) | `26.1.8.0` | x64 | ❌ | en-US |
 | 357 | EZB Systems | EZB Systems UltraISO | UltraISO (English) | `9.7.6.3860` | x86,x64 | ❌ | en-US |
 | 358 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.73.179.028` | x64 | ❌ | en-US |
@@ -668,7 +668,7 @@
 | 660 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.813.1` | x64 | ❌ | en-US |
 | 661 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
 | 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `154.0.4258.18` | x64 | ✅ | en-US |
-| 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `155.0.4268.0` | x64 | ✅ | en-US |
+| 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `155.0.4273.0` | x64 | ✅ | en-US |
 | 664 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 665 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `151.0.4129.107` | x64 | ❌ | en-US |
 | 666 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
@@ -758,7 +758,7 @@
 | 750 | Microsoft | Microsoft SQL Server Management Studio 20 | SQL Server Management Studio 20 (Portuguese Brazil) | `20.2.37.0` | x64 | ✅ | pt-BR |
 | 751 | Microsoft | Microsoft SQL Server Management Studio 20 | SQL Server Management Studio 20 (English) | `20.2.37.0` | x64 | ✅ | en-US |
 | 752 | Microsoft | Microsoft SQL Server Management Studio 20 | SQL Server Management Studio 20 (Spanish) | `20.2.37.0` | x64 | ✅ | es |
-| 753 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.10.0` | x64 | ✅ | en-US |
+| 753 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.10.1` | x64 | ✅ | en-US |
 | 754 | Microsoft | Microsoft Surface Data Eraser | Microsoft Surface Data Eraser | `3.54.139.0` | x86,x64 | ❌ | en-US |
 | 755 | Microsoft | Microsoft Surface Diagnostic Toolkit for Business | Microsoft Surface Diagnostic Toolkit for Business (x64) | `2.239.139.0` | x64 | ❌ | en-US |
 | 756 | Microsoft | Microsoft System CLR Types for SQL Server 2014 | Microsoft System CLR Types for SQL Server 2014 (x64) | `12.0.2402.11` | x64 | ❌ | en-US |
@@ -768,7 +768,7 @@
 | 760 | Microsoft | Microsoft Visual C++ 2008 Redistributable | Microsoft Visual C++ 2008 Redistributable (x64) | `9.0.30729.6161` | x64 | ❌ | en-US |
 | 761 | Microsoft | Microsoft Visual C++ 2012 Redistributable | Microsoft Visual C++ 2012 Redistributable (x64) | `11.0.61030.0` | x64 | ❌ | en-US |
 | 762 | Microsoft | Microsoft Visual Studio 2010 Tools for Office Runtime | Visual Studio 2010 Tools for Office Runtime (x64) | `10.0.60917.00` | x64 | ❌ | en-US |
-| 763 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37628.2` | x64 | ❌ | en-US |
+| 763 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37710.0` | x64 | ❌ | en-US |
 | 764 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 765 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
 | 766 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37628.2` | x64 | ❌ | en-US |
@@ -1503,7 +1503,7 @@
 | 1495 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.13.0` | x64 | ❌ | en-US |
 | 1496 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | x64 | ❌ | en-US |
 | 1497 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.3.0` | x64 | ❌ | en-US |
-| 1498 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.2.9` | x64 | ❌ | en-US |
+| 1498 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.0` | x64 | ❌ | en-US |
 | 1499 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
 | 1500 | VariCAD | VariCAD | VariCAD (German) | `2026.2.05` | x64 | ❌ | de |
 | 1501 | VariCAD | VariCAD | VariCAD (English) | `2026.2.05` | x64 | ❌ | en-US |
@@ -1515,7 +1515,7 @@
 | 1507 | VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.23` | x64 | ❌ | en-US |
 | 1508 | VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.23` | x64 | ❌ | en-US |
 | 1509 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
-| 1510 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.8` | x64 | ❌ | en-US |
+| 1510 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.9` | x64 | ❌ | en-US |
 | 1511 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.8` | x86,x64 | ❌ | en-US |
 | 1512 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.0907` | x64 | ❌ | en-US |
 | 1513 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.0958` | x64 | ❌ | en-US |
@@ -1549,7 +1549,7 @@
 | 1541 | Wibu Systems | CodeMeter Runtime Kit | CodeMeter Runtime Kit | `9.10.8166.500` | x64 | ✅ | en-US |
 | 1542 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.7.3.381` | x64 | ❌ | en-US |
 | 1543 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.7.3.381` | x64 | ❌ | en-US |
-| 1544 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.5.0` | x86,x64 | ❌ | en-US |
+| 1544 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.6.0` | x86,x64 | ❌ | en-US |
 | 1545 | WinDirStat Team | WinDirStat | WinDirStat (x64) | `2.2.2` | x64 | ❌ | en-US |
 | 1546 | WireGuard LLC | WireGuard | WireGuard (x64) | `0.5.3` | x64 | ❌ | en-US |
 | 1547 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.18` | x64 | ❌ | en-US |
@@ -1573,7 +1573,7 @@
 | 1565 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.4.2` | x64 | ❌ | en-US |
 | 1566 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
 | 1567 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.2` | x64 | ❌ | en-US |
-| 1568 | Zandar Labs SL | Aptakube | Aptakube | `1.20.2` | x64 | ❌ | en-US |
+| 1568 | Zandar Labs SL | Aptakube | Aptakube | `1.20.3` | x64 | ❌ | en-US |
 | 1569 | Zello Inc. | Zello | Zello | `18.7.0.0` | x64 | ❌ | en-US |
 | 1570 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 5 | `5.7.18` | x86,x64 | ❌ | en-US |
 | 1571 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.2` | x86,x64 | ❌ | en-US |
