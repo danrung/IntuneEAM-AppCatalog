@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260917_043048_AppCatalog.json` (exported 2026-09-17 04:30:48)  
-> **Generated:** 2026-09-17 04:31 UTC  
+> **Source:** `20260917_164333_AppCatalog.json` (exported 2026-09-17 16:43:33)  
+> **Generated:** 2026-09-17 16:44 UTC  
 > **Total:** 1,590 packages · 932 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -42,7 +42,7 @@
 | 34 | Aircall | Aircall for desktop | Aircall for desktop | `3.1.66.14840` | x64 | ❌ | en-US |
 | 35 | airSlate, Inc. | pdfFiller | pdfFiller | `1.3.130` | x86,x64 | ❌ | en-US |
 | 36 | Aivar Annamaa | Thonny | Thonny (x64) | `5.0.0` | x64 | ❌ | en-US |
-| 37 | Akiflow | Akiflow | Akiflow | `2.78.15` | x64 | ❌ | en-US |
+| 37 | Akiflow | Akiflow | Akiflow | `2.81.8` | x64 | ❌ | en-US |
 | 38 | alfaview Gmbh | alfaview | alfaview | `9.29.0` | x64 | ❌ | en-US |
 | 39 | ALLPLayer.org | ALLPlayer | ALLPlayer | `9.6` | x64 | ❌ | en-US |
 | 40 | Allround Automations | PL SQL Developer 15 | PL SQL Developer 15 (x64) | `15.0.4.2064` | x64 | ❌ | en-US |
@@ -185,19 +185,19 @@
 | 177 | Blender Foundation | Blender | Blender 2.92 (x64) | `2.92.0` | x64 | ❌ | en-US |
 | 178 | Blender Foundation | Blender | Blender 3.6 LTS (x64) | `3.6.23` | x64 | ❌ | en-US |
 | 179 | Blender Foundation | Blender | Blender 2.83 LTS (x64) | `2.83.20` | x64 | ❌ | en-US |
-| 180 | Blender Foundation | Blender | Blender 2.90 (x64) | `2.90.1` | x64 | ❌ | en-US |
-| 181 | Blender Foundation | Blender | Blender 4.3 (x64) | `4.3.2` | x64 | ❌ | en-US |
+| 180 | Blender Foundation | Blender | Blender 4.3 (x64) | `4.3.2` | x64 | ❌ | en-US |
+| 181 | Blender Foundation | Blender | Blender 2.90 (x64) | `2.90.1` | x64 | ❌ | en-US |
 | 182 | Blender Foundation | Blender | Blender 4.0 (x64) | `4.0.2` | x64 | ❌ | en-US |
 | 183 | Blue Jeans | BlueJeans 2 | BlueJeans 2 Admin Installer | `2.45.37` | x64 | ❌ | en-US |
 | 184 | Blue Jeans | BlueJeans 2 | BlueJeans 2 User Installer | `2.45.37` | x64 | ✅ | en-US |
 | 185 | Boris Eyrich Software | Artweaver Free | Artweaver Free | `8.1.6.4131` | x64 | ✅ | en-US |
 | 186 | Botkind, Inc. | Allway Sync | Allway Sync (x64) | `22.0.1` | x64 | ❌ | en-US |
-| 187 | Box | Box CLI | Box CLI (x64) | `4.10.0` | x64 | ❌ | en-US |
+| 187 | Box | Box CLI | Box CLI (x64) | `4.10.1` | x64 | ❌ | en-US |
 | 188 | Box | Box Drive | Box Drive (x64) | `2.53.223` | x64 | ❌ | en-US |
 | 189 | Box | Box Tools | Box Tools (User Installer) | `4.32.0.1324` | x64 | ❌ | en-US |
 | 190 | Box | Box Tools | Box Tools (System Installer) | `4.32.0.1324` | x64 | ❌ | en-US |
 | 191 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | x64 | ❌ | en-US |
-| 192 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.94.121` | x64 | ❌ | en-US |
+| 192 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.95.102` | x64 | ❌ | en-US |
 | 193 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.85.0` | x64 | ❌ | en-US |
 | 194 | Brink Software B.V. | Ibis Calculeren voor Bouw | Ibis Calculeren voor Bouw | `4.2.73.0` | x64 | ❌ | nl |
 | 195 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | x64 | ❌ | en-US |
@@ -359,8 +359,8 @@
 | 351 | ESET | ESET Endpoint Encryption | ESET Endpoint Encryption (x64) | `5.1.5.38` | x64 | ❌ | en-US |
 | 352 | ESET | ESET Endpoint Security V12 | Endpoint Security V12 (x64) | `12.1.2057.3` | x64 | ❌ | en-US |
 | 353 | ESET | ESET Endpoint Security V9 | Endpoint Security V9 (x64) | `9.1.2071.0` | x64 | ❌ | en-US |
-| 354 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
-| 355 | Evernote | Evernote | Evernote | `11.34.8` | x64 | ✅ | en-US |
+| 354 | Evernote | Evernote | Evernote | `11.34.8` | x64 | ✅ | en-US |
+| 355 | Evernote | Evernote | Evernote | `6.23.2.8859` | x86,x64 | ❌ | en-US |
 | 356 | Exacq Technologies | exacqVision Client | exacqVision Client (x64) | `26.1.8.0` | x64 | ❌ | en-US |
 | 357 | EZB Systems | EZB Systems UltraISO | UltraISO (English) | `9.7.6.3860` | x86,x64 | ❌ | en-US |
 | 358 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.73.179.028` | x64 | ❌ | en-US |
@@ -471,10 +471,10 @@
 | 463 | Inmatrix | Zoom Player | Zoom Player | `22.5` | x86,x64 | ❌ | en-US |
 | 464 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.5` | x86,x64 | ❌ | en-US |
 | 465 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.32.143.0` | x64 | ❌ | en-US |
-| 466 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.929.3` | x86,x64 | ❌ | en-US |
+| 466 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.930.2` | x86,x64 | ❌ | en-US |
 | 467 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.929.3` | x86,x64 | ❌ | en-US |
 | 468 | InterPromo GMBH | 4K Video Downloader | 4K Video Downloader (x64) | `4.33.5` | x64 | ❌ | en-US |
-| 469 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.2` | x64 | ❌ | en-US |
+| 469 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.3` | x64 | ❌ | en-US |
 | 470 | Intevation GmbH | Gpg4win | Gpg4win | `5.1.0.47893` | x64 | ❌ | en-US |
 | 471 | Investintech.com Inc. | Able2Extract Professional | Able2Extract Professional | `20.0.3.0` | x64 | ❌ | en-US |
 | 472 | Irfan Skiljan | IrfanView | IrfanView (x64) | `4.72` | x64 | ❌ | en-US |
@@ -521,8 +521,8 @@
 | 513 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.1 (x64) | `2025.1.7.2` | x64 | ❌ | en-US |
 | 514 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.1 (x64) | `2024.1.7` | x64 | ❌ | en-US |
 | 515 | JetBrains | JetBrains dotUltimate | dotUltimate 2024.3 | `2024.3.10` | x86,x64 | ❌ | en-US |
-| 516 | JetBrains | JetBrains dotUltimate | dotUltimate 2025.2 | `2025.2.3` | x86,x64 | ❌ | en-US |
-| 517 | JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.1` | x86,x64 | ❌ | en-US |
+| 516 | JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.2` | x86,x64 | ❌ | en-US |
+| 517 | JetBrains | JetBrains dotUltimate | dotUltimate 2025.2 | `2025.2.3` | x86,x64 | ❌ | en-US |
 | 518 | JetBrains | JetBrains dotUltimate | dotUltimate 2025.3 | `2025.3.3` | x86,x64 | ❌ | en-US |
 | 519 | JetBrains | JetBrains dotUltimate | dotUltimate 2024.1 | `2024.1.7` | x86,x64 | ❌ | en-US |
 | 520 | JetBrains | JetBrains ReSharper 2023.1 | ReSharper 2023.1 | `2023.1.7` | x86,x64 | ❌ | en-US |
@@ -826,13 +826,13 @@
 | 818 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `156.0` | x64 | ✅ | ru |
 | 819 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `156.0` | x64 | ✅ | ja |
 | 820 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `156.0` | x64 | ✅ | da |
-| 821 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `156.0` | x64 | ✅ | ar |
-| 822 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `156.0` | x64 | ✅ | hu |
-| 823 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `156.0` | x64 | ✅ | uk |
-| 824 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `156.0` | x64 | ✅ | nn-NO |
-| 825 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `156.0` | x64 | ✅ | id |
-| 826 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `156.0` | x64 | ✅ | de |
-| 827 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `155.0.1` | x64 | ✅ | es-MX |
+| 821 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `156.0` | x64 | ✅ | es-MX |
+| 822 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `156.0` | x64 | ✅ | ar |
+| 823 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `156.0` | x64 | ✅ | hu |
+| 824 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `156.0` | x64 | ✅ | uk |
+| 825 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `156.0` | x64 | ✅ | nn-NO |
+| 826 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `156.0` | x64 | ✅ | id |
+| 827 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `156.0` | x64 | ✅ | de |
 | 828 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `156.0` | x64 | ✅ | ro |
 | 829 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `156.0` | x64 | ✅ | sv-SE |
 | 830 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `156.0` | x64 | ✅ | th |
@@ -1093,7 +1093,7 @@
 | 1085 | NetSetMan GmbH | NetSetMan | NetSetMan | `5.4.0` | x86,x64 | ❌ | en-US |
 | 1086 | NETworkManager | NETworkManager | NETworkManager | `2026.7.7.0` | x64 | ❌ | en-US |
 | 1087 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.3` | x64 | ❌ | en-US |
-| 1088 | Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.3.20260826` | x64 | ❌ | en-US |
+| 1088 | Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.4.20260916` | x64 | ❌ | en-US |
 | 1089 | Nextiva | NextivaONE | NextivaONE | `1.20.1.0` | x64 | ❌ | en-US |
 | 1090 | NGWIN | PicPick | PicPick | `7.6.0` | x86,x64 | ❌ | en-US |
 | 1091 | NICE Software | Amazon DCV Client | Amazon DCV Client | `25.0.9800.0` | x86,x64 | ❌ | en-US |
@@ -1346,8 +1346,8 @@
 | 1338 | SnelStart | SnelStart | SnelStart | `12.195.179` | x86,x64 | ❌ | nl |
 | 1339 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.5` | x64 | ❌ | en-US |
 | 1340 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.0.2` | x64 | ❌ | en-US |
-| 1341 | Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.23.28922.0` | x64 | ❌ | de |
-| 1342 | Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.23.28922.0` | x64 | ❌ | en-US |
+| 1341 | Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.23.28922.0` | x64 | ❌ | en-US |
+| 1342 | Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.23.28922.0` | x64 | ❌ | de |
 | 1343 | Softerra | Softerra LDAP Browser | LDAP Browser - German (x64) | `4.5.19808.0` | x64 | ❌ | de |
 | 1344 | Softerra | Softerra LDAP Browser | LDAP Browser - English (x64) | `4.5.19808.0` | x64 | ❌ | en-US |
 | 1345 | SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.4.2` | x64 | ❌ | en-US |
@@ -1502,13 +1502,13 @@
 | 1494 | typora.io | Typora | Typora (x64) | `1.14.10` | x64 | ❌ | en-US |
 | 1495 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.13.0` | x64 | ❌ | en-US |
 | 1496 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | x64 | ❌ | en-US |
-| 1497 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.0` | x64 | ❌ | en-US |
-| 1498 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.3.0` | x64 | ❌ | en-US |
+| 1497 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.3.0` | x64 | ❌ | en-US |
+| 1498 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.0` | x64 | ❌ | en-US |
 | 1499 | Unity Technologies ApS | Unity Hub | Unity Hub | `3.14.4.0` | x64 | ❌ | en-US |
 | 1500 | VariCAD | VariCAD | VariCAD (German) | `2026.2.05` | x64 | ❌ | de |
 | 1501 | VariCAD | VariCAD | VariCAD (English) | `2026.2.05` | x64 | ❌ | en-US |
-| 1502 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.05` | x64 | ❌ | de |
-| 1503 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.05` | x64 | ❌ | en-US |
+| 1502 | VariCAD | VariCAD Viewer | VariCAD Viewer (English) | `2026.2.05` | x64 | ❌ | en-US |
+| 1503 | VariCAD | VariCAD Viewer | VariCAD Viewer (German) | `2026.2.05` | x64 | ❌ | de |
 | 1504 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | x64 | ❌ | en-US |
 | 1505 | VEX Robotics | VEXcode IQ 3 | VEXcode IQ 3 | `3.0.4.1` | x86,x64 | ❌ | en-US |
 | 1506 | VEX Robotics | VEXcode V5 | VEXcode V5 | `3.0.4.3` | x86,x64 | ❌ | en-US |

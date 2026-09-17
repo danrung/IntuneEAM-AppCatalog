@@ -625,6 +625,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.78.15",
+      "2.81.8",
+      1
+     ]
+    ]
    }
   ],
   "alfaview-gmbh-alfaview": [
@@ -3925,6 +3938,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.10.0",
+      "4.10.1",
+      1
+     ]
+    ]
    }
   ],
   "box-drive": [
@@ -4256,6 +4282,19 @@
      [
       "1.94.119",
       "1.94.121",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.94.121",
+      "1.95.102",
       1
      ]
     ]
@@ -13739,6 +13778,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.4.929.3",
+      "5.4.930.2",
+      1
+     ]
+    ]
    }
   ],
   "international-geogebra-institute-geogebra-6": [
@@ -13883,6 +13935,19 @@
      [
       "26.3.1",
       "26.3.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.3.2",
+      "26.3.3",
       1
      ]
     ]
@@ -14520,6 +14585,19 @@
      [
       "2026.2.0.2",
       "2026.2.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.1",
+      "2026.2.2",
       1
      ]
     ]
@@ -21097,7 +21175,7 @@
      [
       "155.0.1",
       "156.0",
-      37
+      38
      ]
     ]
    }
@@ -21993,6 +22071,19 @@
      [
       "34.0.2.20260819",
       "34.0.3.20260826",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "34.0.3.20260826",
+      "34.0.4.20260916",
       1
      ]
     ]
@@ -31137,7 +31228,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260917_043048_AppCatalog.json",
+ "history_through": "20260917_164333_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -31146,8 +31237,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "da5f57ae737d2d321069ca5fe35be71d4cabcf42",
-   "hash": "e168a6d8eade7f7f7d2eb3bf33a2822d999637cf",
+   "exact": "1633ccc56b4b78d4cbbff5b328d065ae5ed722cf",
+   "hash": "fdd0045f001d22758204e8451e8497c29ee3f7f0",
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -31236,9 +31327,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/akiflow.html": {
-   "exact": "106c386462df9784616fff4a9bb7f239835bcc2f",
-   "hash": "106c386462df9784616fff4a9bb7f239835bcc2f",
-   "lastmod": "2026-08-27"
+   "exact": "fcf05a1d2f402911be2a5b30191e6cf6aae72983",
+   "hash": "fcf05a1d2f402911be2a5b30191e6cf6aae72983",
+   "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/alfaview-gmbh-alfaview.html": {
    "exact": "326cb0184bbedf25da688b8d0ba3a16a492f00ef",
@@ -31746,9 +31837,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/box-cli.html": {
-   "exact": "ac9f43419a8f75c4adcc727dc69af4c6d8a9c590",
-   "hash": "ac9f43419a8f75c4adcc727dc69af4c6d8a9c590",
-   "lastmod": "2026-08-27"
+   "exact": "c8369273e775024b50a96b3b92716882194619c2",
+   "hash": "c8369273e775024b50a96b3b92716882194619c2",
+   "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/box-drive.html": {
    "exact": "f1f8ddafec9481fa3dd335ead29776a6860275ec",
@@ -31766,9 +31857,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "09a01930086edb98a8b83ea8a70f6c9152474c77",
-   "hash": "09a01930086edb98a8b83ea8a70f6c9152474c77",
-   "lastmod": "2026-09-09"
+   "exact": "d8e0e19681c64400b6dd402c07042b18a8f107e8",
+   "hash": "d8e0e19681c64400b6dd402c07042b18a8f107e8",
+   "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "f05b6b1175f1470b9fee50fcad7408888d0cc0c0",
@@ -32951,9 +33042,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/international-geogebra-institute-geogebra-5.html": {
-   "exact": "72e73807a2f56ad4a7fd61778fc0e77ddd099176",
-   "hash": "72e73807a2f56ad4a7fd61778fc0e77ddd099176",
-   "lastmod": "2026-08-28"
+   "exact": "c80c62cda37e0881259d259fc1a6793234895c7c",
+   "hash": "c80c62cda37e0881259d259fc1a6793234895c7c",
+   "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/international-geogebra-institute-geogebra-6.html": {
    "exact": "bb3c7cfe65913446cc273d48c2cfff810c73e4ac",
@@ -32961,9 +33052,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/interpromo-gmbh-4k-video-downloader-2.html": {
-   "exact": "0832563c745e2cae214e391ce7e825c98b0c08fa",
-   "hash": "0832563c745e2cae214e391ce7e825c98b0c08fa",
-   "lastmod": "2026-09-01"
+   "exact": "80272ebd341a120ffbd58c094906b1d3cfbca5c1",
+   "hash": "80272ebd341a120ffbd58c094906b1d3cfbca5c1",
+   "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/interpromo-gmbh-4k-video-downloader.html": {
    "exact": "cd9a61e54a999aa41af17501a015de5b0498689b",
@@ -33066,9 +33157,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/jetbrains-dotultimate.html": {
-   "exact": "afb7d9ba1809537770715daa2b857f9c5cac9fb1",
-   "hash": "afb7d9ba1809537770715daa2b857f9c5cac9fb1",
-   "lastmod": "2026-08-27"
+   "exact": "5ead2ed1fa455dec5d3c57e869e379933cfd0340",
+   "hash": "5ead2ed1fa455dec5d3c57e869e379933cfd0340",
+   "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/jetbrains-goland-2017-3.html": {
    "exact": "3932932d05ed57e09e2b5a7c4715bc3d6092fefe",
@@ -34006,8 +34097,8 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
-   "exact": "9c69ce2b9512f45069faaf4d76d8a014f5cc7af9",
-   "hash": "9c69ce2b9512f45069faaf4d76d8a014f5cc7af9",
+   "exact": "5c0439a185251f32ad92069b905792da705b5b97",
+   "hash": "5c0439a185251f32ad92069b905792da705b5b97",
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/mozilla-frontmotion-firefox-community-edition-esr.html": {
@@ -34106,9 +34197,9 @@
    "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/nextcloud.html": {
-   "exact": "15bf48a708bbc4b5548e1439847f3bd3f079ba88",
-   "hash": "15bf48a708bbc4b5548e1439847f3bd3f079ba88",
-   "lastmod": "2026-08-27"
+   "exact": "5f9c17cf74ddc9394b0ec14491eafea58dc7066a",
+   "hash": "5f9c17cf74ddc9394b0ec14491eafea58dc7066a",
+   "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/nextivaone.html": {
    "exact": "0b992551aa8a6fdfb9ef616e986e0b809bdc27a7",
