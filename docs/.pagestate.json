@@ -4529,6 +4529,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "19.3",
+      "19.4",
+      1
+     ]
+    ]
    }
   ],
   "bytello-share": [
@@ -7768,6 +7781,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.5.0",
+      "2026.3.8.0",
+      1
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager": [
@@ -7932,6 +7958,19 @@
      [
       "2026.2.19.0",
       "2026.3.5.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.5.0",
+      "2026.3.8.0",
       1
      ]
     ]
@@ -10226,6 +10265,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.17",
+      "9.18",
+      1
+     ]
+    ]
    }
   ],
   "epos-group-a-s-epos-connect": [
@@ -12513,19 +12565,6 @@
   "google-llc-google-chrome": [
    {
     "added": 0,
-    "date": "2026-04-15",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "143.0.7499.41",
-      "147.0.7727.56",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-01",
     "fields": [],
     "removed": 0,
@@ -12824,6 +12863,19 @@
      [
       "152.0.7977.83",
       "153.0.8010.37",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "153.0.8010.37",
+      "153.0.8010.48",
       1
      ]
     ]
@@ -13829,6 +13881,19 @@
      [
       "6.0.927.1",
       "6.0.929.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.0.929.3",
+      "6.0.930.2",
       1
      ]
     ]
@@ -15420,6 +15485,19 @@
      [
       "18.6.1.0",
       "18.6.2.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.6.2.0",
+      "18.6.3.0",
       1
      ]
     ]
@@ -21548,6 +21626,19 @@
      [
       "9.2.3544.1",
       "9.2.3562.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.3562.1",
+      "9.2.3566.1",
       1
      ]
     ]
@@ -29139,19 +29230,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-05-16",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0478",
-      "9.2.0481",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-18",
     "fields": [],
     "removed": 0,
@@ -29505,6 +29583,24 @@
      [
       "9.2.0907",
       "9.2.1036",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1054",
+      "9.2.1116",
+      1
+     ],
+     [
+      "9.2.1036",
+      "9.2.1116",
       1
      ]
     ]
@@ -31228,7 +31324,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260917_164333_AppCatalog.json",
+ "history_through": "20260918_041513_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -31237,9 +31333,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "1633ccc56b4b78d4cbbff5b328d065ae5ed722cf",
-   "hash": "fdd0045f001d22758204e8451e8497c29ee3f7f0",
-   "lastmod": "2026-09-17"
+   "exact": "a3af9b673ae413aa0dbe9b24a82118a2580ae745",
+   "hash": "a94e16618570ce69a76ab290b485ee2a1f5304ee",
+   "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -31887,9 +31983,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/burnaware-free.html": {
-   "exact": "0a9a5af4799b14a07514e8bb5b646756cf65c4d3",
-   "hash": "0a9a5af4799b14a07514e8bb5b646756cf65c4d3",
-   "lastmod": "2026-09-02"
+   "exact": "73482d5e409c2df6e335892a2edcb6617ba12e88",
+   "hash": "73482d5e409c2df6e335892a2edcb6617ba12e88",
+   "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/bytello-share.html": {
    "exact": "d774c6e5cfb450f31894083c5358956684c59d8e",
@@ -32272,9 +32368,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html": {
-   "exact": "df554988719d81a3dab21b8db592fa85e1e9a406",
-   "hash": "df554988719d81a3dab21b8db592fa85e1e9a406",
-   "lastmod": "2026-09-17"
+   "exact": "637b284bdbd3a0aedfcfa56fa47bf30981ddd89a",
+   "hash": "637b284bdbd3a0aedfcfa56fa47bf30981ddd89a",
+   "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html": {
    "exact": "c162eaba79751b32e3666085748e8c7c79b707c3",
@@ -32282,9 +32378,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html": {
-   "exact": "c30ecd750c179921e68458eafdcf97eaf6b2e058",
-   "hash": "c30ecd750c179921e68458eafdcf97eaf6b2e058",
-   "lastmod": "2026-09-17"
+   "exact": "78ddfe50923862819484aab2c4223dbe3b417878",
+   "hash": "78ddfe50923862819484aab2c4223dbe3b417878",
+   "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-workspace.html": {
    "exact": "cab5c26bfe4145300e51e79ac3157fe33a2a2e3b",
@@ -32532,9 +32628,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/enterprisedb-corporation-pgadmin-4.html": {
-   "exact": "5dce3cca59395225ea8a71eee063d4cb0f940b30",
-   "hash": "5dce3cca59395225ea8a71eee063d4cb0f940b30",
-   "lastmod": "2026-08-27"
+   "exact": "705b05c4bc4805175d0863239f1120bab2af57d2",
+   "hash": "705b05c4bc4805175d0863239f1120bab2af57d2",
+   "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/enterprisedb-corporation-postgresql-12.html": {
    "exact": "86d18b688084de964d9fa96d3881ebfcfe7b8be5",
@@ -32887,9 +32983,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/google-llc-google-chrome.html": {
-   "exact": "04cb9785e19f5077830c137530af6085f9b6eea4",
-   "hash": "04cb9785e19f5077830c137530af6085f9b6eea4",
-   "lastmod": "2026-09-11"
+   "exact": "eb25d09cc80b3df39e8b7b331db147dbb1e6e4d0",
+   "hash": "eb25d09cc80b3df39e8b7b331db147dbb1e6e4d0",
+   "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/google-web-designer.html": {
    "exact": "522a5d497135415967ab562043b584a80f4c56fa",
@@ -33047,9 +33143,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/international-geogebra-institute-geogebra-6.html": {
-   "exact": "bb3c7cfe65913446cc273d48c2cfff810c73e4ac",
-   "hash": "bb3c7cfe65913446cc273d48c2cfff810c73e4ac",
-   "lastmod": "2026-08-28"
+   "exact": "00dcf79839d132561a42addc518726305644d446",
+   "hash": "00dcf79839d132561a42addc518726305644d446",
+   "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/interpromo-gmbh-4k-video-downloader-2.html": {
    "exact": "80272ebd341a120ffbd58c094906b1d3cfbca5c1",
@@ -33247,9 +33343,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/keeper.html": {
-   "exact": "d658ef929e5b6b52752d6cde3738de3e4badbb7a",
-   "hash": "d658ef929e5b6b52752d6cde3738de3e4badbb7a",
-   "lastmod": "2026-09-11"
+   "exact": "c6606c3d838a75015c522ac9bb90685a922fd65b",
+   "hash": "c6606c3d838a75015c522ac9bb90685a922fd65b",
+   "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/keeweb.html": {
    "exact": "3572c678aef0cc163fb077c9d30339ba571ad825",
@@ -34142,9 +34238,9 @@
    "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/mythicsoft-ltd-agent-ransack.html": {
-   "exact": "3ae75e4ca5fb4813cbb7375f04c00c89c9769739",
-   "hash": "3ae75e4ca5fb4813cbb7375f04c00c89c9769739",
-   "lastmod": "2026-08-27"
+   "exact": "eb5ef24b8d7bec503e384ab3bf82b3d355997f74",
+   "hash": "eb5ef24b8d7bec503e384ab3bf82b3d355997f74",
+   "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/nagios-enterprises-ncpa.html": {
    "exact": "5ec022933f1a602762af491ce74b0012eb329a4c",
@@ -35557,9 +35653,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "587e119b04506fc785f5960b44d90dcba0326d8d",
-   "hash": "587e119b04506fc785f5960b44d90dcba0326d8d",
-   "lastmod": "2026-09-16"
+   "exact": "bf7ca22af8f8e04d77c51a51cec0998bad7579f0",
+   "hash": "bf7ca22af8f8e04d77c51a51cec0998bad7579f0",
+   "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",

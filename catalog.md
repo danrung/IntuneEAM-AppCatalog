@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260917_164333_AppCatalog.json` (exported 2026-09-17 16:43:33)  
-> **Generated:** 2026-09-17 16:44 UTC  
+> **Source:** `20260918_041513_AppCatalog.json` (exported 2026-09-18 04:15:13)  
+> **Generated:** 2026-09-18 04:15 UTC  
 > **Total:** 1,590 packages · 932 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -203,7 +203,7 @@
 | 195 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | x64 | ❌ | en-US |
 | 196 | BrowserStack | BrowserStackLocal | BrowserStackLocal | `3.7.8` | x86,x64 | ❌ | en-US |
 | 197 | Bullzip | Bullzip PDF to Word | PDF to Word | `2.1.0.0` | x86,x64 | ❌ | en-US |
-| 198 | Burnaware | BurnAware Free | BurnAware Free | `19.3` | x86,x64 | ❌ | en-US |
+| 198 | Burnaware | BurnAware Free | BurnAware Free | `19.4` | x86,x64 | ❌ | en-US |
 | 199 | Bytello | Bytello Share | Bytello Share | `5.13.1.4288` | x86,x64 | ❌ | en-US |
 | 200 | Cake.com Inc. | Clockify | Clockify | `2.3.1` | x64 | ❌ | en-US |
 | 201 | Calibrite | Calibrite Profiler | Calibrite Profiler | `2.0.0` | x64 | ❌ | en-US |
@@ -283,9 +283,9 @@
 | 275 | Dell, Inc. | Dell SupportAssist | Dell SupportAssist for Business PCs (x64) | `4.5.3.25254` | x64 | ❌ | en-US |
 | 276 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
 | 277 | Dell, Inc. | RVTools | RVTools | `4.8.2` | x86,x64 | ❌ | en-US |
-| 278 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.5.0` | x64 | ✅ | en-US |
-| 279 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.19.0` | x64 | ✅ | en-US |
-| 280 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.5.0` | x64 | ❌ | en-US |
+| 278 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.2.19.0` | x64 | ✅ | en-US |
+| 279 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.8.0` | x64 | ✅ | en-US |
+| 280 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.8.0` | x64 | ❌ | en-US |
 | 281 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.2.9.0` | x86,x64 | ❌ | en-US |
 | 282 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
 | 283 | DigiDNA SARL | iMazing | iMazing | `3.6.3.0` | x64 | ❌ | en-US |
@@ -350,7 +350,7 @@
 | 342 | Enpass Technologies Inc. | Enpass | Enpass | `6.11.21.2311` | x86,x64 | ❌ | en-US |
 | 343 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.5.2659` | x64 | ❌ | en-US |
 | 344 | EnterpriseDB Corporation | EnterpriseDB Corporation PostgreSQL 12 | PostgreSQL 12 (x64) | `12.22.1` | x64 | ❌ | en-US |
-| 345 | EnterpriseDB Corporation | pgAdmin 4 | pgAdmin 4 | `9.17` | x64 | ❌ | en-US |
+| 345 | EnterpriseDB Corporation | pgAdmin 4 | pgAdmin 4 | `9.18` | x64 | ❌ | en-US |
 | 346 | EPOS Group A/S | EPOS Connect | EPOS Connect | `8.6.0.52050` | x86,x64 | ❌ | en-US |
 | 347 | Ergo Pro Oy | BREAK PRO | BREAK PRO | `4.3.33.0` | x86,x64 | ❌ | en-US |
 | 348 | ESET | ESET Endpoint Antivirus V10 | Endpoint Antivirus V10 - English (x64) | `10.1.2065.0` | x64 | ❌ | en-US |
@@ -439,7 +439,7 @@
 | 431 | Google | Google Go Programming Language 1.22 | Go Programming Language 1.22 (x64) | `1.22.12` | x64 | ❌ | en-US |
 | 432 | Google | Google Web Designer | Google Web Designer (x64) | `14.3.0.0` | x64 | ❌ | en-US |
 | 433 | Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | x64 | ❌ | en-US |
-| 434 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `153.0.8010.37` | x64 | ❌ | en-US |
+| 434 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `153.0.8010.48` | x64 | ❌ | en-US |
 | 435 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.19.3` | x64 | ❌ | en-US |
 | 436 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.19.3` | x64 | ❌ | en-US |
 | 437 | GP Software | Directory Opus | Directory Opus | `13.18` | x64 | ✅ | en-US |
@@ -472,7 +472,7 @@
 | 464 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.5` | x86,x64 | ❌ | en-US |
 | 465 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.32.143.0` | x64 | ❌ | en-US |
 | 466 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.930.2` | x86,x64 | ❌ | en-US |
-| 467 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.929.3` | x86,x64 | ❌ | en-US |
+| 467 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.930.2` | x86,x64 | ❌ | en-US |
 | 468 | InterPromo GMBH | 4K Video Downloader | 4K Video Downloader (x64) | `4.33.5` | x64 | ❌ | en-US |
 | 469 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.3` | x64 | ❌ | en-US |
 | 470 | Intevation GmbH | Gpg4win | Gpg4win | `5.1.0.47893` | x64 | ❌ | en-US |
@@ -543,7 +543,7 @@
 | 535 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.12.4` | x64 | ❌ | en-US |
 | 536 | Karakun | OpenWebStart | OpenWebStart (x64) | `1.14.0` | x64 | ❌ | en-US |
 | 537 | KeePassXC | KeePassXC | KeePassXC (x64) | `2.7.12` | x64 | ✅ | en-US |
-| 538 | Keeper | Keeper | Keeper | `18.6.2.0` | x86,x64 | ✅ | en-US |
+| 538 | Keeper | Keeper | Keeper | `18.6.3.0` | x86,x64 | ✅ | en-US |
 | 539 | KeeWeb | KeeWeb | KeeWeb | `1.18.7` | x64 | ❌ | en-US |
 | 540 | KeyShot | KeyShot Studio | KeyShot Studio | `2024.3.1` | x64 | ❌ | en-US |
 | 541 | Klocman | Bulk Crap Uninstaller | Bulk Crap Uninstaller | `5.8.3` | x64 | ❌ | en-US |
@@ -1082,7 +1082,7 @@
 | 1074 | Multilogin | Multilogin | Multilogin | `6.4.5.7` | x64 | ❌ | en-US |
 | 1075 | MuseScore | MuseScore 3 | MuseScore 3 (x64) | `3.6.2.548021803` | x64 | ❌ | en-US |
 | 1076 | MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.7.5.260831071` | x64 | ❌ | en-US |
-| 1077 | Mythicsoft Ltd | Agent Ransack | Agent Ransack | `9.2.3562.1` | x64 | ❌ | en-US |
+| 1077 | Mythicsoft Ltd | Agent Ransack | Agent Ransack | `9.2.3566.1` | x64 | ❌ | en-US |
 | 1078 | Nagios Enterprises | NCPA | NCPA (x64) | `3.5.0` | x64 | ❌ | en-US |
 | 1079 | National Taxation Bureau Taiwan | Business Tax Software BLR | Business Tax Software BLR | `11500.01.1150122` | x86,x64 | ❌ | zh-TW |
 | 1080 | NEC Platforms, Ltd. | UNIVERGE BLUE CONNECT | UNIVERGE BLUE CONNECT | `2.32.60` | x64 | ❌ | en-US |
@@ -1517,8 +1517,8 @@
 | 1509 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
 | 1510 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.9` | x64 | ❌ | en-US |
 | 1511 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.9` | x86,x64 | ❌ | en-US |
-| 1512 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1036` | x64 | ❌ | en-US |
-| 1513 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1054` | x64 | ❌ | en-US |
+| 1512 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1116` | x64 | ❌ | en-US |
+| 1513 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1116` | x64 | ❌ | en-US |
 | 1514 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.1.0.0` | x64 | ❌ | en-US |
 | 1515 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
 | 1516 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
