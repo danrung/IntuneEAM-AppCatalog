@@ -9958,6 +9958,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "13.1",
+      "13.1.1",
+      1
+     ]
+    ]
    }
   ],
   "ej-technologies-gmbh-jprofiler": [
@@ -15274,6 +15287,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.12.4",
+      "5.13.1",
+      1
+     ]
+    ]
    }
   ],
   "karakun-openwebstart": [
@@ -15632,6 +15658,19 @@
      [
       "9.13.0",
       "9.14.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.14.0",
+      "9.15.0",
       1
      ]
     ]
@@ -17491,19 +17530,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-05-27",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "149.0.4022.24",
-      "149.0.4022.33",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-20",
     "fields": [],
     "removed": 0,
@@ -17807,6 +17833,19 @@
      [
       "154.0.4258.12",
       "154.0.4258.18",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "154.0.4258.18",
+      "154.0.4258.24",
       1
      ]
     ]
@@ -18516,6 +18555,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3000.330.1",
+      "3000.334.2",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-onedrive": [
@@ -19122,6 +19174,21 @@
      [
       "3.1.310.0",
       "3.2.92.0",
+      1
+     ]
+    ]
+   }
+  ],
+  "microsoft-remote-desktop-webrtc-redirector": [
+   {
+    "added": 0,
+    "date": "2026-09-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.54.2408.19001",
+      "1.56.2603.20001",
       1
      ]
     ]
@@ -25733,6 +25800,21 @@
     ]
    }
   ],
+  "scaleft": [
+   {
+    "added": 0,
+    "date": "2026-09-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.83.4",
+      "1.114.0",
+      1
+     ]
+    ]
+   }
+  ],
   "scooter-software-inc-beyond-compare": [
    {
     "added": 0,
@@ -30561,19 +30643,6 @@
   "zandar-labs-sl-aptakube": [
    {
     "added": 0,
-    "date": "2026-05-07",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.16.4",
-      "1.16.5",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-28",
     "fields": [],
     "removed": 0,
@@ -30867,6 +30936,19 @@
      [
       "1.20.3",
       "1.20.4",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.20.4",
+      "1.20.5",
       1
      ]
     ]
@@ -31323,6 +31405,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.0.2",
+      "10.0.3",
+      1
+     ]
+    ]
    }
   ],
   "zultys-inc-zac": [
@@ -31355,7 +31450,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260918_161313_AppCatalog.json",
+ "history_through": "20260919_041200_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -31364,9 +31459,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "7a7e5972fc6a1ef1f450daf34f23700a2e20b592",
-   "hash": "a6dc50a90b84900bfc76c04951f68a15564630e4",
-   "lastmod": "2026-09-18"
+   "exact": "c4769d5be29f60811f89c0b5719a0cbccb96f5bd",
+   "hash": "18b99e1c3ae24e88b41d2b35ea7fc58ed5313713",
+   "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -32634,9 +32729,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ej-technologies-gmbh-install4j.html": {
-   "exact": "b01ba5ccfe288cbf63b8108587b0a01a9b38f392",
-   "hash": "b01ba5ccfe288cbf63b8108587b0a01a9b38f392",
-   "lastmod": "2026-08-27"
+   "exact": "6b1086a52ead833d01956eab7d4a638593e7bada",
+   "hash": "6b1086a52ead833d01956eab7d4a638593e7bada",
+   "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/ej-technologies-gmbh-jprofiler.html": {
    "exact": "45ebc5146a378b9dcf6c10310b207eaf2f85f959",
@@ -33359,9 +33454,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/kandra-labs-inc-zulip.html": {
-   "exact": "bc16ebda620f36577cc1c60aa7a4c78e16838ae9",
-   "hash": "bc16ebda620f36577cc1c60aa7a4c78e16838ae9",
-   "lastmod": "2026-08-27"
+   "exact": "f62cb07be25045a927eebba5ab5e1ae531247bb6",
+   "hash": "f62cb07be25045a927eebba5ab5e1ae531247bb6",
+   "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/karakun-openwebstart.html": {
    "exact": "f22240715746d22448b170a393db272d07b2e429",
@@ -33404,9 +33499,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/kovid-goyal-calibre.html": {
-   "exact": "22c12787fe2dc74124b683aa712172e2492e0fc6",
-   "hash": "22c12787fe2dc74124b683aa712172e2492e0fc6",
-   "lastmod": "2026-08-28"
+   "exact": "fe11813249aa6a69d9cbb34db7c5db9f78034d34",
+   "hash": "fe11813249aa6a69d9cbb34db7c5db9f78034d34",
+   "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/kpn-desktop-integratie.html": {
    "exact": "33228f9f44477f694060bbea06cc9029e63c616f",
@@ -33819,9 +33914,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "c937fe5c9ba3d0392d2bb872480cf2f981379315",
-   "hash": "c937fe5c9ba3d0392d2bb872480cf2f981379315",
-   "lastmod": "2026-09-15"
+   "exact": "e64c51c2d6a2fed888703531759c8cb88d5a47ef",
+   "hash": "e64c51c2d6a2fed888703531759c8cb88d5a47ef",
+   "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "a921d9463c75dd50df15ed9e807a36c490f7105f",
@@ -33909,9 +34004,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-on-premises-data-gateway.html": {
-   "exact": "2b686f01d6326c0ec253af11567c19d976a860a8",
-   "hash": "2b686f01d6326c0ec253af11567c19d976a860a8",
-   "lastmod": "2026-09-11"
+   "exact": "dc732335b6c1b1028fa98841ef7bd49bf53214ec",
+   "hash": "dc732335b6c1b1028fa98841ef7bd49bf53214ec",
+   "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
    "exact": "223cc830a0d6892ad3da854133e72fd0d37d191f",
@@ -33964,9 +34059,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-remote-desktop-webrtc-redirector.html": {
-   "exact": "4ef77a4d5645184d7801dd8f42eb4b64042ae597",
-   "hash": "4ef77a4d5645184d7801dd8f42eb4b64042ae597",
-   "lastmod": "2026-09-11"
+   "exact": "bb4ce865786e67174a5b71c893f7086204d1c1b4",
+   "hash": "bb4ce865786e67174a5b71c893f7086204d1c1b4",
+   "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/microsoft-sharepoint-online-management-shell.html": {
    "exact": "01d13a7ca1fffa909f87e46866219dbfe2164562",
@@ -34934,9 +35029,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/scaleft.html": {
-   "exact": "1b6bca6ecab44f4e13e54546c9d4e76fbe2b3e4c",
-   "hash": "1b6bca6ecab44f4e13e54546c9d4e76fbe2b3e4c",
-   "lastmod": "2026-08-27"
+   "exact": "99751deb39dcf407d6b93d369289b1e03df844fd",
+   "hash": "99751deb39dcf407d6b93d369289b1e03df844fd",
+   "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/scooter-software-inc-beyond-compare.html": {
    "exact": "f9c3c065a68539fb898647cde4a22b8059edcfb8",
@@ -35934,9 +36029,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "6da6974245cf31b6733c71f20cc50729cf79b621",
-   "hash": "6da6974245cf31b6733c71f20cc50729cf79b621",
-   "lastmod": "2026-09-17"
+   "exact": "108ac6d7c47f2bf1485301bc93a2445a184e1ec8",
+   "hash": "108ac6d7c47f2bf1485301bc93a2445a184e1ec8",
+   "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",
@@ -35989,9 +36084,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zotero.html": {
-   "exact": "cb778ffb34f78e4f26b74f8d6724351c5fe475e3",
-   "hash": "cb778ffb34f78e4f26b74f8d6724351c5fe475e3",
-   "lastmod": "2026-09-10"
+   "exact": "35482671d17d70f83d5c09ac05901d3c40a61073",
+   "hash": "35482671d17d70f83d5c09ac05901d3c40a61073",
+   "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/zscaler-client-connector-3-6.html": {
    "exact": "87736b9b903a8d4e7dca72d37d9305bb1a148968",
