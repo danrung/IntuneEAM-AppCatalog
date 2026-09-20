@@ -31450,7 +31450,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260919_154454_AppCatalog.json",
+ "history_through": "20260920_043043_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -31459,7 +31459,7 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "3da3e3dd5eb01a14943b444a887888ba8851bc06",
+   "exact": "3ccfd3a6065864053398bcc4bc60df908d75ed37",
    "hash": "18b99e1c3ae24e88b41d2b35ea7fc58ed5313713",
    "lastmod": "2026-09-19"
   },
