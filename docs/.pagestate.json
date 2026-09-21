@@ -7271,6 +7271,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.0",
+      "26.2.1",
+      1
+     ]
+    ]
    }
   ],
   "dbeaver-corp-dbeaver-enterprise": [
@@ -18746,6 +18759,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.158.0816.0003",
+      "26.163.0823.0004",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-openjdk": [
@@ -21858,6 +21884,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.32.60",
+      "2.32.143",
+      1
+     ]
+    ]
    }
   ],
   "neevia-technology-docuprinter-lt": [
@@ -21924,6 +21963,19 @@
      [
       "0.78.1",
       "0.78.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.78.2",
+      "0.79.0",
       1
      ]
     ]
@@ -22097,6 +22149,19 @@
      [
       "1.80.2",
       "1.80.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.80.3",
+      "1.80.4",
       1
      ]
     ]
@@ -29325,19 +29390,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-05-18",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0481",
-      "9.2.0498",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-20",
     "fields": [],
     "removed": 0,
@@ -29702,6 +29754,19 @@
       "9.2.1116",
       "9.2.1119",
       2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1119",
+      "9.2.1122",
+      1
      ]
     ]
    }
@@ -31088,6 +31153,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.0",
+      "7.2.0",
+      1
+     ]
+    ]
    }
   ],
   "zoom-video-communications-inc-zoom-rooms": [
@@ -31450,7 +31528,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260921_042859_AppCatalog.json",
+ "history_through": "20260921_180721_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -31459,9 +31537,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "179bece92b05ffb656097ac653c8ecc7f4eee688",
-   "hash": "18b99e1c3ae24e88b41d2b35ea7fc58ed5313713",
-   "lastmod": "2026-09-19"
+   "exact": "5a4c5c5b3120098b70a6669c0236840f70791706",
+   "hash": "92491dcf121ab9ff8e73751f84a6897790dd79f6",
+   "lastmod": "2026-09-21"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -32419,9 +32497,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-community.html": {
-   "exact": "2bcbbd100768602223f895f375ba1a4fede71df7",
-   "hash": "2bcbbd100768602223f895f375ba1a4fede71df7",
-   "lastmod": "2026-08-31"
+   "exact": "9b6fbb48e817535edd05b074642c90e20aa32859",
+   "hash": "9b6fbb48e817535edd05b074642c90e20aa32859",
+   "lastmod": "2026-09-21"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-enterprise.html": {
    "exact": "d417aa08f6a83a82e917e21fa74f9bd13e32c017",
@@ -34009,9 +34087,9 @@
    "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
-   "exact": "223cc830a0d6892ad3da854133e72fd0d37d191f",
-   "hash": "223cc830a0d6892ad3da854133e72fd0d37d191f",
-   "lastmod": "2026-09-14"
+   "exact": "f7641965cc428609733a8fde2261a3bd6e61eef6",
+   "hash": "f7641965cc428609733a8fde2261a3bd6e61eef6",
+   "lastmod": "2026-09-21"
   },
   "https://eam.drung.dev/apps/microsoft-onenote.html": {
    "exact": "4d2f63ac4d65b6b192c7ec10c44dd44c151a0f70",
@@ -34379,9 +34457,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/nec-platforms-ltd-univerge-blue-connect.html": {
-   "exact": "ce568291f41f03cd6e10239433d9a6bfbe51abc3",
-   "hash": "ce568291f41f03cd6e10239433d9a6bfbe51abc3",
-   "lastmod": "2026-09-01"
+   "exact": "df02ff04d9f017582f3f95df169e7e27cbe016b9",
+   "hash": "df02ff04d9f017582f3f95df169e7e27cbe016b9",
+   "lastmod": "2026-09-21"
   },
   "https://eam.drung.dev/apps/neevia-technology-docuprinter-lt.html": {
    "exact": "b9264b87d58421adc1217a580ef089ee6390e378",
@@ -34399,9 +34477,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/netbird-gmbh-netbird.html": {
-   "exact": "584c7b229c931130178e19a19d1acec9292e6ab2",
-   "hash": "584c7b229c931130178e19a19d1acec9292e6ab2",
-   "lastmod": "2026-09-15"
+   "exact": "49b0253bba5f455069fc89c6bf0499cb7cea65df",
+   "hash": "49b0253bba5f455069fc89c6bf0499cb7cea65df",
+   "lastmod": "2026-09-21"
   },
   "https://eam.drung.dev/apps/netsetman-gmbh-netsetman.html": {
    "exact": "4452cad32918981d8e3791d483203c293ce29657",
@@ -34414,9 +34492,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/new-relic-inc-new-relic-infrastructure-agent.html": {
-   "exact": "1a6b7e5a82b2340c7aa62aaace2165477b3e7102",
-   "hash": "1a6b7e5a82b2340c7aa62aaace2165477b3e7102",
-   "lastmod": "2026-09-09"
+   "exact": "f9b5b79fa0757504f5c1b21c13849a69e73865d3",
+   "hash": "f9b5b79fa0757504f5c1b21c13849a69e73865d3",
+   "lastmod": "2026-09-21"
   },
   "https://eam.drung.dev/apps/nextcloud.html": {
    "exact": "5f9c17cf74ddc9394b0ec14491eafea58dc7066a",
@@ -35779,9 +35857,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "0e57499a78ebc64e61d885cdafea11663c41411b",
-   "hash": "0e57499a78ebc64e61d885cdafea11663c41411b",
-   "lastmod": "2026-09-18"
+   "exact": "60900b00dfda69adae8bc838d96d302f6e38afbd",
+   "hash": "60900b00dfda69adae8bc838d96d302f6e38afbd",
+   "lastmod": "2026-09-21"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",
@@ -36049,9 +36127,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zoom-video-communications-inc-zoom-plugin-for-microsoft-outlook.html": {
-   "exact": "cc485fc7df08d686f97902433ba62a13d9e1052f",
-   "hash": "cc485fc7df08d686f97902433ba62a13d9e1052f",
-   "lastmod": "2026-08-28"
+   "exact": "45a24fbfc65c3ffdbe8b0023049235cba3e95b9d",
+   "hash": "45a24fbfc65c3ffdbe8b0023049235cba3e95b9d",
+   "lastmod": "2026-09-21"
   },
   "https://eam.drung.dev/apps/zoom-video-communications-inc-zoom-plugin-for-skype-for-business.html": {
    "exact": "7fa2382ec603f7f52f47c6c9fe0a47b94807a639",
