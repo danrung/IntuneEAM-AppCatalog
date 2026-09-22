@@ -4298,6 +4298,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-22",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.95.102",
+      "1.95.104",
+      1
+     ]
+    ]
    }
   ],
   "brightsign-llc-brightauthor-connected": [
@@ -8519,6 +8532,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-22",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.91.0.239619",
+      "4.92.0.240144",
+      1
+     ]
+    ]
    }
   ],
   "don-ho-notepad": [
@@ -12591,19 +12617,6 @@
   "google-llc-google-chrome": [
    {
     "added": 0,
-    "date": "2026-05-01",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "147.0.7727.56",
-      "147.0.7727.138",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-06",
     "fields": [],
     "removed": 0,
@@ -12902,6 +12915,19 @@
      [
       "153.0.8010.37",
       "153.0.8010.48",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-22",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "153.0.8010.48",
+      "153.0.8010.53",
       1
      ]
     ]
@@ -20571,6 +20597,19 @@
      [
       "2026.8.270956",
       "2026.9.20601",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-22",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.9.20601",
+      "2026.9.181013",
       1
      ]
     ]
@@ -31351,6 +31390,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-22",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.46825",
+      "7.2.48358",
+      1
+     ]
+    ]
    }
   ],
   "zotero": [
@@ -31528,7 +31580,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260921_180721_AppCatalog.json",
+ "history_through": "20260922_042440_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -31537,9 +31589,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "5a4c5c5b3120098b70a6669c0236840f70791706",
-   "hash": "92491dcf121ab9ff8e73751f84a6897790dd79f6",
-   "lastmod": "2026-09-21"
+   "exact": "5bd4ddc4fb561d3c0dbae5ee8c69c9fc8c59ced0",
+   "hash": "428fa90c379428854b619e4331b7fbd6b9f01c3d",
+   "lastmod": "2026-09-22"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -32157,9 +32209,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "d8e0e19681c64400b6dd402c07042b18a8f107e8",
-   "hash": "d8e0e19681c64400b6dd402c07042b18a8f107e8",
-   "lastmod": "2026-09-17"
+   "exact": "1afb7fb0425c60793695b500ee091a628bbf903c",
+   "hash": "1afb7fb0425c60793695b500ee091a628bbf903c",
+   "lastmod": "2026-09-22"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "f05b6b1175f1470b9fee50fcad7408888d0cc0c0",
@@ -32607,9 +32659,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/docker-inc-docker-desktop.html": {
-   "exact": "22b76ed125cb225d222de78d14bdbe6e63ae3e59",
-   "hash": "22b76ed125cb225d222de78d14bdbe6e63ae3e59",
-   "lastmod": "2026-09-15"
+   "exact": "9d3610eb0c736adb029ccc56084278837f3257ef",
+   "hash": "9d3610eb0c736adb029ccc56084278837f3257ef",
+   "lastmod": "2026-09-22"
   },
   "https://eam.drung.dev/apps/dominik-reichl-keepass-password-safe-classic-edition.html": {
    "exact": "2a807271e957308f0916a349a0605a10e79b777e",
@@ -33187,9 +33239,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/google-llc-google-chrome.html": {
-   "exact": "eb25d09cc80b3df39e8b7b331db147dbb1e6e4d0",
-   "hash": "eb25d09cc80b3df39e8b7b331db147dbb1e6e4d0",
-   "lastmod": "2026-09-18"
+   "exact": "c91046e163ad865ae92c4fa13255707f07f2e2a3",
+   "hash": "c91046e163ad865ae92c4fa13255707f07f2e2a3",
+   "lastmod": "2026-09-22"
   },
   "https://eam.drung.dev/apps/google-web-designer.html": {
    "exact": "522a5d497135415967ab562043b584a80f4c56fa",
@@ -34332,9 +34384,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/mirantis-inc-lens-desktop.html": {
-   "exact": "207ee972cd44be4286c4926c50aad7308e3056be",
-   "hash": "207ee972cd44be4286c4926c50aad7308e3056be",
-   "lastmod": "2026-09-04"
+   "exact": "f854d62290686e47ba22a8b93f0d9b2ef74a4704",
+   "hash": "f854d62290686e47ba22a8b93f0d9b2ef74a4704",
+   "lastmod": "2026-09-22"
   },
   "https://eam.drung.dev/apps/mitel-networks-corporation-mitel-micollab.html": {
    "exact": "2da35b7857657c5432d262f8940c00262c7e7d77",
@@ -36152,9 +36204,9 @@
    "lastmod": "2026-09-02"
   },
   "https://eam.drung.dev/apps/zoom-video-communications-inc-zoom-workplace.html": {
-   "exact": "5681e8a79eef2ebd0d84e4debef8020b4af1cc0d",
-   "hash": "5681e8a79eef2ebd0d84e4debef8020b4af1cc0d",
-   "lastmod": "2026-09-02"
+   "exact": "176b67ee8d960420c166c9501e60fa5f22f9bf19",
+   "hash": "176b67ee8d960420c166c9501e60fa5f22f9bf19",
+   "lastmod": "2026-09-22"
   },
   "https://eam.drung.dev/apps/zorus-inc-zorus-archon-agent.html": {
    "exact": "ece384c403cb5b603ef4c84ea5ab6b7e17b156b0",
