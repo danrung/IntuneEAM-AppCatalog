@@ -1010,6 +1010,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.4.3",
+      "6.0.3",
+      1
+     ]
+    ]
    }
   ],
   "amazon-corretto-jdk-11": [
@@ -9351,6 +9364,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "270.4.3312",
+      "271.4.4292",
+      1
+     ]
+    ]
    }
   ],
   "druva-technologies-pte-ltd-druva-insync": [
@@ -10163,6 +10189,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.5.1.22901",
+      "7.6.0.23012",
+      1
+     ]
+    ]
    }
   ],
   "enpass-technologies-inc-enpass": [
@@ -10370,19 +10409,6 @@
    }
   ],
   "evernote": [
-   {
-    "added": 0,
-    "date": "2026-04-15",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "10.165.1",
-      "11.12.2",
-      1
-     ]
-    ]
-   },
    {
     "added": 0,
     "date": "2026-04-22",
@@ -10678,6 +10704,19 @@
      [
       "11.33.5",
       "11.34.8",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.34.8",
+      "11.35.6",
       1
      ]
     ]
@@ -12504,6 +12543,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "130.0.2.0",
+      "131.0.2.0",
+      1
+     ]
+    ]
    }
   ],
   "google-drive-file-stream": [
@@ -12607,6 +12659,19 @@
      [
       "129.0.1.0",
       "130.0.2.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "130.0.2.0",
+      "131.0.2.0",
       1
      ]
     ]
@@ -15362,6 +15427,19 @@
      [
       "5.12.4",
       "5.13.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.13.1",
+      "5.13.2",
       1
      ]
     ]
@@ -21113,19 +21191,6 @@
   "mozilla-firefox": [
    {
     "added": 0,
-    "date": "2026-05-22",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "151.0",
-      "151.0.1",
-      47
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-28",
     "fields": [],
     "removed": 0,
@@ -21425,6 +21490,19 @@
       "155.0.1",
       "156.0",
       38
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "156.0",
+      "156.0.1",
+      46
      ]
     ]
    }
@@ -22504,6 +22582,19 @@
      [
       "26.8.2",
       "26.9.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.9.0",
+      "26.10.0",
       1
      ]
     ]
@@ -24430,6 +24521,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.200.0.0",
+      "2.201.0.0",
+      1
+     ]
+    ]
    }
   ],
   "poll-everywhere": [
@@ -24727,6 +24831,19 @@
      [
       "4.4.1",
       "5.1.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.1.5",
+      "5.1.8",
       1
      ]
     ]
@@ -27254,6 +27371,19 @@
      [
       "3.2.0.50065",
       "3.3.0.50070",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.3.0.50070",
+      "3.4.0.50128",
       1
      ]
     ]
@@ -30697,6 +30827,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.11.6.0",
+      "1.11.7.0",
+      1
+     ]
+    ]
    }
   ],
   "yubico-ab-yubico-authenticator": [
@@ -31645,7 +31788,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260922_164257_AppCatalog.json",
+ "history_through": "20260923_042143_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -31654,9 +31797,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "505a5b904a16e7e44f03884bddc216f6f0323377",
-   "hash": "ca04367ced73123deace48260df16c00d117f49c",
-   "lastmod": "2026-09-22"
+   "exact": "81dcc87f4a73a0af20f74f3b8efc6f4cd1b47775",
+   "hash": "13457d1b26a6d4f67577578f2c4e6836b6155cbe",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -31774,9 +31917,9 @@
    "lastmod": "2026-09-14"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
-   "exact": "5cf2bb32ca15c18fe356e981c46a181c4e8a7ef7",
-   "hash": "5cf2bb32ca15c18fe356e981c46a181c4e8a7ef7",
-   "lastmod": "2026-08-27"
+   "exact": "2acdb6cf34b41baf536d28ba97006924de9d75bf",
+   "hash": "2acdb6cf34b41baf536d28ba97006924de9d75bf",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-11.html": {
    "exact": "9bc7aa0f5cfd68e14d5cacdb5b0d2e9a247ebf70",
@@ -32759,9 +32902,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/dropbox.html": {
-   "exact": "85dd4d43c684f029e00abab0308e27f0bd365ec9",
-   "hash": "85dd4d43c684f029e00abab0308e27f0bd365ec9",
-   "lastmod": "2026-09-17"
+   "exact": "9661107432ebdaf9268fcc26e99414dec91a1af7",
+   "hash": "9661107432ebdaf9268fcc26e99414dec91a1af7",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/druva-technologies-pte-ltd-druva-insync.html": {
    "exact": "aa6a2c503807d4bb78735c63412f48e013b120ee",
@@ -32939,9 +33082,9 @@
    "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/elgato-stream-deck.html": {
-   "exact": "c81ff840bdd2ed7160c413c44e33fa65ab0f2f3b",
-   "hash": "c81ff840bdd2ed7160c413c44e33fa65ab0f2f3b",
-   "lastmod": "2026-08-27"
+   "exact": "defebc3c064c82e40024379681382768f1df5207",
+   "hash": "defebc3c064c82e40024379681382768f1df5207",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/enpass-technologies-inc-enpass.html": {
    "exact": "017051028547c6b52e078d4e67079391afb4d418",
@@ -32999,9 +33142,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/evernote.html": {
-   "exact": "3ebb122e8dc96c2ceeaf82f4edcffdf2c62e1a8f",
-   "hash": "3ebb122e8dc96c2ceeaf82f4edcffdf2c62e1a8f",
-   "lastmod": "2026-09-16"
+   "exact": "197751abab990519497803391ef90c6356f58d8f",
+   "hash": "197751abab990519497803391ef90c6356f58d8f",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/exacq-technologies-exacqvision-client.html": {
    "exact": "9bc9aa9a57d835275ffde248e48402a5fc05e834",
@@ -33254,14 +33397,14 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/google-drive-file-stream.html": {
-   "exact": "76fac013931891a4047f462ba74e106d987b9531",
-   "hash": "76fac013931891a4047f462ba74e106d987b9531",
-   "lastmod": "2026-08-27"
+   "exact": "b54980e6265a844c79116dfd8761ac0695da5249",
+   "hash": "b54980e6265a844c79116dfd8761ac0695da5249",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/google-drive.html": {
-   "exact": "41860bdf725a5c01de4658115f75c5e98691ddc2",
-   "hash": "41860bdf725a5c01de4658115f75c5e98691ddc2",
-   "lastmod": "2026-08-27"
+   "exact": "f81550b55ad2b3d01e4b372012bc7d6e21370d05",
+   "hash": "f81550b55ad2b3d01e4b372012bc7d6e21370d05",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/google-go-programming-language-1-16.html": {
    "exact": "77428c44ac7ffaafdbf21cec5b61772a65f12c0d",
@@ -33649,9 +33792,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/kandra-labs-inc-zulip.html": {
-   "exact": "f62cb07be25045a927eebba5ab5e1ae531247bb6",
-   "hash": "f62cb07be25045a927eebba5ab5e1ae531247bb6",
-   "lastmod": "2026-09-19"
+   "exact": "e2807c8f22d2bcf34d387f9e6b7ceea9b10e2d0d",
+   "hash": "e2807c8f22d2bcf34d387f9e6b7ceea9b10e2d0d",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/karakun-openwebstart.html": {
    "exact": "f22240715746d22448b170a393db272d07b2e429",
@@ -34514,9 +34657,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
-   "exact": "5c0439a185251f32ad92069b905792da705b5b97",
-   "hash": "5c0439a185251f32ad92069b905792da705b5b97",
-   "lastmod": "2026-09-17"
+   "exact": "8671ed9ce74b71eb46cb7693ab2de83abc3599aa",
+   "hash": "8671ed9ce74b71eb46cb7693ab2de83abc3599aa",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/mozilla-frontmotion-firefox-community-edition-esr.html": {
    "exact": "e1924c59caa32d75297d8d3be7b0b0a7d8c68523",
@@ -34684,9 +34827,9 @@
    "lastmod": "2026-09-03"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js.html": {
-   "exact": "d31a922a0be45b8e5c8f311041624d030e3fd194",
-   "hash": "d31a922a0be45b8e5c8f311041624d030e3fd194",
-   "lastmod": "2026-09-17"
+   "exact": "22962bc95da80a5f38986d3f849ead967d7d9f3b",
+   "hash": "22962bc95da80a5f38986d3f849ead967d7d9f3b",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/nomachine-enterprise-client.html": {
    "exact": "4fcbd826e0c075b55a7020bcf4ae0f7c7c417afc",
@@ -34979,9 +35122,9 @@
    "lastmod": "2026-09-12"
   },
   "https://eam.drung.dev/apps/poldervalley-selfguide-recorder.html": {
-   "exact": "53176c24ff923d8e0df541774939e6a0fd75634f",
-   "hash": "53176c24ff923d8e0df541774939e6a0fd75634f",
-   "lastmod": "2026-09-05"
+   "exact": "a77baee83ba40795535b73384a2dadfffc801f48",
+   "hash": "a77baee83ba40795535b73384a2dadfffc801f48",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/poll-everywhere.html": {
    "exact": "5b7aab2e480e76d5b99e0c4f955866be6d80e247",
@@ -35019,9 +35162,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/proton-ag-proton-vpn.html": {
-   "exact": "9e1e2a486e444276d162feed8cf4b2a8044467ff",
-   "hash": "9e1e2a486e444276d162feed8cf4b2a8044467ff",
-   "lastmod": "2026-08-27"
+   "exact": "32d70e4c898ca3450ecb4e8d0c1792cbdbc7c215",
+   "hash": "32d70e4c898ca3450ecb4e8d0c1792cbdbc7c215",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/purslane-rustdesk.html": {
    "exact": "e9c6d9acf96994ce6a039d1b69cd57cc5b730b58",
@@ -35459,9 +35602,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/solarwinds-orion-sdk.html": {
-   "exact": "de1f115b8cfbec77676ae5afd69f07caf88eebeb",
-   "hash": "de1f115b8cfbec77676ae5afd69f07caf88eebeb",
-   "lastmod": "2026-08-27"
+   "exact": "5d6ebad391578b3735625cd4409369c17fc991f8",
+   "hash": "5d6ebad391578b3735625cd4409369c17fc991f8",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/sonicwall-connect-tunnel.html": {
    "exact": "a2d74ca33473c65ca832f494befbdf1b340ae8cf",
@@ -36199,9 +36342,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/xnsoft-xnview-mp.html": {
-   "exact": "5021032a38f121439004912dd1b8533c3952b61a",
-   "hash": "5021032a38f121439004912dd1b8533c3952b61a",
-   "lastmod": "2026-09-02"
+   "exact": "77022343f80ab489e07588d7ed64db2d6c4efca4",
+   "hash": "77022343f80ab489e07588d7ed64db2d6c4efca4",
+   "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/xnsoft-xnview-standard.html": {
    "exact": "48d6235bfcebeb58640861b8d2f8d6cd0ec6acdb",
