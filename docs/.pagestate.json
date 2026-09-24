@@ -2566,6 +2566,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.23.0.517",
+      "2.24.0.558",
+      1
+     ]
+    ]
    }
   ],
   "autodesk-inc-autodesk-design-review-2018": [
@@ -10236,6 +10249,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.19.21",
+      "8.19.22",
+      1
+     ]
+    ]
    }
   ],
   "elgato-stream-deck": [
@@ -17144,6 +17170,19 @@
      [
       "6.3.2",
       "6.3.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.3.3",
+      "6.3.4",
       1
      ]
     ]
@@ -32034,7 +32073,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260924_041819_AppCatalog.json",
+ "history_through": "20260924_165638_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -32043,8 +32082,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "56d5ad3ff677af48b52e25475cc98808d6ef3475",
-   "hash": "2f05831c50b882a043ad8108fbc468ed56505052",
+   "exact": "ba1a9ffca71360a0d6ab07820815526737daed60",
+   "hash": "0aca0a625e32cd41b40ff1520635ecacdf530400",
    "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -32373,9 +32412,9 @@
    "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/autodesk-inc-autodesk-access.html": {
-   "exact": "51a26025e6c6186e8fe5e258418a34ca6764a0c0",
-   "hash": "51a26025e6c6186e8fe5e258418a34ca6764a0c0",
-   "lastmod": "2026-08-27"
+   "exact": "9d62a5836f2ffd4c0694973359c974211b92890e",
+   "hash": "9d62a5836f2ffd4c0694973359c974211b92890e",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/autodesk-inc-autodesk-design-review-2018.html": {
    "exact": "d829fdbc6b635de9d6460c88f662ff67ba77121a",
@@ -33323,9 +33362,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/elasticsearch-b-v-beats-winlogbeat.html": {
-   "exact": "1fb0cd0c3e4d80c782fd29047dc3daeeefa86b08",
-   "hash": "1fb0cd0c3e4d80c782fd29047dc3daeeefa86b08",
-   "lastmod": "2026-09-16"
+   "exact": "80fb714ed25db7de8fad0a07ae5ebcb6f9d38c0c",
+   "hash": "80fb714ed25db7de8fad0a07ae5ebcb6f9d38c0c",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/elgato-stream-deck.html": {
    "exact": "defebc3c064c82e40024379681382768f1df5207",
@@ -34373,9 +34412,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/mersive-technologies-inc-mersive-solstice-client.html": {
-   "exact": "4ff0d5f655c9bebd1f3348820657ec94fb964081",
-   "hash": "4ff0d5f655c9bebd1f3348820657ec94fb964081",
-   "lastmod": "2026-09-02"
+   "exact": "22d6d21e482a2e0499c9dc4f7bc06307ab6fc3c2",
+   "hash": "22d6d21e482a2e0499c9dc4f7bc06307ab6fc3c2",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/meta-platforms-inc-meta-quest-developer-hub.html": {
    "exact": "18ab497adecc9f9b75f1d8ef35cb6926959069ef",
