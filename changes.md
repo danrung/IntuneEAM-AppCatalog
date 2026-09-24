@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20260923_163750_AppCatalog.json` (exported 2026-09-23 16:37:50)  
-> **vs:** `20260923_042143_AppCatalog.json` (exported 2026-09-23 04:21:43)  
-> **Span:** 12 hours between exports  
-> **Generated:** 2026-09-23 16:38 UTC
+> **Comparing:** `20260924_041819_AppCatalog.json` (exported 2026-09-24 04:18:19)  
+> **vs:** `20260923_163750_AppCatalog.json` (exported 2026-09-23 16:37:50)  
+> **Span:** 11 hours between exports  
+> **Generated:** 2026-09-24 04:18 UTC
 
 ## Summary
 
@@ -11,25 +11,19 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 15 |
+| 🔄 Updated | 9 |
 
-## 🔄 Updated (15 packages)
+## 🔄 Updated (9 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Citrix | Citrix Workspace app | Citrix Workspace app | `26.3.10.69` | `26.3.11.10` | Version |
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.8.0` | `2026.3.9.0` | Version |
-| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.8.0` | `2026.3.9.0` | Version |
-| Dropbox | Dropbox | Dropbox (x64) (EXE) | `271.4.4292` | `272.4.3731` | Version |
-| Dropbox | Dropbox | Dropbox (x64) (MSI) | `270.4.3312` | `272.4.3731` | Version |
-| Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.14.0` | `4.15.0` | Version |
-| Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `155.0.4273.0` | `156.0.4285.0` | Version |
-| Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.10.12210.168` | `18.10.12217.157` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `156.0` | `156.0.1` | Version |
-| ocenaudio | ocenaudio | ocenaudio | `3.21.3` | `3.21.4` | Version |
-| Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.17.1` | `4.17.2` | Version |
-| SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3329.0` | `10.0.3330.0` | Version |
-| VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.23` | `3.0.24` | Version |
-| VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.23` | `3.0.24` | Version |
-| Waterfox | Waterfox | Waterfox (x64) | `6.7.3` | `6.7.4` | Version |
+| Box | Box Drive | Box Drive (x64) | `2.53.223` | `2.54.169` | Version |
+| code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50820.0` | `7.04.50922.0` | Version |
+| CrisisGo Inc. | CrisisGo App | CrisisGo App | `6.36.0.12489` | `6.36.2.12515` | Version |
+| DigiDNA SARL | iMazing | iMazing | `3.6.3.0` | `3.6.5.0` | Version |
+| Google LLC | Google Chrome | Google Chrome (x64) (msi) | `153.0.8010.53` | `154.0.8037.58` | Version |
+| Intevation GmbH | Gpg4win | Gpg4win | `5.1.0.47893` | `5.1.1.54555` | Version |
+| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.138.0` | `1.139.0` | Version |
+| Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.150.6` | `2.151.7` | Version |
+| WireGuard LLC | WireGuard | WireGuard (x64) | `0.5.3` | `1.1.1` | Version |
 

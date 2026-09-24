@@ -4018,6 +4018,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.53.223",
+      "2.54.169",
+      1
+     ]
+    ]
    }
   ],
   "box-tools": [
@@ -6055,6 +6068,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.04.50820.0",
+      "7.04.50922.0",
+      1
+     ]
+    ]
    }
   ],
   "coolutils-mail-viewer": [
@@ -6757,6 +6783,19 @@
      [
       "6.34.2.12397",
       "6.36.0.12489",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.36.0.12489",
+      "6.36.2.12515",
       1
      ]
     ]
@@ -8237,6 +8276,19 @@
      [
       "3.6.2.0",
       "3.6.3.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.6.3.0",
+      "3.6.5.0",
       1
      ]
     ]
@@ -12757,19 +12809,6 @@
   "google-llc-google-chrome": [
    {
     "added": 0,
-    "date": "2026-05-06",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "147.0.7727.138",
-      "148.0.7778.97",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-13",
     "fields": [],
     "removed": 0,
@@ -13068,6 +13107,19 @@
      [
       "153.0.8010.48",
       "153.0.8010.53",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "153.0.8010.53",
+      "154.0.8037.58",
       1
      ]
     ]
@@ -14235,6 +14287,19 @@
      [
       "5.0.2.4861",
       "5.1.0.47893",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.1.0.47893",
+      "5.1.1.54555",
       1
      ]
     ]
@@ -20214,19 +20279,6 @@
   "microsoft-visual-studio-code": [
    {
     "added": 0,
-    "date": "2026-05-21",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.120.0",
-      "1.121.0",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-28",
     "fields": [],
     "removed": 0,
@@ -20525,6 +20577,19 @@
      [
       "1.137.0",
       "1.138.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.138.0",
+      "1.139.0",
       1
      ]
     ]
@@ -26170,6 +26235,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.150.6",
+      "2.151.7",
+      1
+     ]
+    ]
    }
   ],
   "sandisk-corporation-sandisk-dashboard": [
@@ -30665,6 +30743,21 @@
     ]
    }
   ],
+  "wireguard-llc-wireguard": [
+   {
+    "added": 0,
+    "date": "2026-09-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.5.3",
+      "1.1.1",
+      1
+     ]
+    ]
+   }
+  ],
   "wireshark-foundation-wireshark": [
    {
     "added": 0,
@@ -31941,7 +32034,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260923_163750_AppCatalog.json",
+ "history_through": "20260924_041819_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -31950,9 +32043,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "4b69a32740c576ddc11fa9e5781dc0024d94731f",
-   "hash": "4dfb6cc12c32fad9b85a63631b1371f5f75b4e5f",
-   "lastmod": "2026-09-23"
+   "exact": "56d5ad3ff677af48b52e25475cc98808d6ef3475",
+   "hash": "2f05831c50b882a043ad8108fbc468ed56505052",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -32555,9 +32648,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/box-drive.html": {
-   "exact": "f1f8ddafec9481fa3dd335ead29776a6860275ec",
-   "hash": "f1f8ddafec9481fa3dd335ead29776a6860275ec",
-   "lastmod": "2026-08-27"
+   "exact": "be59ba5f33da670b524b6f82ffcef96266a363d6",
+   "hash": "be59ba5f33da670b524b6f82ffcef96266a363d6",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/box-tools.html": {
    "exact": "81680b7df4ce1fa67acd61eb57a0b3c44d33545a",
@@ -32810,9 +32903,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/code4ward-net-e-u-royal-ts-7.html": {
-   "exact": "8b398a70b7347790c8c077b4eaa943d502f649ef",
-   "hash": "8b398a70b7347790c8c077b4eaa943d502f649ef",
-   "lastmod": "2026-08-27"
+   "exact": "4d25dc32e25ac449d234e7463f3351d92397d6b4",
+   "hash": "4d25dc32e25ac449d234e7463f3351d92397d6b4",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/cole-williams-software-limited-windows-10-codec-pack.html": {
    "exact": "ce79e61e50f73e2785fb35edd9af02aeb565abb1",
@@ -32870,9 +32963,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/crisisgo-inc-crisisgo-app.html": {
-   "exact": "e6decf7afa41b75dc034b899f803a8f8b7007caf",
-   "hash": "e6decf7afa41b75dc034b899f803a8f8b7007caf",
-   "lastmod": "2026-08-27"
+   "exact": "90bd3afc005b8f56ce18c91a523dee69126badef",
+   "hash": "90bd3afc005b8f56ce18c91a523dee69126badef",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/daiyuu-nobori-university-of-tsukuba-japan-win10pcap.html": {
    "exact": "0d34ccb86423b04894f2d006ed48f7bc596d2196",
@@ -33005,9 +33098,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/digidna-sarl-imazing.html": {
-   "exact": "345f994116144aef59b1fe318926be657ca4b23e",
-   "hash": "345f994116144aef59b1fe318926be657ca4b23e",
-   "lastmod": "2026-08-28"
+   "exact": "4c49581fbc870d7251560bbccbd4366d78e360d0",
+   "hash": "4c49581fbc870d7251560bbccbd4366d78e360d0",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/diroots-lda-diroots-prosheets.html": {
    "exact": "ccd1c21f1e3633468387e76603e19545061254c2",
@@ -33600,9 +33693,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/google-llc-google-chrome.html": {
-   "exact": "c91046e163ad865ae92c4fa13255707f07f2e2a3",
-   "hash": "c91046e163ad865ae92c4fa13255707f07f2e2a3",
-   "lastmod": "2026-09-22"
+   "exact": "a0c7d26158773d59c3c8483d9be3044ef72a1a27",
+   "hash": "a0c7d26158773d59c3c8483d9be3044ef72a1a27",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/google-web-designer.html": {
    "exact": "522a5d497135415967ab562043b584a80f4c56fa",
@@ -33775,9 +33868,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/intevation-gmbh-gpg4win.html": {
-   "exact": "9a5ca85ace36f0f7a744bfa0c640d2a7b4e9084c",
-   "hash": "9a5ca85ace36f0f7a744bfa0c640d2a7b4e9084c",
-   "lastmod": "2026-08-27"
+   "exact": "b6899bf06021b1d2faf8a9e534c5f548d0b8e690",
+   "hash": "b6899bf06021b1d2faf8a9e534c5f548d0b8e690",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/investintech-com-inc-able2extract-professional.html": {
    "exact": "291d3121b82757edb687f32c0abbf92ce0d6d298",
@@ -34685,9 +34778,9 @@
    "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "35e912f057cbe4842c5a1d482fe73ca6a8a98fda",
-   "hash": "35e912f057cbe4842c5a1d482fe73ca6a8a98fda",
-   "lastmod": "2026-09-17"
+   "exact": "1b0a18211b74dc3408336cf1c31bdf9d73539e2d",
+   "hash": "1b0a18211b74dc3408336cf1c31bdf9d73539e2d",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "3593db38c627b6638aec163cb7f271edb102f0f4",
@@ -35500,9 +35593,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/salesforce-cli-sf-v2.html": {
-   "exact": "31a5bc04fda0ea67f110837e5069f04d7075731a",
-   "hash": "31a5bc04fda0ea67f110837e5069f04d7075731a",
-   "lastmod": "2026-09-03"
+   "exact": "764b8059476fd916bcb071fb1b97563e7eaace9b",
+   "hash": "764b8059476fd916bcb071fb1b97563e7eaace9b",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/samsung-smart-switch.html": {
    "exact": "dba3bb170ab4fdf5a77b385f06c4576b8cd98148",
@@ -36420,9 +36513,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/wireguard-llc-wireguard.html": {
-   "exact": "61bd5dc7271b0ded29e53461b2351f4a28744f0b",
-   "hash": "61bd5dc7271b0ded29e53461b2351f4a28744f0b",
-   "lastmod": "2026-08-27"
+   "exact": "2c2573c988b59286e3a33a287b567a7f56111774",
+   "hash": "2c2573c988b59286e3a33a287b567a7f56111774",
+   "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/wireshark-foundation-wireshark.html": {
    "exact": "f046d3564fe0759f1855e8c8c0b30d2f5a8a9ef6",
