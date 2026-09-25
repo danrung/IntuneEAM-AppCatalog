@@ -1023,6 +1023,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.0.3",
+      "5.4.3",
+      1
+     ]
+    ]
    }
   ],
   "amazon-corretto-jdk-11": [
@@ -2484,6 +2497,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.5.1.0",
+      "4.6.0.0",
+      1
+     ]
+    ]
    }
   ],
   "audacity": [
@@ -2766,6 +2792,19 @@
      [
       "11.0.0.4131",
       "11.0.0.4137",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.0.0.4137",
+      "11.0.0.4150",
       1
      ]
     ]
@@ -6125,19 +6164,6 @@
   "coolutils-mail-viewer": [
    {
     "added": 0,
-    "date": "2026-05-08",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.0.9621.26752",
-      "1.0.9623.36058",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-12",
     "fields": [],
     "removed": 0,
@@ -6431,6 +6457,19 @@
      [
       "7.1.9743.36606",
       "7.1.9747.33336",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9747.33336",
+      "7.1.9763.42349",
       1
      ]
     ]
@@ -9233,6 +9272,19 @@
      [
       "31.4.4",
       "31.4.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "31.4.5",
+      "31.5.2",
       1
      ]
     ]
@@ -26410,6 +26462,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.2.5.32528",
+      "5.2.6.32774",
+      1
+     ]
+    ]
    }
   ],
   "secrypt-mgbh-digiseal-reader": [
@@ -27072,6 +27137,19 @@
      [
       "1.1.0",
       "1.2.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.2.1",
+      "1.2.3",
       1
      ]
     ]
@@ -32197,7 +32275,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260925_042944_AppCatalog.json",
+ "history_through": "20260925_165850_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -32206,8 +32284,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "bf207e7fb786b3a630b01cfdfdd25b5055b5afd1",
-   "hash": "4435fb8853a9f495f946e75e69edd163ef171928",
+   "exact": "8bb2bd27d801b26a55ca0009993bc834cf7259e4",
+   "hash": "c4e58d066dd2f7cba5f9e87cb9ec4ccaec4a959b",
    "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -32326,9 +32404,9 @@
    "lastmod": "2026-09-14"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
-   "exact": "2acdb6cf34b41baf536d28ba97006924de9d75bf",
-   "hash": "2acdb6cf34b41baf536d28ba97006924de9d75bf",
-   "lastmod": "2026-09-23"
+   "exact": "537b35e1149eb3d3703b3540923060f7eef519f5",
+   "hash": "537b35e1149eb3d3703b3540923060f7eef519f5",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-11.html": {
    "exact": "9bc7aa0f5cfd68e14d5cacdb5b0d2e9a247ebf70",
@@ -32526,9 +32604,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/atostek-oy-atostek-id.html": {
-   "exact": "4d03060ed3a6fec81225691aa66e1ba2ecf64ff3",
-   "hash": "4d03060ed3a6fec81225691aa66e1ba2ecf64ff3",
-   "lastmod": "2026-08-27"
+   "exact": "2686c5238f41db2a13e4a22534c2ad7a58ca1147",
+   "hash": "2686c5238f41db2a13e4a22534c2ad7a58ca1147",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/audacity.html": {
    "exact": "a78d8192f8b296219e5efd5d030212cecd251a64",
@@ -32581,9 +32659,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/axure-rp.html": {
-   "exact": "11052ca4fe857782d0867db140d8d6648a11066f",
-   "hash": "11052ca4fe857782d0867db140d8d6648a11066f",
-   "lastmod": "2026-08-27"
+   "exact": "31e6125f6929ba184a975d630a79b25b913e4373",
+   "hash": "31e6125f6929ba184a975d630a79b25b913e4373",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-icedtea-web.html": {
    "exact": "aca0858f0b3b50a243c5daac43cce5ec90ccff59",
@@ -33086,9 +33164,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "06f27b087459b9540167a0473e380ed926b046a9",
-   "hash": "06f27b087459b9540167a0473e380ed926b046a9",
-   "lastmod": "2026-09-09"
+   "exact": "b5ebb202e74487cc42f2c189dbd57f756e82a8e0",
+   "hash": "b5ebb202e74487cc42f2c189dbd57f756e82a8e0",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "f78fe4c0342308dbaaa7f535dbdf2a11148510b4",
@@ -33301,9 +33379,9 @@
    "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/draw-io-desktop.html": {
-   "exact": "b1020ff6de72133aa76496a4ad0108f417a460aa",
-   "hash": "b1020ff6de72133aa76496a4ad0108f417a460aa",
-   "lastmod": "2026-09-09"
+   "exact": "6c459b5fedf735a3064cd96bfd3b1a2629aaa3b5",
+   "hash": "6c459b5fedf735a3064cd96bfd3b1a2629aaa3b5",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/drofus.html": {
    "exact": "c5d4679d1129e03484f62487c5e7a58ae7f7dfa0",
@@ -35781,9 +35859,9 @@
    "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/scooter-software-inc-beyond-compare.html": {
-   "exact": "f9c3c065a68539fb898647cde4a22b8059edcfb8",
-   "hash": "f9c3c065a68539fb898647cde4a22b8059edcfb8",
-   "lastmod": "2026-08-27"
+   "exact": "474e8cebbf95c4c19b10954ab508e478d0a21d1e",
+   "hash": "474e8cebbf95c4c19b10954ab508e478d0a21d1e",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/screenbeam-inc-screenbeam-conference.html": {
    "exact": "b6ebd6fca1e4c0bff094d03b3cfef8f85df69313",
@@ -35906,9 +35984,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/sidequest.html": {
-   "exact": "e09b7d0f3272ceda7fda1a6975f4f4497d327ffa",
-   "hash": "e09b7d0f3272ceda7fda1a6975f4f4497d327ffa",
-   "lastmod": "2026-09-18"
+   "exact": "16c071265433cfdaaee254cf9dde7334b7f231ff",
+   "hash": "16c071265433cfdaaee254cf9dde7334b7f231ff",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/signiant-inc-signiant-app.html": {
    "exact": "d04bb6b6219bdba607a3c8e882545b896cc155dd",
