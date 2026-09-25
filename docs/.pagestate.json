@@ -1970,6 +1970,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.5.4.43990",
+      "6.5.6.49067",
+      1
+     ]
+    ]
    }
   ],
   "apple-inc-apple-itunes": [
@@ -2010,6 +2023,19 @@
      [
       "2025.1",
       "2026.0",
+      2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.0",
+      "2026.1",
       2
      ]
     ]
@@ -7099,6 +7125,19 @@
      [
       "7.83.1",
       "7.83.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.83.2",
+      "7.83.3",
       1
      ]
     ]
@@ -17547,6 +17586,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.15.0",
+      "4.15.1",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-azure-powershell": [
@@ -17837,19 +17889,6 @@
    }
   ],
   "microsoft-edge-beta": [
-   {
-    "added": 0,
-    "date": "2026-06-23",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "150.0.4078.13",
-      "150.0.4078.28",
-      1
-     ]
-    ]
-   },
    {
     "added": 0,
     "date": "2026-06-30",
@@ -18155,6 +18194,19 @@
      [
       "154.0.4258.24",
       "154.0.4258.32",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "154.0.4258.32",
+      "155.0.4283.13",
       1
      ]
     ]
@@ -26412,6 +26464,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.0.4",
+      "8.0.0.5",
+      1
+     ]
+    ]
    }
   ],
   "sejda-bv-sejda-pdf-desktop": [
@@ -28854,6 +28919,21 @@
     ]
    }
   ],
+  "the-anylogic-company-anylogic-professional": [
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.9.6",
+      "8.9.10",
+      1
+     ]
+    ]
+   }
+  ],
   "the-anylogic-company-anylogic-university": [
    {
     "added": 0,
@@ -28864,6 +28944,19 @@
      [
       "8.9.6",
       "8.9.9",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.9.9",
+      "8.9.10",
       1
      ]
     ]
@@ -30616,6 +30709,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.14.7",
+      "4.14.8",
+      1
+     ]
+    ]
    }
   ],
   "wftpserver-com-ftp-rush-v3": [
@@ -30937,6 +31043,24 @@
     ],
     "removed": 0,
     "versions": []
+   },
+   {
+    "added": 0,
+    "date": "2026-09-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.4.18",
+      "4.4.19",
+      1
+     ],
+     [
+      "4.6.8",
+      "4.6.9",
+      1
+     ]
+    ]
    }
   ],
   "wrike-com-wrike": [
@@ -32073,7 +32197,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260924_165638_AppCatalog.json",
+ "history_through": "20260925_042944_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -32082,9 +32206,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "ba1a9ffca71360a0d6ab07820815526737daed60",
-   "hash": "0aca0a625e32cd41b40ff1520635ecacdf530400",
-   "lastmod": "2026-09-24"
+   "exact": "bf207e7fb786b3a630b01cfdfdd25b5055b5afd1",
+   "hash": "4435fb8853a9f495f946e75e69edd163ef171928",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -32322,9 +32446,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/appgate-sdp-client.html": {
-   "exact": "db41c95648a32cc5701d9577b51c6227bb8b3ec9",
-   "hash": "db41c95648a32cc5701d9577b51c6227bb8b3ec9",
-   "lastmod": "2026-08-27"
+   "exact": "c2d60dd744d4ac6511022d03362641856a29fa19",
+   "hash": "c2d60dd744d4ac6511022d03362641856a29fa19",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/apple-inc-apple-itunes.html": {
    "exact": "1f3c4fc41f0f48502cc3585eaab1fd2fb692d3ad",
@@ -32332,9 +32456,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/araxis-merge.html": {
-   "exact": "9e1dd8ce6a6c11d84f34b2fcce5f326398af3330",
-   "hash": "9e1dd8ce6a6c11d84f34b2fcce5f326398af3330",
-   "lastmod": "2026-08-27"
+   "exact": "0136e7996891cf6e1abee08cfa893889a7e6bfe0",
+   "hash": "0136e7996891cf6e1abee08cfa893889a7e6bfe0",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/arcticline-software-jet-screenshot.html": {
    "exact": "b18e79c60ac6d2dfbfef6ced64f7a07ea73b4656",
@@ -33022,9 +33146,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/datadog-agent.html": {
-   "exact": "831baf0550c6e90f5d67f56915ed31c1f06599ed",
-   "hash": "831baf0550c6e90f5d67f56915ed31c1f06599ed",
-   "lastmod": "2026-09-17"
+   "exact": "98b81eef2c0305b3553ab4ac1ec4e5b5d5e7e609",
+   "hash": "98b81eef2c0305b3553ab4ac1ec4e5b5d5e7e609",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/david-kocher-cyberduck.html": {
    "exact": "25f0fab361b2ea8780d10e7c02b7a6c216dd1fb3",
@@ -34492,9 +34616,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-azure-functions-core-tools.html": {
-   "exact": "fffd51cbe95f3fc030dd0cf197ff9c8c200df928",
-   "hash": "fffd51cbe95f3fc030dd0cf197ff9c8c200df928",
-   "lastmod": "2026-09-23"
+   "exact": "d4bb1691277d9158d303d2b7f55c972972421ebd",
+   "hash": "d4bb1691277d9158d303d2b7f55c972972421ebd",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/microsoft-azure-powershell.html": {
    "exact": "9c38aef196f3901e109ba9b677cffb255683b6df",
@@ -34537,9 +34661,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "99c50b00f7f8700857b6c30e5bde438ac47b5753",
-   "hash": "99c50b00f7f8700857b6c30e5bde438ac47b5753",
-   "lastmod": "2026-09-22"
+   "exact": "7af6bfe95fa697e073b6b0fab7abcbfd4d9fc6bd",
+   "hash": "7af6bfe95fa697e073b6b0fab7abcbfd4d9fc6bd",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "0e9bf4c48fef9c178bebcb0a693ed83608cbe0d1",
@@ -35672,9 +35796,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/secrypt-mgbh-digiseal-reader.html": {
-   "exact": "f4f57c01cfa8677c7cba70117077210749a394ea",
-   "hash": "f4f57c01cfa8677c7cba70117077210749a394ea",
-   "lastmod": "2026-08-27"
+   "exact": "c6e42bb16e98b52daa50a14c92973dea80dee2c3",
+   "hash": "c6e42bb16e98b52daa50a14c92973dea80dee2c3",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/sejda-bv-sejda-pdf-desktop.html": {
    "exact": "8c43005732c930953f62bfa0ff7a61cedd2ddbd2",
@@ -36167,14 +36291,14 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/the-anylogic-company-anylogic-professional.html": {
-   "exact": "e44a7405c9f4f6656ed1c21886c9e8b3e7262c2b",
-   "hash": "e44a7405c9f4f6656ed1c21886c9e8b3e7262c2b",
-   "lastmod": "2026-08-27"
+   "exact": "2a4376275e4a7c8b6c0530da16adc930b7b2b4f3",
+   "hash": "2a4376275e4a7c8b6c0530da16adc930b7b2b4f3",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/the-anylogic-company-anylogic-university.html": {
-   "exact": "59f621e13ff957c6db6be60ffbac21327b5ab4f1",
-   "hash": "59f621e13ff957c6db6be60ffbac21327b5ab4f1",
-   "lastmod": "2026-08-27"
+   "exact": "b4cd0473cc30a1f056f3c8a6662afbd5fefe6779",
+   "hash": "b4cd0473cc30a1f056f3c8a6662afbd5fefe6779",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/the-document-foundation-libreoffice-24-help-pack.html": {
    "exact": "343d6163e0a96e5fa1f5cc3d78cfaf48cc4eab33",
@@ -36517,9 +36641,9 @@
    "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/wazuh-inc-wazuh-agent.html": {
-   "exact": "a3b4508b49c2494ca7698ff8bfc31ecfe1cf2327",
-   "hash": "a3b4508b49c2494ca7698ff8bfc31ecfe1cf2327",
-   "lastmod": "2026-08-27"
+   "exact": "afd41cf159c629a9385da2f2c5539e71a4138bc1",
+   "hash": "afd41cf159c629a9385da2f2c5539e71a4138bc1",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/webprofusion-pty-ltd-certify-the-web.html": {
    "exact": "0d340cb9887ebb73ec809b0cb8205e2a4382c6f6",
@@ -36557,9 +36681,9 @@
    "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/wireshark-foundation-wireshark.html": {
-   "exact": "f046d3564fe0759f1855e8c8c0b30d2f5a8a9ef6",
-   "hash": "f046d3564fe0759f1855e8c8c0b30d2f5a8a9ef6",
-   "lastmod": "2026-09-10"
+   "exact": "9078d27d00f50de41d90fe8b001af0d7a2251a35",
+   "hash": "9078d27d00f50de41d90fe8b001af0d7a2251a35",
+   "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/wix-toolset-3.html": {
    "exact": "d62751383027c796756faa1c92a112c13326aa3f",

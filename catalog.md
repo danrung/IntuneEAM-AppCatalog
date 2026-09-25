@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20260924_165638_AppCatalog.json` (exported 2026-09-24 16:56:38)  
-> **Generated:** 2026-09-24 16:57 UTC  
+> **Source:** `20260925_042944_AppCatalog.json` (exported 2026-09-25 04:29:44)  
+> **Generated:** 2026-09-25 04:30 UTC  
 > **Total:** 1,590 packages · 932 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -73,10 +73,10 @@
 | 65 | AnyDesk Software GmbH | AnyDesk | AnyDesk (EXE) | `9.7.10` | x86,x64 | ❌ | en-US |
 | 66 | Anywhere365 | Anywhere365 Integrator | Anywhere365 Integrator | `1.0.0.1` | x86,x64 | ❌ | en-US |
 | 67 | App Dynamic | App Dynamic AirServer Universal | AirServer Universal (x64) | `5.7.2` | x64 | ❌ | en-US |
-| 68 | Appgate | Appgate SDP Client | Appgate SDP Client | `6.5.4.43990` | x64 | ❌ | en-US |
+| 68 | Appgate | Appgate SDP Client | Appgate SDP Client | `6.5.6.49067` | x64 | ❌ | en-US |
 | 69 | Apple Inc. | Apple iTunes | iTunes (x64) | `12.13.11.1` | x64 | ❌ | en-US |
-| 70 | Araxis | Araxis Merge | Araxis Merge (English) | `2026.0` | x64 | ❌ | en-US |
-| 71 | Araxis | Araxis Merge | Araxis Merge (Japanese) | `2026.0` | x64 | ❌ | ja |
+| 70 | Araxis | Araxis Merge | Araxis Merge (Japanese) | `2026.1` | x64 | ❌ | ja |
+| 71 | Araxis | Araxis Merge | Araxis Merge (English) | `2026.1` | x64 | ❌ | en-US |
 | 72 | ArcticLine Software | ArcticLine Software Jet Screenshot | Jet Screenshot | `3.1` | x86,x64 | ❌ | en-US |
 | 73 | Arduino | Arduino IDE | Arduino IDE | `2.3.10` | x64 | ✅ | en-US |
 | 74 | Artem Izmaylov | AIMP | AIMP (x64) | `5.40.2653` | x64 | ❌ | en-US |
@@ -264,7 +264,7 @@
 | 256 | Daiyuu Nobori, University of Tsukuba, Japan | Win10Pcap | Win10Pcap | `10.2.5002` | x86,x64 | ❌ | en-US |
 | 257 | Dane Prairie Systems | Dane Prairie Systems Win2PDF | Win2PDF | `11.0.10.1` | x64 | ❌ | en-US |
 | 258 | Daniel Girardeau-Montaut | CloudCompare | CloudCompare (x64) | `2.13.2` | x64 | ❌ | en-US |
-| 259 | Datadog | Datadog Agent | Datadog Agent | `7.83.2` | x64 | ❌ | en-US |
+| 259 | Datadog | Datadog Agent | Datadog Agent | `7.83.3` | x64 | ❌ | en-US |
 | 260 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.4.45528` | x64 | ❌ | en-US |
 | 261 | DAX Studio | DAX Studio | DAX Studio | `3.6.1.1250` | x64 | ❌ | en-US |
 | 262 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
@@ -639,7 +639,7 @@
 | 631 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 21H2 | `2.0` | x86,x64 | ❌ | en-US |
 | 632 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 1607 | `2.0.1607` | x86,x64 | ❌ | en-US |
 | 633 | Microsoft | Administrative Templates (ADMX) for Windows 10 | Administrative Templates (ADMX) for Windows 10 Version 22H2 | `1.0` | x86,x64 | ❌ | en-US |
-| 634 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.15.0` | x64 | ❌ | en-US |
+| 634 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.15.1` | x64 | ❌ | en-US |
 | 635 | Microsoft | Fuzzy Lookup Add-In For Excel | Fuzzy Lookup Add-In For Excel | `1.3.0.0` | x86,x64 | ❌ | en-US |
 | 636 | Microsoft | Hanword HWP document converter for Microsoft Word 2016 | Hanword HWP document converter for Microsoft Word 2016 (x64) | `16.0.4288.1000` | x64 | ❌ | en-US |
 | 637 | Microsoft | Local Administrator Password Solution | Local Administrator Password Solution (x64) | `6.2.0.0` | x64 | ❌ | en-US |
@@ -667,7 +667,7 @@
 | 659 | Microsoft | Microsoft Bot Framework Emulator | Microsoft Bot Framework Emulator | `4.15.1` | x64 | ❌ | en-US |
 | 660 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.813.1` | x64 | ❌ | en-US |
 | 661 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
-| 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `154.0.4258.32` | x64 | ✅ | en-US |
+| 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `155.0.4283.13` | x64 | ✅ | en-US |
 | 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `156.0.4285.0` | x64 | ✅ | en-US |
 | 664 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 665 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `152.0.4191.66` | x64 | ❌ | en-US |
@@ -684,15 +684,15 @@
 | 676 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Spanish) (x64) | `17.11.1.1` | x64 | ❌ | es-ES |
 | 677 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Chinese Simplified) (x64) | `17.11.1.1` | x64 | ❌ | zh-CN |
 | 678 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Chinese Traditional) (x64) | `17.11.1.1` | x64 | ❌ | zh-TW |
-| 679 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Polish) (x64) | `18.7.1.1` | x64 | ❌ | pl-PL |
-| 680 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.7.1.1` | x64 | ❌ | pt-BR |
-| 681 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.1.1` | x64 | ❌ | zh-TW |
-| 682 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Japanese) (x64) | `18.7.1.1` | x64 | ❌ | ja-JP |
-| 683 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Italian) (x64) | `18.7.1.1` | x64 | ❌ | it-IT |
-| 684 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.7.1.1` | x64 | ❌ | zh-CN |
-| 685 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Russian) (x64) | `18.7.1.1` | x64 | ❌ | ru-RU |
-| 686 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (German) (x64) | `18.7.1.1` | x64 | ❌ | de-DE |
-| 687 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (English) (x64) | `18.7.1.1` | x64 | ❌ | en-US |
+| 679 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (English) (x64) | `18.7.1.1` | x64 | ❌ | en-US |
+| 680 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Polish) (x64) | `18.7.1.1` | x64 | ❌ | pl-PL |
+| 681 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.7.1.1` | x64 | ❌ | pt-BR |
+| 682 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.1.1` | x64 | ❌ | zh-TW |
+| 683 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Japanese) (x64) | `18.7.1.1` | x64 | ❌ | ja-JP |
+| 684 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Italian) (x64) | `18.7.1.1` | x64 | ❌ | it-IT |
+| 685 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.7.1.1` | x64 | ❌ | zh-CN |
+| 686 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Russian) (x64) | `18.7.1.1` | x64 | ❌ | ru-RU |
+| 687 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (German) (x64) | `18.7.1.1` | x64 | ❌ | de-DE |
 | 688 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (French) (x64) | `18.7.1.1` | x64 | ❌ | fr-FR |
 | 689 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Korean) (x64) | `18.7.1.1` | x64 | ❌ | ko-KR |
 | 690 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Spanish) (x64) | `18.7.1.1` | x64 | ❌ | es-ES |
@@ -1307,7 +1307,7 @@
 | 1299 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 5 (x64) | `5.2.5.32528` | x64 | ❌ | en-US |
 | 1300 | ScreenBeam Inc. | ScreenBeam Conference | ScreenBeam Conference | `1.0.5.10` | x64 | ❌ | en-US |
 | 1301 | ScreenCloud | ScreenCloud Player | ScreenCloud Player (x64) | `3.12.0` | x64 | ✅ | en-US |
-| 1302 | secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.4` | x86,x64 | ❌ | en-US |
+| 1302 | secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.5` | x86,x64 | ❌ | en-US |
 | 1303 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.11` | x64 | ❌ | en-US |
 | 1304 | Semeru | IBM Semeru Runtime Open Edition JDK 11 (LTS) | IBM Semeru Runtime Open Edition JDK 11 (LTS) | `11.0.30.7` | x64 | ❌ | en-US |
 | 1305 | Semeru | IBM Semeru Runtime Open Edition JDK 16 | IBM Semeru Runtime Open Edition JDK 16 | `16.0.2.7` | x64 | ❌ | en-US |
@@ -1415,8 +1415,8 @@
 | 1407 | Texas Instruments | TI-SmartView CE-T | TI-SmartView CE-T | `6.0.4.688` | x64 | ❌ | en-US |
 | 1408 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.5` | x64 | ✅ | en-US |
 | 1409 | TGRMN Software | TGRMN Software Bulk Rename Utility | Bulk Rename Utility (x64) | `4.1.0.1` | x64 | ❌ | en-US |
-| 1410 | The AnyLogic Company | AnyLogic Professional | AnyLogic Professional | `8.9.6` | x64 | ❌ | en-US |
-| 1411 | The AnyLogic Company | AnyLogic University | AnyLogic University | `8.9.9` | x64 | ❌ | en-US |
+| 1410 | The AnyLogic Company | AnyLogic Professional | AnyLogic Professional | `8.9.10` | x64 | ❌ | en-US |
+| 1411 | The AnyLogic Company | AnyLogic University | AnyLogic University | `8.9.10` | x64 | ❌ | en-US |
 | 1412 | The Document Foundation | The Document Foundation LibreOffice 24 | LibreOffice 24.8 (x64) | `24.8.7.2` | x64 | ❌ | en-US |
 | 1413 | The Document Foundation | The Document Foundation LibreOffice 24 | LibreOffice 24.2 (x64) | `24.2.7.2` | x64 | ❌ | en-US |
 | 1414 | The Document Foundation | The Document Foundation LibreOffice 24 Help Pack | LibreOffice 24.8 Help Pack (x64) (German) | `24.8.7.2` | x64 | ❌ | de |
@@ -1543,7 +1543,7 @@
 | 1535 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.135.06055` | x64 | ❌ | en-US |
 | 1536 | Waterfox | Waterfox | Waterfox (x64) | `6.7.4` | x64 | ❌ | en-US |
 | 1537 | Waterfox | Waterfox Classic | Waterfox Classic | `2022.11` | x64 | ❌ | en-US |
-| 1538 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.7` | x86,x64 | ❌ | en-US |
+| 1538 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.8` | x86,x64 | ❌ | en-US |
 | 1539 | Webprofusion Pty Ltd | Certify The Web | Certify The Web | `6.1.0` | x64 | ❌ | en-US |
 | 1540 | wftpserver.com | FTP Rush v3 | FTP Rush v3 | `3.6.7` | x86,x64 | ❌ | en-US |
 | 1541 | Wibu Systems | CodeMeter Runtime Kit | CodeMeter Runtime Kit | `9.10.8166.500` | x64 | ✅ | en-US |
@@ -1552,8 +1552,8 @@
 | 1544 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.6.0` | x86,x64 | ❌ | en-US |
 | 1545 | WinDirStat Team | WinDirStat | WinDirStat (x64) | `2.2.2` | x64 | ❌ | en-US |
 | 1546 | WireGuard LLC | WireGuard | WireGuard (x64) | `1.1.1` | x64 | ❌ | en-US |
-| 1547 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.18` | x64 | ❌ | en-US |
-| 1548 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.8` | x64 | ❌ | en-US |
+| 1547 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.9` | x64 | ❌ | en-US |
+| 1548 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.19` | x64 | ❌ | en-US |
 | 1549 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (EXE) | `4.7.3` | x64 | ❌ | en-US |
 | 1550 | WiX Toolset | WiX Toolset 3 | WiX Toolset 3 | `3.14` | x86,x64 | ❌ | en-US |
 | 1551 | Wonder Unit Inc. | Storyboarder | Storyboarder | `3.0.0` | x64 | ❌ | en-US |
