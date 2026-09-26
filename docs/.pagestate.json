@@ -3671,6 +3671,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "13.5.0",
+      "13.6.0",
+      1
+     ]
+    ]
    }
   ],
   "bizagi-limited-moon-modeler": [
@@ -3761,6 +3774,19 @@
      [
       "13.0.1",
       "13.5.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "13.5.0",
+      "13.6.0",
       1
      ]
     ]
@@ -13309,6 +13335,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.19.3",
+      "4.20.3",
+      2
+     ]
+    ]
    }
   ],
   "gsl-biotech-llc-snapgene-viewer": [
@@ -13613,6 +13652,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "14.5.0",
+      "14.6.0",
+      1
+     ]
+    ]
    }
   ],
   "ideamerit-s-r-o-meteor-modeler": [
@@ -13703,6 +13755,19 @@
      [
       "13.0.1",
       "13.5.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "13.5.0",
+      "13.6.0",
       1
      ]
     ]
@@ -20422,19 +20487,6 @@
   "microsoft-visual-studio-code": [
    {
     "added": 0,
-    "date": "2026-05-28",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.121.0",
-      "1.122.0",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-30",
     "fields": [],
     "removed": 0,
@@ -20733,6 +20785,19 @@
      [
       "1.138.0",
       "1.139.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.139.0",
+      "1.139.1",
       1
      ]
     ]
@@ -32275,7 +32340,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260925_165850_AppCatalog.json",
+ "history_through": "20260926_043424_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -32284,9 +32349,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "8bb2bd27d801b26a55ca0009993bc834cf7259e4",
-   "hash": "c4e58d066dd2f7cba5f9e87cb9ec4ccaec4a959b",
-   "lastmod": "2026-09-25"
+   "exact": "bcacbd0576573d5bcda90dc34afc691eb49f0e1b",
+   "hash": "8a985a599db1b88bb1076e132ff3916dae5553fc",
+   "lastmod": "2026-09-26"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -32854,14 +32919,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/bizagi-limited-galaxy-modeler.html": {
-   "exact": "fc096575214fe714030570b9a4c201b172a4cea4",
-   "hash": "fc096575214fe714030570b9a4c201b172a4cea4",
-   "lastmod": "2026-09-17"
+   "exact": "a2d7f8286f7d10aaf38f3459800293f8b4d57bc1",
+   "hash": "a2d7f8286f7d10aaf38f3459800293f8b4d57bc1",
+   "lastmod": "2026-09-26"
   },
   "https://eam.drung.dev/apps/bizagi-limited-moon-modeler.html": {
-   "exact": "e74a2e086170369743ad3ddf31e8baae912794fd",
-   "hash": "e74a2e086170369743ad3ddf31e8baae912794fd",
-   "lastmod": "2026-09-17"
+   "exact": "5ddeb31941064118b58f1e86d796afd45f451f6c",
+   "hash": "5ddeb31941064118b58f1e86d796afd45f451f6c",
+   "lastmod": "2026-09-26"
   },
   "https://eam.drung.dev/apps/blender-foundation-blender.html": {
    "exact": "e689209386bf6ed0c05c21c4203f63abfe42d22d",
@@ -33944,9 +34009,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/goto-group-inc-goto-connect.html": {
-   "exact": "fad59e02d1bc2643b6e90f9043557cee22e69fc8",
-   "hash": "fad59e02d1bc2643b6e90f9043557cee22e69fc8",
-   "lastmod": "2026-08-27"
+   "exact": "764fbfeb1a08b47d3db52847388f89f3cb3b7244",
+   "hash": "764fbfeb1a08b47d3db52847388f89f3cb3b7244",
+   "lastmod": "2026-09-26"
   },
   "https://eam.drung.dev/apps/gp-software-directory-opus.html": {
    "exact": "4ecb3e1502a7f131769687c4d161c5f29aa7ff1a",
@@ -34019,14 +34084,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ideamerit-s-r-o-luna-modeler.html": {
-   "exact": "52dbc278b3f9856338fc61caece364025007ad69",
-   "hash": "52dbc278b3f9856338fc61caece364025007ad69",
-   "lastmod": "2026-09-16"
+   "exact": "4a4b146e806384938739be5967bbfef4cc7b728f",
+   "hash": "4a4b146e806384938739be5967bbfef4cc7b728f",
+   "lastmod": "2026-09-26"
   },
   "https://eam.drung.dev/apps/ideamerit-s-r-o-meteor-modeler.html": {
-   "exact": "ef300b594da894828f298d97aaf34a5743a0e0c1",
-   "hash": "ef300b594da894828f298d97aaf34a5743a0e0c1",
-   "lastmod": "2026-09-17"
+   "exact": "58665cfbdc4da6ce08eec49e84013c090c60bceb",
+   "hash": "58665cfbdc4da6ce08eec49e84013c090c60bceb",
+   "lastmod": "2026-09-26"
   },
   "https://eam.drung.dev/apps/idm-computer-solutions-uestudio.html": {
    "exact": "bd2480a4ce1eb304653c50530bf2b0c855e24204",
@@ -35019,9 +35084,9 @@
    "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "1b0a18211b74dc3408336cf1c31bdf9d73539e2d",
-   "hash": "1b0a18211b74dc3408336cf1c31bdf9d73539e2d",
-   "lastmod": "2026-09-24"
+   "exact": "064a0c4f8fc2ca2ef645afac53729fe1042cbd97",
+   "hash": "064a0c4f8fc2ca2ef645afac53729fe1042cbd97",
+   "lastmod": "2026-09-26"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "3593db38c627b6638aec163cb7f271edb102f0f4",
