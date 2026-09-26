@@ -264,6 +264,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.9.14.745",
+      "10.9.15.753",
+      1
+     ]
+    ]
    }
   ],
   "3dflow-srl-3df-zephyr-free": [
@@ -32340,7 +32353,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260926_043424_AppCatalog.json",
+ "history_through": "20260926_161126_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -32349,8 +32362,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "bcacbd0576573d5bcda90dc34afc691eb49f0e1b",
-   "hash": "8a985a599db1b88bb1076e132ff3916dae5553fc",
+   "exact": "c7c83c89df663938eb60098827e5169ec9250222",
+   "hash": "ea42111bc8faf7c91c49f5d12cd20f7eb9aa05b1",
    "lastmod": "2026-09-26"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -32379,9 +32392,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/3dconnexion-uk-3dxware-10.html": {
-   "exact": "fda1be6f3a05a2c46956747d39a2045fa0780bfd",
-   "hash": "fda1be6f3a05a2c46956747d39a2045fa0780bfd",
-   "lastmod": "2026-08-27"
+   "exact": "8d902e7edce819393768cd501ae23239216b64f5",
+   "hash": "8d902e7edce819393768cd501ae23239216b64f5",
+   "lastmod": "2026-09-26"
   },
   "https://eam.drung.dev/apps/3dflow-srl-3df-zephyr-free.html": {
    "exact": "62b0c8efb8d57e68753be7cd1eaaee5e62d6e692",
