@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20260926_161126_AppCatalog.json` (exported 2026-09-26 16:11:26)  
-> **vs:** `20260919_154454_AppCatalog.json` (exported 2026-09-19 15:44:54)  
+> **Comparing:** `20260927_045307_AppCatalog.json` (exported 2026-09-27 04:53:07)  
+> **vs:** `20260920_043043_AppCatalog.json` (exported 2026-09-20 04:30:43)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-09-26 16:11 UTC
+> **Generated:** 2026-09-27 04:54 UTC
 
 ## Summary
 
@@ -19,8 +19,8 @@
 |-----------|-----|--------|:---------------:|:-----------:|---------|
 | 3Dconnexion UK | 3DxWare 10 | 3DxWare 10 | `10.9.14.745` | `10.9.15.753` | Version |
 | Appgate | Appgate SDP Client | Appgate SDP Client | `6.5.4.43990` | `6.5.6.49067` | Version |
-| Araxis | Araxis Merge | Araxis Merge (Japanese) | `2026.0` | `2026.1` | Version |
 | Araxis | Araxis Merge | Araxis Merge (English) | `2026.0` | `2026.1` | Version |
+| Araxis | Araxis Merge | Araxis Merge (Japanese) | `2026.0` | `2026.1` | Version |
 | Atostek Oy | Atostek ID | Atostek ID | `4.5.1.0` | `4.6.0.0` | Version |
 | Autodesk Inc. | Autodesk Access | Autodesk Access | `2.23.0.517` | `2.24.0.558` | Version |
 | Axure | Axure RP | Axure RP | `11.0.0.4137` | `11.0.0.4150` | Version |
@@ -49,8 +49,8 @@
 | Google | Google Drive | Google Drive | `130.0.2.0` | `131.0.2.0` | Version |
 | Google | Google Drive File Stream | Google Drive File Stream | `130.0.2.0` | `131.0.2.0` | Version |
 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `153.0.8010.48` | `154.0.8037.58` | Version |
-| GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.19.3` | `4.20.3` | Version |
 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.19.3` | `4.20.3` | Version |
+| GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.19.3` | `4.20.3` | Version |
 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `14.5.0` | `14.6.0` | Version |
 | Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `13.5.0` | `13.6.0` | Version |
 | Intevation GmbH | Gpg4win | Gpg4win | `5.1.0.47893` | `5.1.1.54555` | Version |
@@ -64,53 +64,53 @@
 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.10.12210.168` | `18.10.12217.157` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.138.0` | `1.139.1` | Version |
 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.9.20601` | `2026.9.181013` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `156.0` | `156.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `156.0` | `156.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `156.0` | `156.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `156.0` | `156.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `156.0` | `156.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `156.0` | `156.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `156.0` | `156.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `156.0` | `156.0.1` | Version |
 | NEC Platforms, Ltd. | UNIVERGE BLUE CONNECT | UNIVERGE BLUE CONNECT | `2.32.60` | `2.32.143` | Version |
 | NetBird GmbH | NetBird | NetBird | `0.78.2` | `0.79.0` | Version |
 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.3` | `1.80.4` | Version |
@@ -128,8 +128,8 @@
 | SolarWinds | SolarWinds Orion SDK | SolarWinds Orion SDK (x64) | `3.3.0.50070` | `3.4.0.50128` | Version |
 | The AnyLogic Company | AnyLogic Professional | AnyLogic Professional | `8.9.6` | `8.9.10` | Version |
 | The AnyLogic Company | AnyLogic University | AnyLogic University | `8.9.9` | `8.9.10` | Version |
-| VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.23` | `3.0.24` | Version |
 | VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.23` | `3.0.24` | Version |
+| VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.23` | `3.0.24` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1119` | `9.2.1125` | Version |
 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1119` | `9.2.1125` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.3` | `6.7.4` | Version |
