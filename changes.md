@@ -1,35 +1,25 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20260929_052015_AppCatalog.json` (exported 2026-09-29 05:20:15)  
-> **vs:** `20260928_193120_AppCatalog.json` (exported 2026-09-28 19:31:20)  
-> **Span:** 9 hours between exports  
-> **Generated:** 2026-09-29 05:20 UTC
+> **Comparing:** `20260929_175813_AppCatalog.json` (exported 2026-09-29 17:58:13)  
+> **vs:** `20260929_052015_AppCatalog.json` (exported 2026-09-29 05:20:15)  
+> **Span:** 12 hours between exports  
+> **Generated:** 2026-09-29 17:58 UTC
 
 ## Summary
 
 | Change | Count |
 |--------|------:|
-| ✅ Added | 2 |
+| ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 8 |
+| 🔄 Updated | 5 |
 
-## ✅ Added (2 packages)
-
-| Publisher | App | Branch | Version | Architecture |
-|-----------|-----|--------|---------|:------------:|
-| Node.js Foundation | Node.js 23 | Node.js 23 (x64) | `23.11.1` | x64 |
-| Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (MSI) | `4.7.3` | x64 |
-
-## 🔄 Updated (8 packages)
+## 🔄 Updated (5 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Amazon | Amazon Corretto JDK 11 | Amazon Corretto JDK 11 (x64) | `11.0.32.10.1` | `11.0.32.12.1` | Version |
-| Amazon | Amazon Corretto JDK 17 | Amazon Corretto JDK 17 | `17.0.20.10.1` | `17.0.20.12.1` | Version |
-| Cake.com Inc. | Clockify | Clockify | `2.3.1` | `2.3.2` | Version |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `155.0.4283.13` | `155.0.4283.18` | Version |
-| Neevia Technology | docuPrinter PRO | docuPrinter PRO | `7.3` | `7.4` | Version |
-| Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.7.7` | `12.11.8.8` | Version |
-| voidtools | voidtools Everything | Everything (MSI) (x64) | `1.4.1.1031` | `1.4.1.1032` | Version |
-| voidtools | voidtools Everything Lite | Everything Lite (MSI) (x64) | `1.4.1.1031` | `1.4.1.1032` | Version |
+| Amazon | Amazon AWS VPN Client | AWS VPN Client | `5.4.3` | `6.1.1` | Version |
+| Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `1.26.813.1` | `2.26.921.1` | Version |
+| Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.10.1` | `22.10.2` | Version |
+| Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.32.143.0` | `2.33.58.0` | Version |
+| XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.11.7.0` | `1.12.1.0` | Version |
 

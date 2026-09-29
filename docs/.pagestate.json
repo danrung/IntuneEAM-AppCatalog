@@ -1049,6 +1049,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.4.3",
+      "6.1.1",
+      1
+     ]
+    ]
    }
   ],
   "amazon-corretto-jdk-11": [
@@ -18138,6 +18151,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.26.813.1",
+      "2.26.921.1",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-edge-beta": [
@@ -19951,6 +19977,19 @@
      [
       "22.10.0",
       "22.10.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "22.10.1",
+      "22.10.2",
       1
      ]
     ]
@@ -27089,6 +27128,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.32.143.0",
+      "2.33.58.0",
+      1
+     ]
+    ]
    }
   ],
   "shotcut": [
@@ -31717,6 +31769,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.11.7.0",
+      "1.12.1.0",
+      1
+     ]
+    ]
    }
   ],
   "yubico-ab-yubico-authenticator": [
@@ -32665,7 +32730,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260929_052015_AppCatalog.json",
+ "history_through": "20260929_175813_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -32674,8 +32739,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "5bf1d6bc40fa369c5a5d7e8d7551ea8413f69a83",
-   "hash": "3502a4735d76186999e67ac8d82539f3c96a6f42",
+   "exact": "f3c767ffee58f79c5f4818a96f5722b378f3174a",
+   "hash": "40cb730eff636686da6381440c2a5d83115395c9",
    "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -32794,9 +32859,9 @@
    "lastmod": "2026-09-14"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
-   "exact": "537b35e1149eb3d3703b3540923060f7eef519f5",
-   "hash": "537b35e1149eb3d3703b3540923060f7eef519f5",
-   "lastmod": "2026-09-25"
+   "exact": "81e37785131b95cd9f878321df5f574af78b5f8d",
+   "hash": "81e37785131b95cd9f878321df5f574af78b5f8d",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-11.html": {
    "exact": "d4ab84fc284c6d2f8dcad1509083fe169850ebf1",
@@ -35119,9 +35184,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/microsoft-defender-for-endpoint-plug-in-for-wsl.html": {
-   "exact": "436111ada4ac70087c15b6504def6e54e2cb5b6f",
-   "hash": "436111ada4ac70087c15b6504def6e54e2cb5b6f",
-   "lastmod": "2026-09-11"
+   "exact": "55ea48030f2403ed21412e0fa7ee9cfc5df772c5",
+   "hash": "55ea48030f2403ed21412e0fa7ee9cfc5df772c5",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/microsoft-deployment-toolkit-8456.html": {
    "exact": "3a398f9a0280af7436c38083251b616fa028b0c7",
@@ -35339,9 +35404,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-management-studio-22.html": {
-   "exact": "648ffc5d062bccbb1f102455587070b0b6449bec",
-   "hash": "648ffc5d062bccbb1f102455587070b0b6449bec",
-   "lastmod": "2026-09-16"
+   "exact": "aa4c74ddd5b12a9e7d5066b520b14cb97ab749be",
+   "hash": "aa4c74ddd5b12a9e7d5066b520b14cb97ab749be",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/microsoft-surface-data-eraser.html": {
    "exact": "f78649b44fa5917eb510925f4af3c0af4075adf7",
@@ -36354,9 +36419,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/serverdata-net-inc-elevate-uc.html": {
-   "exact": "63c8b4c22298c52f42f87d6ebb79020ce701c0c4",
-   "hash": "63c8b4c22298c52f42f87d6ebb79020ce701c0c4",
-   "lastmod": "2026-08-27"
+   "exact": "a31ddb9c11cb3335b252feced9a411accc1787df",
+   "hash": "a31ddb9c11cb3335b252feced9a411accc1787df",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/shotcut.html": {
    "exact": "7a236342273097f6ab12584ff75a28bcf58d72ea",
@@ -37224,9 +37289,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/xnsoft-xnview-mp.html": {
-   "exact": "77022343f80ab489e07588d7ed64db2d6c4efca4",
-   "hash": "77022343f80ab489e07588d7ed64db2d6c4efca4",
-   "lastmod": "2026-09-23"
+   "exact": "3b61c8f78b7886e95f087bdaaa1d959a7a894a8a",
+   "hash": "3b61c8f78b7886e95f087bdaaa1d959a7a894a8a",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/xnsoft-xnview-standard.html": {
    "exact": "48d6235bfcebeb58640861b8d2f8d6cd0ec6acdb",
