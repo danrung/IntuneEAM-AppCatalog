@@ -1103,6 +1103,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.0.32.10.1",
+      "11.0.32.12.1",
+      1
+     ]
+    ]
    }
   ],
   "amazon-corretto-jdk-17": [
@@ -1154,6 +1167,19 @@
      [
       "17.0.20.8.1",
       "17.0.20.10.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.0.20.10.1",
+      "17.0.20.12.1",
       1
      ]
     ]
@@ -4829,6 +4855,19 @@
      [
       "2.3.0",
       "2.3.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.3.1",
+      "2.3.2",
       1
      ]
     ]
@@ -18104,24 +18143,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-06-30",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "150.0.4078.28",
-      "150.0.4078.38",
-      1
-     ],
-     [
-      "150.0.4078.38",
-      "150.0.4078.42",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-03",
     "fields": [],
     "removed": 0,
@@ -18420,6 +18441,19 @@
      [
       "154.0.4258.32",
       "155.0.4283.13",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "155.0.4283.13",
+      "155.0.4283.18",
       1
      ]
     ]
@@ -22592,6 +22626,21 @@
     ]
    }
   ],
+  "neevia-technology-docuprinter-pro": [
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.3",
+      "7.4",
+      1
+     ]
+    ]
+   }
+  ],
   "netbird-gmbh-netbird": [
    {
     "added": 0,
@@ -23163,6 +23212,15 @@
       1
      ]
     ]
+   }
+  ],
+  "node-js-foundation-node-js-23": [
+   {
+    "added": 1,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": []
    }
   ],
   "nomachine": [
@@ -27204,6 +27262,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "12.11.7.7",
+      "12.11.8.8",
+      1
+     ]
+    ]
    }
   ],
   "siber-systems-inc-goodsync-personal": [
@@ -30765,6 +30836,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.4.1.1031",
+      "1.4.1.1032",
+      1
+     ]
+    ]
    }
   ],
   "voidtools-everything-lite": [
@@ -30781,6 +30865,19 @@
      ],
      [
       "1.4.1.1030",
+      "1.4.1.1032",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.4.1.1031",
       "1.4.1.1032",
       1
      ]
@@ -31425,6 +31522,13 @@
       1
      ]
     ]
+   },
+   {
+    "added": 1,
+    "date": "2026-09-29",
+    "fields": [],
+    "removed": 0,
+    "versions": []
    }
   ],
   "wrike-com-wrike": [
@@ -32561,7 +32665,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260928_193120_AppCatalog.json",
+ "history_through": "20260929_052015_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -32570,9 +32674,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "37a13b34d104902851294e950e2f92cee7cbf5cf",
-   "hash": "0c3859f6d500ebb4eed21496e37de4e7436d720e",
-   "lastmod": "2026-09-28"
+   "exact": "5bf1d6bc40fa369c5a5d7e8d7551ea8413f69a83",
+   "hash": "3502a4735d76186999e67ac8d82539f3c96a6f42",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -32695,9 +32799,9 @@
    "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-11.html": {
-   "exact": "9bc7aa0f5cfd68e14d5cacdb5b0d2e9a247ebf70",
-   "hash": "9bc7aa0f5cfd68e14d5cacdb5b0d2e9a247ebf70",
-   "lastmod": "2026-08-27"
+   "exact": "d4ab84fc284c6d2f8dcad1509083fe169850ebf1",
+   "hash": "d4ab84fc284c6d2f8dcad1509083fe169850ebf1",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-15.html": {
    "exact": "23af505aaedb0b0e383882875d615d8a05d8d6ef",
@@ -32710,9 +32814,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-17.html": {
-   "exact": "ea1e6f17b5f017605f36627e53847c67d45285ec",
-   "hash": "ea1e6f17b5f017605f36627e53847c67d45285ec",
-   "lastmod": "2026-08-27"
+   "exact": "21691c66f00a830cc0ea43fe42302333f629c3d3",
+   "hash": "21691c66f00a830cc0ea43fe42302333f629c3d3",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-18.html": {
    "exact": "2a9fc06c369eaca96e191ef76c491d90e0b842fe",
@@ -33230,9 +33334,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cake-com-inc-clockify.html": {
-   "exact": "cd284004b3134af497ba79179b9a31a3c3c69c20",
-   "hash": "cd284004b3134af497ba79179b9a31a3c3c69c20",
-   "lastmod": "2026-09-09"
+   "exact": "3f4714eb764ecf25322456057904d0b6b09231d6",
+   "hash": "3f4714eb764ecf25322456057904d0b6b09231d6",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/calibrite-profiler.html": {
    "exact": "f481623386bb678d224124d8e39bec0d2dc96346",
@@ -35025,9 +35129,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "7af6bfe95fa697e073b6b0fab7abcbfd4d9fc6bd",
-   "hash": "7af6bfe95fa697e073b6b0fab7abcbfd4d9fc6bd",
-   "lastmod": "2026-09-25"
+   "exact": "9ccf81db3bc5293585100638ff9c1c19beca4b6d",
+   "hash": "9ccf81db3bc5293585100638ff9c1c19beca4b6d",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "0e9bf4c48fef9c178bebcb0a693ed83608cbe0d1",
@@ -35500,9 +35604,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/neevia-technology-docuprinter-pro.html": {
-   "exact": "2b53d31423968d0c20e7993a12a5fecd9c65b344",
-   "hash": "2b53d31423968d0c20e7993a12a5fecd9c65b344",
-   "lastmod": "2026-08-27"
+   "exact": "39749911369794482bdc4f76107f2c32b90abc8e",
+   "hash": "39749911369794482bdc4f76107f2c32b90abc8e",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/neevia-technology-docuprinter-tse.html": {
    "exact": "a35b2b9510f31b8bf946152a2bdf1ff189234547",
@@ -35565,44 +35669,49 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-15.html": {
-   "exact": "ff17e86503772c672d25ee6cb51dba45ccb7023e",
-   "hash": "ff17e86503772c672d25ee6cb51dba45ccb7023e",
-   "lastmod": "2026-09-03"
+   "exact": "69e79a62d52abbd895facba756e4df0d232b2117",
+   "hash": "69e79a62d52abbd895facba756e4df0d232b2117",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-17.html": {
-   "exact": "0ef3d94c8d7bb16e10e4a7d8ba3780c6800d5637",
-   "hash": "0ef3d94c8d7bb16e10e4a7d8ba3780c6800d5637",
-   "lastmod": "2026-09-03"
+   "exact": "085cd645aec098ad147d7b35a69227172c9e955b",
+   "hash": "085cd645aec098ad147d7b35a69227172c9e955b",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-18-lts.html": {
-   "exact": "622893c8fa2488df169e7907777f0a402e3e8339",
-   "hash": "622893c8fa2488df169e7907777f0a402e3e8339",
-   "lastmod": "2026-09-03"
+   "exact": "53b516bd06d3edf01341bb6561ec6318080e1943",
+   "hash": "53b516bd06d3edf01341bb6561ec6318080e1943",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-19.html": {
-   "exact": "583f35aac5a5e8662676e6fe31f79a6ea091df18",
-   "hash": "583f35aac5a5e8662676e6fe31f79a6ea091df18",
-   "lastmod": "2026-09-03"
+   "exact": "f4ac85ab321fd035a0ef3041707fb5a3f445b37f",
+   "hash": "f4ac85ab321fd035a0ef3041707fb5a3f445b37f",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-20-lts.html": {
-   "exact": "4678588d1ebf2b147941a70a80e331a6f25732f2",
-   "hash": "4678588d1ebf2b147941a70a80e331a6f25732f2",
-   "lastmod": "2026-09-03"
+   "exact": "9ec349c27f0844e6a416ba6ed8fa33a4daa06b58",
+   "hash": "9ec349c27f0844e6a416ba6ed8fa33a4daa06b58",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-21.html": {
-   "exact": "0d36dbf8ea5937a6a8574827f038fe2a2595f639",
-   "hash": "0d36dbf8ea5937a6a8574827f038fe2a2595f639",
-   "lastmod": "2026-09-03"
+   "exact": "79e18683c04e251d05fe1cc6d7866088a1d3901c",
+   "hash": "79e18683c04e251d05fe1cc6d7866088a1d3901c",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-22-lts.html": {
-   "exact": "9013296cdeac87e04473161d2b782817ca45069f",
-   "hash": "9013296cdeac87e04473161d2b782817ca45069f",
-   "lastmod": "2026-09-03"
+   "exact": "d8c8c10dccc54cdd38c3865a3e394e81d13c0f38",
+   "hash": "d8c8c10dccc54cdd38c3865a3e394e81d13c0f38",
+   "lastmod": "2026-09-29"
+  },
+  "https://eam.drung.dev/apps/node-js-foundation-node-js-23.html": {
+   "exact": "7d9b16e71a8f3cbd17d955bef28dba9e4166b24f",
+   "hash": "7d9b16e71a8f3cbd17d955bef28dba9e4166b24f",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js.html": {
-   "exact": "22962bc95da80a5f38986d3f849ead967d7d9f3b",
-   "hash": "22962bc95da80a5f38986d3f849ead967d7d9f3b",
-   "lastmod": "2026-09-23"
+   "exact": "9234b411024fd95b4f7dd907e7cfb482d5742275",
+   "hash": "9234b411024fd95b4f7dd907e7cfb482d5742275",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/nomachine-enterprise-client.html": {
    "exact": "4fcbd826e0c075b55a7020bcf4ae0f7c7c417afc",
@@ -36255,9 +36364,9 @@
    "lastmod": "2026-09-28"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-goodsync-12.html": {
-   "exact": "e3e4e6ab6ad8dbcd615e41179f8057319e1416df",
-   "hash": "e3e4e6ab6ad8dbcd615e41179f8057319e1416df",
-   "lastmod": "2026-09-07"
+   "exact": "0630ed44bfa963f64405014f82cfec29b65a7e4b",
+   "hash": "0630ed44bfa963f64405014f82cfec29b65a7e4b",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-goodsync-personal.html": {
    "exact": "9dd605f2bacb171e78530cba02465aa15c16b50f",
@@ -36980,14 +37089,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/voidtools-everything-lite.html": {
-   "exact": "671bfdfc92d5d20fcf636630600d8d6f0b93df80",
-   "hash": "671bfdfc92d5d20fcf636630600d8d6f0b93df80",
-   "lastmod": "2026-08-27"
+   "exact": "4b9df0ae3a6f7a06252aa91db0b735b30354b31d",
+   "hash": "4b9df0ae3a6f7a06252aa91db0b735b30354b31d",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/voidtools-everything.html": {
-   "exact": "91dbf0546aaf4aa582f10fe2c8ac55b649b58d3c",
-   "hash": "91dbf0546aaf4aa582f10fe2c8ac55b649b58d3c",
-   "lastmod": "2026-08-27"
+   "exact": "2908f3571857903e9929db6be7f86ca489a3f0a6",
+   "hash": "2908f3571857903e9929db6be7f86ca489a3f0a6",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/vscodium.html": {
    "exact": "510f5e06e928ca66dd04f0f30333cf3ea9b54731",
@@ -37045,9 +37154,9 @@
    "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/wireshark-foundation-wireshark.html": {
-   "exact": "9078d27d00f50de41d90fe8b001af0d7a2251a35",
-   "hash": "9078d27d00f50de41d90fe8b001af0d7a2251a35",
-   "lastmod": "2026-09-25"
+   "exact": "d554881d415dea79bd0b1bc9b2d075cf39f57385",
+   "hash": "d554881d415dea79bd0b1bc9b2d075cf39f57385",
+   "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/wix-toolset-3.html": {
    "exact": "d62751383027c796756faa1c92a112c13326aa3f",

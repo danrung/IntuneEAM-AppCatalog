@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html</loc>
@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/amazon-corretto-jdk-11.html</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/amazon-corretto-jdk-15.html</loc>
@@ -118,7 +118,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/amazon-corretto-jdk-17.html</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/amazon-corretto-jdk-18.html</loc>
@@ -534,7 +534,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/cake-com-inc-clockify.html</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/calibrite-profiler.html</loc>
@@ -1970,7 +1970,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/microsoft-edge-beta.html</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/microsoft-edge-dev.html</loc>
@@ -2350,7 +2350,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/neevia-technology-docuprinter-pro.html</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/neevia-technology-docuprinter-tse.html</loc>
@@ -2402,35 +2402,39 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/node-js-foundation-node-js.html</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/node-js-foundation-node-js-15.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/node-js-foundation-node-js-17.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/node-js-foundation-node-js-18-lts.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/node-js-foundation-node-js-19.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/node-js-foundation-node-js-20-lts.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/node-js-foundation-node-js-21.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/node-js-foundation-node-js-22-lts.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://eam.drung.dev/apps/node-js-foundation-node-js-23.html</loc>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/nomachine.html</loc>
@@ -2954,7 +2958,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/siber-systems-inc-goodsync-12.html</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/siber-systems-inc-goodsync-personal.html</loc>
@@ -3534,11 +3538,11 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/voidtools-everything.html</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/voidtools-everything-lite.html</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/vscodium.html</loc>
@@ -3586,7 +3590,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/wireshark-foundation-wireshark.html</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/wix-toolset-3.html</loc>
