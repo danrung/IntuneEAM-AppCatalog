@@ -4992,6 +4992,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.8.3.8958",
+      "6.12.6.9050",
+      1
+     ]
+    ]
    }
   ],
   "certum-procertum-smartsign-simplysign-desktop": [
@@ -6090,6 +6103,19 @@
      [
       "7.79",
       "7.80",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.80",
+      "7.81",
       1
      ]
     ]
@@ -10777,19 +10803,6 @@
   "evernote": [
    {
     "added": 0,
-    "date": "2026-04-22",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "11.12.2",
-      "11.13.2",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-04-29",
     "fields": [],
     "removed": 0,
@@ -11083,6 +11096,19 @@
      [
       "11.34.8",
       "11.35.6",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.35.6",
+      "11.36.3",
       1
      ]
     ]
@@ -14350,6 +14376,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.32.143.0",
+      "2.33.58.0",
+      1
+     ]
+    ]
    }
   ],
   "international-geogebra-institute-geogebra-5": [
@@ -14574,6 +14613,19 @@
      [
       "26.3.2",
       "26.3.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.3.3",
+      "26.3.5",
       1
      ]
     ]
@@ -15070,6 +15122,19 @@
      [
       "2026.2.4",
       "2026.2.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.5",
+      "2026.2.6",
       1
      ]
     ]
@@ -15749,6 +15814,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.11",
+      "3.12",
+      1
+     ]
+    ]
    }
   ],
   "junction-networks-onsip": [
@@ -16101,6 +16179,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.6.3.0",
+      "18.6.4.0",
+      1
+     ]
+    ]
    }
   ],
   "knime-ag-knime-analytics-platform": [
@@ -16351,6 +16442,19 @@
      [
       "3.15.6",
       "3.16.8",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.16.8",
+      "3.17.4",
       1
      ]
     ]
@@ -17101,6 +17205,19 @@
      [
       "2.9.7722",
       "2.10.8388",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.10.8388",
+      "2.10.8913",
       1
      ]
     ]
@@ -18169,24 +18286,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-07-03",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "150.0.4078.42",
-      "150.0.4078.46",
-      1
-     ],
-     [
-      "150.0.4078.46",
-      "150.0.4078.48",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-11",
     "fields": [],
     "removed": 0,
@@ -18480,6 +18579,19 @@
      [
       "155.0.4283.13",
       "155.0.4283.18",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "155.0.4283.18",
+      "155.0.4283.24",
       1
      ]
     ]
@@ -21786,19 +21898,6 @@
   "mozilla-firefox": [
    {
     "added": 0,
-    "date": "2026-05-28",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "151.0.1",
-      "151.0.2",
-      47
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-03",
     "fields": [],
     "removed": 0,
@@ -22100,6 +22199,19 @@
       47
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "156.0.1",
+      "157.0",
+      47
+     ]
+    ]
    }
   ],
   "mozilla-firefox-esr-115": [
@@ -22278,6 +22390,24 @@
       "115.40.0",
       "115.41.0",
       28
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "115.41.0",
+      "115.42.0",
+      35
+     ],
+     [
+      "115.40.0",
+      "115.42.0",
+      5
      ]
     ]
    }
@@ -24907,6 +25037,13 @@
       1
      ]
     ]
+   },
+   {
+    "added": 1,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": []
    }
   ],
   "pdf-xchange-co-ltd-pdf-xchange-pro": [
@@ -25651,6 +25788,19 @@
      [
       "3.44.12",
       "3.44.13",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.44.13",
+      "3.44.15",
       1
      ]
     ]
@@ -28447,6 +28597,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.1",
+      "26.3",
+      1
+     ]
+    ]
    }
   ],
   "superoffice-as-superoffice-webtools": [
@@ -29156,6 +29319,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "15.81.6.0",
+      "15.64.8.0",
+      1
+     ]
+    ]
    }
   ],
   "teamviewer-gmbh-teamviewer-host": [
@@ -29279,6 +29455,19 @@
      [
       "15.81.5.0",
       "15.81.6.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "15.81.6.0",
+      "15.64.8.0",
       1
      ]
     ]
@@ -30466,19 +30655,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-05-22",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0500",
-      "9.2.0509",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-23",
     "fields": [],
     "removed": 0,
@@ -30837,6 +31013,19 @@
      [
       "9.2.1125",
       "9.2.1135",
+      2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1135",
+      "9.2.1143",
       2
      ]
     ]
@@ -32730,7 +32919,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260929_175813_AppCatalog.json",
+ "history_through": "20260930_050758_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -32739,9 +32928,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "f3c767ffee58f79c5f4818a96f5722b378f3174a",
-   "hash": "40cb730eff636686da6381440c2a5d83115395c9",
-   "lastmod": "2026-09-29"
+   "exact": "5d16874580b23d23ac183269377a8a56ee6155f1",
+   "hash": "b058d55525ea76e6e5952d83b3518905d31d53b1",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -33429,9 +33618,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cato-networks-cato-client.html": {
-   "exact": "3ab9fa6cc37d2eaf94314621a209efc289f3e1e4",
-   "hash": "3ab9fa6cc37d2eaf94314621a209efc289f3e1e4",
-   "lastmod": "2026-08-27"
+   "exact": "be69274b856a235d60dfa6457565ca4f4db0d65c",
+   "hash": "be69274b856a235d60dfa6457565ca4f4db0d65c",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/causasoft-exhibitmanager.html": {
    "exact": "2509a65689b351e96c24b9cde2ddef48f46bd7fa",
@@ -33579,9 +33768,9 @@
    "lastmod": "2026-08-29"
   },
   "https://eam.drung.dev/apps/cockos-incorporated-reaper.html": {
-   "exact": "7061d0d9f61c56bedbb21ea26d1b3fed54e7675d",
-   "hash": "7061d0d9f61c56bedbb21ea26d1b3fed54e7675d",
-   "lastmod": "2026-09-14"
+   "exact": "642529fc7d358d0c2997758c88ee31ef18b23cde",
+   "hash": "642529fc7d358d0c2997758c88ee31ef18b23cde",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/code-sector-teracopy-for-windows.html": {
    "exact": "eb5bdfd333f3e2e1326ccdf21625f8fef565790f",
@@ -34084,9 +34273,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/evernote.html": {
-   "exact": "197751abab990519497803391ef90c6356f58d8f",
-   "hash": "197751abab990519497803391ef90c6356f58d8f",
-   "lastmod": "2026-09-23"
+   "exact": "6c240849092805d90deaea2edf7ec03bbddc8372",
+   "hash": "6c240849092805d90deaea2edf7ec03bbddc8372",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/exacq-technologies-exacqvision-client.html": {
    "exact": "9bc9aa9a57d835275ffde248e48402a5fc05e834",
@@ -34539,9 +34728,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/intermedia-net-inc-intermedia-unite.html": {
-   "exact": "d38dd0d8970b8e63dd41cdd541610ad7e8304474",
-   "hash": "d38dd0d8970b8e63dd41cdd541610ad7e8304474",
-   "lastmod": "2026-08-27"
+   "exact": "7c207b788e5d62cfba4822f6775db3a6ed9f3236",
+   "hash": "7c207b788e5d62cfba4822f6775db3a6ed9f3236",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/international-geogebra-institute-geogebra-5.html": {
    "exact": "c80c62cda37e0881259d259fc1a6793234895c7c",
@@ -34554,9 +34743,9 @@
    "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/interpromo-gmbh-4k-video-downloader-2.html": {
-   "exact": "80272ebd341a120ffbd58c094906b1d3cfbca5c1",
-   "hash": "80272ebd341a120ffbd58c094906b1d3cfbca5c1",
-   "lastmod": "2026-09-17"
+   "exact": "423ffe0573b192edb0096671035b9e11badae56d",
+   "hash": "423ffe0573b192edb0096671035b9e11badae56d",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/interpromo-gmbh-4k-video-downloader.html": {
    "exact": "cd9a61e54a999aa41af17501a015de5b0498689b",
@@ -34649,9 +34838,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip.html": {
-   "exact": "6889ee2f3a2275a6b473a0effe4e9fae69bfcbc8",
-   "hash": "6889ee2f3a2275a6b473a0effe4e9fae69bfcbc8",
-   "lastmod": "2026-09-04"
+   "exact": "6593ccc806de1d5ab08a8ede675fc3c492ab832e",
+   "hash": "6593ccc806de1d5ab08a8ede675fc3c492ab832e",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/jetbrains-dataspell.html": {
    "exact": "5b51bae1ffa48eea773c668fbd53e3d59b3d286f",
@@ -34714,9 +34903,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/john-macfarlane-pandoc.html": {
-   "exact": "b7f9c8cf26538c4212fd6fa0b33e2a959faf2fd5",
-   "hash": "b7f9c8cf26538c4212fd6fa0b33e2a959faf2fd5",
-   "lastmod": "2026-08-31"
+   "exact": "f80f0dad58c0f22e8c29d61a4a848073f5012e7e",
+   "hash": "f80f0dad58c0f22e8c29d61a4a848073f5012e7e",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/junction-networks-onsip.html": {
    "exact": "c6085a4749aeec75d8add65e3f00a012228bc860",
@@ -34749,9 +34938,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/keeper.html": {
-   "exact": "c6606c3d838a75015c522ac9bb90685a922fd65b",
-   "hash": "c6606c3d838a75015c522ac9bb90685a922fd65b",
-   "lastmod": "2026-09-18"
+   "exact": "2d070453cc1af6b549f7e63b92420e39ba9c7038",
+   "hash": "2d070453cc1af6b549f7e63b92420e39ba9c7038",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/keeweb.html": {
    "exact": "3572c678aef0cc163fb077c9d30339ba571ad825",
@@ -34794,9 +34983,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/krisp.html": {
-   "exact": "f2683f9eab01547aa7a246b8fbd48503794a75fd",
-   "hash": "f2683f9eab01547aa7a246b8fbd48503794a75fd",
-   "lastmod": "2026-09-11"
+   "exact": "c29c9cab50ae91154b5c4659cd6f26e979beb594",
+   "hash": "c29c9cab50ae91154b5c4659cd6f26e979beb594",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/krita-foundation-krita.html": {
    "exact": "72203bea0f0802960c1ef5c9fe8073e419e121ad",
@@ -34944,9 +35133,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/lucidlink-classic.html": {
-   "exact": "e456699d3d52020f87d8d1f65e2adc45660915f4",
-   "hash": "e456699d3d52020f87d8d1f65e2adc45660915f4",
-   "lastmod": "2026-08-27"
+   "exact": "7affe372426382492aa83ae90b2034cf88a24d78",
+   "hash": "7affe372426382492aa83ae90b2034cf88a24d78",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/lumivero-nvivo-12.html": {
    "exact": "14f9be8f5f6b39beb64d8482cd543b1024c9fa93",
@@ -35194,9 +35383,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "9ccf81db3bc5293585100638ff9c1c19beca4b6d",
-   "hash": "9ccf81db3bc5293585100638ff9c1c19beca4b6d",
-   "lastmod": "2026-09-29"
+   "exact": "f804197c5f2725c3eb87b9ca7e4c3be496d57c68",
+   "hash": "f804197c5f2725c3eb87b9ca7e4c3be496d57c68",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "0e9bf4c48fef9c178bebcb0a693ed83608cbe0d1",
@@ -35594,14 +35783,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/mozilla-firefox-esr-115.html": {
-   "exact": "2b4596160952cb3449a542999ef4a0867c40ee7a",
-   "hash": "2b4596160952cb3449a542999ef4a0867c40ee7a",
-   "lastmod": "2026-09-17"
+   "exact": "e5418690e77006d366ab8e1c0b263592fb2aad5d",
+   "hash": "e5418690e77006d366ab8e1c0b263592fb2aad5d",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
-   "exact": "9ea79742293473e52123d811df4b24c08088973a",
-   "hash": "9ea79742293473e52123d811df4b24c08088973a",
-   "lastmod": "2026-09-23"
+   "exact": "d271ae50658424b94164ff9634920818228c6c39",
+   "hash": "d271ae50658424b94164ff9634920818228c6c39",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/mozilla-frontmotion-firefox-community-edition-esr.html": {
    "exact": "e1924c59caa32d75297d8d3be7b0b0a7d8c68523",
@@ -35994,9 +36183,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/pdf-xchange-co-ltd-pdf-tools.html": {
-   "exact": "9fcb61989756e29d43d277fda1478146a537168a",
-   "hash": "9fcb61989756e29d43d277fda1478146a537168a",
-   "lastmod": "2026-08-27"
+   "exact": "7bd2bfdb43a06f2bb70f9ed14d926af0c6e000d1",
+   "hash": "7bd2bfdb43a06f2bb70f9ed14d926af0c6e000d1",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/pdf-xchange-co-ltd-pdf-xchange-pro.html": {
    "exact": "2398b6159a39b58d8940c7205565d5e60fcc3173",
@@ -36154,9 +36343,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/qgis-ltr.html": {
-   "exact": "5d344fd6b6fb08429f34841f82ed50d97d586b53",
-   "hash": "5d344fd6b6fb08429f34841f82ed50d97d586b53",
-   "lastmod": "2026-08-27"
+   "exact": "b982cc141bb40eb4863fe00de9d156bfc88c00cf",
+   "hash": "b982cc141bb40eb4863fe00de9d156bfc88c00cf",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/qgis.html": {
    "exact": "0f2c748a8a2c5c2a30ebe586ecc490305da36da6",
@@ -36624,9 +36813,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/stellarium-developers-stellarium.html": {
-   "exact": "5669a22ec3b3debe8c80350815cbefc298f43669",
-   "hash": "5669a22ec3b3debe8c80350815cbefc298f43669",
-   "lastmod": "2026-08-27"
+   "exact": "7d52238b368da13cb6f48bbb665f78ad8bcc2e59",
+   "hash": "7d52238b368da13cb6f48bbb665f78ad8bcc2e59",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/stephen-j-ressler-bridge-designer-2016.html": {
    "exact": "842c52015d7c8cae5ccec8d0dd12e22f03175490",
@@ -36734,14 +36923,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer-host.html": {
-   "exact": "c3b17fae2b810a01ebf3bf42ef727ceecd758937",
-   "hash": "c3b17fae2b810a01ebf3bf42ef727ceecd758937",
-   "lastmod": "2026-09-03"
+   "exact": "6261047813236d2a0fffc3cfb51c726d9edc0039",
+   "hash": "6261047813236d2a0fffc3cfb51c726d9edc0039",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer.html": {
-   "exact": "a1bd985e454eb42c50ee7e52b2efc929a39ab91b",
-   "hash": "a1bd985e454eb42c50ee7e52b2efc929a39ab91b",
-   "lastmod": "2026-09-04"
+   "exact": "8ff093cb04cb6b6beb3158f1f255c848292b7677",
+   "hash": "8ff093cb04cb6b6beb3158f1f255c848292b7677",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/techsmith-corporation-camtasia-2018.html": {
    "exact": "0c84364f2646f2c27c6fec60799f7c819001ce68",
@@ -37064,9 +37253,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "236c5184204f43256106ff9c792e7ac5860e27ed",
-   "hash": "236c5184204f43256106ff9c792e7ac5860e27ed",
-   "lastmod": "2026-09-28"
+   "exact": "d0ef04f0890fc201f8615395bffd661520025024",
+   "hash": "d0ef04f0890fc201f8615395bffd661520025024",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",
