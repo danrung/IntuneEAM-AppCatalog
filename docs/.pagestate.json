@@ -1739,6 +1739,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.2.3.0",
+      "2.2.4.0",
+      1
+     ]
+    ]
    }
   ],
   "amazon-web-services-inc-amazon-workspaces": [
@@ -2391,6 +2404,19 @@
      [
       "1.125.37980.0",
       "1.126.38052.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.126.38052.0",
+      "1.127.38181.0",
       1
      ]
     ]
@@ -4881,6 +4907,19 @@
      [
       "2.3.1",
       "2.3.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.3.2",
+      "2.3.3",
       1
      ]
     ]
@@ -8901,6 +8940,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.92.0.240144",
+      "4.93.0.240920",
+      1
+     ]
+    ]
    }
   ],
   "don-ho-notepad": [
@@ -9754,6 +9806,19 @@
       "270.4.3312",
       "272.4.3731",
       1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "272.4.3731",
+      "273.4.4708",
+      2
      ]
     ]
    }
@@ -11786,6 +11851,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.1.3",
+      "1.1.4",
+      1
+     ]
+    ]
    }
   ],
   "freedom-scientific-fusion": [
@@ -12593,6 +12671,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.101.0",
+      "2.102.0",
+      1
+     ]
+    ]
    }
   ],
   "glueckkanja-gab-ag-konnekt": [
@@ -12704,6 +12795,19 @@
     "versions": [
      [
       "14.13.2.0",
+      "14.13.3.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "14.12.6.0",
       "14.13.3.0",
       1
      ]
@@ -15302,6 +15406,19 @@
      [
       "2026.2.1",
       "2026.2.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.2",
+      "2026.2.3",
       1
      ]
     ]
@@ -18856,6 +18973,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "156.0.4285.0",
+      "156.0.4301.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-edge-for-business": [
@@ -19827,6 +19957,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.157.1354.0",
+      "2.158.1177.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-powershell-core": [
@@ -20786,6 +20929,19 @@
      [
       "18.10.12210.168",
       "18.10.12217.157",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.10.12217.157",
+      "18.10.12224.181",
       1
      ]
     ]
@@ -22402,12 +22558,12 @@
      [
       "115.41.0",
       "115.42.0",
-      35
+      40
      ],
      [
       "115.40.0",
       "115.42.0",
-      5
+      6
      ]
     ]
    }
@@ -24266,6 +24422,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.8.8",
+      "4.9",
+      1
+     ]
+    ]
    }
   ],
   "openshot-studios-openshot-video-editor": [
@@ -25072,6 +25241,13 @@
       1
      ]
     ]
+   },
+   {
+    "added": 1,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": []
    }
   ],
   "pdfgear": [
@@ -26409,6 +26585,19 @@
      [
       "26.3.1012.1623",
       "26.3.2012.1787",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.3.2012.1787",
+      "26.3.3012.1855",
       1
      ]
     ]
@@ -29330,6 +29519,11 @@
       "15.81.6.0",
       "15.64.8.0",
       1
+     ],
+     [
+      "15.64.8.0",
+      "15.82.6.0",
+      1
      ]
     ]
    }
@@ -29468,6 +29662,11 @@
      [
       "15.81.6.0",
       "15.64.8.0",
+      1
+     ],
+     [
+      "15.64.8.0",
+      "15.82.6.0",
       1
      ]
     ]
@@ -31027,6 +31226,11 @@
       "9.2.1135",
       "9.2.1143",
       2
+     ],
+     [
+      "9.2.1143",
+      "9.2.1152",
+      1
      ]
     ]
    }
@@ -32086,19 +32290,6 @@
   "zandar-labs-sl-aptakube": [
    {
     "added": 0,
-    "date": "2026-05-28",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.16.5",
-      "1.17.1",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-02",
     "fields": [],
     "removed": 0,
@@ -32392,6 +32583,19 @@
      [
       "1.20.4",
       "1.20.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-09-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.20.5",
+      "1.21.0",
       1
      ]
     ]
@@ -32919,7 +33123,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260930_050758_AppCatalog.json",
+ "history_through": "20260930_175337_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -32928,8 +33132,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "5d16874580b23d23ac183269377a8a56ee6155f1",
-   "hash": "b058d55525ea76e6e5952d83b3518905d31d53b1",
+   "exact": "971e01ba9119b8156c98c9248ac9a65421d44096",
+   "hash": "b1b20afaf113a9a7ae7aec17b25405b434037268",
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -33108,9 +33312,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/amazon-web-services-inc-amazon-redshift-odbc-driver.html": {
-   "exact": "2b2372589b2eb04aef3ea5fd39fe2b033993a7bf",
-   "hash": "2b2372589b2eb04aef3ea5fd39fe2b033993a7bf",
-   "lastmod": "2026-09-16"
+   "exact": "f0bc87bb49751964004e2588124a3c53bd005054",
+   "hash": "f0bc87bb49751964004e2588124a3c53bd005054",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/amazon-web-services-inc-amazon-workspaces.html": {
    "exact": "54e01c43361b725d054b242b746cbe203e00c67f",
@@ -33198,9 +33402,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/articulate-360.html": {
-   "exact": "e1ec8c6b80bedad03d5cf8e4a88b38880b1ce805",
-   "hash": "e1ec8c6b80bedad03d5cf8e4a88b38880b1ce805",
-   "lastmod": "2026-09-17"
+   "exact": "817a61c22b9eab3d6fe15e57d70e51a41a37a774",
+   "hash": "817a61c22b9eab3d6fe15e57d70e51a41a37a774",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/articulate-replay-360.html": {
    "exact": "20797f80c91578173ba923d8644d7d5e178225c1",
@@ -33588,9 +33792,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cake-com-inc-clockify.html": {
-   "exact": "3f4714eb764ecf25322456057904d0b6b09231d6",
-   "hash": "3f4714eb764ecf25322456057904d0b6b09231d6",
-   "lastmod": "2026-09-29"
+   "exact": "aa50f92057d1677da5d1f7cdb962fc72aab46780",
+   "hash": "aa50f92057d1677da5d1f7cdb962fc72aab46780",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/calibrite-profiler.html": {
    "exact": "f481623386bb678d224124d8e39bec0d2dc96346",
@@ -33998,9 +34202,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/docker-inc-docker-desktop.html": {
-   "exact": "9d3610eb0c736adb029ccc56084278837f3257ef",
-   "hash": "9d3610eb0c736adb029ccc56084278837f3257ef",
-   "lastmod": "2026-09-22"
+   "exact": "cea268d4bd880d934e803bb4df469af22dd7e5d2",
+   "hash": "cea268d4bd880d934e803bb4df469af22dd7e5d2",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/dominik-reichl-keepass-password-safe-classic-edition.html": {
    "exact": "2a807271e957308f0916a349a0605a10e79b777e",
@@ -34033,9 +34237,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/dropbox.html": {
-   "exact": "12d1a714c02bc750668343f6bf2835f1099eb0a4",
-   "hash": "12d1a714c02bc750668343f6bf2835f1099eb0a4",
-   "lastmod": "2026-09-23"
+   "exact": "3388f9c1574366a2074373d1f3ded0c705e7259f",
+   "hash": "3388f9c1574366a2074373d1f3ded0c705e7259f",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/druva-technologies-pte-ltd-druva-insync.html": {
    "exact": "aa6a2c503807d4bb78735c63412f48e013b120ee",
@@ -34378,9 +34582,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/freecad.html": {
-   "exact": "50319d297038f31460ae6ec3c7ae3c244110c51d",
-   "hash": "50319d297038f31460ae6ec3c7ae3c244110c51d",
-   "lastmod": "2026-08-27"
+   "exact": "7346b8b6656e3a70232942fe7d15a008f495d069",
+   "hash": "7346b8b6656e3a70232942fe7d15a008f495d069",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/freedom-scientific-fusion.html": {
    "exact": "0ef3a198bb185cad553eff7b23b6a583feb155d5",
@@ -34488,9 +34692,9 @@
    "lastmod": "2026-09-12"
   },
   "https://eam.drung.dev/apps/github-inc-github-cli.html": {
-   "exact": "af2f998286e0ff8f0c923a886c66b5f0d60304b0",
-   "hash": "af2f998286e0ff8f0c923a886c66b5f0d60304b0",
-   "lastmod": "2026-09-17"
+   "exact": "e908feb5af510f661a3b35ea2e3f25a898839252",
+   "hash": "e908feb5af510f661a3b35ea2e3f25a898839252",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/glavsoft-llc-remote-ripple.html": {
    "exact": "49d94c0b4e9e426ba8cf4e12adb786c0f81ffad3",
@@ -34508,9 +34712,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/google-ads-editor.html": {
-   "exact": "2ff12111af676b5d86f2e4320edf6a827a225976",
-   "hash": "2ff12111af676b5d86f2e4320edf6a827a225976",
-   "lastmod": "2026-08-27"
+   "exact": "64a997ddc7676f6b5bf46101c0346e16b9d03d5f",
+   "hash": "64a997ddc7676f6b5bf46101c0346e16b9d03d5f",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/google-backup-and-sync.html": {
    "exact": "5fd3f9bfc8e36e6f97210659f14fc1cf393dcb28",
@@ -34848,9 +35052,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/jetbrains-dotultimate.html": {
-   "exact": "5ead2ed1fa455dec5d3c57e869e379933cfd0340",
-   "hash": "5ead2ed1fa455dec5d3c57e869e379933cfd0340",
-   "lastmod": "2026-09-17"
+   "exact": "5e26bb6e435f22a4debae2f2f9da07a94d2a6f8a",
+   "hash": "5e26bb6e435f22a4debae2f2f9da07a94d2a6f8a",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/jetbrains-goland-2017-3.html": {
    "exact": "3932932d05ed57e09e2b5a7c4715bc3d6092fefe",
@@ -35388,9 +35592,9 @@
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
-   "exact": "0e9bf4c48fef9c178bebcb0a693ed83608cbe0d1",
-   "hash": "0e9bf4c48fef9c178bebcb0a693ed83608cbe0d1",
-   "lastmod": "2026-09-23"
+   "exact": "7804de9f9162f5c1beb0a1c2841bad134e276838",
+   "hash": "7804de9f9162f5c1beb0a1c2841bad134e276838",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/microsoft-edge-for-business.html": {
    "exact": "1486fe0e9ab62fa1312837954d5cd80f1d8ec8e2",
@@ -35508,9 +35712,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-power-bi-desktop.html": {
-   "exact": "96f2b0687104f72f8b75131b827b95fb91ee2fde",
-   "hash": "96f2b0687104f72f8b75131b827b95fb91ee2fde",
-   "lastmod": "2026-09-11"
+   "exact": "c72c76ae56d9bb1fe2f34c77ed9e669ea4118fb6",
+   "hash": "c72c76ae56d9bb1fe2f34c77ed9e669ea4118fb6",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/microsoft-powershell-core.html": {
    "exact": "4ca509ee8d11cc6d7e0f59969ed8c249d8945f21",
@@ -35658,9 +35862,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2026-professional.html": {
-   "exact": "7a442e584cd4f2ddf35c3213b1cf0852d074d3ab",
-   "hash": "7a442e584cd4f2ddf35c3213b1cf0852d074d3ab",
-   "lastmod": "2026-09-23"
+   "exact": "e37642b8785231bf4572dee7d83ec82a722e45f7",
+   "hash": "e37642b8785231bf4572dee7d83ec82a722e45f7",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
    "exact": "064a0c4f8fc2ca2ef645afac53729fe1042cbd97",
@@ -35783,8 +35987,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/mozilla-firefox-esr-115.html": {
-   "exact": "e5418690e77006d366ab8e1c0b263592fb2aad5d",
-   "hash": "e5418690e77006d366ab8e1c0b263592fb2aad5d",
+   "exact": "97e42c3082fa0a3ed6416c3e90bf5c2ddb5a51dd",
+   "hash": "97e42c3082fa0a3ed6416c3e90bf5c2ddb5a51dd",
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
@@ -36033,9 +36237,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/openaudible-org-openaudible.html": {
-   "exact": "1a1cab8c55856f1716c7f0cf9b93cc6ac2711d04",
-   "hash": "1a1cab8c55856f1716c7f0cf9b93cc6ac2711d04",
-   "lastmod": "2026-08-27"
+   "exact": "41428ff9b69051b1077735ff91c97db3176aae88",
+   "hash": "41428ff9b69051b1077735ff91c97db3176aae88",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/opendns-umbrella-roaming-client.html": {
    "exact": "625486ba83afe834a20a39d68f22038ef69c9a99",
@@ -36188,9 +36392,9 @@
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/pdf-xchange-co-ltd-pdf-xchange-pro.html": {
-   "exact": "2398b6159a39b58d8940c7205565d5e60fcc3173",
-   "hash": "2398b6159a39b58d8940c7205565d5e60fcc3173",
-   "lastmod": "2026-08-27"
+   "exact": "cb500436629f722b4e06f4240fab85cad43b9ef1",
+   "hash": "cb500436629f722b4e06f4240fab85cad43b9ef1",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/pdfforge-gbr-pdfcreator.html": {
    "exact": "66ff1ba93e1c35118cacdca8b69a00f134abf777",
@@ -36428,9 +36632,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ringcentral-app.html": {
-   "exact": "6c4a58d2c7ae7d9d430823d5715e3f936f59142d",
-   "hash": "6c4a58d2c7ae7d9d430823d5715e3f936f59142d",
-   "lastmod": "2026-09-03"
+   "exact": "54a96b73e388a884b8cc46b40186ad130e806843",
+   "hash": "54a96b73e388a884b8cc46b40186ad130e806843",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/ringcentral-phone.html": {
    "exact": "db000d540b022c9e6fa414a470d195db44460660",
@@ -36923,13 +37127,13 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer-host.html": {
-   "exact": "6261047813236d2a0fffc3cfb51c726d9edc0039",
-   "hash": "6261047813236d2a0fffc3cfb51c726d9edc0039",
+   "exact": "8e96e5ace90cee246f66cfefce556187ba0ff70c",
+   "hash": "8e96e5ace90cee246f66cfefce556187ba0ff70c",
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer.html": {
-   "exact": "8ff093cb04cb6b6beb3158f1f255c848292b7677",
-   "hash": "8ff093cb04cb6b6beb3158f1f255c848292b7677",
+   "exact": "1bdcfeb4a21a2a2fd86d1cbf0958145b0bbccbf9",
+   "hash": "1bdcfeb4a21a2a2fd86d1cbf0958145b0bbccbf9",
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/techsmith-corporation-camtasia-2018.html": {
@@ -37253,8 +37457,8 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "d0ef04f0890fc201f8615395bffd661520025024",
-   "hash": "d0ef04f0890fc201f8615395bffd661520025024",
+   "exact": "2fcd1238e0134b8092e5cbe199e757ca0ab83b32",
+   "hash": "2fcd1238e0134b8092e5cbe199e757ca0ab83b32",
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
@@ -37503,9 +37707,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "108ac6d7c47f2bf1485301bc93a2445a184e1ec8",
-   "hash": "108ac6d7c47f2bf1485301bc93a2445a184e1ec8",
-   "lastmod": "2026-09-19"
+   "exact": "a07e9a8fd8f6d7dacf88d29304d61d76079890cd",
+   "hash": "a07e9a8fd8f6d7dacf88d29304d61d76079890cd",
+   "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",
