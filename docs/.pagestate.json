@@ -5727,6 +5727,15 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-01",
+    "fields": [
+     "Branch"
+    ],
+    "removed": 0,
+    "versions": []
    }
   ],
   "citrix-workspace-app-ltsr": [
@@ -7346,6 +7355,19 @@
      [
       "7.83.2",
       "7.83.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.83.3",
+      "7.84.0",
       1
      ]
     ]
@@ -12736,6 +12758,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.2.23201",
+      "8.3.26701",
+      1
+     ]
+    ]
    }
   ],
   "google-ads-editor": [
@@ -16893,6 +16928,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.3",
+      "8.1.22",
+      1
+     ]
+    ]
    }
   ],
   "laurent-cozic-joplin": [
@@ -20950,19 +20998,6 @@
   "microsoft-visual-studio-code": [
    {
     "added": 0,
-    "date": "2026-05-30",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.122.0",
-      "1.122.1",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-04",
     "fields": [],
     "removed": 0,
@@ -21261,6 +21296,19 @@
      [
       "1.139.0",
       "1.139.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.139.1",
+      "1.140.0",
       1
      ]
     ]
@@ -27079,6 +27127,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.151.7",
+      "2.152.14",
+      1
+     ]
+    ]
    }
   ],
   "sandisk-corporation-sandisk-dashboard": [
@@ -30706,6 +30767,18 @@
     ]
    }
   ],
+  "vex-robotics-vexcode-v5": [
+   {
+    "added": 0,
+    "date": "2026-10-01",
+    "fields": [
+     "Branch",
+     "Architecture"
+    ],
+    "removed": 0,
+    "versions": []
+   }
+  ],
   "videolan-vlc-media-player": [
    {
     "added": 2,
@@ -31561,6 +31634,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.7.4",
+      "6.7.5",
+      1
+     ]
+    ]
    }
   ],
   "wazuh-inc-wazuh-agent": [
@@ -32290,19 +32376,6 @@
   "zandar-labs-sl-aptakube": [
    {
     "added": 0,
-    "date": "2026-06-02",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.17.1",
-      "1.17.2",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-01",
     "fields": [],
     "removed": 0,
@@ -32596,6 +32669,19 @@
      [
       "1.20.5",
       "1.21.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-01",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.21.0",
+      "1.21.1",
       1
      ]
     ]
@@ -33123,7 +33209,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20260930_175337_AppCatalog.json",
+ "history_through": "20261001_052255_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -33132,9 +33218,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "971e01ba9119b8156c98c9248ac9a65421d44096",
-   "hash": "b1b20afaf113a9a7ae7aec17b25405b434037268",
-   "lastmod": "2026-09-30"
+   "exact": "80c2dd9cb4b77f0866095b047281f70ea54481a4",
+   "hash": "a663e3f9ca99a9188e6b09d419df070312d22a89",
+   "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -33917,9 +34003,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/citrix-workspace-app.html": {
-   "exact": "1185b42405df38bb38eceda6e6fe79c461b19e55",
-   "hash": "1185b42405df38bb38eceda6e6fe79c461b19e55",
-   "lastmod": "2026-09-23"
+   "exact": "b21479b6b06dd92468cb4cf2d7a56bcf28392277",
+   "hash": "b21479b6b06dd92468cb4cf2d7a56bcf28392277",
+   "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/clarivate-endnote-20.html": {
    "exact": "d46eab8fcb94d6c290d8255a03e6f7a61d5472bd",
@@ -34072,9 +34158,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/datadog-agent.html": {
-   "exact": "98b81eef2c0305b3553ab4ac1ec4e5b5d5e7e609",
-   "hash": "98b81eef2c0305b3553ab4ac1ec4e5b5d5e7e609",
-   "lastmod": "2026-09-25"
+   "exact": "6aa4ef4c3c178ef9ae25448623bd0c4f7cf82c5b",
+   "hash": "6aa4ef4c3c178ef9ae25448623bd0c4f7cf82c5b",
+   "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/david-kocher-cyberduck.html": {
    "exact": "25f0fab361b2ea8780d10e7c02b7a6c216dd1fb3",
@@ -34707,9 +34793,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/gn-audio-as-jabra-direct.html": {
-   "exact": "fa40070856529f69bcc4beacd13d4617d907e92e",
-   "hash": "fa40070856529f69bcc4beacd13d4617d907e92e",
-   "lastmod": "2026-08-27"
+   "exact": "4949bcd01daf615729a9f0bf1823f605378d737a",
+   "hash": "4949bcd01daf615729a9f0bf1823f605378d737a",
+   "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/google-ads-editor.html": {
    "exact": "64a997ddc7676f6b5bf46101c0346e16b9d03d5f",
@@ -35207,9 +35293,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/lark-technologies-pte-ltd-lark-deployment-tool.html": {
-   "exact": "52d01bf4cea9190c4b6abf762a700760af53faeb",
-   "hash": "52d01bf4cea9190c4b6abf762a700760af53faeb",
-   "lastmod": "2026-09-15"
+   "exact": "1a4135fddc3da27a1d84cb30d93378f67c3ade01",
+   "hash": "1a4135fddc3da27a1d84cb30d93378f67c3ade01",
+   "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/lastpass.html": {
    "exact": "c376fb3fcd8abddc7939d02efb1090dbae7d9c65",
@@ -35867,9 +35953,9 @@
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "064a0c4f8fc2ca2ef645afac53729fe1042cbd97",
-   "hash": "064a0c4f8fc2ca2ef645afac53729fe1042cbd97",
-   "lastmod": "2026-09-26"
+   "exact": "4c2f270e5b66164021e992a46674a940dfb88784",
+   "hash": "4c2f270e5b66164021e992a46674a940dfb88784",
+   "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "3593db38c627b6638aec163cb7f271edb102f0f4",
@@ -36687,9 +36773,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/salesforce-cli-sf-v2.html": {
-   "exact": "764b8059476fd916bcb071fb1b97563e7eaace9b",
-   "hash": "764b8059476fd916bcb071fb1b97563e7eaace9b",
-   "lastmod": "2026-09-24"
+   "exact": "6fb55c704db3abb3b2a6ad6dacd22ffedafff255",
+   "hash": "6fb55c704db3abb3b2a6ad6dacd22ffedafff255",
+   "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/samsung-smart-switch.html": {
    "exact": "dba3bb170ab4fdf5a77b385f06c4576b8cd98148",
@@ -37432,9 +37518,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/vex-robotics-vexcode-v5.html": {
-   "exact": "765fe1015cd6e6f5b40fbe5e8619227f8277efaa",
-   "hash": "765fe1015cd6e6f5b40fbe5e8619227f8277efaa",
-   "lastmod": "2026-08-27"
+   "exact": "57e74a756a65676af4f3ced7268841a23e7b3544",
+   "hash": "57e74a756a65676af4f3ced7268841a23e7b3544",
+   "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/videolan-vlc-media-player.html": {
    "exact": "827c6791ab4ed18760492a405e42c4477d89a22e",
@@ -37567,9 +37653,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/waterfox.html": {
-   "exact": "5ba448c6c095439683e48eef560f88be367dc2ac",
-   "hash": "5ba448c6c095439683e48eef560f88be367dc2ac",
-   "lastmod": "2026-09-23"
+   "exact": "5aeba79463efc2f8a0d1b4d7d75d77ef98ecae6d",
+   "hash": "5aeba79463efc2f8a0d1b4d7d75d77ef98ecae6d",
+   "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/wazuh-inc-wazuh-agent.html": {
    "exact": "afd41cf159c629a9385da2f2c5539e71a4138bc1",
@@ -37707,9 +37793,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "a07e9a8fd8f6d7dacf88d29304d61d76079890cd",
-   "hash": "a07e9a8fd8f6d7dacf88d29304d61d76079890cd",
-   "lastmod": "2026-09-30"
+   "exact": "57c5136b92747418c0a0e944a9b1b8a500c9f81f",
+   "hash": "57c5136b92747418c0a0e944a9b1b8a500c9f81f",
+   "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",
