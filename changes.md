@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261001_181913_AppCatalog.json` (exported 2026-10-01 18:19:13)  
-> **vs:** `20261001_052255_AppCatalog.json` (exported 2026-10-01 05:22:55)  
-> **Span:** 12 hours between exports  
-> **Generated:** 2026-10-01 18:19 UTC
+> **Comparing:** `20261002_051052_AppCatalog.json` (exported 2026-10-02 05:10:52)  
+> **vs:** `20261001_181913_AppCatalog.json` (exported 2026-10-01 18:19:13)  
+> **Span:** 10 hours between exports  
+> **Generated:** 2026-10-02 05:11 UTC
 
 ## Summary
 
@@ -11,15 +11,18 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 5 |
+| 🔄 Updated | 8 |
 
-## 🔄 Updated (5 packages)
+## 🔄 Updated (8 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Amazon | Amazon Corretto JDK 8 | Amazon Corretto JDK 8 (x64) | `8.504.01.1` | `8.504.04.1` | Version |
-| SideQuest | SideQuest | SideQuest | `1.2.3` | `1.3.0` | Version |
-| The Git Development Community | Git | Git (x64) | `2.55.0.5` | `2.56.0.1` | Version |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1152` | `9.2.1161` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1143` | `9.2.1161` | Version |
+| Autodesk Inc. | Autodesk Access | Autodesk Access | `2.24.0.558` | `2.24.0.560` | Version |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.10.0` | `2026.3.12.0` | Version |
+| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.10.0` | `2026.3.12.0` | Version |
+| Google | Google Web Designer | Google Web Designer (x64) | `14.3.0.0` | `14.3.2.0` | Version |
+| Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.15.1` | `4.15.2` | Version |
+| Python Software Foundation | Python 3.13 | Python 3.13 (x64) | `3.13.15` | `3.13.16` | Version |
+| SRWare | SRWare Iron | Iron (x64) | `150.0.7900.0` | `154.0.8100.0` | Version |
+| Zotero | Zotero | Zotero (x64) | `10.0.3` | `10.0.5` | Version |
 

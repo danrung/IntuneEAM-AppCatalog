@@ -2722,6 +2722,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-02",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.24.0.558",
+      "2.24.0.560",
+      1
+     ]
+    ]
    }
   ],
   "autodesk-inc-autodesk-design-review-2018": [
@@ -8211,6 +8224,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-02",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.10.0",
+      "2026.3.12.0",
+      1
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager": [
@@ -8414,6 +8440,19 @@
      [
       "2026.3.9.0",
       "2026.3.10.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-02",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.10.0",
+      "2026.3.12.0",
       1
      ]
     ]
@@ -13581,6 +13620,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-02",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "14.3.0.0",
+      "14.3.2.0",
+      1
+     ]
+    ]
    }
   ],
   "goto-group-inc-goto-connect": [
@@ -18156,6 +18208,19 @@
      [
       "4.15.0",
       "4.15.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-02",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.15.1",
+      "4.15.2",
       1
      ]
     ]
@@ -25907,6 +25972,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-02",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.13.15",
+      "3.13.16",
+      1
+     ]
+    ]
    }
   ],
   "qgis": [
@@ -28762,6 +28840,19 @@
      [
       "147.0.7750.0",
       "150.0.7900.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-02",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "150.0.7900.0",
+      "154.0.8100.0",
       1
      ]
     ]
@@ -33221,6 +33312,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-02",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.0.3",
+      "10.0.5",
+      1
+     ]
+    ]
    }
   ],
   "zultys-inc-zac": [
@@ -33253,7 +33357,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261001_181913_AppCatalog.json",
+ "history_through": "20261002_051052_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -33262,9 +33366,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "172b73c89a51d52c140ab71156011766bc54ce6b",
-   "hash": "50d55c7c36f88c502c4efe79db92359685cd55c7",
-   "lastmod": "2026-10-01"
+   "exact": "eca2af9cfbe129a2710742bd78b182170cf17089",
+   "hash": "a83a211de4ddd6dc9eba1d3e6413cdc10e3a4510",
+   "lastmod": "2026-10-02"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -33592,9 +33696,9 @@
    "lastmod": "2026-09-16"
   },
   "https://eam.drung.dev/apps/autodesk-inc-autodesk-access.html": {
-   "exact": "9d62a5836f2ffd4c0694973359c974211b92890e",
-   "hash": "9d62a5836f2ffd4c0694973359c974211b92890e",
-   "lastmod": "2026-09-24"
+   "exact": "d3acafafd746c612f30ac3b1fe6ea02f87a22b23",
+   "hash": "d3acafafd746c612f30ac3b1fe6ea02f87a22b23",
+   "lastmod": "2026-10-02"
   },
   "https://eam.drung.dev/apps/autodesk-inc-autodesk-design-review-2018.html": {
    "exact": "d829fdbc6b635de9d6460c88f662ff67ba77121a",
@@ -34297,9 +34401,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html": {
-   "exact": "c0bdee38fc2d18fdb5450c0542fbb83c466f599d",
-   "hash": "c0bdee38fc2d18fdb5450c0542fbb83c466f599d",
-   "lastmod": "2026-09-28"
+   "exact": "d675a92af3296a87c4f738f315037950c298fbda",
+   "hash": "d675a92af3296a87c4f738f315037950c298fbda",
+   "lastmod": "2026-10-02"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html": {
    "exact": "c162eaba79751b32e3666085748e8c7c79b707c3",
@@ -34307,9 +34411,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html": {
-   "exact": "9aa5a31a77fa11cad746acf5e9bc059c383067e2",
-   "hash": "9aa5a31a77fa11cad746acf5e9bc059c383067e2",
-   "lastmod": "2026-09-28"
+   "exact": "739fd061db1b264f61f21dfa7e7547a9e061f0bc",
+   "hash": "739fd061db1b264f61f21dfa7e7547a9e061f0bc",
+   "lastmod": "2026-10-02"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-workspace.html": {
    "exact": "cab5c26bfe4145300e51e79ac3157fe33a2a2e3b",
@@ -34917,9 +35021,9 @@
    "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/google-web-designer.html": {
-   "exact": "522a5d497135415967ab562043b584a80f4c56fa",
-   "hash": "522a5d497135415967ab562043b584a80f4c56fa",
-   "lastmod": "2026-08-27"
+   "exact": "959250bde7dcc5f605d5885326ec958d5ec7ff24",
+   "hash": "959250bde7dcc5f605d5885326ec958d5ec7ff24",
+   "lastmod": "2026-10-02"
   },
   "https://eam.drung.dev/apps/goto-group-inc-goto-connect.html": {
    "exact": "764fbfeb1a08b47d3db52847388f89f3cb3b7244",
@@ -35672,9 +35776,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-azure-functions-core-tools.html": {
-   "exact": "d4bb1691277d9158d303d2b7f55c972972421ebd",
-   "hash": "d4bb1691277d9158d303d2b7f55c972972421ebd",
-   "lastmod": "2026-09-25"
+   "exact": "d0b952cca6e4da7697ffcc0fab15ab3a2c0f7f48",
+   "hash": "d0b952cca6e4da7697ffcc0fab15ab3a2c0f7f48",
+   "lastmod": "2026-10-02"
   },
   "https://eam.drung.dev/apps/microsoft-azure-powershell.html": {
    "exact": "9c38aef196f3901e109ba9b677cffb255683b6df",
@@ -36657,9 +36761,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/python-software-foundation-python-3-13.html": {
-   "exact": "73b220382c417c498b20575f80196464120acff0",
-   "hash": "73b220382c417c498b20575f80196464120acff0",
-   "lastmod": "2026-08-27"
+   "exact": "08a9f47e5ef3147bac5784575f86c3569000b202",
+   "hash": "08a9f47e5ef3147bac5784575f86c3569000b202",
+   "lastmod": "2026-10-02"
   },
   "https://eam.drung.dev/apps/python-software-foundation-python-3-7.html": {
    "exact": "0ae7246f8b2d510916955c78ed863d443c5c47eb",
@@ -37127,9 +37231,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/srware-iron.html": {
-   "exact": "58c282d4306dc0c8896c5c8d57bdc945fbaed788",
-   "hash": "58c282d4306dc0c8896c5c8d57bdc945fbaed788",
-   "lastmod": "2026-08-27"
+   "exact": "f01ec9aad876348a97a7b9b92507f368af56905b",
+   "hash": "f01ec9aad876348a97a7b9b92507f368af56905b",
+   "lastmod": "2026-10-02"
   },
   "https://eam.drung.dev/apps/steam.html": {
    "exact": "a0df929fbc1e4e5b7222f6df2060f77e85fe2db8",
@@ -37892,9 +37996,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zotero.html": {
-   "exact": "35482671d17d70f83d5c09ac05901d3c40a61073",
-   "hash": "35482671d17d70f83d5c09ac05901d3c40a61073",
-   "lastmod": "2026-09-19"
+   "exact": "19d2c2942bab1e843e3951a01fcf9e74cfa9628c",
+   "hash": "19d2c2942bab1e843e3951a01fcf9e74cfa9628c",
+   "lastmod": "2026-10-02"
   },
   "https://eam.drung.dev/apps/zscaler-client-connector-3-6.html": {
    "exact": "87736b9b903a8d4e7dca72d37d9305bb1a148968",
