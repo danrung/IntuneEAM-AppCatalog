@@ -22188,6 +22188,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.51.0",
+      "1.52.0",
+      1
+     ]
+    ]
    }
   ],
   "mongodb-inc-mongodb-compass-readonly-edition": [
@@ -33616,7 +33629,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261003_045316_AppCatalog.json",
+ "history_through": "20261003_160347_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -33625,8 +33638,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "f374efa8854155840c0bfb0f8ac82f1eaba21d25",
-   "hash": "276580235915f50408d4ea4f230deb566fe5cc55",
+   "exact": "056e9d1847d8d40e369d29ef36f42c6055c5b08f",
+   "hash": "6d012011c496f814ff3ac9215db784fe4db84044",
    "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -36455,9 +36468,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass-isolated-edition.html": {
-   "exact": "480cd8fd0674cd90edb5abfe573a5c409dab01aa",
-   "hash": "480cd8fd0674cd90edb5abfe573a5c409dab01aa",
-   "lastmod": "2026-09-28"
+   "exact": "a901038aa0d4272a45a15916a2155283b35fb6e6",
+   "hash": "a901038aa0d4272a45a15916a2155283b35fb6e6",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass-readonly-edition.html": {
    "exact": "1ea1f77e73be7706f73df69581f349d6082800fa",

@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261003_045316_AppCatalog.json` (exported 2026-10-03 04:53:16)  
-> **Generated:** 2026-10-03 04:53 UTC  
+> **Source:** `20261003_160347_AppCatalog.json` (exported 2026-10-03 16:03:47)  
+> **Generated:** 2026-10-03 16:04 UTC  
 > **Total:** 1,594 packages · 933 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -819,7 +819,7 @@
 | 811 | MochaSoft Aps | Mocha TN5250 | Mocha TN5250 | `4.3` | x86,x64 | ❌ | en-US |
 | 812 | monday.com Ltd | monday | monday | `1.0.45.0` | x64 | ❌ | en-US |
 | 813 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.52.0` | x64 | ❌ | en-US |
-| 814 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.51.0` | x64 | ❌ | en-US |
+| 814 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.52.0` | x64 | ❌ | en-US |
 | 815 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.52.0` | x64 | ❌ | en-US |
 | 816 | MOOS Project Viewer | MOOS Project Viewer | MOOS Project Viewer | `4.4.0` | x86,x64 | ❌ | en-US |
 | 817 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `157.0` | x64 | ✅ | nb-NO |
@@ -829,40 +829,40 @@
 | 821 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `157.0` | x64 | ✅ | tr |
 | 822 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `157.0` | x64 | ✅ | hi-IN |
 | 823 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `157.0` | x64 | ✅ | pt-BR |
-| 824 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `157.0` | x64 | ✅ | pt-PT |
-| 825 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `157.0` | x64 | ✅ | nl |
-| 826 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `157.0` | x64 | ✅ | vi |
-| 827 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `157.0` | x64 | ✅ | ar |
+| 824 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `157.0` | x64 | ✅ | cs |
+| 825 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `157.0` | x64 | ✅ | pt-PT |
+| 826 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `157.0` | x64 | ✅ | nl |
+| 827 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `157.0` | x64 | ✅ | vi |
 | 828 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `157.0` | x64 | ✅ | lt |
 | 829 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `157.0` | x64 | ✅ | da |
 | 830 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `157.0` | x64 | ✅ | en-CA |
 | 831 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `157.0` | x64 | ✅ | it |
-| 832 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `157.0` | x64 | ✅ | ru |
-| 833 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `157.0` | x64 | ✅ | sk |
-| 834 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `157.0` | x64 | ✅ | sl |
+| 832 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `157.0` | x64 | ✅ | sk |
+| 833 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `157.0` | x64 | ✅ | sl |
+| 834 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `157.0` | x64 | ✅ | zh-TW |
 | 835 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `157.0` | x64 | ✅ | fi |
 | 836 | Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `157.0` | x64 | ✅ | es-ES |
 | 837 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `157.0` | x64 | ✅ | ro |
-| 838 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `157.0` | x64 | ✅ | cs |
-| 839 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `157.0` | x64 | ✅ | el |
-| 840 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `157.0` | x64 | ✅ | af |
-| 841 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `157.0` | x64 | ✅ | he |
-| 842 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `157.0` | x64 | ✅ | kk |
-| 843 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `157.0` | x64 | ✅ | lv |
-| 844 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `157.0` | x64 | ✅ | bg |
-| 845 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `157.0` | x64 | ✅ | de |
-| 846 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `157.0` | x64 | ✅ | th |
-| 847 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `157.0` | x64 | ✅ | fr |
+| 838 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `157.0` | x64 | ✅ | el |
+| 839 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `157.0` | x64 | ✅ | af |
+| 840 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `157.0` | x64 | ✅ | he |
+| 841 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `157.0` | x64 | ✅ | kk |
+| 842 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `157.0` | x64 | ✅ | lv |
+| 843 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `157.0` | x64 | ✅ | bg |
+| 844 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `157.0` | x64 | ✅ | de |
+| 845 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `157.0` | x64 | ✅ | th |
+| 846 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `157.0` | x64 | ✅ | fr |
+| 847 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `157.0` | x64 | ✅ | ar |
 | 848 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `157.0` | x64 | ✅ | nn-NO |
-| 849 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `157.0` | x64 | ✅ | pl |
-| 850 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `157.0` | x64 | ✅ | gl |
-| 851 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `157.0` | x64 | ✅ | en-US |
-| 852 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `157.0` | x64 | ✅ | hr |
-| 853 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `157.0` | x64 | ✅ | sv-SE |
-| 854 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `157.0` | x64 | ✅ | zh-TW |
-| 855 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `157.0` | x64 | ✅ | ko |
-| 856 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `157.0` | x64 | ✅ | en-GB |
-| 857 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `157.0` | x64 | ✅ | ja |
+| 849 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `157.0` | x64 | ✅ | ru |
+| 850 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `157.0` | x64 | ✅ | pl |
+| 851 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `157.0` | x64 | ✅ | ja |
+| 852 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `157.0` | x64 | ✅ | sv-SE |
+| 853 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `157.0` | x64 | ✅ | gl |
+| 854 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `157.0` | x64 | ✅ | en-US |
+| 855 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `157.0` | x64 | ✅ | hr |
+| 856 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `157.0` | x64 | ✅ | ko |
+| 857 | Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `157.0` | x64 | ✅ | en-GB |
 | 858 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `157.0` | x64 | ✅ | hu |
 | 859 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `157.0` | x64 | ✅ | id |
 | 860 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `157.0` | x64 | ✅ | et |
