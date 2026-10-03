@@ -2843,6 +2843,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.19.2.0",
+      "1.21.0.9",
+      1
+     ]
+    ]
    }
   ],
   "automattic-simplenote": [
@@ -9611,6 +9624,19 @@
      [
       "31.5.2",
       "31.5.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "31.5.3",
+      "31.7.0",
       1
      ]
     ]
@@ -16740,6 +16766,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.17.4",
+      "3.17.6",
+      1
+     ]
+    ]
    }
   ],
   "krita-foundation-krita": [
@@ -19893,6 +19932,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.168.0830.0006",
+      "26.173.0906.0008",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-openjdk": [
@@ -21978,6 +22030,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.51.0",
+      "1.52.0",
+      1
+     ]
+    ]
    }
   ],
   "mongodb-inc-mongodb-compass-isolated-edition": [
@@ -22265,6 +22330,19 @@
      [
       "1.50.0",
       "1.51.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.51.0",
+      "1.52.0",
       1
      ]
     ]
@@ -26173,6 +26251,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.2.2",
+      "4.2.3",
+      1
+     ]
+    ]
    }
   ],
   "qgis-ltr": [
@@ -27049,6 +27140,19 @@
      [
       "4.17.2",
       "4.17.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.17.3",
+      "4.17.4",
       1
      ]
     ]
@@ -28629,6 +28733,19 @@
      [
       "6.0.4",
       "6.0.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.0.5",
+      "6.0.6",
       1
      ]
     ]
@@ -30438,6 +30555,19 @@
      [
       "2.8.87.0",
       "2.8.88.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-03",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.8.88.0",
+      "2.8.89.0",
       1
      ]
     ]
@@ -33486,7 +33616,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261002_174444_AppCatalog.json",
+ "history_through": "20261003_045316_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -33495,9 +33625,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "e1aafca8ec18b30facd84ad6f79d2a6014d2ca06",
-   "hash": "271a28ca1e7bd4407dc36994f3f02e84a1194976",
-   "lastmod": "2026-10-02"
+   "exact": "f374efa8854155840c0bfb0f8ac82f1eaba21d25",
+   "hash": "276580235915f50408d4ea4f230deb566fe5cc55",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
@@ -33835,9 +33965,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/autodesk-inc-autodesk-identity-manager.html": {
-   "exact": "b5e8312f141c8d18407c7b199ebf8f1d2587d87a",
-   "hash": "b5e8312f141c8d18407c7b199ebf8f1d2587d87a",
-   "lastmod": "2026-08-27"
+   "exact": "e8d07d3bb6e0857b25180daba3338cd5dcab5e03",
+   "hash": "e8d07d3bb6e0857b25180daba3338cd5dcab5e03",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/autodesk-inc-autodesk-interoperability-tools.html": {
    "exact": "2dd6b99863afde9fc93cc9811167704cb95d1c8a",
@@ -34590,9 +34720,9 @@
    "lastmod": "2026-09-15"
   },
   "https://eam.drung.dev/apps/draw-io-desktop.html": {
-   "exact": "cc8574332eda26cd1f76df6538967670a1a26ea4",
-   "hash": "cc8574332eda26cd1f76df6538967670a1a26ea4",
-   "lastmod": "2026-09-28"
+   "exact": "6ce118d65958159e14b61ca361d0beb85b2c2289",
+   "hash": "6ce118d65958159e14b61ca361d0beb85b2c2289",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/drofus.html": {
    "exact": "4cce3fc3f81ac6d535310e932e18512e9543367b",
@@ -35550,9 +35680,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/krisp.html": {
-   "exact": "c29c9cab50ae91154b5c4659cd6f26e979beb594",
-   "hash": "c29c9cab50ae91154b5c4659cd6f26e979beb594",
-   "lastmod": "2026-09-30"
+   "exact": "528e27ef18e111f777a5407638335ba1c5af5d56",
+   "hash": "528e27ef18e111f777a5407638335ba1c5af5d56",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/krita-foundation-krita.html": {
    "exact": "72203bea0f0802960c1ef5c9fe8073e419e121ad",
@@ -36045,9 +36175,9 @@
    "lastmod": "2026-09-22"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
-   "exact": "abc1e430b35e5922990b2da32da4f514cf9ddfff",
-   "hash": "abc1e430b35e5922990b2da32da4f514cf9ddfff",
-   "lastmod": "2026-09-28"
+   "exact": "328f0a7f9cfcaa7bf62acc6a62e99f688f5f2999",
+   "hash": "328f0a7f9cfcaa7bf62acc6a62e99f688f5f2999",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/microsoft-onenote.html": {
    "exact": "4d2f63ac4d65b6b192c7ec10c44dd44c151a0f70",
@@ -36330,14 +36460,14 @@
    "lastmod": "2026-09-28"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass-readonly-edition.html": {
-   "exact": "2331cb18aea01fd962fc339ede51b302a3c95628",
-   "hash": "2331cb18aea01fd962fc339ede51b302a3c95628",
-   "lastmod": "2026-09-28"
+   "exact": "1ea1f77e73be7706f73df69581f349d6082800fa",
+   "hash": "1ea1f77e73be7706f73df69581f349d6082800fa",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass.html": {
-   "exact": "f9dc16b5fc20675183a6dea2d08f002043af13e3",
-   "hash": "f9dc16b5fc20675183a6dea2d08f002043af13e3",
-   "lastmod": "2026-09-28"
+   "exact": "5192371149af4f468d973f789998a2d6b67886b1",
+   "hash": "5192371149af4f468d973f789998a2d6b67886b1",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/moos-project-viewer.html": {
    "exact": "4fdac04b7fc356d36a27ae152df4962179b0d02f",
@@ -36915,9 +37045,9 @@
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/qgis.html": {
-   "exact": "0f2c748a8a2c5c2a30ebe586ecc490305da36da6",
-   "hash": "0f2c748a8a2c5c2a30ebe586ecc490305da36da6",
-   "lastmod": "2026-09-08"
+   "exact": "77955ebb85272e4089a7b415f2ecb3f97adb0d3a",
+   "hash": "77955ebb85272e4089a7b415f2ecb3f97adb0d3a",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/qnap-qsync.html": {
    "exact": "fa114c180e4a6e12fddc5340fc9b6696b60916a7",
@@ -37015,9 +37145,9 @@
    "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/rocket-chat-technologies-corp-rocket-chat.html": {
-   "exact": "6aad8f54aa17ede5a8f7f4f7c196990a3baf1da0",
-   "hash": "6aad8f54aa17ede5a8f7f4f7c196990a3baf1da0",
-   "lastmod": "2026-09-28"
+   "exact": "cfea801e354869ff653c4f4322a4d11597a5a4f3",
+   "hash": "cfea801e354869ff653c4f4322a4d11597a5a4f3",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/rstudio-1-4.html": {
    "exact": "95dadf6c22da9407325e1a385becfb3c6decd419",
@@ -37275,9 +37405,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/sober-lemur-s-a-s-di-vacondio-andrea-pdfsam-basic.html": {
-   "exact": "22f32c0403cbae4a5b16c3cdbe884e3c935917f7",
-   "hash": "22f32c0403cbae4a5b16c3cdbe884e3c935917f7",
-   "lastmod": "2026-08-28"
+   "exact": "09be433e19df64a6643cda925b6eeeb23111d853",
+   "hash": "09be433e19df64a6643cda925b6eeeb23111d853",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/sober-lemur-s-a-s-di-vacondio-andrea-pdfsam-visual.html": {
    "exact": "444a0e803b994ffb284c926db55ac1737def7099",
@@ -37685,9 +37815,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/tightvnc.html": {
-   "exact": "ca33c1775199c4924a79429bd8cca47763f2450b",
-   "hash": "ca33c1775199c4924a79429bd8cca47763f2450b",
-   "lastmod": "2026-08-27"
+   "exact": "8797997faf5ed238687fccf64c9d716c844d61b9",
+   "hash": "8797997faf5ed238687fccf64c9d716c844d61b9",
+   "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/topaz-systems-inc-topaz-sigplusextlite.html": {
    "exact": "626b2e1504fa21d8d67400f0186c382d714fae4b",
