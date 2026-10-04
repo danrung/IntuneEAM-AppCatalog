@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261003_160347_AppCatalog.json` (exported 2026-10-03 16:03:47)  
-> **vs:** `20261003_045316_AppCatalog.json` (exported 2026-10-03 04:53:16)  
-> **Span:** 11 hours between exports  
-> **Generated:** 2026-10-03 16:04 UTC
+> **Comparing:** `20261004_052540_AppCatalog.json` (exported 2026-10-04 05:25:40)  
+> **vs:** `20261003_160347_AppCatalog.json` (exported 2026-10-03 16:03:47)  
+> **Span:** 13 hours between exports  
+> **Generated:** 2026-10-04 05:26 UTC
 
 ## Summary
 
@@ -11,11 +11,7 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 1 |
+| 🔄 Updated | 0 |
 
-## 🔄 Updated (1 packages)
-
-| Publisher | App | Branch | Previous Version | New Version | Changed |
-|-----------|-----|--------|:---------------:|:-----------:|---------|
-| MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.51.0` | `1.52.0` | Version |
+> No changes detected between these two catalog exports.
 
