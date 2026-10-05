@@ -141,6 +141,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.4.3",
+      "4.4.4",
+      1
+     ]
+    ]
    }
   ],
   "2brightsparks-ptd-ltd-syncbackfree": [
@@ -1059,6 +1072,19 @@
      [
       "5.4.3",
       "6.1.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.1.1",
+      "6.2.0",
       1
      ]
     ]
@@ -3548,6 +3574,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.3.2",
+      "8.4.1",
+      1
+     ]
+    ]
    }
   ],
   "benthic-software-golden-8": [
@@ -4650,6 +4689,19 @@
      [
       "4.1.165.0",
       "4.2.73.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.2.73.0",
+      "4.3.246.0",
       1
      ]
     ]
@@ -6232,6 +6284,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.81",
+      "7.82",
+      1
+     ]
+    ]
    }
   ],
   "code-sector-teracopy-for-windows": [
@@ -7436,6 +7501,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.84.0",
+      "7.84.1",
+      1
+     ]
+    ]
    }
   ],
   "david-kocher-cyberduck": [
@@ -7706,6 +7784,19 @@
      [
       "26.2.0",
       "26.2.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.1",
+      "26.2.2",
       1
      ]
     ]
@@ -11972,6 +12063,19 @@
      [
       "2026.1.3.36551",
       "2026.2.0.39747",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.0.39747",
+      "2026.2.1.39815",
       1
      ]
     ]
@@ -18661,19 +18765,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-07-11",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "150.0.4078.48",
-      "150.0.4078.65",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-13",
     "fields": [],
     "removed": 0,
@@ -18967,6 +19058,19 @@
      [
       "155.0.4283.18",
       "155.0.4283.24",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "155.0.4283.24",
+      "155.0.4283.33",
       1
      ]
     ]
@@ -24755,6 +24859,19 @@
      [
       "4.8.8",
       "4.9",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.9",
+      "5.0",
       1
      ]
     ]
@@ -31334,24 +31451,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-05-28",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0538",
-      "9.2.0541",
-      2
-     ],
-     [
-      "9.2.0541",
-      "9.2.0545",
-      2
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-29",
     "fields": [],
     "removed": 0,
@@ -31711,6 +31810,19 @@
       "9.2.1161",
       "9.2.1162",
       2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1162",
+      "9.2.1164",
+      1
      ]
     ]
    }
@@ -33629,7 +33741,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261005_050920_AppCatalog.json",
+ "history_through": "20261005_203915_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -33638,14 +33750,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "1843e30746aac642dbd23e1b3f2f42bc7094c2c6",
-   "hash": "6d012011c496f814ff3ac9215db784fe4db84044",
-   "lastmod": "2026-10-03"
+   "exact": "977892d6529286532fc87bb9eaa486ad1c8f81ce",
+   "hash": "fd2a9e3088bfe925a1e1242fcdb9d0b028e0e31a",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
-   "exact": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
-   "hash": "15296b1f86cf5f8ff577ab225be7d06cbd85bf53",
-   "lastmod": "2026-09-05"
+   "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
+   "hash": "6124e38c1b8063726095d058f532b9f143ee1a18",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-syncbackfree.html": {
    "exact": "6c6d3f28516e7c3c88cbf95ac85142c55c348c21",
@@ -33758,9 +33870,9 @@
    "lastmod": "2026-09-14"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
-   "exact": "81e37785131b95cd9f878321df5f574af78b5f8d",
-   "hash": "81e37785131b95cd9f878321df5f574af78b5f8d",
-   "lastmod": "2026-09-29"
+   "exact": "4a5f2d59a51cff4e426d3b10115507fed287aebb",
+   "hash": "4a5f2d59a51cff4e426d3b10115507fed287aebb",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-11.html": {
    "exact": "d4ab84fc284c6d2f8dcad1509083fe169850ebf1",
@@ -34153,9 +34265,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ben-olden-cooligan-naps2.html": {
-   "exact": "8a9c20cf079ef6f9ff81e44c3b30f29b6333779d",
-   "hash": "8a9c20cf079ef6f9ff81e44c3b30f29b6333779d",
-   "lastmod": "2026-08-27"
+   "exact": "3f5080ce3c98607cfddb7af6a4e60e69279bb312",
+   "hash": "3f5080ce3c98607cfddb7af6a4e60e69279bb312",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/benn-huang-chatbox.html": {
    "exact": "ca13a4776d6679d55b50aca3df672a707aa6d121",
@@ -34268,9 +34380,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/brink-software-b-v-ibis-calculeren-voor-bouw.html": {
-   "exact": "446b5a9cf659c3676cae9f5f8ca9346f952ea843",
-   "hash": "446b5a9cf659c3676cae9f5f8ca9346f952ea843",
-   "lastmod": "2026-08-28"
+   "exact": "6477c5811b70bb37c28a6d7d7dc302202d6a9ac3",
+   "hash": "6477c5811b70bb37c28a6d7d7dc302202d6a9ac3",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/brink-software-b-v-ibis-calculeren-voor-infra.html": {
    "exact": "f410a83caa21b74c81f8d58d1d394453fb10384c",
@@ -34478,9 +34590,9 @@
    "lastmod": "2026-08-29"
   },
   "https://eam.drung.dev/apps/cockos-incorporated-reaper.html": {
-   "exact": "642529fc7d358d0c2997758c88ee31ef18b23cde",
-   "hash": "642529fc7d358d0c2997758c88ee31ef18b23cde",
-   "lastmod": "2026-09-30"
+   "exact": "62ddd69a7eb03977f0c274efd84238d4c04bff82",
+   "hash": "62ddd69a7eb03977f0c274efd84238d4c04bff82",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/code-sector-teracopy-for-windows.html": {
    "exact": "eb5bdfd333f3e2e1326ccdf21625f8fef565790f",
@@ -34578,9 +34690,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/datadog-agent.html": {
-   "exact": "6aa4ef4c3c178ef9ae25448623bd0c4f7cf82c5b",
-   "hash": "6aa4ef4c3c178ef9ae25448623bd0c4f7cf82c5b",
-   "lastmod": "2026-10-01"
+   "exact": "42bca72e9b925829ce15cc009b3e542ed1133c99",
+   "hash": "42bca72e9b925829ce15cc009b3e542ed1133c99",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/david-kocher-cyberduck.html": {
    "exact": "25f0fab361b2ea8780d10e7c02b7a6c216dd1fb3",
@@ -34598,9 +34710,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-community.html": {
-   "exact": "9b6fbb48e817535edd05b074642c90e20aa32859",
-   "hash": "9b6fbb48e817535edd05b074642c90e20aa32859",
-   "lastmod": "2026-09-21"
+   "exact": "8a09dd508354f10cf326c6d3df54a87d4140b34b",
+   "hash": "8a09dd508354f10cf326c6d3df54a87d4140b34b",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-enterprise.html": {
    "exact": "d417aa08f6a83a82e917e21fa74f9bd13e32c017",
@@ -35073,9 +35185,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/foxit-software-foxit-pdf-reader.html": {
-   "exact": "fd9b2373cf685a471d18040402a3f8b47f8b8381",
-   "hash": "fd9b2373cf685a471d18040402a3f8b47f8b8381",
-   "lastmod": "2026-09-01"
+   "exact": "d6325e9cb20b650b1c9e4ce9942f321f6ca83155",
+   "hash": "d6325e9cb20b650b1c9e4ce9942f321f6ca83155",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/foxit-software-foxit-phantompdf-10.html": {
    "exact": "06111a4f9ccac3ac0589e1e722269b3fba00f48e",
@@ -36093,9 +36205,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "f804197c5f2725c3eb87b9ca7e4c3be496d57c68",
-   "hash": "f804197c5f2725c3eb87b9ca7e4c3be496d57c68",
-   "lastmod": "2026-09-30"
+   "exact": "c34c8b79322899407f3dde7281882e5fedb5f3e6",
+   "hash": "c34c8b79322899407f3dde7281882e5fedb5f3e6",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "7804de9f9162f5c1beb0a1c2841bad134e276838",
@@ -36743,9 +36855,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/openaudible-org-openaudible.html": {
-   "exact": "41428ff9b69051b1077735ff91c97db3176aae88",
-   "hash": "41428ff9b69051b1077735ff91c97db3176aae88",
-   "lastmod": "2026-09-30"
+   "exact": "1b08a1529a9f79b3a16476c289a64a0d773b8d38",
+   "hash": "1b08a1529a9f79b3a16476c289a64a0d773b8d38",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/opendns-umbrella-roaming-client.html": {
    "exact": "625486ba83afe834a20a39d68f22038ef69c9a99",
@@ -37963,9 +38075,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "1135ef39f597dc7b2934c1fb35f4b68ab6753d3d",
-   "hash": "1135ef39f597dc7b2934c1fb35f4b68ab6753d3d",
-   "lastmod": "2026-10-02"
+   "exact": "083883f74c796d4fac2bd762ab6ca3e9db85ea4e",
+   "hash": "083883f74c796d4fac2bd762ab6ca3e9db85ea4e",
+   "lastmod": "2026-10-05"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",
