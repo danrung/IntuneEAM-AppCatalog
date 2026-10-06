@@ -4636,6 +4636,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.96.60",
+      "1.96.61",
+      1
+     ]
+    ]
    }
   ],
   "brightsign-llc-brightauthor-connected": [
@@ -9157,6 +9170,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.93.0.240920",
+      "4.94.0.241994",
+      1
+     ]
+    ]
    }
   ],
   "don-ho-notepad": [
@@ -9295,6 +9321,19 @@
      [
       "8.9.7",
       "8.9.8",
+      2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.9.8",
+      "8.9.8.1",
       2
      ]
     ]
@@ -13081,6 +13120,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "14.13.3.0",
+      "14.13.4.0",
+      1
+     ]
+    ]
    }
   ],
   "google-chrome-remote-desktop-host": [
@@ -13473,19 +13525,6 @@
   "google-llc-google-chrome": [
    {
     "added": 0,
-    "date": "2026-05-13",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "148.0.7778.97",
-      "148.0.7778.168",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-21",
     "fields": [],
     "removed": 0,
@@ -13784,6 +13823,19 @@
      [
       "153.0.8010.53",
       "154.0.8037.58",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "154.0.8037.58",
+      "154.0.8037.98",
       1
      ]
     ]
@@ -14826,6 +14878,19 @@
      [
       "5.4.929.3",
       "5.4.930.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.4.930.2",
+      "5.4.931.2",
       1
      ]
     ]
@@ -19829,6 +19894,19 @@
      [
       "3000.334.2",
       "3000.334.4",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3000.334.4",
+      "3000.334.9",
       1
      ]
     ]
@@ -28933,6 +29011,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.0.2",
+      "7.1.0",
+      1
+     ]
+    ]
    }
   ],
   "softerra-ldap-administrator": [
@@ -33741,7 +33832,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261005_203915_AppCatalog.json",
+ "history_through": "20261006_055512_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -33750,9 +33841,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "977892d6529286532fc87bb9eaa486ad1c8f81ce",
-   "hash": "fd2a9e3088bfe925a1e1242fcdb9d0b028e0e31a",
-   "lastmod": "2026-10-05"
+   "exact": "6a59c61138f1df39e0be722a0f3bc96059286b7c",
+   "hash": "900cbb5ff1ae1a83eadf3926f126cbf3a0d967ff",
+   "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -34370,9 +34461,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "72f0b08a1d88cc71a078812735fdacdab5578954",
-   "hash": "72f0b08a1d88cc71a078812735fdacdab5578954",
-   "lastmod": "2026-10-02"
+   "exact": "cae4cd62ee518a6f6a9372643fb5f6178d809b5e",
+   "hash": "cae4cd62ee518a6f6a9372643fb5f6178d809b5e",
+   "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "f05b6b1175f1470b9fee50fcad7408888d0cc0c0",
@@ -34820,9 +34911,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/docker-inc-docker-desktop.html": {
-   "exact": "cea268d4bd880d934e803bb4df469af22dd7e5d2",
-   "hash": "cea268d4bd880d934e803bb4df469af22dd7e5d2",
-   "lastmod": "2026-09-30"
+   "exact": "9857a68079baa2bfa417a2168e3cf97ad751bd6b",
+   "hash": "9857a68079baa2bfa417a2168e3cf97ad751bd6b",
+   "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/dominik-reichl-keepass-password-safe-classic-edition.html": {
    "exact": "2a807271e957308f0916a349a0605a10e79b777e",
@@ -34830,9 +34921,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/don-ho-notepad.html": {
-   "exact": "8bcda18b7ecf8b582020ff88240ffd6e7ec05a29",
-   "hash": "8bcda18b7ecf8b582020ff88240ffd6e7ec05a29",
-   "lastmod": "2026-08-27"
+   "exact": "5682b545bb0a1cc6ab469de6845280a6d7f1b923",
+   "hash": "5682b545bb0a1cc6ab469de6845280a6d7f1b923",
+   "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/doxim-llc-striata-reader.html": {
    "exact": "170d93b22e105ea5cd19bed93329a97fc00e1451",
@@ -35330,9 +35421,9 @@
    "lastmod": "2026-10-01"
   },
   "https://eam.drung.dev/apps/google-ads-editor.html": {
-   "exact": "64a997ddc7676f6b5bf46101c0346e16b9d03d5f",
-   "hash": "64a997ddc7676f6b5bf46101c0346e16b9d03d5f",
-   "lastmod": "2026-09-30"
+   "exact": "044f625002a8c33ae680090adb972cde5b9dbd0d",
+   "hash": "044f625002a8c33ae680090adb972cde5b9dbd0d",
+   "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/google-backup-and-sync.html": {
    "exact": "5fd3f9bfc8e36e6f97210659f14fc1cf393dcb28",
@@ -35400,9 +35491,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/google-llc-google-chrome.html": {
-   "exact": "a0c7d26158773d59c3c8483d9be3044ef72a1a27",
-   "hash": "a0c7d26158773d59c3c8483d9be3044ef72a1a27",
-   "lastmod": "2026-09-24"
+   "exact": "26d8b6de2203712d8f460fa21ccc2a01715bd7e4",
+   "hash": "26d8b6de2203712d8f460fa21ccc2a01715bd7e4",
+   "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/google-web-designer.html": {
    "exact": "959250bde7dcc5f605d5885326ec958d5ec7ff24",
@@ -35555,9 +35646,9 @@
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/international-geogebra-institute-geogebra-5.html": {
-   "exact": "c80c62cda37e0881259d259fc1a6793234895c7c",
-   "hash": "c80c62cda37e0881259d259fc1a6793234895c7c",
-   "lastmod": "2026-09-17"
+   "exact": "bb7db34b7927018318c8e5be6f97874ebe316891",
+   "hash": "bb7db34b7927018318c8e5be6f97874ebe316891",
+   "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/international-geogebra-institute-geogebra-6.html": {
    "exact": "00dcf79839d132561a42addc518726305644d446",
@@ -36295,9 +36386,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-on-premises-data-gateway.html": {
-   "exact": "de3645730ee06ad5c2e4a0b19716ee794460efb0",
-   "hash": "de3645730ee06ad5c2e4a0b19716ee794460efb0",
-   "lastmod": "2026-09-22"
+   "exact": "1fe03fb65917801572038dee41adf1e35951362d",
+   "hash": "1fe03fb65917801572038dee41adf1e35951362d",
+   "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
    "exact": "328f0a7f9cfcaa7bf62acc6a62e99f688f5f2999",
@@ -37535,9 +37626,9 @@
    "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/sober-lemur-s-a-s-di-vacondio-andrea-pdfsam-visual.html": {
-   "exact": "444a0e803b994ffb284c926db55ac1737def7099",
-   "hash": "444a0e803b994ffb284c926db55ac1737def7099",
-   "lastmod": "2026-08-28"
+   "exact": "04abb03cd3519b3bc78250471d77ef6cbd32ffba",
+   "hash": "04abb03cd3519b3bc78250471d77ef6cbd32ffba",
+   "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/softerra-ldap-administrator.html": {
    "exact": "a94126dd7b46dc6b0b61174a634953ca4cbad240",

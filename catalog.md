@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261005_203915_AppCatalog.json` (exported 2026-10-05 20:39:15)  
-> **Generated:** 2026-10-05 20:50 UTC  
+> **Source:** `20261006_055512_AppCatalog.json` (exported 2026-10-06 05:55:12)  
+> **Generated:** 2026-10-06 05:55 UTC  
 > **Total:** 1,594 packages · 933 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -197,7 +197,7 @@
 | 189 | Box | Box Tools | Box Tools (User Installer) | `4.32.0.1324` | x64 | ❌ | en-US |
 | 190 | Box | Box Tools | Box Tools (System Installer) | `4.32.0.1324` | x64 | ❌ | en-US |
 | 191 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | x64 | ❌ | en-US |
-| 192 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.96.60` | x64 | ❌ | en-US |
+| 192 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.96.61` | x64 | ❌ | en-US |
 | 193 | BrightSign LLC | BrightAuthor connected | BrightAuthor connected | `1.85.0` | x64 | ❌ | en-US |
 | 194 | Brink Software B.V. | Ibis Calculeren voor Bouw | Ibis Calculeren voor Bouw | `4.3.246.0` | x64 | ❌ | nl |
 | 195 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | x64 | ❌ | en-US |
@@ -291,10 +291,10 @@
 | 283 | DigiDNA SARL | iMazing | iMazing | `3.6.5.0` | x64 | ❌ | en-US |
 | 284 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.4.2` | x64 | ❌ | en-US |
 | 285 | dnGrep | dnGrep | dnGrep (x64) | `5.0.57.0` | x64 | ❌ | en-US |
-| 286 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.93.0.240920` | x64 | ✅ | en-US |
+| 286 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.94.0.241994` | x64 | ✅ | en-US |
 | 287 | Dominik Reichl | KeePass Password Safe (Classic Edition) | KeePass Password Safe (Classic Edition) | `1.43` | x86,x64 | ✅ | en-US |
-| 288 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8` | x64 | ❌ | en-US |
-| 289 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8` | x64 | ❌ | en-US |
+| 288 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8.1` | x64 | ❌ | en-US |
+| 289 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8.1` | x64 | ❌ | en-US |
 | 290 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
 | 291 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.9.1` | x64 | ❌ | en-US |
 | 292 | draw.io | draw.io Desktop | draw.io Desktop | `31.7.0` | x64 | ✅ | en-US |
@@ -378,14 +378,14 @@
 | 370 | Foxit Software | Foxit PDF Editor 12 | Foxit PDF Editor 12 (Multi-Language) | `12.1.9.15762` | x86,x64 | ✅ | mul |
 | 371 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.6.24111` | x86,x64 | ✅ | en-US |
 | 372 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.5.24109` | x86,x64 | ✅ | en-US |
-| 373 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
-| 374 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
+| 373 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 (Multi-Language) | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
+| 374 | Foxit Software | Foxit PDF Editor 2024 | Foxit PDF Editor 2024 | `2024.4.1.27687` | x86,x64 | ✅ | en-US |
 | 375 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 | `11.2.12.54161` | x86,x64 | ✅ | en-US |
 | 376 | Foxit Software | Foxit PDF Editor Pro 11 | Foxit PDF Editor Pro 11 (Multi-Language) | `11.2.12.54161` | x86,x64 | ✅ | mul |
 | 377 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 | `13.2.5.24109` | x86,x64 | ✅ | en-US |
 | 378 | Foxit Software | Foxit PDF Editor Pro 13 | Foxit PDF Editor Pro 13 (Multi-Language) | `13.2.6.24111` | x86,x64 | ✅ | mul |
-| 379 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader | `2025.1.0.27937` | x86,x64 | ✅ | en-US |
-| 380 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.2.1.39815` | x64 | ✅ | en-US |
+| 379 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.2.1.39815` | x64 | ✅ | en-US |
+| 380 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader | `2025.1.0.27937` | x86,x64 | ✅ | en-US |
 | 381 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x86) (MSI) | `2025.2.0.33046` | x86,x64 | ✅ | mul |
 | 382 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (MSI) | `2025.2.0.33046` | x64 | ✅ | en-US |
 | 383 | Foxit Software | Foxit PhantomPDF 10 | Foxit PhantomPDF 10 | `10.1.12.37872` | x86,x64 | ❌ | en-US |
@@ -423,8 +423,8 @@
 | 415 | GlavSoft LLC | Remote Ripple | Remote Ripple | `1.2.0` | x64 | ❌ | en-US |
 | 416 | glueckkanja-gab AG | Konnekt | Konnekt (x64) | `2.12.0.0` | x64 | ❌ | en-US |
 | 417 | GN Audio AS | Jabra Direct | Jabra Direct | `8.3.26701` | x64 | ❌ | en-US |
-| 418 | Google | Google Ads Editor | Google Ads Editor (EXE) | `14.13.3.0` | x64 | ❌ | en-US |
-| 419 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.3.0` | x64 | ❌ | en-US |
+| 418 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.4.0` | x64 | ❌ | en-US |
+| 419 | Google | Google Ads Editor | Google Ads Editor (EXE) | `14.13.3.0` | x64 | ❌ | en-US |
 | 420 | Google | Google Backup and Sync | Backup and Sync | `3.56.3802.7766` | x86,x64 | ❌ | en-US |
 | 421 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `154.0.8037.40` | x86,x64 | ❌ | en-US |
 | 422 | Google | Google Credential Provider for Windows | Google Credential Provider for Windows (x64) | `150.0.7871.100` | x64 | ❌ | en-US |
@@ -439,7 +439,7 @@
 | 431 | Google | Google Go Programming Language 1.22 | Go Programming Language 1.22 (x64) | `1.22.12` | x64 | ❌ | en-US |
 | 432 | Google | Google Web Designer | Google Web Designer (x64) | `14.3.2.0` | x64 | ❌ | en-US |
 | 433 | Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | x64 | ❌ | en-US |
-| 434 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `154.0.8037.58` | x64 | ❌ | en-US |
+| 434 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `154.0.8037.98` | x64 | ❌ | en-US |
 | 435 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.20.3` | x64 | ❌ | en-US |
 | 436 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.20.3` | x64 | ❌ | en-US |
 | 437 | GP Software | Directory Opus | Directory Opus | `13.18` | x64 | ✅ | en-US |
@@ -471,7 +471,7 @@
 | 463 | Inmatrix | Zoom Player | Zoom Player | `22.5` | x86,x64 | ❌ | en-US |
 | 464 | Inmatrix | Zoom Player Max | Zoom Player Max | `22.5` | x86,x64 | ❌ | en-US |
 | 465 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.33.58.0` | x64 | ❌ | en-US |
-| 466 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.930.2` | x86,x64 | ❌ | en-US |
+| 466 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.931.2` | x86,x64 | ❌ | en-US |
 | 467 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.930.2` | x86,x64 | ❌ | en-US |
 | 468 | InterPromo GMBH | 4K Video Downloader | 4K Video Downloader (x64) | `4.33.5` | x64 | ❌ | en-US |
 | 469 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.5` | x64 | ❌ | en-US |
@@ -712,7 +712,7 @@
 | 704 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.7.5` | x64 | ❌ | pt-BR |
 | 705 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Japanese) (x64) | `18.7.5` | x64 | ❌ | ja-JP |
 | 706 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.5` | x64 | ❌ | zh-TW |
-| 707 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.334.4` | x64 | ❌ | en-US |
+| 707 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.334.9` | x64 | ❌ | en-US |
 | 708 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.173.0906.0008` | x64 | ❌ | en-US |
 | 709 | Microsoft | Microsoft OneNote | OneNote (x64) | `16.0.18730.20168` | x64 | ❌ | en-US |
 | 710 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.158.1177.0` | x64 | ✅ | mul |
@@ -1348,7 +1348,7 @@
 | 1340 | Snapmaker | Snapmaker Luban | Snapmaker Luban (x64) | `4.15.0` | x64 | ❌ | en-US |
 | 1341 | SnelStart | SnelStart | SnelStart | `12.195.179` | x86,x64 | ❌ | nl |
 | 1342 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.6` | x64 | ❌ | en-US |
-| 1343 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.0.2` | x64 | ❌ | en-US |
+| 1343 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.1.0` | x64 | ❌ | en-US |
 | 1344 | Softerra | Softerra LDAP Administrator | LDAP Administrator - English (x64) | `4.23.28922.0` | x64 | ❌ | en-US |
 | 1345 | Softerra | Softerra LDAP Administrator | LDAP Administrator - German (x64) | `4.23.28922.0` | x64 | ❌ | de |
 | 1346 | Softerra | Softerra LDAP Browser | LDAP Browser - German (x64) | `4.5.19808.0` | x64 | ❌ | de |
