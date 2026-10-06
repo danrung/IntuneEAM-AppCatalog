@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261006_055512_AppCatalog.json` (exported 2026-10-06 05:55:12)  
-> **vs:** `20261005_203915_AppCatalog.json` (exported 2026-10-05 20:39:15)  
-> **Span:** 9 hours between exports  
-> **Generated:** 2026-10-06 05:55 UTC
+> **Comparing:** `20261006_181224_AppCatalog.json` (exported 2026-10-06 18:12:24)  
+> **vs:** `20261006_055512_AppCatalog.json` (exported 2026-10-06 05:55:12)  
+> **Span:** 12 hours between exports  
+> **Generated:** 2026-10-06 18:13 UTC
 
 ## Summary
 
@@ -11,19 +11,25 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 9 |
+| 🔄 Updated | 15 |
 
-## 🔄 Updated (9 packages)
+## 🔄 Updated (15 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.96.60` | `1.96.61` | Version |
-| Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.93.0.240920` | `4.94.0.241994` | Version |
-| Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8` | `8.9.8.1` | Version |
-| Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8` | `8.9.8.1` | Version |
-| Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.3.0` | `14.13.4.0` | Version |
-| Google LLC | Google Chrome | Google Chrome (x64) (msi) | `154.0.8037.58` | `154.0.8037.98` | Version |
-| International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.930.2` | `5.4.931.2` | Version |
-| Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.334.4` | `3000.334.9` | Version |
-| Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.0.2` | `7.1.0` | Version |
+| Atlassian Inc | Atlassian Confluence | Atlassian Confluence 9.2 (LTS) | `9.2.25` | `9.2.26` | Version |
+| Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.2 | `10.2.18` | `10.2.19` | Version |
+| Autodesk Inc. | Autodesk Access | Autodesk Access | `2.24.0.560` | `2.24.0.563` | Version |
+| Creative Force | Creative Force Triad | Triad | `4.5.0` | `4.6.0` | Version |
+| Evernote | Evernote | Evernote | `11.36.4` | `11.37.5` | Version |
+| Logitech | Logitech Sync App | Logitech Sync App | `3.11.203` | `3.11.238` | Version |
+| Microsoft | Microsoft Azure CLI | Azure CLI (x64) | `2.90.0` | `2.91.0` | Version |
+| Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.3.0.41101` | `16.4.0.41245` | Version |
+| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `155.0.4283.33` | `155.0.4283.39` | Version |
+| Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.9.181013` | `2026.10.51501` | Version |
+| ocenaudio | ocenaudio | ocenaudio | `3.21.4` | `3.22.0` | Version |
+| ScaleFT | ScaleFT | ScaleFT | `1.114.0` | `1.115.0` | Version |
+| Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.8.8` | `12.11.9.9` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1164` | `9.2.1167` | Version |
+| Zandar Labs SL | Aptakube | Aptakube | `1.21.1` | `1.21.2` | Version |
 
