@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261007_052846_AppCatalog.json` (exported 2026-10-07 05:28:46)  
-> **Generated:** 2026-10-07 05:29 UTC  
+> **Source:** `20261007_184541_AppCatalog.json` (exported 2026-10-07 18:45:41)  
+> **Generated:** 2026-10-07 18:46 UTC  
 > **Total:** 1,594 packages · 933 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -439,7 +439,7 @@
 | 431 | Google | Google Go Programming Language 1.22 | Go Programming Language 1.22 (x64) | `1.22.12` | x64 | ❌ | en-US |
 | 432 | Google | Google Web Designer | Google Web Designer (x64) | `14.3.2.0` | x64 | ❌ | en-US |
 | 433 | Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | x64 | ❌ | en-US |
-| 434 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `154.0.8037.98` | x64 | ❌ | en-US |
+| 434 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `155.0.8059.40` | x64 | ❌ | en-US |
 | 435 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.20.3` | x64 | ❌ | en-US |
 | 436 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.20.3` | x64 | ❌ | en-US |
 | 437 | GP Software | Directory Opus | Directory Opus | `13.18` | x64 | ✅ | en-US |
@@ -463,7 +463,7 @@
 | 455 | IDM Computer Solutions | UltraCompare | UltraCompare (x64) | `24.1.5` | x64 | ❌ | en-US |
 | 456 | IDM Computer Solutions | UltraFinder | UltraFinder | `24.0.17` | x64 | ❌ | en-US |
 | 457 | IDM Computer Solutions | UltraFTP | UltraFTP | `25.0.14` | x64 | ❌ | en-US |
-| 458 | Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.03` | x64 | ❌ | en-US |
+| 458 | Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.04` | x64 | ❌ | en-US |
 | 459 | Informatiepunt Leefomgeving | Geomilieu | Geomilieu | `2024.0.0` | x64 | ❌ | nl-NL |
 | 460 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.11.0.0` | x64 | ❌ | en-US |
 | 461 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.11.0` | x64 | ❌ | en-US |
@@ -1194,7 +1194,7 @@
 | 1186 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 8 (x64) | `8.0.344.0` | x64 | ❌ | en-US |
 | 1187 | pdfforge GbR | PDFCreator | PDFCreator | `5.3.3` | x64 | ❌ | en-US |
 | 1188 | PDFgear | PDFgear | PDFgear | `2.1.20` | x64 | ❌ | en-US |
-| 1189 | PeaZip srl | PeaZip | PeaZip (x64) | `10.9.0` | x64 | ❌ | en-US |
+| 1189 | PeaZip srl | PeaZip | PeaZip (x64) | `11.3.0` | x64 | ❌ | en-US |
 | 1190 | PeculiarVentures | Fortify | Fortify (x64) | `2.1.0` | x64 | ❌ | en-US |
 | 1191 | Perforce Software, Inc | Puppet Development Kit | Puppet Development Kit | `3.4.0` | x64 | ❌ | en-US |
 | 1192 | Pidgin | Pidgin | Pidgin | `2.14.14` | x86,x64 | ❌ | en-US |
@@ -1479,7 +1479,7 @@
 | 1471 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (French) | `7.5.9.2` | x64 | ❌ | fr |
 | 1472 | The Document Foundation | The Document Foundation LibreOffice 7.5 Help Pack | LibreOffice 7.5 Help Pack (x64) (English US) | `7.5.9.2` | x64 | ❌ | en-US |
 | 1473 | The Document Foundation | The Document Foundation LibreOffice 7.5 SDK | LibreOffice 7.5 SDK | `7.5.9.2` | x64 | ❌ | en-US |
-| 1474 | The Git Development Community | Git | Git (x64) | `2.56.0.1` | x64 | ✅ | en-US |
+| 1474 | The Git Development Community | Git | Git (x64) | `2.56.0.2` | x64 | ✅ | en-US |
 | 1475 | The Graphviz Authors | Graphviz | Graphviz (x64) | `13.1.0` | x64 | ❌ | en-US |
 | 1476 | The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.3.1` | x64 | ❌ | en-US |
 | 1477 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58.2` | x64 | ❌ | en-US |
@@ -1515,8 +1515,8 @@
 | 1507 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | x64 | ❌ | en-US |
 | 1508 | VEX Robotics | VEXcode IQ 3 | VEXcode IQ 3 | `3.0.4.1` | x86,x64 | ❌ | en-US |
 | 1509 | VEX Robotics | VEXcode V5 | VEXcode V5 (MSI) | `3.0.4.3` | x64 | ❌ | en-US |
-| 1510 | VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.24` | x64 | ❌ | en-US |
-| 1511 | VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.24` | x64 | ❌ | en-US |
+| 1510 | VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.24` | x64 | ❌ | en-US |
+| 1511 | VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.24` | x64 | ❌ | en-US |
 | 1512 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
 | 1513 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.9` | x64 | ❌ | en-US |
 | 1514 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.9` | x86,x64 | ❌ | en-US |

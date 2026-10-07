@@ -13670,19 +13670,6 @@
   "google-llc-google-chrome": [
    {
     "added": 0,
-    "date": "2026-05-21",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "148.0.7778.168",
-      "148.0.7778.179",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-28",
     "fields": [],
     "removed": 0,
@@ -13981,6 +13968,19 @@
      [
       "154.0.8037.58",
       "154.0.8037.98",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "154.0.8037.98",
+      "155.0.8059.40",
       1
      ]
     ]
@@ -14621,6 +14621,19 @@
      [
       "26.02",
       "26.03",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.03",
+      "26.04",
       1
      ]
     ]
@@ -26123,6 +26136,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.9.0",
+      "11.3.0",
+      1
+     ]
+    ]
    }
   ],
   "plangrid-inc-plangrid": [
@@ -30923,6 +30949,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.56.0.1",
+      "2.56.0.2",
+      1
+     ]
+    ]
    }
   ],
   "the-virtualgl-project-turbovnc": [
@@ -34185,7 +34224,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261007_052846_AppCatalog.json",
+ "history_through": "20261007_184541_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -34194,8 +34233,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "2e90004800cc20650ba44a0a7ac2b230bffe294c",
-   "hash": "213028b4b1482d3056c3c53fe6525300020b19df",
+   "exact": "ab4b5b8260fc71a7f39b19b13070dc10876cfb50",
+   "hash": "d3303746bf8f093ea28ba1d6a546c60d866efa7e",
    "lastmod": "2026-10-07"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -35844,9 +35883,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/google-llc-google-chrome.html": {
-   "exact": "26d8b6de2203712d8f460fa21ccc2a01715bd7e4",
-   "hash": "26d8b6de2203712d8f460fa21ccc2a01715bd7e4",
-   "lastmod": "2026-10-06"
+   "exact": "368e81c633d2af6baff7204e849e6e25dd98a255",
+   "hash": "368e81c633d2af6baff7204e849e6e25dd98a255",
+   "lastmod": "2026-10-07"
   },
   "https://eam.drung.dev/apps/google-web-designer.html": {
    "exact": "959250bde7dcc5f605d5885326ec958d5ec7ff24",
@@ -35959,9 +35998,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/igor-pavlov-7-zip.html": {
-   "exact": "e49d2052d452fe6983cc2fc1e6776e9d9543be73",
-   "hash": "e49d2052d452fe6983cc2fc1e6776e9d9543be73",
-   "lastmod": "2026-09-11"
+   "exact": "327eab17a9b9fa2424f5f507065db7b839626e13",
+   "hash": "327eab17a9b9fa2424f5f507065db7b839626e13",
+   "lastmod": "2026-10-07"
   },
   "https://eam.drung.dev/apps/informatiepunt-leefomgeving-geomilieu.html": {
    "exact": "2503ae51c81d230a032b8a24f2afb63b60eb7ff8",
@@ -37469,9 +37508,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/peazip-srl-peazip.html": {
-   "exact": "c987254b64a63b3d8db3b99bbbf33a46e508369c",
-   "hash": "c987254b64a63b3d8db3b99bbbf33a46e508369c",
-   "lastmod": "2026-08-27"
+   "exact": "b885c7cc1b317f4cb322a97dde2d52a4a18a5e12",
+   "hash": "b885c7cc1b317f4cb322a97dde2d52a4a18a5e12",
+   "lastmod": "2026-10-07"
   },
   "https://eam.drung.dev/apps/peculiarventures-fortify.html": {
    "exact": "7f2eb95d0698baaed7aa61c8f3097992bdcc4f85",
@@ -38344,9 +38383,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/the-git-development-community-git.html": {
-   "exact": "33af308165bc685b252fdf0c974fd9bb6e92f3e2",
-   "hash": "33af308165bc685b252fdf0c974fd9bb6e92f3e2",
-   "lastmod": "2026-10-01"
+   "exact": "147c3c0ab663ba828d91883d73a606fe82808844",
+   "hash": "147c3c0ab663ba828d91883d73a606fe82808844",
+   "lastmod": "2026-10-07"
   },
   "https://eam.drung.dev/apps/the-graphviz-authors-graphviz.html": {
    "exact": "7709b4a00892e3d21900c7e926d9c74f690e4a0f",
