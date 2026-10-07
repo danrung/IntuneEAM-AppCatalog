@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261006_181224_AppCatalog.json` (exported 2026-10-06 18:12:24)  
-> **vs:** `20261006_055512_AppCatalog.json` (exported 2026-10-06 05:55:12)  
-> **Span:** 12 hours between exports  
-> **Generated:** 2026-10-06 18:13 UTC
+> **Comparing:** `20261007_052846_AppCatalog.json` (exported 2026-10-07 05:28:46)  
+> **vs:** `20261006_181224_AppCatalog.json` (exported 2026-10-06 18:12:24)  
+> **Span:** 11 hours between exports  
+> **Generated:** 2026-10-07 05:29 UTC
 
 ## Summary
 
@@ -11,25 +11,77 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 15 |
+| 🔄 Updated | 67 |
 
-## 🔄 Updated (15 packages)
+## 🔄 Updated (67 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Atlassian Inc | Atlassian Confluence | Atlassian Confluence 9.2 (LTS) | `9.2.25` | `9.2.26` | Version |
-| Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.2 | `10.2.18` | `10.2.19` | Version |
-| Autodesk Inc. | Autodesk Access | Autodesk Access | `2.24.0.560` | `2.24.0.563` | Version |
-| Creative Force | Creative Force Triad | Triad | `4.5.0` | `4.6.0` | Version |
-| Evernote | Evernote | Evernote | `11.36.4` | `11.37.5` | Version |
-| Logitech | Logitech Sync App | Logitech Sync App | `3.11.203` | `3.11.238` | Version |
-| Microsoft | Microsoft Azure CLI | Azure CLI (x64) | `2.90.0` | `2.91.0` | Version |
-| Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.3.0.41101` | `16.4.0.41245` | Version |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `155.0.4283.33` | `155.0.4283.39` | Version |
-| Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.9.181013` | `2026.10.51501` | Version |
-| ocenaudio | ocenaudio | ocenaudio | `3.21.4` | `3.22.0` | Version |
-| ScaleFT | ScaleFT | ScaleFT | `1.114.0` | `1.115.0` | Version |
-| Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.8.8` | `12.11.9.9` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1164` | `9.2.1167` | Version |
-| Zandar Labs SL | Aptakube | Aptakube | `1.21.1` | `1.21.2` | Version |
+| Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.166.2` | `1.167.0` | Version |
+| Cisco Systems, Inc. | Duo Desktop | Duo Desktop | `7.21.0.0` | `7.22.0.0` | Version |
+| Dropbox | Dropbox | Dropbox (x64) (EXE) | `273.4.4708` | `274.4.4841` | Version |
+| Dropbox | Dropbox | Dropbox (x64) (MSI) | `273.4.4708` | `274.4.4841` | Version |
+| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 9 | `9.5.4` | `9.5.5` | Version |
+| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 8 | `8.19.22` | `8.19.23` | Version |
+| EPOS Group A/S | EPOS Connect | EPOS Connect | `8.6.0.52050` | `8.7.0.52713` | Version |
+| FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.73.179.028` | `2016.74.081.023` | Version |
+| Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.5.24109` | `13.2.7.24160` | Version |
+| Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.6.24111` | `13.2.7.24160` | Version |
+| International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.930.2` | `6.0.931.2` | Version |
+| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `155.0.4283.39` | `156.0.4314.8` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `157.0` | `157.0.1` | Version |
+| Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.4.20260916` | `34.0.5.20261005` | Version |
+| NoMachine | NoMachine Enterprise Desktop | NoMachine Enterprise Desktop (x64) | `10.1.7` | `10.2.3` | Version |
+| Obsidian | Obsidian | Obsidian (x64) (Device) | `1.12.4` | `1.14.4` | Version |
+| openaudible.org | OpenAudible | OpenAudible | `5.0` | `5.0.1` | Version |
+| Rainmeter | Rainmeter | Rainmeter | `4.5.26.3894` | `4.5.27.3934` | Version |
+| SideQuest | SideQuest | SideQuest | `1.3.1` | `1.4.0` | Version |
+| TightVNC | TightVNC | TightVNC (x64) | `2.8.89.0` | `2.8.90.0` | Version |
+| XnSoft | XnSoft XnConvert | XnConvert (x64) | `1.116.0` | `1.117.0` | Version |
 
