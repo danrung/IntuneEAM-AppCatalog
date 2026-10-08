@@ -3494,6 +3494,11 @@
       "8.0",
       "8.01",
       1
+     ],
+     [
+      "8.01",
+      "8.02",
+      1
      ]
     ]
    }
@@ -4411,19 +4416,6 @@
   ],
   "brave-software-inc-brave-browser": [
    {
-    "added": 1,
-    "date": "2026-05-21",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.90.122",
-      "1.90.124",
-      1
-     ]
-    ]
-   },
-   {
     "added": 0,
     "date": "2026-05-30",
     "fields": [],
@@ -4718,6 +4710,19 @@
      [
       "1.96.60",
       "1.96.61",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.96.61",
+      "1.97.56",
       1
      ]
     ]
@@ -5122,6 +5127,19 @@
      [
       "2.3.2",
       "2.3.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.3.3",
+      "2.3.4",
       1
      ]
     ]
@@ -16594,6 +16612,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.12",
+      "3.12.1",
+      1
+     ]
+    ]
    }
   ],
   "junction-networks-onsip": [
@@ -17302,6 +17333,19 @@
      [
       "5.3.3",
       "5.3.4",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.3.4",
+      "5.3.4.1",
       1
      ]
     ]
@@ -24404,6 +24448,11 @@
       "26.10.0",
       "26.11.0",
       1
+     ],
+     [
+      "26.11.0",
+      "26.11.1",
+      1
      ]
     ]
    }
@@ -29699,6 +29748,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.9.523",
+      "11.9.530",
+      1
+     ]
+    ]
    }
   ],
   "solarwinds-orion-sdk": [
@@ -30601,6 +30663,19 @@
      [
       "1.102.3",
       "1.102.4",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.102.4",
+      "1.104.1",
       1
      ]
     ]
@@ -32521,6 +32596,11 @@
       "9.2.1162",
       "9.2.1169",
       1
+     ],
+     [
+      "9.2.1169",
+      "9.2.1172",
+      2
      ]
     ]
    }
@@ -33277,6 +33357,19 @@
     "fields": [],
     "removed": 0,
     "versions": []
+   },
+   {
+    "added": 0,
+    "date": "2026-10-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.7.3",
+      "4.7.4",
+      1
+     ]
+    ]
    }
   ],
   "wrike-com-wrike": [
@@ -34465,7 +34558,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261008_053714_AppCatalog.json",
+ "history_through": "20261008_184403_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -34474,8 +34567,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "9783ae411222db15c3fad79f2302c87961bd2847",
-   "hash": "94976f1f238a5e50c13d6f2c339ad9e1d3e70052",
+   "exact": "fa58a716ef043d395fa9a2d70859851d151b0fa4",
+   "hash": "e85146e57f9ff8d39f01570d0ff3b6130e4c80bf",
    "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -34969,8 +35062,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/bandisoft-bandiview.html": {
-   "exact": "4ed68e076075783b7b413243ab15485ea05486e1",
-   "hash": "4ed68e076075783b7b413243ab15485ea05486e1",
+   "exact": "5f0dad5ab31cbd733fb1a4cf330ea2c31f00601d",
+   "hash": "5f0dad5ab31cbd733fb1a4cf330ea2c31f00601d",
    "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/beanbag-inc-rbtools.html": {
@@ -35094,9 +35187,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "cae4cd62ee518a6f6a9372643fb5f6178d809b5e",
-   "hash": "cae4cd62ee518a6f6a9372643fb5f6178d809b5e",
-   "lastmod": "2026-10-06"
+   "exact": "59a58b6bc2923ba9a2d44625602aee872a6a1469",
+   "hash": "59a58b6bc2923ba9a2d44625602aee872a6a1469",
+   "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "f05b6b1175f1470b9fee50fcad7408888d0cc0c0",
@@ -35134,9 +35227,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cake-com-inc-clockify.html": {
-   "exact": "aa50f92057d1677da5d1f7cdb962fc72aab46780",
-   "hash": "aa50f92057d1677da5d1f7cdb962fc72aab46780",
-   "lastmod": "2026-09-30"
+   "exact": "485180538c184d2031a753195682d59aac9d9e47",
+   "hash": "485180538c184d2031a753195682d59aac9d9e47",
+   "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/calibrite-profiler.html": {
    "exact": "f481623386bb678d224124d8e39bec0d2dc96346",
@@ -36449,9 +36542,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/john-macfarlane-pandoc.html": {
-   "exact": "f80f0dad58c0f22e8c29d61a4a848073f5012e7e",
-   "hash": "f80f0dad58c0f22e8c29d61a4a848073f5012e7e",
-   "lastmod": "2026-09-30"
+   "exact": "67b9baa37ef539eff7412276948aed83c3a153dd",
+   "hash": "67b9baa37ef539eff7412276948aed83c3a153dd",
+   "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/junction-networks-onsip.html": {
    "exact": "c6085a4749aeec75d8add65e3f00a012228bc860",
@@ -36534,9 +36627,9 @@
    "lastmod": "2026-10-03"
   },
   "https://eam.drung.dev/apps/krita-foundation-krita.html": {
-   "exact": "72203bea0f0802960c1ef5c9fe8073e419e121ad",
-   "hash": "72203bea0f0802960c1ef5c9fe8073e419e121ad",
-   "lastmod": "2026-09-17"
+   "exact": "093765fc23642f1933eef6fb9d9c4678a77479a1",
+   "hash": "093765fc23642f1933eef6fb9d9c4678a77479a1",
+   "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/kubus-bv-bcf-manager-for-tekla.html": {
    "exact": "a7119fa5f49df407f45bca980bf9ee6f7a36d98a",
@@ -37509,8 +37602,8 @@
    "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js.html": {
-   "exact": "1f1344951c6862451e4e5eda34eeb054d53a7e8f",
-   "hash": "1f1344951c6862451e4e5eda34eeb054d53a7e8f",
+   "exact": "bb03f722fcd6b85a9e8f5f2e8ea4b3fcb5a08255",
+   "hash": "bb03f722fcd6b85a9e8f5f2e8ea4b3fcb5a08255",
    "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/nomachine-enterprise-client.html": {
@@ -38279,9 +38372,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/softland-dopdf.html": {
-   "exact": "9656e30d6ba1f234b345ca0ec9b05fe8392bf486",
-   "hash": "9656e30d6ba1f234b345ca0ec9b05fe8392bf486",
-   "lastmod": "2026-08-27"
+   "exact": "948c8d5d2e43305b8ebe20b7ddcf47643ada99ac",
+   "hash": "948c8d5d2e43305b8ebe20b7ddcf47643ada99ac",
+   "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/solarwinds-orion-sdk.html": {
    "exact": "5d6ebad391578b3735625cd4409369c17fc991f8",
@@ -38439,9 +38532,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/tailscale-inc-tailscale.html": {
-   "exact": "f4a39a3127564fbc687f056c13404223b28b632b",
-   "hash": "f4a39a3127564fbc687f056c13404223b28b632b",
-   "lastmod": "2026-09-11"
+   "exact": "ec64302fe1bab9eb0d931c8ac86091cdaaf0287f",
+   "hash": "ec64302fe1bab9eb0d931c8ac86091cdaaf0287f",
+   "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/talkdesk-inc-talkdesk.html": {
    "exact": "f57846b7625745a55249d60730743b4097183994",
@@ -38799,8 +38892,8 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "c69c638a63bb93f7fdf39754ca1ef0902d587e7f",
-   "hash": "c69c638a63bb93f7fdf39754ca1ef0902d587e7f",
+   "exact": "3564aac89e683754e3bf57048c350f0713aa0e45",
+   "hash": "3564aac89e683754e3bf57048c350f0713aa0e45",
    "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
@@ -38954,9 +39047,9 @@
    "lastmod": "2026-09-24"
   },
   "https://eam.drung.dev/apps/wireshark-foundation-wireshark.html": {
-   "exact": "d554881d415dea79bd0b1bc9b2d075cf39f57385",
-   "hash": "d554881d415dea79bd0b1bc9b2d075cf39f57385",
-   "lastmod": "2026-09-29"
+   "exact": "b049d93bd27e80715d04289720cddd322fc9302b",
+   "hash": "b049d93bd27e80715d04289720cddd322fc9302b",
+   "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/wix-toolset-3.html": {
    "exact": "d62751383027c796756faa1c92a112c13326aa3f",
