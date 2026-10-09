@@ -1938,6 +1938,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.34.1.2887",
+      "5.35.0.3249",
+      1
+     ]
+    ]
    }
   ],
   "andrew-ziem-bleachbit": [
@@ -8561,6 +8574,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.12.0",
+      "2026.3.13.0",
+      1
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager": [
@@ -8777,6 +8803,19 @@
      [
       "2026.3.10.0",
       "2026.3.12.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.12.0",
+      "2026.3.13.0",
       1
      ]
     ]
@@ -17186,6 +17225,19 @@
      [
       "9.14.0",
       "9.15.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.15.0",
+      "9.16.0",
       1
      ]
     ]
@@ -34649,7 +34701,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261009_054139_AppCatalog.json",
+ "history_through": "20261009_181427_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -34658,8 +34710,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "1d52260c58494604a4371468f9a71ddd6375a07d",
-   "hash": "25561ea6f897fea4ec1f602041e1cfbfaf410431",
+   "exact": "d62d94eb28fda9ee2940aa12c025d3a820eaad43",
+   "hash": "48544b033bbb9d2d4fda10b9af50335fc5414daa",
    "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -34843,9 +34895,9 @@
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/amazon-web-services-inc-amazon-workspaces.html": {
-   "exact": "54e01c43361b725d054b242b746cbe203e00c67f",
-   "hash": "54e01c43361b725d054b242b746cbe203e00c67f",
-   "lastmod": "2026-09-07"
+   "exact": "95229fb2b51f479d5f9dba6393dcfe660df51559",
+   "hash": "95229fb2b51f479d5f9dba6393dcfe660df51559",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/andrew-ziem-bleachbit.html": {
    "exact": "0c92f427064669dcb15e66b2b891cfe9f06db1fb",
@@ -35693,9 +35745,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html": {
-   "exact": "d675a92af3296a87c4f738f315037950c298fbda",
-   "hash": "d675a92af3296a87c4f738f315037950c298fbda",
-   "lastmod": "2026-10-02"
+   "exact": "e9cd166a6f71914b7fb49547bd83a0c3719dd7fb",
+   "hash": "e9cd166a6f71914b7fb49547bd83a0c3719dd7fb",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html": {
    "exact": "c162eaba79751b32e3666085748e8c7c79b707c3",
@@ -35703,9 +35755,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html": {
-   "exact": "739fd061db1b264f61f21dfa7e7547a9e061f0bc",
-   "hash": "739fd061db1b264f61f21dfa7e7547a9e061f0bc",
-   "lastmod": "2026-10-02"
+   "exact": "05b9244dbf764c4f995027e35e0cc6d9e1dbcffd",
+   "hash": "05b9244dbf764c4f995027e35e0cc6d9e1dbcffd",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-workspace.html": {
    "exact": "cab5c26bfe4145300e51e79ac3157fe33a2a2e3b",
@@ -36698,9 +36750,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/kovid-goyal-calibre.html": {
-   "exact": "fe11813249aa6a69d9cbb34db7c5db9f78034d34",
-   "hash": "fe11813249aa6a69d9cbb34db7c5db9f78034d34",
-   "lastmod": "2026-09-19"
+   "exact": "c0d9235de947ef5031c34cc83d8d30d833eebec0",
+   "hash": "c0d9235de947ef5031c34cc83d8d30d833eebec0",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/kpn-desktop-integratie.html": {
    "exact": "33228f9f44477f694060bbea06cc9029e63c616f",
