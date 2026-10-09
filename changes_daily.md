@@ -1,9 +1,9 @@
 # Catalog Changes — Daily (≥1 day apart)
 
-> **Comparing:** `20261008_184403_AppCatalog.json` (exported 2026-10-08 18:44:03)  
-> **vs:** `20261007_052846_AppCatalog.json` (exported 2026-10-07 05:28:46)  
+> **Comparing:** `20261009_054139_AppCatalog.json` (exported 2026-10-09 05:41:39)  
+> **vs:** `20261008_053714_AppCatalog.json` (exported 2026-10-08 05:37:14)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-10-08 18:44 UTC
+> **Generated:** 2026-10-09 05:42 UTC
 
 ## Summary
 
@@ -11,43 +11,29 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 33 |
+| 🔄 Updated | 19 |
 
-## 🔄 Updated (33 packages)
+## 🔄 Updated (19 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| A Must in Every Office BV | ASAP Utilities | ASAP Utilities | `9.1` | `9.3` | Version |
-| Bandisoft | BandiView | BandiView | `8.0` | `8.02` | Version |
+| Akiflow | Akiflow | Akiflow | `2.81.8` | `2.83.8` | Version |
+| Bandisoft | BandiView | BandiView | `8.01` | `8.02` | Version |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.96.61` | `1.97.56` | Version |
 | Cake.com Inc. | Clockify | Clockify | `2.3.3` | `2.3.4` | Version |
-| Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.7.1376.0` | `26.8.2100.0` | Version |
-| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9763.42349` | `7.1.9776.32395` | Version |
-| Datadog | Datadog Agent | Datadog Agent | `7.84.1` | `7.84.2` | Version |
-| Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.7.0.205` | `4.7.1.207` | Version |
-| Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (MSI) | `2025.2.0.33046` | `2026.2.1.39815` | Version |
-| geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.30.1` | `11.31.0` | Version |
-| Google | Google Drive | Google Drive | `131.0.2.0` | `132.0.0.0` | Version |
-| Google | Google Drive File Stream | Google Drive File Stream | `131.0.2.0` | `132.0.0.0` | Version |
-| Google LLC | Google Chrome | Google Chrome (x64) (msi) | `154.0.8037.98` | `155.0.8059.40` | Version |
-| Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.03` | `26.04` | Version |
+| Cisco Systems, Inc. | Cisco Jabber 15 | Cisco Jabber 15 | `15.3.0.61167` | `15.3.1.61358` | Version |
+| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9776.32395` | `7.1.9776.39015` | Version |
+| DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.3` | `26.2.4` | Version |
+| geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.31.0` | `11.31.1` | Version |
 | John MacFarlane | Pandoc | Pandoc | `3.12` | `3.12.1` | Version |
 | Krita Foundation | Krita | Krita (x64) | `5.3.4` | `5.3.4.1` | Version |
-| Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `156.0.4301.0` | `157.0.4322.0` | Version |
-| Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.158.1177.0` | `2.158.1304.0` | Version |
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.140.0` | `1.141.0` | Version |
-| NetBird GmbH | NetBird | NetBird | `0.80.0` | `0.81.0` | Version |
-| Node.js Foundation | Node.js | Node.js 26 (x64) | `26.10.0` | `26.11.1` | Version |
-| OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.701` | `2.7.801` | Version |
-| PeaZip srl | PeaZip | PeaZip (x64) | `10.9.0` | `11.3.0` | Version |
-| Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.152.14` | `2.153.5` | Version |
-| Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.8.8` | `12.11.9.9` | Version |
-| SideQuest | SideQuest | SideQuest | `1.4.0` | `1.4.1` | Version |
+| monday.com Ltd | monday | monday | `1.0.45.0` | `1.0.46.0` | Version |
+| Node.js Foundation | Node.js | Node.js 26 (x64) | `26.11.0` | `26.11.1` | Version |
+| Password Safe | Password Safe 3 | Password Safe 3 (x64) | `3.72.2` | `3.73.0` | Version |
 | Softland | Softland doPDF | doPDF | `11.9.523` | `11.9.530` | Version |
+| SonicWall | SonicWall Connect Tunnel | SonicWall Connect Tunnel (x64) | `12.5.0.247` | `12.5.0.1108` | Version |
 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.102.4` | `1.104.1` | Version |
-| The Git Development Community | Git | Git (x64) | `2.56.0.1` | `2.56.0.2` | Version |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1162` | `9.2.1172` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1167` | `9.2.1172` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1169` | `9.2.1172` | Version |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1169` | `9.2.1172` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (EXE) | `4.7.3` | `4.7.4` | Version |
-| Zotero | Zotero | Zotero (x64) | `10.0.5` | `10.0.6` | Version |
 

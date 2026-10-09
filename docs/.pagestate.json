@@ -679,6 +679,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.81.8",
+      "2.83.8",
+      1
+     ]
+    ]
    }
   ],
   "alfaview-gmbh-alfaview": [
@@ -5400,6 +5413,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "15.3.0.61167",
+      "15.3.1.61358",
+      1
+     ]
+    ]
    }
   ],
   "cisco-systems-inc-cisco-jvdi-agent-15": [
@@ -6601,19 +6627,6 @@
   "coolutils-mail-viewer": [
    {
     "added": 0,
-    "date": "2026-05-16",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.0.9627.37777",
-      "1.0.9631.22499",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-22",
     "fields": [],
     "removed": 0,
@@ -6907,6 +6920,19 @@
      [
       "7.1.9763.42349",
       "7.1.9776.32395",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9776.32395",
+      "7.1.9776.39015",
       1
      ]
     ]
@@ -8137,6 +8163,19 @@
      [
       "26.2.2",
       "26.2.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.3",
+      "26.2.4",
       1
      ]
     ]
@@ -12658,6 +12697,19 @@
      [
       "11.30.1",
       "11.31.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.31.0",
+      "11.31.1",
       1
      ]
     ]
@@ -22479,6 +22531,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.0.45.0",
+      "1.0.46.0",
+      1
+     ]
+    ]
    }
   ],
   "mongodb-inc-mongodb-compass": [
@@ -26217,6 +26282,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.72.2",
+      "3.73.0",
+      1
+     ]
+    ]
    }
   ],
   "pdf-xchange-co-ltd-pdf-tools": [
@@ -29827,6 +29905,19 @@
      [
       "12.5.0.221",
       "12.5.0.247",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-09",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "12.5.0.247",
+      "12.5.0.1108",
       1
      ]
     ]
@@ -34558,7 +34649,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261008_184403_AppCatalog.json",
+ "history_through": "20261009_054139_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -34567,9 +34658,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "fa58a716ef043d395fa9a2d70859851d151b0fa4",
-   "hash": "e85146e57f9ff8d39f01570d0ff3b6130e4c80bf",
-   "lastmod": "2026-10-08"
+   "exact": "1d52260c58494604a4371468f9a71ddd6375a07d",
+   "hash": "25561ea6f897fea4ec1f602041e1cfbfaf410431",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -34657,9 +34748,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/akiflow.html": {
-   "exact": "fcf05a1d2f402911be2a5b30191e6cf6aae72983",
-   "hash": "fcf05a1d2f402911be2a5b30191e6cf6aae72983",
-   "lastmod": "2026-09-17"
+   "exact": "541a36cf785ccc136f7365e0eaf1c1fc9c347fbf",
+   "hash": "541a36cf785ccc136f7365e0eaf1c1fc9c347fbf",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/alfaview-gmbh-alfaview.html": {
    "exact": "326cb0184bbedf25da688b8d0ba3a16a492f00ef",
@@ -35292,9 +35383,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cisco-systems-inc-cisco-jabber-15.html": {
-   "exact": "5230af7b338ccec68ae464ed131f3d0253a818f2",
-   "hash": "5230af7b338ccec68ae464ed131f3d0253a818f2",
-   "lastmod": "2026-08-27"
+   "exact": "86cbaac24275f437404c70c7ad61048ddedf44f4",
+   "hash": "86cbaac24275f437404c70c7ad61048ddedf44f4",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/cisco-systems-inc-cisco-jvdi-agent-12.html": {
    "exact": "a440858ae8d84951e0c32f1e37722ed02a867ba2",
@@ -35447,9 +35538,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "93998efbc72548400b1b2b32182aa2fc51f0f3c1",
-   "hash": "93998efbc72548400b1b2b32182aa2fc51f0f3c1",
-   "lastmod": "2026-10-08"
+   "exact": "228125ef514cebe49e81b79576b682f6d5ad4ebe",
+   "hash": "228125ef514cebe49e81b79576b682f6d5ad4ebe",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "f78fe4c0342308dbaaa7f535dbdf2a11148510b4",
@@ -35547,9 +35638,9 @@
    "lastmod": "2026-09-09"
   },
   "https://eam.drung.dev/apps/dbvis-software-ab-dbvisualizer.html": {
-   "exact": "c369a1e2693136d85edffaa4964b9bb46d592745",
-   "hash": "c369a1e2693136d85edffaa4964b9bb46d592745",
-   "lastmod": "2026-09-17"
+   "exact": "c5f045f2c2a388b14664e87cb2ff789d5eaaa150",
+   "hash": "c5f045f2c2a388b14664e87cb2ff789d5eaaa150",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/dedoose-desktop-app.html": {
    "exact": "360c1842849332f97748f49935008e6f3243d8f9",
@@ -36087,9 +36178,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/geek-software-gmbh-pdf24-creator.html": {
-   "exact": "01589ebaea14db77f63ee2e6449ef77b9724aa3e",
-   "hash": "01589ebaea14db77f63ee2e6449ef77b9724aa3e",
-   "lastmod": "2026-10-08"
+   "exact": "7a18ace4a18406c09fd5bdd3d54cdfcb92caf1a2",
+   "hash": "7a18ace4a18406c09fd5bdd3d54cdfcb92caf1a2",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/general-workings-inc-general-workings-streamlabs-obs.html": {
    "exact": "b7c94e83c14af3eb646764c5df7e74fd998ec215",
@@ -37392,9 +37483,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/monday-com-ltd-monday.html": {
-   "exact": "5330a15464b459c6c9b6ba9063d5c92357b7a866",
-   "hash": "5330a15464b459c6c9b6ba9063d5c92357b7a866",
-   "lastmod": "2026-08-27"
+   "exact": "f7acb073922728ca1d22c791fe9ff1478b9880e6",
+   "hash": "f7acb073922728ca1d22c791fe9ff1478b9880e6",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass-isolated-edition.html": {
    "exact": "a901038aa0d4272a45a15916a2155283b35fb6e6",
@@ -37812,9 +37903,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/password-safe-3.html": {
-   "exact": "090421d2d27c93f7ccdf3e10511a4f3e0cff9369",
-   "hash": "090421d2d27c93f7ccdf3e10511a4f3e0cff9369",
-   "lastmod": "2026-09-07"
+   "exact": "986cc2e4c8954ba03c7f464c0c3afd81902cb40f",
+   "hash": "986cc2e4c8954ba03c7f464c0c3afd81902cb40f",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/pausit-ab-pausit-launcher.html": {
    "exact": "883a2fd8d968b51303fbc1d94107d363d2f156bd",
@@ -38382,9 +38473,9 @@
    "lastmod": "2026-09-23"
   },
   "https://eam.drung.dev/apps/sonicwall-connect-tunnel.html": {
-   "exact": "a2d74ca33473c65ca832f494befbdf1b340ae8cf",
-   "hash": "a2d74ca33473c65ca832f494befbdf1b340ae8cf",
-   "lastmod": "2026-08-27"
+   "exact": "269dce12f815c5d823af927641f4c8b4d7453374",
+   "hash": "269dce12f815c5d823af927641f4c8b4d7453374",
+   "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/sonicwall-netextender.html": {
    "exact": "224203342dd2f61964f0b243ee86e5eafcd79d47",
