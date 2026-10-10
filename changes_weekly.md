@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261010_052509_AppCatalog.json` (exported 2026-10-10 05:25:09)  
-> **vs:** `20261003_045316_AppCatalog.json` (exported 2026-10-03 04:53:16)  
+> **Comparing:** `20261010_171330_AppCatalog.json` (exported 2026-10-10 17:13:30)  
+> **vs:** `20261003_160347_AppCatalog.json` (exported 2026-10-03 16:03:47)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-10-10 05:25 UTC
+> **Generated:** 2026-10-10 17:14 UTC
 
 ## Summary
 
@@ -11,9 +11,9 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 139 |
+| 🔄 Updated | 138 |
 
-## 🔄 Updated (139 packages)
+## 🔄 Updated (138 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -55,8 +55,8 @@
 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.73.179.028` | `2016.74.081.023` | Version |
 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.6.24111` | `13.2.7.24160` | Version |
 | Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.5.24109` | `13.2.7.24160` | Version |
-| Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.2.0.39747` | `2026.2.1.39815` | Version |
 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (MSI) | `2025.2.0.33046` | `2026.2.1.39815` | Version |
+| Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (EXE) | `2026.2.0.39747` | `2026.2.1.39815` | Version |
 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.30.1` | `11.31.1` | Version |
 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.3.0` | `14.13.4.0` | Version |
 | Google | Google Drive | Google Drive | `131.0.2.0` | `132.0.0.0` | Version |
@@ -79,54 +79,53 @@
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.140.0` | `1.141.0` | Version |
 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.9.181013` | `2026.10.51501` | Version |
 | monday.com Ltd | monday | monday | `1.0.45.0` | `1.0.46.0` | Version |
-| MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.51.0` | `1.52.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `157.0` | `157.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `157.0` | `157.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `157.0` | `157.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `157.0` | `157.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `157.0` | `157.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `157.0` | `157.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `157.0` | `157.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `157.0` | `157.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `157.0` | `157.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `157.0` | `157.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `157.0` | `157.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `157.0` | `157.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `157.0` | `157.0.1` | Version |
 | NetBird GmbH | NetBird | NetBird | `0.80.0` | `0.81.0` | Version |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.4.20260916` | `34.0.5.20261005` | Version |
 | Node.js Foundation | Node.js | Node.js 26 (x64) | `26.10.0` | `26.11.1` | Version |
@@ -150,8 +149,8 @@
 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.102.4` | `1.104.1` | Version |
 | The Git Development Community | Git | Git (x64) | `2.56.0.1` | `2.56.0.2` | Version |
 | TightVNC | TightVNC | TightVNC (x64) | `2.8.89.0` | `2.8.90.0` | Version |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1162` | `9.2.1172` | Version |
 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1162` | `9.2.1172` | Version |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1162` | `9.2.1172` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (EXE) | `4.7.3` | `4.7.4` | Version |
 | XnSoft | XnSoft XnConvert | XnConvert (x64) | `1.116.0` | `1.117.0` | Version |
 | Zandar Labs SL | Aptakube | Aptakube | `1.21.1` | `1.21.2` | Version |

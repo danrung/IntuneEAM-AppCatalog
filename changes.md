@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261010_052509_AppCatalog.json` (exported 2026-10-10 05:25:09)  
-> **vs:** `20261009_181427_AppCatalog.json` (exported 2026-10-09 18:14:27)  
+> **Comparing:** `20261010_171330_AppCatalog.json` (exported 2026-10-10 17:13:30)  
+> **vs:** `20261010_052509_AppCatalog.json` (exported 2026-10-10 05:25:09)  
 > **Span:** 11 hours between exports  
-> **Generated:** 2026-10-10 05:25 UTC
+> **Generated:** 2026-10-10 17:14 UTC
 
 ## Summary
 
@@ -11,13 +11,7 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 3 |
+| 🔄 Updated | 0 |
 
-## 🔄 Updated (3 packages)
-
-| Publisher | App | Branch | Previous Version | New Version | Changed |
-|-----------|-----|--------|:---------------:|:-----------:|---------|
-| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9776.39015` | `7.1.9779.1158` | Version |
-| Microsoft | Microsoft Analysis Services OLE DB Provider | Microsoft Analysis Services OLE DB Provider (x64) | `18.0.291.0` | `18.0.326.0` | Version |
-| Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.17.4` | `4.18.0` | Version |
+> No changes detected between these two catalog exports.
 
