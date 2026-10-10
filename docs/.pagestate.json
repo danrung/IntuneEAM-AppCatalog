@@ -6640,19 +6640,6 @@
   "coolutils-mail-viewer": [
    {
     "added": 0,
-    "date": "2026-05-22",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.0.9631.22499",
-      "1.0.9637.23773",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-23",
     "fields": [],
     "removed": 0,
@@ -6946,6 +6933,19 @@
      [
       "7.1.9776.32395",
       "7.1.9776.39015",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9776.39015",
+      "7.1.9779.1158",
       1
      ]
     ]
@@ -18697,6 +18697,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.0.291.0",
+      "18.0.326.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-azure-cli": [
@@ -28041,6 +28054,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.17.4",
+      "4.18.0",
+      1
+     ]
+    ]
    }
   ],
   "rstudio": [
@@ -34701,7 +34727,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261009_181427_AppCatalog.json",
+ "history_through": "20261010_052509_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -34710,9 +34736,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "d62d94eb28fda9ee2940aa12c025d3a820eaad43",
-   "hash": "48544b033bbb9d2d4fda10b9af50335fc5414daa",
-   "lastmod": "2026-10-09"
+   "exact": "e8034668da1bf6a60b7259704882edef5d2bd109",
+   "hash": "9ab9def51121e44fac0a1bfbd6e0a665a21aee83",
+   "lastmod": "2026-10-10"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -35590,9 +35616,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "228125ef514cebe49e81b79576b682f6d5ad4ebe",
-   "hash": "228125ef514cebe49e81b79576b682f6d5ad4ebe",
-   "lastmod": "2026-10-09"
+   "exact": "d402c6f5e83fe48fb7b3e8b934f8ac6136d06811",
+   "hash": "d402c6f5e83fe48fb7b3e8b934f8ac6136d06811",
+   "lastmod": "2026-10-10"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "f78fe4c0342308dbaaa7f535dbdf2a11148510b4",
@@ -37080,9 +37106,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-analysis-services-ole-db-provider.html": {
-   "exact": "60a5a960caff5a87c0fa399a359fa5e1fa90a505",
-   "hash": "60a5a960caff5a87c0fa399a359fa5e1fa90a505",
-   "lastmod": "2026-09-11"
+   "exact": "2530d9fb2ebe7a9b16c31e479100efd4386b2b8a",
+   "hash": "2530d9fb2ebe7a9b16c31e479100efd4386b2b8a",
+   "lastmod": "2026-10-10"
   },
   "https://eam.drung.dev/apps/microsoft-asp-net-core-runtime-5-0.html": {
    "exact": "d462e171e87a0fa799bb1cc4a7c3937bab99e2c0",
@@ -38230,9 +38256,9 @@
    "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/rocket-chat-technologies-corp-rocket-chat.html": {
-   "exact": "cfea801e354869ff653c4f4322a4d11597a5a4f3",
-   "hash": "cfea801e354869ff653c4f4322a4d11597a5a4f3",
-   "lastmod": "2026-10-03"
+   "exact": "173a0135d5020859625d6435df2e7a6933bb89ca",
+   "hash": "173a0135d5020859625d6435df2e7a6933bb89ca",
+   "lastmod": "2026-10-10"
   },
   "https://eam.drung.dev/apps/rstudio-1-4.html": {
    "exact": "95dadf6c22da9407325e1a385becfb3c6decd419",
