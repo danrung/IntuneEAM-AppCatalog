@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261013_062751_AppCatalog.json` (exported 2026-10-13 06:27:51)  
-> **vs:** `20261012_210945_AppCatalog.json` (exported 2026-10-12 21:09:45)  
-> **Span:** 9 hours between exports  
-> **Generated:** 2026-10-13 06:28 UTC
+> **Comparing:** `20261013_190830_AppCatalog.json` (exported 2026-10-13 19:08:30)  
+> **vs:** `20261013_062751_AppCatalog.json` (exported 2026-10-13 06:27:51)  
+> **Span:** 12 hours between exports  
+> **Generated:** 2026-10-13 19:09 UTC
 
 ## Summary
 
@@ -11,15 +11,14 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 5 |
+| 🔄 Updated | 4 |
 
-## 🔄 Updated (5 packages)
+## 🔄 Updated (4 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.8.2100.0` | `26.8.2110.0` | Version |
-| International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.931.2` | `6.0.932.1` | Version |
-| Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.15.2` | `4.16.0` | Version |
-| Microsoft Corporation | Remote Help | Remote Help (x64) (exe) | `5.2.1040.0` | `5.2.1210.0` | Version |
-| Rainmeter | Rainmeter | Rainmeter | `4.5.27.3934` | `4.5.28.3936` | Version |
+| HARMAN International | Adobe AIR | Adobe AIR | `51.3.3.1` | `51.4.1.2` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1176` | `9.2.1178` | Version |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1176` | `9.2.1178` | Version |
+| Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.1.7` | `7.2.0` | Version |
 

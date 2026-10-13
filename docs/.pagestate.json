@@ -14497,6 +14497,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "51.3.3.1",
+      "51.4.1.2",
+      1
+     ]
+    ]
    }
   ],
   "henri-wahl-nagstamon": [
@@ -32639,19 +32652,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-06-04",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0588",
-      "9.2.0593",
-      2
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-05",
     "fields": [],
     "removed": 0,
@@ -33015,6 +33015,19 @@
      [
       "9.2.1172",
       "9.2.1176",
+      2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1176",
+      "9.2.1178",
       2
      ]
     ]
@@ -34678,6 +34691,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.7",
+      "7.2.0",
+      1
+     ]
+    ]
    }
   ],
   "zoom-video-communications-inc-zoom-vdi-universal-plugin": [
@@ -34999,7 +35025,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261013_062751_AppCatalog.json",
+ "history_through": "20261013_190830_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -35008,8 +35034,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "f6507338c295af817b068d75463e86bb68193043",
-   "hash": "aa5f871d53157b5de79068cd147dd53356fba764",
+   "exact": "b34a47816800fa62d5d60373b283522cdcfd39d2",
+   "hash": "7f7a354dd38a205f0a4ce913b544cce17008ac2d",
    "lastmod": "2026-10-13"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -36688,9 +36714,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/harman-international-adobe-air.html": {
-   "exact": "ab32bb0ab5b4200c17b4c4069c95fa65d9fe5da2",
-   "hash": "ab32bb0ab5b4200c17b4c4069c95fa65d9fe5da2",
-   "lastmod": "2026-08-27"
+   "exact": "bc842adeeb8e80545fb893cd1baf9adc462a2166",
+   "hash": "bc842adeeb8e80545fb893cd1baf9adc462a2166",
+   "lastmod": "2026-10-13"
   },
   "https://eam.drung.dev/apps/hashicorp-vagrant.html": {
    "exact": "01ccdd211352b297966ddc5396a62eef3c75dd7a",
@@ -39333,9 +39359,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "6cb86e1fbead7c49aa38e70de824be8143547dba",
-   "hash": "6cb86e1fbead7c49aa38e70de824be8143547dba",
-   "lastmod": "2026-10-12"
+   "exact": "e4bc66c247aad9f06f1cf96ff7044946f229201b",
+   "hash": "e4bc66c247aad9f06f1cf96ff7044946f229201b",
+   "lastmod": "2026-10-13"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",
@@ -39618,9 +39644,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/zoom-video-communications-inc-zoom-rooms.html": {
-   "exact": "564c5664b5108e3d981849c178948530b95a80a1",
-   "hash": "564c5664b5108e3d981849c178948530b95a80a1",
-   "lastmod": "2026-09-18"
+   "exact": "9f35990c0e050af88a545b8b8e81479b70efc39a",
+   "hash": "9f35990c0e050af88a545b8b8e81479b70efc39a",
+   "lastmod": "2026-10-13"
   },
   "https://eam.drung.dev/apps/zoom-video-communications-inc-zoom-vdi-universal-plugin.html": {
    "exact": "300804544fd1fc5cb886970c71ab45fc658d1bb7",
