@@ -6335,6 +6335,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.8.2100.0",
+      "26.8.2110.0",
+      1
+     ]
+    ]
    }
   ],
   "cockos-incorporated-reaper": [
@@ -15427,6 +15440,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.0.931.2",
+      "6.0.932.1",
+      1
+     ]
+    ]
    }
   ],
   "interpromo-gmbh-4k-video-downloader-2": [
@@ -19095,6 +19121,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.15.2",
+      "4.16.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-azure-powershell": [
@@ -19325,6 +19364,19 @@
      [
       "5.2.1037.0",
       "5.2.1040.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.2.1040.0",
+      "5.2.1210.0",
       1
      ]
     ]
@@ -27471,6 +27523,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.5.27.3934",
+      "4.5.28.3936",
+      1
+     ]
+    ]
    }
   ],
   "rakuten-kobo-inc-kobo": [
@@ -34934,7 +34999,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261012_210945_AppCatalog.json",
+ "history_through": "20261013_062751_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -34943,9 +35008,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "6129af7f6f06dceb476e4a50faced1654d252f61",
-   "hash": "b20d031c183c93cddf62ea9a2bced31cfc0084a7",
-   "lastmod": "2026-10-12"
+   "exact": "f6507338c295af817b068d75463e86bb68193043",
+   "hash": "aa5f871d53157b5de79068cd147dd53356fba764",
+   "lastmod": "2026-10-13"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -35778,9 +35843,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cloudflare-inc-cloudflare-one-client.html": {
-   "exact": "2677924c1ae44d90d2bece25faceb061dc929fe8",
-   "hash": "2677924c1ae44d90d2bece25faceb061dc929fe8",
-   "lastmod": "2026-10-08"
+   "exact": "09f2e8abc77547a76ff165f119c32eea50ffac9d",
+   "hash": "09f2e8abc77547a76ff165f119c32eea50ffac9d",
+   "lastmod": "2026-10-13"
   },
   "https://eam.drung.dev/apps/cockos-incorporated-reaper.html": {
    "exact": "62ddd69a7eb03977f0c274efd84238d4c04bff82",
@@ -36753,9 +36818,9 @@
    "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/international-geogebra-institute-geogebra-6.html": {
-   "exact": "19792f5723143ae0c2ad06a15cea0f291407059b",
-   "hash": "19792f5723143ae0c2ad06a15cea0f291407059b",
-   "lastmod": "2026-10-07"
+   "exact": "942b80a9fc99db9e0512a545a7479fc5ee3e054c",
+   "hash": "942b80a9fc99db9e0512a545a7479fc5ee3e054c",
+   "lastmod": "2026-10-13"
   },
   "https://eam.drung.dev/apps/interpromo-gmbh-4k-video-downloader-2.html": {
    "exact": "423ffe0573b192edb0096671035b9e11badae56d",
@@ -37353,9 +37418,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-azure-functions-core-tools.html": {
-   "exact": "d0b952cca6e4da7697ffcc0fab15ab3a2c0f7f48",
-   "hash": "d0b952cca6e4da7697ffcc0fab15ab3a2c0f7f48",
-   "lastmod": "2026-10-02"
+   "exact": "1166edd610bb5479cd7ecdf5400c23f964c8fa64",
+   "hash": "1166edd610bb5479cd7ecdf5400c23f964c8fa64",
+   "lastmod": "2026-10-13"
   },
   "https://eam.drung.dev/apps/microsoft-azure-powershell.html": {
    "exact": "f1e070c9433b4ccaf5cca9c1449c0aa1eca17a99",
@@ -37383,9 +37448,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/microsoft-corporation-remote-help.html": {
-   "exact": "e6ee37a62482267be1a06210647a11953f7a634a",
-   "hash": "e6ee37a62482267be1a06210647a11953f7a634a",
-   "lastmod": "2026-08-27"
+   "exact": "bd00a8110cd3ac9a47ee7fd81ce3244fd41b90ff",
+   "hash": "bd00a8110cd3ac9a47ee7fd81ce3244fd41b90ff",
+   "lastmod": "2026-10-13"
   },
   "https://eam.drung.dev/apps/microsoft-defender-for-endpoint-plug-in-for-wsl.html": {
    "exact": "55ea48030f2403ed21412e0fa7ee9cfc5df772c5",
@@ -38393,9 +38458,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/rainmeter.html": {
-   "exact": "3be524eb022c191102127ee6cdadd225920bb963",
-   "hash": "3be524eb022c191102127ee6cdadd225920bb963",
-   "lastmod": "2026-10-07"
+   "exact": "530d682a5f38af8bdf0b1976f6e23402f2514c5e",
+   "hash": "530d682a5f38af8bdf0b1976f6e23402f2514c5e",
+   "lastmod": "2026-10-13"
   },
   "https://eam.drung.dev/apps/raising-the-floor-us-inc-morphic.html": {
    "exact": "6021123b397acf448010285cb68eff98b9dd61ba",
