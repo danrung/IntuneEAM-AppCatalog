@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261015_041133_AppCatalog.json` (exported 2026-10-15 04:11:33)  
-> **vs:** `20261014_165732_AppCatalog.json` (exported 2026-10-14 16:57:32)  
-> **Span:** 11 hours between exports  
-> **Generated:** 2026-10-15 04:12 UTC
+> **Comparing:** `20261015_164415_AppCatalog.json` (exported 2026-10-15 16:44:15)  
+> **vs:** `20261015_041133_AppCatalog.json` (exported 2026-10-15 04:11:33)  
+> **Span:** 12 hours between exports  
+> **Generated:** 2026-10-15 16:44 UTC
 
 ## Summary
 
@@ -11,24 +11,13 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 14 |
+| 🔄 Updated | 3 |
 
-## 🔄 Updated (14 packages)
+## 🔄 Updated (3 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Autodesk Inc. | Autodesk Access | Autodesk Access | `2.24.0.563` | `2.24.0.564` | Version |
-| Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.4.1` | `2026.5.0` | Version |
-| Datadog | Datadog Agent | Datadog Agent | `7.84.2` | `7.84.3` | Version |
-| Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.9.1` | `26.10.0` | Version |
-| Keeper | Keeper | Keeper | `18.6.4.0` | `18.6.5.0` | Version |
-| Lansweeper | Lansweeper | Lansweeper | `12.9.2.4` | `13.0.0.2` | Version |
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.141.1` | `1.141.2` | Version |
-| Node.js Foundation | Node.js | Node.js 26 (x64) | `26.11.1` | `26.12.0` | Version |
-| Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.18.2` | `4.18.3` | Version |
-| Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.153.5` | `2.154.4` | Version |
-| SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3332.0` | `10.0.3333.0` | Version |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1178` | `9.2.1186` | Version |
-| Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.8` | `4.14.9` | Version |
-| Zandar Labs SL | Aptakube | Aptakube | `1.21.2` | `1.21.3` | Version |
+| Autodesk Inc. | Autodesk Identity Manager | Autodesk Identity Manager | `1.21.0.9` | `1.19.2.0` | Version |
+| Box | Box Drive | Box Drive (x64) | `2.54.169` | `2.55.140` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1186` | `9.2.1192` | Version |
 
