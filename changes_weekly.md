@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261016_040716_AppCatalog.json` (exported 2026-10-16 04:07:16)  
-> **vs:** `20261008_184403_AppCatalog.json` (exported 2026-10-08 18:44:03)  
+> **Comparing:** `20261016_162640_AppCatalog.json` (exported 2026-10-16 16:26:40)  
+> **vs:** `20261009_054139_AppCatalog.json` (exported 2026-10-09 05:41:39)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-10-16 04:07 UTC
+> **Generated:** 2026-10-16 16:27 UTC
 
 ## Summary
 
@@ -11,13 +11,12 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 200 |
+| 🔄 Updated | 193 |
 
-## 🔄 Updated (200 packages)
+## 🔄 Updated (193 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Akiflow | Akiflow | Akiflow | `2.81.8` | `2.83.8` | Version |
 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.167.0` | `1.169.0` | Version |
 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.835.0` | `1.2.896.0` | Version |
 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.34.1.2887` | `5.35.0.3249` | Version |
@@ -29,14 +28,12 @@
 | Box | Box Drive | Box Drive (x64) | `2.54.169` | `2.55.140` | Version |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.97.56` | `1.97.57` | Version |
 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `24.0` | `24.1` | Version |
-| Cisco Systems, Inc. | Cisco Jabber 15 | Cisco Jabber 15 | `15.3.0.61167` | `15.3.1.61358` | Version |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.9.0.35800` | `46.10.0.36042` | Version |
 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.4.1` | `2026.5.0` | Version |
 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.8.2100.0` | `26.8.2110.0` | Version |
 | Code Sector | TeraCopy for Windows | TeraCopy for Windows | `4.0.3.2` | `4.0.5` | Version |
-| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9776.32395` | `7.1.9779.1158` | Version |
+| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9776.39015` | `7.1.9779.1158` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.84.2` | `7.84.3` | Version |
-| DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.3` | `26.2.4` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.12.0` | `2026.3.13.0` | Version |
 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.12.0` | `2026.3.13.0` | Version |
 | dnGrep | dnGrep | dnGrep (x64) | `5.0.57.0` | `5.0.65.0` | Version |
@@ -44,14 +41,13 @@
 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.9.1` | `26.10.0` | Version |
 | draw.io | draw.io Desktop | draw.io Desktop | `31.7.0` | `32.4.1` | Version |
 | dRofus | dRofus | dRofus | `2.18.17.0` | `2.18.18.0` | Version |
-| Dropbox | Dropbox | Dropbox (x64) (MSI) | `274.4.4841` | `275.4.3565` | Version |
 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `274.4.4841` | `275.4.3565` | Version |
+| Dropbox | Dropbox | Dropbox (x64) (MSI) | `274.4.4841` | `275.4.3565` | Version |
 | Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.7.1.207` | `4.7.2.208` | Version |
 | Evernote | Evernote | Evernote | `11.37.5` | `11.38.5` | Version |
 | Freedom Scientific | Fusion | Fusion 2026 (x64) | `2026.2608.3.400` | `2026.2609.11.400` | Version |
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (MSI) | `3.77.0` | `3.80.0` | Version |
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.77.0` | `3.80.0` | Version |
-| geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.31.0` | `11.31.1` | Version |
 | HARMAN International | Adobe AIR | Adobe AIR | `51.3.3.1` | `51.4.1.2` | Version |
 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.11.0` | `2.11.13.0` | Version |
 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.931.2` | `5.4.932.1` | Version |
@@ -72,20 +68,20 @@
 | Microsoft | Microsoft Analysis Services OLE DB Provider | Microsoft Analysis Services OLE DB Provider (x64) | `18.0.291.0` | `18.0.326.0` | Version |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `156.0.4314.8` | `156.0.4314.23` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `157.0.4322.0` | `157.0.4329.0` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Polish) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (German) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (English) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Russian) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Japanese) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (French) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Spanish) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Korean) (x64) | `18.7.5` | `18.7.6` | Version |
-| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Turkish) (x64) | `18.7.5` | `18.7.6` | Version |
 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Italian) (x64) | `18.7.5` | `18.7.6` | Version |
 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Czech) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Polish) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (French) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Korean) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (English) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Turkish) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Russian) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (German) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Spanish) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.7.5` | `18.7.6` | Version |
+| Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Japanese) (x64) | `18.7.5` | `18.7.6` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.173.0906.0008` | `26.178.0913.0007` | Version |
 | Microsoft | Microsoft Purview Information Protection client | Purview Information Protection client | `3.2.92.0` | `3.2.173.0` | Version |
 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.10.2` | `22.11.0` | Version |
@@ -97,118 +93,115 @@
 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37710.0` | `17.14.37806.7` | Version |
 | Microsoft Corporation | Remote Help | Remote Help (x64) (exe) | `5.2.1040.0` | `5.2.1210.0` | Version |
 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.10.51501` | `2026.10.121159` | Version |
-| monday.com Ltd | monday | monday | `1.0.45.0` | `1.0.46.0` | Version |
 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.52.0` | `1.53.0` | Version |
 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.52.0` | `1.53.0` | Version |
 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.52.0` | `1.53.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `157.0.1` | `158.0` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `157.0.1` | `158.0` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `157.0.1` | `158.0` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `157.0.1` | `158.0` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `157.0.1` | `158.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Polish) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Czech) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Italian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Lithuanian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Korean) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Romanian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Malay) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hungarian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish Mexico) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Ukrainian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English UK) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Russian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English US) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hebrew) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Japanese) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Latvian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hindi) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Swedish) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese Brazilian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Estonian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Croatian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovenian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Thai) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Greek) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovak) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (French) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Traditional) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Basque) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Dutch) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (African) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Norwegian Nynorsk) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Finnish) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Galician) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `157.0.1` | `158.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `157.0.1` | `158.0` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Vietnamese) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Danish) (x64) | `115.42.0` | `115.43.0` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Arabic) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Indonesian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Norwegian Bokmål) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Serbian) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (German) (x64) | `115.42.0` | `115.43.0` | Version |
-| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Kazakh) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Greek) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (French) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Croatian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovak) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Czech) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Danish) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Finnish) (x64) | `115.42.0` | `115.43.0` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Turkish) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Ukrainian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Norwegian Bokmål) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Norwegian Nynorsk) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Italian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hebrew) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hindi) (x64) | `115.42.0` | `115.43.0` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Simplified) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovenian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Japanese) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Thai) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Basque) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (African) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Serbian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Malay) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Traditional) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Lithuanian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English US) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Polish) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (German) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Romanian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Estonian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Russian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English UK) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish Mexico) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Indonesian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Galician) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Dutch) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Korean) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Kazakh) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Latvian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese Brazilian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hungarian) (x64) | `115.42.0` | `115.43.0` | Version |
+| Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Swedish) (x64) | `115.42.0` | `115.43.0` | Version |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.5.20261005` | `35.0.0.20261012` | Version |
 | NICE Software | Amazon DCV Client | Amazon DCV Client | `25.0.9800.0` | `26.0.13455.0` | Version |
 | Node.js Foundation | Node.js | Node.js 26 (x64) | `26.11.1` | `26.12.0` | Version |
 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 24.1 | `24.1.10.76610` | `24.1.11.76720` | Version |
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 24.1 | `24.1.10.76611` | `24.1.11.76721` | Version |
-| Password Safe | Password Safe 3 | Password Safe 3 (x64) | `3.72.2` | `3.73.0` | Version |
 | PDFgear | PDFgear | PDFgear | `2.1.20` | `3.0.0` | Version |
 | Private Internet Access Inc. | Private Internet Access | Private Internet Access (x64) | `3.7.2` | `3.8` | Version |
 | Rainmeter | Rainmeter | Rainmeter | `4.5.27.3934` | `4.5.28.3936` | Version |
 | Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.17.4` | `4.18.3` | Version |
 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.153.5` | `2.154.4` | Version |
 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3331.0` | `10.0.3333.0` | Version |
-| SonicWall | SonicWall Connect Tunnel | SonicWall Connect Tunnel (x64) | `12.5.0.247` | `12.5.0.1108` | Version |
 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.5` | `8.4.8` | Version |
 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.32.0.827` | `1.33.0.839` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1172` | `9.2.1192` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1172` | `9.2.1193` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1172` | `9.2.1186` | Version |
 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.135.06055` | `1.140.06880` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.5` | `6.7.6` | Version |

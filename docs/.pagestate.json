@@ -33330,24 +33330,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-06-09",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0597",
-      "9.2.0602",
-      1
-     ],
-     [
-      "9.2.0602",
-      "9.2.0604",
-      2
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-11",
     "fields": [],
     "removed": 0,
@@ -33711,6 +33693,19 @@
      [
       "9.2.1186",
       "9.2.1192",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1192",
+      "9.2.1193",
       1
      ]
     ]
@@ -35747,7 +35742,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261016_040716_AppCatalog.json",
+ "history_through": "20261016_162640_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -35756,8 +35751,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "ee3aa8e0ad1ac96a1c2be95ef963fc5ae6726b2e",
-   "hash": "d96590d99bf7bc6412b5625d96e53045ff2c0d32",
+   "exact": "6852439bec2e6f259e1f0829acc4af10dd69ad35",
+   "hash": "be10b541f24a806aeb79a91b46281020f537a2bb",
    "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -40081,9 +40076,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "7c75f6f924941b46b8f5865edb1a69a318f63272",
-   "hash": "7c75f6f924941b46b8f5865edb1a69a318f63272",
-   "lastmod": "2026-10-15"
+   "exact": "fc754e67edc70314c2918915732fbc87704efd2f",
+   "hash": "fc754e67edc70314c2918915732fbc87704efd2f",
+   "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",
