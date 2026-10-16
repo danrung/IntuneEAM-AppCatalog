@@ -4562,19 +4562,6 @@
   "brave-software-inc-brave-browser": [
    {
     "added": 0,
-    "date": "2026-05-30",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.90.124",
-      "1.90.128",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-05",
     "fields": [],
     "removed": 0,
@@ -4868,6 +4855,19 @@
      [
       "1.96.61",
       "1.97.56",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.97.56",
+      "1.97.57",
       1
      ]
     ]
@@ -18336,6 +18336,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.15.62.0",
+      "3.15.80.0",
+      1
+     ]
+    ]
    }
   ],
   "logitech-options": [
@@ -18498,6 +18511,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.3.5702",
+      "1.3.5714",
+      1
+     ]
+    ]
    }
   ],
   "logmein-hamachi": [
@@ -18577,6 +18603,19 @@
      [
       "4.1.16212",
       "4.1.16226",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.1.16226",
+      "4.1.16248",
       1
      ]
     ]
@@ -18767,6 +18806,19 @@
      [
       "6.2.2",
       "6.3.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.3.0",
+      "6.3.1",
       1
      ]
     ]
@@ -22508,19 +22560,6 @@
   "microsoft-visual-studio-code": [
    {
     "added": 0,
-    "date": "2026-06-18",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.124.2",
-      "1.125.0",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-20",
     "fields": [],
     "removed": 0,
@@ -22819,6 +22858,19 @@
      [
       "1.141.1",
       "1.141.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.141.2",
+      "1.142.0",
       1
      ]
     ]
@@ -27690,6 +27742,19 @@
      [
       "3.7",
       "3.7.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.7.2",
+      "3.8",
       1
      ]
     ]
@@ -34810,19 +34875,6 @@
   "zandar-labs-sl-aptakube": [
    {
     "added": 0,
-    "date": "2026-07-03",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.18.1",
-      "1.18.2",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-04",
     "fields": [],
     "removed": 0,
@@ -35116,6 +35168,19 @@
      [
       "1.21.2",
       "1.21.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-16",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.21.3",
+      "1.21.4",
       1
      ]
     ]
@@ -35682,7 +35747,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261015_164415_AppCatalog.json",
+ "history_through": "20261016_040716_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -35691,9 +35756,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "e94e8b33ffe3ebc79803e573b51f941e02e8966f",
-   "hash": "4c66397567c0baabebde064682ca00ac9d913a4d",
-   "lastmod": "2026-10-15"
+   "exact": "ee3aa8e0ad1ac96a1c2be95ef963fc5ae6726b2e",
+   "hash": "d96590d99bf7bc6412b5625d96e53045ff2c0d32",
+   "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -36311,9 +36376,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "59a58b6bc2923ba9a2d44625602aee872a6a1469",
-   "hash": "59a58b6bc2923ba9a2d44625602aee872a6a1469",
-   "lastmod": "2026-10-08"
+   "exact": "8d431df7e0f27ad3370e699c3baf9bfa68a83530",
+   "hash": "8d431df7e0f27ad3370e699c3baf9bfa68a83530",
+   "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "f05b6b1175f1470b9fee50fcad7408888d0cc0c0",
@@ -37836,9 +37901,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/logitech-logi-tune.html": {
-   "exact": "7032e7558ac7167a7cf1ed260caa47d149dabaa6",
-   "hash": "7032e7558ac7167a7cf1ed260caa47d149dabaa6",
-   "lastmod": "2026-09-11"
+   "exact": "63a0e1fd7eb9feccc747d246d43d65a7ee9e8277",
+   "hash": "63a0e1fd7eb9feccc747d246d43d65a7ee9e8277",
+   "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/logitech-options.html": {
    "exact": "8d4d15114c51e26012aa713245b5461bb29d04d8",
@@ -37861,9 +37926,9 @@
    "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/logmein-client.html": {
-   "exact": "051a3253d4aff0542ad0d12b3d6077e4cbee76bf",
-   "hash": "051a3253d4aff0542ad0d12b3d6077e4cbee76bf",
-   "lastmod": "2026-09-04"
+   "exact": "3e233197962ba833608baa9db8f069ed0aacdd47",
+   "hash": "3e233197962ba833608baa9db8f069ed0aacdd47",
+   "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/logmein-gotomeeting-it-installer.html": {
    "exact": "86659b2f4d50c753e2f2a43296b6a45e84b4c203",
@@ -37881,9 +37946,9 @@
    "lastmod": "2026-10-02"
   },
   "https://eam.drung.dev/apps/logmein-host.html": {
-   "exact": "c1ce178ed00680a6885a4fb4fbd3571511c5f97d",
-   "hash": "c1ce178ed00680a6885a4fb4fbd3571511c5f97d",
-   "lastmod": "2026-09-04"
+   "exact": "0a426633a561a40fb2ebab0920f14de3411f797d",
+   "hash": "0a426633a561a40fb2ebab0920f14de3411f797d",
+   "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/logmein-remotelyanywhere.html": {
    "exact": "ee889ed68d16148c3bcbd456299822d581fa0fcc",
@@ -37981,9 +38046,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/mattermost-inc-mattermost-desktop.html": {
-   "exact": "36cc046a602cbeb7013acb053c271342a1f5c598",
-   "hash": "36cc046a602cbeb7013acb053c271342a1f5c598",
-   "lastmod": "2026-08-27"
+   "exact": "837459c3f392c59e696d24a5b1f8999e605dc82d",
+   "hash": "837459c3f392c59e696d24a5b1f8999e605dc82d",
+   "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/maxima-software-pty-ltd-maxcut.html": {
    "exact": "bf2aeff413d2d06d960e8e447f566a41841134cf",
@@ -38426,9 +38491,9 @@
    "lastmod": "2026-10-14"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "6a35cbe3c75d569f7f0c66a093d8882a26e715d3",
-   "hash": "6a35cbe3c75d569f7f0c66a093d8882a26e715d3",
-   "lastmod": "2026-10-15"
+   "exact": "543ffee8e7cad3fa5bb3ae644e6954da36fb1e3d",
+   "hash": "543ffee8e7cad3fa5bb3ae644e6954da36fb1e3d",
+   "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "8b8526f38659f91df9f17728bd9ad7581098b7ea",
@@ -39056,9 +39121,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/private-internet-access-inc-private-internet-access.html": {
-   "exact": "01173538bd6ec85f213d6e96aa8675ba6fa02e9d",
-   "hash": "01173538bd6ec85f213d6e96aa8675ba6fa02e9d",
-   "lastmod": "2026-08-28"
+   "exact": "448e27913a1581566be9db0cb77c6c43d7cbfe7c",
+   "hash": "448e27913a1581566be9db0cb77c6c43d7cbfe7c",
+   "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/proton-ag-proton-vpn.html": {
    "exact": "32d70e4c898ca3450ecb4e8d0c1792cbdbc7c215",
@@ -40266,9 +40331,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "05cecea5fc3d4367713c24c89244c1647e31a2ff",
-   "hash": "05cecea5fc3d4367713c24c89244c1647e31a2ff",
-   "lastmod": "2026-10-15"
+   "exact": "00bde650f2178644eabc1b2da710ef66bb5a932c",
+   "hash": "00bde650f2178644eabc1b2da710ef66bb5a932c",
+   "lastmod": "2026-10-16"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",
