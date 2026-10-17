@@ -2552,6 +2552,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.127.38181.0",
+      "1.128.38292.0",
+      1
+     ]
+    ]
    }
   ],
   "ascensio-system-sia-avs-image-converter": [
@@ -8771,6 +8784,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.10.0",
+      "2026.3.15.0",
+      1
+     ],
+     [
+      "2026.3.13.0",
+      "2026.3.15.0",
+      1
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager": [
@@ -9000,6 +9031,19 @@
      [
       "2026.3.12.0",
       "2026.3.13.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.13.0",
+      "2026.3.15.0",
       1
      ]
     ]
@@ -18148,6 +18192,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.1.22",
+      "8.2.16",
+      1
+     ]
+    ]
    }
   ],
   "laurent-cozic-joplin": [
@@ -19816,19 +19873,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-07-30",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "151.0.4129.50",
-      "151.0.4129.54",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-08-04",
     "fields": [],
     "removed": 0,
@@ -20122,6 +20166,19 @@
      [
       "156.0.4314.15",
       "156.0.4314.23",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "156.0.4314.23",
+      "156.0.4314.30",
       1
      ]
     ]
@@ -21499,6 +21556,19 @@
      [
       "2.158.1177.0",
       "2.158.1304.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.158.1304.0",
+      "2.159.883.0",
       1
      ]
     ]
@@ -24836,6 +24906,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.81.0",
+      "0.81.2",
+      1
+     ]
+    ]
    }
   ],
   "networkmanager": [
@@ -26374,6 +26457,19 @@
      [
       "5.0",
       "5.0.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.0.1",
+      "5.0.2",
       1
      ]
     ]
@@ -33330,29 +33426,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-06-11",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0604",
-      "9.2.0612",
-      1
-     ],
-     [
-      "9.2.0612",
-      "9.2.0620",
-      1
-     ],
-     [
-      "9.2.0604",
-      "9.2.0620",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-17",
     "fields": [],
     "removed": 0,
@@ -33706,6 +33779,24 @@
      [
       "9.2.1192",
       "9.2.1193",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1186",
+      "9.2.1202",
+      1
+     ],
+     [
+      "9.2.1193",
+      "9.2.1202",
       1
      ]
     ]
@@ -35742,7 +35833,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261016_162640_AppCatalog.json",
+ "history_through": "20261017_035739_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -35751,9 +35842,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "6852439bec2e6f259e1f0829acc4af10dd69ad35",
-   "hash": "be10b541f24a806aeb79a91b46281020f537a2bb",
-   "lastmod": "2026-10-16"
+   "exact": "4c1e512bfa01cfc13cc7f31b184d54234c605a08",
+   "hash": "dd30945cd8f9b7170af1c7add64777f931f16837",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -36021,9 +36112,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/articulate-360.html": {
-   "exact": "817a61c22b9eab3d6fe15e57d70e51a41a37a774",
-   "hash": "817a61c22b9eab3d6fe15e57d70e51a41a37a774",
-   "lastmod": "2026-09-30"
+   "exact": "a9c979f470fb6df3208ad49522a0d3dc685c7806",
+   "hash": "a9c979f470fb6df3208ad49522a0d3dc685c7806",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/articulate-replay-360.html": {
    "exact": "20797f80c91578173ba923d8644d7d5e178225c1",
@@ -36786,9 +36877,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html": {
-   "exact": "e9cd166a6f71914b7fb49547bd83a0c3719dd7fb",
-   "hash": "e9cd166a6f71914b7fb49547bd83a0c3719dd7fb",
-   "lastmod": "2026-10-09"
+   "exact": "c2e76a75eb4888e258363c5e19acbf4a9f1f87be",
+   "hash": "c2e76a75eb4888e258363c5e19acbf4a9f1f87be",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html": {
    "exact": "c162eaba79751b32e3666085748e8c7c79b707c3",
@@ -36796,9 +36887,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html": {
-   "exact": "05b9244dbf764c4f995027e35e0cc6d9e1dbcffd",
-   "hash": "05b9244dbf764c4f995027e35e0cc6d9e1dbcffd",
-   "lastmod": "2026-10-09"
+   "exact": "ffb6139eeb248514cbac7afcd168d7b89e1a6635",
+   "hash": "ffb6139eeb248514cbac7afcd168d7b89e1a6635",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-workspace.html": {
    "exact": "cab5c26bfe4145300e51e79ac3157fe33a2a2e3b",
@@ -37826,9 +37917,9 @@
    "lastmod": "2026-10-15"
   },
   "https://eam.drung.dev/apps/lark-technologies-pte-ltd-lark-deployment-tool.html": {
-   "exact": "1a4135fddc3da27a1d84cb30d93378f67c3ade01",
-   "hash": "1a4135fddc3da27a1d84cb30d93378f67c3ade01",
-   "lastmod": "2026-10-01"
+   "exact": "511cd560919285ec1802bb73a3d546bfcbad6536",
+   "hash": "511cd560919285ec1802bb73a3d546bfcbad6536",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/lastpass.html": {
    "exact": "c376fb3fcd8abddc7939d02efb1090dbae7d9c65",
@@ -38206,9 +38297,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "f961d7c02539e2b65deaf8c95d2f135b7555aae8",
-   "hash": "f961d7c02539e2b65deaf8c95d2f135b7555aae8",
-   "lastmod": "2026-10-14"
+   "exact": "9edc55e6ee8f6ee86c543340961c644afefcb136",
+   "hash": "9edc55e6ee8f6ee86c543340961c644afefcb136",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "b9c29c690b5dbbad9b6a1d7018344c245d7776dc",
@@ -38331,9 +38422,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-power-bi-desktop.html": {
-   "exact": "bb37594af9a94e6ce8e0ffa7ab74f07da006ec79",
-   "hash": "bb37594af9a94e6ce8e0ffa7ab74f07da006ec79",
-   "lastmod": "2026-10-08"
+   "exact": "2d527d0ac69c3e80a96fafe415094e7f56a52ab6",
+   "hash": "2d527d0ac69c3e80a96fafe415094e7f56a52ab6",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/microsoft-powershell-core.html": {
    "exact": "4ca509ee8d11cc6d7e0f59969ed8c249d8945f21",
@@ -38691,9 +38782,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/netbird-gmbh-netbird.html": {
-   "exact": "987ab0959464d228a777d209cc145b562d073592",
-   "hash": "987ab0959464d228a777d209cc145b562d073592",
-   "lastmod": "2026-10-08"
+   "exact": "3c591c5f57b7af398a2ec7a985051db05c06aa13",
+   "hash": "3c591c5f57b7af398a2ec7a985051db05c06aa13",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/netsetman-gmbh-netsetman.html": {
    "exact": "4452cad32918981d8e3791d483203c293ce29657",
@@ -38856,9 +38947,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/openaudible-org-openaudible.html": {
-   "exact": "20a568b553d702154b4a6044791a7aeebb85b212",
-   "hash": "20a568b553d702154b4a6044791a7aeebb85b212",
-   "lastmod": "2026-10-07"
+   "exact": "9a8f12f21e47b6d5ec4d6694c70b1260192ef13a",
+   "hash": "9a8f12f21e47b6d5ec4d6694c70b1260192ef13a",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/opendns-umbrella-roaming-client.html": {
    "exact": "625486ba83afe834a20a39d68f22038ef69c9a99",
@@ -40076,9 +40167,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "fc754e67edc70314c2918915732fbc87704efd2f",
-   "hash": "fc754e67edc70314c2918915732fbc87704efd2f",
-   "lastmod": "2026-10-16"
+   "exact": "a73a1f98fcd82da0d53cf0419cdac620e4b46225",
+   "hash": "a73a1f98fcd82da0d53cf0419cdac620e4b46225",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",
