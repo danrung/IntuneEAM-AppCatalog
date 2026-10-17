@@ -27448,6 +27448,21 @@
     ]
    }
   ],
+  "pinjan-teamdrive": [
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.2.2.3715",
+      "5.3.0.3927",
+      1
+     ]
+    ]
+   }
+  ],
   "plangrid-inc-plangrid": [
    {
     "added": 0,
@@ -29463,6 +29478,15 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-17",
+    "fields": [
+     "Branch"
+    ],
+    "removed": 0,
+    "versions": []
    }
   ],
   "secrypt-mgbh-digiseal-reader": [
@@ -35833,7 +35857,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261017_035739_AppCatalog.json",
+ "history_through": "20261017_152106_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -35842,8 +35866,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "4c1e512bfa01cfc13cc7f31b184d54234c605a08",
-   "hash": "dd30945cd8f9b7170af1c7add64777f931f16837",
+   "exact": "101aca0c923d7313ea2e0b4982c367894aa62fc0",
+   "hash": "d7e393d45de1a1c2af9ea02d941486a3df5422aa",
    "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -39137,9 +39161,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/pinjan-teamdrive.html": {
-   "exact": "ad6fdd3060a5ed27b5144e9af00ec57dda5eec84",
-   "hash": "ad6fdd3060a5ed27b5144e9af00ec57dda5eec84",
-   "lastmod": "2026-08-27"
+   "exact": "49a18ef0c7c1547994a80feea9e55b6811528653",
+   "hash": "49a18ef0c7c1547994a80feea9e55b6811528653",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/piriform-ltd-defraggler.html": {
    "exact": "bc63ec95cb7bcb9cd9271f5bc9ff0454c675097e",
@@ -39422,9 +39446,9 @@
    "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/scooter-software-inc-beyond-compare.html": {
-   "exact": "474e8cebbf95c4c19b10954ab508e478d0a21d1e",
-   "hash": "474e8cebbf95c4c19b10954ab508e478d0a21d1e",
-   "lastmod": "2026-09-25"
+   "exact": "22fab281360e4d2b4112c00aec6f35a808d687e0",
+   "hash": "22fab281360e4d2b4112c00aec6f35a808d687e0",
+   "lastmod": "2026-10-17"
   },
   "https://eam.drung.dev/apps/screenbeam-inc-screenbeam-conference.html": {
    "exact": "b6ebd6fca1e4c0bff094d03b3cfef8f85df69313",
