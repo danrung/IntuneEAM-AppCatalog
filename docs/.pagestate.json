@@ -2018,6 +2018,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.0.2",
+      "6.0.6",
+      1
+     ]
+    ]
    }
   ],
   "android-studio-2022": [
@@ -3057,6 +3070,19 @@
      [
       "1.21.0.9",
       "1.19.2.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.19.2.0",
+      "1.21.1.5",
       1
      ]
     ]
@@ -4353,6 +4379,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.1.6.4131",
+      "8.1.7.4304",
+      1
+     ]
+    ]
    }
   ],
   "box-cli": [
@@ -4573,19 +4612,6 @@
    }
   ],
   "brave-software-inc-brave-browser": [
-   {
-    "added": 0,
-    "date": "2026-06-05",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.90.128",
-      "1.91.168",
-      1
-     ]
-    ]
-   },
    {
     "added": 0,
     "date": "2026-06-11",
@@ -4881,6 +4907,19 @@
      [
       "1.97.56",
       "1.97.57",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.97.57",
+      "1.97.59",
       1
      ]
     ]
@@ -8191,6 +8230,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.2",
+      "26.2.3",
+      1
+     ]
+    ]
    }
   ],
   "dbeaver-corp-dbeaver-enterprise": [
@@ -9948,19 +10000,6 @@
   "draw-io-desktop": [
    {
     "added": 0,
-    "date": "2026-04-21",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "29.6.6",
-      "29.7.8",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-11",
     "fields": [],
     "removed": 0,
@@ -10254,6 +10293,19 @@
      [
       "31.7.0",
       "32.4.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "32.4.1",
+      "32.5.5",
       1
      ]
     ]
@@ -21250,6 +21302,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.178.0913.0007",
+      "26.183.0920.0005",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-openjdk": [
@@ -26470,6 +26535,19 @@
      [
       "5.0.1",
       "5.0.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.0.2",
+      "5.0.3",
       1
      ]
     ]
@@ -34985,19 +35063,6 @@
   "zandar-labs-sl-aptakube": [
    {
     "added": 0,
-    "date": "2026-07-04",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.18.2",
-      "1.18.3",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-08",
     "fields": [],
     "removed": 0,
@@ -35291,6 +35356,19 @@
      [
       "1.21.3",
       "1.21.4",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.21.4",
+      "1.21.5",
       1
      ]
     ]
@@ -35857,7 +35935,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261019_041331_AppCatalog.json",
+ "history_through": "20261019_183706_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -35866,9 +35944,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "8217e9d068f8da30b24bd4aace30fc8b81d756b4",
-   "hash": "d7e393d45de1a1c2af9ea02d941486a3df5422aa",
-   "lastmod": "2026-10-17"
+   "exact": "c86dc7f0c3ddc4ba0c9443921a62a3638d706a38",
+   "hash": "a9fda0192192459b50e6a2570dea926ecf6fe64e",
+   "lastmod": "2026-10-19"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -36056,9 +36134,9 @@
    "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/andrew-ziem-bleachbit.html": {
-   "exact": "0c92f427064669dcb15e66b2b891cfe9f06db1fb",
-   "hash": "0c92f427064669dcb15e66b2b891cfe9f06db1fb",
-   "lastmod": "2026-08-27"
+   "exact": "de7a738a1b75c66268a68976daf78f9fb2c67a41",
+   "hash": "de7a738a1b75c66268a68976daf78f9fb2c67a41",
+   "lastmod": "2026-10-19"
   },
   "https://eam.drung.dev/apps/android-studio-2022.html": {
    "exact": "33a7ff8f0156dad05e3fe3a14a7fcb1b3acc4916",
@@ -36206,9 +36284,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/autodesk-inc-autodesk-identity-manager.html": {
-   "exact": "1dfa976ff3cfb61c37ef89adf5a587ccc7abe38d",
-   "hash": "1dfa976ff3cfb61c37ef89adf5a587ccc7abe38d",
-   "lastmod": "2026-10-15"
+   "exact": "17483fdaf24b09eff79a17fe4a9918eccf08eed3",
+   "hash": "17483fdaf24b09eff79a17fe4a9918eccf08eed3",
+   "lastmod": "2026-10-19"
   },
   "https://eam.drung.dev/apps/autodesk-inc-autodesk-interoperability-tools.html": {
    "exact": "2dd6b99863afde9fc93cc9811167704cb95d1c8a",
@@ -36456,9 +36534,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/boris-eyrich-software-artweaver-free.html": {
-   "exact": "a154b24101ca74c7a37477e6b37cb297380afc53",
-   "hash": "a154b24101ca74c7a37477e6b37cb297380afc53",
-   "lastmod": "2026-08-27"
+   "exact": "521acc566ea6d74e50e94042fc10aa2815154ebe",
+   "hash": "521acc566ea6d74e50e94042fc10aa2815154ebe",
+   "lastmod": "2026-10-19"
   },
   "https://eam.drung.dev/apps/botkind-inc-allway-sync.html": {
    "exact": "703853a1e95f7cc5e3fe1c990df7a599a97f5dfc",
@@ -36486,9 +36564,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "8d431df7e0f27ad3370e699c3baf9bfa68a83530",
-   "hash": "8d431df7e0f27ad3370e699c3baf9bfa68a83530",
-   "lastmod": "2026-10-16"
+   "exact": "8e6adfe3d90c16d24c5f3220efd515cc3ca7c8ab",
+   "hash": "8e6adfe3d90c16d24c5f3220efd515cc3ca7c8ab",
+   "lastmod": "2026-10-19"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "f05b6b1175f1470b9fee50fcad7408888d0cc0c0",
@@ -36826,9 +36904,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-community.html": {
-   "exact": "8a09dd508354f10cf326c6d3df54a87d4140b34b",
-   "hash": "8a09dd508354f10cf326c6d3df54a87d4140b34b",
-   "lastmod": "2026-10-05"
+   "exact": "865aeb71ab917b9c4753b25fee6b8da59d4a3b18",
+   "hash": "865aeb71ab917b9c4753b25fee6b8da59d4a3b18",
+   "lastmod": "2026-10-19"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-enterprise.html": {
    "exact": "d417aa08f6a83a82e917e21fa74f9bd13e32c017",
@@ -36961,9 +37039,9 @@
    "lastmod": "2026-10-15"
   },
   "https://eam.drung.dev/apps/draw-io-desktop.html": {
-   "exact": "f16f765a6ed0ff249b2a6ca118cad0c0ae922cc7",
-   "hash": "f16f765a6ed0ff249b2a6ca118cad0c0ae922cc7",
-   "lastmod": "2026-10-14"
+   "exact": "0247f88a626d3a0d774750f39c6f829c86d4b904",
+   "hash": "0247f88a626d3a0d774750f39c6f829c86d4b904",
+   "lastmod": "2026-10-19"
   },
   "https://eam.drung.dev/apps/drofus.html": {
    "exact": "159a24a0640656e1a7e7880e78c3f4842c8d8947",
@@ -38416,9 +38494,9 @@
    "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
-   "exact": "5e17956a84d98beff1beabed4d4e778a643b8cd3",
-   "hash": "5e17956a84d98beff1beabed4d4e778a643b8cd3",
-   "lastmod": "2026-10-12"
+   "exact": "b5884e6b7648219137b208d5cc92774c47e1f97f",
+   "hash": "b5884e6b7648219137b208d5cc92774c47e1f97f",
+   "lastmod": "2026-10-19"
   },
   "https://eam.drung.dev/apps/microsoft-onenote.html": {
    "exact": "4d2f63ac4d65b6b192c7ec10c44dd44c151a0f70",
@@ -38971,9 +39049,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/openaudible-org-openaudible.html": {
-   "exact": "9a8f12f21e47b6d5ec4d6694c70b1260192ef13a",
-   "hash": "9a8f12f21e47b6d5ec4d6694c70b1260192ef13a",
-   "lastmod": "2026-10-17"
+   "exact": "3ce5be3e14710bd3ae3cad34a41738d187898fb8",
+   "hash": "3ce5be3e14710bd3ae3cad34a41738d187898fb8",
+   "lastmod": "2026-10-19"
   },
   "https://eam.drung.dev/apps/opendns-umbrella-roaming-client.html": {
    "exact": "625486ba83afe834a20a39d68f22038ef69c9a99",
@@ -40441,9 +40519,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "00bde650f2178644eabc1b2da710ef66bb5a932c",
-   "hash": "00bde650f2178644eabc1b2da710ef66bb5a932c",
-   "lastmod": "2026-10-16"
+   "exact": "9252216624fca0e3be4cfe7fbd049e7013534f3a",
+   "hash": "9252216624fca0e3be4cfe7fbd049e7013534f3a",
+   "lastmod": "2026-10-19"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",
