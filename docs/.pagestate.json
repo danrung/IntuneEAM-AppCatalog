@@ -772,6 +772,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.29.0",
+      "9.30.2",
+      1
+     ]
+    ]
    }
   ],
   "allplayer-org-allplayer": [
@@ -6099,6 +6112,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "46.9.0.35800",
+      "46.10.0.36042",
+      1
+     ]
+    ]
    }
   ],
   "cisco-webex-llc-cisco-webex-recorder-and-player": [
@@ -7635,19 +7661,6 @@
   "datadog-agent": [
    {
     "added": 0,
-    "date": "2026-04-16",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "7.77.3",
-      "7.78.0",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-04-25",
     "fields": [],
     "removed": 0,
@@ -7941,6 +7954,19 @@
      [
       "7.84.2",
       "7.84.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.84.3",
+      "7.84.4",
       1
      ]
     ]
@@ -15021,6 +15047,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "14.6.0",
+      "14.7.0",
+      1
+     ]
+    ]
    }
   ],
   "ideamerit-s-r-o-meteor-modeler": [
@@ -15124,6 +15163,19 @@
      [
       "13.5.0",
       "13.6.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "13.6.0",
+      "13.7.0",
       1
      ]
     ]
@@ -15487,6 +15539,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.11.13.0",
+      "2.11.14.0",
+      1
+     ]
+    ]
    }
   ],
   "inmatrix-zoom-player": [
@@ -15716,6 +15781,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.4.932.1",
+      "5.4.933.1",
+      1
+     ]
+    ]
    }
   ],
   "international-geogebra-institute-geogebra-6": [
@@ -15793,6 +15871,19 @@
      [
       "6.0.931.2",
       "6.0.932.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.0.932.1",
+      "6.0.933.1",
       1
      ]
     ]
@@ -24984,6 +25075,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.81.2",
+      "0.81.3",
+      1
+     ]
+    ]
    }
   ],
   "networkmanager": [
@@ -30513,6 +30617,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.23.0",
+      "1.23.1",
+      1
+     ]
+    ]
    }
   ],
   "smart-projects-isobuster": [
@@ -35935,7 +36052,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261019_183706_AppCatalog.json",
+ "history_through": "20261020_042528_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -35944,9 +36061,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "c86dc7f0c3ddc4ba0c9443921a62a3638d706a38",
-   "hash": "a9fda0192192459b50e6a2570dea926ecf6fe64e",
-   "lastmod": "2026-10-19"
+   "exact": "0ace991788015e82d2bf5efa547b84e3c3dc032e",
+   "hash": "16ca91d44c5de7c22de7230d5fb670041b43109a",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -36039,9 +36156,9 @@
    "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/alfaview-gmbh-alfaview.html": {
-   "exact": "326cb0184bbedf25da688b8d0ba3a16a492f00ef",
-   "hash": "326cb0184bbedf25da688b8d0ba3a16a492f00ef",
-   "lastmod": "2026-08-27"
+   "exact": "732943f401892c226041720b2a586ee0e2fa303a",
+   "hash": "732943f401892c226041720b2a586ee0e2fa303a",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/allplayer-org-allplayer.html": {
    "exact": "d2dab29b1df33f3cb81776e5aba346017cb2b8fe",
@@ -36699,9 +36816,9 @@
    "lastmod": "2026-10-07"
   },
   "https://eam.drung.dev/apps/cisco-webex-llc-cisco-webex-meetings.html": {
-   "exact": "6efde62e7cd256ccb493d26bb598752831631a81",
-   "hash": "6efde62e7cd256ccb493d26bb598752831631a81",
-   "lastmod": "2026-09-08"
+   "exact": "6ce5181a55479f5103a39dce0574137afb70311d",
+   "hash": "6ce5181a55479f5103a39dce0574137afb70311d",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/cisco-webex-llc-cisco-webex-productivity-tools.html": {
    "exact": "8b4edce157b85336741b030f3e0dfef014599b64",
@@ -36884,9 +37001,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/datadog-agent.html": {
-   "exact": "0dd736a0cfa71abbf50700044c9fca816c458fee",
-   "hash": "0dd736a0cfa71abbf50700044c9fca816c458fee",
-   "lastmod": "2026-10-15"
+   "exact": "dfac1564ea7fc378106fd8a6c481cb8052301399",
+   "hash": "dfac1564ea7fc378106fd8a6c481cb8052301399",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/david-kocher-cyberduck.html": {
    "exact": "25f0fab361b2ea8780d10e7c02b7a6c216dd1fb3",
@@ -37679,14 +37796,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ideamerit-s-r-o-luna-modeler.html": {
-   "exact": "4a4b146e806384938739be5967bbfef4cc7b728f",
-   "hash": "4a4b146e806384938739be5967bbfef4cc7b728f",
-   "lastmod": "2026-09-26"
+   "exact": "eaca2466a6f0a8a70814a5c86ae52c4574eef69e",
+   "hash": "eaca2466a6f0a8a70814a5c86ae52c4574eef69e",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/ideamerit-s-r-o-meteor-modeler.html": {
-   "exact": "58665cfbdc4da6ce08eec49e84013c090c60bceb",
-   "hash": "58665cfbdc4da6ce08eec49e84013c090c60bceb",
-   "lastmod": "2026-09-26"
+   "exact": "4bf432034b536a33e51534099e7eb427283a8586",
+   "hash": "4bf432034b536a33e51534099e7eb427283a8586",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/idm-computer-solutions-uestudio.html": {
    "exact": "bd2480a4ce1eb304653c50530bf2b0c855e24204",
@@ -37724,9 +37841,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
-   "exact": "4d3e85cd0f4ab66d878ee91a4b48462bbe5fe757",
-   "hash": "4d3e85cd0f4ab66d878ee91a4b48462bbe5fe757",
-   "lastmod": "2026-10-14"
+   "exact": "86bb379a5a24df9db4ea06c4b4b7b80f879ac222",
+   "hash": "86bb379a5a24df9db4ea06c4b4b7b80f879ac222",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/inkscape.html": {
    "exact": "6c650156d763368a3165c7f4b1a4dc2c4c48fbd2",
@@ -37749,14 +37866,14 @@
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/international-geogebra-institute-geogebra-5.html": {
-   "exact": "5cbe2d01c393355d8f4b0a8360f64225d7880baf",
-   "hash": "5cbe2d01c393355d8f4b0a8360f64225d7880baf",
-   "lastmod": "2026-10-14"
+   "exact": "15bcac439914232f57c588a3826c5890881bc1e9",
+   "hash": "15bcac439914232f57c588a3826c5890881bc1e9",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/international-geogebra-institute-geogebra-6.html": {
-   "exact": "942b80a9fc99db9e0512a545a7479fc5ee3e054c",
-   "hash": "942b80a9fc99db9e0512a545a7479fc5ee3e054c",
-   "lastmod": "2026-10-13"
+   "exact": "8bc4a6e04c0ae7ea6f031b5669ef08536081ad44",
+   "hash": "8bc4a6e04c0ae7ea6f031b5669ef08536081ad44",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/interpromo-gmbh-4k-video-downloader-2.html": {
    "exact": "423ffe0573b192edb0096671035b9e11badae56d",
@@ -38884,9 +39001,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/netbird-gmbh-netbird.html": {
-   "exact": "3c591c5f57b7af398a2ec7a985051db05c06aa13",
-   "hash": "3c591c5f57b7af398a2ec7a985051db05c06aa13",
-   "lastmod": "2026-10-17"
+   "exact": "b3c4ed13448896fe1129f0b4937458c706920a16",
+   "hash": "b3c4ed13448896fe1129f0b4937458c706920a16",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/netsetman-gmbh-netsetman.html": {
    "exact": "4452cad32918981d8e3791d483203c293ce29657",
@@ -39684,9 +39801,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/slido.html": {
-   "exact": "41c0bbb6ba7f17f175684b4ca3581150233968dc",
-   "hash": "41c0bbb6ba7f17f175684b4ca3581150233968dc",
-   "lastmod": "2026-09-16"
+   "exact": "78467a0c0cd1bdc718cd1dd53e403b6b1251aee8",
+   "hash": "78467a0c0cd1bdc718cd1dd53e403b6b1251aee8",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/smart-projects-isobuster.html": {
    "exact": "29f32831307dbea28368bd7bc2bfef83ff4fb3c5",
