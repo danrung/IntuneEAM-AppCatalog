@@ -4114,6 +4114,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "13.6.0",
+      "13.7.0",
+      1
+     ]
+    ]
    }
   ],
   "bizagi-limited-moon-modeler": [
@@ -4217,6 +4230,19 @@
      [
       "13.5.0",
       "13.6.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "13.6.0",
+      "13.7.0",
       1
      ]
     ]
@@ -9732,6 +9758,19 @@
      [
       "4.94.0.241994",
       "4.95.0.242831",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.95.0.242831",
+      "4.96.0.243774",
       1
      ]
     ]
@@ -17962,6 +18001,19 @@
      [
       "3.17.6",
       "3.17.9",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.17.9",
+      "3.18.3",
       1
      ]
     ]
@@ -31314,6 +31366,21 @@
     ]
    }
   ],
+  "squirrels-reflector-4": [
+   {
+    "added": 0,
+    "date": "2026-10-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.1.2",
+      "4.1.3",
+      1
+     ]
+    ]
+   }
+  ],
   "srware-iron": [
    {
     "added": 0,
@@ -36052,7 +36119,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261020_042528_AppCatalog.json",
+ "history_through": "20261020_164157_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -36061,8 +36128,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "0ace991788015e82d2bf5efa547b84e3c3dc032e",
-   "hash": "16ca91d44c5de7c22de7230d5fb670041b43109a",
+   "exact": "9436fcd2944534ddc34d829758b9d14a1e32ed14",
+   "hash": "2b4158b261174a59a8f8bc3601e6804a410f9093",
    "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -36631,14 +36698,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/bizagi-limited-galaxy-modeler.html": {
-   "exact": "a2d7f8286f7d10aaf38f3459800293f8b4d57bc1",
-   "hash": "a2d7f8286f7d10aaf38f3459800293f8b4d57bc1",
-   "lastmod": "2026-09-26"
+   "exact": "875b702bc50c95b87592a130bbae9e6737244df4",
+   "hash": "875b702bc50c95b87592a130bbae9e6737244df4",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/bizagi-limited-moon-modeler.html": {
-   "exact": "5ddeb31941064118b58f1e86d796afd45f451f6c",
-   "hash": "5ddeb31941064118b58f1e86d796afd45f451f6c",
-   "lastmod": "2026-09-26"
+   "exact": "de4b09e3dc2dc85e093b28faf39862b1b396623f",
+   "hash": "de4b09e3dc2dc85e093b28faf39862b1b396623f",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/blender-foundation-blender.html": {
    "exact": "e689209386bf6ed0c05c21c4203f63abfe42d22d",
@@ -37131,9 +37198,9 @@
    "lastmod": "2026-10-14"
   },
   "https://eam.drung.dev/apps/docker-inc-docker-desktop.html": {
-   "exact": "856fc9c88e6591df044c7a2cdcec3548b9ce6fab",
-   "hash": "856fc9c88e6591df044c7a2cdcec3548b9ce6fab",
-   "lastmod": "2026-10-14"
+   "exact": "e3299d373f355bf304bfe08c23f1981788690b85",
+   "hash": "e3299d373f355bf304bfe08c23f1981788690b85",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/dominik-reichl-keepass-password-safe-classic-edition.html": {
    "exact": "2a807271e957308f0916a349a0605a10e79b777e",
@@ -38116,9 +38183,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/krisp.html": {
-   "exact": "a609e322d92ca23c957642de107e7304dc1586d4",
-   "hash": "a609e322d92ca23c957642de107e7304dc1586d4",
-   "lastmod": "2026-10-12"
+   "exact": "0fd8887aa68def33524288ae8a95dc33fe507d28",
+   "hash": "0fd8887aa68def33524288ae8a95dc33fe507d28",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/krita-foundation-krita.html": {
    "exact": "093765fc23642f1933eef6fb9d9c4678a77479a1",
@@ -39921,9 +39988,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/squirrels-reflector-4.html": {
-   "exact": "effec89a3e5b0c511b23dc93e8e5b6b81f1ea364",
-   "hash": "effec89a3e5b0c511b23dc93e8e5b6b81f1ea364",
-   "lastmod": "2026-08-27"
+   "exact": "2e514a2a20ab096b82914a06bb5d938d3e42192c",
+   "hash": "2e514a2a20ab096b82914a06bb5d938d3e42192c",
+   "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/srware-iron.html": {
    "exact": "f01ec9aad876348a97a7b9b92507f368af56905b",

@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261020_042528_AppCatalog.json` (exported 2026-10-20 04:25:28)  
-> **vs:** `20261019_183706_AppCatalog.json` (exported 2026-10-19 18:37:06)  
-> **Span:** 9 hours between exports  
-> **Generated:** 2026-10-20 04:26 UTC
+> **Comparing:** `20261020_164157_AppCatalog.json` (exported 2026-10-20 16:41:57)  
+> **vs:** `20261020_042528_AppCatalog.json` (exported 2026-10-20 04:25:28)  
+> **Span:** 12 hours between exports  
+> **Generated:** 2026-10-20 16:42 UTC
 
 ## Summary
 
@@ -11,20 +11,15 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 10 |
+| 🔄 Updated | 5 |
 
-## 🔄 Updated (10 packages)
+## 🔄 Updated (5 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| alfaview Gmbh | alfaview | alfaview | `9.29.0` | `9.30.2` | Version |
-| Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.9.0.35800` | `46.10.0.36042` | Version |
-| Datadog | Datadog Agent | Datadog Agent | `7.84.3` | `7.84.4` | Version |
-| Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `14.6.0` | `14.7.0` | Version |
-| Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `13.6.0` | `13.7.0` | Version |
-| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.13.0` | `2.11.14.0` | Version |
-| International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.932.1` | `5.4.933.1` | Version |
-| International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.932.1` | `6.0.933.1` | Version |
-| NetBird GmbH | NetBird | NetBird | `0.81.2` | `0.81.3` | Version |
-| Slido | Slido | Slido | `1.23.0` | `1.23.1` | Version |
+| Bizagi Limited | Galaxy Modeler | Galaxy Modeler | `13.6.0` | `13.7.0` | Version |
+| Bizagi Limited | Moon Modeler | Moon Modeler | `13.6.0` | `13.7.0` | Version |
+| Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.95.0.242831` | `4.96.0.243774` | Version |
+| Krisp | Krisp | Krisp 3.x | `3.17.9` | `3.18.3` | Version |
+| Squirrels | Squirrels Reflector 4 | Reflector 4 (x64) | `4.1.2` | `4.1.3` | Version |
 
