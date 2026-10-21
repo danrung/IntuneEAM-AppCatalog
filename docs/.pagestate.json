@@ -10086,6 +10086,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.10.0",
+      "26.10.1",
+      1
+     ]
+    ]
    }
   ],
   "draw-io-desktop": [
@@ -20427,6 +20440,11 @@
       "156.0.4314.30",
       "156.0.4314.36",
       1
+     ],
+     [
+      "156.0.4314.36",
+      "157.0.4341.10",
+      1
      ]
     ]
    }
@@ -20726,6 +20744,19 @@
      [
       "157.0.4322.0",
       "157.0.4329.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "157.0.4329.0",
+      "158.0.4344.0",
       1
      ]
     ]
@@ -22136,6 +22167,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "22.11.0",
+      "22.11.1",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-universal-print-connector": [
@@ -22885,6 +22929,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.11.12306.390",
+      "18.11.12315.225",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-visual-studio-code": [
@@ -23575,6 +23632,21 @@
      [
       "4.2.0",
       "4.3.0",
+      1
+     ]
+    ]
+   }
+  ],
+  "mochasoft-aps-mocha-tn5250": [
+   {
+    "added": 0,
+    "date": "2026-10-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.3",
+      "4.4",
       1
      ]
     ]
@@ -27012,6 +27084,19 @@
      [
       "8.0.4710.09",
       "8.0.5030.01",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.5030.01",
+      "8.0.5110.09",
       1
      ]
     ]
@@ -33803,29 +33888,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-06-17",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0620",
-      "9.2.0653",
-      1
-     ],
-     [
-      "9.2.0653",
-      "9.2.0663",
-      1
-     ],
-     [
-      "9.2.0620",
-      "9.2.0663",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-18",
     "fields": [],
     "removed": 0,
@@ -34175,6 +34237,19 @@
       "9.2.1193",
       "9.2.1202",
       1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1202",
+      "9.2.1217",
+      2
      ]
     ]
    }
@@ -36210,7 +36285,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261021_041621_AppCatalog.json",
+ "history_through": "20261021_170005_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -36219,8 +36294,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "c9869c83d0322ba95005d30200cfd4850e155146",
-   "hash": "b9dc39a4ba4c692081d4eba8db2a9eb7bc8f835f",
+   "exact": "1a98d2757d25627c74edbae20541bdf96788a3bd",
+   "hash": "fa77e88ee9c801f8e8bd77bccbf7dab336caae76",
    "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -37309,9 +37384,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/draftable-desktop.html": {
-   "exact": "7a24f7e21dc0ba6bacbda10d175c424bbaab5a1a",
-   "hash": "7a24f7e21dc0ba6bacbda10d175c424bbaab5a1a",
-   "lastmod": "2026-10-15"
+   "exact": "da2f088b9154e42cd58e812edad11cbd73506993",
+   "hash": "da2f088b9154e42cd58e812edad11cbd73506993",
+   "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/draw-io-desktop.html": {
    "exact": "0247f88a626d3a0d774750f39c6f829c86d4b904",
@@ -38674,14 +38749,14 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "d960b213f4a900e34088b23ecc6d0b352b00704b",
-   "hash": "d960b213f4a900e34088b23ecc6d0b352b00704b",
+   "exact": "86fe6930e040f8826fb3f3c3e3e09c0d5a4d8a7c",
+   "hash": "86fe6930e040f8826fb3f3c3e3e09c0d5a4d8a7c",
    "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
-   "exact": "b9c29c690b5dbbad9b6a1d7018344c245d7776dc",
-   "hash": "b9c29c690b5dbbad9b6a1d7018344c245d7776dc",
-   "lastmod": "2026-10-14"
+   "exact": "1ce070b2c779bb6dce38951d2236ccc3d1569ff9",
+   "hash": "1ce070b2c779bb6dce38951d2236ccc3d1569ff9",
+   "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/microsoft-edge-for-business.html": {
    "exact": "1486fe0e9ab62fa1312837954d5cd80f1d8ec8e2",
@@ -38884,9 +38959,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-management-studio-22.html": {
-   "exact": "71bf64b4178e14d6ca0925609e042a23115384e3",
-   "hash": "71bf64b4178e14d6ca0925609e042a23115384e3",
-   "lastmod": "2026-10-14"
+   "exact": "6dd8f1eb094e8d9f05b215f4f5f2ec620b093be7",
+   "hash": "6dd8f1eb094e8d9f05b215f4f5f2ec620b093be7",
+   "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/microsoft-surface-data-eraser.html": {
    "exact": "f78649b44fa5917eb510925f4af3c0af4075adf7",
@@ -38949,9 +39024,9 @@
    "lastmod": "2026-10-14"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2026-professional.html": {
-   "exact": "3b2e6af74a62f19438be6050c610ace85f4f55d1",
-   "hash": "3b2e6af74a62f19438be6050c610ace85f4f55d1",
-   "lastmod": "2026-10-14"
+   "exact": "691f33be556a9cbebb4ca9dd7440651b1a40df98",
+   "hash": "691f33be556a9cbebb4ca9dd7440651b1a40df98",
+   "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
    "exact": "543ffee8e7cad3fa5bb3ae644e6954da36fb1e3d",
@@ -39039,9 +39114,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/mochasoft-aps-mocha-tn5250.html": {
-   "exact": "08c75b27adc88adc49efbb8f8219a1d5a12b60d5",
-   "hash": "08c75b27adc88adc49efbb8f8219a1d5a12b60d5",
-   "lastmod": "2026-08-27"
+   "exact": "046d8e9b42af2ba97715f5316c65859e424a1ba6",
+   "hash": "046d8e9b42af2ba97715f5316c65859e424a1ba6",
+   "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/monday-com-ltd-monday.html": {
    "exact": "f7acb073922728ca1d22c791fe9ff1478b9880e6",
@@ -39364,9 +39439,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/oracle-java-runtime-environment-version-8.html": {
-   "exact": "90b93ed1eab5816d4251109711095e3c3982defd",
-   "hash": "90b93ed1eab5816d4251109711095e3c3982defd",
-   "lastmod": "2026-08-28"
+   "exact": "27d918d395aac5ab59d85a641aacd37dd9a06426",
+   "hash": "27d918d395aac5ab59d85a641aacd37dd9a06426",
+   "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/oracle-java-se-development-kit-17.html": {
    "exact": "1c9441f835d777921aa9b16cb65c60a6d006a0e4",
@@ -40544,9 +40619,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "a73a1f98fcd82da0d53cf0419cdac620e4b46225",
-   "hash": "a73a1f98fcd82da0d53cf0419cdac620e4b46225",
-   "lastmod": "2026-10-17"
+   "exact": "45c431bc7be6b2d4c88c59971d5d2bdb5ddcde39",
+   "hash": "45c431bc7be6b2d4c88c59971d5d2bdb5ddcde39",
+   "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",

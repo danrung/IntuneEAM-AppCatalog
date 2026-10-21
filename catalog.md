@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261021_041621_AppCatalog.json` (exported 2026-10-21 04:16:21)  
-> **Generated:** 2026-10-21 04:16 UTC  
+> **Source:** `20261021_170005_AppCatalog.json` (exported 2026-10-21 17:00:05)  
+> **Generated:** 2026-10-21 17:00 UTC  
 > **Total:** 1,594 packages · 933 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -296,7 +296,7 @@
 | 288 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8.1` | x64 | ❌ | en-US |
 | 289 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8.1` | x64 | ❌ | en-US |
 | 290 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
-| 291 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.10.0` | x64 | ❌ | en-US |
+| 291 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.10.1` | x64 | ❌ | en-US |
 | 292 | draw.io | draw.io Desktop | draw.io Desktop | `32.5.5` | x64 | ✅ | en-US |
 | 293 | dRofus | dRofus | dRofus | `2.18.18.0` | x86,x64 | ❌ | en-US |
 | 294 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `276.4.5266` | x64 | ✅ | en-US |
@@ -667,8 +667,8 @@
 | 659 | Microsoft | Microsoft Bot Framework Emulator | Microsoft Bot Framework Emulator | `4.15.1` | x64 | ❌ | en-US |
 | 660 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `2.26.921.1` | x64 | ❌ | en-US |
 | 661 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
-| 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `156.0.4314.36` | x64 | ✅ | en-US |
-| 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `157.0.4329.0` | x64 | ✅ | en-US |
+| 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `157.0.4341.10` | x64 | ✅ | en-US |
+| 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `158.0.4344.0` | x64 | ✅ | en-US |
 | 664 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 665 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `152.0.4191.66` | x64 | ❌ | en-US |
 | 666 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
@@ -724,8 +724,8 @@
 | 716 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.1 (x64) | `7.1.7` | x64 | ❌ | en-US |
 | 717 | Microsoft | Microsoft PowerShell Core | PowerShell Core 6.2 (x64) | `6.2.4` | x64 | ❌ | en-US |
 | 718 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.4 (x64) | `7.4.13` | x64 | ❌ | en-US |
-| 719 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.101.2362.0` | x64 | ✅ | en-US |
-| 720 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.101.2362.0` | x64 | ✅ | en-US |
+| 719 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.101.2362.0` | x64 | ✅ | en-US |
+| 720 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.101.2362.0` | x64 | ✅ | en-US |
 | 721 | Microsoft | Microsoft Purview Information Protection client | Purview Information Protection client | `3.2.173.0` | x86,x64 | ❌ | en-US |
 | 722 | Microsoft | Microsoft Remote Desktop WebRTC Redirector | Remote Desktop WebRTC Redirector | `1.56.2603.20001` | x64 | ❌ | en-US |
 | 723 | Microsoft | Microsoft Skype for Desktop | Skype for Desktop | `8.126.0.208` | x86,x64 | ❌ | en-US |
@@ -758,7 +758,7 @@
 | 750 | Microsoft | Microsoft SQL Server Management Studio 20 | SQL Server Management Studio 20 (Portuguese Brazil) | `20.2.37.0` | x64 | ✅ | pt-BR |
 | 751 | Microsoft | Microsoft SQL Server Management Studio 20 | SQL Server Management Studio 20 (English) | `20.2.37.0` | x64 | ✅ | en-US |
 | 752 | Microsoft | Microsoft SQL Server Management Studio 20 | SQL Server Management Studio 20 (Spanish) | `20.2.37.0` | x64 | ✅ | es |
-| 753 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.11.0` | x64 | ✅ | en-US |
+| 753 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.11.1` | x64 | ✅ | en-US |
 | 754 | Microsoft | Microsoft Surface Data Eraser | Microsoft Surface Data Eraser | `3.54.139.0` | x86,x64 | ❌ | en-US |
 | 755 | Microsoft | Microsoft Surface Diagnostic Toolkit for Business | Microsoft Surface Diagnostic Toolkit for Business (x64) | `2.239.139.0` | x64 | ❌ | en-US |
 | 756 | Microsoft | Microsoft System CLR Types for SQL Server 2014 | Microsoft System CLR Types for SQL Server 2014 (x64) | `12.0.2402.11` | x64 | ❌ | en-US |
@@ -769,13 +769,13 @@
 | 761 | Microsoft | Microsoft Visual C++ 2012 Redistributable | Microsoft Visual C++ 2012 Redistributable (x64) | `11.0.61030.0` | x64 | ❌ | en-US |
 | 762 | Microsoft | Microsoft Visual Studio 2010 Tools for Office Runtime | Visual Studio 2010 Tools for Office Runtime (x64) | `10.0.60917.00` | x64 | ❌ | en-US |
 | 763 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37806.7` | x64 | ❌ | en-US |
-| 764 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37806.7` | x64 | ❌ | en-US |
-| 765 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 766 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
-| 767 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
-| 768 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
-| 769 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 770 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
+| 764 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 765 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
+| 766 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
+| 767 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
+| 768 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
+| 769 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
+| 770 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37806.7` | x64 | ❌ | en-US |
 | 771 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 772 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 773 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
@@ -785,7 +785,7 @@
 | 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
 | 778 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37806.7` | x64 | ❌ | en-US |
 | 779 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
-| 780 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.11.12306.390` | x64 | ❌ | en-US |
+| 780 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.11.12315.225` | x64 | ❌ | en-US |
 | 781 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.142.0` | x64 | ✅ | en-US |
 | 782 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37806.7` | x64 | ❌ | en-US |
 | 783 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
@@ -816,7 +816,7 @@
 | 808 | Mobirise.com | Mobirise | Mobirise | `6.0.5.150` | x86,x64 | ❌ | en-US |
 | 809 | MochaSoft Aps | Mocha TN3270 | Mocha TN3270 | `4.3.0` | x86,x64 | ❌ | en-US |
 | 810 | MochaSoft Aps | Mocha TN3812 | Mocha TN3812 | `1.5` | x86,x64 | ❌ | en-US |
-| 811 | MochaSoft Aps | Mocha TN5250 | Mocha TN5250 | `4.3` | x86,x64 | ❌ | en-US |
+| 811 | MochaSoft Aps | Mocha TN5250 | Mocha TN5250 | `4.4` | x86,x64 | ❌ | en-US |
 | 812 | monday.com Ltd | monday | monday | `1.0.46.0` | x64 | ❌ | en-US |
 | 813 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.53.0` | x64 | ❌ | en-US |
 | 814 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.53.0` | x64 | ❌ | en-US |
@@ -1011,28 +1011,28 @@
 | 1003 | Mozilla | Mozilla FrontMotion Firefox Community Edition ESR | FrontMotion Firefox Community Edition ESR (English UK) | `102.15.1` | x86,x64 | ✅ | en-GB |
 | 1004 | Mozilla | Mozilla FrontMotion Firefox Community Edition ESR | FrontMotion Firefox Community Edition ESR (Spanish) | `102.15.1` | x86,x64 | ✅ | es-ES |
 | 1005 | Mozilla | Mozilla FrontMotion Firefox Community Edition ESR | FrontMotion Firefox Community Edition ESR (Turkish) | `102.15.1` | x86,x64 | ✅ | tr |
-| 1006 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Portugese) (x64) | `2.53.24` | x64 | ❌ | pt-PT |
-| 1007 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Portuguese Brazilian) (x64) | `2.53.24` | x64 | ❌ | pt-BR |
-| 1008 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Czech) (x64) | `2.53.24` | x64 | ❌ | cs |
-| 1009 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Polish) (x64) | `2.53.24` | x64 | ❌ | pl |
-| 1010 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Argentina) (x64) | `2.53.24` | x64 | ❌ | es-AR |
-| 1011 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Swedish) (x64) | `2.53.24` | x64 | ❌ | sv-SE |
-| 1012 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Greek) (x64) | `2.53.24` | x64 | ❌ | el |
-| 1013 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Slovak) (x64) | `2.53.24` | x64 | ❌ | sk |
-| 1014 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Norwegian Bokmål) (x64) | `2.53.24` | x64 | ❌ | nb-NO |
-| 1015 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Japanese) (x64) | `2.53.24` | x64 | ❌ | ja |
-| 1016 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English US) (x64) | `2.53.24` | x64 | ❌ | en-US |
-| 1017 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Simplified) (x64) | `2.53.24` | x64 | ❌ | zh-CN |
-| 1018 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Finnish) (x64) | `2.53.24` | x64 | ❌ | fi |
-| 1019 | Mozilla | Mozilla SeaMonkey | SeaMonkey (French) (x64) | `2.53.24` | x64 | ❌ | fr |
-| 1020 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Hungarian) (x64) | `2.53.24` | x64 | ❌ | hu |
-| 1021 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English UK) (x64) | `2.53.24` | x64 | ❌ | en-GB |
-| 1022 | Mozilla | Mozilla SeaMonkey | SeaMonkey (German) (x64) | `2.53.24` | x64 | ❌ | de |
-| 1023 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Dutch) (x64) | `2.53.24` | x64 | ❌ | nl |
+| 1006 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Slovak) (x64) | `2.53.24` | x64 | ❌ | sk |
+| 1007 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Greek) (x64) | `2.53.24` | x64 | ❌ | el |
+| 1008 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Argentina) (x64) | `2.53.24` | x64 | ❌ | es-AR |
+| 1009 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Swedish) (x64) | `2.53.24` | x64 | ❌ | sv-SE |
+| 1010 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Dutch) (x64) | `2.53.24` | x64 | ❌ | nl |
+| 1011 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Japanese) (x64) | `2.53.24` | x64 | ❌ | ja |
+| 1012 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Italian) (x64) | `2.53.24` | x64 | ❌ | it |
+| 1013 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Russian) (x64) | `2.53.24` | x64 | ❌ | ru |
+| 1014 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Polish) (x64) | `2.53.24` | x64 | ❌ | pl |
+| 1015 | Mozilla | Mozilla SeaMonkey | SeaMonkey (German) (x64) | `2.53.24` | x64 | ❌ | de |
+| 1016 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Simplified) (x64) | `2.53.24` | x64 | ❌ | zh-CN |
+| 1017 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Portugese) (x64) | `2.53.24` | x64 | ❌ | pt-PT |
+| 1018 | Mozilla | Mozilla SeaMonkey | SeaMonkey (French) (x64) | `2.53.24` | x64 | ❌ | fr |
+| 1019 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English UK) (x64) | `2.53.24` | x64 | ❌ | en-GB |
+| 1020 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Portuguese Brazilian) (x64) | `2.53.24` | x64 | ❌ | pt-BR |
+| 1021 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Czech) (x64) | `2.53.24` | x64 | ❌ | cs |
+| 1022 | Mozilla | Mozilla SeaMonkey | SeaMonkey (English US) (x64) | `2.53.24` | x64 | ❌ | en-US |
+| 1023 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Hungarian) (x64) | `2.53.24` | x64 | ❌ | hu |
 | 1024 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Spanish Spain) (x64) | `2.53.24` | x64 | ❌ | es-ES |
 | 1025 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Chinese Traditional) (x64) | `2.53.24` | x64 | ❌ | zh-TW |
-| 1026 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Russian) (x64) | `2.53.24` | x64 | ❌ | ru |
-| 1027 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Italian) (x64) | `2.53.24` | x64 | ❌ | it |
+| 1026 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Finnish) (x64) | `2.53.24` | x64 | ❌ | fi |
+| 1027 | Mozilla | Mozilla SeaMonkey | SeaMonkey (Norwegian Bokmål) (x64) | `2.53.24` | x64 | ❌ | nb-NO |
 | 1028 | Mozilla | Mozilla Thunderbird | Thunderbird (Bulgarian) (x64) | `115.8.0` | x64 | ✅ | bg |
 | 1029 | Mozilla | Mozilla Thunderbird | Thunderbird (Swedish) (x64) | `115.8.0` | x64 | ✅ | sv-SE |
 | 1030 | Mozilla | Mozilla Thunderbird | Thunderbird (Russian) (x64) | `115.8.0` | x64 | ✅ | ru |
@@ -1132,7 +1132,7 @@
 | 1124 | OpenVPN Technologies, Inc. | OpenVPN Connect | OpenVPN Connect (x64) | `3.9.0` | x64 | ❌ | en-US |
 | 1125 | Opera Software ASA | Opera One | Opera One (x64) | `80.0.4170.40` | x64 | ✅ | en-US |
 | 1126 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x86) | `8.0.5030.01` | x86,x64 | ✅ | en-US |
-| 1127 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x64) | `8.0.5030.01` | x64 | ✅ | en-US |
+| 1127 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x64) | `8.0.5110.09` | x64 | ✅ | en-US |
 | 1128 | Oracle | Oracle Java SE Development Kit 17 | Oracle Java SE Development Kit 17 (x64) | `17.0.20.1` | x64 | ❌ | en-US |
 | 1129 | Oracle | Oracle Java SE Development Kit 23 | Oracle Java SE Development Kit 23 (x64) | `23.0.2.0` | x64 | ❌ | en-US |
 | 1130 | Oracle | Oracle MySQL Connector NET 8 | MySQL Connector NET 8.4 | `8.4.0` | x86,x64 | ❌ | en-US |
@@ -1235,30 +1235,30 @@
 | 1227 | Raising the Floor – US inc. | Morphic | Morphic | `1.10.25153.2` | x64 | ❌ | en-US |
 | 1228 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23360` | x86,x64 | ❌ | en-US |
 | 1229 | Rarlab | Rarlab WinRAR | WinRAR (Slovenian) (x64) | `7.23` | x64 | ❌ | sl |
-| 1230 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.23` | x64 | ❌ | it |
-| 1231 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.23` | x64 | ❌ | hu |
-| 1232 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.23` | x64 | ❌ | cs |
-| 1233 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.23` | x64 | ❌ | uk |
-| 1234 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.23` | x64 | ❌ | fr |
-| 1235 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.23` | x64 | ❌ | en-US |
-| 1236 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.23` | x64 | ❌ | bg |
-| 1237 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.23` | x64 | ❌ | de |
-| 1238 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.23` | x64 | ❌ | sr |
-| 1239 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.23` | x64 | ❌ | nl |
-| 1240 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.23` | x64 | ❌ | vi |
-| 1241 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.23` | x64 | ❌ | pt |
-| 1242 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.23` | x64 | ❌ | ko |
-| 1243 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese Brazilian) (x64) | `7.23` | x64 | ❌ | pt-BR |
-| 1244 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.23` | x64 | ❌ | zh-TW |
-| 1245 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.23` | x64 | ❌ | es |
-| 1246 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.22` | x64 | ❌ | ro |
-| 1247 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
-| 1248 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.23` | x64 | ❌ | da |
-| 1249 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.23` | x64 | ❌ | zh-CN |
-| 1250 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.23` | x64 | ❌ | sv |
+| 1230 | Rarlab | Rarlab WinRAR | WinRAR (Spanish) (x64) | `7.23` | x64 | ❌ | es |
+| 1231 | Rarlab | Rarlab WinRAR | WinRAR (Italian) (x64) | `7.23` | x64 | ❌ | it |
+| 1232 | Rarlab | Rarlab WinRAR | WinRAR (Hungarian) (x64) | `7.23` | x64 | ❌ | hu |
+| 1233 | Rarlab | Rarlab WinRAR | WinRAR (Czech) (x64) | `7.23` | x64 | ❌ | cs |
+| 1234 | Rarlab | Rarlab WinRAR | WinRAR (Ukrainian) (x64) | `7.23` | x64 | ❌ | uk |
+| 1235 | Rarlab | Rarlab WinRAR | WinRAR (French) (x64) | `7.23` | x64 | ❌ | fr |
+| 1236 | Rarlab | Rarlab WinRAR | WinRAR (Swedish) (x64) | `7.23` | x64 | ❌ | sv |
+| 1237 | Rarlab | Rarlab WinRAR | WinRAR (English) (x64) | `7.23` | x64 | ❌ | en-US |
+| 1238 | Rarlab | Rarlab WinRAR | WinRAR (Bulgarian) (x64) | `7.23` | x64 | ❌ | bg |
+| 1239 | Rarlab | Rarlab WinRAR | WinRAR (German) (x64) | `7.23` | x64 | ❌ | de |
+| 1240 | Rarlab | Rarlab WinRAR | WinRAR (Serbian Cyrillic) (x64) | `7.23` | x64 | ❌ | sr |
+| 1241 | Rarlab | Rarlab WinRAR | WinRAR (Dutch) (x64) | `7.23` | x64 | ❌ | nl |
+| 1242 | Rarlab | Rarlab WinRAR | WinRAR (Vietnamese) (x64) | `7.23` | x64 | ❌ | vi |
+| 1243 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese) (x64) | `7.23` | x64 | ❌ | pt |
+| 1244 | Rarlab | Rarlab WinRAR | WinRAR (Korean) (x64) | `7.23` | x64 | ❌ | ko |
+| 1245 | Rarlab | Rarlab WinRAR | WinRAR (Portuguese Brazilian) (x64) | `7.23` | x64 | ❌ | pt-BR |
+| 1246 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Traditional) (x64) | `7.23` | x64 | ❌ | zh-TW |
+| 1247 | Rarlab | Rarlab WinRAR | WinRAR (Romanian) (x64) | `7.22` | x64 | ❌ | ro |
+| 1248 | Rarlab | Rarlab WinRAR | WinRAR (Hebrew) (x64) | `6.24` | x64 | ❌ | he |
+| 1249 | Rarlab | Rarlab WinRAR | WinRAR (Danish) (x64) | `7.23` | x64 | ❌ | da |
+| 1250 | Rarlab | Rarlab WinRAR | WinRAR (Chinese Simplified) (x64) | `7.23` | x64 | ❌ | zh-CN |
 | 1251 | Rarlab | Rarlab WinRAR | WinRAR (Russian) (x64) | `7.23` | x64 | ❌ | ru |
-| 1252 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.23` | x64 | ❌ | pl |
-| 1253 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.23` | x64 | ❌ | fi |
+| 1252 | Rarlab | Rarlab WinRAR | WinRAR (Finnish) (x64) | `7.23` | x64 | ❌ | fi |
+| 1253 | Rarlab | Rarlab WinRAR | WinRAR (Polish) (x64) | `7.23` | x64 | ❌ | pl |
 | 1254 | Rarlab | Rarlab WinRAR | WinRAR (Norwegian) (x64) | `7.01` | x64 | ❌ | nb |
 | 1255 | Rarlab | Rarlab WinRAR | WinRAR (Japanese) (x64) | `7.22` | x64 | ❌ | ja |
 | 1256 | Rarlab | Rarlab WinRAR | WinRAR (Thai) (x64) | `7.23` | x64 | ❌ | th |
@@ -1515,13 +1515,13 @@
 | 1507 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | x64 | ❌ | en-US |
 | 1508 | VEX Robotics | VEXcode IQ 3 | VEXcode IQ 3 | `3.0.4.1` | x86,x64 | ❌ | en-US |
 | 1509 | VEX Robotics | VEXcode V5 | VEXcode V5 (MSI) | `3.0.4.3` | x64 | ❌ | en-US |
-| 1510 | VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.24` | x64 | ❌ | en-US |
-| 1511 | VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.24` | x64 | ❌ | en-US |
+| 1510 | VideoLAN | VideoLAN VLC media player | VLC media player (EXE) (x64) | `3.0.24` | x64 | ❌ | en-US |
+| 1511 | VideoLAN | VideoLAN VLC media player | VLC media player (MSI) (x64) | `3.0.24` | x64 | ❌ | en-US |
 | 1512 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
 | 1513 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.9` | x64 | ❌ | en-US |
 | 1514 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.9` | x86,x64 | ❌ | en-US |
-| 1515 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1202` | x64 | ❌ | en-US |
-| 1516 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1202` | x64 | ❌ | en-US |
+| 1515 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1217` | x64 | ❌ | en-US |
+| 1516 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1217` | x64 | ❌ | en-US |
 | 1517 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.1.0.0` | x64 | ❌ | en-US |
 | 1518 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
 | 1519 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
