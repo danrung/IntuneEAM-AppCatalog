@@ -10926,6 +10926,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-22",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.11.12.6",
+      "8.12.4.30",
+      1
+     ]
+    ]
    }
   ],
   "dutchview-flexwhere-for-desktop": [
@@ -26394,6 +26407,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-22",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.0.0.0",
+      "4.1.0.0",
+      1
+     ]
+    ]
    }
   ],
   "nutanix-inc-frame-app": [
@@ -36459,7 +36485,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261022_041605_AppCatalog.json",
+ "history_through": "20261022_165921_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -36468,8 +36494,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "a3220554697a13a709f37eeff9d152e7afdd2e70",
-   "hash": "1fe393e34d06964d8b0aa07ff2a5145ccd27c150",
+   "exact": "9c12935fe659f4f4810287e9bea3b307a8e02a1e",
+   "hash": "25b56f13fd9f7a55abad760f78db3f4c3d9906fd",
    "lastmod": "2026-10-22"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -37588,9 +37614,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/duong-dieu-phap-imageglass.html": {
-   "exact": "35c149889908d258b78d2c12b1cfa269ae9fa898",
-   "hash": "35c149889908d258b78d2c12b1cfa269ae9fa898",
-   "lastmod": "2026-09-07"
+   "exact": "eb196fe262719e874c5441149024f296308648de",
+   "hash": "eb196fe262719e874c5441149024f296308648de",
+   "lastmod": "2026-10-22"
   },
   "https://eam.drung.dev/apps/dutchview-flexwhere-for-desktop.html": {
    "exact": "a1e6876ec4dcc58ce37cc2b70e3b5d89b2abbc79",
@@ -39528,9 +39554,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/nordvpn-nordlayer.html": {
-   "exact": "c22bcaef2a42a13a3e34f77c26555110bd5e8088",
-   "hash": "c22bcaef2a42a13a3e34f77c26555110bd5e8088",
-   "lastmod": "2026-09-14"
+   "exact": "ba07dbf02370cc345e4f29599b92a3a83ed644db",
+   "hash": "ba07dbf02370cc345e4f29599b92a3a83ed644db",
+   "lastmod": "2026-10-22"
   },
   "https://eam.drung.dev/apps/nutanix-inc-frame-app.html": {
    "exact": "6c48192ac8b199c6dbd86e44d82a115c9eea06af",
