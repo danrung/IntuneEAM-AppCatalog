@@ -2016,6 +2016,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.35.0.3249",
+      "5.36.0.3628",
+      1
+     ]
+    ]
    }
   ],
   "andrew-ziem-bleachbit": [
@@ -4387,6 +4400,19 @@
      [
       "5.2.1",
       "5.2.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.2.2",
+      "5.2.3",
       1
      ]
     ]
@@ -6954,19 +6980,6 @@
   "coolutils-mail-viewer": [
    {
     "added": 0,
-    "date": "2026-05-28",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.0.9638.26790",
-      "1.0.9642.41959",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-04",
     "fields": [],
     "removed": 0,
@@ -7260,6 +7273,19 @@
      [
       "7.1.9779.1158",
       "7.1.9790.38110",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9790.38110",
+      "7.1.9791.36253",
       1
      ]
     ]
@@ -7713,19 +7739,6 @@
   "datadog-agent": [
    {
     "added": 0,
-    "date": "2026-04-25",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "7.78.0",
-      "7.78.1",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-04-30",
     "fields": [],
     "removed": 0,
@@ -8019,6 +8032,19 @@
      [
       "7.84.3",
       "7.84.4",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.84.4",
+      "7.84.5",
       1
      ]
     ]
@@ -9810,6 +9836,19 @@
      [
       "4.96.0.243774",
       "4.96.1.244132",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.96.1.244132",
+      "4.96.3.244472",
       1
      ]
     ]
@@ -17606,6 +17645,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.7.12",
+      "2.8.0",
+      1
+     ]
+    ]
    }
   ],
   "keeper": [
@@ -23728,6 +23780,21 @@
     ]
    }
   ],
+  "mochasoft-aps-mocha-tn3812": [
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.5",
+      "1.6.1",
+      1
+     ]
+    ]
+   }
+  ],
   "mochasoft-aps-mocha-tn5250": [
    {
     "added": 0,
@@ -27121,6 +27188,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.7.801",
+      "2.7.802",
+      1
+     ]
+    ]
    }
   ],
   "openvpn-technologies-inc-openvpn-connect": [
@@ -27217,6 +27297,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.5110.09",
+      "8.0.5110.32",
+      1
+     ]
+    ]
    }
   ],
   "oracle-java-se-development-kit-17": [
@@ -27242,6 +27335,19 @@
      [
       "17.0.20.0",
       "17.0.20.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.0.20.1",
+      "17.0.21.0",
       1
      ]
     ]
@@ -27942,6 +28048,19 @@
      [
       "2.1.20",
       "3.0.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.0.0",
+      "3.0.1",
       1
      ]
     ]
@@ -29592,6 +29711,19 @@
      [
       "4.18.2",
       "4.18.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.18.3",
+      "4.18.4",
       1
      ]
     ]
@@ -33526,6 +33658,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.33.0.839",
+      "1.33.1.841",
+      1
+     ]
+    ]
    }
   ],
   "turbo-net-desktop": [
@@ -36485,7 +36630,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261022_165921_AppCatalog.json",
+ "history_through": "20261023_042012_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -36494,9 +36639,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "9c12935fe659f4f4810287e9bea3b307a8e02a1e",
-   "hash": "25b56f13fd9f7a55abad760f78db3f4c3d9906fd",
-   "lastmod": "2026-10-22"
+   "exact": "273f1992f5ba14aee51530f8b37bf33a8299b713",
+   "hash": "fefc6e6d3e5aa668a74f7789c224510626bfe7f0",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -36679,9 +36824,9 @@
    "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/amazon-web-services-inc-amazon-workspaces.html": {
-   "exact": "95229fb2b51f479d5f9dba6393dcfe660df51559",
-   "hash": "95229fb2b51f479d5f9dba6393dcfe660df51559",
-   "lastmod": "2026-10-09"
+   "exact": "651e62f26a1b64e4850f36c9cd666abe2bcef86a",
+   "hash": "651e62f26a1b64e4850f36c9cd666abe2bcef86a",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/andrew-ziem-bleachbit.html": {
    "exact": "de7a738a1b75c66268a68976daf78f9fb2c67a41",
@@ -37074,9 +37219,9 @@
    "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/blender-foundation-blender.html": {
-   "exact": "e689209386bf6ed0c05c21c4203f63abfe42d22d",
-   "hash": "e689209386bf6ed0c05c21c4203f63abfe42d22d",
-   "lastmod": "2026-09-16"
+   "exact": "1e959573e5f20399a48f94160963275618fa3b30",
+   "hash": "1e959573e5f20399a48f94160963275618fa3b30",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/blue-jeans-bluejeans-2.html": {
    "exact": "3bff635f3e5d5ee5c339989c4a2a1c8bc7decf10",
@@ -37374,9 +37519,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "f3c21dac1e854a18f4c49d691c388ca4184112b8",
-   "hash": "f3c21dac1e854a18f4c49d691c388ca4184112b8",
-   "lastmod": "2026-10-22"
+   "exact": "059352a0ba5acd233dcbb12398edd5afc0ef19ff",
+   "hash": "059352a0ba5acd233dcbb12398edd5afc0ef19ff",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "f78fe4c0342308dbaaa7f535dbdf2a11148510b4",
@@ -37434,9 +37579,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/datadog-agent.html": {
-   "exact": "dfac1564ea7fc378106fd8a6c481cb8052301399",
-   "hash": "dfac1564ea7fc378106fd8a6c481cb8052301399",
-   "lastmod": "2026-10-20"
+   "exact": "0f70ab4b7263e40a473e31065c547b37748fdfce",
+   "hash": "0f70ab4b7263e40a473e31065c547b37748fdfce",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/david-kocher-cyberduck.html": {
    "exact": "25f0fab361b2ea8780d10e7c02b7a6c216dd1fb3",
@@ -37564,9 +37709,9 @@
    "lastmod": "2026-10-14"
   },
   "https://eam.drung.dev/apps/docker-inc-docker-desktop.html": {
-   "exact": "ddad624b5b8ead2830d2795f948047009672243d",
-   "hash": "ddad624b5b8ead2830d2795f948047009672243d",
-   "lastmod": "2026-10-22"
+   "exact": "bfd219a96e1a19e55c23cc3d80fc4a4090b4f1d6",
+   "hash": "bfd219a96e1a19e55c23cc3d80fc4a4090b4f1d6",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/dominik-reichl-keepass-password-safe-classic-edition.html": {
    "exact": "2a807271e957308f0916a349a0605a10e79b777e",
@@ -38499,9 +38644,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/keepassxc.html": {
-   "exact": "7e2532a433c5c1b5637dfe55ea3c4a569d36e935",
-   "hash": "7e2532a433c5c1b5637dfe55ea3c4a569d36e935",
-   "lastmod": "2026-08-27"
+   "exact": "6f40c39e761b28085af8c0210fd8e0b0ed1d266a",
+   "hash": "6f40c39e761b28085af8c0210fd8e0b0ed1d266a",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/keeper.html": {
    "exact": "f25365038f073595b550fe763ab0f2202e2012f9",
@@ -39309,9 +39454,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/mochasoft-aps-mocha-tn3812.html": {
-   "exact": "17015a9f79d238ddfcc39db1058b29516af08781",
-   "hash": "17015a9f79d238ddfcc39db1058b29516af08781",
-   "lastmod": "2026-08-27"
+   "exact": "a7db4d5a75dbfe56f888b9fb980efd1305de0123",
+   "hash": "a7db4d5a75dbfe56f888b9fb980efd1305de0123",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/mochasoft-aps-mocha-tn5250.html": {
    "exact": "046d8e9b42af2ba97715f5316c65859e424a1ba6",
@@ -39629,9 +39774,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/openvpn-technologies-inc-openvpn.html": {
-   "exact": "d0379221b7e08dfa10281c23d1c81b71c7998d05",
-   "hash": "d0379221b7e08dfa10281c23d1c81b71c7998d05",
-   "lastmod": "2026-10-08"
+   "exact": "5ba8073f01f13ff14914d542302e7deb53163474",
+   "hash": "5ba8073f01f13ff14914d542302e7deb53163474",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/opera-software-asa-opera-one.html": {
    "exact": "f4829c43d5b799aa0161f5b5199b2fd82b89d84f",
@@ -39639,14 +39784,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/oracle-java-runtime-environment-version-8.html": {
-   "exact": "27d918d395aac5ab59d85a641aacd37dd9a06426",
-   "hash": "27d918d395aac5ab59d85a641aacd37dd9a06426",
-   "lastmod": "2026-10-21"
+   "exact": "5b7fa3cde69ede3b4b2ed0ce5952a37249056a7a",
+   "hash": "5b7fa3cde69ede3b4b2ed0ce5952a37249056a7a",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/oracle-java-se-development-kit-17.html": {
-   "exact": "1c9441f835d777921aa9b16cb65c60a6d006a0e4",
-   "hash": "1c9441f835d777921aa9b16cb65c60a6d006a0e4",
-   "lastmod": "2026-08-27"
+   "exact": "c7bf82fef88f13e10447ad51581bfd3fc2c58fc8",
+   "hash": "c7bf82fef88f13e10447ad51581bfd3fc2c58fc8",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/oracle-java-se-development-kit-23.html": {
    "exact": "e7829cac7a1aef0fe99a8268b781f5bf326f77fe",
@@ -39764,9 +39909,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/pdfgear.html": {
-   "exact": "975e09d06b3f77100556610af94f8cb6a59d9ecb",
-   "hash": "975e09d06b3f77100556610af94f8cb6a59d9ecb",
-   "lastmod": "2026-10-12"
+   "exact": "c7e85659c14963028132dcb6515f84373c63d203",
+   "hash": "c7e85659c14963028132dcb6515f84373c63d203",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/peazip-srl-peazip.html": {
    "exact": "b885c7cc1b317f4cb322a97dde2d52a4a18a5e12",
@@ -40014,9 +40159,9 @@
    "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/rocket-chat-technologies-corp-rocket-chat.html": {
-   "exact": "e46378d675d5ad59be6c766ef1bdae15d185dabe",
-   "hash": "e46378d675d5ad59be6c766ef1bdae15d185dabe",
-   "lastmod": "2026-10-15"
+   "exact": "95a7b916104c1830bcb82a30f55db77730a63b24",
+   "hash": "95a7b916104c1830bcb82a30f55db77730a63b24",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/rstudio-1-4.html": {
    "exact": "95dadf6c22da9407325e1a385becfb3c6decd419",
@@ -40739,9 +40884,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/trimble-solutions-corporation-trimble-connect.html": {
-   "exact": "fdebddb45566a1dea09ca11a018bb49314bc3ae4",
-   "hash": "fdebddb45566a1dea09ca11a018bb49314bc3ae4",
-   "lastmod": "2026-10-14"
+   "exact": "30cf6a42103239f9bd0f8dec492e709a5237366a",
+   "hash": "30cf6a42103239f9bd0f8dec492e709a5237366a",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/turbo-net-desktop.html": {
    "exact": "99b9a6f51d99e1b1b0ef4eb11e69a600fe5ef545",
