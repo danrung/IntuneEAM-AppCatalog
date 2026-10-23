@@ -984,6 +984,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.169.0",
+      "1.170.0",
+      1
+     ]
+    ]
    }
   ],
   "amazon-aws-vpn-client": [
@@ -1168,6 +1181,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.2.0",
+      "6.2.1",
+      1
+     ]
+    ]
    }
   ],
   "amazon-corretto-jdk-11": [
@@ -1232,6 +1258,19 @@
      [
       "11.0.32.10.1",
       "11.0.32.12.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.0.32.12.1",
+      "11.0.33.0.9",
       1
      ]
     ]
@@ -1379,6 +1418,19 @@
      [
       "8.504.01.1",
       "8.504.04.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.504.04.1",
+      "8.512.08.1",
       1
      ]
     ]
@@ -13450,6 +13502,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.21.9",
+      "1.22.0",
+      1
+     ]
+    ]
    }
   ],
   "genesys-cloud": [
@@ -22167,6 +22232,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.2.173.0",
+      "3.2.176.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-remote-desktop-webrtc-redirector": [
@@ -30109,6 +30187,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.115.0",
+      "1.116.3",
+      1
+     ]
+    ]
    }
   ],
   "scooter-software-inc-beyond-compare": [
@@ -33248,6 +33339,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.56.0.2",
+      "2.56.0.3",
+      1
+     ]
+    ]
    }
   ],
   "the-virtualgl-project-turbovnc": [
@@ -34233,19 +34337,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-06-18",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0663",
-      "9.2.0670",
-      2
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-20",
     "fields": [],
     "removed": 0,
@@ -34595,6 +34686,19 @@
       "9.2.1202",
       "9.2.1217",
       2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1217",
+      "9.2.1225",
+      1
      ]
     ]
    }
@@ -36630,7 +36734,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261023_042012_AppCatalog.json",
+ "history_through": "20261023_165110_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -36639,8 +36743,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "273f1992f5ba14aee51530f8b37bf33a8299b713",
-   "hash": "fefc6e6d3e5aa668a74f7789c224510626bfe7f0",
+   "exact": "9cbe3cb795c6e15bad71751775a5a7712432716a",
+   "hash": "0a9c4d7e395c7d3c6b45fb0d21970f16b5bf9f59",
    "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -36754,19 +36858,19 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/amazon-aws-sam-command-line-interface.html": {
-   "exact": "c22edf8db3d954c0bb2700f100cae5439c2192c4",
-   "hash": "c22edf8db3d954c0bb2700f100cae5439c2192c4",
-   "lastmod": "2026-10-14"
+   "exact": "842547fd54e8d51d4c0103e1d3c9f469c5194d20",
+   "hash": "842547fd54e8d51d4c0103e1d3c9f469c5194d20",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
-   "exact": "4a5f2d59a51cff4e426d3b10115507fed287aebb",
-   "hash": "4a5f2d59a51cff4e426d3b10115507fed287aebb",
-   "lastmod": "2026-10-05"
+   "exact": "d693c1d9b9007099df9c2b619b19d3c668f0c575",
+   "hash": "d693c1d9b9007099df9c2b619b19d3c668f0c575",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-11.html": {
-   "exact": "d4ab84fc284c6d2f8dcad1509083fe169850ebf1",
-   "hash": "d4ab84fc284c6d2f8dcad1509083fe169850ebf1",
-   "lastmod": "2026-09-29"
+   "exact": "d89d5b5b7aafa830c9405ac9dec8a1e1247c433c",
+   "hash": "d89d5b5b7aafa830c9405ac9dec8a1e1247c433c",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-15.html": {
    "exact": "23af505aaedb0b0e383882875d615d8a05d8d6ef",
@@ -36794,9 +36898,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-8.html": {
-   "exact": "fa83a44ba1b6ef2f7fef5c02275e84c464362d97",
-   "hash": "fa83a44ba1b6ef2f7fef5c02275e84c464362d97",
-   "lastmod": "2026-10-01"
+   "exact": "a1c925658d2a956c79756ccb91bbde2b6eaa8aed",
+   "hash": "a1c925658d2a956c79756ccb91bbde2b6eaa8aed",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/amazon-kindle.html": {
    "exact": "e58c05e0f4d4b80b02cd71567e5595424a163b37",
@@ -38164,9 +38268,9 @@
    "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/general-workings-inc-general-workings-streamlabs-obs.html": {
-   "exact": "b7c94e83c14af3eb646764c5df7e74fd998ec215",
-   "hash": "b7c94e83c14af3eb646764c5df7e74fd998ec215",
-   "lastmod": "2026-08-28"
+   "exact": "644225af634e3787b733b6545e46d8aad162fd25",
+   "hash": "644225af634e3787b733b6545e46d8aad162fd25",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/genesys-cloud-background-assistant.html": {
    "exact": "a3fddb93f62018396203e49c30ecf2a9a1429d04",
@@ -39234,9 +39338,9 @@
    "lastmod": "2026-10-22"
   },
   "https://eam.drung.dev/apps/microsoft-purview-information-protection-client.html": {
-   "exact": "cf120d0bdb9518500b14f722e77596dac587aa5b",
-   "hash": "cf120d0bdb9518500b14f722e77596dac587aa5b",
-   "lastmod": "2026-10-14"
+   "exact": "86d69f1135340be5223987d1e8efecc2b43f750c",
+   "hash": "86d69f1135340be5223987d1e8efecc2b43f750c",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/microsoft-remote-desktop-webrtc-redirector.html": {
    "exact": "bb4ce865786e67174a5b71c893f7086204d1c1b4",
@@ -40214,9 +40318,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/scaleft.html": {
-   "exact": "0b5628e42d860a635342077f6dcf8187d38cdcf5",
-   "hash": "0b5628e42d860a635342077f6dcf8187d38cdcf5",
-   "lastmod": "2026-10-06"
+   "exact": "698ae8a59fc9f4a7b1e6a6191b2a005778dc4471",
+   "hash": "698ae8a59fc9f4a7b1e6a6191b2a005778dc4471",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/scooter-software-inc-beyond-compare.html": {
    "exact": "22fab281360e4d2b4112c00aec6f35a808d687e0",
@@ -40789,9 +40893,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/the-git-development-community-git.html": {
-   "exact": "147c3c0ab663ba828d91883d73a606fe82808844",
-   "hash": "147c3c0ab663ba828d91883d73a606fe82808844",
-   "lastmod": "2026-10-07"
+   "exact": "eb32fc48b572f647aac3f38c5f117fba7c89d6ff",
+   "hash": "eb32fc48b572f647aac3f38c5f117fba7c89d6ff",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/the-graphviz-authors-graphviz.html": {
    "exact": "7709b4a00892e3d21900c7e926d9c74f690e4a0f",
@@ -40964,9 +41068,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "45c431bc7be6b2d4c88c59971d5d2bdb5ddcde39",
-   "hash": "45c431bc7be6b2d4c88c59971d5d2bdb5ddcde39",
-   "lastmod": "2026-10-21"
+   "exact": "9f404252e4c848b9a1e378e3724f52d641571013",
+   "hash": "9f404252e4c848b9a1e378e3724f52d641571013",
+   "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",
