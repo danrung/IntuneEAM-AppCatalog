@@ -2213,6 +2213,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "12.21.0.7344",
+      "12.22.0.7382",
+      1
+     ]
+    ]
    }
   ],
   "antibody-software-wiztree": [
@@ -3313,6 +3326,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.90.205",
+      "11.92.109",
+      1
+     ]
+    ]
    }
   ],
   "azul-systems-inc-zulu-jdk-17-lts": [
@@ -3367,6 +3393,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.68.203",
+      "17.70.111",
+      1
+     ]
+    ]
    }
   ],
   "azul-systems-inc-zulu-jdk-8-lts": [
@@ -3408,6 +3447,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.96.0.205",
+      "8.98.0.107",
+      1
+     ]
+    ]
    }
   ],
   "azul-systems-inc-zulu-jre-11-lts": [
@@ -3446,6 +3498,19 @@
      [
       "11.88.17",
       "11.90.205",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.90.205",
+      "11.92.109",
       1
      ]
     ]
@@ -3503,6 +3568,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.68.203",
+      "17.70.111",
+      1
+     ]
+    ]
    }
   ],
   "azul-systems-inc-zulu-jre-8-lts": [
@@ -3541,6 +3619,19 @@
      [
       "8.94.0.17",
       "8.96.0.205",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.96.0.205",
+      "8.98.0.107",
       1
      ]
     ]
@@ -3913,6 +4004,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.512.11",
+      "8.0.513.5",
+      1
+     ]
+    ]
    }
   ],
   "ben-olden-cooligan-naps2": [
@@ -3977,6 +4081,19 @@
      [
       "8.5.0",
       "8.5.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.5.1",
+      "8.6.0",
       1
      ]
     ]
@@ -6924,6 +7041,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.82",
+      "7.83",
+      1
+     ]
+    ]
    }
   ],
   "code-sector-teracopy-for-windows": [
@@ -7110,19 +7240,6 @@
    }
   ],
   "coolutils-mail-viewer": [
-   {
-    "added": 0,
-    "date": "2026-06-04",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.0.9642.41959",
-      "1.0.9650.19638",
-      1
-     ]
-    ]
-   },
    {
     "added": 0,
     "date": "2026-06-06",
@@ -7418,6 +7535,19 @@
      [
       "7.1.9790.38110",
       "7.1.9791.36253",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9791.36253",
+      "7.1.9795.21770",
       1
      ]
     ]
@@ -7871,19 +8001,6 @@
   "datadog-agent": [
    {
     "added": 0,
-    "date": "2026-04-30",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "7.78.1",
-      "7.78.2",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-08",
     "fields": [],
     "removed": 0,
@@ -8177,6 +8294,19 @@
      [
       "7.84.4",
       "7.84.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.84.5",
+      "7.84.6",
       1
      ]
     ]
@@ -10288,19 +10418,6 @@
   "draw-io-desktop": [
    {
     "added": 0,
-    "date": "2026-05-11",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "29.7.8",
-      "30.0.0",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-13",
     "fields": [],
     "removed": 0,
@@ -10594,6 +10711,19 @@
      [
       "32.4.1",
       "32.5.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "32.5.5",
+      "32.6.1",
       1
      ]
     ]
@@ -14099,6 +14229,19 @@
      [
       "2.103.0",
       "2.103.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.103.1",
+      "2.103.2",
       1
      ]
     ]
@@ -19304,6 +19447,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.10.8913",
+      "2.10.9033",
+      1
+     ]
+    ]
    }
   ],
   "mariadb-foundation-mariadb-server-10-6": [
@@ -20473,19 +20629,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-08-08",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "151.0.4129.59",
-      "152.0.4191.10",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-08-12",
     "fields": [],
     "removed": 0,
@@ -20784,6 +20927,19 @@
      [
       "156.0.4314.36",
       "157.0.4341.10",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "157.0.4341.10",
+      "157.0.4341.16",
       1
      ]
     ]
@@ -21263,6 +21419,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.4.2626.50502",
+      "8.4.2726.52306",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-net-sdk-9-0": [
@@ -21366,6 +21535,19 @@
      [
       "9.0.318",
       "9.0.319",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.0.319",
+      "9.0.320",
       1
      ]
     ]
@@ -21950,6 +22132,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "21.0.12.1",
+      "21.0.13.0",
+      1
+     ],
+     [
+      "25.0.4.1",
+      "25.0.5.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-openjdk-11": [
@@ -22055,6 +22255,19 @@
      [
       "17.0.20.8",
       "17.0.20.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.0.20.1",
+      "17.0.21.0",
       1
      ]
     ]
@@ -22564,6 +22777,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "22.11.1",
+      "22.11.2",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-universal-print-connector": [
@@ -22799,6 +23025,19 @@
      [
       "17.14.37710.0",
       "17.14.37806.7",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.14.37806.7",
+      "17.14.37824.6",
       1
      ]
     ]
@@ -23326,6 +23565,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.11.12315.225",
+      "18.11.12324.101",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-visual-studio-code": [
@@ -23816,6 +24068,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.14.37806.7",
+      "17.14.37824.6",
+      1
+     ]
+    ]
    }
   ],
   "mirantis-inc-lens-desktop": [
@@ -24245,6 +24510,19 @@
      [
       "1.52.0",
       "1.53.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.53.0",
+      "1.53.1",
       1
      ]
     ]
@@ -25663,6 +25941,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.81.3",
+      "0.81.4",
+      1
+     ]
+    ]
    }
   ],
   "networkmanager": [
@@ -26799,6 +27090,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2",
+      "2026.3",
+      1
+     ]
+    ]
    }
   ],
   "obsidian": [
@@ -27548,6 +27852,19 @@
      [
       "8.0.5110.09",
       "8.0.5110.32",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.5110.32",
+      "8.0.5110.33",
       1
      ]
     ]
@@ -29965,6 +30282,19 @@
      [
       "4.18.3",
       "4.18.4",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.18.4",
+      "4.18.5",
       1
      ]
     ]
@@ -34500,19 +34830,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-06-20",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0670",
-      "9.2.0677",
-      2
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-15",
     "fields": [],
     "removed": 0,
@@ -34864,6 +35181,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1225",
+      "9.2.1240",
+      1
+     ],
+     [
+      "9.2.1217",
+      "9.2.1240",
+      1
+     ]
+    ]
    }
   ],
   "visual-paradigm-international-ltd-visual-paradigm-project-viewer": [
@@ -35022,6 +35357,19 @@
      [
       "1.135.06055",
       "1.140.06880",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.140.06880",
+      "1.143.17183",
       1
      ]
     ]
@@ -36910,7 +37258,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261026_041724_AppCatalog.json",
+ "history_through": "20261026_183422_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -36919,9 +37267,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "945c526baf18e21711398236a508a60144bb6968",
-   "hash": "ce5adace60e1a63cad07ae04f2d0b8ae6209bf59",
-   "lastmod": "2026-10-24"
+   "exact": "19c19f090366e1bc9bb69884209dfd98615ae2b9",
+   "hash": "29c56e01776f5046762fc6d18774bb721d543772",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -37129,9 +37477,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ansgar-becker-heidisql.html": {
-   "exact": "db5b9d1dbda3a25134a55efbedcc1fd98f3f83bd",
-   "hash": "db5b9d1dbda3a25134a55efbedcc1fd98f3f83bd",
-   "lastmod": "2026-08-27"
+   "exact": "224d6019b775f20511dce899a3b2094f5e8b285b",
+   "hash": "224d6019b775f20511dce899a3b2094f5e8b285b",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/antibody-software-wiztree.html": {
    "exact": "84bdde561ad0906d82e9a87111a40dee1573c04f",
@@ -37309,9 +37657,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jdk-11-lts.html": {
-   "exact": "4be365f1c35e34212e1a9167d1381dd1104f79f7",
-   "hash": "4be365f1c35e34212e1a9167d1381dd1104f79f7",
-   "lastmod": "2026-09-11"
+   "exact": "a2468a68b7e6eea917547069da08c6c4d4c47a4d",
+   "hash": "a2468a68b7e6eea917547069da08c6c4d4c47a4d",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jdk-12-sts.html": {
    "exact": "4e38893da514b19600b75d5f184373822ebaf424",
@@ -37334,9 +37682,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jdk-17-lts.html": {
-   "exact": "26db78cbd4b8cea9a6dd2310cd6027bb5768a169",
-   "hash": "26db78cbd4b8cea9a6dd2310cd6027bb5768a169",
-   "lastmod": "2026-08-27"
+   "exact": "b02e7f0d251de40ea29ab69e2598d52a844b5247",
+   "hash": "b02e7f0d251de40ea29ab69e2598d52a844b5247",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jdk-18-sts.html": {
    "exact": "d8bf0a25ca2e968754a223541474421563f77434",
@@ -37359,9 +37707,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jdk-8-lts.html": {
-   "exact": "cffbb9bfa9b44490692cf87fd2583d5d057f3424",
-   "hash": "cffbb9bfa9b44490692cf87fd2583d5d057f3424",
-   "lastmod": "2026-09-11"
+   "exact": "5e0cd434805b48f80336809901875cf7a26dfbf9",
+   "hash": "5e0cd434805b48f80336809901875cf7a26dfbf9",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jdk-9-sts.html": {
    "exact": "60c7a1c364c9c1c7bc11c0b1f5ef7c0df0a730ec",
@@ -37369,9 +37717,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jre-11-lts.html": {
-   "exact": "8edd4713bd1be4e7b5464805603b72b948a0afc7",
-   "hash": "8edd4713bd1be4e7b5464805603b72b948a0afc7",
-   "lastmod": "2026-09-11"
+   "exact": "37ec2c792545bc10b5c94bcd082cc28d3d39dfad",
+   "hash": "37ec2c792545bc10b5c94bcd082cc28d3d39dfad",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jre-12-sts.html": {
    "exact": "d0efb3298ffcfe2cb5628347b6d07ba775de5241",
@@ -37389,9 +37737,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jre-17-lts.html": {
-   "exact": "2f922387ce0e476fa0a4c11af40e5f73f911f053",
-   "hash": "2f922387ce0e476fa0a4c11af40e5f73f911f053",
-   "lastmod": "2026-08-27"
+   "exact": "7f0140aabae9b4eb3d886ac3d17c71061832605c",
+   "hash": "7f0140aabae9b4eb3d886ac3d17c71061832605c",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jre-7-lts.html": {
    "exact": "5e9a7196ce577e3b28c709c8be4d94961992db0d",
@@ -37399,9 +37747,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jre-8-lts.html": {
-   "exact": "9d94773abda21e5ae19ee8621dfa8962b8ff7211",
-   "hash": "9d94773abda21e5ae19ee8621dfa8962b8ff7211",
-   "lastmod": "2026-09-11"
+   "exact": "29ca29eb6cbacbf85c35b513a371ce232b26dde8",
+   "hash": "29ca29eb6cbacbf85c35b513a371ce232b26dde8",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/baldur-karlsson-renderdoc.html": {
    "exact": "347a15639332558e1d847dda08c1a1f28aacb804",
@@ -37429,14 +37777,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/bellsoft-corporation-liberica-jdk.html": {
-   "exact": "2969153f2c618f2f81ed23cfe6ee737f9c50225b",
-   "hash": "2969153f2c618f2f81ed23cfe6ee737f9c50225b",
-   "lastmod": "2026-10-24"
+   "exact": "2470aeb1e3f2efa461b3ace80dc0c5106096c5d2",
+   "hash": "2470aeb1e3f2efa461b3ace80dc0c5106096c5d2",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/ben-olden-cooligan-naps2.html": {
-   "exact": "f18906641c486a018e0a1dad6a7487801462fbfd",
-   "hash": "f18906641c486a018e0a1dad6a7487801462fbfd",
-   "lastmod": "2026-10-24"
+   "exact": "1d058f25e20af40543eebd5573090f0ef08a6f57",
+   "hash": "1d058f25e20af40543eebd5573090f0ef08a6f57",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/benn-huang-chatbox.html": {
    "exact": "ca13a4776d6679d55b50aca3df672a707aa6d121",
@@ -37759,9 +38107,9 @@
    "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/cockos-incorporated-reaper.html": {
-   "exact": "62ddd69a7eb03977f0c274efd84238d4c04bff82",
-   "hash": "62ddd69a7eb03977f0c274efd84238d4c04bff82",
-   "lastmod": "2026-10-05"
+   "exact": "542ae6bf6af747328d3629664541156bd2515289",
+   "hash": "542ae6bf6af747328d3629664541156bd2515289",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/code-sector-teracopy-for-windows.html": {
    "exact": "8513f0c222ddcb57c32bcce804c94ab322c8159a",
@@ -37799,9 +38147,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "059352a0ba5acd233dcbb12398edd5afc0ef19ff",
-   "hash": "059352a0ba5acd233dcbb12398edd5afc0ef19ff",
-   "lastmod": "2026-10-23"
+   "exact": "d21de391aa378658b883a155a31de1f226f6c43a",
+   "hash": "d21de391aa378658b883a155a31de1f226f6c43a",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "f78fe4c0342308dbaaa7f535dbdf2a11148510b4",
@@ -37859,9 +38207,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/datadog-agent.html": {
-   "exact": "0f70ab4b7263e40a473e31065c547b37748fdfce",
-   "hash": "0f70ab4b7263e40a473e31065c547b37748fdfce",
-   "lastmod": "2026-10-23"
+   "exact": "bc8ff12715bbb855fd396592dd64842a3c191ade",
+   "hash": "bc8ff12715bbb855fd396592dd64842a3c191ade",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/david-kocher-cyberduck.html": {
    "exact": "25f0fab361b2ea8780d10e7c02b7a6c216dd1fb3",
@@ -38014,9 +38362,9 @@
    "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/draw-io-desktop.html": {
-   "exact": "0247f88a626d3a0d774750f39c6f829c86d4b904",
-   "hash": "0247f88a626d3a0d774750f39c6f829c86d4b904",
-   "lastmod": "2026-10-19"
+   "exact": "92ae968dea7b0716aebfa761a9e841a458bc605d",
+   "hash": "92ae968dea7b0716aebfa761a9e841a458bc605d",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/drofus.html": {
    "exact": "8930165b3405c0f6abe4fc4a911a978ce75b038d",
@@ -38479,9 +38827,9 @@
    "lastmod": "2026-09-12"
   },
   "https://eam.drung.dev/apps/github-inc-github-cli.html": {
-   "exact": "8de5980e0dfde1757053b5d4a20aae6d04ffbfe4",
-   "hash": "8de5980e0dfde1757053b5d4a20aae6d04ffbfe4",
-   "lastmod": "2026-10-24"
+   "exact": "8222cf1a1836943f78413f34d8aa07403e4a981c",
+   "hash": "8222cf1a1836943f78413f34d8aa07403e4a981c",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/glavsoft-llc-remote-ripple.html": {
    "exact": "49d94c0b4e9e426ba8cf4e12adb786c0f81ffad3",
@@ -39124,9 +39472,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/lucidlink-classic.html": {
-   "exact": "7affe372426382492aa83ae90b2034cf88a24d78",
-   "hash": "7affe372426382492aa83ae90b2034cf88a24d78",
-   "lastmod": "2026-09-30"
+   "exact": "5b6f330dae5655ae7dffad72d739771ab9bba2ea",
+   "hash": "5b6f330dae5655ae7dffad72d739771ab9bba2ea",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/lumivero-nvivo-12.html": {
    "exact": "14f9be8f5f6b39beb64d8482cd543b1024c9fa93",
@@ -39374,9 +39722,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "86fe6930e040f8826fb3f3c3e3e09c0d5a4d8a7c",
-   "hash": "86fe6930e040f8826fb3f3c3e3e09c0d5a4d8a7c",
-   "lastmod": "2026-10-21"
+   "exact": "e94d01d81129e1b0a0baea54c0cdb0479d9d6617",
+   "hash": "e94d01d81129e1b0a0baea54c0cdb0479d9d6617",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "1ce070b2c779bb6dce38951d2236ccc3d1569ff9",
@@ -39434,14 +39782,14 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-net-sdk-8-0.html": {
-   "exact": "779b836601d42a904fae397961270ac20d36b805",
-   "hash": "779b836601d42a904fae397961270ac20d36b805",
-   "lastmod": "2026-10-14"
+   "exact": "06b8aa7fadb82019e979870031bd61f8a84915b1",
+   "hash": "06b8aa7fadb82019e979870031bd61f8a84915b1",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-net-sdk-9-0.html": {
-   "exact": "3521184736062a467aed19810cf646ef0e184fcb",
-   "hash": "3521184736062a467aed19810cf646ef0e184fcb",
-   "lastmod": "2026-10-14"
+   "exact": "cee55790420b2d9f8fd98c676468829e974717c5",
+   "hash": "cee55790420b2d9f8fd98c676468829e974717c5",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-odbc-driver-13-for-sql-server.html": {
    "exact": "1131dd1d592985a69e4751280e6de564b224f108",
@@ -39489,14 +39837,14 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk-17.html": {
-   "exact": "763a528f113729c0eef0f6b49c6e4c8bb86209fd",
-   "hash": "763a528f113729c0eef0f6b49c6e4c8bb86209fd",
-   "lastmod": "2026-09-11"
+   "exact": "800062cbcf8ba63a053ccb9df6f2a4074baebc91",
+   "hash": "800062cbcf8ba63a053ccb9df6f2a4074baebc91",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk.html": {
-   "exact": "eb5d0e033ce0fa8cec8e09df3ab388a954a6c381",
-   "hash": "eb5d0e033ce0fa8cec8e09df3ab388a954a6c381",
-   "lastmod": "2026-09-11"
+   "exact": "b766d0db6050914471a91fdf9794b0838ba54d2c",
+   "hash": "b766d0db6050914471a91fdf9794b0838ba54d2c",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-power-bi-desktop.html": {
    "exact": "2d527d0ac69c3e80a96fafe415094e7f56a52ab6",
@@ -39584,9 +39932,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-management-studio-22.html": {
-   "exact": "6dd8f1eb094e8d9f05b215f4f5f2ec620b093be7",
-   "hash": "6dd8f1eb094e8d9f05b215f4f5f2ec620b093be7",
-   "lastmod": "2026-10-21"
+   "exact": "b1a2402ca3d2ac39fdec05d8824a77f07346467e",
+   "hash": "b1a2402ca3d2ac39fdec05d8824a77f07346467e",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-surface-data-eraser.html": {
    "exact": "f78649b44fa5917eb510925f4af3c0af4075adf7",
@@ -39634,9 +39982,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-community.html": {
-   "exact": "6a0ef4c122031c4fcc6a5f985e20fb2abe40397f",
-   "hash": "6a0ef4c122031c4fcc6a5f985e20fb2abe40397f",
-   "lastmod": "2026-10-14"
+   "exact": "9c6186fb2542c3e60df8885dd953502ff3d37eaf",
+   "hash": "9c6186fb2542c3e60df8885dd953502ff3d37eaf",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-enterprise.html": {
    "exact": "b242a9d51e4657e0f1bf51b404277f52ba7a93c9",
@@ -39649,9 +39997,9 @@
    "lastmod": "2026-10-14"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2026-professional.html": {
-   "exact": "691f33be556a9cbebb4ca9dd7440651b1a40df98",
-   "hash": "691f33be556a9cbebb4ca9dd7440651b1a40df98",
-   "lastmod": "2026-10-21"
+   "exact": "6e2df1c16608e59ab5176a5ccc2bbc2123ee5948",
+   "hash": "6e2df1c16608e59ab5176a5ccc2bbc2123ee5948",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
    "exact": "a93181d8b30fbfb7584505dbb127b349e7210285",
@@ -39659,9 +40007,9 @@
    "lastmod": "2026-10-24"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
-   "exact": "8b8526f38659f91df9f17728bd9ad7581098b7ea",
-   "hash": "8b8526f38659f91df9f17728bd9ad7581098b7ea",
-   "lastmod": "2026-10-14"
+   "exact": "a5ca9761f442e5c0f5fa6f508581b3059311ea20",
+   "hash": "a5ca9761f442e5c0f5fa6f508581b3059311ea20",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-windows-admin-center.html": {
    "exact": "021f820554511de044a9d7d727193a0127dbd265",
@@ -39759,9 +40107,9 @@
    "lastmod": "2026-10-14"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass.html": {
-   "exact": "c731633a676f73e0f507f4ed8b09200729000c52",
-   "hash": "c731633a676f73e0f507f4ed8b09200729000c52",
-   "lastmod": "2026-10-14"
+   "exact": "b2d9b5038d33db3fcba032e1617ec8bfccf3d19f",
+   "hash": "b2d9b5038d33db3fcba032e1617ec8bfccf3d19f",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/moos-project-viewer.html": {
    "exact": "4fdac04b7fc356d36a27ae152df4962179b0d02f",
@@ -39859,9 +40207,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/netbird-gmbh-netbird.html": {
-   "exact": "b3c4ed13448896fe1129f0b4937458c706920a16",
-   "hash": "b3c4ed13448896fe1129f0b4937458c706920a16",
-   "lastmod": "2026-10-20"
+   "exact": "e87ded34da99a685be9bedb846c2db5aeef19c29",
+   "hash": "e87ded34da99a685be9bedb846c2db5aeef19c29",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/netsetman-gmbh-netsetman.html": {
    "exact": "4452cad32918981d8e3791d483203c293ce29657",
@@ -39989,9 +40337,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/nv-access-limited-nv-access-nvda.html": {
-   "exact": "41ad31fe83af14a1a92051b6a222c308c8faaea6",
-   "hash": "41ad31fe83af14a1a92051b6a222c308c8faaea6",
-   "lastmod": "2026-08-31"
+   "exact": "1b627ed79a26333a841188ed5c9644f27c293434",
+   "hash": "1b627ed79a26333a841188ed5c9644f27c293434",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/nvidia-geforce-experience.html": {
    "exact": "83237573417d83593b2562ffbb04e00aef690eb6",
@@ -40064,9 +40412,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/oracle-java-runtime-environment-version-8.html": {
-   "exact": "5b7fa3cde69ede3b4b2ed0ce5952a37249056a7a",
-   "hash": "5b7fa3cde69ede3b4b2ed0ce5952a37249056a7a",
-   "lastmod": "2026-10-23"
+   "exact": "8ad53e4751ffebed15aa4bc1bb0a7e505ad6a621",
+   "hash": "8ad53e4751ffebed15aa4bc1bb0a7e505ad6a621",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/oracle-java-se-development-kit-17.html": {
    "exact": "c7bf82fef88f13e10447ad51581bfd3fc2c58fc8",
@@ -40439,9 +40787,9 @@
    "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/rocket-chat-technologies-corp-rocket-chat.html": {
-   "exact": "95a7b916104c1830bcb82a30f55db77730a63b24",
-   "hash": "95a7b916104c1830bcb82a30f55db77730a63b24",
-   "lastmod": "2026-10-23"
+   "exact": "a830a178bfe56f67258c0611ebf3f45ada20523b",
+   "hash": "a830a178bfe56f67258c0611ebf3f45ada20523b",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/rstudio-1-4.html": {
    "exact": "95dadf6c22da9407325e1a385becfb3c6decd419",
@@ -41244,9 +41592,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "9f404252e4c848b9a1e378e3724f52d641571013",
-   "hash": "9f404252e4c848b9a1e378e3724f52d641571013",
-   "lastmod": "2026-10-23"
+   "exact": "536982cd9d1955a9817ba27ceb327c32907659b7",
+   "hash": "536982cd9d1955a9817ba27ceb327c32907659b7",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",
@@ -41344,9 +41692,9 @@
    "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/vscodium.html": {
-   "exact": "b87cb371e998a1db21ec349439dae1281a9de9bc",
-   "hash": "b87cb371e998a1db21ec349439dae1281a9de9bc",
-   "lastmod": "2026-10-14"
+   "exact": "83e461c5a4cac7b711a61202d25cf38373a207c9",
+   "hash": "83e461c5a4cac7b711a61202d25cf38373a207c9",
+   "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/waterfox-classic.html": {
    "exact": "462e12b9c63086137cae02dedb7efb415d0a7e77",
