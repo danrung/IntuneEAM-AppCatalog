@@ -6681,6 +6681,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.5.0",
+      "2026.6.0",
+      1
+     ]
+    ]
    }
   ],
   "cloud-video-pexip-infinity-connect": [
@@ -9805,19 +9818,6 @@
   "docker-inc-docker-desktop": [
    {
     "added": 0,
-    "date": "2026-04-15",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "4.49.0.208700",
-      "4.65.0.221669",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-03",
     "fields": [],
     "removed": 0,
@@ -10111,6 +10111,19 @@
      [
       "4.96.1.244132",
       "4.96.3.244472",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.96.3.244472",
+      "4.97.0.244584",
       1
      ]
     ]
@@ -11140,6 +11153,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.1.3",
+      "8.1.6",
+      1
+     ]
+    ]
    }
   ],
   "duong-dieu-phap-imageglass": [
@@ -11868,6 +11894,19 @@
      [
       "16.2",
       "16.2.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "16.2.1",
+      "16.3",
       1
      ]
     ]
@@ -14242,6 +14281,19 @@
      [
       "2.103.1",
       "2.103.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.103.2",
+      "2.103.3",
       1
      ]
     ]
@@ -21820,6 +21872,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3000.334.9",
+      "3000.338.2",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-onedrive": [
@@ -23488,6 +23553,19 @@
      [
       "17.14.37710.0",
       "17.14.37806.7",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.14.37806.7",
+      "17.14.37824.6",
       1
      ]
     ]
@@ -25576,6 +25654,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.7.5.260831071",
+      "4.7.6.261022093",
+      1
+     ]
+    ]
    }
   ],
   "mythicsoft-ltd-agent-ransack": [
@@ -25951,6 +26042,19 @@
      [
       "0.81.3",
       "0.81.4",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.81.4",
+      "0.81.5",
       1
      ]
     ]
@@ -28757,6 +28861,19 @@
      [
       "1.43.3.10896",
       "1.43.4.10903",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.43.4.10903",
+      "1.43.5.11079",
       1
      ]
     ]
@@ -33845,6 +33962,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.56.0.3",
+      "2.56.0.4",
+      1
+     ]
+    ]
    }
   ],
   "the-virtualgl-project-turbovnc": [
@@ -34054,6 +34184,15 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [
+     "Branch"
+    ],
+    "removed": 0,
+    "versions": []
    }
   ],
   "topaz-systems-inc-topaz-sigplusextlite": [
@@ -34540,6 +34679,19 @@
      [
       "1.8.2.9",
       "1.8.3.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.8.3.0",
+      "1.8.3.1",
       1
      ]
     ]
@@ -37258,7 +37410,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261026_183422_AppCatalog.json",
+ "history_through": "20261027_043616_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -37267,9 +37419,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "19c19f090366e1bc9bb69884209dfd98615ae2b9",
-   "hash": "29c56e01776f5046762fc6d18774bb721d543772",
-   "lastmod": "2026-10-26"
+   "exact": "8a98e96d1fe35c71ff3317e3ca9a4bdb05b6b4bf",
+   "hash": "a18616be0caba45299437e2aa17e62f2effb9caf",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -38087,9 +38239,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/cloud-software-group-inc-xencenter.html": {
-   "exact": "a55adff475ff8c04ae0114a8bae3102f6e20689d",
-   "hash": "a55adff475ff8c04ae0114a8bae3102f6e20689d",
-   "lastmod": "2026-10-15"
+   "exact": "923b7e68330279625b89c67eb9312774d0d57783",
+   "hash": "923b7e68330279625b89c67eb9312774d0d57783",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/cloud-video-pexip-infinity-connect.html": {
    "exact": "687112457c0dc05173fd62ce6407c454b027d408",
@@ -38337,9 +38489,9 @@
    "lastmod": "2026-10-14"
   },
   "https://eam.drung.dev/apps/docker-inc-docker-desktop.html": {
-   "exact": "bfd219a96e1a19e55c23cc3d80fc4a4090b4f1d6",
-   "hash": "bfd219a96e1a19e55c23cc3d80fc4a4090b4f1d6",
-   "lastmod": "2026-10-23"
+   "exact": "f3bb404d3e60755a95c7c94e7c04d630f2174c7e",
+   "hash": "f3bb404d3e60755a95c7c94e7c04d630f2174c7e",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/dominik-reichl-keepass-password-safe-classic-edition.html": {
    "exact": "2a807271e957308f0916a349a0605a10e79b777e",
@@ -38377,9 +38529,9 @@
    "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/druva-technologies-pte-ltd-druva-insync.html": {
-   "exact": "aa6a2c503807d4bb78735c63412f48e013b120ee",
-   "hash": "aa6a2c503807d4bb78735c63412f48e013b120ee",
-   "lastmod": "2026-08-27"
+   "exact": "d5f0fda43f33d630e6941345eda25f34f03b7744",
+   "hash": "d5f0fda43f33d630e6941345eda25f34f03b7744",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/ducfabulous-ultraviewer.html": {
    "exact": "fa8874d17298361da5bb27a0ab695353b485cb9c",
@@ -38542,9 +38694,9 @@
    "lastmod": "2026-09-19"
   },
   "https://eam.drung.dev/apps/ej-technologies-gmbh-jprofiler.html": {
-   "exact": "45ebc5146a378b9dcf6c10310b207eaf2f85f959",
-   "hash": "45ebc5146a378b9dcf6c10310b207eaf2f85f959",
-   "lastmod": "2026-08-27"
+   "exact": "b47ff1e65e5b802c417c354b0cf4e3e813afc15a",
+   "hash": "b47ff1e65e5b802c417c354b0cf4e3e813afc15a",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/elasticsearch-b-v-beats-winlogbeat.html": {
    "exact": "fd25fe177e9c157c9db36e4dec86dbe725a3bee8",
@@ -38827,9 +38979,9 @@
    "lastmod": "2026-09-12"
   },
   "https://eam.drung.dev/apps/github-inc-github-cli.html": {
-   "exact": "8222cf1a1836943f78413f34d8aa07403e4a981c",
-   "hash": "8222cf1a1836943f78413f34d8aa07403e4a981c",
-   "lastmod": "2026-10-26"
+   "exact": "68aa2dd3387e532f35816a206320f27296308244",
+   "hash": "68aa2dd3387e532f35816a206320f27296308244",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/glavsoft-llc-remote-ripple.html": {
    "exact": "49d94c0b4e9e426ba8cf4e12adb786c0f81ffad3",
@@ -39812,9 +39964,9 @@
    "lastmod": "2026-10-12"
   },
   "https://eam.drung.dev/apps/microsoft-on-premises-data-gateway.html": {
-   "exact": "1fe03fb65917801572038dee41adf1e35951362d",
-   "hash": "1fe03fb65917801572038dee41adf1e35951362d",
-   "lastmod": "2026-10-06"
+   "exact": "8a2af10f9f00ecb0794e30339e8d6078a9a4e423",
+   "hash": "8a2af10f9f00ecb0794e30339e8d6078a9a4e423",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
    "exact": "b5884e6b7648219137b208d5cc92774c47e1f97f",
@@ -39992,9 +40144,9 @@
    "lastmod": "2026-10-14"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-professional.html": {
-   "exact": "35dbe566228dd3e585d5fa0b446abfe4443d8f1b",
-   "hash": "35dbe566228dd3e585d5fa0b446abfe4443d8f1b",
-   "lastmod": "2026-10-14"
+   "exact": "841587b7f0c409390bfeb26a5762bf5fdd5a0ee8",
+   "hash": "841587b7f0c409390bfeb26a5762bf5fdd5a0ee8",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2026-professional.html": {
    "exact": "6e2df1c16608e59ab5176a5ccc2bbc2123ee5948",
@@ -40167,9 +40319,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/musescore-studio-4.html": {
-   "exact": "a44c49374c0a417f7799b914535c4cd819c005f4",
-   "hash": "a44c49374c0a417f7799b914535c4cd819c005f4",
-   "lastmod": "2026-09-09"
+   "exact": "fd64206388e5b95256523219c873545b8c8349ff",
+   "hash": "fd64206388e5b95256523219c873545b8c8349ff",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/mythicsoft-ltd-agent-ransack.html": {
    "exact": "eb5ef24b8d7bec503e384ab3bf82b3d355997f74",
@@ -40207,9 +40359,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/netbird-gmbh-netbird.html": {
-   "exact": "e87ded34da99a685be9bedb846c2db5aeef19c29",
-   "hash": "e87ded34da99a685be9bedb846c2db5aeef19c29",
-   "lastmod": "2026-10-26"
+   "exact": "809305fb2d27c93095192e35b2bb0e475b8d387e",
+   "hash": "809305fb2d27c93095192e35b2bb0e475b8d387e",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/netsetman-gmbh-netsetman.html": {
    "exact": "4452cad32918981d8e3791d483203c293ce29657",
@@ -40592,9 +40744,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/plex-media-server.html": {
-   "exact": "bcc18f33f0fd8637300db743658580ac952cdbac",
-   "hash": "bcc18f33f0fd8637300db743658580ac952cdbac",
-   "lastmod": "2026-09-12"
+   "exact": "d5ec66ffce31c3af7de59f7ca03a9380bc1a9cae",
+   "hash": "d5ec66ffce31c3af7de59f7ca03a9380bc1a9cae",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/poldervalley-selfguide-recorder.html": {
    "exact": "a77baee83ba40795535b73384a2dadfffc801f48",
@@ -41417,9 +41569,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/the-git-development-community-git.html": {
-   "exact": "eb32fc48b572f647aac3f38c5f117fba7c89d6ff",
-   "hash": "eb32fc48b572f647aac3f38c5f117fba7c89d6ff",
-   "lastmod": "2026-10-23"
+   "exact": "6d01d039c07d303c1ceb613a445163c4d47d9136",
+   "hash": "6d01d039c07d303c1ceb613a445163c4d47d9136",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/the-graphviz-authors-graphviz.html": {
    "exact": "7709b4a00892e3d21900c7e926d9c74f690e4a0f",
@@ -41457,9 +41609,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/tightvnc.html": {
-   "exact": "4d58255de990c416904b61c58effb0261ff0176b",
-   "hash": "4d58255de990c416904b61c58effb0261ff0176b",
-   "lastmod": "2026-10-07"
+   "exact": "148158db91c899e5eca13ef01735afc4aee3a133",
+   "hash": "148158db91c899e5eca13ef01735afc4aee3a133",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/topaz-systems-inc-topaz-sigplusextlite.html": {
    "exact": "626b2e1504fa21d8d67400f0186c382d714fae4b",
@@ -41537,9 +41689,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ultravnc.html": {
-   "exact": "038639412b010b25f8cec5186c90d5a85a051768",
-   "hash": "038639412b010b25f8cec5186c90d5a85a051768",
-   "lastmod": "2026-09-16"
+   "exact": "14189b72ca22144307a5798507fffb2904595e11",
+   "hash": "14189b72ca22144307a5798507fffb2904595e11",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/unity-technologies-aps-unity-hub.html": {
    "exact": "454f416ee6ddee1e2b51c449229a41697152feb3",
