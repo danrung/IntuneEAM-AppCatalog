@@ -1274,6 +1274,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.0.33.0.9",
+      "11.0.33.0.10",
+      1
+     ]
+    ]
    }
   ],
   "amazon-corretto-jdk-17": [
@@ -1351,6 +1364,19 @@
      [
       "17.0.20.12.1",
       "17.0.21.0.10",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.0.21.0.10",
+      "17.0.21.0.11",
       1
      ]
     ]
@@ -1444,6 +1470,19 @@
      [
       "8.504.04.1",
       "8.512.08.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.512.08.1",
+      "8.512.09.1",
       1
      ]
     ]
@@ -13764,6 +13803,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.22.0",
+      "1.22.1",
+      1
+     ]
+    ]
    }
   ],
   "genesys-cloud": [
@@ -17869,6 +17921,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.12.1",
+      "3.13",
+      1
+     ]
+    ]
    }
   ],
   "junction-networks-onsip": [
@@ -20205,6 +20270,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.68.03532.3282",
+      "1.69.03579.3449",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-azure-functions-core-tools": [
@@ -22128,6 +22206,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.183.0920.0005",
+      "26.189.0928.0009",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-openjdk": [
@@ -23328,6 +23419,19 @@
      [
       "17.14.37710.0",
       "17.14.37806.7",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.14.37806.7",
+      "17.14.37824.6",
       1
      ]
     ]
@@ -26471,6 +26575,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.6.1",
+      "7.6.2",
+      1
+     ]
+    ]
    }
   ],
   "nice-software-amazon-dcv-client": [
@@ -28291,6 +28408,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.0.5.76602",
+      "26.0.6.76873",
+      1
+     ]
+    ]
    }
   ],
   "papercut-software-pty-ltd-papercut-mobility-print": [
@@ -28400,6 +28530,19 @@
      [
       "24.1.10.76611",
       "24.1.11.76721",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.0.5.76603",
+      "26.0.6.76874",
       1
      ]
     ]
@@ -31547,6 +31690,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "12.11.9.9",
+      "12.11.12.2",
+      1
+     ]
+    ]
    }
   ],
   "siber-systems-inc-roboform": [
@@ -31678,6 +31834,19 @@
      [
       "1.4.0",
       "1.4.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.4.1",
+      "1.4.2",
       1
      ]
     ]
@@ -34692,7 +34861,7 @@
      [
       "1.8.3.0",
       "1.8.3.1",
-      1
+      2
      ]
     ]
    }
@@ -37410,7 +37579,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261027_043616_AppCatalog.json",
+ "history_through": "20261027_174957_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -37419,8 +37588,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "8a98e96d1fe35c71ff3317e3ca9a4bdb05b6b4bf",
-   "hash": "a18616be0caba45299437e2aa17e62f2effb9caf",
+   "exact": "91aecbca964f9425f56573e7149e615879927313",
+   "hash": "57c6c361313444fb3380840c474832eefc405631",
    "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -37544,9 +37713,9 @@
    "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-11.html": {
-   "exact": "d89d5b5b7aafa830c9405ac9dec8a1e1247c433c",
-   "hash": "d89d5b5b7aafa830c9405ac9dec8a1e1247c433c",
-   "lastmod": "2026-10-23"
+   "exact": "e91cdb8519c980d11e6794548e3215509b8b462c",
+   "hash": "e91cdb8519c980d11e6794548e3215509b8b462c",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-15.html": {
    "exact": "23af505aaedb0b0e383882875d615d8a05d8d6ef",
@@ -37559,9 +37728,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-17.html": {
-   "exact": "131488480d89bb407c07ecfb866fb82629533665",
-   "hash": "131488480d89bb407c07ecfb866fb82629533665",
-   "lastmod": "2026-10-24"
+   "exact": "92aa50749ec2a2689c3e39e0d466fee8666a0629",
+   "hash": "92aa50749ec2a2689c3e39e0d466fee8666a0629",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-18.html": {
    "exact": "2a9fc06c369eaca96e191ef76c491d90e0b842fe",
@@ -37574,9 +37743,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-8.html": {
-   "exact": "a1c925658d2a956c79756ccb91bbde2b6eaa8aed",
-   "hash": "a1c925658d2a956c79756ccb91bbde2b6eaa8aed",
-   "lastmod": "2026-10-23"
+   "exact": "cdc24d1d9c55d093c89928a77d6bfa93ec77c0a5",
+   "hash": "cdc24d1d9c55d093c89928a77d6bfa93ec77c0a5",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/amazon-kindle.html": {
    "exact": "e58c05e0f4d4b80b02cd71567e5595424a163b37",
@@ -38944,9 +39113,9 @@
    "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/general-workings-inc-general-workings-streamlabs-obs.html": {
-   "exact": "644225af634e3787b733b6545e46d8aad162fd25",
-   "hash": "644225af634e3787b733b6545e46d8aad162fd25",
-   "lastmod": "2026-10-23"
+   "exact": "37974f97d750ba37cdf2a5614df774b91cce1f94",
+   "hash": "37974f97d750ba37cdf2a5614df774b91cce1f94",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/genesys-cloud-background-assistant.html": {
    "exact": "a3fddb93f62018396203e49c30ecf2a9a1429d04",
@@ -39394,9 +39563,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/john-macfarlane-pandoc.html": {
-   "exact": "67b9baa37ef539eff7412276948aed83c3a153dd",
-   "hash": "67b9baa37ef539eff7412276948aed83c3a153dd",
-   "lastmod": "2026-10-08"
+   "exact": "a3b970423b430a4391cfdb4d4c614e75685985c0",
+   "hash": "a3b970423b430a4391cfdb4d4c614e75685985c0",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/junction-networks-onsip.html": {
    "exact": "c6085a4749aeec75d8add65e3f00a012228bc860",
@@ -39814,9 +39983,9 @@
    "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/microsoft-azure-connected-machine-agent.html": {
-   "exact": "f7844a6322ef429895a35de741f21dfca550c8a1",
-   "hash": "f7844a6322ef429895a35de741f21dfca550c8a1",
-   "lastmod": "2026-09-15"
+   "exact": "6a4f7f868ab54a093eb0eacd85567557cd5fca07",
+   "hash": "6a4f7f868ab54a093eb0eacd85567557cd5fca07",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/microsoft-azure-data-cli.html": {
    "exact": "36bb52dd9d1f1950d4fc61c1bfb4f041b598f191",
@@ -39969,9 +40138,9 @@
    "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
-   "exact": "b5884e6b7648219137b208d5cc92774c47e1f97f",
-   "hash": "b5884e6b7648219137b208d5cc92774c47e1f97f",
-   "lastmod": "2026-10-19"
+   "exact": "6b2b19e0f07533741f34b543777f6dd71d0be309",
+   "hash": "6b2b19e0f07533741f34b543777f6dd71d0be309",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/microsoft-onenote.html": {
    "exact": "4d2f63ac4d65b6b192c7ec10c44dd44c151a0f70",
@@ -40139,9 +40308,9 @@
    "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-enterprise.html": {
-   "exact": "b242a9d51e4657e0f1bf51b404277f52ba7a93c9",
-   "hash": "b242a9d51e4657e0f1bf51b404277f52ba7a93c9",
-   "lastmod": "2026-10-14"
+   "exact": "6958f721db30750826bdcb4475eca7db50034974",
+   "hash": "6958f721db30750826bdcb4475eca7db50034974",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-professional.html": {
    "exact": "841587b7f0c409390bfeb26a5762bf5fdd5a0ee8",
@@ -40389,9 +40558,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ngwin-picpick.html": {
-   "exact": "78a085d49b97962558de4eb88c2497742b7b0266",
-   "hash": "78a085d49b97962558de4eb88c2497742b7b0266",
-   "lastmod": "2026-09-22"
+   "exact": "598556da8945963ab271f87a50fda873057a1840",
+   "hash": "598556da8945963ab271f87a50fda873057a1840",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/nice-software-amazon-dcv-client.html": {
    "exact": "4a521936da2868ebf39289558c8a18a9fd231b50",
@@ -40619,9 +40788,9 @@
    "lastmod": "2026-09-14"
   },
   "https://eam.drung.dev/apps/papercut-software-pty-ltd-papercut-mf.html": {
-   "exact": "d90414381da76a803a09222e346075d671c7fa0c",
-   "hash": "d90414381da76a803a09222e346075d671c7fa0c",
-   "lastmod": "2026-10-12"
+   "exact": "121ebbea5e8f3e7a77cef8ea63b51147b2a4004c",
+   "hash": "121ebbea5e8f3e7a77cef8ea63b51147b2a4004c",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/papercut-software-pty-ltd-papercut-mobility-print.html": {
    "exact": "e3173d9e5f994b0c4388568c4644a0ce6179417a",
@@ -40629,9 +40798,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/papercut-software-pty-ltd-papercut-ng.html": {
-   "exact": "c5df4057e1b4737f642f5acdeb3abfdefbaee56d",
-   "hash": "c5df4057e1b4737f642f5acdeb3abfdefbaee56d",
-   "lastmod": "2026-10-12"
+   "exact": "90acc4904d6f2c941861ca0466940879851aef70",
+   "hash": "90acc4904d6f2c941861ca0466940879851aef70",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/paperpile-llc-paperpile.html": {
    "exact": "85ecc90292b10dbe0d21ce110d2a19d8874f759c",
@@ -41114,9 +41283,9 @@
    "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-goodsync-personal.html": {
-   "exact": "f085bde689861c38bade284fb7bfb96748ab3b41",
-   "hash": "f085bde689861c38bade284fb7bfb96748ab3b41",
-   "lastmod": "2026-10-06"
+   "exact": "e10de9c7bff6bc02d5835835971d49d2d6fbee86",
+   "hash": "e10de9c7bff6bc02d5835835971d49d2d6fbee86",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-roboform.html": {
    "exact": "3329f65e15b10e25ca62a5f6e8efdf4543c8b118",
@@ -41124,9 +41293,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/sidequest.html": {
-   "exact": "dc83fab4462d38087f93dbae78ae75f01952265b",
-   "hash": "dc83fab4462d38087f93dbae78ae75f01952265b",
-   "lastmod": "2026-10-08"
+   "exact": "b2f57825c782d4e72de3854419d0987d07cf1238",
+   "hash": "b2f57825c782d4e72de3854419d0987d07cf1238",
+   "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/signiant-inc-signiant-app.html": {
    "exact": "d04bb6b6219bdba607a3c8e882545b896cc155dd",
@@ -41689,8 +41858,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/ultravnc.html": {
-   "exact": "14189b72ca22144307a5798507fffb2904595e11",
-   "hash": "14189b72ca22144307a5798507fffb2904595e11",
+   "exact": "4a727a3d2e28f6927f00d170ea0a7323d56aa9c6",
+   "hash": "4a727a3d2e28f6927f00d170ea0a7323d56aa9c6",
    "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/unity-technologies-aps-unity-hub.html": {
