@@ -21077,13 +21077,6 @@
   ],
   "microsoft-edge-dev": [
    {
-    "added": 1,
-    "date": "2026-05-20",
-    "fields": [],
-    "removed": 0,
-    "versions": []
-   },
-   {
     "added": 0,
     "date": "2026-05-21",
     "fields": [],
@@ -21383,6 +21376,19 @@
      [
       "157.0.4329.0",
       "158.0.4344.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "158.0.4344.0",
+      "158.0.4357.0",
       1
      ]
     ]
@@ -22733,6 +22739,19 @@
      [
       "0.101.2362.0",
       "0.102.2933.0",
+      2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.102.2933.0",
+      "0.102.3001.0",
       2
      ]
     ]
@@ -25055,19 +25074,6 @@
   "mozilla-firefox": [
    {
     "added": 0,
-    "date": "2026-06-19",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "152.0",
-      "152.0.1",
-      46
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-24",
     "fields": [],
     "removed": 0,
@@ -25369,6 +25375,19 @@
       47
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "158.0.1",
+      "159.0",
+      28
+     ]
+    ]
    }
   ],
   "mozilla-firefox-esr-115": [
@@ -25578,6 +25597,19 @@
       "115.42.0",
       "115.43.0",
       45
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "115.43.0",
+      "115.44.0",
+      13
      ]
     ]
    }
@@ -31150,6 +31182,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.9.11",
+      "7.9.12",
+      1
+     ]
+    ]
    }
   ],
   "semeru-ibm-semeru-runtime-open-edition-jdk-11-lts": [
@@ -31529,6 +31574,19 @@
      [
       "12.11.8.8",
       "12.11.9.9",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "12.11.9.9",
+      "12.11.12.2",
       1
      ]
     ]
@@ -32229,6 +32287,19 @@
      [
       "10.0.3332.0",
       "10.0.3333.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.0.3333.0",
+      "10.0.3334.0",
       1
      ]
     ]
@@ -33672,6 +33743,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "15.82.6.0",
+      "15.83.3.0",
+      1
+     ]
+    ]
    }
   ],
   "teamviewer-gmbh-teamviewer-host": [
@@ -33813,6 +33897,19 @@
      [
       "15.64.8.0",
       "15.82.6.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "15.82.6.0",
+      "15.83.3.0",
       1
      ]
     ]
@@ -35900,6 +35997,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.7.6",
+      "6.7.7",
+      1
+     ]
+    ]
    }
   ],
   "wazuh-inc-wazuh-agent": [
@@ -36707,19 +36817,6 @@
   "zandar-labs-sl-aptakube": [
    {
     "added": 0,
-    "date": "2026-07-15",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.18.4",
-      "1.18.5",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-22",
     "fields": [],
     "removed": 0,
@@ -37013,6 +37110,19 @@
      [
       "1.21.5",
       "1.21.6",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.21.6",
+      "1.22.0",
       1
      ]
     ]
@@ -37579,7 +37689,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261027_174957_AppCatalog.json",
+ "history_through": "20261028_050945_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -37588,9 +37698,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "91aecbca964f9425f56573e7149e615879927313",
-   "hash": "57c6c361313444fb3380840c474832eefc405631",
-   "lastmod": "2026-10-27"
+   "exact": "9ee6ec66e7eacf403a112acc8fad980d32fbdff2",
+   "hash": "7e9628dcb402844e9aca8ddab7a0a893d9b0104f",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
@@ -40048,9 +40158,9 @@
    "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
-   "exact": "1ce070b2c779bb6dce38951d2236ccc3d1569ff9",
-   "hash": "1ce070b2c779bb6dce38951d2236ccc3d1569ff9",
-   "lastmod": "2026-10-21"
+   "exact": "0c87be6cab7c0e74189b47e438ef193b90997aeb",
+   "hash": "0c87be6cab7c0e74189b47e438ef193b90997aeb",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/microsoft-edge-for-business.html": {
    "exact": "1486fe0e9ab62fa1312837954d5cd80f1d8ec8e2",
@@ -40178,9 +40288,9 @@
    "lastmod": "2026-10-24"
   },
   "https://eam.drung.dev/apps/microsoft-powertoys.html": {
-   "exact": "e4445475b5ef31e44b614d3e7ac3f5a8cfa2e4d5",
-   "hash": "e4445475b5ef31e44b614d3e7ac3f5a8cfa2e4d5",
-   "lastmod": "2026-10-22"
+   "exact": "073d740a1ccfb7be407f65354ce46228cf6c8127",
+   "hash": "073d740a1ccfb7be407f65354ce46228cf6c8127",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/microsoft-purview-information-protection-client.html": {
    "exact": "86d69f1135340be5223987d1e8efecc2b43f750c",
@@ -40443,14 +40553,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/mozilla-firefox-esr-115.html": {
-   "exact": "183d0deae2e11e93c6c716b4cde9097bc9aa8a85",
-   "hash": "183d0deae2e11e93c6c716b4cde9097bc9aa8a85",
-   "lastmod": "2026-10-14"
+   "exact": "23011f35c426348012afdc27f2ffae300392a096",
+   "hash": "23011f35c426348012afdc27f2ffae300392a096",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
-   "exact": "11dadb21b7eb8090e41e6241a354ca6f9c115844",
-   "hash": "11dadb21b7eb8090e41e6241a354ca6f9c115844",
-   "lastmod": "2026-10-21"
+   "exact": "842676335236cc8d54125a16c3c923f57f0cab9b",
+   "hash": "842676335236cc8d54125a16c3c923f57f0cab9b",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/mozilla-frontmotion-firefox-community-edition-esr.html": {
    "exact": "e1924c59caa32d75297d8d3be7b0b0a7d8c68523",
@@ -41188,9 +41298,9 @@
    "lastmod": "2026-09-25"
   },
   "https://eam.drung.dev/apps/sejda-bv-sejda-pdf-desktop.html": {
-   "exact": "8c43005732c930953f62bfa0ff7a61cedd2ddbd2",
-   "hash": "8c43005732c930953f62bfa0ff7a61cedd2ddbd2",
-   "lastmod": "2026-08-29"
+   "exact": "bf9ea01e8f44d3e41b7c9b7774a7ca51db015b58",
+   "hash": "bf9ea01e8f44d3e41b7c9b7774a7ca51db015b58",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/semeru-ibm-semeru-runtime-open-edition-jdk-11-lts.html": {
    "exact": "e06526fb8d35cd7bf264a682eca940b6b505f9a5",
@@ -41278,9 +41388,9 @@
    "lastmod": "2026-09-28"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-goodsync-12.html": {
-   "exact": "eb66f17a70a97380ed1148d0684cbd900d020135",
-   "hash": "eb66f17a70a97380ed1148d0684cbd900d020135",
-   "lastmod": "2026-10-08"
+   "exact": "d6100b3e562ac31f3eb35e908ab73d86642a8503",
+   "hash": "d6100b3e562ac31f3eb35e908ab73d86642a8503",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-goodsync-personal.html": {
    "exact": "e10de9c7bff6bc02d5835835971d49d2d6fbee86",
@@ -41348,9 +41458,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/smartsoft-ltd-smartftp-client.html": {
-   "exact": "238ed0c0457b40b27571c250aad3256ae3b67530",
-   "hash": "238ed0c0457b40b27571c250aad3256ae3b67530",
-   "lastmod": "2026-10-15"
+   "exact": "97b4a0de62cb721f7dda4ab6fcee08688093671c",
+   "hash": "97b4a0de62cb721f7dda4ab6fcee08688093671c",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/smath-llc-smath-studio.html": {
    "exact": "d05d0ad0980dfe7b654f684d3fc9a9b786e3e13d",
@@ -41583,14 +41693,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer-host.html": {
-   "exact": "8e96e5ace90cee246f66cfefce556187ba0ff70c",
-   "hash": "8e96e5ace90cee246f66cfefce556187ba0ff70c",
-   "lastmod": "2026-09-30"
+   "exact": "24f1c3b73294a7ea3f8597eacd36ec293b4ba6d4",
+   "hash": "24f1c3b73294a7ea3f8597eacd36ec293b4ba6d4",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer.html": {
-   "exact": "1bdcfeb4a21a2a2fd86d1cbf0958145b0bbccbf9",
-   "hash": "1bdcfeb4a21a2a2fd86d1cbf0958145b0bbccbf9",
-   "lastmod": "2026-09-30"
+   "exact": "4d7b20ac74359f946f9a8d888e12e15207602dcd",
+   "hash": "4d7b20ac74359f946f9a8d888e12e15207602dcd",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/techsmith-corporation-camtasia-2018.html": {
    "exact": "0c84364f2646f2c27c6fec60799f7c819001ce68",
@@ -42023,9 +42133,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/waterfox.html": {
-   "exact": "f785f9b967694064414e316df4e85e6d2b55da73",
-   "hash": "f785f9b967694064414e316df4e85e6d2b55da73",
-   "lastmod": "2026-10-14"
+   "exact": "e5e8490424d82723ba6eb8b83f81cb5b4415fe21",
+   "hash": "e5e8490424d82723ba6eb8b83f81cb5b4415fe21",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/wazuh-inc-wazuh-agent.html": {
    "exact": "4301e65a830f1d57fdf5aa39bbcb09856053c525",
@@ -42163,9 +42273,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "f0667d2cf97e3f26caf2c8aef46c9d33cd22616b",
-   "hash": "f0667d2cf97e3f26caf2c8aef46c9d33cd22616b",
-   "lastmod": "2026-10-22"
+   "exact": "5053c46ef64246841400774bff47ba6108bbcace",
+   "hash": "5053c46ef64246841400774bff47ba6108bbcace",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",
