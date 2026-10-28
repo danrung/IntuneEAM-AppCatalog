@@ -154,6 +154,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.3.5",
+      "4.3.6",
+      1
+     ],
+     [
+      "4.4.4",
+      "4.4.5",
+      1
+     ]
+    ]
    }
   ],
   "2brightsparks-ptd-ltd-syncbackfree": [
@@ -4056,6 +4074,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.513.5",
+      "8.0.513.9",
+      1
+     ]
+    ]
    }
   ],
   "ben-olden-cooligan-naps2": [
@@ -4980,19 +5011,6 @@
   "brave-software-inc-brave-browser": [
    {
     "added": 0,
-    "date": "2026-06-11",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.91.168",
-      "1.91.171",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-15",
     "fields": [],
     "removed": 0,
@@ -5286,6 +5304,19 @@
      [
       "1.97.57",
       "1.97.59",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.97.59",
+      "1.98.60",
       1
      ]
     ]
@@ -8948,19 +8979,6 @@
   "devolutions-inc-devolutions-launcher": [
    {
     "added": 0,
-    "date": "2026-04-15",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "2025.3.25.0",
-      "2026.1.18.0",
-      2
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-04-30",
     "fields": [],
     "removed": 0,
@@ -9272,6 +9290,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.15.0",
+      "2026.3.16.0",
+      2
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager": [
@@ -9514,6 +9545,19 @@
      [
       "2026.3.13.0",
       "2026.3.15.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.15.0",
+      "2026.3.16.0",
       1
      ]
     ]
@@ -11164,6 +11208,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "276.4.5266",
+      "277.4.4974",
+      2
+     ]
+    ]
    }
   ],
   "druva-technologies-pte-ltd-druva-insync": [
@@ -12320,19 +12377,6 @@
   "evernote": [
    {
     "added": 0,
-    "date": "2026-05-20",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "11.16.3",
-      "11.17.3",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-28",
     "fields": [],
     "removed": 0,
@@ -12626,6 +12670,19 @@
      [
       "11.38.5",
       "11.39.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.39.2",
+      "11.40.2",
       1
      ]
     ]
@@ -13813,6 +13870,19 @@
      [
       "1.22.0",
       "1.22.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.22.1",
+      "1.22.2",
       1
      ]
     ]
@@ -20759,19 +20829,6 @@
   "microsoft-edge-beta": [
    {
     "added": 0,
-    "date": "2026-08-12",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "152.0.4191.10",
-      "152.0.4191.19",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-08-19",
     "fields": [],
     "removed": 0,
@@ -21070,6 +21127,19 @@
      [
       "157.0.4341.10",
       "157.0.4341.16",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "157.0.4341.16",
+      "157.0.4341.24",
       1
      ]
     ]
@@ -24440,6 +24510,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.10.121159",
+      "2026.10.261408",
+      1
+     ]
+    ]
    }
   ],
   "mitel-networks-corporation-mitel-micollab": [
@@ -24727,6 +24810,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.53.1",
+      "1.53.2",
+      1
+     ]
+    ]
    }
   ],
   "mongodb-inc-mongodb-compass-isolated-edition": [
@@ -24898,6 +24994,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.53.0",
+      "1.53.2",
+      1
+     ]
+    ]
    }
   ],
   "mongodb-inc-mongodb-compass-readonly-edition": [
@@ -25066,6 +25175,19 @@
      [
       "1.52.0",
       "1.53.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.53.0",
+      "1.53.2",
       1
      ]
     ]
@@ -25385,7 +25507,7 @@
      [
       "158.0.1",
       "159.0",
-      28
+      47
      ]
     ]
    }
@@ -25609,7 +25731,12 @@
      [
       "115.43.0",
       "115.44.0",
-      13
+      45
+     ],
+     [
+      "115.42.0",
+      "115.44.0",
+      1
      ]
     ]
    }
@@ -27826,6 +27953,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.0.3",
+      "5.1",
+      1
+     ]
+    ]
    }
   ],
   "openshot-studios-openshot-video-editor": [
@@ -28117,6 +28257,19 @@
     "versions": [
      [
       "8.0.5110.32",
+      "8.0.5110.33",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.5030.01",
       "8.0.5110.33",
       1
      ]
@@ -28478,6 +28631,19 @@
      [
       "1.0.4094",
       "1.0.4216",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.0.4216",
+      "1.0.4309",
       1
      ]
     ]
@@ -30590,6 +30756,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.18.5",
+      "4.19.0",
+      1
+     ]
+    ]
    }
   ],
   "rstudio": [
@@ -31048,6 +31227,19 @@
     ],
     "removed": 0,
     "versions": []
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.2.6.32774",
+      "5.2.7.32913",
+      1
+     ]
+    ]
    }
   ],
   "secrypt-mgbh-digiseal-reader": [
@@ -33595,6 +33787,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.104.2",
+      "1.104.4",
+      1
+     ]
+    ]
    }
   ],
   "talkdesk-inc-talkdesk": [
@@ -34320,6 +34525,19 @@
      [
       "2.16.58",
       "2.16.58.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.16.58.2",
+      "2.16.60",
       1
      ]
     ]
@@ -35248,19 +35466,6 @@
   "vim-developers-vim": [
    {
     "added": 0,
-    "date": "2026-07-15",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "9.2.0677",
-      "9.2.0782",
-      2
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-30",
     "fields": [],
     "removed": 0,
@@ -35615,6 +35820,19 @@
       "9.2.1217",
       "9.2.1240",
       1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1240",
+      "9.2.1252",
+      2
      ]
     ]
    }
@@ -37689,7 +37907,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261028_050945_AppCatalog.json",
+ "history_through": "20261028_181413_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -37698,14 +37916,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "9ee6ec66e7eacf403a112acc8fad980d32fbdff2",
-   "hash": "7e9628dcb402844e9aca8ddab7a0a893d9b0104f",
+   "exact": "ba40d357bb3efb54d9fbdcbb60db5db0588d798c",
+   "hash": "18769fc605ddab5e7464c689f4b4fc84b934b9aa",
    "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
-   "exact": "6124e38c1b8063726095d058f532b9f143ee1a18",
-   "hash": "6124e38c1b8063726095d058f532b9f143ee1a18",
-   "lastmod": "2026-10-05"
+   "exact": "d5f465d329e4c68295deb5d0fbdab5c51222885e",
+   "hash": "d5f465d329e4c68295deb5d0fbdab5c51222885e",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-syncbackfree.html": {
    "exact": "6c6d3f28516e7c3c88cbf95ac85142c55c348c21",
@@ -38208,9 +38426,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/bellsoft-corporation-liberica-jdk.html": {
-   "exact": "2470aeb1e3f2efa461b3ace80dc0c5106096c5d2",
-   "hash": "2470aeb1e3f2efa461b3ace80dc0c5106096c5d2",
-   "lastmod": "2026-10-26"
+   "exact": "23cab33598529cf3f1b885894ae2b51d6d28d165",
+   "hash": "23cab33598529cf3f1b885894ae2b51d6d28d165",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/ben-olden-cooligan-naps2.html": {
    "exact": "1d058f25e20af40543eebd5573090f0ef08a6f57",
@@ -38318,9 +38536,9 @@
    "lastmod": "2026-10-24"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "8e6adfe3d90c16d24c5f3220efd515cc3ca7c8ab",
-   "hash": "8e6adfe3d90c16d24c5f3220efd515cc3ca7c8ab",
-   "lastmod": "2026-10-19"
+   "exact": "5f3ab9e6c83046bc189a41d7198188025cfe071f",
+   "hash": "5f3ab9e6c83046bc189a41d7198188025cfe071f",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "f05b6b1175f1470b9fee50fcad7408888d0cc0c0",
@@ -38733,9 +38951,9 @@
    "lastmod": "2026-09-10"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html": {
-   "exact": "c2e76a75eb4888e258363c5e19acbf4a9f1f87be",
-   "hash": "c2e76a75eb4888e258363c5e19acbf4a9f1f87be",
-   "lastmod": "2026-10-17"
+   "exact": "03fafcef3dd1e65f799304c2a674d3613d366d84",
+   "hash": "03fafcef3dd1e65f799304c2a674d3613d366d84",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html": {
    "exact": "c162eaba79751b32e3666085748e8c7c79b707c3",
@@ -38743,9 +38961,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html": {
-   "exact": "ffb6139eeb248514cbac7afcd168d7b89e1a6635",
-   "hash": "ffb6139eeb248514cbac7afcd168d7b89e1a6635",
-   "lastmod": "2026-10-17"
+   "exact": "3cb313bec040215e772005c73e4286ad931ecd1a",
+   "hash": "3cb313bec040215e772005c73e4286ad931ecd1a",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-workspace.html": {
    "exact": "cab5c26bfe4145300e51e79ac3157fe33a2a2e3b",
@@ -38803,9 +39021,9 @@
    "lastmod": "2026-10-22"
   },
   "https://eam.drung.dev/apps/dropbox.html": {
-   "exact": "3c5bdbf9a851f2e6849500ca66dc951f67c95600",
-   "hash": "3c5bdbf9a851f2e6849500ca66dc951f67c95600",
-   "lastmod": "2026-10-21"
+   "exact": "5c292338280b9f312b94ccad4733b9abad87087d",
+   "hash": "5c292338280b9f312b94ccad4733b9abad87087d",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/druva-technologies-pte-ltd-druva-insync.html": {
    "exact": "d5f0fda43f33d630e6941345eda25f34f03b7744",
@@ -39043,9 +39261,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/evernote.html": {
-   "exact": "52158cdfa582838a32289a077d7cbfd32ff0ed97",
-   "hash": "52158cdfa582838a32289a077d7cbfd32ff0ed97",
-   "lastmod": "2026-10-21"
+   "exact": "58206f326342f58277b0ee57f17bc3ec3c0dbebf",
+   "hash": "58206f326342f58277b0ee57f17bc3ec3c0dbebf",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/exacq-technologies-exacqvision-client.html": {
    "exact": "9bc9aa9a57d835275ffde248e48402a5fc05e834",
@@ -39223,9 +39441,9 @@
    "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/general-workings-inc-general-workings-streamlabs-obs.html": {
-   "exact": "37974f97d750ba37cdf2a5614df774b91cce1f94",
-   "hash": "37974f97d750ba37cdf2a5614df774b91cce1f94",
-   "lastmod": "2026-10-27"
+   "exact": "7fef8621b4ee71ade3243eef50590c2f460a652e",
+   "hash": "7fef8621b4ee71ade3243eef50590c2f460a652e",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/genesys-cloud-background-assistant.html": {
    "exact": "a3fddb93f62018396203e49c30ecf2a9a1429d04",
@@ -40153,9 +40371,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "e94d01d81129e1b0a0baea54c0cdb0479d9d6617",
-   "hash": "e94d01d81129e1b0a0baea54c0cdb0479d9d6617",
-   "lastmod": "2026-10-26"
+   "exact": "fd9c2944ce1d85e3d25ee691261dd448163c5456",
+   "hash": "fd9c2944ce1d85e3d25ee691261dd448163c5456",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "0c87be6cab7c0e74189b47e438ef193b90997aeb",
@@ -40493,9 +40711,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/mirantis-inc-lens-desktop.html": {
-   "exact": "69225d8591026e23be069b275ec4a71a286782c2",
-   "hash": "69225d8591026e23be069b275ec4a71a286782c2",
-   "lastmod": "2026-10-14"
+   "exact": "f5ae220e9a7fadabcc845c6cb5884bf0d100fe12",
+   "hash": "f5ae220e9a7fadabcc845c6cb5884bf0d100fe12",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/mitel-networks-corporation-mitel-micollab.html": {
    "exact": "2da35b7857657c5432d262f8940c00262c7e7d77",
@@ -40528,19 +40746,19 @@
    "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass-isolated-edition.html": {
-   "exact": "61278e4a8d7e48244266e13173a2818aa7befd73",
-   "hash": "61278e4a8d7e48244266e13173a2818aa7befd73",
-   "lastmod": "2026-10-14"
+   "exact": "b3cb0c68a72c9d7d686591271a70bf77dcd33d21",
+   "hash": "b3cb0c68a72c9d7d686591271a70bf77dcd33d21",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass-readonly-edition.html": {
-   "exact": "1becc440a517d6b8715ee81c4e90f9e8e4ffc1e1",
-   "hash": "1becc440a517d6b8715ee81c4e90f9e8e4ffc1e1",
-   "lastmod": "2026-10-14"
+   "exact": "3e4c71bdfc30350a8e4594be5144d05cd3511078",
+   "hash": "3e4c71bdfc30350a8e4594be5144d05cd3511078",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass.html": {
-   "exact": "b2d9b5038d33db3fcba032e1617ec8bfccf3d19f",
-   "hash": "b2d9b5038d33db3fcba032e1617ec8bfccf3d19f",
-   "lastmod": "2026-10-26"
+   "exact": "f41ca3c61623a94ef07119034bee991bea8479cb",
+   "hash": "f41ca3c61623a94ef07119034bee991bea8479cb",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/moos-project-viewer.html": {
    "exact": "4fdac04b7fc356d36a27ae152df4962179b0d02f",
@@ -40553,13 +40771,13 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/mozilla-firefox-esr-115.html": {
-   "exact": "23011f35c426348012afdc27f2ffae300392a096",
-   "hash": "23011f35c426348012afdc27f2ffae300392a096",
+   "exact": "1af7944c45da28b126877c1e76a38345207c34df",
+   "hash": "1af7944c45da28b126877c1e76a38345207c34df",
    "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
-   "exact": "842676335236cc8d54125a16c3c923f57f0cab9b",
-   "hash": "842676335236cc8d54125a16c3c923f57f0cab9b",
+   "exact": "2e16edcfdd491cde921e1cfe1c657ed75cbb73a7",
+   "hash": "2e16edcfdd491cde921e1cfe1c657ed75cbb73a7",
    "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/mozilla-frontmotion-firefox-community-edition-esr.html": {
@@ -40803,9 +41021,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/openaudible-org-openaudible.html": {
-   "exact": "3ce5be3e14710bd3ae3cad34a41738d187898fb8",
-   "hash": "3ce5be3e14710bd3ae3cad34a41738d187898fb8",
-   "lastmod": "2026-10-19"
+   "exact": "54bd46861ec71b56ad3894d9ad14e581ec6da3e3",
+   "hash": "54bd46861ec71b56ad3894d9ad14e581ec6da3e3",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/opendns-umbrella-roaming-client.html": {
    "exact": "625486ba83afe834a20a39d68f22038ef69c9a99",
@@ -40843,9 +41061,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/oracle-java-runtime-environment-version-8.html": {
-   "exact": "8ad53e4751ffebed15aa4bc1bb0a7e505ad6a621",
-   "hash": "8ad53e4751ffebed15aa4bc1bb0a7e505ad6a621",
-   "lastmod": "2026-10-26"
+   "exact": "52ef4e8b0c94ba48190b1e6344d920de1b786b4c",
+   "hash": "52ef4e8b0c94ba48190b1e6344d920de1b786b4c",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/oracle-java-se-development-kit-17.html": {
    "exact": "c7bf82fef88f13e10447ad51581bfd3fc2c58fc8",
@@ -40903,9 +41121,9 @@
    "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/papercut-software-pty-ltd-papercut-mobility-print.html": {
-   "exact": "e3173d9e5f994b0c4388568c4644a0ce6179417a",
-   "hash": "e3173d9e5f994b0c4388568c4644a0ce6179417a",
-   "lastmod": "2026-08-28"
+   "exact": "91963f4c18319bb7c2dc9273ea4a83a06273d657",
+   "hash": "91963f4c18319bb7c2dc9273ea4a83a06273d657",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/papercut-software-pty-ltd-papercut-ng.html": {
    "exact": "90acc4904d6f2c941861ca0466940879851aef70",
@@ -41218,9 +41436,9 @@
    "lastmod": "2026-09-01"
   },
   "https://eam.drung.dev/apps/rocket-chat-technologies-corp-rocket-chat.html": {
-   "exact": "a830a178bfe56f67258c0611ebf3f45ada20523b",
-   "hash": "a830a178bfe56f67258c0611ebf3f45ada20523b",
-   "lastmod": "2026-10-26"
+   "exact": "cf246c3ad9c9f8bc9197c8209f928ed4a3d0601b",
+   "hash": "cf246c3ad9c9f8bc9197c8209f928ed4a3d0601b",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/rstudio-1-4.html": {
    "exact": "95dadf6c22da9407325e1a385becfb3c6decd419",
@@ -41278,9 +41496,9 @@
    "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/scooter-software-inc-beyond-compare.html": {
-   "exact": "22fab281360e4d2b4112c00aec6f35a808d687e0",
-   "hash": "22fab281360e4d2b4112c00aec6f35a808d687e0",
-   "lastmod": "2026-10-17"
+   "exact": "87b703a66c2238733b23d57cf84de7de36a0eaca",
+   "hash": "87b703a66c2238733b23d57cf84de7de36a0eaca",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/screenbeam-inc-screenbeam-conference.html": {
    "exact": "b6ebd6fca1e4c0bff094d03b3cfef8f85df69313",
@@ -41663,9 +41881,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/tailscale-inc-tailscale.html": {
-   "exact": "a50c9ebe5ba824d228b20fffa2548133f3f278b4",
-   "hash": "a50c9ebe5ba824d228b20fffa2548133f3f278b4",
-   "lastmod": "2026-10-21"
+   "exact": "5c2fc600609a15c3779814042cd9185f7d88a055",
+   "hash": "5c2fc600609a15c3779814042cd9185f7d88a055",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/talkdesk-inc-talkdesk.html": {
    "exact": "f57846b7625745a55249d60730743b4097183994",
@@ -41863,9 +42081,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/thingamahoochie-software-winmerge.html": {
-   "exact": "4aa52f51e34ee0015213298a345271d6e70973d0",
-   "hash": "4aa52f51e34ee0015213298a345271d6e70973d0",
-   "lastmod": "2026-08-27"
+   "exact": "e636be76ff0f9d06a0ac970cb9ebfaef2407aaac",
+   "hash": "e636be76ff0f9d06a0ac970cb9ebfaef2407aaac",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/thycotic-software-llc-thycotic-application-control-agent.html": {
    "exact": "92b32dbda4284a80122e12793ff1135bdbdde9eb",
@@ -42023,9 +42241,9 @@
    "lastmod": "2026-09-17"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "536982cd9d1955a9817ba27ceb327c32907659b7",
-   "hash": "536982cd9d1955a9817ba27ceb327c32907659b7",
-   "lastmod": "2026-10-26"
+   "exact": "09595ca6d9977a73a3f1880d5a884f4e53d87fc0",
+   "hash": "09595ca6d9977a73a3f1880d5a884f4e53d87fc0",
+   "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "bc9d576a532056eab522070ceb44d2fba4ce0dc3",
