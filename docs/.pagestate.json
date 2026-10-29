@@ -494,6 +494,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.37.2.1",
+      "8.38.4.1",
+      1
+     ]
+    ]
    }
   ],
   "a-must-in-every-office-bv-asap-utilities": [
@@ -548,6 +561,19 @@
       "4.2.1165",
       "4.3.1194",
       3
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.3.1194",
+      "4.4.1221",
+      4
      ]
     ]
    }
@@ -10509,6 +10535,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.10.1",
+      "26.10.2",
+      1
+     ]
+    ]
    }
   ],
   "draw-io-desktop": [
@@ -11069,6 +11108,19 @@
      [
       "2.18.18.0",
       "2.18.19.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.18.19.0",
+      "2.18.20.0",
       1
      ]
     ]
@@ -14826,6 +14878,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "132.0.0.0",
+      "133.0.2.0",
+      1
+     ]
+    ]
    }
   ],
   "google-drive-file-stream": [
@@ -14955,6 +15020,19 @@
      [
       "131.0.2.0",
       "132.0.0.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "132.0.0.0",
+      "133.0.2.0",
       1
      ]
     ]
@@ -16596,6 +16674,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.0.933.1",
+      "6.0.934.0",
+      1
+     ]
+    ]
    }
   ],
   "interpromo-gmbh-4k-video-downloader-2": [
@@ -17908,6 +17999,19 @@
      [
       "1.12.3",
       "1.12.4",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.12.4",
+      "1.12.6",
       1
      ]
     ]
@@ -32797,6 +32901,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.9.530",
+      "11.9.532",
+      1
+     ]
+    ]
    }
   ],
   "solarwinds-orion-sdk": [
@@ -33394,6 +33511,19 @@
      [
       "4.2.0.20058",
       "4.2.1.20062",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.2.1.20062",
+      "4.0.4.17894",
       1
      ]
     ]
@@ -36009,6 +36139,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.143.17183",
+      "1.143.17232",
+      1
+     ]
+    ]
    }
   ],
   "waterfox": [
@@ -36415,6 +36558,19 @@
      [
       "2.7.2.370",
       "2.7.3.381",
+      2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.7.3.381",
+      "2.8.1.411",
       2
      ]
     ]
@@ -37907,7 +38063,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261028_181413_AppCatalog.json",
+ "history_through": "20261029_052107_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -37916,9 +38072,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "ba40d357bb3efb54d9fbdcbb60db5db0588d798c",
-   "hash": "18769fc605ddab5e7464c689f4b4fc84b934b9aa",
-   "lastmod": "2026-10-28"
+   "exact": "d3414b68614e59f3b6daee732d417e79fef3c85e",
+   "hash": "5653154c9bb7896b211a9474566b8b586c145674",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "d5f465d329e4c68295deb5d0fbdab5c51222885e",
@@ -37961,9 +38117,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/8x8-inc-8x8-work.html": {
-   "exact": "9a6f2f077fde8e6bff4ef5a3ccb00a8d9fa3aec2",
-   "hash": "9a6f2f077fde8e6bff4ef5a3ccb00a8d9fa3aec2",
-   "lastmod": "2026-09-11"
+   "exact": "34230b41bdc5f432521eee9517205b6eb96ef0d8",
+   "hash": "34230b41bdc5f432521eee9517205b6eb96ef0d8",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/a-must-in-every-office-bv-asap-utilities.html": {
    "exact": "7bd3f025cce77fa4a37f1cca62e573ae21f4d83a",
@@ -37971,9 +38127,9 @@
    "lastmod": "2026-10-08"
   },
   "https://eam.drung.dev/apps/abacus-research-ag-abaclient.html": {
-   "exact": "16894c7e14582078da3e21260d4441afb9cdda1f",
-   "hash": "16894c7e14582078da3e21260d4441afb9cdda1f",
-   "lastmod": "2026-08-27"
+   "exact": "4a407fa8129ce6faea0875e7e427cc0f97864296",
+   "hash": "4a407fa8129ce6faea0875e7e427cc0f97864296",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/acro-software-cutepdf-writer.html": {
    "exact": "ba2588f64cc71950637e487c63fe9679cb06d4aa",
@@ -39006,9 +39162,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/draftable-desktop.html": {
-   "exact": "da2f088b9154e42cd58e812edad11cbd73506993",
-   "hash": "da2f088b9154e42cd58e812edad11cbd73506993",
-   "lastmod": "2026-10-21"
+   "exact": "ffe14a9c24aded29cb1c5823fa62c08f2cb26408",
+   "hash": "ffe14a9c24aded29cb1c5823fa62c08f2cb26408",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/draw-io-desktop.html": {
    "exact": "92ae968dea7b0716aebfa761a9e841a458bc605d",
@@ -39016,9 +39172,9 @@
    "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/drofus.html": {
-   "exact": "8930165b3405c0f6abe4fc4a911a978ce75b038d",
-   "hash": "8930165b3405c0f6abe4fc4a911a978ce75b038d",
-   "lastmod": "2026-10-22"
+   "exact": "95af1723979a5bee40a0217cdc14d384a336c583",
+   "hash": "95af1723979a5bee40a0217cdc14d384a336c583",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/dropbox.html": {
    "exact": "5c292338280b9f312b94ccad4733b9abad87087d",
@@ -39516,14 +39672,14 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/google-drive-file-stream.html": {
-   "exact": "01440a45acdfa495138ee4471015a3d84252aa6f",
-   "hash": "01440a45acdfa495138ee4471015a3d84252aa6f",
-   "lastmod": "2026-10-08"
+   "exact": "fa0447ccbdbda7dacf5dffcbfa65192eacb942a1",
+   "hash": "fa0447ccbdbda7dacf5dffcbfa65192eacb942a1",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/google-drive.html": {
-   "exact": "d2ef0f466cfe8eabfbdf9c59cbd9fb9d372bd7fe",
-   "hash": "d2ef0f466cfe8eabfbdf9c59cbd9fb9d372bd7fe",
-   "lastmod": "2026-10-08"
+   "exact": "cbd3f10741e9f7e2f9c101f031c87ba8ec48b07e",
+   "hash": "cbd3f10741e9f7e2f9c101f031c87ba8ec48b07e",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/google-go-programming-language-1-16.html": {
    "exact": "77428c44ac7ffaafdbf21cec5b61772a65f12c0d",
@@ -39726,9 +39882,9 @@
    "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/international-geogebra-institute-geogebra-6.html": {
-   "exact": "8bc4a6e04c0ae7ea6f031b5669ef08536081ad44",
-   "hash": "8bc4a6e04c0ae7ea6f031b5669ef08536081ad44",
-   "lastmod": "2026-10-20"
+   "exact": "bb02aa09b6ba0b0510dc3603705d01451ec51ff5",
+   "hash": "bb02aa09b6ba0b0510dc3603705d01451ec51ff5",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/interpromo-gmbh-4k-video-downloader-2.html": {
    "exact": "423ffe0573b192edb0096671035b9e11badae56d",
@@ -39886,9 +40042,9 @@
    "lastmod": "2026-10-14"
   },
   "https://eam.drung.dev/apps/joachim-eibl-kdiff3.html": {
-   "exact": "7d8add082ad981a15f992153fb09f8cebe4d1bf6",
-   "hash": "7d8add082ad981a15f992153fb09f8cebe4d1bf6",
-   "lastmod": "2026-08-27"
+   "exact": "e1ca1b2fc700512bb955a0824242905ed066b974",
+   "hash": "e1ca1b2fc700512bb955a0824242905ed066b974",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/john-macfarlane-pandoc.html": {
    "exact": "a3b970423b430a4391cfdb4d4c614e75685985c0",
@@ -41721,9 +41877,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/softland-dopdf.html": {
-   "exact": "948c8d5d2e43305b8ebe20b7ddcf47643ada99ac",
-   "hash": "948c8d5d2e43305b8ebe20b7ddcf47643ada99ac",
-   "lastmod": "2026-10-08"
+   "exact": "d0c1a7d887233db0f20fd30987a837befd06704c",
+   "hash": "d0c1a7d887233db0f20fd30987a837befd06704c",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/solarwinds-orion-sdk.html": {
    "exact": "5d6ebad391578b3735625cd4409369c17fc991f8",
@@ -41846,9 +42002,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/synology-drive-client.html": {
-   "exact": "b4c83877751cb42a5066058a560e4a93c81958da",
-   "hash": "b4c83877751cb42a5066058a560e4a93c81958da",
-   "lastmod": "2026-10-21"
+   "exact": "a4df9c8267507aefe54332730750c94ad9eb4a93",
+   "hash": "a4df9c8267507aefe54332730750c94ad9eb4a93",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/synology-evidence-integrity-authenticator.html": {
    "exact": "5c37a71f3d41dfde9bca801a7371e93a8521f716",
@@ -42341,9 +42497,9 @@
    "lastmod": "2026-09-29"
   },
   "https://eam.drung.dev/apps/vscodium.html": {
-   "exact": "83e461c5a4cac7b711a61202d25cf38373a207c9",
-   "hash": "83e461c5a4cac7b711a61202d25cf38373a207c9",
-   "lastmod": "2026-10-26"
+   "exact": "cd8b42307688347e15aa04b3e88f603a92395f18",
+   "hash": "cd8b42307688347e15aa04b3e88f603a92395f18",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/waterfox-classic.html": {
    "exact": "462e12b9c63086137cae02dedb7efb415d0a7e77",
@@ -42376,9 +42532,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/wildix-inc-wildix-collaboration.html": {
-   "exact": "fbe0c4d803c1fad9e5c32b360000a479ff11b002",
-   "hash": "fbe0c4d803c1fad9e5c32b360000a479ff11b002",
-   "lastmod": "2026-08-27"
+   "exact": "8c92005d53f9063407ff3057a40ba832a010e8fc",
+   "hash": "8c92005d53f9063407ff3057a40ba832a010e8fc",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/wind-information-co-ltd-wind-financial-terminal.html": {
    "exact": "53c041a0a36f2e2b0a5602b6f996b30186eaa609",
