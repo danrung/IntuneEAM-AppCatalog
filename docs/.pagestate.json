@@ -2836,6 +2836,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.2.0",
+      "3.3.0",
+      1
+     ]
+    ]
    }
   ],
   "atlassian-inc-atlassian-confluence": [
@@ -3489,6 +3502,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.70.111",
+      "17.70.113",
+      1
+     ]
+    ]
    }
   ],
   "azul-systems-inc-zulu-jdk-8-lts": [
@@ -3661,6 +3687,19 @@
      [
       "17.68.203",
       "17.70.111",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.70.111",
+      "17.70.113",
       1
      ]
     ]
@@ -7160,6 +7199,19 @@
      [
       "7.82",
       "7.83",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.83",
+      "7.84",
       1
      ]
     ]
@@ -11899,6 +11951,19 @@
      [
       "4.7.1.207",
       "4.7.2.208",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.7.2.208",
+      "4.8.0.210",
       1
      ]
     ]
@@ -23958,19 +24023,6 @@
   "microsoft-visual-studio-code": [
    {
     "added": 0,
-    "date": "2026-07-02",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.126.0",
-      "1.127.0",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-09",
     "fields": [],
     "removed": 0,
@@ -24269,6 +24321,19 @@
      [
       "1.143.0",
       "1.143.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.143.1",
+      "1.144.0",
       1
      ]
     ]
@@ -26142,6 +26207,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.5.0",
+      "3.5.1",
+      1
+     ]
+    ]
    }
   ],
   "national-taxation-bureau-taiwan-business-tax-software-blr": [
@@ -26863,6 +26941,19 @@
      [
       "25.0.9800.0",
       "26.0.13455.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.0.13455.0",
+      "26.0.14158.0",
       1
      ]
     ]
@@ -30908,13 +30999,6 @@
   ],
   "salesforce-cli-sf-v2": [
    {
-    "added": 1,
-    "date": "2026-04-15",
-    "fields": [],
-    "removed": 1,
-    "versions": []
-   },
-   {
     "added": 0,
     "date": "2026-05-07",
     "fields": [],
@@ -31209,6 +31293,19 @@
      [
       "2.154.4",
       "2.155.7",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.155.7",
+      "2.156.8",
       1
      ]
     ]
@@ -32300,6 +32397,19 @@
      [
       "1.19.3.6495",
       "1.19.4.6499",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.19.4.6499",
+      "1.19.5.6584",
       1
      ]
     ]
@@ -37191,19 +37301,6 @@
   "zandar-labs-sl-aptakube": [
    {
     "added": 0,
-    "date": "2026-07-22",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.18.5",
-      "1.18.6",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-07-24",
     "fields": [],
     "removed": 0,
@@ -37497,6 +37594,19 @@
      [
       "1.21.6",
       "1.22.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-29",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.22.0",
+      "1.22.1",
       1
      ]
     ]
@@ -38063,7 +38173,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261029_052107_AppCatalog.json",
+ "history_through": "20261029_181947_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -38072,8 +38182,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "d3414b68614e59f3b6daee732d417e79fef3c85e",
-   "hash": "5653154c9bb7896b211a9474566b8b586c145674",
+   "exact": "06cec851de997cc93f5bd357a8bbec89d0bf2c26",
+   "hash": "ad6343325d4e96dfbb44b12e5e3dbe73c19d0f44",
    "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -38372,9 +38482,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/atlassian-inc-atlassian-companion.html": {
-   "exact": "686ae4d8fe75b69975af7f34d3ee02888127e5e4",
-   "hash": "686ae4d8fe75b69975af7f34d3ee02888127e5e4",
-   "lastmod": "2026-08-27"
+   "exact": "7d58510653d01fe90134d2555d9cf1e7d8334da3",
+   "hash": "7d58510653d01fe90134d2555d9cf1e7d8334da3",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/atlassian-inc-atlassian-confluence.html": {
    "exact": "adc7486059db3608d15759b4de400e73e25d650c",
@@ -38487,9 +38597,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jdk-17-lts.html": {
-   "exact": "b02e7f0d251de40ea29ab69e2598d52a844b5247",
-   "hash": "b02e7f0d251de40ea29ab69e2598d52a844b5247",
-   "lastmod": "2026-10-26"
+   "exact": "6c2d49f8b4ddb155500d47b3031d2427ce79772d",
+   "hash": "6c2d49f8b4ddb155500d47b3031d2427ce79772d",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jdk-18-sts.html": {
    "exact": "d8bf0a25ca2e968754a223541474421563f77434",
@@ -38542,9 +38652,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jre-17-lts.html": {
-   "exact": "7f0140aabae9b4eb3d886ac3d17c71061832605c",
-   "hash": "7f0140aabae9b4eb3d886ac3d17c71061832605c",
-   "lastmod": "2026-10-26"
+   "exact": "d7596714eda9f945168081bb9d91c87bb618c027",
+   "hash": "d7596714eda9f945168081bb9d91c87bb618c027",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/azul-systems-inc-zulu-jre-7-lts.html": {
    "exact": "5e9a7196ce577e3b28c709c8be4d94961992db0d",
@@ -38912,9 +39022,9 @@
    "lastmod": "2026-10-21"
   },
   "https://eam.drung.dev/apps/cockos-incorporated-reaper.html": {
-   "exact": "542ae6bf6af747328d3629664541156bd2515289",
-   "hash": "542ae6bf6af747328d3629664541156bd2515289",
-   "lastmod": "2026-10-26"
+   "exact": "c95faa6358f16fab78f4b966d95e57bd776cf38f",
+   "hash": "c95faa6358f16fab78f4b966d95e57bd776cf38f",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/code-sector-teracopy-for-windows.html": {
    "exact": "8513f0c222ddcb57c32bcce804c94ab322c8159a",
@@ -39327,9 +39437,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/egnyte-inc-egnyte-connect-desktop-app.html": {
-   "exact": "38413df99894dc805831d473389e442b41841358",
-   "hash": "38413df99894dc805831d473389e442b41841358",
-   "lastmod": "2026-10-14"
+   "exact": "1e153a60a183ce64d4d31a02481a3a23fcab3f09",
+   "hash": "1e153a60a183ce64d4d31a02481a3a23fcab3f09",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/egnyte-inc-egnyte-webedit.html": {
    "exact": "c2d0ce3a3e55da1d69b91bdbd975dec551365b7c",
@@ -40807,9 +40917,9 @@
    "lastmod": "2026-10-26"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "a93181d8b30fbfb7584505dbb127b349e7210285",
-   "hash": "a93181d8b30fbfb7584505dbb127b349e7210285",
-   "lastmod": "2026-10-24"
+   "exact": "21bc63fb94022002e0a7496079892becfb2d1190",
+   "hash": "21bc63fb94022002e0a7496079892becfb2d1190",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "a5ca9761f442e5c0f5fa6f508581b3059311ea20",
@@ -40982,9 +41092,9 @@
    "lastmod": "2026-09-18"
   },
   "https://eam.drung.dev/apps/nagios-enterprises-ncpa.html": {
-   "exact": "5ec022933f1a602762af491ce74b0012eb329a4c",
-   "hash": "5ec022933f1a602762af491ce74b0012eb329a4c",
-   "lastmod": "2026-09-09"
+   "exact": "e73579ffbcf79c088aa40f7b71b852e98e5ad89d",
+   "hash": "e73579ffbcf79c088aa40f7b71b852e98e5ad89d",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/national-taxation-bureau-taiwan-business-tax-software-blr.html": {
    "exact": "65ddb379fd741d16b9f1d0d64c49accda175be7f",
@@ -41047,9 +41157,9 @@
    "lastmod": "2026-10-27"
   },
   "https://eam.drung.dev/apps/nice-software-amazon-dcv-client.html": {
-   "exact": "4a521936da2868ebf39289558c8a18a9fd231b50",
-   "hash": "4a521936da2868ebf39289558c8a18a9fd231b50",
-   "lastmod": "2026-10-14"
+   "exact": "574b79361b40fef27cb988f711235ad4b0d43420",
+   "hash": "574b79361b40fef27cb988f711235ad4b0d43420",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/nicke-manarin-screentogif.html": {
    "exact": "d51ea281161b42b778e0dcc2cf41eaa9dcac8031",
@@ -41627,9 +41737,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/salesforce-cli-sf-v2.html": {
-   "exact": "31605b0863ab406a3e823428039a30c52a666a36",
-   "hash": "31605b0863ab406a3e823428039a30c52a666a36",
-   "lastmod": "2026-10-22"
+   "exact": "53a63eccf2e7f9ccb78ffc0ac53afe8036a248c1",
+   "hash": "53a63eccf2e7f9ccb78ffc0ac53afe8036a248c1",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/samsung-smart-switch.html": {
    "exact": "dba3bb170ab4fdf5a77b385f06c4576b8cd98148",
@@ -41807,9 +41917,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/skymatic-gmbh-cryptomator.html": {
-   "exact": "44f7f38d035e58d1b029f1e0f0ec054fffd27c39",
-   "hash": "44f7f38d035e58d1b029f1e0f0ec054fffd27c39",
-   "lastmod": "2026-10-22"
+   "exact": "069816e1836df33d22498581463736b1cfff07e9",
+   "hash": "069816e1836df33d22498581463736b1cfff07e9",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/slido.html": {
    "exact": "78467a0c0cd1bdc718cd1dd53e403b6b1251aee8",
@@ -42647,9 +42757,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "5053c46ef64246841400774bff47ba6108bbcace",
-   "hash": "5053c46ef64246841400774bff47ba6108bbcace",
-   "lastmod": "2026-10-28"
+   "exact": "bf639f9b75caa40c458e8f108e82b2c811b89401",
+   "hash": "bf639f9b75caa40c458e8f108e82b2c811b89401",
+   "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "54a5df424f282641ae0b5a7941d5cc293d1998d3",
