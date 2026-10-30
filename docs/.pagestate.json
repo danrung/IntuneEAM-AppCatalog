@@ -591,6 +591,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.0.0",
+      "5.0.1",
+      1
+     ]
+    ]
    }
   ],
   "akiflow": [
@@ -826,6 +839,19 @@
      [
       "9.29.0",
       "9.30.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.30.2",
+      "9.30.5",
       1
      ]
     ]
@@ -2775,6 +2801,19 @@
      [
       "1.127.38181.0",
       "1.128.38292.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.128.38292.0",
+      "1.129.38633.0",
       1
      ]
     ]
@@ -5076,19 +5115,6 @@
   "brave-software-inc-brave-browser": [
    {
     "added": 0,
-    "date": "2026-06-15",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.91.171",
-      "1.91.172",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-18",
     "fields": [],
     "removed": 0,
@@ -5382,6 +5408,19 @@
      [
       "1.97.59",
       "1.98.60",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.98.60",
+      "1.98.62",
       1
      ]
     ]
@@ -7403,19 +7442,6 @@
   "coolutils-mail-viewer": [
    {
     "added": 0,
-    "date": "2026-06-06",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "1.0.9650.19638",
-      "1.0.9652.19924",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-09",
     "fields": [],
     "removed": 0,
@@ -7709,6 +7735,19 @@
      [
       "7.1.9791.36253",
       "7.1.9795.21770",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9795.21770",
+      "7.1.9798.31783",
       1
      ]
     ]
@@ -13739,6 +13778,21 @@
     ]
    }
   ],
+  "garden-gnome-gmbh-garden-gnome-package-viewer": [
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.6.1",
+      "2.0.0",
+      1
+     ]
+    ]
+   }
+  ],
   "garmin-express": [
    {
     "added": 0,
@@ -14187,6 +14241,19 @@
      [
       "1.7.468",
       "1.7.481",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.7.481",
+      "1.7.488",
       1
      ]
     ]
@@ -16043,6 +16110,19 @@
      [
       "25.2.24",
       "26.0.23",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.0.23",
+      "26.1.27",
       1
      ]
     ]
@@ -18561,6 +18641,19 @@
      [
       "18.6.4.0",
       "18.6.5.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.6.5.0",
+      "18.6.6.0",
       1
      ]
     ]
@@ -26689,6 +26782,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.80.4",
+      "1.81.0",
+      1
+     ]
+    ]
    }
   ],
   "nextcloud": [
@@ -26857,6 +26963,19 @@
      [
       "34.0.5.20261005",
       "35.0.0.20261012",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "35.0.0.20261012",
+      "35.0.1.20261029",
       1
      ]
     ]
@@ -28507,6 +28626,19 @@
      [
       "17.0.20.1",
       "17.0.21.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.0.21.0",
+      "17.0.21.0.3",
       1
      ]
     ]
@@ -38173,7 +38305,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261029_181947_AppCatalog.json",
+ "history_through": "20261030_052046_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -38182,9 +38314,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "06cec851de997cc93f5bd357a8bbec89d0bf2c26",
-   "hash": "ad6343325d4e96dfbb44b12e5e3dbe73c19d0f44",
-   "lastmod": "2026-10-29"
+   "exact": "635bf61ac352223923d4bdad5fcf8366e0baae08",
+   "hash": "d27afc85a9487a27534728586a72c7aae08fec2c",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "d5f465d329e4c68295deb5d0fbdab5c51222885e",
@@ -38267,9 +38399,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/aivar-annamaa-thonny.html": {
-   "exact": "83bc042d362e65bc45ae08f3682180e999bba3c3",
-   "hash": "83bc042d362e65bc45ae08f3682180e999bba3c3",
-   "lastmod": "2026-08-27"
+   "exact": "07370d1149f0227530ea521c78f78d9408034a26",
+   "hash": "07370d1149f0227530ea521c78f78d9408034a26",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/akiflow.html": {
    "exact": "541a36cf785ccc136f7365e0eaf1c1fc9c347fbf",
@@ -38277,9 +38409,9 @@
    "lastmod": "2026-10-09"
   },
   "https://eam.drung.dev/apps/alfaview-gmbh-alfaview.html": {
-   "exact": "732943f401892c226041720b2a586ee0e2fa303a",
-   "hash": "732943f401892c226041720b2a586ee0e2fa303a",
-   "lastmod": "2026-10-20"
+   "exact": "ceae966c92c8afdab15bc6ac22cbcdd82b7ec03f",
+   "hash": "ceae966c92c8afdab15bc6ac22cbcdd82b7ec03f",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/allplayer-org-allplayer.html": {
    "exact": "d2dab29b1df33f3cb81776e5aba346017cb2b8fe",
@@ -38452,9 +38584,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/articulate-360.html": {
-   "exact": "a9c979f470fb6df3208ad49522a0d3dc685c7806",
-   "hash": "a9c979f470fb6df3208ad49522a0d3dc685c7806",
-   "lastmod": "2026-10-17"
+   "exact": "4d98603524dd8d41cd7fa27a81d2ea7a53f93306",
+   "hash": "4d98603524dd8d41cd7fa27a81d2ea7a53f93306",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/articulate-replay-360.html": {
    "exact": "20797f80c91578173ba923d8644d7d5e178225c1",
@@ -38802,9 +38934,9 @@
    "lastmod": "2026-10-24"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "5f3ab9e6c83046bc189a41d7198188025cfe071f",
-   "hash": "5f3ab9e6c83046bc189a41d7198188025cfe071f",
-   "lastmod": "2026-10-28"
+   "exact": "1b30950a34372d315e8049ac08cd543963a07969",
+   "hash": "1b30950a34372d315e8049ac08cd543963a07969",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "f05b6b1175f1470b9fee50fcad7408888d0cc0c0",
@@ -39062,9 +39194,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "d21de391aa378658b883a155a31de1f226f6c43a",
-   "hash": "d21de391aa378658b883a155a31de1f226f6c43a",
-   "lastmod": "2026-10-26"
+   "exact": "5fdabc62a5a3c74c38e1ebeb9e987a80391e565b",
+   "hash": "5fdabc62a5a3c74c38e1ebeb9e987a80391e565b",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "f78fe4c0342308dbaaa7f535dbdf2a11148510b4",
@@ -39687,9 +39819,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/garden-gnome-gmbh-garden-gnome-package-viewer.html": {
-   "exact": "f6dd5d9e70dc0221a11fa0275f905867da67dc3c",
-   "hash": "f6dd5d9e70dc0221a11fa0275f905867da67dc3c",
-   "lastmod": "2026-08-28"
+   "exact": "e2537cff3f4e770ff57aedce1cc2c3d3d01af472",
+   "hash": "e2537cff3f4e770ff57aedce1cc2c3d3d01af472",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/garmin-basecamp.html": {
    "exact": "bc188d23189e19d433c0201919234d5d0175bfae",
@@ -39712,9 +39844,9 @@
    "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/genesys-cloud-background-assistant.html": {
-   "exact": "a3fddb93f62018396203e49c30ecf2a9a1429d04",
-   "hash": "a3fddb93f62018396203e49c30ecf2a9a1429d04",
-   "lastmod": "2026-08-27"
+   "exact": "e45ff92905166c2196ab99a018c2ac0bd07e4a24",
+   "hash": "e45ff92905166c2196ab99a018c2ac0bd07e4a24",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/genesys-cloud.html": {
    "exact": "e3dbab61cd158ba2bde370ee3446af5bc510f31b",
@@ -39927,9 +40059,9 @@
    "lastmod": "2026-10-20"
   },
   "https://eam.drung.dev/apps/idm-computer-solutions-uestudio.html": {
-   "exact": "bd2480a4ce1eb304653c50530bf2b0c855e24204",
-   "hash": "bd2480a4ce1eb304653c50530bf2b0c855e24204",
-   "lastmod": "2026-08-27"
+   "exact": "4730ff4851d7f8a813333bf6c51d6b61670cb136",
+   "hash": "4730ff4851d7f8a813333bf6c51d6b61670cb136",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/idm-computer-solutions-ultracompare.html": {
    "exact": "89f630bdcaa6127c82ad458452c5c43e8d6acb25",
@@ -40192,9 +40324,9 @@
    "lastmod": "2026-10-23"
   },
   "https://eam.drung.dev/apps/keeper.html": {
-   "exact": "f25365038f073595b550fe763ab0f2202e2012f9",
-   "hash": "f25365038f073595b550fe763ab0f2202e2012f9",
-   "lastmod": "2026-10-15"
+   "exact": "955dc92304edb5624f5c91f5a03e03cce2c40969",
+   "hash": "955dc92304edb5624f5c91f5a03e03cce2c40969",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/keeweb.html": {
    "exact": "3572c678aef0cc163fb077c9d30339ba571ad825",
@@ -41137,14 +41269,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/new-relic-inc-new-relic-infrastructure-agent.html": {
-   "exact": "f9b5b79fa0757504f5c1b21c13849a69e73865d3",
-   "hash": "f9b5b79fa0757504f5c1b21c13849a69e73865d3",
-   "lastmod": "2026-09-21"
+   "exact": "23b31ba4b439266b3d79a28b300d4f5e5c766a33",
+   "hash": "23b31ba4b439266b3d79a28b300d4f5e5c766a33",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/nextcloud.html": {
-   "exact": "a8a1a0361e7483aa8d03be5d9b808c44d88ba136",
-   "hash": "a8a1a0361e7483aa8d03be5d9b808c44d88ba136",
-   "lastmod": "2026-10-14"
+   "exact": "75113f8d8fdde1a1345c167c2304991fe82ffb72",
+   "hash": "75113f8d8fdde1a1345c167c2304991fe82ffb72",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/nextivaone.html": {
    "exact": "0b992551aa8a6fdfb9ef616e986e0b809bdc27a7",
@@ -41332,9 +41464,9 @@
    "lastmod": "2026-10-28"
   },
   "https://eam.drung.dev/apps/oracle-java-se-development-kit-17.html": {
-   "exact": "c7bf82fef88f13e10447ad51581bfd3fc2c58fc8",
-   "hash": "c7bf82fef88f13e10447ad51581bfd3fc2c58fc8",
-   "lastmod": "2026-10-23"
+   "exact": "481552a0fb75f2031b3f56c07217e13afd4b8708",
+   "hash": "481552a0fb75f2031b3f56c07217e13afd4b8708",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/oracle-java-se-development-kit-23.html": {
    "exact": "e7829cac7a1aef0fe99a8268b781f5bf326f77fe",
