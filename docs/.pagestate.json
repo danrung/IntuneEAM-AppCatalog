@@ -8201,19 +8201,6 @@
   "datadog-agent": [
    {
     "added": 0,
-    "date": "2026-05-08",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "7.78.2",
-      "7.78.3",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-05-15",
     "fields": [],
     "removed": 0,
@@ -8507,6 +8494,19 @@
      [
       "7.84.5",
       "7.84.6",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.84.6",
+      "7.85.0",
       1
      ]
     ]
@@ -11682,6 +11682,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "21.0.12.101",
+      "21.0.13.9",
+      1
+     ]
+    ]
    }
   ],
   "eclipse-foundation-eclipse-temurin-jdk-with-hotspot-8-lts": [
@@ -12475,6 +12488,19 @@
      [
       "9.17",
       "9.18",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.18",
+      "9.19",
       1
      ]
     ]
@@ -14860,6 +14886,19 @@
      [
       "151.0.7922.13",
       "154.0.8037.40",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "154.0.8037.40",
+      "157.0.8103.7",
       1
      ]
     ]
@@ -23297,6 +23336,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "22.11.2",
+      "22.11.3",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-universal-print-connector": [
@@ -23548,6 +23600,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.14.37824.6",
+      "17.14.37827.9",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-visual-studio-2022-enterprise": [
@@ -23783,6 +23848,19 @@
      [
       "17.14.37806.7",
       "17.14.37824.6",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.14.37824.6",
+      "17.14.37827.9",
       1
      ]
     ]
@@ -24024,6 +24102,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.14.37824.6",
+      "17.14.37827.9",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-visual-studio-2026-professional": [
@@ -24108,6 +24199,19 @@
      [
       "18.11.12315.225",
       "18.11.12324.101",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.11.12324.101",
+      "18.11.12328.437",
       1
      ]
     ]
@@ -24611,6 +24715,19 @@
      [
       "17.14.37806.7",
       "17.14.37824.6",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.14.37824.6",
+      "17.14.37827.9",
       1
      ]
     ]
@@ -26593,6 +26710,19 @@
      [
       "0.81.4",
       "0.81.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-30",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.81.5",
+      "0.82.0",
       1
      ]
     ]
@@ -38305,7 +38435,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261030_052046_AppCatalog.json",
+ "history_through": "20261030_175440_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -38314,8 +38444,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "635bf61ac352223923d4bdad5fcf8366e0baae08",
-   "hash": "d27afc85a9487a27534728586a72c7aae08fec2c",
+   "exact": "c5ae95bd5aacafc1cd7c024e51032fb6d1fdd7e4",
+   "hash": "a1e685e702aac4c074ff6c42da840f45a46264f4",
    "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -39254,9 +39384,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/datadog-agent.html": {
-   "exact": "bc8ff12715bbb855fd396592dd64842a3c191ade",
-   "hash": "bc8ff12715bbb855fd396592dd64842a3c191ade",
-   "lastmod": "2026-10-26"
+   "exact": "f3d3d596cc7559355537560fe5ee805da109dd01",
+   "hash": "f3d3d596cc7559355537560fe5ee805da109dd01",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/david-kocher-cyberduck.html": {
    "exact": "25f0fab361b2ea8780d10e7c02b7a6c216dd1fb3",
@@ -39494,9 +39624,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jdk-with-hotspot-21.html": {
-   "exact": "935c2b66ce3984c1b0172602fe1c8c6eb0dbc8b2",
-   "hash": "935c2b66ce3984c1b0172602fe1c8c6eb0dbc8b2",
-   "lastmod": "2026-08-28"
+   "exact": "bd2badd52a86651ae6945eddd78930ab9b117b31",
+   "hash": "bd2badd52a86651ae6945eddd78930ab9b117b31",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jdk-with-hotspot-22.html": {
    "exact": "4437585a760529da9b5432338908f07e20f255ad",
@@ -39609,9 +39739,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/enterprisedb-corporation-pgadmin-4.html": {
-   "exact": "705b05c4bc4805175d0863239f1120bab2af57d2",
-   "hash": "705b05c4bc4805175d0863239f1120bab2af57d2",
-   "lastmod": "2026-09-18"
+   "exact": "501830addb059c74385a6b546c7d3c67120cd932",
+   "hash": "501830addb059c74385a6b546c7d3c67120cd932",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/enterprisedb-corporation-postgresql-12.html": {
    "exact": "86d18b688084de964d9fa96d3881ebfcfe7b8be5",
@@ -39904,9 +40034,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/google-chrome-remote-desktop-host.html": {
-   "exact": "c9ec665fb7557039de7c143b013a25c6377513c8",
-   "hash": "c9ec665fb7557039de7c143b013a25c6377513c8",
-   "lastmod": "2026-09-22"
+   "exact": "645cdc7951904b91b8647f0436ec6330a81c56fb",
+   "hash": "645cdc7951904b91b8647f0436ec6330a81c56fb",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/google-credential-provider-for-windows.html": {
    "exact": "604dea5305d19166c94acabb068173cef5d5757c",
@@ -40979,9 +41109,9 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-management-studio-22.html": {
-   "exact": "b1a2402ca3d2ac39fdec05d8824a77f07346467e",
-   "hash": "b1a2402ca3d2ac39fdec05d8824a77f07346467e",
-   "lastmod": "2026-10-26"
+   "exact": "31e312184cc264a4a1445891b1a248a8a816b0de",
+   "hash": "31e312184cc264a4a1445891b1a248a8a816b0de",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/microsoft-surface-data-eraser.html": {
    "exact": "f78649b44fa5917eb510925f4af3c0af4075adf7",
@@ -41029,24 +41159,24 @@
    "lastmod": "2026-09-11"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-community.html": {
-   "exact": "9c6186fb2542c3e60df8885dd953502ff3d37eaf",
-   "hash": "9c6186fb2542c3e60df8885dd953502ff3d37eaf",
-   "lastmod": "2026-10-26"
+   "exact": "03e39f0f77b263e19fbabe5054e85ce92fabae05",
+   "hash": "03e39f0f77b263e19fbabe5054e85ce92fabae05",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-enterprise.html": {
-   "exact": "6958f721db30750826bdcb4475eca7db50034974",
-   "hash": "6958f721db30750826bdcb4475eca7db50034974",
-   "lastmod": "2026-10-27"
+   "exact": "3c62d7a7aafb7f0c6936f87b29aa34b9c5a1594c",
+   "hash": "3c62d7a7aafb7f0c6936f87b29aa34b9c5a1594c",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-professional.html": {
-   "exact": "841587b7f0c409390bfeb26a5762bf5fdd5a0ee8",
-   "hash": "841587b7f0c409390bfeb26a5762bf5fdd5a0ee8",
-   "lastmod": "2026-10-27"
+   "exact": "71c4518993c1e69e779d3d7cdf1bbb2e85eeb293",
+   "hash": "71c4518993c1e69e779d3d7cdf1bbb2e85eeb293",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2026-professional.html": {
-   "exact": "6e2df1c16608e59ab5176a5ccc2bbc2123ee5948",
-   "hash": "6e2df1c16608e59ab5176a5ccc2bbc2123ee5948",
-   "lastmod": "2026-10-26"
+   "exact": "764ed0bc70b2ac796cc9de5e25ceff1954e546a8",
+   "hash": "764ed0bc70b2ac796cc9de5e25ceff1954e546a8",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
    "exact": "21bc63fb94022002e0a7496079892becfb2d1190",
@@ -41054,9 +41184,9 @@
    "lastmod": "2026-10-29"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
-   "exact": "a5ca9761f442e5c0f5fa6f508581b3059311ea20",
-   "hash": "a5ca9761f442e5c0f5fa6f508581b3059311ea20",
-   "lastmod": "2026-10-26"
+   "exact": "02b653cd285e0be3372e3f7914f63a1dc6deedfd",
+   "hash": "02b653cd285e0be3372e3f7914f63a1dc6deedfd",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/microsoft-windows-admin-center.html": {
    "exact": "021f820554511de044a9d7d727193a0127dbd265",
@@ -41254,9 +41384,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/netbird-gmbh-netbird.html": {
-   "exact": "809305fb2d27c93095192e35b2bb0e475b8d387e",
-   "hash": "809305fb2d27c93095192e35b2bb0e475b8d387e",
-   "lastmod": "2026-10-27"
+   "exact": "9992707b29be11eb68cb8b7da457f531822d07ec",
+   "hash": "9992707b29be11eb68cb8b7da457f531822d07ec",
+   "lastmod": "2026-10-30"
   },
   "https://eam.drung.dev/apps/netsetman-gmbh-netsetman.html": {
    "exact": "4452cad32918981d8e3791d483203c293ce29657",
