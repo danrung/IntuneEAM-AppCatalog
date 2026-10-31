@@ -21047,6 +21047,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.46.0",
+      "1.47.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-corporation-microsoft-visual-c-2015-2022-redistributable": [
@@ -28511,6 +28524,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.1",
+      "5.1.1",
+      1
+     ]
+    ]
    }
   ],
   "openshot-studios-openshot-video-editor": [
@@ -32879,6 +32905,19 @@
      [
       "1.23.0",
       "1.23.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.23.1",
+      "1.23.2",
       1
      ]
     ]
@@ -38627,7 +38666,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261031_050350_AppCatalog.json",
+ "history_through": "20261031_170715_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -38636,8 +38675,8 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "02f0e0843469b822256fe98278b2cd7b69a18d76",
-   "hash": "b1b52bcff2d2762f7c105bd1b85adfeb422fd391",
+   "exact": "6d31987c1f429e5210c3a8f65601a7afefd2553a",
+   "hash": "4f2bdba41f6bacb83904acbb2027360c2d4864f2",
    "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -41056,9 +41095,9 @@
    "lastmod": "2026-10-06"
   },
   "https://eam.drung.dev/apps/microsoft-azure-storage-explorer.html": {
-   "exact": "193a6b3fc7fd9a902ccabbcc9dd421e364c9b4f5",
-   "hash": "193a6b3fc7fd9a902ccabbcc9dd421e364c9b4f5",
-   "lastmod": "2026-09-11"
+   "exact": "8b91377c14bd2fa5ba7311cfea66324d177e6271",
+   "hash": "8b91377c14bd2fa5ba7311cfea66324d177e6271",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/microsoft-bot-framework-composer.html": {
    "exact": "d9b6123d813fa95c28f9089e08132ef97772dabb",
@@ -41741,9 +41780,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/openaudible-org-openaudible.html": {
-   "exact": "54bd46861ec71b56ad3894d9ad14e581ec6da3e3",
-   "hash": "54bd46861ec71b56ad3894d9ad14e581ec6da3e3",
-   "lastmod": "2026-10-28"
+   "exact": "f05e1c82e1393b9c790f8ffba2c241bf518c6839",
+   "hash": "f05e1c82e1393b9c790f8ffba2c241bf518c6839",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/opendns-umbrella-roaming-client.html": {
    "exact": "625486ba83afe834a20a39d68f22038ef69c9a99",
@@ -42376,9 +42415,9 @@
    "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/slido.html": {
-   "exact": "78467a0c0cd1bdc718cd1dd53e403b6b1251aee8",
-   "hash": "78467a0c0cd1bdc718cd1dd53e403b6b1251aee8",
-   "lastmod": "2026-10-20"
+   "exact": "1e3de0238631ce42cb93d3b17da3e0905f77e849",
+   "hash": "1e3de0238631ce42cb93d3b17da3e0905f77e849",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/smart-projects-isobuster.html": {
    "exact": "29f32831307dbea28368bd7bc2bfef83ff4fb3c5",
