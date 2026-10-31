@@ -1067,6 +1067,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.170.0",
+      "1.171.0",
+      1
+     ]
+    ]
    }
   ],
   "amazon-aws-vpn-client": [
@@ -12019,6 +12032,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.8.0.210",
+      "4.8.1.211",
+      1
+     ]
+    ]
    }
   ],
   "egnyte-inc-egnyte-webedit": [
@@ -12559,19 +12585,6 @@
   "evernote": [
    {
     "added": 0,
-    "date": "2026-05-28",
-    "fields": [],
-    "removed": 0,
-    "versions": [
-     [
-      "11.17.3",
-      "11.18.1",
-      1
-     ]
-    ]
-   },
-   {
-    "added": 0,
     "date": "2026-06-03",
     "fields": [],
     "removed": 0,
@@ -12865,6 +12878,19 @@
      [
       "11.39.2",
       "11.40.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.40.2",
+      "11.40.3",
       1
      ]
     ]
@@ -14902,6 +14928,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "157.0.8103.7",
+      "154.0.8037.40",
+      1
+     ]
+    ]
    }
   ],
   "google-credential-provider-for-windows": [
@@ -16177,6 +16216,19 @@
      [
       "24.0.14",
       "24.0.17",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "24.0.17",
+      "26.0.9",
       1
      ]
     ]
@@ -17604,6 +17656,29 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2025.3.3",
+      "2025.3.3.1",
+      1
+     ],
+     [
+      "2025.2.4",
+      "2025.2.4.1",
+      1
+     ],
+     [
+      "2026.1.3",
+      "2026.1.3.1",
+      1
+     ]
+    ]
    }
   ],
   "jetbrains-dotultimate": [
@@ -17702,6 +17777,19 @@
      [
       "2026.2.3",
       "2026.2.3.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.3.1",
+      "2026.2.4",
       1
      ]
     ]
@@ -19223,6 +19311,19 @@
      [
       "12.9.2.4",
       "13.0.0.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "13.0.0.2",
+      "13.0.0.3",
       1
      ]
     ]
@@ -30338,6 +30439,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.6.1",
+      "4.6.2",
+      1
+     ]
+    ]
    }
   ],
   "rainmeter": [
@@ -31627,6 +31741,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.116.3",
+      "1.117.0",
+      1
+     ]
+    ]
    }
   ],
   "scooter-software-inc-beyond-compare": [
@@ -32675,6 +32802,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.19.5.6584",
+      "1.19.6.6588",
+      1
+     ]
+    ]
    }
   ],
   "slido": [
@@ -33091,6 +33231,19 @@
      [
       "6.0.5",
       "6.0.6",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.0.6",
+      "6.0.9",
       1
      ]
     ]
@@ -34463,6 +34616,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "15.83.3.0",
+      "15.83.5.0",
+      1
+     ]
+    ]
    }
   ],
   "teamviewer-gmbh-teamviewer-host": [
@@ -34617,6 +34783,19 @@
      [
       "15.82.6.0",
       "15.83.3.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "15.83.3.0",
+      "15.83.5.0",
       1
      ]
     ]
@@ -38403,6 +38582,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-10-31",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.0.6",
+      "10.0.7",
+      1
+     ]
+    ]
    }
   ],
   "zultys-inc-zac": [
@@ -38435,7 +38627,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261030_175440_AppCatalog.json",
+ "history_through": "20261031_050350_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -38444,9 +38636,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "c5ae95bd5aacafc1cd7c024e51032fb6d1fdd7e4",
-   "hash": "a1e685e702aac4c074ff6c42da840f45a46264f4",
-   "lastmod": "2026-10-30"
+   "exact": "02f0e0843469b822256fe98278b2cd7b69a18d76",
+   "hash": "b1b52bcff2d2762f7c105bd1b85adfeb422fd391",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "d5f465d329e4c68295deb5d0fbdab5c51222885e",
@@ -38559,9 +38751,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/amazon-aws-sam-command-line-interface.html": {
-   "exact": "842547fd54e8d51d4c0103e1d3c9f469c5194d20",
-   "hash": "842547fd54e8d51d4c0103e1d3c9f469c5194d20",
-   "lastmod": "2026-10-23"
+   "exact": "3b736f1d17c341686ae3bf3b2302df8454b98397",
+   "hash": "3b736f1d17c341686ae3bf3b2302df8454b98397",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
    "exact": "d693c1d9b9007099df9c2b619b19d3c668f0c575",
@@ -39699,9 +39891,9 @@
    "lastmod": "2026-08-28"
   },
   "https://eam.drung.dev/apps/egnyte-inc-egnyte-connect-desktop-app.html": {
-   "exact": "1e153a60a183ce64d4d31a02481a3a23fcab3f09",
-   "hash": "1e153a60a183ce64d4d31a02481a3a23fcab3f09",
-   "lastmod": "2026-10-29"
+   "exact": "8122bc9db3fda7e24a84cda2d5d915f31094663c",
+   "hash": "8122bc9db3fda7e24a84cda2d5d915f31094663c",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/egnyte-inc-egnyte-webedit.html": {
    "exact": "c2d0ce3a3e55da1d69b91bdbd975dec551365b7c",
@@ -39789,9 +39981,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/evernote.html": {
-   "exact": "58206f326342f58277b0ee57f17bc3ec3c0dbebf",
-   "hash": "58206f326342f58277b0ee57f17bc3ec3c0dbebf",
-   "lastmod": "2026-10-28"
+   "exact": "53d729410c60b2d8d1aa46ef2347c56cc41f831e",
+   "hash": "53d729410c60b2d8d1aa46ef2347c56cc41f831e",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/exacq-technologies-exacqvision-client.html": {
    "exact": "9bc9aa9a57d835275ffde248e48402a5fc05e834",
@@ -40034,9 +40226,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/google-chrome-remote-desktop-host.html": {
-   "exact": "645cdc7951904b91b8647f0436ec6330a81c56fb",
-   "hash": "645cdc7951904b91b8647f0436ec6330a81c56fb",
-   "lastmod": "2026-10-30"
+   "exact": "67de7e0cbbf346d5d37eebe2d74144987a7d71d3",
+   "hash": "67de7e0cbbf346d5d37eebe2d74144987a7d71d3",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/google-credential-provider-for-windows.html": {
    "exact": "604dea5305d19166c94acabb068173cef5d5757c",
@@ -40199,9 +40391,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/idm-computer-solutions-ultrafinder.html": {
-   "exact": "1010deec44bf6cfe9b752c633d7b5691cb2aef59",
-   "hash": "1010deec44bf6cfe9b752c633d7b5691cb2aef59",
-   "lastmod": "2026-08-27"
+   "exact": "ee785f1e56f6fd9635f51caf98857437ab42f82a",
+   "hash": "ee785f1e56f6fd9635f51caf98857437ab42f82a",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/idm-computer-solutions-ultraftp.html": {
    "exact": "44d3b40f5f87f0aa65f01e8de91d5a4b3e5565d3",
@@ -40359,14 +40551,14 @@
    "lastmod": "2026-09-30"
   },
   "https://eam.drung.dev/apps/jetbrains-dataspell.html": {
-   "exact": "5b51bae1ffa48eea773c668fbd53e3d59b3d286f",
-   "hash": "5b51bae1ffa48eea773c668fbd53e3d59b3d286f",
-   "lastmod": "2026-08-27"
+   "exact": "b043fac095eaadb6002c9e646aec430968d9fe3a",
+   "hash": "b043fac095eaadb6002c9e646aec430968d9fe3a",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/jetbrains-dotultimate.html": {
-   "exact": "b079720958224aae9988edf421e58ba1c6570036",
-   "hash": "b079720958224aae9988edf421e58ba1c6570036",
-   "lastmod": "2026-10-02"
+   "exact": "cccef0c38c25eb238592f2fa744062846693c436",
+   "hash": "cccef0c38c25eb238592f2fa744062846693c436",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/jetbrains-goland-2017-3.html": {
    "exact": "3932932d05ed57e09e2b5a7c4715bc3d6092fefe",
@@ -40514,9 +40706,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/lansweeper.html": {
-   "exact": "7928a403b98bd287418a433ed4a8432e2a860263",
-   "hash": "7928a403b98bd287418a433ed4a8432e2a860263",
-   "lastmod": "2026-10-15"
+   "exact": "30daf1635444d352e53874e92269a6b51151008f",
+   "hash": "30daf1635444d352e53874e92269a6b51151008f",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/lark-technologies-pte-ltd-lark-deployment-tool.html": {
    "exact": "78e8524935a13fccd65a405e08a818001bdd6db5",
@@ -41889,9 +42081,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/r-core-team-r-for-windows.html": {
-   "exact": "10eff23aeccd13e01f240f22d569381bcbc1bce5",
-   "hash": "10eff23aeccd13e01f240f22d569381bcbc1bce5",
-   "lastmod": "2026-08-27"
+   "exact": "51828a9ae0c8da696ca0311a1644a9636ac969d6",
+   "hash": "51828a9ae0c8da696ca0311a1644a9636ac969d6",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/rainmeter.html": {
    "exact": "530d682a5f38af8bdf0b1976f6e23402f2514c5e",
@@ -42019,9 +42211,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/scaleft.html": {
-   "exact": "698ae8a59fc9f4a7b1e6a6191b2a005778dc4471",
-   "hash": "698ae8a59fc9f4a7b1e6a6191b2a005778dc4471",
-   "lastmod": "2026-10-23"
+   "exact": "5f5ca39f523cd7f121e54a901e9808e493dbc382",
+   "hash": "5f5ca39f523cd7f121e54a901e9808e493dbc382",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/scooter-software-inc-beyond-compare.html": {
    "exact": "87b703a66c2238733b23d57cf84de7de36a0eaca",
@@ -42179,9 +42371,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/skymatic-gmbh-cryptomator.html": {
-   "exact": "069816e1836df33d22498581463736b1cfff07e9",
-   "hash": "069816e1836df33d22498581463736b1cfff07e9",
-   "lastmod": "2026-10-29"
+   "exact": "36ee23d45cde59c7660c694421103b27c9b9776d",
+   "hash": "36ee23d45cde59c7660c694421103b27c9b9776d",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/slido.html": {
    "exact": "78467a0c0cd1bdc718cd1dd53e403b6b1251aee8",
@@ -42224,9 +42416,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/sober-lemur-s-a-s-di-vacondio-andrea-pdfsam-basic.html": {
-   "exact": "09be433e19df64a6643cda925b6eeeb23111d853",
-   "hash": "09be433e19df64a6643cda925b6eeeb23111d853",
-   "lastmod": "2026-10-03"
+   "exact": "2f208cbacf29ca74c9555236cc41121eed85e5d3",
+   "hash": "2f208cbacf29ca74c9555236cc41121eed85e5d3",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/sober-lemur-s-a-s-di-vacondio-andrea-pdfsam-visual.html": {
    "exact": "04abb03cd3519b3bc78250471d77ef6cbd32ffba",
@@ -42439,14 +42631,14 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer-host.html": {
-   "exact": "24f1c3b73294a7ea3f8597eacd36ec293b4ba6d4",
-   "hash": "24f1c3b73294a7ea3f8597eacd36ec293b4ba6d4",
-   "lastmod": "2026-10-28"
+   "exact": "3e1c4da40642449093d2134f08052cc82d8fda98",
+   "hash": "3e1c4da40642449093d2134f08052cc82d8fda98",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/teamviewer-gmbh-teamviewer.html": {
-   "exact": "4d7b20ac74359f946f9a8d888e12e15207602dcd",
-   "hash": "4d7b20ac74359f946f9a8d888e12e15207602dcd",
-   "lastmod": "2026-10-28"
+   "exact": "076bd73bbd0158613859cdad99987a947a7874ca",
+   "hash": "076bd73bbd0158613859cdad99987a947a7874ca",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/techsmith-corporation-camtasia-2018.html": {
    "exact": "0c84364f2646f2c27c6fec60799f7c819001ce68",
@@ -43074,9 +43266,9 @@
    "lastmod": "2026-08-27"
   },
   "https://eam.drung.dev/apps/zotero.html": {
-   "exact": "346706e1ed42f5b2901d07f7068f4fab4b334ac9",
-   "hash": "346706e1ed42f5b2901d07f7068f4fab4b334ac9",
-   "lastmod": "2026-10-08"
+   "exact": "3a537a55b520426eae34262dc9c07d8f97d274fb",
+   "hash": "3a537a55b520426eae34262dc9c07d8f97d274fb",
+   "lastmod": "2026-10-31"
   },
   "https://eam.drung.dev/apps/zscaler-client-connector-3-6.html": {
    "exact": "87736b9b903a8d4e7dca72d37d9305bb1a148968",
