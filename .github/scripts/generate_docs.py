@@ -85,8 +85,16 @@ def now_utc():
 
 STATE_PATH = "docs/.pagestate.json"
 
-# Entries kept per product. Long enough to show a real release cadence, short
-# enough that a page stays a page rather than a changelog dump.
+# Bumped when the history gains something old entries cannot be patched up to
+# carry. Version 2 added first-seen dates and the package, architecture and
+# locale detail of each entry; a file older than this has its history dropped
+# and re-seeded from the archive on the next run. Page fingerprints are kept.
+STATE_VERSION = 2
+
+# Entries shown per product. Long enough to show a real release cadence, short
+# enough that a page stays a page rather than a changelog dump. The stored log
+# is not capped: the release-cadence figures are counted from it, and a capped
+# log undercounts exactly the products that move most.
 HISTORY_MAX = 24
 
 # How many of the archived exports to walk when the history is empty and has to
@@ -110,8 +118,13 @@ def _load_state():
     state.setdefault("version", 1)
     state.setdefault("pages", {})     # absolute URL -> {hash, exact, lastmod}
     state.setdefault("history", {})   # slug -> [entry, ...] oldest first
+    state.setdefault("first_seen", {})         # slug -> first export it was in
+    state.setdefault("first_seen_after", {})   # slug -> export before that, if far
     state.setdefault("history_from", None)     # oldest export the history saw
     state.setdefault("history_through", None)  # newest export already folded in
+    if state["version"] < STATE_VERSION:
+        state.update(version=STATE_VERSION, history={}, first_seen={},
+                     first_seen_after={}, history_from=None, history_through=None)
     return state
 
 
@@ -1294,29 +1307,88 @@ def _pretty_date(iso):
         return iso
 
 
-def _summarise_changes(structured, slug_by_key, date):
+# Optional per-entry lists, written only when non-empty — most entries would
+# carry them empty, and the state file is committed on every export.
+_DETAIL_KEYS = ("branches_added", "branches_removed", "archs_added",
+                "archs_removed", "locales_added", "locales_removed")
+
+
+def _facets(apps, slug_by_key):
+    """Per-product union of architectures and locales in one export.
+
+    Package-level field changes cannot answer "when did this app gain arm64":
+    a new arm64 package is an addition, not a change, and one package moving
+    x86 -> x64 while another still ships x86 changes nothing an admin would
+    notice. The product-level union, compared export to export, answers it
+    directly. Its keys double as the set of products present in that export.
+    """
+    out = {}
+    for a in apps:
+        slug = slug_by_key.get(_product_key(a))
+        if not slug:
+            continue
+        archs, locs = out.setdefault(slug, (set(), set()))
+        archs.update(x.strip() for x in (a.get("applicableArchitectures") or "").split(",")
+                     if x.strip())
+        locs.update(l for l in (a.get("locales") or []) if l)
+    return out
+
+
+# Exports normally land twice a day, but not always: the archive has a
+# four-month hole after its first export. A product first seen right after a
+# hole like that arrived somewhere inside it, and "added on <that date>" would
+# be wrong, so arrivals after a gap this long also keep the earlier bound.
+ARRIVAL_SLACK_DAYS = 3
+
+
+def _note_arrivals(state, slugs, date, prev_date):
+    """Record the first export each not-yet-seen product appears in."""
+    far = bool(prev_date) and (
+        datetime.strptime(date, "%Y-%m-%d") - datetime.strptime(prev_date, "%Y-%m-%d")
+    ).days > ARRIVAL_SLACK_DAYS
+    for slug in slugs:
+        if slug not in state["first_seen"]:
+            state["first_seen"][slug] = date
+            if far:
+                state["first_seen_after"][slug] = prev_date
+
+
+def _arch_sorted(archs):
+    return sorted(archs, key=lambda a: (
+        _ARCH_ORDER.index(a.lower()) if a.lower() in _ARCH_ORDER else len(_ARCH_ORDER), a
+    ))
+
+
+def _summarise_changes(structured, slug_by_key, date, prev_facets=None, curr_facets=None):
     """Fold one export-to-export diff into a per-product history entry.
 
     Package-level detail is deliberately collapsed. Firefox ships one package
     per locale, so a version bump lands as 47 near-identical rows; what belongs
     on a product page is "the version moved from X to Y", once. Version moves
     are therefore reduced to their distinct from-to pairs and everything else
-    is counted or named.
+    is counted or named. Given both exports' facets, the entry also records
+    which architectures and locales the product as a whole gained or lost.
     """
     per_slug = {}
 
-    def bucket(app):
-        slug = slug_by_key.get(_product_key(app))
-        if not slug:
-            return None
+    def entry(slug):
         return per_slug.setdefault(slug, {
             "date": date, "added": 0, "removed": 0, "versions": [], "fields": [],
         })
+
+    def bucket(app):
+        slug = slug_by_key.get(_product_key(app))
+        return entry(slug) if slug else None
+
+    def note(b, key, value):
+        if value and value not in b.setdefault(key, []):
+            b[key].append(value)
 
     for a in structured.get("added") or []:
         b = bucket(a)
         if b is not None:
             b["added"] += 1
+            note(b, "branches_added", a.get("branchDisplayName"))
 
     # A removed package still belongs to a product that may well remain in the
     # catalog — only a product that left entirely has no page to record it on.
@@ -1324,6 +1396,20 @@ def _summarise_changes(structured, slug_by_key, date):
         b = bucket(a)
         if b is not None:
             b["removed"] += 1
+            note(b, "branches_removed", a.get("branchDisplayName"))
+
+    # Only products present on both sides: for one that just arrived (or came
+    # back), its packages are the news, not every architecture they cover.
+    for slug, (archs, locs) in (curr_facets or {}).items():
+        if prev_facets is None or slug not in prev_facets:
+            continue
+        p_archs, p_locs = prev_facets[slug]
+        for key, vals in (("archs_added",     _arch_sorted(archs - p_archs)),
+                          ("archs_removed",   _arch_sorted(p_archs - archs)),
+                          ("locales_added",   sorted(locs - p_locs)),
+                          ("locales_removed", sorted(p_locs - locs))):
+            if vals:
+                entry(slug)[key] = vals
 
     for a in structured.get("updated") or []:
         b = bucket(a)
@@ -1360,26 +1446,32 @@ def _merge_entries(a, b):
                 break
         else:
             versions.append([prev, curr, n])
-    return {
+    merged = {
         "date":     a["date"],
         "added":    a["added"] + b["added"],
         "removed":  a["removed"] + b["removed"],
         "versions": versions,
         "fields":   a["fields"] + [f for f in b["fields"] if f not in a["fields"]],
     }
+    for key in _DETAIL_KEYS:
+        vals = a.get(key, []) + [v for v in b.get(key, []) if v not in a.get(key, [])]
+        if vals:
+            merged[key] = vals
+    return merged
 
 
 def _record_history(state, per_slug):
-    """Append one run's per-product entries, newest last, capped per product."""
+    """Append one run's per-product entries, newest last. The log is kept whole;
+    only the page caps what it shows."""
     for slug, entry in per_slug.items():
-        if not (entry["added"] or entry["removed"] or entry["versions"] or entry["fields"]):
+        if not (entry["added"] or entry["removed"] or entry["versions"] or entry["fields"]
+                or any(entry.get(k) for k in _DETAIL_KEYS)):
             continue
         log = state["history"].setdefault(slug, [])
         if log and log[-1].get("date") == entry["date"]:
             log[-1] = _merge_entries(log[-1], entry)
         else:
             log.append(entry)
-        del log[:-HISTORY_MAX]
 
 
 def seed_history(state, files, slug_by_key):
@@ -1388,9 +1480,11 @@ def seed_history(state, files, slug_by_key):
     Runs only when there is nothing to carry forward — after this pass the
     state file carries the history and each run appends only its own diff. Walks
     the whole archive by default; HISTORY_SEED bounds it to the newest N exports
-    if that ever gets expensive.
+    if that ever gets expensive. Also records the first export each product
+    appears in; one already in the oldest export is dated to that export, which
+    the pages word as "or earlier".
     """
-    if state["history"] or len(files) < 2:
+    if state["history"] or state["first_seen"] or len(files) < 2:
         return False
     window = files[-HISTORY_SEED:] if HISTORY_SEED > 0 else files
     if len(window) < 2:
@@ -1398,22 +1492,37 @@ def seed_history(state, files, slug_by_key):
     print(f"  history                   — seeding from {len(window)} export(s), "
           "one-off; subsequent runs append only")
     prev_apps = load_catalog(window[0])
+    prev_facets = _facets(prev_apps, slug_by_key)
+    history_from = (parse_dt(window[0]) or datetime.min).strftime("%Y-%m-%d")
+    _note_arrivals(state, prev_facets, history_from, None)
+    prev_date = history_from
     for prev_file, curr_file in zip(window, window[1:]):
         curr_apps = load_catalog(curr_file)
+        curr_facets = _facets(curr_apps, slug_by_key)
         dt = parse_dt(curr_file)
         if dt:
+            date = dt.strftime("%Y-%m-%d")
             structured, *_ = _compute_changes(curr_apps, prev_apps, curr_file, prev_file)
             _record_history(state, _summarise_changes(
-                structured, slug_by_key, dt.strftime("%Y-%m-%d")))
-        prev_apps = curr_apps
-    state["history_from"] = (parse_dt(window[0]) or datetime.min).strftime("%Y-%m-%d")
+                structured, slug_by_key, date, prev_facets, curr_facets))
+            _note_arrivals(state, curr_facets, date, prev_date)
+            prev_date = date
+        prev_apps, prev_facets = curr_apps, curr_facets
+    state["history_from"] = history_from
     n = sum(len(v) for v in state["history"].values())
     print(f"  history                   — {n:,} entries across "
           f"{len(state['history']):,} product(s)")
     return True
 
 
-def _render_history(entries, since):
+def _names(items, limit=3):
+    """'A, B, C and 4 more' — enough to recognise, not a full manifest."""
+    shown = ", ".join(_xml_escape(x) for x in items[:limit])
+    rest = len(items) - limit
+    return shown + (f" and {rest:,} more" if rest > 0 else "")
+
+
+def _render_history(entries, since, first_seen=None):
     """The change-history section for one product page."""
     if not entries:
         return "", ""
@@ -1423,29 +1532,63 @@ def _render_history(entries, since):
         return (f"<code>{_xml_escape(prev)}</code> &rarr; "
                 f"<code>{_xml_escape(curr)}</code>{moved}")
 
+    def packages_bit(n, verb, branches):
+        text = f"{n:,} package{'' if n == 1 else 's'} {verb}"
+        return text + (f" ({_names(branches)})" if branches else "")
+
     def phrase(e):
+        # A product already in the oldest export has no arrival on record; its
+        # first entry is an ordinary change, not the day it joined the catalog.
+        arrived = bool(first_seen and since and first_seen > since
+                       and e["date"] == first_seen)
+        bits = []
+        if arrived and e.get("added"):
+            n = e["added"]
+            bits.append(f"First listed in the catalog with {n:,} "
+                        f"package{'' if n == 1 else 's'}")
         # Tolerates the pre-count entry shape so an existing state file does not
         # have to be thrown away to pick up this change.
-        bits = [version_bit(v[0], v[1], v[2] if len(v) > 2 else 1)
-                for v in e.get("versions") or []]
-        if e.get("added"):
-            n = e["added"]
-            bits.append(f"{n:,} package{'' if n == 1 else 's'} added")
+        bits += [version_bit(v[0], v[1], v[2] if len(v) > 2 else 1)
+                 for v in e.get("versions") or []]
+        if e.get("added") and not arrived:
+            bits.append(packages_bit(e["added"], "added", e.get("branches_added")))
         if e.get("removed"):
-            n = e["removed"]
-            bits.append(f"{n:,} package{'' if n == 1 else 's'} removed")
+            bits.append(packages_bit(e["removed"], "removed", e.get("branches_removed")))
+        for key, label in (("archs_added",   "New architecture"),
+                           ("archs_removed", "Dropped architecture")):
+            vals = e.get(key)
+            if vals:
+                bits.append(f"{label}{'' if len(vals) == 1 else 's'} "
+                            f"{_arch_tags(','.join(vals))}")
+        for key, label in (("locales_added",   "New locale"),
+                           ("locales_removed", "Dropped locale")):
+            vals = e.get(key)
+            if vals:
+                bits.append(f"{label}{'' if len(vals) == 1 else 's'} "
+                            f"{_locale_tags(vals, limit=6)}")
+        # The package-level field label says less than the product-level
+        # difference above, so it gives way when that difference is recorded.
+        covered = set()
+        if e.get("archs_added") or e.get("archs_removed"):
+            covered.add("Architecture")
+        if e.get("locales_added") or e.get("locales_removed"):
+            covered.add("Locales")
         for label in e.get("fields") or []:
-            bits.append(f"{_xml_escape(label)} changed")
+            if label not in covered:
+                bits.append(f"{_xml_escape(label)} changed")
         return ", ".join(bits) or "Catalog entry updated"
 
+    shown = entries[-HISTORY_MAX:]
     items = "".join(
         f'<li><time datetime="{_xml_escape(e["date"])}">'
         f'{_xml_escape(_pretty_date(e["date"]))}</time>'
         f'<span class="hist-what">{phrase(e)}</span></li>'
-        for e in reversed(entries)
+        for e in reversed(shown)
     )
+    more = (f" Showing the latest {len(shown):,} of {len(entries):,}."
+            if len(entries) > len(shown) else "")
     note = (f'<p class="hist-note">Recorded from the catalog exports in this '
-            f"repository since {_xml_escape(_pretty_date(since))}.</p>"
+            f"repository since {_xml_escape(_pretty_date(since))}.{more}</p>"
             if since else "")
     html = (
         '\n<section class="docs-section">\n'
@@ -1456,8 +1599,80 @@ def _render_history(entries, since):
     return html, entries[-1]["date"]
 
 
+def _cadence(entries):
+    """(version-update days, typical gap in days, latest version move).
+
+    Counted per day, not per package: Firefox moving 47 locale packages from
+    one version to the next is one release, and so is a staged rollout that
+    lands across two exports on the same day. The typical gap is the mean
+    spacing between the first and the last update, not the median of the
+    gaps: Java ships patch re-releases days apart, which put the median at
+    five days for an app that moves about once a month. It needs at least two
+    gaps to mean anything.
+
+    Every figure is anchored to the app's own changes, never to today: a
+    sliding "last 90 days" count would rewrite pages when nothing about the
+    app moved, which is the false <lastmod> signal this pipeline exists to
+    avoid.
+    """
+    days = [e["date"] for e in entries if e.get("versions")]
+    gap = None
+    if len(days) >= 3:
+        span = (datetime.strptime(days[-1], "%Y-%m-%d")
+                - datetime.strptime(days[0], "%Y-%m-%d")).days
+        gap = max(1, round(span / (len(days) - 1)))
+    last = None
+    for e in reversed(entries):
+        if e.get("versions"):
+            v = max(e["versions"], key=lambda v: _version_key(v[1]))
+            last = (e["date"], v[0], v[1])
+            break
+    return days, gap, last
+
+
+def _interval(days):
+    """'9 days', '3 weeks', '2 months' — the precision a cadence deserves."""
+    if days < 14:
+        return f"{days:,} day{'' if days == 1 else 's'}"
+    if days < 63:
+        n = round(days / 7)
+        return f"{n} weeks"
+    n = round(days / 30)
+    return f"{n} month{'' if n == 1 else 's'}"
+
+
+def _activity_prose(entries, since, first_seen, first_seen_after=None):
+    """A few sentences on how this app has moved in the catalog.
+
+    The template sentence before it is the same on every page; this is the
+    part that is not.
+    """
+    if not since:
+        return ""
+    days, gap, last = _cadence(entries)
+    if first_seen and first_seen > since and first_seen_after:
+        s = (f"It was first listed in the catalog export of {_pretty_date(first_seen)}; "
+             f"the one before, on {_pretty_date(first_seen_after)}, did not include it yet.")
+    elif first_seen and first_seen > since:
+        s = f"It was first listed in the catalog on {_pretty_date(first_seen)}."
+    else:
+        s = (f"It has been in the catalog since at least {_pretty_date(since)}, "
+             "the first export on record.")
+    if not days:
+        return s + " No new version has been published to it since."
+    move = (f"<code>{_xml_escape(last[1])}</code> &rarr; "
+            f"<code>{_xml_escape(last[2])}</code>")
+    if len(days) == 1:
+        return (s + f" One version update has been recorded since, on "
+                f"{_pretty_date(last[0])}, moving {move}.")
+    every = f", roughly one every {_interval(gap)}" if gap else ""
+    return (s + f" {len(days):,} version updates have been recorded since{every}; "
+            f"the latest, on {_pretty_date(last[0])}, moved {move}.")
+
+
 def _render_app_page(slug, packages, site_url, repo_url,
-                     siblings=(), history=(), history_from=None):
+                     siblings=(), history=(), history_from=None, first_seen=None,
+                     first_seen_after=None):
     product   = packages[0].get("productDisplayName", "")
     publisher = packages[0].get("publisherDisplayName", "")
     n      = len(packages)
@@ -1473,14 +1688,28 @@ def _render_app_page(slug, packages, site_url, repo_url,
     ))
     locales = sorted({l for p in packages for l in (p.get("locales") or []) if l})
 
-    hist_html, last_change = _render_history(history, history_from)
+    hist_html, last_change = _render_history(history, history_from, first_seen)
+    update_days, gap, _ = _cadence(history)
+    prose = _activity_prose(history, history_from, first_seen, first_seen_after)
+    prose = f" {prose}" if prose else ""
+    # The date the record for this app starts: its arrival, or the oldest
+    # export for an app that was already there.
+    anchor = first_seen if first_seen and history_from and first_seen > history_from \
+        else history_from
 
     # Least-important clause last: on a long product name the auto-update note
     # falls off the end rather than the version, and the name is never cut.
+    updates_clause = ()
+    if update_days and anchor:
+        y, m = anchor.split("-")[:2]
+        k = len(update_days)
+        updates_clause = (f"{k:,} version update{'' if k == 1 else 's'} since "
+                          f"{_MONTHS[int(m) - 1]} {y}",)
     desc = _meta_desc(
         f"{product} by {publisher} in the Intune EAM app catalog",
         f"{n} package{'s' if n != 1 else ''}",
         f"latest {latest}",
+        *updates_clause,
         f"auto-update {'supported' if auto else 'not supported'}",
     )
     ld_data = {
@@ -1512,6 +1741,19 @@ def _render_app_page(slug, packages, site_url, repo_url,
         + _fact("Auto-update", auto_fact)
         + _fact("Architectures", _arch_tags(",".join(arches)))
         + _fact("Locales", _locale_tags(locales, limit=8))
+        + (_fact("In catalog since",
+                 f'<time datetime="{_xml_escape(anchor)}">'
+                 f"{_xml_escape(_pretty_date(anchor))}</time>"
+                 + ("" if anchor != history_from and not first_seen_after
+                    else ' <span class="app-dash">or earlier</span>'))
+           if anchor else "")
+        + (_fact("Version updates",
+                 f"{len(update_days):,}"
+                 + (f' <span class="app-dash">&middot; every ~{_interval(gap)}</span>'
+                    if gap else ""))
+           if update_days else
+           _fact("Version updates", '<span class="app-dash">None recorded</span>')
+           if anchor else "")
         # A product that has never moved says so rather than dropping the row:
         # "unchanged since December" is a real answer for an admin deciding
         # whether a package is stable, and it keeps the panel the same shape on
@@ -1577,7 +1819,7 @@ def _render_app_page(slug, packages, site_url, repo_url,
         f'<p class="app-publisher">by {_xml_escape(publisher)}</p>\n'
         f'<p class="app-lede">{_xml_escape(product)} is published in the Microsoft Intune '
         "Enterprise App Management (EAM) catalog, so Intune can deploy and update it on "
-        "Windows devices without a repackaged installer.</p>\n"
+        f"Windows devices without a repackaged installer.{prose}</p>\n"
         f"{facts}\n"
         "</section>\n"
         '<section class="docs-section">\n'
@@ -1731,7 +1973,9 @@ def generate_app_pages(slug_map, latest_file, site_url, repo_url, state, today, 
         key = (g[0].get("publisherDisplayName") or "").lower()
         siblings = [t for t in by_publisher[key] if t[0] != slug]
         html = _render_app_page(slug, g, site_url, repo_url, siblings,
-                                state["history"].get(slug, []), history_from)
+                                state["history"].get(slug, []), history_from,
+                                state["first_seen"].get(slug),
+                                state["first_seen_after"].get(slug))
         written += _write_page(f"docs/apps/{slug}.html", html,
                                _page_url(site_url, f"apps/{slug}.html"),
                                state, today, changed)
@@ -1756,6 +2000,8 @@ def generate_app_pages(slug_map, latest_file, site_url, repo_url, state, today, 
         base = os.path.basename(p)
         state["pages"].pop(_page_url(site_url, f"apps/{base}"), None)
         state["history"].pop(os.path.splitext(base)[0], None)
+        state["first_seen"].pop(os.path.splitext(base)[0], None)
+        state["first_seen_after"].pop(os.path.splitext(base)[0], None)
 
     note = f", {len(stale)} stale page(s) removed" if stale else ""
     print(f"  docs/apps/                — {len(slug_map):,} product page(s) + index"
@@ -1917,12 +2163,14 @@ def main():
 
     # Collect structured changes for catalog.json
     changes_data = {}
+    previous_apps = None
 
     if len(files) >= 2:
         previous_file = files[-2]
+        previous_apps = load_catalog(previous_file)
         print(f"Previous: {previous_file}")
         changes_data["latest"] = generate_changes(
-            current_apps, load_catalog(previous_file), latest_file, previous_file
+            current_apps, previous_apps, latest_file, previous_file
         )
     else:
         src_name = os.path.basename(latest_file)
@@ -1972,11 +2220,17 @@ def main():
     seeded = seed_history(state, files, slug_by_key)
     if (not seeded and changes_data.get("latest")
             and state.get("history_through") != latest_name):
-        _record_history(
-            state, _summarise_changes(changes_data["latest"], slug_by_key, today))
+        _record_history(state, _summarise_changes(
+            changes_data["latest"], slug_by_key, today,
+            _facets(previous_apps, slug_by_key), _facets(current_apps, slug_by_key)))
     state["history_through"] = latest_name
     if not state.get("history_from"):
         state["history_from"] = today
+    # A product that arrived with this export is first seen today; one already
+    # on record keeps its date.
+    prev_dt = parse_dt(files[-2]) if len(files) >= 2 else None
+    _note_arrivals(state, slug_map, today,
+                   prev_dt.strftime("%Y-%m-%d") if prev_dt else None)
 
     slugs = generate_app_pages(slug_map, latest_file, site_url, repo_url,
                                state, today, changed)
