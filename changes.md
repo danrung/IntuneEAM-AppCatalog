@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261102_053215_AppCatalog.json` (exported 2026-11-02 05:32:15)  
-> **vs:** `20261101_175012_AppCatalog.json` (exported 2026-11-01 17:50:12)  
-> **Span:** 11 hours between exports  
-> **Generated:** 2026-11-02 05:32 UTC
+> **Comparing:** `20261102_213734_AppCatalog.json` (exported 2026-11-02 21:37:34)  
+> **vs:** `20261102_053215_AppCatalog.json` (exported 2026-11-02 05:32:15)  
+> **Span:** 16 hours between exports  
+> **Generated:** 2026-11-02 21:38 UTC
 
 ## Summary
 
