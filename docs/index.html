@@ -46,7 +46,7 @@
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="stylesheet" href="app.css" />
-  <link rel="alternate" type="application/rss+xml" title="Intune EAM App Catalog — Changes" href="feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Intune EAM App Catalog" href="feed.xml" />
   <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "2905f0a2f65147db9c879ca2702b1743"}'></script><!-- End Cloudflare Web Analytics -->
 </head>
 <body>
@@ -357,14 +357,16 @@
 
           <section class="docs-section">
             <h2>RSS Feed</h2>
-            <p>Subscribe to catalog changes in any RSS reader. Every time a new export is processed,
-               a new entry is published automatically.</p>
+            <p>Subscribe to catalog changes in any RSS reader. Every export that adds, removes or
+               updates something publishes a new entry automatically; exports that change nothing
+               stay out of your inbox.</p>
             <p>
               <strong>Feed URL</strong><br>
               <code id="rss-feed-url">feed.xml</code>
             </p>
-            <p>Each item contains a summary of added, removed, and updated packages — including
-               publisher, name, and version details. The feed keeps the last 50 entries and is
+            <p>Each item names the apps that changed and lists the added, removed, and updated
+               packages — publisher, name, and version, with a link to every app's own page. The
+               feed keeps the last 50 entries and is
                compatible with any RSS 2.0 client: Feedly, Outlook, Thunderbird, Apple Mail, and others.</p>
             <table class="docs-table">
               <thead><tr><th>Client</th><th>How to subscribe</th></tr></thead>

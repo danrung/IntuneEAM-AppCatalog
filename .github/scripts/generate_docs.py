@@ -509,8 +509,11 @@ def _compute_changes(current_apps, previous_apps, current_file, previous_file):
               f"share a key and were disambiguated by ordinal")
     curr_ids, prev_ids = set(curr_by_id), set(prev_by_id)
 
+    # Branch and version break the tie between packages of one product, which
+    # otherwise came out in set order — different on every run.
     def sk(a):
-        return (a.get("publisherDisplayName","").lower(), a.get("productDisplayName","").lower())
+        return (a.get("publisherDisplayName","").lower(), a.get("productDisplayName","").lower(),
+                (a.get("branchDisplayName") or "").lower(), _version_key(a.get("versionDisplayName")))
 
     added   = sorted([curr_by_id[i] for i in curr_ids - prev_ids], key=sk)
     removed = sorted([prev_by_id[i] for i in prev_ids - curr_ids], key=sk)
@@ -822,57 +825,229 @@ def _fd_more(shown, total):
     )
 
 
-def _feed_description(structured, source_ts, site_url="#", max_show=20):
+FD_LINK = FD_UPDATED   # product names link to their pages in the accent colour
+
+_FD_WEEKDAYS = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")
+_FD_MONTHS   = ("January", "February", "March", "April", "May", "June", "July",
+                "August", "September", "October", "November", "December")
+
+# Item kinds in the order a title, a preview line and the body list them.
+_FEED_KINDS = (("Added", "added"), ("Updated", "updated"), ("Removed", "removed"))
+
+# Long enough for three app names in the common case; past it, fewer names.
+_FEED_TITLE_MAX = 110
+
+
+def _feed_has_changes(structured):
+    return any(structured.get(key) for _, key in _FEED_KINDS)
+
+
+def _feed_when(ts):
+    """'2026-10-31 17:07:15' -> 'Saturday, 31 October 2026 · 17:07 UTC' (HTML).
+
+    Spelled out by hand rather than with %A/%B, which follow the runner's
+    locale.
+    """
+    try:
+        dt = datetime.strptime(ts, "%Y-%m-%d %H:%M:%S")
+    except ValueError:
+        return _xml_escape(ts)
+    return (f"{_FD_WEEKDAYS[dt.weekday()]}, {dt.day} {_FD_MONTHS[dt.month - 1]} "
+            f"{dt.year} &middot; {dt:%H:%M} UTC")
+
+
+def _fd_names(items, limit):
+    """Distinct product names in order, as 'A, B, C and 4 more' (plain text)."""
+    names = []
+    for p in items:
+        n = p.get("productDisplayName") or ""
+        if n and n not in names:
+            names.append(n)
+    rest = len(names) - limit
+    return ", ".join(names[:limit]) + (f" and {rest:,} more" if rest > 0 else "")
+
+
+def _feed_title(structured):
+    """Item title that names what changed.
+
+    Outlook files each item as a mail and cuts the subject after a few dozen
+    characters, so the app names lead. The date already has its own column and
+    the package counts are in the body; neither earns the space up front.
+    """
+    groups = [(label, structured.get(key)) for label, key in _FEED_KINDS
+              if structured.get(key)]
+    title = ""
+    for limit in (3, 2, 1):
+        title = " · ".join(f"{label}: {_fd_names(items, limit)}" for label, items in groups)
+        if len(title) <= _FEED_TITLE_MAX:
+            break
+    return title
+
+
+def _feed_preview(structured, limit=4):
+    """The line a reader shows under the title: what moved, with versions."""
+    bits = []
+    for label, key in _FEED_KINDS:
+        seen = set()
+        for p in structured.get(key) or []:
+            name = p.get("productDisplayName") or ""
+            if not name or name in seen:
+                continue
+            seen.add(name)
+            ver  = p.get("versionDisplayName") or ""
+            prev = p.get("prevVersionDisplayName") or ""
+            if key == "updated" and prev and ver and prev != ver:
+                bits.append(f"{name} {prev} → {ver}")
+            elif key == "updated":
+                fields = [c.get("label") for c in p.get("changes", []) if c.get("label")]
+                bits.append(f"{name}: {', '.join(fields) or 'entry'} changed")
+            else:
+                bits.append(" ".join(x for x in (name, ver, label.lower()) if x))
+    rest = len(bits) - limit
+    return " · ".join(bits[:limit]) + (f" · and {rest:,} more" if rest > 0 else "")
+
+
+def _fd_product(p, slug_by_key, pages_url):
+    """Product name, linked to its page while the product still has one."""
+    name = _xml_escape(p.get("productDisplayName", ""))
+    slug = (slug_by_key or {}).get(_product_key(p))
+    if not (slug and pages_url):
+        return name
+    return (f'<a href="{_xml_escape(pages_url)}apps/{slug}.html" '
+            f'style="color:{FD_LINK};text-decoration:none;">{name}</a>')
+
+
+def _fd_header(when_html, sub_html, preview=""):
+    """Hidden preview line, then brand, date and one line of context.
+
+    The preview comes first because Outlook and most readers show the opening
+    text of an item under its title; without it that was the header, which
+    only repeated the title. No filled colour band: Outlook's dark mode
+    re-tints backgrounds, and the white-on-blue header came out as dark text on
+    pale blue. Text under an accent rule survives the re-tint.
+    """
+    pre = (f'<div style="display:none;font-size:1px;line-height:1px;max-height:0;'
+           f'max-width:0;opacity:0;overflow:hidden;mso-hide:all;">'
+           f"{_xml_escape(preview)}</div>" if preview else "")
+    cell = f"font-family:{FD_FONT};"
+    return (
+        f"{pre}{_FD_TABLE}>"
+        f'<tr><td style="{cell}padding:14px 0 0;border-top:3px solid {FD_UPDATED};'
+        f'font-size:11px;font-weight:700;letter-spacing:.08em;color:{FD_UPDATED};">'
+        "INTUNE EAM APP CATALOG</td></tr>"
+        f'<tr><td style="{cell}padding:6px 0 0;font-size:19px;font-weight:600;'
+        f'line-height:26px;color:{FD_INK};">{when_html}</td></tr>'
+        f'<tr><td style="{cell}padding:2px 0 0;font-size:13px;color:{FD_DIM};">'
+        f"{sub_html}</td></tr>"
+        "</table>"
+    )
+
+
+def _fd_footer(site_url, pages_url):
+    link = f"color:{FD_LINK};font-weight:600;text-decoration:none;"
+    changes = (f'<a href="{_xml_escape(pages_url)}#changes" style="{link}">'
+               "All recent changes &#8594;</a>"
+               f'<span style="color:{FD_DIM};">&nbsp;&nbsp;&middot;&nbsp;&nbsp;</span>'
+               if pages_url else "")
+    return (
+        f"{_FD_TABLE}>"
+        f'<tr><td style="padding:22px 0 0;font-family:{FD_FONT};font-size:13px;">'
+        f'{changes}<a href="{_xml_escape(site_url)}" style="{link}">Browse the catalog</a>'
+        "</td></tr>"
+        f'<tr><td style="padding:10px 0 0;font-family:{FD_FONT};font-size:11px;'
+        f'color:{FD_DIM};">Independent project built from the Microsoft Graph API '
+        "&mdash; not affiliated with Microsoft.</td></tr></table>"
+    )
+
+
+def _feed_description(structured, source_ts, site_url="#", pages_url="",
+                      slug_by_key=None, max_show=20):
     """Build the HTML body of a feed item — readable in feed readers and in Outlook."""
     a = structured.get("added_count",   0)
     r = structured.get("removed_count", 0)
     u = structured.get("updated_count", 0)
 
     ver = lambda p, key: _xml_escape(p.get(key, "")) or "&mdash;"
+    product = lambda p: _fd_product(p, slug_by_key, pages_url)
+
+    def grouped(items, keys):
+        """Packages that moved identically, as one group each, in order.
+
+        Firefox ships one package per locale; 47 identical rows would push
+        every other app past the cut-off, and even two read as a duplicate.
+        """
+        groups = {}
+        for p in items:
+            groups.setdefault(tuple(p.get(k) for k in keys), []).append(p)
+        return list(groups.values())
+
+    def count_note(g, groups):
+        """'2 packages', or — when the product has rows of its own on either
+        side (CMake 4.3 and 4.4 both moving) — the branch that tells them apart."""
+        if len(g) > 1:
+            return f"{len(g):,} packages"
+        name = g[0].get("productDisplayName")
+        if sum(1 for h in groups if h[0].get("productDisplayName") == name) > 1:
+            return _xml_escape(g[0].get("branchDisplayName", ""))
+        return ""
 
     def simple_rows(items, color_version=FD_INK):
+        groups = grouped(items, ("productDisplayName", "publisherDisplayName",
+                                 "versionDisplayName"))
         rows = "".join(
             _fd_row(
-                _xml_escape(p.get("productDisplayName", "")),
-                _xml_escape(p.get("publisherDisplayName", "")),
-                f'<span style="color:{color_version};">{ver(p, "versionDisplayName")}</span>',
+                product(g[0]),
+                _xml_escape(g[0].get("publisherDisplayName", "")),
+                f'<span style="color:{color_version};">{ver(g[0], "versionDisplayName")}</span>',
+                note=count_note(g, groups),
             )
-            for p in items[:max_show]
+            for g in groups[:max_show]
         )
-        return rows + _fd_more(max_show, len(items))
+        return rows + _fd_more(max_show, len(groups))
 
     def updated_rows(items):
+        groups = grouped(items, ("productDisplayName", "publisherDisplayName",
+                                 "prevVersionDisplayName", "versionDisplayName"))
         rows = ""
-        for p in items[:max_show]:
-            labels = [c["label"] for c in p.get("changes", []) if c["field"] != "versionDisplayName"]
+        for g in groups[:max_show]:
+            p = g[0]
+            labels = []
+            for q in g:
+                for c in q.get("changes", []):
+                    if c["field"] != "versionDisplayName" and c["label"] not in labels:
+                        labels.append(c["label"])
+            note = " &middot; ".join(x for x in (
+                count_note(g, groups), ("also " + _xml_escape(", ".join(labels))) if labels else "",
+            ) if x)
             rows += _fd_row(
-                _xml_escape(p.get("productDisplayName", "")),
+                product(p),
                 _xml_escape(p.get("publisherDisplayName", "")),
                 f'<span style="color:{FD_DIM};">{ver(p, "prevVersionDisplayName")}</span>'
                 f'<span style="color:{FD_DIM};">&nbsp;&#8594;&nbsp;</span>'
                 f'<span style="color:{FD_UPDATED};font-weight:700;">{ver(p, "versionDisplayName")}</span>',
-                note=("also " + _xml_escape(", ".join(labels))) if labels else "",
+                note=note,
             )
-        return rows + _fd_more(max_show, len(items))
+        return rows + _fd_more(max_show, len(groups))
 
-    parts = [
-        # Header band — export timestamp and the baseline it was diffed against
-        f'{_FD_TABLE}>'
-        f'<tr><td style="padding:14px 18px;background:{FD_UPDATED};font-family:{FD_FONT};">'
-        f'<div style="font-size:16px;font-weight:600;color:#ffffff;">'
-        f'Catalog export {_xml_escape(source_ts)}</div>'
-        f'<div style="font-size:12px;color:#d7e7f8;">compared to '
-        f'{_xml_escape(structured.get("compared_to", ""))} '
-        f'({_xml_escape(structured.get("compared_to_ts", ""))})</div>'
-        f'</td></tr>'
-        # Summary strip
-        f'<tr><td style="padding:14px 18px;background:#f5f7f9;border:1px solid {FD_LINE};border-top:0;">'
-        f'<table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>'
-        + _fd_counter(f"+{a:,}", "ADDED",   FD_ADDED)
-        + _fd_counter(f"&minus;{r:,}", "REMOVED", FD_REMOVED)
-        + _fd_counter(f"{u:,}", "UPDATED", FD_UPDATED)
-        + f'</tr></table></td></tr></table>'
-    ]
+    span = structured.get("span_label")
+    sub = (f"Compared with the previous export, {_xml_escape(span)} earlier."
+           if span else "Compared with the previous export.")
+    # Only the counters that moved — "+0 added, −0 removed" said nothing — and
+    # only when there are two kinds to compare: a lone "3 UPDATED" just repeats
+    # the section heading under it.
+    moved = [(value, label, color) for n, value, label, color in (
+        (a, f"+{a:,}",        "ADDED",   FD_ADDED),
+        (r, f"&minus;{r:,}",  "REMOVED", FD_REMOVED),
+        (u, f"{u:,}",         "UPDATED", FD_UPDATED),
+    ) if n]
+    parts = [_fd_header(_feed_when(source_ts), sub, _feed_preview(structured))]
+    if len(moved) > 1:
+        parts.append(
+            f'{_FD_TABLE}><tr><td style="padding:14px 0 0;">'
+            f'<table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>'
+            + "".join(_fd_counter(*m) for m in moved)
+            + "</tr></table></td></tr></table>"
+        )
 
     if a:
         parts.append(_fd_section("Added",   a, FD_ADDED,   simple_rows(structured.get("added", []), FD_ADDED)))
@@ -881,82 +1056,172 @@ def _feed_description(structured, source_ts, site_url="#", max_show=20):
     if u:
         parts.append(_fd_section("Updated", u, FD_UPDATED, updated_rows(structured.get("updated", []))))
 
-    parts.append(
-        f'{_FD_TABLE}><tr><td style="padding:20px 0 0;font-family:{FD_FONT};font-size:12px;">'
-        f'<a href="{_xml_escape(site_url)}" style="color:{FD_UPDATED};font-weight:600;'
-        f'text-decoration:none;">Open the full catalog &#8594;</a></td></tr></table>'
-    )
-
+    parts.append(_fd_footer(site_url, pages_url))
     return "".join(parts)
 
 
-def generate_feed(changes_latest, stats, source_file, repo_url):
-    """Append a new RSS item to docs/feed.xml, keeping the last 50 items."""
-    feed_path = "docs/feed.xml"
-    site_url  = get_site_url(repo_url) or repo_url or "#"
-    feed_url  = site_url.rstrip("/") + "/feed.xml"
+FEED_PATH  = "docs/feed.xml"
+FEED_MAX   = 50
+# Short enough to fit the sender column Outlook shows it in.
+FEED_TITLE = "Intune EAM App Catalog"
 
-    source_ts = stats["source_ts"]
-    pub_date  = _rss_date(source_ts)
-    guid      = source_ts.replace(" ", "T") + "Z"
+# Written into the feed so the next run knows whose items it is carrying. A
+# feed without this marker — written by an older version of this script — has
+# its items rebuilt from the archived exports rather than carried forward, so a
+# change to how items look reaches the whole feed at once instead of one
+# export at a time. Guids are the export timestamps either way, which is what
+# keeps a subscribed reader from listing a rebuilt item a second time.
+FEED_FORMAT = 2
+_FEED_MARK  = f"<!-- feed-format {FEED_FORMAT} -->"
 
-    if changes_latest:
-        a = changes_latest.get("added_count",   0)
-        r = changes_latest.get("removed_count", 0)
-        u = changes_latest.get("updated_count", 0)
-        title   = f"EAM Catalog {source_ts} — +{a:,} added, \u2212{r:,} removed, \u21BA{u:,} updated"
-        desc_html = _feed_description(changes_latest, source_ts, site_url)
-    else:
-        title     = f"EAM Catalog {source_ts} — initial import ({stats['total']:,} packages)"
-        desc_html = (
-            f'{_FD_TABLE}>'
-            f'<tr><td style="padding:14px 18px;background:{FD_UPDATED};font-family:{FD_FONT};">'
-            f'<div style="font-size:16px;font-weight:600;color:#ffffff;">'
-            f'Initial catalog import &nbsp;&middot;&nbsp; {_xml_escape(source_ts)}</div>'
-            f'<div style="font-size:12px;color:#d7e7f8;">{stats["total"]:,} packages from '
-            f'{stats["publishers"]:,} publishers</div></td></tr></table>'
-        )
 
-    new_item = (
-        f"    <item>\n"
+def _feed_guid(source_ts):
+    return source_ts.replace(" ", "T") + "Z"
+
+
+def _feed_item_xml(title, source_ts, link, desc_html, categories=()):
+    cats = "".join(f"      <category>{c}</category>\n" for c in categories)
+    return (
+        "<item>\n"
         f"      <title>{_xml_escape(title)}</title>\n"
-        f"      <link>{_xml_escape(site_url)}</link>\n"
-        f"      <pubDate>{pub_date}</pubDate>\n"
-        f"      <guid isPermaLink='false'>{_xml_escape(guid)}</guid>\n"
+        f"      <link>{_xml_escape(link)}</link>\n"
+        f"      <pubDate>{_rss_date(source_ts)}</pubDate>\n"
+        f"      <guid isPermaLink='false'>{_xml_escape(_feed_guid(source_ts))}</guid>\n"
+        f"{cats}"
         f"      <description><![CDATA[{desc_html}]]></description>\n"
-        f"    </item>"
+        "    </item>"
     )
 
-    # Read existing items to avoid duplicates and cap at 50
-    existing_items = []
-    if os.path.exists(feed_path):
-        with open(feed_path, encoding="utf-8") as f:
+
+def _feed_item(structured, source_ts, site_url, pages_url, slug_by_key):
+    """One <item>, for an export that changed something."""
+    return _feed_item_xml(
+        _feed_title(structured), source_ts,
+        f"{pages_url}#changes" if pages_url else site_url,
+        _feed_description(structured, source_ts, site_url, pages_url, slug_by_key),
+        [label for label, key in _FEED_KINDS if structured.get(key)],
+    )
+
+
+def _feed_initial_item(stats, site_url, pages_url):
+    title = (f"Initial import: {stats['total']:,} packages from "
+             f"{stats['publishers']:,} publishers")
+    desc = (_fd_header(_feed_when(stats["source_ts"]),
+                       "First catalog export &mdash; nothing to compare against yet.",
+                       title)
+            + _fd_footer(site_url, pages_url))
+    return _feed_item_xml(title, stats["source_ts"], site_url, desc)
+
+
+def _rebuild_feed_items(files, site_url, pages_url, slug_by_key, floor=None):
+    """The items the feed should carry, rebuilt from the archived exports.
+
+    Walks back from the newest pair of exports until FEED_MAX of them turn out
+    to have changed something, or until `floor` — the oldest export the old
+    feed still carried. Each pair is the same one the item was first written
+    from, so the guids — and the dates readers sort by — come out as they
+    were.
+    """
+    items = []
+    curr_file = files[-1]
+    curr_apps = load_catalog(curr_file)
+    for prev_file in reversed(files[:-1]):
+        if len(items) >= FEED_MAX or (floor and filename_to_ts(curr_file) < floor):
+            break
+        prev_apps = load_catalog(prev_file)
+        structured, *_ = _compute_changes(curr_apps, prev_apps, curr_file, prev_file)
+        if _feed_has_changes(structured):
+            items.append(_feed_item(structured, filename_to_ts(curr_file),
+                                    site_url, pages_url, slug_by_key))
+        curr_file, curr_apps = prev_file, prev_apps
+    return items
+
+
+def generate_feed(changes_latest, stats, files, repo_url, slug_by_key=None):
+    """Write docs/feed.xml: one item per export that changed something, newest
+    first, at most FEED_MAX of them.
+
+    An export that changed nothing adds no item. It used to add one reading
+    "+0 added, −0 removed, 0 updated" — a quarter of the feed, landing in
+    every subscriber's Outlook twice a day.
+    """
+    pages_url = get_site_url(repo_url)
+    site_url  = pages_url or repo_url or "#"
+    feed_url  = site_url.rstrip("/") + "/feed.xml"
+    source_ts = stats["source_ts"]
+
+    raw = ""
+    if os.path.exists(FEED_PATH):
+        with open(FEED_PATH, encoding="utf-8") as f:
             raw = f.read()
-        existing_items = re.findall(r"<item>.*?</item>", raw, re.DOTALL)
-        # Drop any item with the same guid
-        existing_items = [i for i in existing_items if guid not in i]
 
-    all_items = [new_item] + existing_items[:49]  # newest first, max 50
+    if changes_latest is None:
+        items = [_feed_initial_item(stats, site_url, pages_url)]
+        how = "initial import"
+    elif _FEED_MARK not in raw:
+        # Only as far back as the old feed reached. Going further would hand
+        # every subscriber a batch of unread items dated weeks ago; the feed
+        # grows back to FEED_MAX on its own.
+        old = re.findall(r">(\d{4}-\d{2}-\d{2})T(\d{2}:\d{2}:\d{2})Z</guid>", raw)
+        floor = min(f"{d} {t}" for d, t in old) if old else None
+        items = _rebuild_feed_items(files, site_url, pages_url, slug_by_key, floor)
+        how = f"rebuilt from the archive (format {FEED_FORMAT})"
+    else:
+        # Re-running an export replaces its item rather than stacking a second.
+        guid = _feed_guid(source_ts)
+        items = [i for i in re.findall(r"<item>.*?</item>", raw, re.DOTALL) if guid not in i]
+        if _feed_has_changes(changes_latest):
+            items.insert(0, _feed_item(changes_latest, source_ts, site_url,
+                                       pages_url, slug_by_key))
+            how = "1 new"
+        else:
+            how = "no changes, no new item"
+    items = items[:FEED_MAX]
 
+    # The newest item's date, not the export's: an export that adds no item
+    # leaves the file byte-identical, so there is nothing for git to commit.
+    m = re.search(r"<pubDate>(.*?)</pubDate>", items[0]) if items else None
+    built = m.group(1) if m else _rss_date(source_ts)
+
+    # Feed readers that show a channel icon (Feedly, Inoreader, Thunderbird)
+    # take it from here. The spec caps the declared width at 144.
+    image = (
+        "    <image>\n"
+        f"      <url>{_xml_escape(pages_url)}apple-touch-icon.png</url>\n"
+        f"      <title>{FEED_TITLE}</title>\n"
+        f"      <link>{_xml_escape(pages_url)}</link>\n"
+        "      <width>144</width>\n"
+        "      <height>144</height>\n"
+        "    </image>\n"
+        if pages_url else ""
+    )
     channel = (
-        f'<?xml version="1.0" encoding="UTF-8"?>\n'
-        f'<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
-        f'  <channel>\n'
-        f'    <title>Intune EAM App Catalog \u2014 Changes</title>\n'
-        f'    <link>{_xml_escape(site_url)}</link>\n'
-        f'    <description>Change feed for the Microsoft Intune EAM App Catalog</description>\n'
-        f'    <language>en</language>\n'
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        f"{_FEED_MARK}\n"
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        "  <channel>\n"
+        f"    <title>{FEED_TITLE}</title>\n"
+        f"    <link>{_xml_escape(site_url)}</link>\n"
+        "    <description>New, updated and removed apps in the Microsoft Intune "
+        "Enterprise App Management (EAM) catalog, published after every catalog "
+        "export that changes something.</description>\n"
+        "    <language>en</language>\n"
+        "    <category>Microsoft Intune</category>\n"
+        # Exports land twice a day; asking readers to poll more often than
+        # that only costs them requests.
+        "    <ttl>360</ttl>\n"
+        f"{image}"
         f'    <atom:link href="{_xml_escape(feed_url)}" rel="self" type="application/rss+xml"/>\n'
-        f'    <lastBuildDate>{_rss_date(source_ts)}</lastBuildDate>\n'
-        + "\n".join(all_items) + "\n"
-        f'  </channel>\n'
-        f'</rss>\n'
+        f"    <lastBuildDate>{built}</lastBuildDate>\n"
+        + "".join(f"    {i}\n" for i in items)
+        + "  </channel>\n"
+        "</rss>\n"
     )
 
     os.makedirs("docs", exist_ok=True)
-    with open(feed_path, "w", encoding="utf-8") as f:
+    with open(FEED_PATH, "w", encoding="utf-8") as f:
         f.write(channel)
-    print(f"  docs/feed.xml             — {len(all_items)} item(s)")
+    print(f"  docs/feed.xml             — {len(items)} item(s), {how}")
 
 
 # ---------------------------------------------------------------------------
@@ -2203,7 +2468,7 @@ def main():
     generate_summary_json(stats, changes_data, slug_by_key)
     repo_url = get_repo_url()
     site_url = get_site_url(repo_url)
-    generate_feed(changes_data.get("latest"), stats, latest_file, repo_url)
+    generate_feed(changes_data.get("latest"), stats, files, repo_url, slug_by_key)
 
     # Which pages to write, which sitemap dates to move and which URLs to hand
     # IndexNow are all the same question — did this page's content change — so

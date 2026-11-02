@@ -30,7 +30,7 @@ Raw exports: [catalog/](catalog/) for the current file, [archive/](archive/) for
 
 ## RSS Feed
 
-Stay up to date without checking the site manually. Every time a new catalog export is processed, a new entry is published to the feed.
+Stay up to date without checking the site manually. Every catalog export that adds, removes or updates something publishes a new entry to the feed; an export that changes nothing publishes none.
 
 **Feed URL:**
 ```
@@ -38,12 +38,14 @@ https://eam.drung.dev/feed.xml
 ```
 
 Each feed item contains:
+- A title naming the apps that changed, and a preview line with their version moves
 - How many packages were added, removed, and updated
-- A full list of added and removed packages with publisher, name, and version
-- A list of updated packages showing the previous and new version
-- The timestamp of the catalog export it is based on
+- A list of added and removed packages with publisher, name, and version
+- A list of updated packages showing the previous and new version — packages that moved identically (Firefox ships one per locale) share a row
+- A link from every app to its own page on the site
+- The date and time of the catalog export it is based on
 
-The feed keeps the last 50 entries. Compatible with any RSS reader — Feedly, Outlook, Thunderbird, Apple Mail, or any other client that supports RSS 2.0.
+Items are table-based HTML with inline styles only, so they render in Outlook's RSS folders, including in dark mode. The feed keeps the last 50 entries. When the item layout changes, the script bumps `FEED_FORMAT` and the next run rebuilds the items already in the feed from `archive/`, keeping their guids so subscribed readers do not list them twice. Compatible with any RSS reader — Feedly, Outlook, Thunderbird, Apple Mail, or any other client that supports RSS 2.0.
 
 ## Latest Statistics
 
