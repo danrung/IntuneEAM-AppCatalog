@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261102_213734_AppCatalog.json` (exported 2026-11-02 21:37:34)  
-> **Generated:** 2026-11-02 21:38 UTC  
+> **Source:** `20261103_061236_AppCatalog.json` (exported 2026-11-03 06:12:36)  
+> **Generated:** 2026-11-03 06:13 UTC  
 > **Total:** 1,594 packages · 933 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -97,7 +97,7 @@
 | 89 | Atomi Systems, Inc. | Atomi Systems ActivePresenter | ActivePresenter | `9.4.0` | x64 | ✅ | en-US |
 | 90 | Atomi Systems, Inc. | Saola Animate | Saola Animate | `3.1.4` | x64 | ❌ | en-US |
 | 91 | Atostek Oy | Atostek ID | Atostek ID | `4.6.0.0` | x86,x64 | ❌ | en-US |
-| 92 | Audacity | Audacity | Audacity (x64) | `4.0.1` | x64 | ✅ | en-US |
+| 92 | Audacity | Audacity | Audacity (x64) | `4.0.2` | x64 | ✅ | en-US |
 | 93 | Autodesk Inc. | Autodesk Access | Autodesk Access | `2.24.0.564` | x64 | ❌ | en-US |
 | 94 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (Brazilian Portuguese) (x64) | `15.3.0.5` | x64 | ❌ | pt-BR |
 | 95 | Autodesk Inc. | Autodesk Design Review 2018 | Autodesk Design Review 2018 (German) (x64) | `15.3.0.5` | x64 | ❌ | de-DE |
@@ -141,7 +141,7 @@
 | 133 | Azul Systems, Inc. | Zulu JRE 17 (LTS) | Zulu JRE 17 (LTS) (x64) | `17.70.113` | x64 | ❌ | en-US |
 | 134 | Azul Systems, Inc. | Zulu JRE 7 (LTS) | Zulu JRE 7 (LTS) (x64) | `7.56.0.11` | x64 | ❌ | en-US |
 | 135 | Azul Systems, Inc. | Zulu JRE 8 (LTS) | Zulu JRE 8 (LTS) (x64) | `8.98.0.107` | x64 | ❌ | en-US |
-| 136 | Baldur Karlsson | RenderDoc | RenderDoc (x64) | `1.46` | x64 | ❌ | en-US |
+| 136 | Baldur Karlsson | RenderDoc | RenderDoc (x64) | `1.47` | x64 | ❌ | en-US |
 | 137 | Bambu Lab | Bambu Studio | Bambu Studio | `2.8.2.61` | x64 | ❌ | en-US |
 | 138 | Bandisoft | BandiView | BandiView | `8.03` | x64 | ❌ | en-US |
 | 139 | Beanbag, Inc. | RBTools | RBTools | `6.0` | x64 | ❌ | en-US |
@@ -252,7 +252,7 @@
 | 244 | Cole Williams Software Limited | Windows 10 Codec Pack | Windows 10 Codec Pack | `2.2.0` | x86,x64 | ❌ | en-US |
 | 245 | Comfort Software Group | Free Countdown Timer | Free Countdown Timer | `5.3.1.0` | x86,x64 | ❌ | en-US |
 | 246 | ComponentAgro B.V. | ComponentAgro CHECK PC2Web | CHECK PC2Web | `7.44.0.0` | x86,x64 | ❌ | nl |
-| 247 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9798.31783` | x86,x64 | ❌ | en-US |
+| 247 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9800.33917` | x86,x64 | ❌ | en-US |
 | 248 | CounterPath Corporation | Bria Enterprise | Bria Enterprise | `6.5.1.108821` | x86,x64 | ❌ | en-US |
 | 249 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `3.01` | x64 | ❌ | en-US |
 | 250 | CPUID, Inc | HWMonitor | HWMonitor | `1.68` | x64 | ❌ | en-US |
@@ -268,7 +268,7 @@
 | 260 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.4.45528` | x64 | ❌ | en-US |
 | 261 | DAX Studio | DAX Studio | DAX Studio | `3.6.1.1250` | x64 | ❌ | en-US |
 | 262 | DB Browser for SQLite Team | DB Browser for SQLite | DB Browser for SQLite (x64) | `3.13.1` | x64 | ❌ | en-US |
-| 263 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.2.3` | x64 | ✅ | en-US |
+| 263 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.2.4` | x64 | ✅ | en-US |
 | 264 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.2.0` | x64 | ✅ | en-US |
 | 265 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.2.0` | x64 | ✅ | en-US |
 | 266 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.2.0` | x64 | ✅ | en-US |
@@ -347,8 +347,8 @@
 | 339 | Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 9 | `9.5.5` | x64 | ❌ | en-US |
 | 340 | Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 7 | `7.17.29` | x64 | ❌ | en-US |
 | 341 | Elgato | Elgato Stream Deck | Elgato Stream Deck | `7.6.0.23012` | x64 | ❌ | en-US |
-| 342 | Enpass Technologies Inc. | Enpass | Enpass | `6.11.21.2311` | x86,x64 | ❌ | en-US |
-| 343 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.5.2659` | x64 | ❌ | en-US |
+| 342 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.8.2751` | x64 | ❌ | en-US |
+| 343 | Enpass Technologies Inc. | Enpass | Enpass | `6.11.21.2311` | x86,x64 | ❌ | en-US |
 | 344 | EnterpriseDB Corporation | EnterpriseDB Corporation PostgreSQL 12 | PostgreSQL 12 (x64) | `12.22.1` | x64 | ❌ | en-US |
 | 345 | EnterpriseDB Corporation | pgAdmin 4 | pgAdmin 4 | `9.19` | x64 | ❌ | en-US |
 | 346 | EPOS Group A/S | EPOS Connect | EPOS Connect | `8.7.0.52713` | x86,x64 | ❌ | en-US |
@@ -415,7 +415,7 @@
 | 407 | Genesys | Genesys Cloud | Genesys Cloud | `2.51.916` | x86,x64 | ❌ | en-US |
 | 408 | Genesys | Genesys Cloud Background Assistant | Genesys Cloud Background Assistant | `1.7.468` | x86,x64 | ❌ | en-US |
 | 409 | Genesys | Genesys Cloud Background Assistant | Genesys Cloud Background Assistant (x64) | `1.7.488` | x64 | ❌ | en-US |
-| 410 | Gephi | Gephi | Gephi (x64) | `0.11.3` | x64 | ❌ | en-US |
+| 410 | Gephi | Gephi | Gephi (x64) | `0.11.4` | x64 | ❌ | en-US |
 | 411 | Gerardo Grignoli | gsudo | gsudo (x64) | `2.6.1` | x64 | ❌ | en-US |
 | 412 | GFI Software | Kerio Connect | Kerio Connect | `10.0.9.10320` | x64 | ❌ | en-US |
 | 413 | GIMP | GIMP | GIMP | `3.2.6.0` | x64 | ❌ | en-US |
@@ -485,12 +485,12 @@
 | 477 | JAM Software GmbH | JAM Software TreeSize Free | TreeSize Free | `4.8.1.610` | x64 | ✅ | en-US |
 | 478 | Jan de Dobbeleer | Oh My Posh | Oh My Posh (x64) | `29.26.1` | x64 | ❌ | en-US |
 | 479 | Jan Fiala | PSPad | PSPad (x64) | `5.5.1.825` | x64 | ❌ | en-US |
-| 480 | JetBrains | DataGrip | DataGrip 2026.1 (x64) | `2026.1.4` | x64 | ❌ | en-US |
+| 480 | JetBrains | DataGrip | DataGrip 2026.1 (x64) | `2026.1.4.1` | x64 | ❌ | en-US |
 | 481 | JetBrains | DataGrip | DataGrip 2025.1 (x64) | `2025.1.5` | x64 | ❌ | en-US |
-| 482 | JetBrains | DataGrip | DataGrip 2024.3 (x64) | `2024.3.5.1` | x64 | ❌ | en-US |
-| 483 | JetBrains | DataGrip | DataGrip 2025.3 (x64) | `2025.3.6` | x64 | ❌ | en-US |
-| 484 | JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.6` | x64 | ❌ | en-US |
-| 485 | JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.6` | x64 | ❌ | en-US |
+| 482 | JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.6.1` | x64 | ❌ | en-US |
+| 483 | JetBrains | DataGrip | DataGrip 2024.3 (x64) | `2024.3.5.1` | x64 | ❌ | en-US |
+| 484 | JetBrains | DataGrip | DataGrip 2025.3 (x64) | `2025.3.6.1` | x64 | ❌ | en-US |
+| 485 | JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.6.1` | x64 | ❌ | en-US |
 | 486 | JetBrains | DataGrip 1.0 | DataGrip 1.0 (x64) | `1.0.5` | x64 | ❌ | en-US |
 | 487 | JetBrains | DataGrip 2016.3 | DataGrip 2016.3 (x64) | `2016.3.4` | x64 | ❌ | en-US |
 | 488 | JetBrains | DataGrip 2020.3 | DataGrip 2020.3 (x64) | `2020.3.2` | x64 | ❌ | en-US |
@@ -506,15 +506,15 @@
 | 498 | JetBrains | DataSpell | DataSpell 2025.2 (x64) | `2025.2.4.1` | x64 | ❌ | en-US |
 | 499 | JetBrains | DataSpell | DataSpell 2024.2 | `2024.2.3` | x64 | ❌ | en-US |
 | 500 | JetBrains | GoLand | GoLand 2024.3 | `2024.3.6.1` | x64 | ❌ | en-US |
-| 501 | JetBrains | GoLand | GoLand 2026.2 (x64) | `2026.2.2.1` | x64 | ❌ | en-US |
-| 502 | JetBrains | GoLand | GoLand 2025.2 (x64) | `2025.2.6.2` | x64 | ❌ | en-US |
-| 503 | JetBrains | GoLand | GoLand 2025.1 (x64) | `2025.1.7.2` | x64 | ❌ | en-US |
-| 504 | JetBrains | GoLand | GoLand 2025.3 (x64) | `2025.3.5.1` | x64 | ❌ | en-US |
-| 505 | JetBrains | GoLand | GoLand 2026.1 (x64) | `2026.1.5` | x64 | ❌ | en-US |
+| 501 | JetBrains | GoLand | GoLand 2025.1 (x64) | `2025.1.7.2` | x64 | ❌ | en-US |
+| 502 | JetBrains | GoLand | GoLand 2025.2 (x64) | `2025.2.6.3` | x64 | ❌ | en-US |
+| 503 | JetBrains | GoLand | GoLand 2026.2 (x64) | `2026.2.4` | x64 | ❌ | en-US |
+| 504 | JetBrains | GoLand | GoLand 2025.3 (x64) | `2025.3.5.2` | x64 | ❌ | en-US |
+| 505 | JetBrains | GoLand | GoLand 2026.1 (x64) | `2026.1.5.1` | x64 | ❌ | en-US |
 | 506 | JetBrains | GoLand 2017.3 | GoLand 2017.3 | `2017.3.5` | x64 | ❌ | en-US |
 | 507 | JetBrains | GoLand 2021.1 | GoLand 2021.1 | `2021.1.3` | x64 | ❌ | en-US |
 | 508 | JetBrains | GoLand 2022.2 | GoLand 2022.2 | `2022.2.6` | x64 | ❌ | en-US |
-| 509 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.2 (x64) | `2025.2.6.3` | x64 | ❌ | en-US |
+| 509 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.2 (x64) | `2025.2.6.4` | x64 | ❌ | en-US |
 | 510 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.2 (x64) | `2024.2.6` | x64 | ❌ | en-US |
 | 511 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.3 (x64) | `2024.3.7.1` | x64 | ❌ | en-US |
 | 512 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2023.3 (x64) | `2023.3.8` | x64 | ❌ | en-US |
@@ -527,12 +527,12 @@
 | 519 | JetBrains | JetBrains dotUltimate | dotUltimate 2024.1 | `2024.1.7` | x86,x64 | ❌ | en-US |
 | 520 | JetBrains | JetBrains ReSharper 2023.1 | ReSharper 2023.1 | `2023.1.7` | x86,x64 | ❌ | en-US |
 | 521 | JetBrains | TeamCity | TeamCity | `2026.2.1` | x86,x64 | ❌ | en-US |
-| 522 | JetBrains | WebStorm | WebStorm 2024.3 (x64) | `2024.3.6.1` | x64 | ❌ | en-US |
-| 523 | JetBrains | WebStorm | WebStorm 2025.1 (x64) | `2025.1.7.2` | x64 | ❌ | en-US |
-| 524 | JetBrains | WebStorm | WebStorm 2026.1 (x64) | `2026.1.5` | x64 | ❌ | en-US |
-| 525 | JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.6.1` | x64 | ❌ | en-US |
-| 526 | JetBrains | WebStorm | WebStorm 2025.2 (x64) | `2025.2.6.2` | x64 | ❌ | en-US |
-| 527 | JetBrains | WebStorm | WebStorm 2026.2 (x64) | `2026.2.3` | x64 | ❌ | en-US |
+| 522 | JetBrains | WebStorm | WebStorm 2026.2 (x64) | `2026.2.4` | x64 | ❌ | en-US |
+| 523 | JetBrains | WebStorm | WebStorm 2024.3 (x64) | `2024.3.6.1` | x64 | ❌ | en-US |
+| 524 | JetBrains | WebStorm | WebStorm 2025.1 (x64) | `2025.1.7.2` | x64 | ❌ | en-US |
+| 525 | JetBrains | WebStorm | WebStorm 2025.2 (x64) | `2025.2.6.3` | x64 | ❌ | en-US |
+| 526 | JetBrains | WebStorm | WebStorm 2026.1 (x64) | `2026.1.5.1` | x64 | ❌ | en-US |
+| 527 | JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.6.2` | x64 | ❌ | en-US |
 | 528 | JetBrains | WebStorm 2022.2 | WebStorm 2022.2 (x64) | `2022.2.5` | x64 | ❌ | en-US |
 | 529 | Joachim Eibl | KDiff3 | KDiff3 (x64) | `1.12.6` | x64 | ❌ | en-US |
 | 530 | John MacFarlane | Pandoc | Pandoc | `3.13` | x64 | ❌ | en-US |
@@ -540,7 +540,7 @@
 | 532 | Juraj Simlovic | TED Notepad | TED Notepad (ANSI) | `6.3.1` | x86,x64 | ✅ | en-US |
 | 533 | Juraj Simlovic | TED Notepad | TED Notepad (Unicode) | `6.3.1` | x86,x64 | ✅ | en-US |
 | 534 | Kai Kramer | KeyStore Explorer | KeyStore Explorer | `5.7.0` | x64 | ❌ | en-US |
-| 535 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.13.2` | x64 | ❌ | en-US |
+| 535 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.14.2` | x64 | ❌ | en-US |
 | 536 | Karakun | OpenWebStart | OpenWebStart (x64) | `1.14.0` | x64 | ❌ | en-US |
 | 537 | KeePassXC | KeePassXC | KeePassXC (x64) | `2.8.0` | x64 | ✅ | en-US |
 | 538 | Keeper | Keeper | Keeper | `18.6.6.0` | x86,x64 | ✅ | en-US |
@@ -605,7 +605,7 @@
 | 597 | Martin Prikryl | WinSCP | WinSCP (MSI) | `6.3.8` | x86,x64 | ✅ | en-US |
 | 598 | Martin Raiber | UrBackup Client | UrBackup Client | `2.5.25` | x64 | ❌ | en-US |
 | 599 | MatterHackers Inc. | MatterControl | MatterControl | `2.22.04.11498` | x86,x64 | ❌ | en-US |
-| 600 | Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.1` | x64 | ❌ | en-US |
+| 600 | Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.2` | x64 | ❌ | en-US |
 | 601 | Maxima Software (Pty) Ltd | Maxcut | Maxcut | `2.9.6.7` | x86,x64 | ❌ | en-US |
 | 602 | Maxon Computer GmbH | ZBrush | ZBrush (x64) | `2027.0.1` | x64 | ❌ | en-US |
 | 603 | Medixant | RadiAnt DICOM viewer | RadiAnt DICOM viewer | `2025.1` | x64 | ❌ | en-US |
@@ -667,7 +667,7 @@
 | 659 | Microsoft | Microsoft Bot Framework Emulator | Microsoft Bot Framework Emulator | `4.15.1` | x64 | ❌ | en-US |
 | 660 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `2.26.921.1` | x64 | ❌ | en-US |
 | 661 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
-| 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `157.0.4341.24` | x64 | ✅ | en-US |
+| 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `157.0.4341.30` | x64 | ✅ | en-US |
 | 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `158.0.4357.0` | x64 | ✅ | en-US |
 | 664 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 665 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `152.0.4191.66` | x64 | ❌ | en-US |
@@ -713,7 +713,7 @@
 | 705 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.7.6` | x64 | ❌ | pt-BR |
 | 706 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (French) (x64) | `18.7.6` | x64 | ❌ | fr-FR |
 | 707 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.338.2` | x64 | ❌ | en-US |
-| 708 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.189.0928.0009` | x64 | ❌ | en-US |
+| 708 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.195.1006.0007` | x64 | ❌ | en-US |
 | 709 | Microsoft | Microsoft OneNote | OneNote (x64) | `16.0.18730.20168` | x64 | ❌ | en-US |
 | 710 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.159.883.0` | x64 | ✅ | mul |
 | 711 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.3 (x64) | `7.3.12` | x64 | ❌ | en-US |
@@ -769,22 +769,22 @@
 | 761 | Microsoft | Microsoft Visual C++ 2012 Redistributable | Microsoft Visual C++ 2012 Redistributable (x64) | `11.0.61030.0` | x64 | ❌ | en-US |
 | 762 | Microsoft | Microsoft Visual Studio 2010 Tools for Office Runtime | Visual Studio 2010 Tools for Office Runtime (x64) | `10.0.60917.00` | x64 | ❌ | en-US |
 | 763 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37827.9` | x64 | ❌ | en-US |
-| 764 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37827.9` | x64 | ❌ | en-US |
-| 765 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 764 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 765 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37827.9` | x64 | ❌ | en-US |
 | 766 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.10) | `17.10.36631.13` | x64 | ❌ | en-US |
 | 767 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
 | 768 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 769 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
 | 770 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
 | 771 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 772 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37827.9` | x64 | ❌ | en-US |
-| 773 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
-| 774 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
-| 775 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
-| 778 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
-| 779 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 772 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
+| 773 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
+| 774 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
+| 775 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
+| 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
+| 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
+| 778 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 779 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37827.9` | x64 | ❌ | en-US |
 | 780 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.11.12328.437` | x64 | ❌ | en-US |
 | 781 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.144.0` | x64 | ✅ | en-US |
 | 782 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37827.9` | x64 | ❌ | en-US |
@@ -1093,7 +1093,7 @@
 | 1085 | NetSetMan GmbH | NetSetMan | NetSetMan | `5.4.0` | x86,x64 | ❌ | en-US |
 | 1086 | NETworkManager | NETworkManager | NETworkManager | `2026.7.7.0` | x64 | ❌ | en-US |
 | 1087 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.81.0` | x64 | ❌ | en-US |
-| 1088 | Nextcloud | Nextcloud | Nextcloud (x64) | `35.0.1.20261029` | x64 | ❌ | en-US |
+| 1088 | Nextcloud | Nextcloud | Nextcloud (x64) | `35.0.2.20261030` | x64 | ❌ | en-US |
 | 1089 | Nextiva | NextivaONE | NextivaONE | `1.20.1.0` | x64 | ❌ | en-US |
 | 1090 | NGWIN | PicPick | PicPick | `7.6.2` | x86,x64 | ❌ | en-US |
 | 1091 | NICE Software | Amazon DCV Client | Amazon DCV Client | `26.0.14158.0` | x86,x64 | ❌ | en-US |
@@ -1121,12 +1121,12 @@
 | 1113 | NWEA | NWEA Secure Testing Browser | NWEA Secure Testing Browser | `5.4.405.0` | x86,x64 | ❌ | en-US |
 | 1114 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.14.4` | x64 | ❌ | en-US |
 | 1115 | ocenaudio | ocenaudio | ocenaudio | `3.22.1` | x64 | ❌ | en-US |
-| 1116 | Oleg Shparber | Zeal | Zeal (x64) | `0.9.1` | x64 | ❌ | en-US |
+| 1116 | Oleg Shparber | Zeal | Zeal (x64) | `0.9.2` | x64 | ❌ | en-US |
 | 1117 | Ontotext | GraphDB Desktop | GraphDB Desktop | `10.8.4` | x64 | ❌ | en-US |
 | 1118 | openaudible.org | OpenAudible | OpenAudible | `5.1.1` | x64 | ❌ | en-US |
 | 1119 | OpenDNS | OpenDNS Umbrella Roaming Client | Umbrella Roaming Client | `3.0.466` | x86,x64 | ❌ | en-US |
 | 1120 | OpenLens Authors | OpenLens | OpenLens | `6.5.2.366` | x64 | ❌ | en-US |
-| 1121 | OpenShot Studios | OpenShot Video Editor | OpenShot Video Editor (x64) | `4.0.1` | x64 | ❌ | en-US |
+| 1121 | OpenShot Studios | OpenShot Video Editor | OpenShot Video Editor (x64) | `4.1.1` | x64 | ❌ | en-US |
 | 1122 | OpenSight Software LLC | FlashFXP | FlashFXP | `5.4.0.3970` | x86,x64 | ❌ | en-US |
 | 1123 | OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.802` | x64 | ✅ | en-US |
 | 1124 | OpenVPN Technologies, Inc. | OpenVPN Connect | OpenVPN Connect (x64) | `3.9.0` | x64 | ❌ | en-US |
@@ -1215,7 +1215,7 @@
 | 1207 | Privado Networks AG | PrivadoVPN | PrivadoVPN | `4.1.4.0` | x86,x64 | ❌ | en-US |
 | 1208 | Private Internet Access Inc. | Private Internet Access | Private Internet Access (x64) | `3.8` | x64 | ❌ | en-US |
 | 1209 | Proton AG | Proton VPN | Proton VPN (x64) | `5.1.8` | x64 | ❌ | en-US |
-| 1210 | PURSLANE | RustDesk | RustDesk | `1.5.0` | x64 | ❌ | en-US |
+| 1210 | PURSLANE | RustDesk | RustDesk | `1.5.1` | x64 | ❌ | en-US |
 | 1211 | Python Software Foundation | Python 3.10 | Python 3.10 (x64) | `3.10.11150.0` | x64 | ❌ | en-US |
 | 1212 | Python Software Foundation | Python 3.11 | Python 3.11 (x64) | `3.11.9150.0` | x64 | ❌ | en-US |
 | 1213 | Python Software Foundation | Python 3.12 | Python 3.12 (x64) | `3.12.10150.0` | x64 | ❌ | en-US |
@@ -1310,7 +1310,7 @@
 | 1302 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 4 | `4.4.0.25886` | x64 | ❌ | en-US |
 | 1303 | ScreenBeam Inc. | ScreenBeam Conference | ScreenBeam Conference | `1.0.5.10` | x64 | ❌ | en-US |
 | 1304 | ScreenCloud | ScreenCloud Player | ScreenCloud Player (x64) | `3.12.0` | x64 | ✅ | en-US |
-| 1305 | secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.5` | x86,x64 | ❌ | en-US |
+| 1305 | secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.6` | x86,x64 | ❌ | en-US |
 | 1306 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.12` | x64 | ❌ | en-US |
 | 1307 | Semeru | IBM Semeru Runtime Open Edition JDK 11 (LTS) | IBM Semeru Runtime Open Edition JDK 11 (LTS) | `11.0.30.7` | x64 | ❌ | en-US |
 | 1308 | Semeru | IBM Semeru Runtime Open Edition JDK 16 | IBM Semeru Runtime Open Edition JDK 16 | `16.0.2.7` | x64 | ❌ | en-US |
@@ -1520,8 +1520,8 @@
 | 1512 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
 | 1513 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.9` | x64 | ❌ | en-US |
 | 1514 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.9` | x86,x64 | ❌ | en-US |
-| 1515 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1252` | x64 | ❌ | en-US |
-| 1516 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1252` | x64 | ❌ | en-US |
+| 1515 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1276` | x64 | ❌ | en-US |
+| 1516 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1276` | x64 | ❌ | en-US |
 | 1517 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.1.0.0` | x64 | ❌ | en-US |
 | 1518 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
 | 1519 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
@@ -1587,7 +1587,7 @@
 | 1579 | Zoom Video Communications, Inc. | Zoom Plugin for Windows Virtual Desktop Client | Zoom Plugin for Windows Virtual Desktop Client | `5.15.24490` | x86,x64 | ❌ | en-US |
 | 1580 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.2.0` | x64 | ❌ | en-US |
 | 1581 | Zoom Video Communications, Inc. | Zoom VDI Universal Plugin | Zoom VDI Universal Plugin (x64) | `7.0.12.27080` | x64 | ❌ | en-US |
-| 1582 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) (msi) | `7.2.48358` | x64 | ❌ | en-US |
+| 1582 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) (msi) | `7.2.51704` | x64 | ❌ | en-US |
 | 1583 | Zorus Inc. | Zorus Archon Agent | Zorus Archon Agent | `4.6.0.0` | x64 | ❌ | en-US |
 | 1584 | Zotero | Zotero | Zotero (x64) | `10.0.7` | x64 | ❌ | en-US |
 | 1585 | Zotero | Zotero | Zotero | `7.0.2` | x86,x64 | ❌ | en-US |
