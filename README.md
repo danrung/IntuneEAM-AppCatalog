@@ -52,12 +52,12 @@ Items are table-based HTML with inline styles only, so they render in Outlook's 
 <!-- CATALOG_STATS_START -->
 | Metric | Value |
 |--------|-------|
-| Total Packages | **1,594** |
+| Total Packages | **1,595** |
 | Unique Products | 933 |
 | Publishers | 498 |
 | Auto-Update Capable | 365 (22.9%) |
 | Available Locales | 65 |
-| Last Export | 2026-11-03 06:12:36 |
+| Last Export | 2026-11-03 19:21:16 |
 <!-- CATALOG_STATS_END -->
 
 ## Data Fields
