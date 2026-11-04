@@ -57,7 +57,7 @@ Items are table-based HTML with inline styles only, so they render in Outlook's 
 | Publishers | 498 |
 | Auto-Update Capable | 365 (22.9%) |
 | Available Locales | 65 |
-| Last Export | 2026-11-03 19:21:16 |
+| Last Export | 2026-11-04 05:49:40 |
 <!-- CATALOG_STATS_END -->
 
 ## Data Fields
