@@ -24855,6 +24855,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "158.0.4357.0",
+      "159.0.4378.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-edge-for-business": [
@@ -27924,6 +27937,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.144.1",
+      "1.145.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-visual-studio-team-explorer-2022": [
@@ -30489,6 +30515,19 @@
      [
       "1.80.4",
       "1.81.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-04",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.81.0",
+      "2.0.1",
       1
      ]
     ]
@@ -43037,7 +43076,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261104_054940_AppCatalog.json",
+ "history_through": "20261104_193744_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -43046,8 +43085,8 @@
    "lastmod": "2026-11-02"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "7dae576f0e86da42fe86731968fe7ad79fc64f4d",
-   "hash": "bf26157b2987a9943b449b008a4925bb0a0e8c24",
+   "exact": "bf2946cbeed90041d2f97ac55dfdf1cf13d20bb2",
+   "hash": "d49948fd827eb70926e448b96a50fb1f51332bff",
    "lastmod": "2026-11-04"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -45506,9 +45545,9 @@
    "lastmod": "2026-11-03"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
-   "exact": "f1530fc31991d8b57221a75eb66ca7e5396856de",
-   "hash": "f1530fc31991d8b57221a75eb66ca7e5396856de",
-   "lastmod": "2026-11-02"
+   "exact": "338d4db377f3f2535c1d871cc1e5c3aea50d5eb0",
+   "hash": "338d4db377f3f2535c1d871cc1e5c3aea50d5eb0",
+   "lastmod": "2026-11-04"
   },
   "https://eam.drung.dev/apps/microsoft-edge-for-business.html": {
    "exact": "d084819205d28c017e71a1ea65b5a314f5e9ce8f",
@@ -45781,9 +45820,9 @@
    "lastmod": "2026-11-02"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "a1441cd482b8a4ed35b4298585918004a6c96158",
-   "hash": "a1441cd482b8a4ed35b4298585918004a6c96158",
-   "lastmod": "2026-11-03"
+   "exact": "6c5ee628df328ac55ce6addf565da18496e2940b",
+   "hash": "6c5ee628df328ac55ce6addf565da18496e2940b",
+   "lastmod": "2026-11-04"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "c14c4a98626b0202e2e9f6b5b74d50dac6248ad5",
@@ -46001,9 +46040,9 @@
    "lastmod": "2026-11-02"
   },
   "https://eam.drung.dev/apps/new-relic-inc-new-relic-infrastructure-agent.html": {
-   "exact": "a8c084f98034edeb3c5324e4c2798700aa80c9ad",
-   "hash": "a8c084f98034edeb3c5324e4c2798700aa80c9ad",
-   "lastmod": "2026-11-02"
+   "exact": "ec5dea84546bf0435fa394172b3f2f09f8c264db",
+   "hash": "ec5dea84546bf0435fa394172b3f2f09f8c264db",
+   "lastmod": "2026-11-04"
   },
   "https://eam.drung.dev/apps/nextcloud.html": {
    "exact": "84e4dbc77ded01ec52e79b9e034a8c18e441dca8",

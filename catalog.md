@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261104_054940_AppCatalog.json` (exported 2026-11-04 05:49:40)  
-> **Generated:** 2026-11-04 05:50 UTC  
+> **Source:** `20261104_193744_AppCatalog.json` (exported 2026-11-04 19:37:44)  
+> **Generated:** 2026-11-04 19:38 UTC  
 > **Total:** 1,595 packages · 933 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -668,7 +668,7 @@
 | 660 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `2.26.921.1` | x64 | ❌ | en-US |
 | 661 | Microsoft | Microsoft Deployment Toolkit (8456) | Deployment Toolkit (MDT) (8456) (x64) | `6.3.8456.1000` | x64 | ❌ | en-US |
 | 662 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `157.0.4341.36` | x64 | ✅ | en-US |
-| 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `158.0.4357.0` | x64 | ✅ | en-US |
+| 663 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `159.0.4378.0` | x64 | ✅ | en-US |
 | 664 | Microsoft | Microsoft Edge for Business | Microsoft Edge for Business (x64) | `149.0.4022.96` | x64 | ✅ | en-US |
 | 665 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `152.0.4191.66` | x64 | ❌ | en-US |
 | 666 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
@@ -782,11 +782,11 @@
 | 774 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 775 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
 | 776 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
-| 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37827.9` | x64 | ❌ | en-US |
-| 778 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
-| 779 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
+| 778 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
+| 779 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37827.9` | x64 | ❌ | en-US |
 | 780 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.11.12328.437` | x64 | ❌ | en-US |
-| 781 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.144.1` | x64 | ✅ | en-US |
+| 781 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.145.0` | x64 | ✅ | en-US |
 | 782 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37827.9` | x64 | ❌ | en-US |
 | 783 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 784 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -1092,7 +1092,7 @@
 | 1084 | NetBird GmbH | NetBird | NetBird | `0.82.0` | x64 | ✅ | en-US |
 | 1085 | NetSetMan GmbH | NetSetMan | NetSetMan | `5.4.0` | x86,x64 | ❌ | en-US |
 | 1086 | NETworkManager | NETworkManager | NETworkManager | `2026.7.7.0` | x64 | ❌ | en-US |
-| 1087 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.81.0` | x64 | ❌ | en-US |
+| 1087 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `2.0.1` | x64 | ❌ | en-US |
 | 1088 | Nextcloud | Nextcloud | Nextcloud (x64) | `35.0.2.20261030` | x64 | ❌ | en-US |
 | 1089 | Nextiva | NextivaONE | NextivaONE | `1.20.1.0` | x64 | ❌ | en-US |
 | 1090 | NGWIN | PicPick | PicPick | `7.6.2` | x86,x64 | ❌ | en-US |

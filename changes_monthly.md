@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261104_054940_AppCatalog.json` (exported 2026-11-04 05:49:40)  
+> **Comparing:** `20261104_193744_AppCatalog.json` (exported 2026-11-04 19:37:44)  
 > **vs:** `20261005_050920_AppCatalog.json` (exported 2026-10-05 05:09:20)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-04 05:50 UTC
+> **Generated:** 2026-11-04 19:38 UTC
 
 ## Summary
 
@@ -202,7 +202,7 @@
 | Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.3.0.41101` | `16.5.0.41350` | Version |
 | Microsoft | Microsoft Azure Storage Explorer | Azure Storage Explorer (x64) | `1.46.0` | `1.47.0` | Version |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `155.0.4283.24` | `157.0.4341.36` | Version |
-| Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `156.0.4301.0` | `158.0.4357.0` | Version |
+| Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `156.0.4301.0` | `159.0.4378.0` | Version |
 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.7.5` | `18.7.6` | Version |
 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.5` | `18.7.6` | Version |
 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Czech) (x64) | `18.7.5` | `18.7.6` | Version |
@@ -230,7 +230,7 @@
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37710.0` | `17.14.37827.9` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37710.0` | `17.14.37827.9` | Version |
 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.10.12224.181` | `18.11.12328.437` | Version |
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.140.0` | `1.144.1` | Version |
+| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.140.0` | `1.145.0` | Version |
 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37710.0` | `17.14.37827.9` | Version |
 | Microsoft | OpenJDK | OpenJDK 21 (x64) | `21.0.12.1` | `21.0.13.0` | Version |
 | Microsoft | OpenJDK | OpenJDK 25 (x64) | `25.0.4.1` | `25.0.5.0` | Version |
@@ -339,7 +339,7 @@
 | MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.7.5.260831071` | `4.7.6.261022093` | Version |
 | Nagios Enterprises | NCPA | NCPA (x64) | `3.5.0` | `3.5.1` | Version |
 | NetBird GmbH | NetBird | NetBird | `0.80.0` | `0.82.0` | Version |
-| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.4` | `1.81.0` | Version |
+| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.4` | `2.0.1` | Version |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.4.20260916` | `35.0.2.20261030` | Version |
 | NGWIN | PicPick | PicPick | `7.6.1` | `7.6.2` | Version |
 | NICE Software | Amazon DCV Client | Amazon DCV Client | `25.0.9800.0` | `26.0.14158.0` | Version |
