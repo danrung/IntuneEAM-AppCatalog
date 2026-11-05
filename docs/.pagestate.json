@@ -11364,6 +11364,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.16.0",
+      "2026.3.17.0",
+      1
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager": [
@@ -11619,6 +11632,19 @@
      [
       "2026.3.15.0",
       "2026.3.16.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.16.0",
+      "2026.3.17.0",
       1
      ]
     ]
@@ -12972,6 +12998,19 @@
      [
       "32.5.5",
       "32.6.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "32.6.1",
+      "32.6.10",
       1
      ]
     ]
@@ -16032,6 +16071,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.80.0",
+      "3.80.1",
+      2
+     ]
+    ]
    }
   ],
   "fujitsu-finland-mpollux-digisign-client": [
@@ -18101,6 +18153,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.20.3",
+      "4.21.0",
+      2
+     ]
+    ]
    }
   ],
   "gsl-biotech-llc-snapgene-viewer": [
@@ -19017,6 +19082,19 @@
      [
       "2.11.13.0",
       "2.11.14.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.11.14.0",
+      "2.11.15.0",
       1
      ]
     ]
@@ -24591,6 +24669,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "157.0.4341.36",
+      "158.0.4370.1",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-edge-dev": [
@@ -25959,6 +26050,19 @@
      [
       "11.0.32.9",
       "11.0.32.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.0.32.1",
+      "11.0.33.10",
       1
      ]
     ]
@@ -31022,7 +31126,13 @@
      "Branch"
     ],
     "removed": 0,
-    "versions": []
+    "versions": [
+     [
+      "26.12.1",
+      "26.13.0",
+      1
+     ]
+    ]
    }
   ],
   "node-js-foundation-node-js-20-lts": [
@@ -34254,6 +34364,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.38.23360",
+      "4.38.23483",
+      1
+     ]
+    ]
    }
   ],
   "rarlab-winrar": [
@@ -35465,6 +35588,19 @@
      [
       "5.1.2.2",
       "5.2.2.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-05",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.2.2.3",
+      "5.3.2.4",
       1
      ]
     ]
@@ -43202,7 +43338,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261105_134510_AppCatalog.json",
+ "history_through": "20261105_194941_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -43211,8 +43347,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "0d36bfab5a868311e43ead016737feb9a376cc9b",
-   "hash": "24369327e2d5f6b4ada6e39b63c3ef1cd211b267",
+   "exact": "4c5246188efdd9be11062f19b95fd44e332b6645",
+   "hash": "f6589d7c7275185736d174a4e2654f31be69c276",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -44246,8 +44382,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html": {
-   "exact": "cdc9c73f9e5cc4ecdfb52fe817262750197cf4ea",
-   "hash": "cdc9c73f9e5cc4ecdfb52fe817262750197cf4ea",
+   "exact": "c962f227d496a08cf1ace2f44caf53f981a14b95",
+   "hash": "c962f227d496a08cf1ace2f44caf53f981a14b95",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html": {
@@ -44256,8 +44392,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html": {
-   "exact": "5af511ca3bea1180ef6d2f1b1711004cda8ac0a5",
-   "hash": "5af511ca3bea1180ef6d2f1b1711004cda8ac0a5",
+   "exact": "0e33d17a8cf19f6760527dcba76fb1019ac1cb8f",
+   "hash": "0e33d17a8cf19f6760527dcba76fb1019ac1cb8f",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-workspace.html": {
@@ -44306,8 +44442,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/draw-io-desktop.html": {
-   "exact": "c7f4129175044c9dbfd5f5cf3e93515f84c794a2",
-   "hash": "c7f4129175044c9dbfd5f5cf3e93515f84c794a2",
+   "exact": "44dcdb65ebd9e78f8e8499a4cbe25949bc44bdfc",
+   "hash": "44dcdb65ebd9e78f8e8499a4cbe25949bc44bdfc",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/drofus.html": {
@@ -44676,8 +44812,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/frontapp-inc-front-desktop.html": {
-   "exact": "ecf4b6d3cf50d2e89503ad20bf6764891abe0d97",
-   "hash": "ecf4b6d3cf50d2e89503ad20bf6764891abe0d97",
+   "exact": "26b506332d7e9d3dd539cc5c319963e2247a0a31",
+   "hash": "26b506332d7e9d3dd539cc5c319963e2247a0a31",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/fujitsu-finland-mpollux-digisign-client.html": {
@@ -44871,8 +45007,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/goto-group-inc-goto-connect.html": {
-   "exact": "1e434ead074e180d3635c72f6990169eae5165ec",
-   "hash": "1e434ead074e180d3635c72f6990169eae5165ec",
+   "exact": "49d7a2e5f40f88224e4165e8781533dc589b0c3f",
+   "hash": "49d7a2e5f40f88224e4165e8781533dc589b0c3f",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/gp-software-directory-opus.html": {
@@ -44991,8 +45127,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
-   "exact": "570554f22e6078290e19090a4f73a04f6ed3f84a",
-   "hash": "570554f22e6078290e19090a4f73a04f6ed3f84a",
+   "exact": "8d91370cdce67f8bc95d4c08e571b4608753a7d0",
+   "hash": "8d91370cdce67f8bc95d4c08e571b4608753a7d0",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/inkscape.html": {
@@ -45666,8 +45802,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "505c6ddaec97b96ca5c6d5decd11a51d70669b50",
-   "hash": "505c6ddaec97b96ca5c6d5decd11a51d70669b50",
+   "exact": "5184a698e8490a51147d619a1f515e120d262119",
+   "hash": "5184a698e8490a51147d619a1f515e120d262119",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
@@ -45771,8 +45907,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk-11.html": {
-   "exact": "3f11316a581b57e29ab50c754d17f4fb8f425c63",
-   "hash": "3f11316a581b57e29ab50c754d17f4fb8f425c63",
+   "exact": "f88c9b536e9ceb629d604d49ed7b6c97b009ee5f",
+   "hash": "f88c9b536e9ceb629d604d49ed7b6c97b009ee5f",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk-16.html": {
@@ -46246,8 +46382,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js.html": {
-   "exact": "7e5560c1aa60eabaebcb1188cf514859f546d299",
-   "hash": "7e5560c1aa60eabaebcb1188cf514859f546d299",
+   "exact": "f29ecf38886f9b5656ac6cc304e594277a0b17cf",
+   "hash": "f29ecf38886f9b5656ac6cc304e594277a0b17cf",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/nomachine-enterprise-client.html": {
@@ -46651,8 +46787,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "e5c764e3c2d69b48d57612a1a7250a6b3d8ee129",
-   "hash": "31d77da1f7e3319ccdda3f94369ac6763b0ce404",
+   "exact": "5ae40ab8e614f70520a4e4645bc257e0e50e4a2e",
+   "hash": "db7bba166dbc1371a991a103fbb0d6a4dc196f61",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -46676,8 +46812,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/rakuten-kobo-inc-kobo.html": {
-   "exact": "3e0327938e7f57c5c979e746749c175274804680",
-   "hash": "3e0327938e7f57c5c979e746749c175274804680",
+   "exact": "eca6aad6ac647ad7246d73843756238514291361",
+   "hash": "eca6aad6ac647ad7246d73843756238514291361",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/rarlab-winrar.html": {
@@ -46786,8 +46922,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/sandisk-corporation-sandisk-dashboard.html": {
-   "exact": "1ce813ffa42d83a99e761e36a553e0c8529c59da",
-   "hash": "1ce813ffa42d83a99e761e36a553e0c8529c59da",
+   "exact": "a3427e51b447c99a59eee2c192ae4a6242a1f875",
+   "hash": "a3427e51b447c99a59eee2c192ae4a6242a1f875",
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/scaleft.html": {
