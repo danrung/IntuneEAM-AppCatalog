@@ -31,6 +31,7 @@ Pull requests for the generator script, the workflow, or the website in `docs/` 
 - Describe what changed and why in the pull request. A screenshot helps for anything visual.
 - For website changes, check both the light and dark theme.
 - For generator changes, run the script locally against the current export in `catalog/` and make sure the output still builds. The workflow file shows the exact steps.
+- For changes to the deployment details (parsing, change detection, the quirks page), run `python .github/scripts/test_details.py` from the repository root. It works offline against real templates in `.github/scripts/fixtures/` and also runs in the workflow before the generator.
 
 ## Feature ideas and questions
 

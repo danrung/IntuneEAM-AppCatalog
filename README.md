@@ -10,7 +10,9 @@ The raw data comes from the Microsoft Graph API. Exports are dropped into this r
 
 🌐 **[Live Catalog](https://eam.drung.dev/)** Searchable, filterable website with the full package list — the stat cards double as filters. Follows your system light/dark preference, with a toggle in the header.
 
-🔗 **[App Pages](https://eam.drung.dev/apps/)** A static, linkable page for every product in the catalog: an at-a-glance summary panel, when it first appeared in the catalog and how often it gets a new version, a table of every branch, version, architecture and locale, that product's own dated change history — including which packages, architectures and locales came and went — the steps to deploy it from Intune, and links to the publisher's other apps — rewritten only when something about the product actually changes.
+🔗 **[App Pages](https://eam.drung.dev/apps/)** A static, linkable page for every product in the catalog: an at-a-glance summary panel, when it first appeared in the catalog and how often it gets a new version, a table of every branch, version, architecture and locale, the deployment details Intune sets up for it — install and uninstall command, MSI product and upgrade code, detection and requirement rules, install context, return codes — that product's own dated change history — including which packages, architectures and locales came and went, and rebuilds that changed only the deployment details — the steps to deploy it from Intune, and links to the publisher's other apps — rewritten only when something about the product actually changes.
+
+🧭 **[Quirks](https://eam.drung.dev/apps/quirks.html)** What the deployment details reveal across the whole catalog: detection rules that expect a newer version than the catalog lists, version checks pinned to another number, user-context installs, MSIs behind an EXE, unusual success exit codes and publishers listed under several names.
 
 📦 **[App Catalog](catalog.md)** Every available package, sorted by publisher and app name.
 
@@ -26,7 +28,7 @@ The raw data comes from the Microsoft Graph API. Exports are dropped into this r
 
 📡 **[RSS Feed](https://eam.drung.dev/feed.xml)** Subscribe to catalog changes in any RSS reader.
 
-Raw exports: [catalog/](catalog/) for the current file, [archive/](archive/) for the full history.
+Raw exports: [catalog/](catalog/) for the current file, [archive/](archive/) for the full history. Since November 2026 each export also has a `*_AppDetails.json` with the deployment details; archived ones are gzipped.
 
 ## RSS Feed
 
@@ -75,13 +77,36 @@ Each entry reflects what the Graph API returns:
 | `locales` | Supported locale codes |
 | `productId` | Stable product GUID |
 | `branchId` | Stable branch GUID |
-| `id` | Unique package instance ID |
+| `id` | Package instance ID — new whenever Microsoft publishes a new package for the branch |
+
+### Deployment Details
+
+`*_AppDetails.json` holds, per package `id`, what the Graph beta function
+`deviceAppManagement/mobileApps/convertFromMobileAppCatalogPackage` returns — the Win32 app Intune would create
+from that package. The exporter keeps only these fields and drops
+empty ones, placeholders and the icon:
+
+| Field | Description |
+|-------|-------------|
+| `installCommandLine` / `uninstallCommandLine` | Commands Intune runs |
+| `fileName`, `setupFilePath`, `size` | Installer file and its size in bytes |
+| `msiInformation` | Product code, upgrade code, product version, per-machine or per-user — present only for MSI packages |
+| `rules` | Detection and requirement rules, told apart by `ruleType` |
+| `installExperience` | Install context (`system`/`user`), restart behaviour, maximum run time |
+| `returnCodes` | Exit codes and what Intune treats them as |
+| `minimumSupportedWindowsRelease`, `allowedArchitectures` | Requirements |
+| `description`, `informationUrl`, `privacyInformationUrl` | Vendor text and links — the catalog record's own description is always empty |
+
+A package whose conversion failed is stored as `{"branchId": …, "error": "<status>"}`; its page then shows the
+previous export's details while the package `id` is unchanged.
 
 ## Understanding the Stats and Changes
 
 One product can ship as multiple packages, for example separate x64 and x86 branches each get their own entry. The statistics page accounts for this by tracking both raw package count and unique product count.
 
-The changes pages match packages between exports by `branchId` and surface three things: packages that are new, packages that have been removed, and packages where a tracked field changed. Tracked fields are the version, app name, branch name, publisher, architecture, auto-update capability and locales — so renames and capability changes show up alongside ordinary version bumps, with the changed fields named in each row. The volatile `id` field is ignored.
+The changes pages match packages between exports by `branchId` and surface three things: packages that are new, packages that have been removed, and packages where a tracked field changed. Tracked fields are the version, app name, branch name, publisher, architecture, auto-update capability and locales — so renames and capability changes show up alongside ordinary version bumps, with the changed fields named in each row. The package `id` is not used for matching: it identifies the package, not the branch.
+
+When both exports have deployment details, there is a fourth kind: **repackaged** — same branch, unchanged catalog entry, but the deployment details differ, which means Microsoft rebuilt the package without a new version. Updated packages also name the deployment details that changed with them. The comparison works two ways. With a version change only how the app is deployed counts (switches, detection method, upgrade code, install context, return codes); the installer name, its size, the MSI product code and the version in the detection rule move with every release and are not reported. Without a version change every value counts. A package that only got a new `id`, with nothing else different, is counted under the summary rather than listed. The first export with details has nothing to compare against and reports none.
 
 The period-based changelogs (daily, weekly, monthly) use the timestamp embedded in each filename to find the right comparison point automatically. The period is a minimum, not a fixed window: each one compares against the newest export that is at least that old, which after a gap in exports can be considerably older than the name suggests. Every changelog states the actual span between the two exports it compared.
 

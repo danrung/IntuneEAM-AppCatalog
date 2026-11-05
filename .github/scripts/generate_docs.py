@@ -8,6 +8,12 @@ Static website files (docs/index.html, docs/app.css, docs/app.js) are committed 
 and never regenerated — docs/catalog.json, docs/changes.json, docs/feed.xml,
 docs/apps/ and docs/sitemap.xml are rewritten on each run.
 
+Exports from the exporter carry a <ts>_AppDetails.json alongside: the Win32 app
+template Intune builds from each package (commands, detection rules, MSI codes,
+return codes). It feeds the deployment section of each product page, the
+detail-level change tracking and docs/apps/quirks.html. Older exports have no
+such file, and nothing here treats that as a change.
+
 Generated pages are written only when their content actually changes. What
 changed, when each URL last changed, and the per-product change history the
 pages render all live in docs/.pagestate.json, which is why the sitemap's
@@ -17,7 +23,9 @@ Run from the repository root:
     python .github/scripts/generate_docs.py
 """
 
+import functools
 import glob
+import gzip
 import hashlib
 import json
 import os
@@ -177,7 +185,13 @@ def _write_page(path, html, url, state, today, changed):
     counts as *changed* is settled by `hash`, which ignores the export
     timestamp; that is what feeds <lastmod> and IndexNow, so a page whose only
     difference is a printed date is rewritten without claiming to have changed.
+
+    Line endings are normalised first. Text from the Graph API can carry a
+    bare carriage return (one product description does), which reading the
+    file back in text mode turns into "\\n" — so the disk digest never matched
+    and the page was rewritten on every run.
     """
+    html  = html.replace("\r\n", "\n").replace("\r", "\n")
     prev  = state["pages"].get(url) or {}
     exact = hashlib.sha1(html.encode("utf-8")).hexdigest()
     content = _fingerprint(html)
@@ -389,11 +403,264 @@ def generate_stats(apps, source_file):
 
 
 # ---------------------------------------------------------------------------
+# Deployment details — the Win32 app template behind each package
+#
+# The catalog export says what Microsoft publishes. What Intune actually does
+# with a package — the command it runs, how it decides the app is installed,
+# which exit codes count as success — only exists in the template that
+# convertFromMobileAppCatalogPackage returns for it. The exporter fetches that
+# for every package and writes it next to the export as <ts>_AppDetails.json,
+# keyed by package id: {"<id>": {"branchId": ..., "detail": {...}}}, or
+# {"error": "<status>"} where the conversion failed. Once the next export
+# lands, the workflow gzips the file into archive/.
+#
+# Exports from before the exporter fetched templates have no such file. Every
+# function below treats a missing file as "nothing known", never as "every
+# detail changed".
+# ---------------------------------------------------------------------------
+
+_EXPORT_TS_RE = re.compile(r"(\d{8}_\d{6})_AppCatalog")
+
+
+def details_path_for(catalog_path):
+    """The details file of an export, in catalog/ or archive/, plain or gzipped."""
+    m = _EXPORT_TS_RE.search(os.path.basename(catalog_path or ""))
+    if not m:
+        return None
+    for folder in ("catalog", "archive"):
+        for ext in ("", ".gz"):
+            path = os.path.join(folder, f"{m.group(1)}_AppDetails.json{ext}")
+            if os.path.exists(path):
+                return path
+    return None
+
+
+# Small on purpose: a run reads the latest export's details plus those of the
+# three period comparisons, and the archive walks (seeding, feed rebuild) read
+# each file once, in order.
+@functools.lru_cache(maxsize=8)
+def _read_details(path):
+    opener = gzip.open if path.endswith(".gz") else open
+    with opener(path, "rt", encoding="utf-8-sig") as f:
+        return json.load(f)
+
+
+def load_details(catalog_path):
+    """Package id -> template for one export; {} when it has no details file.
+    Packages whose conversion failed are left out."""
+    path = details_path_for(catalog_path)
+    if not path:
+        return {}
+    return {pid: e["detail"] for pid, e in _read_details(path).items()
+            if isinstance(e, dict) and isinstance(e.get("detail"), dict)}
+
+
+def detail_errors(catalog_path):
+    """Package id -> status for the packages whose conversion failed."""
+    path = details_path_for(catalog_path)
+    if not path:
+        return {}
+    return {pid: str(e.get("error")) for pid, e in _read_details(path).items()
+            if isinstance(e, dict) and "error" in e}
+
+
+_OP_SYMBOL = {
+    "equal": "=", "notEqual": "≠", "greaterThan": ">",
+    "greaterThanOrEqual": "≥", "lessThan": "<", "lessThanOrEqual": "≤",
+}
+
+_FILE_OPERATION = {
+    "version": "file version", "appVersion": "app version",
+    "sizeInBytes": "size in bytes", "sizeInMB": "size in MB",
+    "modifiedDate": "modified date", "createdDate": "created date",
+}
+
+
+def _rule_parts(rule):
+    """(kind, subject, condition) of one detection or requirement rule.
+
+    Kind and subject stay apart so a page can set the path in code type and the
+    condition in prose; _rule_text joins them for diffs and plain text.
+    """
+    kind = (rule.get("@odata.type") or "").rsplit(".", 1)[-1]
+    op   = _OP_SYMBOL.get(rule.get("operator"), rule.get("operator") or "")
+    val  = rule.get("comparisonValue")
+    how  = rule.get("operationType") or ""
+    wow  = " (32-bit registry/file view)" if rule.get("check32BitOn64System") else ""
+    if kind == "win32LobAppFileSystemRule":
+        path = (rule.get("path") or "").rstrip("\\")
+        name = rule.get("fileOrFolderName") or ""
+        subject = f"{path}\\{name}" if name and path else (name or path)
+        if how in ("exists", "doesNotExist"):
+            cond = "exists" if how == "exists" else "does not exist"
+        else:
+            cond = f"{_FILE_OPERATION.get(how, how)} {op} {val}"
+        return "File", subject, cond + wow
+    if kind == "win32LobAppRegistryRule":
+        key, value = rule.get("keyPath") or "", rule.get("valueName") or ""
+        if how in ("exists", "doesNotExist"):
+            target = f"value {value}" if value else "key"
+            cond = f"{target} {'exists' if how == 'exists' else 'does not exist'}"
+        elif how in ("version", "appVersion"):
+            cond = f"{value} as {'app ' if how == 'appVersion' else ''}version {op} {val}"
+        else:
+            cond = f"{value} {op} {val}"
+        return "Registry", key, cond + wow
+    if kind == "win32LobAppProductCodeRule":
+        pv  = rule.get("productVersion")
+        pop = _OP_SYMBOL.get(rule.get("productVersionOperator"))
+        cond = f"installed, product version {pop} {pv}" if pv and pop else "installed"
+        return "MSI", rule.get("productCode") or "", cond
+    if kind == "win32LobAppPowerShellScriptRule":
+        return "Script", rule.get("displayName") or "PowerShell script", "returns the expected result"
+    return kind.replace("win32LobApp", "").replace("Rule", "") or "Rule", "", ""
+
+
+def _rule_text(rule):
+    kind, subject, cond = _rule_parts(rule)
+    return f"{kind}: {subject} — {cond}" if subject else f"{kind}: {cond}"
+
+
+# Version-shaped numbers and GUIDs move with every release: a new version means
+# a new installer name, a new MSI product code in the uninstall command and the
+# detection key, a new threshold in the version check. Comparing a package with
+# its own next version, they are masked, so what is left is how it is deployed.
+_GUID_RE = re.compile(r"\{?[0-9A-Fa-f]{8}-(?:[0-9A-Fa-f]{4}-){3}[0-9A-Fa-f]{12}\}?")
+_NUMBERS_RE = re.compile(r"\d+(?:[._]\d+)+")
+
+
+def _shape_text(s, file_name=""):
+    s = s or ""
+    if file_name:
+        s = s.replace(file_name, "{file}")
+    return _NUMBERS_RE.sub("{n}", _GUID_RE.sub("{guid}", s))
+
+
+def _rule_shape(rule):
+    return (
+        rule.get("@odata.type"), rule.get("ruleType"), rule.get("operator"),
+        rule.get("operationType"), bool(rule.get("check32BitOn64System")),
+        _shape_text(rule.get("path")), _shape_text(rule.get("fileOrFolderName")),
+        _shape_text(rule.get("keyPath")), rule.get("valueName"),
+    )
+
+
+def _split_rules(detail):
+    """(detection, requirement) rules. Current templates carry both in `rules`
+    with a ruleType; the older detectionRules/requirementRules lists are read
+    too, in case Microsoft ever fills them again."""
+    rules = detail.get("rules") or []
+    det = [r for r in rules if r.get("ruleType") == "detection"] + list(detail.get("detectionRules") or [])
+    req = [r for r in rules if r.get("ruleType") == "requirement"] + list(detail.get("requirementRules") or [])
+    return det, req
+
+
+def _detail_view(detail):
+    """A template reduced to what an admin reads, in comparable form."""
+    msi = detail.get("msiInformation") or {}
+    ie  = detail.get("installExperience") or {}
+    det, req = _split_rules(detail)
+    file_name = detail.get("fileName") or ""
+    install   = detail.get("installCommandLine") or ""
+    uninstall = detail.get("uninstallCommandLine") or ""
+    return {
+        "installer":   "MSI" if msi else "EXE",
+        "install":     install,
+        "uninstall":   uninstall,
+        "detection":   tuple(_rule_text(r) for r in det),
+        "requirement": tuple(_rule_text(r) for r in req),
+        "productCode": msi.get("productCode") or "",
+        "upgradeCode": msi.get("upgradeCode") or "",
+        "runAs":       ie.get("runAsAccount") or "",
+        "restart":     ie.get("deviceRestartBehavior") or "",
+        "maxRun":      ie.get("maxRunTimeInMinutes"),
+        "returnCodes": tuple(sorted(
+            ((c.get("returnCode") or 0), c.get("type") or "")
+            for c in detail.get("returnCodes") or [])),
+        "minWindows":  detail.get("minimumSupportedWindowsRelease") or "",
+        "file":        file_name,
+        "size":        detail.get("size"),
+        "description": detail.get("description") or "",
+        "_shape": {
+            "install":     _shape_text(install, file_name),
+            "uninstall":   _shape_text(uninstall, file_name),
+            "detection":   tuple(_rule_shape(r) for r in det),
+            "requirement": tuple(_rule_shape(r) for r in req),
+        },
+    }
+
+
+# Detail fields compared between two exports, in the order a change list names
+# them. Labels share the history's namespace with TRACKED_FIELDS, so none of
+# them may repeat one of those.
+DETAIL_TRACKED = [
+    ("installer",   "Installer type"),
+    ("install",     "Install command"),
+    ("uninstall",   "Uninstall command"),
+    ("detection",   "Detection rules"),
+    ("requirement", "Requirement rules"),
+    ("productCode", "MSI product code"),
+    ("upgradeCode", "MSI upgrade code"),
+    ("runAs",       "Install context"),
+    ("restart",     "Restart behaviour"),
+    ("maxRun",      "Maximum run time"),
+    ("returnCodes", "Return codes"),
+    ("minWindows",  "Minimum Windows release"),
+    ("file",        "Installer file"),
+    ("size",        "Installer size"),
+    ("description", "Description"),
+]
+
+# Expected to change whenever the version does; only news without one.
+_VERSION_BOUND = {"productCode", "file", "size"}
+
+
+def _fmt_detail(field, view):
+    v = view.get(field)
+    if field == "returnCodes":
+        return ", ".join(f"{code} {kind}" for code, kind in v)
+    if isinstance(v, tuple):
+        return "; ".join(v)
+    return "" if v is None else str(v)
+
+
+def _detail_changes(prev_detail, curr_detail, same_version):
+    """Detail fields that differ between two templates of one branch.
+
+    Same version: every value counts — the package was rebuilt and anything
+    that moved is news. New version: only the shape counts. Firefox moving to
+    159.0.1 changes its file name, size and version threshold by definition;
+    what is worth reporting is a new switch, another detection method or a
+    different upgrade code.
+    """
+    if prev_detail == curr_detail:
+        return []
+    pv, cv = _detail_view(prev_detail), _detail_view(curr_detail)
+    out = []
+    for field, label in DETAIL_TRACKED:
+        if same_version:
+            moved = pv[field] != cv[field]
+        elif field in _VERSION_BOUND:
+            moved = False
+        elif field in pv["_shape"]:
+            moved = pv["_shape"][field] != cv["_shape"][field]
+        else:
+            moved = pv[field] != cv[field]
+        if moved:
+            out.append({"field": field, "label": label,
+                        "from": _fmt_detail(field, pv), "to": _fmt_detail(field, cv)})
+    return out
+
+
+# ---------------------------------------------------------------------------
 # Changes — core computation (returns structured data + raw lists)
 # ---------------------------------------------------------------------------
 
 # Fields compared when deciding whether a package counts as "updated".
-# `id` is deliberately absent: the Graph API reassigns it on every export.
+# `id` is not among them. It is the package instance, not the branch: it
+# changes whenever Microsoft publishes a new package for the branch — every
+# version update, and also rebuilds that leave every field here untouched. The
+# deployment details are what tell such a rebuild apart; see _compute_changes.
 TRACKED_FIELDS = [
     ("versionDisplayName",       "Version"),
     ("productDisplayName",       "App Name"),
@@ -420,8 +687,8 @@ def _tiebreak(a):
     """Deterministic ordering for records that share a key.
 
     Ordered by the fields least likely to change between exports, so the same
-    two records pair up run after run. Deliberately excludes `id` (reassigned
-    every export) and `branchId` — collisions only happen on the composite
+    two records pair up run after run. Deliberately excludes `id` (new with
+    every package Microsoft publishes) and `branchId` — collisions only happen on the composite
     path, where one side of the comparison has no branchId at all and sorting
     on it would order the two sides by different criteria.
     """
@@ -518,11 +785,36 @@ def _compute_changes(current_apps, previous_apps, current_file, previous_file):
     added   = sorted([curr_by_id[i] for i in curr_ids - prev_ids], key=sk)
     removed = sorted([prev_by_id[i] for i in prev_ids - curr_ids], key=sk)
 
-    updated_pairs = sorted(
-        [(prev_by_id[i], curr_by_id[i]) for i in curr_ids & prev_ids
-         if _field_changes(prev_by_id[i], curr_by_id[i])],
-        key=lambda x: sk(x[1]),
-    )
+    # Deployment details only count when both exports have them. The first
+    # export with a details file, compared with the last one without, would
+    # otherwise report every package as changed.
+    curr_details = load_details(current_file)
+    prev_details = load_details(previous_file)
+    details_compared = bool(curr_details) and bool(prev_details)
+
+    def detail_delta(prev, curr):
+        if not details_compared:
+            return []
+        pd, cd = prev_details.get(prev.get("id")), curr_details.get(curr.get("id"))
+        if pd is None or cd is None:
+            return []
+        return _detail_changes(pd, cd, prev.get("versionDisplayName") == curr.get("versionDisplayName"))
+
+    updated_pairs, repackaged_pairs, reissued = [], [], 0
+    for i in curr_ids & prev_ids:
+        prev, curr = prev_by_id[i], curr_by_id[i]
+        if _field_changes(prev, curr):
+            updated_pairs.append((prev, curr))
+        elif detail_delta(prev, curr):
+            # Same branch, same catalog entry, different template: Microsoft
+            # rebuilt the package without a version change.
+            repackaged_pairs.append((prev, curr))
+        elif details_compared and prev.get("id") != curr.get("id"):
+            # A new package that differs in nothing visible, not even its
+            # template. Counted, not listed — there is nothing to show.
+            reissued += 1
+    updated_pairs.sort(key=lambda x: sk(x[1]))
+    repackaged_pairs.sort(key=lambda x: sk(x[1]))
 
     # Structured updated list: current app fields + previous version + field deltas
     updated_list = []
@@ -530,7 +822,17 @@ def _compute_changes(current_apps, previous_apps, current_file, previous_file):
         entry = dict(curr)
         entry["prevVersionDisplayName"] = prev.get("versionDisplayName", "")
         entry["changes"] = _field_changes(prev, curr)
+        delta = detail_delta(prev, curr)
+        if delta:
+            entry["detailChanges"] = delta
         updated_list.append(entry)
+
+    repackaged_list = []
+    for prev, curr in repackaged_pairs:
+        entry = dict(curr)
+        entry["prevId"] = prev.get("id", "")
+        entry["detailChanges"] = detail_delta(prev, curr)
+        repackaged_list.append(entry)
 
     prev_dt, curr_dt = parse_dt(previous_file), parse_dt(current_file)
     span_days = (curr_dt - prev_dt).days if prev_dt and curr_dt else None
@@ -547,6 +849,13 @@ def _compute_changes(current_apps, previous_apps, current_file, previous_file):
         "removed":        removed,
         "updated":        updated_list,
     }
+    # Only present when there was something to compare, so a pair of exports
+    # without details produces the same change set it always did.
+    if details_compared:
+        structured.update(details_compared=True,
+                          repackaged_count=len(repackaged_list),
+                          repackaged=repackaged_list,
+                          reissued_count=reissued)
     return structured, added, removed, updated_pairs
 
 
@@ -571,8 +880,19 @@ def _render_changes_md(structured, added, removed, updated_pairs, current_file, 
         "| Change | Count |", "|--------|------:|",
         f"| ✅ Added | {len(added):,} |",
         f"| ❌ Removed | {len(removed):,} |",
-        f"| 🔄 Updated | {len(updated_pairs):,} |", "",
+        f"| 🔄 Updated | {len(updated_pairs):,} |",
     ]
+    repackaged = structured.get("repackaged") or []
+    if structured.get("details_compared"):
+        lines.append(f"| 🧩 Repackaged | {len(repackaged):,} |")
+    lines.append("")
+    if structured.get("reissued_count"):
+        n = structured["reissued_count"]
+        lines += [f"> {n:,} further package{'' if n == 1 else 's'} got a new package id "
+                  "with no change to the catalog entry or the deployment details.", ""]
+
+    def detail_labels(entry):
+        return [c["label"] for c in (entry or {}).get("detailChanges") or []]
 
     if added:
         lines += [f"## ✅ Added ({len(added):,} packages)", "",
@@ -598,14 +918,28 @@ def _render_changes_md(structured, added, removed, updated_pairs, current_file, 
         lines += [f"## 🔄 Updated ({len(updated_pairs):,} packages)", "",
                   "| Publisher | App | Branch | Previous Version | New Version | Changed |",
                   "|-----------|-----|--------|:---------------:|:-----------:|---------|"]
-        for prev, curr in updated_pairs:
-            changed = ", ".join(c["label"] for c in _field_changes(prev, curr))
+        # structured["updated"] is built from updated_pairs in the same order.
+        entries = structured.get("updated") or [None] * len(updated_pairs)
+        for (prev, curr), entry in zip(updated_pairs, entries):
+            changed = ", ".join([c["label"] for c in _field_changes(prev, curr)] + detail_labels(entry))
             lines.append(f"| {curr.get('publisherDisplayName','')} | {curr.get('productDisplayName','')} "
                          f"| {curr.get('branchDisplayName','')} | `{prev.get('versionDisplayName','')}` "
                          f"| `{curr.get('versionDisplayName','')}` | {changed} |")
         lines.append("")
 
-    if not added and not removed and not updated_pairs:
+    if repackaged:
+        lines += [f"## 🧩 Repackaged ({len(repackaged):,} package{'' if len(repackaged) == 1 else 's'})", "",
+                  "Same branch and version, new package, and the deployment template "
+                  "Intune creates from it changed.", "",
+                  "| Publisher | App | Branch | Version | Changed |",
+                  "|-----------|-----|--------|:-------:|---------|"]
+        for a in repackaged:
+            lines.append(f"| {a.get('publisherDisplayName','')} | {a.get('productDisplayName','')} "
+                         f"| {a.get('branchDisplayName','')} | `{a.get('versionDisplayName','')}` "
+                         f"| {', '.join(detail_labels(a))} |")
+        lines.append("")
+
+    if not added and not removed and not updated_pairs and not repackaged:
         lines.append("> No changes detected between these two catalog exports.\n")
 
     return lines
@@ -619,7 +953,10 @@ def generate_changes(current_apps, previous_apps, current_file, previous_file,
     lines = _render_changes_md(structured, added, removed, updated_pairs, current_file, title)
     with open(output, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
-    print(f"  {output:<26} — +{len(added)} added  -{len(removed)} removed  ~{len(updated_pairs)} updated")
+    repack = (f"  ^{structured['repackaged_count']} repackaged"
+              if structured.get("details_compared") else "")
+    print(f"  {output:<26} — +{len(added)} added  -{len(removed)} removed  "
+          f"~{len(updated_pairs)} updated{repack}")
     return structured
 
 
@@ -1013,7 +1350,7 @@ def _feed_description(structured, source_ts, site_url="#", pages_url="",
             p = g[0]
             labels = []
             for q in g:
-                for c in q.get("changes", []):
+                for c in q.get("changes", []) + q.get("detailChanges", []):
                     if c["field"] != "versionDisplayName" and c["label"] not in labels:
                         labels.append(c["label"])
             note = " &middot; ".join(x for x in (
@@ -1277,9 +1614,12 @@ _TOPNAV = (
     '<a class="nav-btn" href="../">Catalog</a>'
     '<a class="nav-btn" href="../#stats">Statistics</a>'
     '<a class="nav-btn" href="../#changes">Changes</a>'
+    "{quirks}"
     '<a class="nav-btn" href="../#docs">Docs</a>'
     "</div></nav>"
 )
+# Only linked while the quirks page exists, which takes deployment details.
+_NAV_QUIRKS = '<a class="nav-btn" href="quirks.html">Quirks</a>'
 
 # Wires the theme toggle; the initial theme is resolved by _THEME_SCRIPT in <head>.
 _TOGGLE_SCRIPT = (
@@ -1348,6 +1688,12 @@ def _product_key(a):
     )
 
 
+# Pages in docs/apps/ that are not products. A product whose name slugifies to
+# one of these gets the next ordinal instead of overwriting the page.
+QUIRKS_SLUG = "quirks"
+_RESERVED_SLUGS = {"index", QUIRKS_SLUG}
+
+
 def _build_slug_map(apps):
     """Group packages by product and hand each group its page slug.
 
@@ -1373,7 +1719,7 @@ def _build_slug_map(apps):
         # ("Mozilla" + "Mozilla Firefox" → mozilla-firefox, not mozilla-mozilla-firefox).
         base = _slugify(name if name.lower().startswith(pub.lower()) else f"{pub}-{name}")
         slug, i = base, 2
-        while slug in slug_map:
+        while slug in slug_map or slug in _RESERVED_SLUGS:
             slug = f"{base}-{i}"
             i += 1
         slug_map[slug] = g
@@ -1437,7 +1783,7 @@ def _page_title(product, publisher):
 
 
 def _static_page(title, desc, canonical, body_html, extra_head="", repo_url="",
-                 site_url=""):
+                 site_url="", quirks=False):
     canon = f'\n  <link rel="canonical" href="{_xml_escape(canonical)}" />' if canonical else ""
     # Link previews (Teams, Slack, LinkedIn, Mastodon) read Open Graph, not the
     # canonical tag. Absolute URLs only — a relative og:image is ignored.
@@ -1472,7 +1818,7 @@ def _static_page(title, desc, canonical, body_html, extra_head="", repo_url="",
         f"{extra_head}\n"
         "</head>\n"
         '<body>\n<div id="app">\n'
-        f"{_page_header(repo_url)}\n{_TOPNAV}\n"
+        f"{_page_header(repo_url)}\n{_TOPNAV.format(quirks=_NAV_QUIRKS if quirks else '')}\n"
         '<main><div class="docs-container app-page">\n'
         f"{body_html}\n"
         "</div></main>\n"
@@ -1546,6 +1892,203 @@ _HOWTO = (
 
 
 # ---------------------------------------------------------------------------
+# Deployment details section of a product page
+# ---------------------------------------------------------------------------
+
+_RUN_AS = {"system": "System", "user": "User"}
+_RESTART = {
+    "basedOnReturnCode": "Based on return codes",
+    "allow":             "Intune may restart",
+    "suppress":          "No restart",
+    "force":             "Always restarts",
+}
+_RETURN_TYPE = {
+    "success": "success", "softReboot": "soft reboot", "hardReboot": "hard reboot",
+    "retry": "retry", "failed": "failed",
+}
+
+# Revealed by the copy script: without JavaScript the button would do nothing,
+# and the command stays selectable either way. When the browser refuses the
+# clipboard (permissions, an unfocused document), the command is selected
+# instead so a keyboard copy still works.
+_COPY_SCRIPT = (
+    "<script>(function(){if(!navigator.clipboard)return;"
+    "function say(b,t,ok){b.textContent=t;b.classList.toggle('is-done',ok);"
+    "setTimeout(function(){b.textContent='Copy';b.classList.remove('is-done')},1800)}"
+    "document.querySelectorAll('[data-copy]').forEach(function(b){b.hidden=false;"
+    "b.addEventListener('click',function(){var c=b.closest('.deploy-cmd').querySelector('code');"
+    "navigator.clipboard.writeText(c.textContent).then(function(){say(b,'Copied',true)},"
+    "function(){var r=document.createRange(),s=window.getSelection();r.selectNodeContents(c);"
+    "s.removeAllRanges();s.addRange(r);say(b,'Press Ctrl+C',false)})})})}());</script>"
+)
+
+
+def _fmt_size(n):
+    if not isinstance(n, (int, float)) or n <= 0:
+        return ""
+    for unit, size in (("GB", 1 << 30), ("MB", 1 << 20), ("KB", 1 << 10)):
+        if n >= size:
+            return f"{n / size:,.1f} {unit}"
+    return f"{n:,} bytes"
+
+
+def _windows_release(rel):
+    return f"Windows 10 {rel}" if re.fullmatch(r"\d{4}|\d{2}H\d", rel or "") else (rel or "")
+
+
+def _deploy_cmd(label, cmd):
+    if not cmd:
+        return ""
+    return (
+        '<div class="deploy-cmd"><div class="deploy-cmd-head">'
+        f"<span>{label}</span>"
+        '<button type="button" class="copy-btn" data-copy hidden>Copy</button></div>'
+        f"<pre><code>{_xml_escape(cmd)}</code></pre></div>"
+    )
+
+
+def _rule_list(rules):
+    items = []
+    for r in rules:
+        kind, subject, cond = _rule_parts(r)
+        items.append(
+            f'<li><span class="rule-kind">{_xml_escape(kind)}</span>'
+            + (f"<code>{_xml_escape(subject)}</code>" if subject else "")
+            + f'<span class="rule-cond">{_xml_escape(cond)}</span></li>'
+        )
+    return f'<ol class="rule-list">{"".join(items)}</ol>'
+
+
+def _deploy_body(items):
+    """One configuration: the template every package in `items` shares."""
+    _, detail, view = items[0]
+    msi = detail.get("msiInformation") or {}
+    det, req = _split_rules(detail)
+    sizes = sorted(v["size"] for _, _, v in items if isinstance(v.get("size"), (int, float)))
+    if sizes and sizes[0] != sizes[-1]:
+        size = f"{_fmt_size(sizes[0])} &ndash; {_fmt_size(sizes[-1])}"
+    else:
+        size = _fmt_size(sizes[0]) if sizes else ""
+
+    codes = "".join(
+        f'<span class="tag tag-code">{code} '
+        f'<span class="tag-sub">{_xml_escape(_RETURN_TYPE.get(kind, kind))}</span></span>'
+        for code, kind in view["returnCodes"]
+    )
+    installer = view["installer"] + (
+        ' <span class="app-dash">&middot; per machine</span>'
+        if msi.get("packageType") == "perMachine" else
+        ' <span class="app-dash">&middot; per user</span>'
+        if msi.get("packageType") == "perUser" else "")
+    facts = (
+        '<dl class="app-facts deploy-facts">'
+        + _fact("Installer", installer)
+        + (_fact("Installer file", f"<code>{_xml_escape(view['file'])}</code>") if view["file"] else "")
+        + (_fact("Size", size) if size else "")
+        + (_fact("Install context", _xml_escape(_RUN_AS.get(view["runAs"], view["runAs"])))
+           if view["runAs"] else "")
+        + (_fact("Restart", _xml_escape(_RESTART.get(view["restart"], view["restart"])))
+           if view["restart"] else "")
+        + (_fact("Max run time", f"{view['maxRun']:,} min")
+           if isinstance(view["maxRun"], int) else "")
+        + (_fact("Minimum OS", _xml_escape(_windows_release(view["minWindows"])))
+           if view["minWindows"] else "")
+        + (_fact("MSI product code", f"<code>{_xml_escape(view['productCode'])}</code>")
+           if view["productCode"] else "")
+        + (_fact("MSI upgrade code", f"<code>{_xml_escape(view['upgradeCode'])}</code>")
+           if view["upgradeCode"] else "")
+        + (_fact("Return codes", codes) if codes else "")
+        + "</dl>"
+    )
+    det_note = (f'<p class="deploy-note">All {len(det)} rules must match for Intune to '
+                "report the app as installed.</p>" if len(det) > 1 else "")
+    det_html = _rule_list(det) if det else '<p class="deploy-note">None.</p>'
+    req_html = (_rule_list(req) if req else
+                '<p class="deploy-note">None beyond the minimum Windows release and '
+                "architecture.</p>")
+    return (
+        f"{facts}"
+        f"{_deploy_cmd('Install command', view['install'])}"
+        f"{_deploy_cmd('Uninstall command', view['uninstall'])}"
+        '<h3 class="deploy-h">Detection rules</h3>'
+        f"{det_html}{det_note}"
+        '<h3 class="deploy-h">Requirement rules</h3>'
+        f"{req_html}"
+    )
+
+
+def _render_deploy(packages, details):
+    """The deployment section of a product page, and the product description.
+
+    Packages whose templates differ only in installer size are shown once —
+    the 47 Firefox locales share every command and rule, and repeating them
+    would bury the one product that genuinely ships different configurations
+    per branch. Returns ("", "", set()) when no package has a template.
+    """
+    have = []
+    for p in packages:
+        d = (details or {}).get(p.get("id"))
+        if d is not None:
+            have.append((p, d, _detail_view(d)))
+    if not have:
+        return "", "", set()
+
+    groups = {}
+    for item in have:
+        v = item[2]
+        key = json.dumps({k: v[k] for k in v if k not in ("size", "description", "_shape")},
+                         sort_keys=True)
+        groups.setdefault(key, []).append(item)
+    # Newest version first, then by branch — the same order an admin scans the
+    # package table in. Two passes because the sort is stable.
+    ordered = sorted(groups.values(), key=lambda g: min(
+        (p.get("branchDisplayName") or "").lower() for p, _, _ in g))
+    ordered.sort(key=lambda g: max((_version_key(p.get("versionDisplayName")) for p, _, _ in g)),
+                 reverse=True)
+
+    n_have, n_all = len(have), len(packages)
+    missing = (f" {n_all - n_have:,} of the {n_all:,} packages had no template in this "
+               "export and are not shown." if n_have < n_all else "")
+    if len(ordered) == 1:
+        scope = (f"All {n_have:,} packages share one configuration." if n_have > 1 else "")
+        body = f'<div class="deploy-body">{_deploy_body(ordered[0])}</div>'
+    else:
+        scope = (f"The {n_have:,} packages come in {len(ordered):,} configurations; "
+                 "packages that differ only in installer size are shown together.")
+        parts = []
+        for i, g in enumerate(ordered):
+            branches = []
+            for p, _, _ in g:
+                b = p.get("branchDisplayName") or ""
+                if b and b not in branches:
+                    branches.append(b)
+            versions = sorted({p.get("versionDisplayName") or "" for p, _, _ in g}, key=_version_key)
+            count = f'<span class="hist-n">{len(g):,} packages</span>' if len(g) > 1 else ""
+            parts.append(
+                f'<details class="app-deploy"{" open" if i == 0 else ""}><summary>'
+                f'<span class="deploy-name">{_names(branches, 2)}</span>'
+                f'<code>{_xml_escape(", ".join(versions))}</code>{count}</summary>'
+                f'<div class="deploy-body">{_deploy_body(g)}</div></details>'
+            )
+        body = "".join(parts)
+
+    html = (
+        '\n<section class="docs-section" id="deployment">\n'
+        "<h2>Deployment details"
+        + (f'<span class="count-pill">{len(ordered):,}</span>' if len(ordered) > 1 else "")
+        + "</h2>\n"
+        '<p class="deploy-lede">What Intune sets up when you add this app from the catalog '
+        "&mdash; the Win32 app template Microsoft Graph returns for each package. "
+        f"{scope}{missing}</p>\n"
+        f"{body}\n"
+        f"{_COPY_SCRIPT}\n"
+        "</section>"
+    )
+    description = next((v["description"] for _, _, v in have if v["description"]), "")
+    return html, description, {v["installer"] for _, _, v in have}
+
+
+# ---------------------------------------------------------------------------
 # Per-product change history
 #
 # What made the product pages weak was that they had nothing of their own to
@@ -1575,7 +2118,8 @@ def _pretty_date(iso):
 # Optional per-entry lists, written only when non-empty — most entries would
 # carry them empty, and the state file is committed on every export.
 _DETAIL_KEYS = ("branches_added", "branches_removed", "archs_added",
-                "archs_removed", "locales_added", "locales_removed")
+                "archs_removed", "locales_added", "locales_removed",
+                "repack_fields")
 
 
 def _facets(apps, slug_by_key):
@@ -1694,10 +2238,20 @@ def _summarise_changes(structured, slug_by_key, date, prev_facets=None, curr_fac
                     break
             else:
                 b["versions"].append([prev, curr, 1])
-        for c in a.get("changes") or []:
+        for c in (a.get("changes") or []) + (a.get("detailChanges") or []):
             label = c.get("label") or c.get("field")
             if label and label != "Version" and label not in b["fields"]:
                 b["fields"].append(label)
+
+    # A rebuild at the same version is its own kind of entry: nothing an admin
+    # sees in the catalog moved, but what Intune deploys did.
+    for a in structured.get("repackaged") or []:
+        b = bucket(a)
+        if b is None:
+            continue
+        b["repackaged"] = b.get("repackaged", 0) + 1
+        for c in a.get("detailChanges") or []:
+            note(b, "repack_fields", c.get("label"))
     return per_slug
 
 
@@ -1722,6 +2276,9 @@ def _merge_entries(a, b):
         vals = a.get(key, []) + [v for v in b.get(key, []) if v not in a.get(key, [])]
         if vals:
             merged[key] = vals
+    repackaged = a.get("repackaged", 0) + b.get("repackaged", 0)
+    if repackaged:
+        merged["repackaged"] = repackaged
     return merged
 
 
@@ -1730,7 +2287,7 @@ def _record_history(state, per_slug):
     only the page caps what it shows."""
     for slug, entry in per_slug.items():
         if not (entry["added"] or entry["removed"] or entry["versions"] or entry["fields"]
-                or any(entry.get(k) for k in _DETAIL_KEYS)):
+                or entry.get("repackaged") or any(entry.get(k) for k in _DETAIL_KEYS)):
             continue
         log = state["history"].setdefault(slug, [])
         if log and log[-1].get("date") == entry["date"]:
@@ -1841,6 +2398,13 @@ def _render_history(entries, since, first_seen=None):
         for label in e.get("fields") or []:
             if label not in covered:
                 bits.append(f"{_xml_escape(label)} changed")
+        if e.get("repackaged"):
+            n = e["repackaged"]
+            moved = (f'<span class="hist-n">{n:,} packages</span>' if n > 1 else "")
+            what = e.get("repack_fields") or []
+            bits.append("Repackaged without a version change"
+                        + (f" &mdash; {_names(what, 4)} changed" if what else "")
+                        + moved)
         return ", ".join(bits) or "Catalog entry updated"
 
     shown = entries[-HISTORY_MAX:]
@@ -1937,13 +2501,14 @@ def _activity_prose(entries, since, first_seen, first_seen_after=None):
 
 def _render_app_page(slug, packages, site_url, repo_url,
                      siblings=(), history=(), history_from=None, first_seen=None,
-                     first_seen_after=None):
+                     first_seen_after=None, details=None, quirks=False):
     product   = packages[0].get("productDisplayName", "")
     publisher = packages[0].get("publisherDisplayName", "")
     n      = len(packages)
     latest = max((p.get("versionDisplayName") or "" for p in packages), key=_version_key)
     n_auto = sum(1 for p in packages if p.get("packageAutoUpdateCapable"))
     auto   = n_auto > 0
+    deploy_html, description, installers = _render_deploy(packages, details)
 
     # Union of the per-package values, in a stable presentation order.
     arches = {a.strip() for p in packages
@@ -1989,6 +2554,8 @@ def _render_app_page(slug, packages, site_url, repo_url,
     # regenerated — the second one is noise and was what the page used to say.
     if last_change:
         ld_data["dateModified"] = last_change
+    if description:
+        ld_data["description"] = description
     ld = json.dumps(ld_data, ensure_ascii=False)
 
     # Auto-update reads three ways: every package, none of them, or a mix.
@@ -2004,6 +2571,7 @@ def _render_app_page(slug, packages, site_url, repo_url,
         + _fact("Latest version", f"<code>{_xml_escape(latest)}</code>")
         + _fact("Packages", f"{n:,}")
         + _fact("Auto-update", auto_fact)
+        + (_fact("Installer", " and ".join(sorted(installers))) if installers else "")
         + _fact("Architectures", _arch_tags(",".join(arches)))
         + _fact("Locales", _locale_tags(locales, limit=8))
         + (_fact("In catalog since",
@@ -2082,7 +2650,8 @@ def _render_app_page(slug, packages, site_url, repo_url,
         '<section class="docs-section app-hero">\n'
         f'<h1 class="app-title">{_xml_escape(product)}</h1>\n'
         f'<p class="app-publisher">by {_xml_escape(publisher)}</p>\n'
-        f'<p class="app-lede">{_xml_escape(product)} is published in the Microsoft Intune '
+        + (f'<p class="app-desc">{_xml_escape(description)}</p>\n' if description else "")
+        + f'<p class="app-lede">{_xml_escape(product)} is published in the Microsoft Intune '
         "Enterprise App Management (EAM) catalog, so Intune can deploy and update it on "
         f"Windows devices without a repackaged installer.{prose}</p>\n"
         f"{facts}\n"
@@ -2095,6 +2664,7 @@ def _render_app_page(slug, packages, site_url, repo_url,
         f"<tbody>{rows}</tbody></table></div>\n"
         f"{_HOWTO.format(product=_xml_escape(product))}\n"
         "</section>"
+        f"{deploy_html}"
         f"{hist_html}"
         f"{sib_html}\n"
         # No export timestamp here. It changed on every run whether or not this
@@ -2110,7 +2680,7 @@ def _render_app_page(slug, packages, site_url, repo_url,
     canonical = f"{site_url}apps/{slug}.html" if site_url else ""
     extra_head = f'\n  <script type="application/ld+json">{ld}</script>'
     return _static_page(_page_title(product, publisher),
-                        desc, canonical, body, extra_head, repo_url, site_url)
+                        desc, canonical, body, extra_head, repo_url, site_url, quirks)
 
 
 # Answers double as page copy and as FAQPage structured data, so the two can
@@ -2149,7 +2719,7 @@ def _apps_index_faq(n_products, n_packages, source_ts):
     ]
 
 
-def _render_apps_index(products, site_url, source_ts, repo_url):
+def _render_apps_index(products, site_url, source_ts, repo_url, quirks=False):
     rows = "".join(
         f"<tr><td>{_xml_escape(pub)}</td>"
         f'<td><a href="{slug}.html">{_xml_escape(name)}</a></td>'
@@ -2208,7 +2778,294 @@ def _render_apps_index(products, site_url, source_ts, repo_url):
     canonical = f"{site_url}apps/" if site_url else ""
     extra_head = f'\n  <script type="application/ld+json">{ld}</script>'
     return _static_page("All Apps in the Intune EAM Catalog \u2014 Complete List",
-                        desc, canonical, body, extra_head, repo_url, site_url)
+                        desc, canonical, body, extra_head, repo_url, site_url, quirks)
+
+
+# ---------------------------------------------------------------------------
+# docs/apps/quirks.html — what the deployment templates reveal across the
+# whole catalog. Each rule is (id, title, explanation, headers, check); a
+# check takes the context and returns table rows as tuples of cell HTML, so a
+# new rule is one function and one line in QUIRK_RULES.
+# ---------------------------------------------------------------------------
+
+def _vparts(s):
+    parts = [int(x) for x in re.findall(r"\d+", s or "")]
+    while len(parts) > 1 and parts[-1] == 0:
+        parts.pop()
+    return parts
+
+
+def _versions_agree(catalog_version, rule_version):
+    """True when a rule's version is plausibly the catalog version written
+    differently: 26.05 vs 26.05.00.0, 1.1.18 vs 1.1.18.2 (an extra build
+    part), 1.14.29743 vs 1.14.9.29743 (a part the catalog leaves out)."""
+    a, b = _vparts(catalog_version), _vparts(rule_version)
+    if not a or not b or a == b:
+        return True
+    short, long_ = sorted((a, b), key=len)
+    if long_[:len(short)] == short:
+        return True
+    rest = iter(long_)
+    return all(x in rest for x in short)
+
+
+def _version_checks(detail):
+    det, _ = _split_rules(detail)
+    for r in det:
+        how = r.get("operationType")
+        if not r.get("comparisonValue"):
+            continue
+        if how in ("version", "appVersion") or (
+                how == "string" and (r.get("valueName") or "").lower() == "displayversion"):
+            yield r
+
+
+def _q_link(item):
+    app, slug = item["app"], item["slug"]
+    name = _xml_escape(app.get("productDisplayName", ""))
+    return f'<a href="{slug}.html">{name}</a>' if slug else name
+
+
+def _q_rule_cell(rule):
+    kind, subject, cond = _rule_parts(rule)
+    return (f'<span class="rule-kind">{_xml_escape(kind)}</span> '
+            f"<code>{_xml_escape(subject)}</code> {_xml_escape(cond)}")
+
+
+def _q_detection_above(ctx):
+    rows = []
+    for it in ctx["items"]:
+        ver = it["app"].get("versionDisplayName") or ""
+        for r in _version_checks(it["detail"]):
+            val = r.get("comparisonValue")
+            if (r.get("operator") in ("greaterThanOrEqual", "greaterThan")
+                    and not _versions_agree(ver, val) and _vparts(val) > _vparts(ver)):
+                rows.append((_q_link(it), _xml_escape(it["app"].get("branchDisplayName", "")),
+                             f"<code>{_xml_escape(ver)}</code>", _q_rule_cell(r)))
+    return rows
+
+
+def _q_detection_pinned(ctx):
+    rows = []
+    for it in ctx["items"]:
+        ver = it["app"].get("versionDisplayName") or ""
+        for r in _version_checks(it["detail"]):
+            if r.get("operator") == "equal" and not _versions_agree(ver, r.get("comparisonValue")):
+                rows.append((_q_link(it), _xml_escape(it["app"].get("branchDisplayName", "")),
+                             f"<code>{_xml_escape(ver)}</code>", _q_rule_cell(r)))
+    return rows
+
+
+def _q_user_context(ctx):
+    return [(_q_link(it), _xml_escape(it["app"].get("branchDisplayName", "")),
+             f"<code>{_xml_escape(it['app'].get('versionDisplayName', ''))}</code>",
+             _xml_escape(it["view"]["installer"]))
+            for it in ctx["items"] if it["view"]["runAs"] == "user"]
+
+
+def _q_msi_in_exe(ctx):
+    return [(_q_link(it), _xml_escape(it["app"].get("branchDisplayName", "")),
+             f"<code>{_xml_escape(it['view']['file'])}</code>",
+             f"<code>{_xml_escape(it['view']['productCode'])}</code>")
+            for it in ctx["items"]
+            if it["view"]["installer"] == "MSI"
+            and not it["view"]["file"].lower().endswith(".msi")]
+
+
+# The exit codes Intune itself treats as success when it creates a Win32 app.
+_STANDARD_SUCCESS = {0, 1707}
+_EXIT_CODE_MEANING = {
+    1223: "the operation was cancelled by the user",
+    1641: "a restart was started",
+    3010: "a restart is required",
+}
+
+
+def _q_unusual_success(ctx):
+    rows = []
+    for it in ctx["items"]:
+        odd = [code for code, kind in it["view"]["returnCodes"]
+               if kind == "success" and code not in _STANDARD_SUCCESS]
+        if odd:
+            meaning = "; ".join(
+                f"<code>{c}</code>" + (f" &mdash; {_EXIT_CODE_MEANING[c]}" if c in _EXIT_CODE_MEANING else "")
+                for c in odd)
+            rows.append((_q_link(it), _xml_escape(it["app"].get("branchDisplayName", "")), meaning))
+    return rows
+
+
+def _q_failed(ctx):
+    by_id = {a.get("id"): a for a in ctx["apps"]}
+    rows = []
+    for pid, status in sorted(ctx["errors"].items()):
+        app = by_id.get(pid)
+        if app:
+            it = {"app": app, "slug": ctx["slug_of"].get(pid)}
+            rows.append((_q_link(it), _xml_escape(app.get("branchDisplayName", "")),
+                         f"<code>{_xml_escape(status)}</code>"))
+    return rows
+
+
+_LEGAL_SUFFIX_RE = re.compile(
+    r"[\s,.]+(inc|llc|ltd|gmbh|corp|corporation|co|limited|ag|bv|sa)\.?$", re.IGNORECASE)
+
+
+def _q_publisher_variants(ctx):
+    names = {}
+    for a in ctx["apps"]:
+        pub = a.get("publisherDisplayName") or ""
+        names.setdefault(_LEGAL_SUFFIX_RE.sub("", pub.strip()).strip(" ,.").lower(), {}) \
+             .setdefault(pub, set()).add(_product_key(a))
+    rows = []
+    for _, variants in sorted(names.items()):
+        if len(variants) > 1:
+            rows.append(("<br>".join(f"<code>{_xml_escape(v)}</code>" for v in sorted(variants)),
+                         " &middot; ".join(f"{len(variants[v]):,}" for v in sorted(variants))))
+    return rows
+
+
+QUIRK_RULES = [
+    ("detection-above", "Detection expects a newer version than the catalog lists",
+     "These detection rules require a version at or above a threshold that is higher than "
+     "the version the catalog lists. Sometimes the file just numbers its versions "
+     "differently. Otherwise either the installer is newer than the catalog says, or a "
+     "device that installs exactly the listed version is never detected and Intune reports "
+     "the installation as failed. Worth a test deployment before relying on it.",
+     ("App", "Branch", "Catalog version", "Detection rule"), _q_detection_above),
+    ("detection-pinned", "Detection pinned to a different version number",
+     "An exact version check against a number that does not match the catalog version. "
+     "Usually harmless &mdash; a file often carries its own version, separate from the "
+     "product&rsquo;s &mdash; but the rule matches that one build only.",
+     ("App", "Branch", "Catalog version", "Detection rule"), _q_detection_pinned),
+    ("user-context", "Installs in the user context",
+     "These packages run as the signed-in user instead of System. They install for that "
+     "user only and need a user session to install at all.",
+     ("App", "Branch", "Version", "Installer"), _q_user_context),
+    ("msi-in-exe", "MSI behind an EXE",
+     "The template carries MSI information, but Intune runs an .exe. Uninstall and "
+     "detection follow the MSI product code; the installer itself is a bootstrapper.",
+     ("App", "Branch", "Installer file", "MSI product code"), _q_msi_in_exe),
+    ("unusual-success", "Unusual exit codes counted as success",
+     "Exit codes other than 0 and 1707 that Intune reports as a successful installation.",
+     ("App", "Branch", "Also counted as success"), _q_unusual_success),
+    ("failed", "Packages without a template",
+     "convertFromMobileAppCatalogPackage returned an error for these packages in this "
+     "export, so their pages show no deployment details.",
+     ("App", "Branch", "Status"), _q_failed),
+    ("publisher-variants", "One publisher, several names",
+     "The same vendor listed under more than one name. Grouping or filtering by publisher "
+     "splits its apps across the variants.",
+     ("Publisher names", "Products under each"), _q_publisher_variants),
+]
+
+# Rows shown before the rest of a table collapses behind a toggle.
+_QUIRK_VISIBLE = 12
+
+
+def _render_quirks(ctx, site_url, source_ts, repo_url):
+    items = ctx["items"]
+    n_items, n_all = len(items), len(ctx["apps"])
+    by_product = {}
+    for it in items:
+        by_product.setdefault(_product_key(it["app"]), []).append(it)
+
+    def any_rule(it, pred):
+        return any(pred(r) for r in _split_rules(it["detail"])[0])
+
+    size_products = sum(1 for g in by_product.values()
+                        if any(any_rule(it, lambda r: r.get("operationType") in ("sizeInBytes", "sizeInMB"))
+                               for it in g))
+    multi = sum(1 for it in items if len(_split_rules(it["detail"])[0]) > 1)
+    req = sum(1 for it in items if _split_rules(it["detail"])[1])
+    zero_only = sum(1 for it in items if it["view"]["returnCodes"] == ((0, "success"),))
+    n_msi = sum(1 for it in items if it["view"]["installer"] == "MSI")
+
+    def pct(k, n):
+        return f' <span class="app-dash">&middot; {round(100 * k / n) if n else 0}%</span>'
+
+    facts = (
+        '<dl class="app-facts">'
+        + _fact("Packages checked", f"{n_items:,}"
+                + (f' <span class="app-dash">of {n_all:,}</span>' if n_items < n_all else ""))
+        + _fact("MSI / EXE", f"{n_msi:,} / {n_items - n_msi:,}")
+        + _fact("Detect by exact file size", f"{size_products:,} apps" + pct(size_products, len(by_product)))
+        + _fact("Several detection rules", f"{multi:,} packages" + pct(multi, n_items))
+        + _fact("Requirement rules", f"{req:,} packages" if req else "None in any package")
+        + _fact("Only exit code 0 succeeds", f"{zero_only:,} packages" + pct(zero_only, n_items))
+        + "</dl>"
+    )
+
+    def table(headers, rows):
+        head = "".join(f"<th>{h}</th>" for h in headers)
+        return ('<div class="app-table-wrap"><table class="docs-table quirk-table">'
+                f"<thead><tr>{head}</tr></thead><tbody>"
+                + "".join("<tr>" + "".join(f"<td>{c}</td>" for c in r) + "</tr>" for r in rows)
+                + "</tbody></table></div>")
+
+    def collapse(headers, rows):
+        """Rows that differ only in their branch become one row. Thunderbird
+        ships 45 locale packages with the same detection rule, and 45 rows of
+        it would hide every other app in the table."""
+        if len(headers) < 2 or headers[1] != "Branch":
+            return rows
+        groups = {}
+        for r in rows:
+            groups.setdefault((r[0],) + tuple(r[2:]), []).append(r[1])
+        out = []
+        for key, branches in groups.items():
+            cell = (branches[0] if len(branches) == 1 else
+                    f'{len(branches):,} packages <span class="app-dash">({branches[0]} '
+                    f"and {len(branches) - 1:,} more)</span>")
+            out.append((key[0], cell) + key[1:])
+        return out
+
+    sections, counts = [], []
+    for qid, title, explain, headers, check in QUIRK_RULES:
+        found = check(ctx)
+        rows = collapse(headers, found)
+        counts.append((qid, title, len(found)))
+        if not rows:
+            content = '<p class="deploy-note">None in this export.</p>'
+        elif len(rows) <= _QUIRK_VISIBLE + 3:
+            content = table(headers, rows)
+        else:
+            content = (table(headers, rows[:_QUIRK_VISIBLE])
+                       + f'<details class="app-howto"><summary>Show all {len(rows):,}</summary>'
+                       + table(headers, rows[_QUIRK_VISIBLE:]) + "</details>")
+        sections.append(
+            f'\n<section class="docs-section" id="{qid}">\n'
+            f'<h2>{_xml_escape(title)}<span class="count-pill">{len(found):,}</span></h2>\n'
+            f"<p>{explain}</p>\n{content}\n</section>"
+        )
+
+    toc = "".join(f'<li><a href="#{qid}">{_xml_escape(title)}</a>'
+                  f'<span class="hist-n">{n:,}</span></li>' for qid, title, n in counts)
+    desc = _meta_desc(
+        "Quirks in the Intune EAM app catalog",
+        "detection rules that expect another version", "user-context installs",
+        "unusual exit codes", "found in every package's deployment template",
+    )
+    body = (
+        '<nav class="app-breadcrumb"><a href="../">Catalog</a> &rsaquo; '
+        '<a href="./">All Apps</a> &rsaquo; <span>Quirks</span></nav>\n'
+        '<section class="docs-section app-hero">\n'
+        '<h1 class="app-title">Catalog quirks</h1>\n'
+        '<p class="app-lede">Things worth knowing before you deploy an app from the Intune '
+        "Enterprise App Management catalog, found automatically in the Win32 app template "
+        "Intune creates from each package. Checked against the export of "
+        f"{_xml_escape(source_ts)}; each app links to its page with the full deployment "
+        "details.</p>\n"
+        f"{facts}\n"
+        f'<ol class="quirk-toc">{toc}</ol>\n'
+        "</section>"
+        + "".join(sections)
+        + '\n<p class="app-note">Found by rules in this site&rsquo;s generator, not by '
+        "Microsoft. A quirk is something to check, not necessarily a fault. "
+        "Not affiliated with Microsoft.</p>"
+    )
+    canonical = f"{site_url}apps/{QUIRKS_SLUG}.html" if site_url else ""
+    return _static_page("Catalog quirks — Intune EAM App Catalog",
+                        desc, canonical, body, "", repo_url, site_url, quirks=True)
 
 
 def _page_url(site_url, rel):
@@ -2217,10 +3074,12 @@ def _page_url(site_url, rel):
     return f"{site_url}{rel}" if site_url else f"/{rel}"
 
 
-def generate_app_pages(slug_map, latest_file, site_url, repo_url, state, today, changed):
+def generate_app_pages(slug_map, latest_file, site_url, repo_url, state, today, changed,
+                       details=None, errors=None):
     """Write one static page per product plus an index; prune pages for products
     that left the catalog. Takes the map from _build_slug_map so the pages and
-    the links in catalog.json cannot drift apart. Returns the sorted slugs."""
+    the links in catalog.json cannot drift apart. With deployment details, also
+    writes the quirks page. Returns the sorted slugs."""
     # Every other product from the same publisher, for the cross-links at the
     # foot of each page. Alphabetical so the pick stays stable run to run.
     by_publisher = {}
@@ -2240,7 +3099,7 @@ def generate_app_pages(slug_map, latest_file, site_url, repo_url, state, today, 
         html = _render_app_page(slug, g, site_url, repo_url, siblings,
                                 state["history"].get(slug, []), history_from,
                                 state["first_seen"].get(slug),
-                                state["first_seen_after"].get(slug))
+                                state["first_seen_after"].get(slug), details, bool(details))
         written += _write_page(f"docs/apps/{slug}.html", html,
                                _page_url(site_url, f"apps/{slug}.html"),
                                state, today, changed)
@@ -2255,10 +3114,30 @@ def generate_app_pages(slug_map, latest_file, site_url, repo_url, state, today, 
     index_rows.sort(key=lambda r: (r[1].lower(), r[2].lower()))
     written += _write_page(
         "docs/apps/index.html",
-        _render_apps_index(index_rows, site_url, source_ts, repo_url),
+        _render_apps_index(index_rows, site_url, source_ts, repo_url, bool(details)),
         _page_url(site_url, "apps/"), state, today, changed)
 
     keep = {f"{s}.html" for s in slug_map} | {"index.html"}
+    if details:
+        slug_of = {p.get("id"): s for s, g in slug_map.items() for p in g}
+        apps = [p for g in slug_map.values() for p in g]
+        ctx = {
+            "apps": apps,
+            "errors": errors or {},
+            "slug_of": slug_of,
+            "items": [{"app": p, "slug": slug_of.get(p.get("id")), "detail": details[p["id"]],
+                       "view": _detail_view(details[p["id"]])}
+                      for p in sorted(apps, key=lambda a: (
+                          (a.get("productDisplayName") or "").lower(),
+                          (a.get("branchDisplayName") or "").lower(),
+                          _version_key(a.get("versionDisplayName"))))
+                      if p.get("id") in details],
+        }
+        written += _write_page(f"docs/apps/{QUIRKS_SLUG}.html",
+                               _render_quirks(ctx, site_url, source_ts, repo_url),
+                               _page_url(site_url, f"apps/{QUIRKS_SLUG}.html"),
+                               state, today, changed)
+        keep.add(f"{QUIRKS_SLUG}.html")
     stale = [p for p in glob.glob("docs/apps/*.html") if os.path.basename(p) not in keep]
     for p in stale:
         os.remove(p)
@@ -2291,7 +3170,10 @@ def generate_sitemap(site_url, slugs, state):
     if not site_url:
         print("  docs/sitemap.xml          — skipped (no site URL available)")
         return
-    urls = [site_url, f"{site_url}apps/"] + [f"{site_url}apps/{s}.html" for s in slugs]
+    urls = [site_url, f"{site_url}apps/"]
+    if os.path.exists(f"docs/apps/{QUIRKS_SLUG}.html"):
+        urls.append(f"{site_url}apps/{QUIRKS_SLUG}.html")
+    urls += [f"{site_url}apps/{s}.html" for s in slugs]
 
     def entry(u):
         lm = (state["pages"].get(u) or {}).get("lastmod")
@@ -2497,8 +3379,23 @@ def main():
     _note_arrivals(state, slug_map, today,
                    prev_dt.strftime("%Y-%m-%d") if prev_dt else None)
 
+    # Deployment details for the pages: the latest export's, with any package
+    # whose conversion failed this time filled in from the previous export —
+    # but only while it is still the same package.
+    details = load_details(latest_file)
+    if len(files) >= 2:
+        previous = load_details(files[-2])
+        for a in current_apps:
+            pid = a.get("id")
+            if pid and pid not in details and pid in previous:
+                details[pid] = previous[pid]
+    errors = {pid: s for pid, s in detail_errors(latest_file).items() if pid not in details}
+    if details:
+        print(f"  details                   — {len(details):,} package template(s)"
+              + (f", {len(errors):,} unavailable" if errors else ""))
+
     slugs = generate_app_pages(slug_map, latest_file, site_url, repo_url,
-                               state, today, changed)
+                               state, today, changed, details, errors)
     # The home page is hand-maintained, but its sitemap entry should still date
     # from when it was last edited rather than from the newest export.
     _track_static("docs/index.html", _page_url(site_url, ""), state, today, changed)

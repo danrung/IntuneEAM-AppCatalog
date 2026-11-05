@@ -117,6 +117,7 @@
         <button class="nav-btn active" data-view="catalog">Catalog</button>
         <button class="nav-btn" data-view="stats">Statistics</button>
         <button class="nav-btn" data-view="changes">Changes</button>
+        <a class="nav-btn" href="apps/quirks.html">Quirks</a>
         <button class="nav-btn" data-view="docs">Docs</button>
       </div>
     </nav>
@@ -221,8 +222,10 @@
                <code>win32MobileAppCatalogPackage</code> Graph resource is exported on a
                schedule and rendered here: a searchable table of all packages, a
                <a href="apps/">page for each application</a> with its full branch and
-               version history, statistics, and a changelog of what Microsoft added,
-               removed or updated between exports.</p>
+               version history and the deployment details Intune sets up for it, statistics,
+               a changelog of what Microsoft added, removed or updated between exports, and
+               a <a href="apps/quirks.html">quirks page</a> of what those deployment details
+               reveal across the whole catalog.</p>
             <p>Use it to check whether an application is available in EAM before planning
                a deployment, to see which version Intune currently offers, to confirm
                whether a package can update itself, or to subscribe to the RSS feed and be
@@ -293,8 +296,29 @@
                 </tr>
                 <tr>
                   <td><code>id</code></td>
-                  <td>Package instance ID assigned by the Graph API. This changes on every export and is not used for comparisons.</td>
+                  <td>Package instance ID. A branch gets a new one whenever Microsoft publishes a new package for it — with every version update, and also for rebuilds that change nothing in the fields above. Not used to match packages between exports.</td>
                 </tr>
+              </tbody>
+            </table>
+          </section>
+
+          <section class="docs-section">
+            <h2>Deployment Details</h2>
+            <p>For every package, the exporter also asks Microsoft Graph for the Win32 app
+               Intune would create from it
+               (<code>convertFromMobileAppCatalogPackage</code>). Each app page shows the
+               result under <em>Deployment details</em>; packages whose templates differ only
+               in installer size, such as Firefox's locales, are shown once.</p>
+            <table class="docs-table">
+              <thead><tr><th>Shown</th><th>Source in the template</th></tr></thead>
+              <tbody>
+                <tr><td>Installer, file, size</td><td><code>msiInformation</code> present means MSI, otherwise EXE; <code>fileName</code>, <code>size</code>.</td></tr>
+                <tr><td>Install / uninstall command</td><td><code>installCommandLine</code>, <code>uninstallCommandLine</code>, with a copy button.</td></tr>
+                <tr><td>MSI product and upgrade code</td><td><code>msiInformation.productCode</code>, <code>msiInformation.upgradeCode</code>.</td></tr>
+                <tr><td>Detection and requirement rules</td><td><code>rules</code>, split by <code>ruleType</code> and written out as sentences. Several detection rules must all match.</td></tr>
+                <tr><td>Install context, restart, max run time</td><td><code>installExperience</code>.</td></tr>
+                <tr><td>Return codes, minimum OS</td><td><code>returnCodes</code>, <code>minimumSupportedWindowsRelease</code>.</td></tr>
+                <tr><td>Description</td><td><code>description</code> &mdash; the catalog record's own <code>productDescription</code> is always empty.</td></tr>
               </tbody>
             </table>
           </section>
@@ -303,7 +327,7 @@
             <h2>How Change Detection Works</h2>
             <p>When two exports are compared, packages are matched by <code>branchId</code> —
                a stable identifier that survives catalog re-indexing. The <code>id</code> field
-               changes on every export and is intentionally ignored.</p>
+               identifies the package, not the branch, and is not used to match them.</p>
             <table class="docs-table">
               <thead><tr><th>Change type</th><th>Meaning</th></tr></thead>
               <tbody>
@@ -321,8 +345,21 @@
                       changed. The <em>Changed</em> column lists which ones — hover a tag to see
                       the old and new value.</td>
                 </tr>
+                <tr>
+                  <td><strong>Repackaged</strong></td>
+                  <td>Same <code>branchId</code> and an unchanged catalog entry, but the deployment
+                      details differ &mdash; Microsoft rebuilt the package without a new version.
+                      Listed in <code>changes.md</code> on GitHub and in each app's change
+                      history.</td>
+                </tr>
               </tbody>
             </table>
+            <p>Deployment details are compared in two ways. With a version change, only how the
+               app is deployed counts: a new switch, another detection method, a different upgrade
+               code. The installer name, its size, the MSI product code and the version in the
+               detection rule move with every release, so they are not reported. Without a version
+               change every value counts. The first export with deployment details is a baseline
+               and reports none.</p>
             <p>Tracked fields are <code>versionDisplayName</code>, <code>productDisplayName</code>,
                <code>branchDisplayName</code>, <code>publisherDisplayName</code>,
                <code>applicableArchitectures</code>, <code>packageAutoUpdateCapable</code> and

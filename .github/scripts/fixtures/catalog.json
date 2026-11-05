@@ -1,0 +1,162 @@
+[
+  {
+    "versionDisplayName": "159.0.1",
+    "productId": "8b831845-d4e8-2b28-1564-35e15589d3b1",
+    "locales": [
+      "af"
+    ],
+    "branchId": "c772f548-290f-21bc-e402-3694a738b5ac",
+    "publisherDisplayName": "Mozilla",
+    "branchDisplayName": "Firefox (African) (x64)",
+    "packageAutoUpdateCapable": true,
+    "productDescription": null,
+    "productDisplayName": "Mozilla Firefox",
+    "id": "23727f49-f0bb-27e3-2cdb-c9db321e40e8",
+    "applicableArchitectures": "x64",
+    "@odata.type": "#microsoft.graph.win32MobileAppCatalogPackage"
+  },
+  {
+    "versionDisplayName": "159.0.1",
+    "productId": "8b831845-d4e8-2b28-1564-35e15589d3b1",
+    "locales": [
+      "eu"
+    ],
+    "branchId": "edae85e2-7290-ad18-e6f9-3694a7869667",
+    "publisherDisplayName": "Mozilla",
+    "branchDisplayName": "Firefox (Basque) (x64)",
+    "packageAutoUpdateCapable": true,
+    "productDescription": null,
+    "productDisplayName": "Mozilla Firefox",
+    "id": "2f0bd408-d2ad-105e-c828-d4c8bc7cf390",
+    "applicableArchitectures": "x64",
+    "@odata.type": "#microsoft.graph.win32MobileAppCatalogPackage"
+  },
+  {
+    "versionDisplayName": "4.2.2.0",
+    "productId": "249980c7-b652-cbea-621f-365c7c6e0839",
+    "locales": [
+      "en-US"
+    ],
+    "branchId": "721b730c-cf41-5ad5-6226-365c7c9531f3",
+    "publisherDisplayName": "Android",
+    "branchDisplayName": "Android Studio 4",
+    "packageAutoUpdateCapable": true,
+    "productDescription": null,
+    "productDisplayName": "Android Studio 4",
+    "id": "beb2e8bd-ae14-14ad-5479-7e9d57ffd5fe",
+    "applicableArchitectures": "x64",
+    "@odata.type": "#microsoft.graph.win32MobileAppCatalogPackage"
+  },
+  {
+    "versionDisplayName": "6.2.16",
+    "productId": "6f12ea58-c8d6-0b44-ba51-363cad26b0d1",
+    "locales": [
+      "en-US"
+    ],
+    "branchId": "3fa6cfd1-44e5-46d8-ba55-363cad364e9c",
+    "publisherDisplayName": "KUBUS BV",
+    "branchDisplayName": "BCF Manager for Tekla",
+    "packageAutoUpdateCapable": false,
+    "productDescription": null,
+    "productDisplayName": "BCF Manager for Tekla",
+    "id": "c7c23b01-8d1a-4760-6164-5705c7c19e3a",
+    "applicableArchitectures": "x64",
+    "@odata.type": "#microsoft.graph.win32MobileAppCatalogPackage"
+  },
+  {
+    "versionDisplayName": "115.8.0",
+    "productId": "ae6e5dce-b2d6-65fc-0858-35e15579d226",
+    "locales": [
+      "af"
+    ],
+    "branchId": "7e4c007e-cd74-58f3-d5cf-3694a615280a",
+    "publisherDisplayName": "Mozilla",
+    "branchDisplayName": "Thunderbird (African) (x64)",
+    "packageAutoUpdateCapable": true,
+    "productDescription": null,
+    "productDisplayName": "Mozilla Thunderbird",
+    "id": "ea15827f-afb5-9d68-283a-20294878ab9b",
+    "applicableArchitectures": "x64",
+    "@odata.type": "#microsoft.graph.win32MobileAppCatalogPackage"
+  },
+  {
+    "versionDisplayName": "8.9.8.1",
+    "productId": "6cdfe3fd-de83-96a6-0657-35e15577dcd9",
+    "locales": [
+      "en-US"
+    ],
+    "branchId": "f6331dea-c40f-d45b-fcaf-378a12e60156",
+    "publisherDisplayName": "Don Ho",
+    "branchDisplayName": "Notepad++ (x64) (msi)",
+    "packageAutoUpdateCapable": false,
+    "productDescription": null,
+    "productDisplayName": "Notepad++",
+    "id": "eac00000-1a61-4f70-b5c5-177b94c86008",
+    "applicableArchitectures": "x64",
+    "@odata.type": "#microsoft.graph.win32MobileAppCatalogPackage"
+  },
+  {
+    "versionDisplayName": "26.05",
+    "productId": "3a6307ef-6991-faf1-01e1-35e1557287aa",
+    "locales": [
+      "en-US"
+    ],
+    "branchId": "3da9c2f0-94e7-90b1-01e3-35e155728974",
+    "publisherDisplayName": "Igor Pavlov",
+    "branchDisplayName": "7-Zip (x64) (msi)",
+    "packageAutoUpdateCapable": false,
+    "productDescription": null,
+    "productDisplayName": "7-Zip",
+    "id": "eac00000-3218-40fd-be7b-109f460fc0db",
+    "applicableArchitectures": "x64",
+    "@odata.type": "#microsoft.graph.win32MobileAppCatalogPackage"
+  },
+  {
+    "versionDisplayName": "8.9.8.1",
+    "productId": "6cdfe3fd-de83-96a6-0657-35e15577dcd9",
+    "locales": [
+      "en-US"
+    ],
+    "branchId": "9fd4b20e-a3ed-4c9f-3e7b-35e155b72bdd",
+    "publisherDisplayName": "Don Ho",
+    "branchDisplayName": "Notepad++ (x64) (exe)",
+    "packageAutoUpdateCapable": false,
+    "productDescription": null,
+    "productDisplayName": "Notepad++",
+    "id": "eac00000-e92e-4c72-ac66-81d1b69bd118",
+    "applicableArchitectures": "x64",
+    "@odata.type": "#microsoft.graph.win32MobileAppCatalogPackage"
+  },
+  {
+    "versionDisplayName": "0.102.3001.0",
+    "productId": "0f5e571c-f961-d234-5cb7-35e155cf0187",
+    "locales": [
+      "en-US"
+    ],
+    "branchId": "c3afc41c-bce7-8dec-92cf-36cf62499421",
+    "publisherDisplayName": "Microsoft",
+    "branchDisplayName": "PowerToys (User) (x64)",
+    "packageAutoUpdateCapable": true,
+    "productDescription": null,
+    "productDisplayName": "Microsoft PowerToys",
+    "id": "f0e67a75-f537-bc15-0e88-fd6d0ac596ba",
+    "applicableArchitectures": "x64",
+    "@odata.type": "#microsoft.graph.win32MobileAppCatalogPackage"
+  },
+  {
+    "versionDisplayName": "159.0.1",
+    "productId": "8b831845-d4e8-2b28-1564-35e15589d3b1",
+    "locales": [
+      "ar"
+    ],
+    "branchId": "373fb0ee-1786-745d-d106-36947a7c17c0",
+    "publisherDisplayName": "Mozilla",
+    "branchDisplayName": "Firefox (Arabic) (x64)",
+    "packageAutoUpdateCapable": true,
+    "productDescription": null,
+    "productDisplayName": "Mozilla Firefox",
+    "id": "f788416d-95b1-165c-31b5-c00ba13f5d01",
+    "applicableArchitectures": "x64",
+    "@odata.type": "#microsoft.graph.win32MobileAppCatalogPackage"
+  }
+]

@@ -27,6 +27,11 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Test deployment-details code
+        # Fixture-based and offline; a failure stops the run before it can
+        # publish pages built by a broken parser.
+        run: python .github/scripts/test_details.py
+
       - name: Generate docs
         env:
           # Optional. Set the INDEXNOW_KEY repository secret to pin or rotate
@@ -52,6 +57,18 @@ jobs:
           else
             echo "Only 1 catalog file present, nothing to archive"
           fi
+
+          # Deployment details travel with their export, but each is ~3 MB of
+          # minified JSON, so they are archived gzipped (~0.5 MB); the
+          # generator reads either form. -n leaves the name and mtime out of the
+          # header, so the same file always compresses to the same bytes.
+          latest_ts=$(ls *_AppCatalog.json 2>/dev/null | sort | tail -1 | grep -oE '^[0-9]{8}_[0-9]{6}' || true)
+          for f in *_AppDetails.json; do
+            [ -f "$f" ] || continue
+            [ "${f%%_AppDetails.json}" = "$latest_ts" ] && continue
+            echo "  Archiving details: $f (gzip)"
+            gzip -9 -n -c "$f" > "../archive/$f.gz" && rm "$f"
+          done
 
       - name: Commit and push
         run: |

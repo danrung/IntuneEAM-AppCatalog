@@ -1,0 +1,520 @@
+{
+ "23727f49-f0bb-27e3-2cdb-c9db321e40e8": {
+  "branchId": "c772f548-290f-21bc-e402-3694a738b5ac",
+  "detail": {
+   "allowAvailableUninstall": true,
+   "allowedArchitectures": "x64",
+   "description": "Get Firefox, a free web browser backed by Mozilla, a non-profit dedicated to internet health and privacy. Available now on Windows, Mac, Linux, Android and iOS.",
+   "fileName": "Firefox Setup 159.0.1.exe",
+   "informationUrl": "https://www.mozilla.org/firefox",
+   "installCommandLine": "\"Firefox Setup 159.0.1.exe\" /S /DesktopShortcut=false /PrivateBrowsingShortcut=false /MaintenanceService=false /PreventRebootRequired=false",
+   "installExperience": {
+    "deviceRestartBehavior": "basedOnReturnCode",
+    "inUseBehavior": null,
+    "maxRunTimeInMinutes": 60,
+    "runAsAccount": "system"
+   },
+   "minimumSupportedWindowsRelease": "1607",
+   "privacyInformationUrl": "https://www.mozilla.org/",
+   "returnCodes": [
+    {
+     "returnCode": 0,
+     "type": "success"
+    },
+    {
+     "returnCode": 3010,
+     "type": "softReboot"
+    }
+   ],
+   "rules": [
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppFileSystemRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "159.0.1.587",
+     "fileOrFolderName": "firefox.exe",
+     "operationType": "appVersion",
+     "operator": "greaterThanOrEqual",
+     "path": "%ProgramFiles%\\Mozilla Firefox",
+     "ruleType": "detection"
+    }
+   ],
+   "setupFilePath": "Firefox Setup 159.0.1.exe",
+   "size": 94548884,
+   "uninstallCommandLine": "\"%ProgramFiles%\\Mozilla Firefox\\uninstall\\helper.exe\" -ms"
+  }
+ },
+ "2f0bd408-d2ad-105e-c828-d4c8bc7cf390": {
+  "branchId": "edae85e2-7290-ad18-e6f9-3694a7869667",
+  "detail": {
+   "allowAvailableUninstall": true,
+   "allowedArchitectures": "x64",
+   "description": "Get Firefox, a free web browser backed by Mozilla, a non-profit dedicated to internet health and privacy. Available now on Windows, Mac, Linux, Android and iOS.",
+   "fileName": "Firefox Setup 159.0.1.exe",
+   "informationUrl": "https://www.mozilla.org/firefox",
+   "installCommandLine": "\"Firefox Setup 159.0.1.exe\" /S /DesktopShortcut=false /PrivateBrowsingShortcut=false /MaintenanceService=false /PreventRebootRequired=false",
+   "installExperience": {
+    "deviceRestartBehavior": "basedOnReturnCode",
+    "inUseBehavior": null,
+    "maxRunTimeInMinutes": 60,
+    "runAsAccount": "system"
+   },
+   "minimumSupportedWindowsRelease": "1607",
+   "privacyInformationUrl": "https://www.mozilla.org/",
+   "returnCodes": [
+    {
+     "returnCode": 0,
+     "type": "success"
+    },
+    {
+     "returnCode": 3010,
+     "type": "softReboot"
+    }
+   ],
+   "rules": [
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppFileSystemRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "159.0.1.587",
+     "fileOrFolderName": "firefox.exe",
+     "operationType": "appVersion",
+     "operator": "greaterThanOrEqual",
+     "path": "%ProgramFiles%\\Mozilla Firefox",
+     "ruleType": "detection"
+    }
+   ],
+   "setupFilePath": "Firefox Setup 159.0.1.exe",
+   "size": 94635012,
+   "uninstallCommandLine": "\"%ProgramFiles%\\Mozilla Firefox\\uninstall\\helper.exe\" -ms"
+  }
+ },
+ "beb2e8bd-ae14-14ad-5479-7e9d57ffd5fe": {
+  "branchId": "721b730c-cf41-5ad5-6226-365c7c9531f3",
+  "detail": {
+   "allowAvailableUninstall": true,
+   "allowedArchitectures": "x64",
+   "description": "Download the official Android IDE and developer tools to build apps for Android phones, tablets, wearables, TVs, and more.",
+   "fileName": "android-studio-ide-202.7486908-windows.exe",
+   "informationUrl": "https://developer.android.com/studio",
+   "installCommandLine": "\"android-studio-ide-202.7486908-windows.exe\" /S /NCRC",
+   "installExperience": {
+    "deviceRestartBehavior": "basedOnReturnCode",
+    "inUseBehavior": null,
+    "maxRunTimeInMinutes": 60,
+    "runAsAccount": "system"
+   },
+   "minimumSupportedWindowsRelease": "1607",
+   "privacyInformationUrl": "https://policies.google.com/privacy",
+   "returnCodes": [
+    {
+     "returnCode": 1223,
+     "type": "success"
+    },
+    {
+     "returnCode": 3010,
+     "type": "softReboot"
+    },
+    {
+     "returnCode": 0,
+     "type": "success"
+    }
+   ],
+   "rules": [
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppRegistryRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "4.2",
+     "keyPath": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Android Studio",
+     "operationType": "appVersion",
+     "operator": "greaterThanOrEqual",
+     "ruleType": "detection",
+     "valueName": "DisplayVersion"
+    }
+   ],
+   "setupFilePath": "android-studio-ide-202.7486908-windows.exe",
+   "size": 977126262,
+   "uninstallCommandLine": "\"%ProgramFiles%\\Android\\Android Studio\\uninstall.exe\" /S"
+  }
+ },
+ "c7c23b01-8d1a-4760-6164-5705c7c19e3a": {
+  "branchId": "3fa6cfd1-44e5-46d8-ba55-363cad364e9c",
+  "detail": {
+   "allowAvailableUninstall": true,
+   "allowedArchitectures": "x64",
+   "description": "Create, filter and lookup issues directly in your BIM model.",
+   "fileName": "BCF Manager 6.2 build 16 Tekla2020.msi",
+   "informationUrl": "https://www.bimcollab.com/en/products/bcf-managers",
+   "installCommandLine": "\"%SystemRoot%\\System32\\msiexec.exe\" /i \"BCF Manager 6.2 build 16 Tekla2020.msi\" /qn",
+   "installExperience": {
+    "deviceRestartBehavior": "basedOnReturnCode",
+    "inUseBehavior": null,
+    "maxRunTimeInMinutes": 60,
+    "runAsAccount": "system"
+   },
+   "minimumSupportedWindowsRelease": "1607",
+   "msiInformation": {
+    "packageType": "perMachine",
+    "productCode": "{8A98CFA1-56D9-4AC8-B80A-F72538EC1D20}",
+    "productName": "BCF Manager for Tekla",
+    "productVersion": "6.2.16",
+    "publisher": "KUBUS BV",
+    "requiresReboot": false,
+    "upgradeCode": "{5F19D617-13C6-438C-85AF-4E10DA02C3CF}"
+   },
+   "privacyInformationUrl": "https://www.bimcollab.com/en/terms-conditions/privacy-policy",
+   "returnCodes": [
+    {
+     "returnCode": 0,
+     "type": "success"
+    },
+    {
+     "returnCode": 3010,
+     "type": "softReboot"
+    },
+    {
+     "returnCode": 1618,
+     "type": "retry"
+    },
+    {
+     "returnCode": 1707,
+     "type": "success"
+    }
+   ],
+   "rules": [
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppFileSystemRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "942592",
+     "fileOrFolderName": "BCF LicenseManager.dll",
+     "operationType": "sizeInBytes",
+     "operator": "equal",
+     "path": "%SystemDrive%\\APPDIR\\nt\\bin\\plugins\\tekla\\Model\\BCF Manager",
+     "ruleType": "detection"
+    },
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppFileSystemRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "5.4.6.855",
+     "fileOrFolderName": "BCF LicenseManager.dll",
+     "operationType": "version",
+     "operator": "equal",
+     "path": "%SystemDrive%\\APPDIR\\nt\\bin\\plugins\\tekla\\Model\\BCF Manager",
+     "ruleType": "detection"
+    },
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppRegistryRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "6.2.16",
+     "keyPath": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{8A98CFA1-56D9-4AC8-B80A-F72538EC1D20}",
+     "operationType": "string",
+     "operator": "equal",
+     "ruleType": "detection",
+     "valueName": "DisplayVersion"
+    }
+   ],
+   "setupFilePath": "BCF Manager 6.2 build 16 Tekla2020.msi",
+   "size": 14146750,
+   "uninstallCommandLine": "\"%SystemRoot%\\System32\\msiexec.exe\" /X {8A98CFA1-56D9-4AC8-B80A-F72538EC1D20} /qn"
+  }
+ },
+ "ea15827f-afb5-9d68-283a-20294878ab9b": {
+  "branchId": "7e4c007e-cd74-58f3-d5cf-3694a615280a",
+  "detail": {
+   "allowAvailableUninstall": true,
+   "allowedArchitectures": "x64",
+   "description": "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!",
+   "fileName": "Thunderbird Setup 115.16.3.exe",
+   "informationUrl": "https://www.thunderbird.net",
+   "installCommandLine": "\"Thunderbird Setup 115.16.3.exe\" /S /DesktopShortcut=false /StartMenuShortcut=false /MaintenanceService=false /PreventRebootRequired=false",
+   "installExperience": {
+    "deviceRestartBehavior": "basedOnReturnCode",
+    "inUseBehavior": null,
+    "maxRunTimeInMinutes": 60,
+    "runAsAccount": "system"
+   },
+   "minimumSupportedWindowsRelease": "1607",
+   "privacyInformationUrl": "https://www.mozilla.org/",
+   "returnCodes": [
+    {
+     "returnCode": 0,
+     "type": "success"
+    },
+    {
+     "returnCode": 3010,
+     "type": "softReboot"
+    }
+   ],
+   "rules": [
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppFileSystemRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "115.16.3.0",
+     "fileOrFolderName": "thunderbird.exe",
+     "operationType": "appVersion",
+     "operator": "greaterThanOrEqual",
+     "path": "%ProgramFiles%\\Mozilla Thunderbird",
+     "ruleType": "detection"
+    }
+   ],
+   "setupFilePath": "Thunderbird Setup 115.16.3.exe",
+   "size": 60058654,
+   "uninstallCommandLine": "\"%ProgramFiles%\\Mozilla Thunderbird\\uninstall\\helper.exe\" -ms"
+  }
+ },
+ "eac00000-1a61-4f70-b5c5-177b94c86008": {
+  "branchId": "f6331dea-c40f-d45b-fcaf-378a12e60156",
+  "detail": {
+   "allowAvailableUninstall": true,
+   "allowedArchitectures": "x64",
+   "description": "Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GNU General Public License.",
+   "fileName": "npp.8.9.8.1.Installer.x64.msi",
+   "installCommandLine": "\"%SystemRoot%\\System32\\msiexec.exe\" /i \"npp.8.9.8.1.Installer.x64.msi\" /qn",
+   "installExperience": {
+    "deviceRestartBehavior": "basedOnReturnCode",
+    "inUseBehavior": null,
+    "maxRunTimeInMinutes": 60,
+    "runAsAccount": "system"
+   },
+   "minimumSupportedWindowsRelease": "1607",
+   "msiInformation": {
+    "packageType": "perMachine",
+    "productCode": "{5C6F8543-7EA8-40B9-B78F-04C78300DE7F}",
+    "productName": "Notepad++",
+    "productVersion": "8.9.8.1",
+    "publisher": "Don Ho",
+    "requiresReboot": false,
+    "upgradeCode": "{CDB13460-04DF-4708-A7FD-4CB4A0684605}"
+   },
+   "returnCodes": [
+    {
+     "returnCode": 0,
+     "type": "success"
+    },
+    {
+     "returnCode": 3010,
+     "type": "softReboot"
+    },
+    {
+     "returnCode": 1618,
+     "type": "retry"
+    },
+    {
+     "returnCode": 1707,
+     "type": "success"
+    }
+   ],
+   "rules": [
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppRegistryRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "8.9.8.1",
+     "keyPath": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{5C6F8543-7EA8-40B9-B78F-04C78300DE7F}",
+     "operationType": "string",
+     "operator": "equal",
+     "ruleType": "detection",
+     "valueName": "DisplayVersion"
+    }
+   ],
+   "setupFilePath": "npp.8.9.8.1.Installer.x64.msi",
+   "size": 7835820,
+   "uninstallCommandLine": "\"%SystemRoot%\\System32\\msiexec.exe\" /x {5C6F8543-7EA8-40B9-B78F-04C78300DE7F} /qn"
+  }
+ },
+ "eac00000-3218-40fd-be7b-109f460fc0db": {
+  "branchId": "3da9c2f0-94e7-90b1-01e3-35e155728974",
+  "detail": {
+   "allowAvailableUninstall": true,
+   "allowedArchitectures": "x64",
+   "description": "A file archiver with a high compression ratio.",
+   "fileName": "7z2605-x64.msi",
+   "installCommandLine": "\"%SystemRoot%\\System32\\msiexec.exe\" /i \"7z2605-x64.msi\" /qn",
+   "installExperience": {
+    "deviceRestartBehavior": "basedOnReturnCode",
+    "inUseBehavior": null,
+    "maxRunTimeInMinutes": 60,
+    "runAsAccount": "system"
+   },
+   "minimumSupportedWindowsRelease": "1607",
+   "msiInformation": {
+    "packageType": "perMachine",
+    "productCode": "{23170F69-40C1-2702-2605-000001000000}",
+    "productName": "7-Zip",
+    "productVersion": "26.05",
+    "publisher": "Igor Pavlov",
+    "requiresReboot": false,
+    "upgradeCode": "{23170F69-40C1-2702-0000-000004000000}"
+   },
+   "returnCodes": [
+    {
+     "returnCode": 0,
+     "type": "success"
+    },
+    {
+     "returnCode": 3010,
+     "type": "softReboot"
+    },
+    {
+     "returnCode": 1618,
+     "type": "retry"
+    },
+    {
+     "returnCode": 1707,
+     "type": "success"
+    }
+   ],
+   "rules": [
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppRegistryRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "26.05.00.0",
+     "keyPath": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{23170F69-40C1-2702-2605-000001000000}",
+     "operationType": "string",
+     "operator": "equal",
+     "ruleType": "detection",
+     "valueName": "DisplayVersion"
+    }
+   ],
+   "setupFilePath": "7z2605-x64.msi",
+   "size": 2008718,
+   "uninstallCommandLine": "\"%SystemRoot%\\System32\\msiexec.exe\" /x {23170F69-40C1-2702-2605-000001000000} /qn"
+  }
+ },
+ "eac00000-e92e-4c72-ac66-81d1b69bd118": {
+  "branchId": "9fd4b20e-a3ed-4c9f-3e7b-35e155b72bdd",
+  "detail": {
+   "allowAvailableUninstall": true,
+   "allowedArchitectures": "x64",
+   "description": "Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GNU General Public License.",
+   "fileName": "npp.8.9.8.1.Installer.x64.exe",
+   "installCommandLine": "\"npp.8.9.8.1.Installer.x64.exe\" /S",
+   "installExperience": {
+    "deviceRestartBehavior": "basedOnReturnCode",
+    "inUseBehavior": null,
+    "maxRunTimeInMinutes": 60,
+    "runAsAccount": "system"
+   },
+   "minimumSupportedWindowsRelease": "1607",
+   "msiInformation": {
+    "packageType": "perMachine",
+    "productCode": "",
+    "productName": "Notepad++",
+    "productVersion": "8.9.8.1",
+    "publisher": "Don Ho",
+    "requiresReboot": false,
+    "upgradeCode": ""
+   },
+   "returnCodes": [
+    {
+     "returnCode": 0,
+     "type": "success"
+    },
+    {
+     "returnCode": 3010,
+     "type": "softReboot"
+    }
+   ],
+   "rules": [
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppRegistryRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "8.9.8.1",
+     "keyPath": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Notepad++",
+     "operationType": "string",
+     "operator": "equal",
+     "ruleType": "detection",
+     "valueName": "DisplayVersion"
+    }
+   ],
+   "setupFilePath": "npp.8.9.8.1.Installer.x64.exe",
+   "size": 6963604,
+   "uninstallCommandLine": "\"%ProgramFiles%\\Notepad++\\uninstall.exe\" /S"
+  }
+ },
+ "f0e67a75-f537-bc15-0e88-fd6d0ac596ba": {
+  "branchId": "c3afc41c-bce7-8dec-92cf-36cf62499421",
+  "detail": {
+   "allowAvailableUninstall": true,
+   "allowedArchitectures": "x64",
+   "description": "Windows system utilities to maximize productivity. Contribute to microsoft/PowerToys development by creating an account on GitHub.",
+   "fileName": "PowerToysUserSetup-0.102.3001.0-x64.exe",
+   "informationUrl": "https://github.com/microsoft/PowerToys",
+   "installCommandLine": "\"PowerToysUserSetup-0.102.3001.0-x64.exe\" /passive /quiet /norestart",
+   "installExperience": {
+    "deviceRestartBehavior": "basedOnReturnCode",
+    "inUseBehavior": null,
+    "maxRunTimeInMinutes": 60,
+    "runAsAccount": "user"
+   },
+   "minimumSupportedWindowsRelease": "1607",
+   "privacyInformationUrl": "http://go.microsoft.com/fwlink/?LinkId=521839",
+   "returnCodes": [
+    {
+     "returnCode": 0,
+     "type": "success"
+    },
+    {
+     "returnCode": 3010,
+     "type": "softReboot"
+    }
+   ],
+   "rules": [
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppFileSystemRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "0.102.3001.0",
+     "fileOrFolderName": "PowerToys.exe",
+     "operationType": "appVersion",
+     "operator": "greaterThanOrEqual",
+     "path": "%LocalAppData%\\PowerToys",
+     "ruleType": "detection"
+    }
+   ],
+   "setupFilePath": "PowerToysUserSetup-0.102.3001.0-x64.exe",
+   "size": 323884832,
+   "uninstallCommandLine": "\"PowerToysUserSetup-0.102.3001.0-x64.exe\" /uninstall /quiet"
+  }
+ },
+ "f788416d-95b1-165c-31b5-c00ba13f5d01": {
+  "branchId": "373fb0ee-1786-745d-d106-36947a7c17c0",
+  "detail": {
+   "allowAvailableUninstall": true,
+   "allowedArchitectures": "x64",
+   "description": "Get Firefox, a free web browser backed by Mozilla, a non-profit dedicated to internet health and privacy. Available now on Windows, Mac, Linux, Android and iOS.",
+   "fileName": "Firefox Setup 159.0.1.exe",
+   "informationUrl": "https://www.mozilla.org/firefox",
+   "installCommandLine": "\"Firefox Setup 159.0.1.exe\" /S /DesktopShortcut=false /PrivateBrowsingShortcut=false /MaintenanceService=false /PreventRebootRequired=false",
+   "installExperience": {
+    "deviceRestartBehavior": "basedOnReturnCode",
+    "inUseBehavior": null,
+    "maxRunTimeInMinutes": 60,
+    "runAsAccount": "system"
+   },
+   "minimumSupportedWindowsRelease": "1607",
+   "privacyInformationUrl": "https://www.mozilla.org/",
+   "returnCodes": [
+    {
+     "returnCode": 0,
+     "type": "success"
+    },
+    {
+     "returnCode": 3010,
+     "type": "softReboot"
+    }
+   ],
+   "rules": [
+    {
+     "@odata.type": "#microsoft.graph.win32LobAppFileSystemRule",
+     "check32BitOn64System": false,
+     "comparisonValue": "159.0.1.587",
+     "fileOrFolderName": "firefox.exe",
+     "operationType": "appVersion",
+     "operator": "greaterThanOrEqual",
+     "path": "%ProgramFiles%\\Mozilla Firefox",
+     "ruleType": "detection"
+    }
+   ],
+   "setupFilePath": "Firefox Setup 159.0.1.exe",
+   "size": 95706476,
+   "uninstallCommandLine": "\"%ProgramFiles%\\Mozilla Firefox\\uninstall\\helper.exe\" -ms"
+  }
+ }
+}

@@ -246,6 +246,9 @@ header {
   padding: 0 14px;
   border: none;
   background: none;
+  /* Buttons do not inherit the page font; links do. The home page mixes both
+     since the Quirks link, and the app pages use links only. */
+  font-family: inherit;
   font-size: .875rem;
   font-weight: 500;
   color: var(--text-2);
@@ -1136,6 +1139,168 @@ footer a:hover { color: var(--text-1); }
 .app-howto .howto-more a { color: var(--accent); text-decoration: none; }
 .app-howto .howto-more a:hover { text-decoration: underline; }
 
+/* The vendor's own description, from the deployment template. Set apart from
+   the template lede under it, which is the same sentence on every page. */
+.app-desc {
+  font-size: .9375rem;
+  color: var(--text-1);
+  line-height: 1.6;
+  margin-bottom: 10px;
+  max-width: 62ch;
+}
+
+/* ── Deployment details ──────────────────────────────────────────────────── */
+.deploy-lede { max-width: 72ch; }
+.deploy-facts { margin-bottom: 14px; }
+.deploy-facts .app-fact { flex-basis: 170px; }
+.deploy-cmd {
+  margin-top: 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.deploy-cmd-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 6px 8px 6px 12px;
+  background: var(--surface-2);
+  border-bottom: 1px solid var(--border-soft);
+  font-size: .6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--text-3);
+}
+.deploy-cmd pre {
+  margin: 0;
+  padding: 10px 12px;
+  overflow-x: auto;
+  background: var(--surface);
+}
+.deploy-cmd code {
+  font-family: ui-monospace, 'Cascadia Code', Menlo, monospace;
+  font-size: .8125rem;
+  color: var(--text-1);
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+.copy-btn {
+  font: inherit;
+  font-size: .6875rem;
+  padding: 3px 10px;
+  border: 1px solid var(--border);
+  border-radius: 99px;
+  background: var(--surface);
+  color: var(--text-2);
+  cursor: pointer;
+  text-transform: none;
+  letter-spacing: 0;
+}
+.copy-btn:hover { border-color: var(--accent); color: var(--accent); }
+.copy-btn.is-done { border-color: var(--badge-yes-fg); color: var(--badge-yes-fg); }
+.copy-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.deploy-h {
+  margin: 18px 0 8px;
+  font-size: .6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--text-3);
+}
+.rule-list { list-style: none; margin: 0; padding: 0; }
+.rule-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 8px;
+  padding: 7px 0;
+  border-bottom: 1px solid var(--border-soft);
+  font-size: .8125rem;
+  color: var(--text-2);
+}
+.rule-list li:first-child { padding-top: 0; }
+.rule-list li:last-child { border-bottom: 0; }
+.rule-list code, .quirk-table code {
+  font-family: ui-monospace, 'Cascadia Code', Menlo, monospace;
+  font-size: .75rem;
+  background: var(--surface-3);
+  padding: 1px 5px;
+  border-radius: 3px;
+  color: var(--text-1);
+  word-break: break-all;
+}
+.rule-kind {
+  font-size: .6875rem;
+  font-weight: 600;
+  padding: 1px 7px;
+  border-radius: 4px;
+  background: var(--tag-arch-bg);
+  color: var(--tag-arch-fg);
+}
+.rule-cond { color: var(--text-2); }
+.deploy-note {
+  margin: 8px 0 0;
+  font-size: .8125rem;
+  color: var(--text-3);
+}
+.docs-section p.deploy-note { margin-bottom: 0; font-size: .8125rem; color: var(--text-3); }
+.tag-code { background: var(--tag-bg); color: var(--tag-fg); font-variant-numeric: tabular-nums; }
+.tag-sub { margin-left: 4px; color: var(--text-3); font-weight: 400; }
+
+/* One configuration per branch group when a product ships several. */
+.app-deploy { border-top: 1px solid var(--border-soft); padding: 12px 0; }
+.app-deploy:last-of-type { padding-bottom: 0; }
+.app-deploy summary {
+  cursor: pointer;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 10px;
+  list-style: none;
+  font-size: .875rem;
+  font-weight: 600;
+  color: var(--text-1);
+}
+.app-deploy summary::-webkit-details-marker { display: none; }
+.app-deploy summary::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 5px solid var(--text-4);
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+  transition: transform .15s ease;
+}
+.app-deploy[open] summary::before { transform: rotate(90deg); }
+.app-deploy summary code {
+  font-family: ui-monospace, 'Cascadia Code', Menlo, monospace;
+  font-size: .75rem;
+  font-weight: 500;
+  background: var(--surface-3);
+  padding: 1px 6px;
+  border-radius: 3px;
+}
+.app-deploy .deploy-body { padding-top: 12px; }
+.deploy-name { min-width: 0; }
+
+/* ── Quirks page ─────────────────────────────────────────────────────────── */
+.quirk-toc {
+  list-style: none;
+  margin: 16px 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 6px 20px;
+  font-size: .8125rem;
+}
+.quirk-toc li { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
+.quirk-toc a { color: var(--accent); text-decoration: none; }
+.quirk-toc a:hover { text-decoration: underline; }
+.app-table-wrap .quirk-table tbody td { vertical-align: top; }
+.app-howto .app-table-wrap { margin-top: 12px; }
+
 /* Sideways links to the publisher's other products. */
 .app-siblings { display: flex; flex-wrap: wrap; gap: 8px; }
 .docs-section .app-chip {
@@ -1230,7 +1395,12 @@ footer a:hover { color: var(--text-1); }
     overflow: hidden;
     text-overflow: ellipsis;
   }
-  .topnav-inner  { padding: 0 16px; gap: 0; }
+  /* Five entries since the quirks page; tighter tabs keep them on one line at
+     phone width, and the strip scrolls on its own rather than the page if a
+     narrower screen still runs out of room. */
+  .topnav-inner  { padding: 0 8px; gap: 0; overflow-x: auto; scrollbar-width: none; }
+  .topnav-inner::-webkit-scrollbar { display: none; }
+  .nav-btn       { padding: 0 10px; font-size: .8125rem; flex-shrink: 0; }
   main           { padding: 16px 16px 40px; }
   footer         { padding: 16px; flex-direction: column; text-align: center; }
   .stats-grid    { grid-template-columns: 1fr; }
@@ -1240,6 +1410,7 @@ footer a:hover { color: var(--text-1); }
   .app-history li { flex-direction: column; gap: 2px; }
   .app-history time { flex: none; }
   .app-fact      { flex-basis: 132px; }
+  .deploy-facts .app-fact { flex-basis: 132px; }
 
   /* Data tables: give the remaining columns room and scroll sideways rather
      than crushing eight columns into a phone width. */
