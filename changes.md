@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261105_194941_AppCatalog.json` (exported 2026-11-05 19:49:41)  
-> **vs:** `20261105_134510_AppCatalog.json` (exported 2026-11-05 13:45:10)  
-> **Span:** 6 hours between exports  
-> **Generated:** 2026-11-05 19:50 UTC
+> **Comparing:** `20261106_060656_AppCatalog.json` (exported 2026-11-06 06:06:56)  
+> **vs:** `20261105_194941_AppCatalog.json` (exported 2026-11-05 19:49:41)  
+> **Span:** 10 hours between exports  
+> **Generated:** 2026-11-06 06:07 UTC
 
 ## Summary
 
@@ -11,26 +11,24 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 13 |
+| 🔄 Updated | 11 |
 | 🧩 Repackaged | 0 |
 
-> 22 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 6 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## 🔄 Updated (13 packages)
+## 🔄 Updated (11 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.16.0` | `2026.3.17.0` | Version |
-| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.16.0` | `2026.3.17.0` | Version |
-| draw.io | draw.io Desktop | draw.io Desktop | `32.6.1` | `32.6.10` | Version |
-| FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.80.0` | `3.80.1` | Version |
-| FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (MSI) | `3.80.0` | `3.80.1` | Version |
-| GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.20.3` | `4.21.0` | Version |
-| GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.20.3` | `4.21.0` | Version |
-| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.14.0` | `2.11.15.0` | Version |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `157.0.4341.36` | `158.0.4370.1` | Version |
-| Microsoft | OpenJDK 11 | OpenJDK 11 (x64) | `11.0.32.1` | `11.0.33.10` | Version |
-| Node.js Foundation | Node.js | Node.js 26 LTS (x64) | `26.12.1` | `26.13.0` | Version |
-| Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23360` | `4.38.23483` | Version |
-| SanDisk Corporation | SanDisk Dashboard | SanDisk Dashboard | `5.2.2.3` | `5.3.2.4` | Version |
+| Akiflow | Akiflow | Akiflow | `2.83.8` | `2.85.5` | Version |
+| Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | `4.3.2611.10204` | Version |
+| dRofus | dRofus | dRofus | `2.19.10.0` | `2.19.11.0` | Version |
+| Eclipse Foundation | Eclipse Temurin JDK with Hotspot 8 (LTS) | Eclipse Temurin JDK with Hotspot 8 (LTS) (x64) | `8.0.504.1` | `8.0.512.9` | Version |
+| Eclipse Foundation | Eclipse Temurin JRE with Hotspot 8 (LTS) | Eclipse Temurin JRE with Hotspot 8 (LTS) (x64) | `8.0.504.1` | `8.0.512.9` | Version |
+| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.3.14` | `8.4.19` | Version |
+| Nextcloud | Nextcloud | Nextcloud (x64) | `35.0.2.20261030` | `35.0.3.20261104` | Version |
+| Paessler AG | PRTG Desktop | PRTG Desktop (x64) | `26.2.0` | `26.3.0` | Version |
+| QNAP | QNAP Qsync | QNAP Qsync | `5.1.10.0918` | `6.0.3.0703` | Version |
+| Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | `5.14.0` | Version |
+| VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | `1.26.31` | Version |
 

@@ -1720,6 +1720,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.83.8",
+      "2.85.5",
+      1
+     ]
+    ]
    }
   ],
   "alfaview-gmbh-alfaview": [
@@ -7109,6 +7122,19 @@
      [
       "4.2.2607.10901",
       "4.2.2607.13001",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.2.2607.13001",
+      "4.3.2611.10204",
       1
      ]
     ]
@@ -13289,6 +13315,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.19.10.0",
+      "2.19.11.0",
+      1
+     ]
+    ]
    }
   ],
   "dropbox": [
@@ -13856,6 +13895,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.504.1",
+      "8.0.512.9",
+      1
+     ]
+    ]
    }
   ],
   "eclipse-foundation-eclipse-temurin-jre-with-hotspot-11-lts": [
@@ -14028,6 +14080,19 @@
      [
       "8.0.502.7",
       "8.0.504.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.504.1",
+      "8.0.512.9",
       1
      ]
     ]
@@ -22241,6 +22306,19 @@
      [
       "8.2.16",
       "8.3.14",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.3.14",
+      "8.4.19",
       1
      ]
     ]
@@ -30897,6 +30975,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "35.0.2.20261030",
+      "35.0.3.20261104",
+      1
+     ]
+    ]
    }
   ],
   "nextivaone": [
@@ -32872,6 +32963,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.0",
+      "26.3.0",
+      1
+     ]
+    ]
    }
   ],
   "papercut-software-pty-ltd-papercut-mf": [
@@ -34238,6 +34342,21 @@
      [
       "3.44.13",
       "3.44.15",
+      1
+     ]
+    ]
+   }
+  ],
+  "qnap-qsync": [
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.1.10.0918",
+      "6.0.3.0703",
       1
      ]
     ]
@@ -39761,6 +39880,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.13.0",
+      "5.14.0",
+      1
+     ]
+    ]
    }
   ],
   "ultravnc": [
@@ -40007,6 +40139,19 @@
      [
       "1.26.24",
       "1.26.29",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-06",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.26.29",
+      "1.26.31",
       1
      ]
     ]
@@ -43338,7 +43483,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261105_194941_AppCatalog.json",
+ "history_through": "20261106_060656_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -43347,9 +43492,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "4c5246188efdd9be11062f19b95fd44e332b6645",
-   "hash": "f6589d7c7275185736d174a4e2654f31be69c276",
-   "lastmod": "2026-11-05"
+   "exact": "3861b5b20ced3aaff0ce0b2553a3f9c333098f64",
+   "hash": "c0602a660df161f8c87d510d17fd42113cca349f",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -43437,9 +43582,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/akiflow.html": {
-   "exact": "b73efc0cac4cf14310c3d53eaaa78d30ddd710d8",
-   "hash": "b73efc0cac4cf14310c3d53eaaa78d30ddd710d8",
-   "lastmod": "2026-11-05"
+   "exact": "1c5d723bdf5eb597007ede70d214ac642aa96caf",
+   "hash": "1c5d723bdf5eb597007ede70d214ac642aa96caf",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/alfaview-gmbh-alfaview.html": {
    "exact": "918960686c25e7b6337a9e787b4bcf68e82ce918",
@@ -43982,9 +44127,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/brink-software-b-v-ibis-calculeren-voor-infra.html": {
-   "exact": "d371608b7eaf71f96e507d4369de6e8f879eb90e",
-   "hash": "d371608b7eaf71f96e507d4369de6e8f879eb90e",
-   "lastmod": "2026-11-05"
+   "exact": "1c164265933cbbe5ca989a735a7f3cded7b5ef0e",
+   "hash": "1c164265933cbbe5ca989a735a7f3cded7b5ef0e",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/browserstacklocal.html": {
    "exact": "460f2a0f15891808efc3318e497cac8267461017",
@@ -44447,9 +44592,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/drofus.html": {
-   "exact": "15acde6d46a055d1c41c7297ba3242228432a865",
-   "hash": "15acde6d46a055d1c41c7297ba3242228432a865",
-   "lastmod": "2026-11-05"
+   "exact": "2e90ab881165c4b45bcc3cac650fc875dda797e4",
+   "hash": "2e90ab881165c4b45bcc3cac650fc875dda797e4",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/dropbox.html": {
    "exact": "e8a97ff49bcddf06e12a8f5aaabff4f88f8b15d8",
@@ -44542,9 +44687,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jdk-with-hotspot-8-lts.html": {
-   "exact": "cce176274708f45f1c54b16d92f49cbd928c8357",
-   "hash": "cce176274708f45f1c54b16d92f49cbd928c8357",
-   "lastmod": "2026-11-05"
+   "exact": "4908899ba68067a194a8b40e9c3756d6597631e9",
+   "hash": "4908899ba68067a194a8b40e9c3756d6597631e9",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jre-with-hotspot-11-lts.html": {
    "exact": "8a62b77af992a5f07fc304c0678f1e50736a6f58",
@@ -44597,9 +44742,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jre-with-hotspot-8-lts.html": {
-   "exact": "0ba4c3bb2944f6de36c9c36cb5d6c1b559cf3d5f",
-   "hash": "0ba4c3bb2944f6de36c9c36cb5d6c1b559cf3d5f",
-   "lastmod": "2026-11-05"
+   "exact": "692f8c5b94dede186212382c79cf8f27a6fcdcb5",
+   "hash": "692f8c5b94dede186212382c79cf8f27a6fcdcb5",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/egnyte-inc-egnyte-connect-desktop-app.html": {
    "exact": "677c6fbb33f930ceb231d1ad56abfe70adb03bda",
@@ -45422,9 +45567,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/lark-technologies-pte-ltd-lark-deployment-tool.html": {
-   "exact": "84ce5db4536d622efe175b891a1c650b5835461a",
-   "hash": "84ce5db4536d622efe175b891a1c650b5835461a",
-   "lastmod": "2026-11-05"
+   "exact": "9b03ecf4e6b07189f384b76f3270d54d2c8721a5",
+   "hash": "9b03ecf4e6b07189f384b76f3270d54d2c8721a5",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/lastpass.html": {
    "exact": "01447811238b6a3095fc5c67adac8c92a3e30f4d",
@@ -46307,9 +46452,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/nextcloud.html": {
-   "exact": "1d6cf130514a9d5d790a02449a9321aa21c889f6",
-   "hash": "1d6cf130514a9d5d790a02449a9321aa21c889f6",
-   "lastmod": "2026-11-05"
+   "exact": "6a26a655435909114144343ee03816f531b45b36",
+   "hash": "6a26a655435909114144343ee03816f531b45b36",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/nextivaone.html": {
    "exact": "13d6e00c2df32ef07db0d90c2b0fc40507637964",
@@ -46542,9 +46687,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/paessler-ag-prtg-desktop.html": {
-   "exact": "80407a0f4aaf11d0dfbd6da3d2f4c2bf554f0851",
-   "hash": "80407a0f4aaf11d0dfbd6da3d2f4c2bf554f0851",
-   "lastmod": "2026-11-05"
+   "exact": "87baebbafc57df89e8956cfe42c77c9a6070915a",
+   "hash": "87baebbafc57df89e8956cfe42c77c9a6070915a",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/papercut-software-pty-ltd-papercut-mf.html": {
    "exact": "981cf93fd4ed9850aeed78efcda395d06d7eba32",
@@ -46772,9 +46917,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/qnap-qsync.html": {
-   "exact": "6afbd0d4a0118ff93fa7088932c0fb4c58064b15",
-   "hash": "6afbd0d4a0118ff93fa7088932c0fb4c58064b15",
-   "lastmod": "2026-11-05"
+   "exact": "942eee142e7f004a25c71256c1bc4c89c814168c",
+   "hash": "942eee142e7f004a25c71256c1bc4c89c814168c",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/qoppa-software-pdf-studio-viewer.html": {
    "exact": "576d9956908d5dd35598ddddd3ec43ffb88fa07b",
@@ -46787,9 +46932,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "5ae40ab8e614f70520a4e4645bc257e0e50e4a2e",
-   "hash": "db7bba166dbc1371a991a103fbb0d6a4dc196f61",
-   "lastmod": "2026-11-05"
+   "exact": "f94bdb2e4e713e55d8fe4bdbf258b28c654fe855",
+   "hash": "5707649fb8026e6f9fa5e363eb7a4c84ace96a7b",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -47617,9 +47762,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/ultimaker-cura.html": {
-   "exact": "88795f808b9e3fe197893d3d29fd2acbbcba0b2d",
-   "hash": "88795f808b9e3fe197893d3d29fd2acbbcba0b2d",
-   "lastmod": "2026-11-05"
+   "exact": "3d73c3bf9c8f61d147c1a04e498bc7acc232b2c5",
+   "hash": "3d73c3bf9c8f61d147c1a04e498bc7acc232b2c5",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/ultravnc.html": {
    "exact": "c509622401db3ac987791ff6630a7eb594616f1d",
@@ -47642,9 +47787,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/veracrypt.html": {
-   "exact": "a42acdfd458c9aaed11de4383b289cf1c8e458cc",
-   "hash": "a42acdfd458c9aaed11de4383b289cf1c8e458cc",
-   "lastmod": "2026-11-05"
+   "exact": "4b47a240b02037b6a8cbf6723d728902f1bb7fa9",
+   "hash": "4b47a240b02037b6a8cbf6723d728902f1bb7fa9",
+   "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/vex-robotics-vexcode-iq-3.html": {
    "exact": "2c646c3e341257687710cd3cbe0266f667af48d3",

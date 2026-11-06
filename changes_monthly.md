@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261105_194941_AppCatalog.json` (exported 2026-11-05 19:49:41)  
-> **vs:** `20261006_181224_AppCatalog.json` (exported 2026-10-06 18:12:24)  
+> **Comparing:** `20261106_060656_AppCatalog.json` (exported 2026-11-06 06:06:56)  
+> **vs:** `20261007_052846_AppCatalog.json` (exported 2026-10-07 05:28:46)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-05 19:50 UTC
+> **Generated:** 2026-11-06 06:07 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 398 |
+| 🔄 Updated | 400 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (398 packages)
+## 🔄 Updated (400 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -34,13 +34,13 @@
 | Abacus Research AG | AbaClient | AbaClient (German) | `4.3.1194` | `4.4.1221` | Version |
 | Abacus Research AG | AbaClient | AbaClient (Italian) | `4.3.1194` | `4.4.1221` | Version |
 | Aivar Annamaa | Thonny | Thonny (x64) | `5.0.0` | `5.0.1` | Version |
-| Akiflow | Akiflow | Akiflow | `2.81.8` | `2.83.8` | Version |
+| Akiflow | Akiflow | Akiflow | `2.81.8` | `2.85.5` | Version |
 | alfaview Gmbh | alfaview | alfaview | `9.29.0` | `9.30.5` | Version |
 | Amazon | Amazon AWS VPN Client | AWS VPN Client | `6.2.0` | `6.2.1` | Version |
 | Amazon | Amazon Corretto JDK 11 | Amazon Corretto JDK 11 (x64) | `11.0.32.12.1` | `11.0.33.0.10` | Version |
 | Amazon | Amazon Corretto JDK 17 | Amazon Corretto JDK 17 | `17.0.20.12.1` | `17.0.21.0.11` | Version |
 | Amazon | Amazon Corretto JDK 8 | Amazon Corretto JDK 8 (x64) | `8.504.04.1` | `8.512.09.1` | Version |
-| Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.166.2` | `1.171.0` | Version |
+| Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.167.0` | `1.171.0` | Version |
 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.835.0` | `1.2.896.0` | Version |
 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.46.1` | `1.46.2` | Version |
 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.4.0` | `2.3.0.0` | Version |
@@ -78,12 +78,13 @@
 | Box | Box Drive | Box Drive (x64) | `2.54.169` | `2.55.145` | Version |
 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | `4.30.0.9` | Version |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.96.61` | `1.98.63` | Version |
+| Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | `4.3.2611.10204` | Version |
 | Cake.com Inc. | Clockify | Clockify | `2.3.3` | `2.4.3` | Version |
 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `24.0` | `24.1` | Version |
 | Cisco Systems, Inc. | Cisco Jabber 15 | Cisco Jabber 15 | `15.3.0.61167` | `15.3.1.61358` | Version |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.9.0.35800` | `46.11.0.36194` | Version |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.9.0.35800` | `46.11.0.36194` | Version |
-| Cisco Systems, Inc. | Duo Desktop | Duo Desktop | `7.21.0.0` | `7.23.0.0` | Version |
+| Cisco Systems, Inc. | Duo Desktop | Duo Desktop | `7.22.0.0` | `7.23.0.0` | Version |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.9.0.35800` | `46.11.0.36194` | Version |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.9.0.35800` | `46.11.0.36194` | Version |
 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.4.1` | `2026.6.0` | Version |
@@ -103,26 +104,24 @@
 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.94.0.241994` | `4.98.0.245422` | Version |
 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.9.1` | `26.10.2` | Version |
 | draw.io | draw.io Desktop | draw.io Desktop | `31.7.0` | `32.6.10` | Version |
-| dRofus | dRofus | dRofus | `2.18.17.0` | `2.19.10.0` | Version |
-| Dropbox | Dropbox | Dropbox (x64) (EXE) | `273.4.4708` | `278.4.3944` | Version |
-| Dropbox | Dropbox | Dropbox (x64) (MSI) | `273.4.4708` | `278.4.3944` | Version |
+| dRofus | dRofus | dRofus | `2.18.17.0` | `2.19.11.0` | Version |
+| Dropbox | Dropbox | Dropbox (x64) (EXE) | `274.4.4841` | `278.4.3944` | Version |
+| Dropbox | Dropbox | Dropbox (x64) (MSI) | `274.4.4841` | `278.4.3944` | Version |
 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `8.1.3` | `8.1.6` | Version |
 | Dương Diệu Pháp | ImageGlass | ImageGlass 8 (x64) | `8.11.12.6` | `8.12.4.30` | Version |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.20.101` | `17.0.21.9` | Version |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 21 | Eclipse Temurin JDK with Hotspot 21 (LTS) (x64) | `21.0.12.101` | `21.0.13.9` | Version |
+| Eclipse Foundation | Eclipse Temurin JDK with Hotspot 8 (LTS) | Eclipse Temurin JDK with Hotspot 8 (LTS) (x64) | `8.0.504.1` | `8.0.512.9` | Version |
 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 17 (LTS) | Eclipse Temurin JRE with Hotspot 17 (LTS) (x64) | `17.0.20.101` | `17.0.21.9` | Version |
+| Eclipse Foundation | Eclipse Temurin JRE with Hotspot 8 (LTS) | Eclipse Temurin JRE with Hotspot 8 (LTS) (x64) | `8.0.504.1` | `8.0.512.9` | Version |
 | Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.7.0.205` | `4.8.1.211` | Version |
 | ej-technologies GmbH | JProfiler | JProfiler | `16.2.1` | `16.3` | Version |
-| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 8 | `8.19.22` | `8.19.24` | Version |
-| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 9 | `9.5.4` | `9.5.6` | Version |
+| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 8 | `8.19.23` | `8.19.24` | Version |
+| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 9 | `9.5.5` | `9.5.6` | Version |
 | Elgato | Elgato Stream Deck | Elgato Stream Deck | `7.6.0.23012` | `7.6.1.23033` | Version |
 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.5.2659` | `6.12.8.2751` | Version |
 | EnterpriseDB Corporation | pgAdmin 4 | pgAdmin 4 | `9.18` | `9.19` | Version |
-| EPOS Group A/S | EPOS Connect | EPOS Connect | `8.6.0.52050` | `8.7.0.52713` | Version |
 | Evernote | Evernote | Evernote | `11.37.5` | `11.41.7` | Version |
-| FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.73.179.028` | `2016.74.081.023` | Version |
-| Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 | `13.2.5.24109` | `13.2.7.24160` | Version |
-| Foxit Software | Foxit PDF Editor 13 | Foxit PDF Editor 13 (Multi-Language) | `13.2.6.24111` | `13.2.7.24160` | Version |
 | Foxit Software | Foxit PDF Reader | Foxit PDF Reader (Multi-Language) (x64) (MSI) | `2025.2.0.33046` | `2026.2.1.39815` | Version |
 | Freedom Scientific | Fusion | Fusion 2026 (x64) | `2026.2608.3.400` | `2026.2609.11.400` | Version |
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.77.0` | `3.80.1` | Version |
@@ -153,7 +152,7 @@
 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.11.0` | `2.11.15.0` | Version |
 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.33.58.0` | `2.34.70.0` | Version |
 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.931.2` | `5.4.933.1` | Version |
-| International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.930.2` | `6.0.934.0` | Version |
+| International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.931.2` | `6.0.934.0` | Version |
 | JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.6` | `2025.2.6.1` | Version |
 | JetBrains | DataGrip | DataGrip 2025.3 (x64) | `2025.3.6` | `2025.3.6.1` | Version |
 | JetBrains | DataGrip | DataGrip 2026.1 (x64) | `2026.1.4` | `2026.1.4.1` | Version |
@@ -181,7 +180,7 @@
 | Krisp | Krisp | Krisp 3.x | `3.17.6` | `3.18.3` | Version |
 | Krita Foundation | Krita | Krita (x64) | `5.3.4` | `5.3.4.1` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `12.9.2.4` | `13.0.0.3` | Version |
-| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.1.22` | `8.3.14` | Version |
+| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.1.22` | `8.4.19` | Version |
 | Logitech | Logi Tune | Logi Tune | `3.15.62.0` | `3.15.80.0` | Version |
 | LogMeIn | LogMeIn Client | LogMeIn Client | `1.3.5702` | `1.3.5714` | Version |
 | LogMeIn | LogMeIn Host | LogMeIn Host | `4.1.16226` | `4.1.16248` | Version |
@@ -198,7 +197,7 @@
 | Microsoft | Microsoft Azure Connected Machine Agent | Azure Connected Machine Agent | `1.68.03532.3282` | `1.69.03579.3449` | Version |
 | Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.4.0.41245` | `16.5.0.41350` | Version |
 | Microsoft | Microsoft Azure Storage Explorer | Azure Storage Explorer (x64) | `1.46.0` | `1.47.0` | Version |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `155.0.4283.39` | `158.0.4370.1` | Version |
+| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `156.0.4314.8` | `158.0.4370.1` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `156.0.4301.0` | `159.0.4378.0` | Version |
 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Simplified) (x64) | `18.7.5` | `18.7.6` | Version |
 | Microsoft | Microsoft OLE DB Driver 18 for SQL Server | Microsoft OLE DB Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.5` | `18.7.6` | Version |
@@ -241,53 +240,53 @@
 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.52.0` | `1.53.2` | Version |
 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.52.0` | `1.53.2` | Version |
 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.52.0` | `1.53.2` | Version |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `157.0` | `159.0.1` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `157.0` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `157.0.1` | `159.0.1` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (African) (x64) | `115.42.0` | `115.44.0` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Arabic) (x64) | `115.42.0` | `115.44.0` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Basque) (x64) | `115.42.0` | `115.44.0` | Version |
@@ -338,22 +337,22 @@
 | Nagios Enterprises | NCPA | NCPA (x64) | `3.5.0` | `3.5.1` | Version |
 | NetBird GmbH | NetBird | NetBird | `0.80.0` | `0.82.0` | Version |
 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.4` | `2.0.1` | Version |
-| Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.4.20260916` | `35.0.2.20261030` | Version |
+| Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.5.20261005` | `35.0.3.20261104` | Version |
 | NGWIN | PicPick | PicPick | `7.6.1` | `7.6.2` | Version |
 | NICE Software | Amazon DCV Client | Amazon DCV Client | `25.0.9800.0` | `26.0.14158.0` | Version |
 | Node.js Foundation | Node.js | Node.js 26 LTS (x64) | `26.10.0` | `26.13.0` | Version, Branch |
-| NoMachine | NoMachine Enterprise Desktop | NoMachine Enterprise Desktop (x64) | `10.1.7` | `10.2.3` | Version |
 | NordVPN | NordLayer | NordLayer | `4.0.0.0` | `4.1.0.0` | Version |
 | NV Access Limited | NV Access NVDA | NVDA | `2026.2` | `2026.3` | Version |
-| Obsidian | Obsidian | Obsidian (x64) (Device) | `1.12.4` | `1.15.0` | Version |
+| Obsidian | Obsidian | Obsidian (x64) (Device) | `1.14.4` | `1.15.0` | Version |
 | ocenaudio | ocenaudio | ocenaudio | `3.22.0` | `3.22.2` | Version |
 | Oleg Shparber | Zeal | Zeal (x64) | `0.9.1` | `0.9.2` | Version |
-| openaudible.org | OpenAudible | OpenAudible | `5.0` | `5.2` | Version |
+| openaudible.org | OpenAudible | OpenAudible | `5.0.1` | `5.2` | Version |
 | OpenShot Studios | OpenShot Video Editor | OpenShot Video Editor (x64) | `4.0.1` | `4.1.1` | Version |
 | OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.701` | `2.7.802` | Version |
 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x64) | `8.0.5030.01` | `8.0.5110.33` | Version |
 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x86) | `8.0.5030.01` | `8.0.5110.33` | Version |
 | Oracle | Oracle Java SE Development Kit 17 | Oracle Java SE Development Kit 17 (x64) | `17.0.20.1` | `17.0.21.0.3` | Version |
+| Paessler AG | PRTG Desktop | PRTG Desktop (x64) | `26.2.0` | `26.3.0` | Version |
 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 24.1 | `24.1.10.76610` | `24.1.11.76720` | Version |
 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 26.0 | `26.0.5.76602` | `26.0.6.76873` | Version |
 | PaperCut Software Pty Ltd | PaperCut Mobility Print | Mobility Print | `1.0.4216` | `1.0.4309` | Version |
@@ -370,8 +369,9 @@
 | Proton AG | Proton VPN | Proton VPN (x64) | `5.1.8` | `5.1.9` | Version |
 | PURSLANE | RustDesk | RustDesk | `1.5.0` | `1.5.1` | Version |
 | Python Software Foundation | Python 3.13 | Python 3.13 (x64) | `3.13.16` | `3.13.17` | Version |
+| QNAP | QNAP Qsync | QNAP Qsync | `5.1.10.0918` | `6.0.3.0703` | Version |
 | R Core Team | R for Windows | R for Windows | `4.6.1` | `4.6.2` | Version |
-| Rainmeter | Rainmeter | Rainmeter | `4.5.26.3894` | `4.5.28.3936` | Version |
+| Rainmeter | Rainmeter | Rainmeter | `4.5.27.3934` | `4.5.28.3936` | Version |
 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23360` | `4.38.23483` | Version |
 | Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.17.4` | `4.19.0` | Version |
 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.152.14` | `2.156.8` | Version |
@@ -384,7 +384,7 @@
 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.33.58.0` | `2.34.70.0` | Version |
 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.8.8` | `12.11.12.2` | Version |
 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.9.9` | `12.11.12.2` | Version |
-| SideQuest | SideQuest | SideQuest | `1.3.1` | `1.4.2` | Version |
+| SideQuest | SideQuest | SideQuest | `1.4.0` | `1.4.2` | Version |
 | Skymatic GmbH | Cryptomator | Cryptomator | `1.19.3.6495` | `1.19.6.6588` | Version |
 | Slido | Slido | Slido | `1.23.0` | `1.23.3` | Version |
 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3331.0` | `10.0.3334.0` | Version |
@@ -402,10 +402,12 @@
 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.5` | `8.4.8` | Version |
 | The Git Development Community | Git | Git (x64) | `2.56.0.1` | `2.56.0.4` | Version |
 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58.2` | `2.16.60` | Version |
-| TightVNC | TightVNC | TightVNC 2 (x64) | `2.8.89.0` | `2.8.90.0` | Version, Branch |
+| TightVNC | TightVNC | TightVNC 2 (x64) | `2.8.90.0` | `2.8.90.0` | Branch |
 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.32.0.827` | `1.33.1.841` | Version |
+| Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | `5.14.0` | Version |
 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.3.0` | `1.8.3.1` | Version |
 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.0` | `1.8.3.1` | Version |
+| VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | `1.26.31` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1162` | `9.2.1286` | Version |
 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1167` | `9.2.1286` | Version |
 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.135.06055` | `1.143.17232` | Version |
@@ -415,7 +417,7 @@
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.7.3.381` | `2.8.1.411` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (EXE) | `4.7.3` | `4.7.4` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (MSI) | `4.7.3` | `4.7.4` | Version |
-| XnSoft | XnSoft XnConvert | XnConvert (x64) | `1.116.0` | `1.118.0` | Version |
+| XnSoft | XnSoft XnConvert | XnConvert (x64) | `1.117.0` | `1.118.0` | Version |
 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.12.1.0` | `1.12.2.0` | Version |
 | Zandar Labs SL | Aptakube | Aptakube | `1.21.2` | `1.22.3` | Version |
 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.1.7` | `7.2.0` | Version |
