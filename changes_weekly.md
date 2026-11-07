@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261107_053802_AppCatalog.json` (exported 2026-11-07 05:38:02)  
-> **vs:** `20261031_050350_AppCatalog.json` (exported 2026-10-31 05:03:50)  
+> **Comparing:** `20261107_174239_AppCatalog.json` (exported 2026-11-07 17:42:39)  
+> **vs:** `20261031_170715_AppCatalog.json` (exported 2026-10-31 17:07:15)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-07 05:38 UTC
+> **Generated:** 2026-11-07 17:43 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 177 |
+| 🔄 Updated | 176 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (177 packages)
+## 🔄 Updated (176 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -107,7 +107,6 @@
 | Meta Platforms, Inc. | Meta VR Developer Hub | Meta VR Developer Hub | `6.4.1` | `6.4.1` | App Name, Branch |
 | Microsoft | Microsoft Azure CLI | Azure CLI (x64) | `2.91.0` | `2.92.0` | Version |
 | Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.4.0.41245` | `16.5.0.41350` | Version |
-| Microsoft | Microsoft Azure Storage Explorer | Azure Storage Explorer (x64) | `1.46.0` | `1.47.0` | Version |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `157.0.4341.24` | `158.0.4370.1` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `158.0.4357.0` | `159.0.4378.0` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.189.0928.0009` | `26.195.1006.0007` | Version |
@@ -169,7 +168,7 @@
 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.14.4` | `1.15.0` | Version |
 | ocenaudio | ocenaudio | ocenaudio | `3.22.1` | `3.22.2` | Version |
 | Oleg Shparber | Zeal | Zeal (x64) | `0.9.1` | `0.9.2` | Version |
-| openaudible.org | OpenAudible | OpenAudible | `5.1` | `5.2` | Version |
+| openaudible.org | OpenAudible | OpenAudible | `5.1.1` | `5.2` | Version |
 | OpenShot Studios | OpenShot Video Editor | OpenShot Video Editor (x64) | `4.0.1` | `4.1.1` | Version |
 | OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.802` | `2.7.901` | Version |
 | Paessler AG | PRTG Desktop | PRTG Desktop (x64) | `26.2.0` | `26.3.0` | Version |
@@ -185,7 +184,7 @@
 | secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.5` | `8.0.0.7` | Version |
 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.33.58.0` | `2.34.70.0` | Version |
 | Siber Systems Inc | RoboForm | RoboForm | `9.9.4.6` | `10.0.3.3` | Version |
-| Slido | Slido | Slido | `1.23.1` | `1.23.3` | Version |
+| Slido | Slido | Slido | `1.23.2` | `1.23.3` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.9` | `6.0.10` | Version |
 | SUSE | Rancher Desktop | Rancher Desktop | `1.24.0` | `1.25.0` | Version |
 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.104.4` | `1.104.5` | Version |
