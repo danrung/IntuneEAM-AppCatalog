@@ -16456,6 +16456,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.32.0",
+      "11.33.0",
+      1
+     ]
+    ]
    }
   ],
   "general-workings-inc-general-workings-streamlabs-obs": [
@@ -26718,6 +26731,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.102.3001.0",
+      "0.102.3101.0",
+      2
+     ]
+    ]
    }
   ],
   "microsoft-purview-information-protection-client": [
@@ -28376,6 +28402,19 @@
      [
       "1.145.0",
       "1.145.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.145.1",
+      "1.145.2",
       1
      ]
     ]
@@ -36180,6 +36219,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.0.6",
+      "8.0.0.7",
+      1
+     ]
+    ]
    }
   ],
   "sejda-bv-sejda-pdf-desktop": [
@@ -40290,6 +40342,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-07",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.8.3.1",
+      "1.8.3.2",
+      2
+     ]
+    ]
    }
   ],
   "varicad": [
@@ -43782,7 +43847,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261106_191356_AppCatalog.json",
+ "history_through": "20261107_053802_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -43791,9 +43856,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "a432f8f55182109f1846beb66c685e10e6e7c277",
-   "hash": "affdd47bf235305f2fa3b07d0a594e5cec979e9b",
-   "lastmod": "2026-11-06"
+   "exact": "c2a203d1c868d2a950731a52183d74d3ea5326b1",
+   "hash": "b644fed7ffba451d2fa3c2e406c815a89b4e200b",
+   "lastmod": "2026-11-07"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -45311,9 +45376,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/geek-software-gmbh-pdf24-creator.html": {
-   "exact": "49fd54d23b7e3140c4533efb4226539576961bd8",
-   "hash": "49fd54d23b7e3140c4533efb4226539576961bd8",
-   "lastmod": "2026-11-05"
+   "exact": "3004bbaffc60c91f75b5b8126e70f73215257118",
+   "hash": "3004bbaffc60c91f75b5b8126e70f73215257118",
+   "lastmod": "2026-11-07"
   },
   "https://eam.drung.dev/apps/general-workings-inc-general-workings-streamlabs-obs.html": {
    "exact": "029fbd4e3ec52cd991a747a3a3aefa4fd9e2f822",
@@ -46381,9 +46446,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-powertoys.html": {
-   "exact": "c0badef7a5848cb4ce85de3514831728cf1f000c",
-   "hash": "c0badef7a5848cb4ce85de3514831728cf1f000c",
-   "lastmod": "2026-11-05"
+   "exact": "b06c749bcf756fed894b2fbd7474093566f301f5",
+   "hash": "b06c749bcf756fed894b2fbd7474093566f301f5",
+   "lastmod": "2026-11-07"
   },
   "https://eam.drung.dev/apps/microsoft-purview-information-protection-client.html": {
    "exact": "bf62fcf554827dd723149f5b03492e68cbf6d6c2",
@@ -46526,9 +46591,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "83a1a4758d255417c2e11dcbc7a1572cf1658d44",
-   "hash": "83a1a4758d255417c2e11dcbc7a1572cf1658d44",
-   "lastmod": "2026-11-06"
+   "exact": "cfb71709aaddacdedc02ee628ea7d886baba9374",
+   "hash": "cfb71709aaddacdedc02ee628ea7d886baba9374",
+   "lastmod": "2026-11-07"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "14faea75cf5e806f9ccc83055172c8e578f5b85a",
@@ -47231,9 +47296,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "4a1ebb8c2daf4bed5590bc38b95fb9ba05b968e0",
-   "hash": "3e676a69c880020f9d0e5e6fe1d07f7dcd602bb1",
-   "lastmod": "2026-11-06"
+   "exact": "3388c5a2f098e8fcfbc772ad068a0eaadb9fd315",
+   "hash": "8d6697ca94b697c379e8c612164d5c8cbb9b5d9d",
+   "lastmod": "2026-11-07"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -47391,9 +47456,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/secrypt-mgbh-digiseal-reader.html": {
-   "exact": "08d5656f163016e9797dbe2f1d58e3b33d041b0f",
-   "hash": "08d5656f163016e9797dbe2f1d58e3b33d041b0f",
-   "lastmod": "2026-11-05"
+   "exact": "074d2898e440f8ae4351da932fc57882385b5c23",
+   "hash": "074d2898e440f8ae4351da932fc57882385b5c23",
+   "lastmod": "2026-11-07"
   },
   "https://eam.drung.dev/apps/sejda-bv-sejda-pdf-desktop.html": {
    "exact": "4bc0a752ed80fcfa036138f8fd01651b745c864d",
@@ -48066,9 +48131,9 @@
    "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/ultravnc.html": {
-   "exact": "c509622401db3ac987791ff6630a7eb594616f1d",
-   "hash": "c509622401db3ac987791ff6630a7eb594616f1d",
-   "lastmod": "2026-11-05"
+   "exact": "83830ea58fb11ef2864084757c7a4bf014b85b46",
+   "hash": "83830ea58fb11ef2864084757c7a4bf014b85b46",
+   "lastmod": "2026-11-07"
   },
   "https://eam.drung.dev/apps/unity-technologies-aps-unity-hub.html": {
    "exact": "c31a792146da3c80028879722e133043c0ec47fb",
