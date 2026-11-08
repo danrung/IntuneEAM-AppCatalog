@@ -43847,7 +43847,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261107_174239_AppCatalog.json",
+ "history_through": "20261108_053952_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -43856,7 +43856,7 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "d2418d449e836cdbbc0eef3e426baa2607716f53",
+   "exact": "dfc316a8b0aab2a99ffc56ca5ab9b306a7c27d06",
    "hash": "b644fed7ffba451d2fa3c2e406c815a89b4e200b",
    "lastmod": "2026-11-07"
   },
@@ -47296,7 +47296,7 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "eb6ed01b80660f79c387dcd879724bbc13dcb9b7",
+   "exact": "5301b1a3630fa5977b0e96587716e8da1b18672e",
    "hash": "8d6697ca94b697c379e8c612164d5c8cbb9b5d9d",
    "lastmod": "2026-11-07"
   },
