@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261108_053952_AppCatalog.json` (exported 2026-11-08 05:39:52)  
-> **vs:** `20261101_053515_AppCatalog.json` (exported 2026-11-01 05:35:15)  
+> **Comparing:** `20261108_175316_AppCatalog.json` (exported 2026-11-08 17:53:16)  
+> **vs:** `20261101_175012_AppCatalog.json` (exported 2026-11-01 17:50:12)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-08 05:40 UTC
+> **Generated:** 2026-11-08 17:53 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 176 |
+| 🔄 Updated | 177 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (176 packages)
+## 🔄 Updated (177 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -75,6 +75,7 @@
 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.31.1` | `11.33.0` | Version |
 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.22.2` | `1.22.4` | Version |
 | Gephi | Gephi | Gephi (x64) | `0.11.3` | `0.11.4` | Version |
+| GIMP | GIMP | GIMP | `3.2.6.0` | `3.2.8.0` | Version |
 | GN Audio AS | Jabra Direct | Jabra Direct | `8.3.26701` | `8.4.30601` | Version |
 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `154.0.8037.40` | `157.0.8103.41` | Version |
 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `156.0.8078.48` | `157.0.8103.39` | Version |

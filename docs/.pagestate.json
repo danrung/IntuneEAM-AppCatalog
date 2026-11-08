@@ -16982,6 +16982,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-08",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.2.6.0",
+      "3.2.8.0",
+      1
+     ]
+    ]
    }
   ],
   "github-inc-github-cli": [
@@ -43847,7 +43860,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261108_053952_AppCatalog.json",
+ "history_through": "20261108_175316_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -43856,9 +43869,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "dfc316a8b0aab2a99ffc56ca5ab9b306a7c27d06",
-   "hash": "b644fed7ffba451d2fa3c2e406c815a89b4e200b",
-   "lastmod": "2026-11-07"
+   "exact": "e73e8538b6c927cce889cacc42f870e848b5b5b4",
+   "hash": "d5b6a5cce417253f6b38891d7c9689e1a158eb47",
+   "lastmod": "2026-11-08"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -45411,9 +45424,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/gimp.html": {
-   "exact": "756dd9abc687cf50ff1e9fec74563f3ce6300959",
-   "hash": "756dd9abc687cf50ff1e9fec74563f3ce6300959",
-   "lastmod": "2026-11-05"
+   "exact": "4147ed17abc499568d450e9f733aaab2861c427f",
+   "hash": "4147ed17abc499568d450e9f733aaab2861c427f",
+   "lastmod": "2026-11-08"
   },
   "https://eam.drung.dev/apps/github-inc-github-cli.html": {
    "exact": "3d906858ccf1cfdb39f0ec60794d6108c8b7cf81",
@@ -47296,7 +47309,7 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "5301b1a3630fa5977b0e96587716e8da1b18672e",
+   "exact": "7d7dbb21bf8adff1153ad2a44ecfc8c30005f1a0",
    "hash": "8d6697ca94b697c379e8c612164d5c8cbb9b5d9d",
    "lastmod": "2026-11-07"
   },

@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261108_053952_AppCatalog.json` (exported 2026-11-08 05:39:52)  
-> **vs:** `20261008_184403_AppCatalog.json` (exported 2026-10-08 18:44:03)  
+> **Comparing:** `20261108_175316_AppCatalog.json` (exported 2026-11-08 17:53:16)  
+> **vs:** `20261009_054139_AppCatalog.json` (exported 2026-10-09 05:41:39)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-08 05:40 UTC
+> **Generated:** 2026-11-08 17:53 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 406 |
+| 🔄 Updated | 403 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (406 packages)
+## 🔄 Updated (403 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -33,7 +33,7 @@
 | Abacus Research AG | AbaClient | AbaClient (German) | `4.3.1194` | `4.4.1221` | Version |
 | Abacus Research AG | AbaClient | AbaClient (Italian) | `4.3.1194` | `4.4.1221` | Version |
 | Aivar Annamaa | Thonny | Thonny (x64) | `5.0.0` | `5.0.1` | Version |
-| Akiflow | Akiflow | Akiflow | `2.81.8` | `2.85.5` | Version |
+| Akiflow | Akiflow | Akiflow | `2.83.8` | `2.85.5` | Version |
 | alfaview Gmbh | alfaview | alfaview | `9.29.0` | `9.30.5` | Version |
 | Amazon | Amazon AWS VPN Client | AWS VPN Client | `6.2.0` | `6.2.1` | Version |
 | Amazon | Amazon Corretto JDK 11 | Amazon Corretto JDK 11 (x64) | `11.0.32.12.1` | `11.0.33.0.10` | Version |
@@ -80,7 +80,6 @@
 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | `4.3.2611.10204` | Version |
 | Cake.com Inc. | Clockify | Clockify | `2.3.4` | `2.4.3` | Version |
 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `24.0` | `24.1` | Version |
-| Cisco Systems, Inc. | Cisco Jabber 15 | Cisco Jabber 15 | `15.3.0.61167` | `15.3.1.61358` | Version |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Localized) (x64) | `46.9.0.35800` | `46.11.0.36194` | Version |
 | Cisco Systems, Inc. | Cisco Webex Teams | Webex Teams (Non Localized) (x64) | `46.9.0.35800` | `46.11.0.36194` | Version |
 | Cisco Systems, Inc. | Duo Desktop | Duo Desktop | `7.22.0.0` | `7.23.0.0` | Version |
@@ -90,7 +89,7 @@
 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.8.2100.0` | `26.8.2115.0` | Version |
 | Cockos Incorporated | REAPER | REAPER (x64) | `7.82` | `7.85` | Version |
 | Code Sector | TeraCopy for Windows | TeraCopy for Windows | `4.0.3.2` | `4.0.5` | Version |
-| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9776.32395` | `7.1.9805.43087` | Version |
+| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9776.39015` | `7.1.9805.43087` | Version |
 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `3.01` | `3.02` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.84.2` | `7.85.1` | Version |
 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.4.45528` | `9.6.0.46406` | Version |
@@ -98,7 +97,7 @@
 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.2.0` | `26.2.0.1` | Version |
 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.2.0` | `26.2.0.1` | Version |
 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.2.0` | `26.2.0.1` | Version |
-| DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.3` | `26.2.5` | Version |
+| DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.4` | `26.2.5` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.3.10.0` | `2026.3.16.0` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.12.0` | `2026.3.17.0` | Version |
 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.12.0` | `2026.3.17.0` | Version |
@@ -130,11 +129,12 @@
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.77.0` | `3.80.1` | Version |
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (MSI) | `3.77.0` | `3.80.1` | Version |
 | Garden Gnome GmbH | Garden Gnome Package Viewer | Garden Gnome Package Viewer | `1.6.1` | `2.0.0` | Version |
-| geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.31.0` | `11.33.0` | Version |
+| geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.31.1` | `11.33.0` | Version |
 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.21.9` | `1.22.4` | Version |
 | Genesys | Genesys Cloud | Genesys Cloud (x64) | `2.55.931` | `2.56.933` | Version |
 | Genesys | Genesys Cloud Background Assistant | Genesys Cloud Background Assistant (x64) | `1.7.481` | `1.7.488` | Version |
 | Gephi | Gephi | Gephi (x64) | `0.11.3` | `0.11.4` | Version |
+| GIMP | GIMP | GIMP | `3.2.6.0` | `3.2.8.0` | Version |
 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.102.0` | `2.103.3` | Version |
 | GN Audio AS | Jabra Direct | Jabra Direct | `8.3.26701` | `8.4.30601` | Version |
 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `154.0.8037.40` | `157.0.8103.41` | Version |
@@ -239,7 +239,6 @@
 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.10.51501` | `2026.10.261408` | Version |
 | MochaSoft Aps | Mocha TN3812 | Mocha TN3812 | `1.5` | `1.6.1` | Version |
 | MochaSoft Aps | Mocha TN5250 | Mocha TN5250 | `4.3` | `4.4` | Version |
-| monday.com Ltd | monday | monday | `1.0.45.0` | `1.0.46.0` | Version |
 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.52.0` | `1.53.2` | Version |
 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.52.0` | `1.53.2` | Version |
 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.52.0` | `1.53.2` | Version |
@@ -361,7 +360,6 @@
 | PaperCut Software Pty Ltd | PaperCut Mobility Print | Mobility Print | `1.0.4216` | `1.0.4309` | Version |
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 24.1 | `24.1.10.76611` | `24.1.11.76721` | Version |
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 26.0 | `26.0.5.76603` | `26.0.6.76874` | Version |
-| Password Safe | Password Safe 3 | Password Safe 3 (x64) | `3.72.2` | `3.73.0` | Version |
 | PDF-XChange Co Ltd | PDF-Tools | PDF-Tools 11 (x64) | `11.1.0.0` | `11.1.1.0` | Version |
 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 11 (x64) | `11.1.0.0` | `11.1.1.0` | Version |
 | PDFgear | PDFgear | PDFgear | `2.1.20` | `3.0.1` | Version |
@@ -395,7 +393,6 @@
 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3331.0` | `10.0.3334.0` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.6` | `6.0.10` | Version |
 | Softland | Softland doPDF | doPDF | `11.9.530` | `11.9.532` | Version |
-| SonicWall | SonicWall Connect Tunnel | SonicWall Connect Tunnel (x64) | `12.5.0.247` | `12.5.0.1108` | Version |
 | Squirrels | Squirrels Reflector 4 | Reflector 4 (x64) | `4.1.2` | `4.1.3` | Version |
 | SURF | SURF eduVPN Client | eduVPN Client (Neutral) (EXE) | `4.6.2.0` | `4.6.3.0` | Version |
 | SURF | SURF eduVPN Client | eduVPN Client (x64) | `4.6.2` | `4.6.3` | Version |
