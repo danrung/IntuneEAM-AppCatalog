@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261108_175316_AppCatalog.json` (exported 2026-11-08 17:53:16)  
-> **vs:** `20261009_054139_AppCatalog.json` (exported 2026-10-09 05:41:39)  
+> **Comparing:** `20261109_054956_AppCatalog.json` (exported 2026-11-09 05:49:56)  
+> **vs:** `20261010_052509_AppCatalog.json` (exported 2026-10-10 05:25:09)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-08 17:53 UTC
+> **Generated:** 2026-11-09 05:50 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 403 |
+| 🔄 Updated | 402 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (403 packages)
+## 🔄 Updated (402 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -43,7 +43,7 @@
 | Amazon Web Services | AWS Session Manager Plugin | AWS Session Manager Plugin | `1.2.835.0` | `1.2.896.0` | Version |
 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.46.1` | `1.46.3` | Version |
 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.4.0` | `2.3.0.0` | Version |
-| Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.34.1.2887` | `5.36.0.3628` | Version |
+| Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.35.0.3249` | `5.36.0.3628` | Version |
 | Andrew Ziem | BleachBit | BleachBit | `6.0.2` | `6.0.6` | Version |
 | Ansgar Becker | HeidiSQL | HeidiSQL | `12.21.0.7344` | `12.22.0.7382` | Version |
 | Articulate | Articulate 360 | Articulate 360 (EXE) | `1.127.38181.0` | `1.129.38633.0` | Version |
@@ -89,7 +89,7 @@
 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.8.2100.0` | `26.8.2115.0` | Version |
 | Cockos Incorporated | REAPER | REAPER (x64) | `7.82` | `7.85` | Version |
 | Code Sector | TeraCopy for Windows | TeraCopy for Windows | `4.0.3.2` | `4.0.5` | Version |
-| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9776.39015` | `7.1.9805.43087` | Version |
+| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9779.1158` | `7.1.9805.43087` | Version |
 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `3.01` | `3.02` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.84.2` | `7.85.1` | Version |
 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.4.45528` | `9.6.0.46406` | Version |
@@ -99,8 +99,8 @@
 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.2.0` | `26.2.0.1` | Version |
 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.4` | `26.2.5` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.3.10.0` | `2026.3.16.0` | Version |
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.12.0` | `2026.3.17.0` | Version |
-| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.12.0` | `2026.3.17.0` | Version |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.13.0` | `2026.3.17.0` | Version |
+| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.13.0` | `2026.3.17.0` | Version |
 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.4.2` | `2.5.0` | Version |
 | dnGrep | dnGrep | dnGrep (x64) | `5.0.57.0` | `5.0.65.0` | Version |
 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.94.0.241994` | `4.98.0.245422` | Version |
@@ -179,7 +179,7 @@
 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.13.2` | `5.14.2` | Version |
 | KeePassXC | KeePassXC | KeePassXC (x64) | `2.7.12` | `2.8.0` | Version |
 | Keeper | Keeper | Keeper | `18.6.4.0` | `18.6.6.0` | Version |
-| Kovid Goyal | Calibre | Calibre (x64) | `9.15.0` | `9.18.0` | Version |
+| Kovid Goyal | Calibre | Calibre (x64) | `9.16.0` | `9.18.0` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.17.6` | `3.18.3` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `12.9.2.4` | `13.0.0.3` | Version |
 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.1.22` | `8.4.19` | Version |
@@ -195,7 +195,6 @@
 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.15.2` | `4.16.0` | Version |
 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2526.42109` | `8.4.2726.52306` | Version |
 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.318` | `9.0.320` | Version |
-| Microsoft | Microsoft Analysis Services OLE DB Provider | Microsoft Analysis Services OLE DB Provider (x64) | `18.0.291.0` | `18.0.326.0` | Version |
 | Microsoft | Microsoft Azure CLI | Azure CLI (x64) | `2.91.0` | `2.92.0` | Version |
 | Microsoft | Microsoft Azure Connected Machine Agent | Azure Connected Machine Agent | `1.68.03532.3282` | `1.69.03579.3449` | Version |
 | Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.4.0.41245` | `16.5.0.41350` | Version |
@@ -375,7 +374,7 @@
 | Rainmeter | Rainmeter | Rainmeter | `4.5.27.3934` | `4.5.28.3936` | Version |
 | Rakuten Kobo Inc. | Kobo | Kobo | `4.38.23360` | `4.38.23483` | Version |
 | RingCentral | RingCentral App | RingCentral App (x64) | `26.3.3012.1855` | `26.4.1012.1904` | Version |
-| Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.17.4` | `4.19.1` | Version |
+| Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.18.0` | `4.19.1` | Version |
 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.153.5` | `2.156.8` | Version |
 | SanDisk Corporation | SanDisk Dashboard | SanDisk Dashboard | `5.2.2.3` | `5.3.2.4` | Version |
 | ScaleFT | ScaleFT | ScaleFT | `1.115.0` | `1.117.2` | Version |

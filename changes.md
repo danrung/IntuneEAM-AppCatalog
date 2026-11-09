@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261108_175316_AppCatalog.json` (exported 2026-11-08 17:53:16)  
-> **vs:** `20261108_053952_AppCatalog.json` (exported 2026-11-08 05:39:52)  
-> **Span:** 12 hours between exports  
-> **Generated:** 2026-11-08 17:53 UTC
+> **Comparing:** `20261109_054956_AppCatalog.json` (exported 2026-11-09 05:49:56)  
+> **vs:** `20261108_175316_AppCatalog.json` (exported 2026-11-08 17:53:16)  
+> **Span:** 11 hours between exports  
+> **Generated:** 2026-11-09 05:50 UTC
 
 ## Summary
 
@@ -11,14 +11,10 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 1 |
+| 🔄 Updated | 0 |
 | 🧩 Repackaged | 0 |
 
-> 91 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 20 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## 🔄 Updated (1 packages)
-
-| Publisher | App | Branch | Previous Version | New Version | Changed |
-|-----------|-----|--------|:---------------:|:-----------:|---------|
-| GIMP | GIMP | GIMP | `3.2.6.0` | `3.2.8.0` | Version |
+> No changes detected between these two catalog exports.
 
