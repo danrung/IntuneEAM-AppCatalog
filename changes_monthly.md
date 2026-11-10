@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261109_221416_AppCatalog.json` (exported 2026-11-09 22:14:16)  
-> **vs:** `20261010_171330_AppCatalog.json` (exported 2026-10-10 17:13:30)  
+> **Comparing:** `20261110_065638_AppCatalog.json` (exported 2026-11-10 06:56:38)  
+> **vs:** `20261011_051809_AppCatalog.json` (exported 2026-10-11 05:18:09)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-09 22:14 UTC
+> **Generated:** 2026-11-10 06:57 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 407 |
+| 🔄 Updated | 409 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (407 packages)
+## 🔄 Updated (409 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -105,6 +105,8 @@
 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.4.2` | `2.5.0` | Version |
 | dnGrep | dnGrep | dnGrep (x64) | `5.0.57.0` | `5.0.65.0` | Version |
 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.94.0.241994` | `4.98.0.245422` | Version |
+| Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8.1` | `8.9.9` | Version |
+| Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8.1` | `8.9.9` | Version |
 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.9.1` | `26.11.0` | Version |
 | draw.io | draw.io Desktop | draw.io Desktop | `31.7.0` | `32.6.10` | Version |
 | dRofus | dRofus | dRofus | `2.18.17.0` | `2.19.12.0` | Version |
@@ -154,7 +156,7 @@
 | Ideamerit s.r.o. | Meteor Modeler | Meteor Modeler | `13.6.0` | `13.7.0` | Version |
 | IDM Computer Solutions | UEStudio | UEStudio | `26.0.23` | `26.1.27` | Version |
 | IDM Computer Solutions | UltraFinder | UltraFinder | `24.0.17` | `26.0.9` | Version |
-| Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.04` | `26.05` | Version |
+| Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.04` | `26.06` | Version |
 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.11.0` | `2.11.15.0` | Version |
 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.33.58.0` | `2.34.70.0` | Version |
 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.931.2` | `5.4.933.1` | Version |

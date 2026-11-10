@@ -12724,6 +12724,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.9.8.1",
+      "8.9.9",
+      2
+     ]
+    ]
    }
   ],
   "draftable-desktop": [
@@ -19247,6 +19260,19 @@
      [
       "26.04",
       "26.05",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.05",
+      "26.06",
       1
      ]
     ]
@@ -44211,7 +44237,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261109_221416_AppCatalog.json",
+ "history_through": "20261110_065638_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -44220,9 +44246,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "25de2407f82c99b63d5870997fa446ae708531da",
-   "hash": "1f05d3ccd1ae22b49b4c47cd4ee480461ab71721",
-   "lastmod": "2026-11-09"
+   "exact": "9b04ce4ec4c09d8c328ea4f3943120c9372439a2",
+   "hash": "f531f04d6b4d3c6dac3fb44cce29d1c7a862a813",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -45300,9 +45326,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/don-ho-notepad.html": {
-   "exact": "50434314d7e0e33b79aef309f08de329995c05a6",
-   "hash": "50434314d7e0e33b79aef309f08de329995c05a6",
-   "lastmod": "2026-11-05"
+   "exact": "3f6d637b15bb9b26a72b589eac2e7268f582d04e",
+   "hash": "3f6d637b15bb9b26a72b589eac2e7268f582d04e",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/doxim-llc-striata-reader.html": {
    "exact": "ac53d4ece4503bd918ca637ac89a5106f78555cf",
@@ -45985,9 +46011,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/igor-pavlov-7-zip.html": {
-   "exact": "dd054f3b04a0a28fc1bc3e668fbdc151d11481e7",
-   "hash": "dd054f3b04a0a28fc1bc3e668fbdc151d11481e7",
-   "lastmod": "2026-11-05"
+   "exact": "f8bd5eab3e84a617351b79c7f1787776c34dfb0a",
+   "hash": "f8bd5eab3e84a617351b79c7f1787776c34dfb0a",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/informatiepunt-leefomgeving-geomilieu.html": {
    "exact": "00023d353eedb22b1c85824f37667705a31d2b0a",
@@ -47660,9 +47686,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "026aaf5297b5c6a06b320140ab4b93305d56692b",
-   "hash": "0b050c96c68c801ed702b8361f8eee301d747d3a",
-   "lastmod": "2026-11-09"
+   "exact": "e4864136fa63d4125e2373a30b9215f3f9d81458",
+   "hash": "7b971c242e7572a7bebc5193649f0ddc5b28aaa3",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",

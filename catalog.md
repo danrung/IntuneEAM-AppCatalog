@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261109_221416_AppCatalog.json` (exported 2026-11-09 22:14:16)  
-> **Generated:** 2026-11-09 22:14 UTC  
+> **Source:** `20261110_065638_AppCatalog.json` (exported 2026-11-10 06:56:38)  
+> **Generated:** 2026-11-10 06:57 UTC  
 > **Total:** 1,595 packages · 933 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -293,8 +293,8 @@
 | 285 | dnGrep | dnGrep | dnGrep (x64) | `5.0.65.0` | x64 | ❌ | en-US |
 | 286 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.98.0.245422` | x64 | ✅ | en-US |
 | 287 | Dominik Reichl | KeePass Password Safe (Classic Edition) | KeePass Password Safe (Classic Edition) | `1.43` | x86,x64 | ✅ | en-US |
-| 288 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8.1` | x64 | ❌ | en-US |
-| 289 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8.1` | x64 | ❌ | en-US |
+| 288 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.9` | x64 | ❌ | en-US |
+| 289 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.9` | x64 | ❌ | en-US |
 | 290 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
 | 291 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.11.0` | x64 | ❌ | en-US |
 | 292 | draw.io | draw.io Desktop | draw.io Desktop | `32.6.10` | x64 | ✅ | en-US |
@@ -463,7 +463,7 @@
 | 455 | IDM Computer Solutions | UltraCompare | UltraCompare (x64) | `24.1.5` | x64 | ❌ | en-US |
 | 456 | IDM Computer Solutions | UltraFinder | UltraFinder | `26.0.9` | x64 | ❌ | en-US |
 | 457 | IDM Computer Solutions | UltraFTP | UltraFTP | `25.0.14` | x64 | ❌ | en-US |
-| 458 | Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.05` | x64 | ❌ | en-US |
+| 458 | Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.06` | x64 | ❌ | en-US |
 | 459 | Informatiepunt Leefomgeving | Geomilieu | Geomilieu | `2024.0.0` | x64 | ❌ | nl-NL |
 | 460 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.11.0.0` | x64 | ❌ | en-US |
 | 461 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.15.0` | x64 | ❌ | en-US |

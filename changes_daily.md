@@ -1,9 +1,9 @@
 # Catalog Changes — Daily (≥1 day apart)
 
-> **Comparing:** `20261109_221416_AppCatalog.json` (exported 2026-11-09 22:14:16)  
-> **vs:** `20261108_175316_AppCatalog.json` (exported 2026-11-08 17:53:16)  
+> **Comparing:** `20261110_065638_AppCatalog.json` (exported 2026-11-10 06:56:38)  
+> **vs:** `20261109_054956_AppCatalog.json` (exported 2026-11-09 05:49:56)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-11-09 22:14 UTC
+> **Generated:** 2026-11-10 06:57 UTC
 
 ## Summary
 
@@ -11,12 +11,12 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 28 |
+| 🔄 Updated | 31 |
 | 🧩 Repackaged | 0 |
 
 > 101 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## 🔄 Updated (28 packages)
+## 🔄 Updated (31 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -28,11 +28,14 @@
 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9805.43087` | `7.1.9809.1806` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.85.1` | `7.85.2` | Version |
 | DAX Studio | DAX Studio | DAX Studio | `3.6.1.1250` | `3.6.2.1263` | Version |
+| Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8.1` | `8.9.9` | Version |
+| Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8.1` | `8.9.9` | Version |
 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.10.2` | `26.11.0` | Version |
 | dRofus | dRofus | dRofus | `2.19.11.0` | `2.19.12.0` | Version |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 11 (LTS) | Eclipse Temurin JDK with Hotspot 11 (LTS) (x64) | `11.0.32.101` | `11.0.33.10` | Version |
 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 11 (LTS) | Eclipse Temurin JRE with Hotspot 11 (LTS) (x64) | `11.0.32.101` | `11.0.33.10` | Version |
 | Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.8.1.211` | `4.8.2.212` | Version |
+| Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.05` | `26.06` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.18.3` | `3.19.6` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `13.0.0.3` | `13.1.0.5` | Version |
 | Microsoft | Microsoft Azure Storage Explorer | Azure Storage Explorer (x64) | `1.47.0` | `1.47.1` | Version |
