@@ -4406,6 +4406,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.27",
+      "9.2.28",
+      1
+     ]
+    ]
    }
   ],
   "atostek-oy-atostek-id": [
@@ -7347,6 +7360,19 @@
      [
       "19.3",
       "19.4",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "19.4",
+      "19.5",
       1
      ]
     ]
@@ -12570,6 +12596,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.98.0.245422",
+      "4.99.0.245822",
+      1
+     ]
+    ]
    }
   ],
   "don-ho-notepad": [
@@ -14614,6 +14653,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "13.1.2",
+      "13.1.3",
+      1
+     ]
+    ]
    }
   ],
   "ej-technologies-gmbh-jprofiler": [
@@ -15552,6 +15604,19 @@
      [
       "11.41.7",
       "11.41.9",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.41.9",
+      "11.42.3",
       1
      ]
     ]
@@ -19524,6 +19589,19 @@
      [
       "2.11.14.0",
       "2.11.15.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.11.15.0",
+      "2.11.16.0",
       1
      ]
     ]
@@ -25199,6 +25277,19 @@
      [
       "158.0.4370.1",
       "158.0.4370.7",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "158.0.4370.7",
+      "158.0.4370.12",
       1
      ]
     ]
@@ -31086,6 +31177,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.82.0",
+      "0.82.1",
+      1
+     ]
+    ]
    }
   ],
   "networkmanager": [
@@ -33948,6 +34052,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.1.1.0",
+      "11.1.2.0",
+      1
+     ]
+    ]
    }
   ],
   "pdf-xchange-co-ltd-pdf-xchange-pro": [
@@ -33996,6 +34113,19 @@
      [
       "11.1.0.0",
       "11.1.1.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.1.1.0",
+      "11.1.2.0",
       1
      ]
     ]
@@ -35906,6 +36036,19 @@
      [
       "4.19.0",
       "4.19.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.19.1",
+      "4.19.2",
       1
      ]
     ]
@@ -41845,6 +41988,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-10",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1310",
+      "9.2.1316",
+      2
+     ]
+    ]
    }
   ],
   "visual-paradigm-international-ltd-visual-paradigm-project-viewer": [
@@ -44237,7 +44393,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261110_065638_AppCatalog.json",
+ "history_through": "20261110_193614_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -44246,8 +44402,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "9b04ce4ec4c09d8c328ea4f3943120c9372439a2",
-   "hash": "f531f04d6b4d3c6dac3fb44cce29d1c7a862a813",
+   "exact": "64ab9ca06317171dbda89a0502bb4f94e4f0d983",
+   "hash": "72b25283a50b0097306fb8f390d946334b96d187",
    "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -44551,9 +44707,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/atlassian-inc-atlassian-confluence.html": {
-   "exact": "4d9bc090e33f17c37e221197f5cfc566ad22de27",
-   "hash": "4d9bc090e33f17c37e221197f5cfc566ad22de27",
-   "lastmod": "2026-11-05"
+   "exact": "976036d9f8cccf53282c486dc363ccf2f38fcc8a",
+   "hash": "976036d9f8cccf53282c486dc363ccf2f38fcc8a",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/atomi-systems-inc-atomi-systems-activepresenter.html": {
    "exact": "feb4da5806025646843ad2507d060d0c4876df4f",
@@ -44896,9 +45052,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/burnaware-free.html": {
-   "exact": "c79c91151e1628be7667ac60079a5a43b8c28ce3",
-   "hash": "c79c91151e1628be7667ac60079a5a43b8c28ce3",
-   "lastmod": "2026-11-05"
+   "exact": "d75b4e09ee37b85400077ac23401e6a1e446b115",
+   "hash": "d75b4e09ee37b85400077ac23401e6a1e446b115",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/bytello-share.html": {
    "exact": "b4d161766dfb3b2686592bd7770ae92db8a782a9",
@@ -45316,9 +45472,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/docker-inc-docker-desktop.html": {
-   "exact": "a52ac6bd6bea53d25c7c6e2fe8e1745d010d7789",
-   "hash": "a52ac6bd6bea53d25c7c6e2fe8e1745d010d7789",
-   "lastmod": "2026-11-05"
+   "exact": "d39fbc1d57179d7c4f6eabe8fbde67c3456291a0",
+   "hash": "d39fbc1d57179d7c4f6eabe8fbde67c3456291a0",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/dominik-reichl-keepass-password-safe-classic-edition.html": {
    "exact": "6e280a20c76aaba4accedc326cdfb68035d80201",
@@ -45516,9 +45672,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/ej-technologies-gmbh-install4j.html": {
-   "exact": "e8a7decd42b6ecc6407d2afad0a8df0ae5407fd9",
-   "hash": "e8a7decd42b6ecc6407d2afad0a8df0ae5407fd9",
-   "lastmod": "2026-11-06"
+   "exact": "ff8771a1879ef55fd3b0d01671a6016d7e774fed",
+   "hash": "ff8771a1879ef55fd3b0d01671a6016d7e774fed",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/ej-technologies-gmbh-jprofiler.html": {
    "exact": "7a8172896dc5e90ff85b352fe3b9d1abb60cb5d6",
@@ -45591,9 +45747,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/evernote.html": {
-   "exact": "6be23447f2888b910363fa624c8ced71a959226b",
-   "hash": "6be23447f2888b910363fa624c8ced71a959226b",
-   "lastmod": "2026-11-06"
+   "exact": "440a8e93b61eb5fd98fe613305d83c60d4074357",
+   "hash": "440a8e93b61eb5fd98fe613305d83c60d4074357",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/exacq-technologies-exacqvision-client.html": {
    "exact": "26cbc3ce7305782c24fa1e54386ea8f1a3a9332d",
@@ -46026,9 +46182,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
-   "exact": "8d91370cdce67f8bc95d4c08e571b4608753a7d0",
-   "hash": "8d91370cdce67f8bc95d4c08e571b4608753a7d0",
-   "lastmod": "2026-11-05"
+   "exact": "c6e15a164513946f99bb7f58c24886cd8a6b8697",
+   "hash": "c6e15a164513946f99bb7f58c24886cd8a6b8697",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/inkscape.html": {
    "exact": "b4352e4da9a3bd3fe0ca8e73445d1f531f6697ea",
@@ -46701,9 +46857,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "ed939af2410ded623ec97347556e3641181a659a",
-   "hash": "ed939af2410ded623ec97347556e3641181a659a",
-   "lastmod": "2026-11-09"
+   "exact": "c0f553b446a2b93e26cce8f8dfa67b7659932473",
+   "hash": "c0f553b446a2b93e26cce8f8dfa67b7659932473",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "62a263eafb719940b0fca8a0b7d2002327d7d480",
@@ -47186,9 +47342,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/netbird-gmbh-netbird.html": {
-   "exact": "c2f19cf92767eed8e63a3ca64842f270672338e8",
-   "hash": "c2f19cf92767eed8e63a3ca64842f270672338e8",
-   "lastmod": "2026-11-05"
+   "exact": "f3e619eea2605121be0b58756324c3dfd0ea91e4",
+   "hash": "f3e619eea2605121be0b58756324c3dfd0ea91e4",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/netsetman-gmbh-netsetman.html": {
    "exact": "538df62432c27b399b1c3f3f979b325f0d60c481",
@@ -47501,14 +47657,14 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/pdf-xchange-co-ltd-pdf-tools.html": {
-   "exact": "fc7f8907ab0009e0a2e0c941f6d1c3641473dc9b",
-   "hash": "fc7f8907ab0009e0a2e0c941f6d1c3641473dc9b",
-   "lastmod": "2026-11-05"
+   "exact": "0bd2474a6bf187721300886ffd98bf376c6e8fa5",
+   "hash": "0bd2474a6bf187721300886ffd98bf376c6e8fa5",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/pdf-xchange-co-ltd-pdf-xchange-pro.html": {
-   "exact": "c9b35183ce8c2cbaf3ad4e608f6a787ec755e9eb",
-   "hash": "c9b35183ce8c2cbaf3ad4e608f6a787ec755e9eb",
-   "lastmod": "2026-11-05"
+   "exact": "30f150fa9bc9ed9bf1f0175f8ba70f6f43b0eddf",
+   "hash": "30f150fa9bc9ed9bf1f0175f8ba70f6f43b0eddf",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/pdfforge-gbr-pdfcreator.html": {
    "exact": "aeb66fd7be648031a70d793e767d383cb1b4d3cf",
@@ -47686,8 +47842,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "e4864136fa63d4125e2373a30b9215f3f9d81458",
-   "hash": "7b971c242e7572a7bebc5193649f0ddc5b28aaa3",
+   "exact": "9c0417cd05ea0f961d29de794e69ee17a3e6cde4",
+   "hash": "e0982136094efa748a0fd109093dd6c583c000da",
    "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -47771,9 +47927,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/rocket-chat-technologies-corp-rocket-chat.html": {
-   "exact": "66d7e8b5fa9a62ff53277a60d20792fead6cdce3",
-   "hash": "66d7e8b5fa9a62ff53277a60d20792fead6cdce3",
-   "lastmod": "2026-11-06"
+   "exact": "44ce5a1010344af79a1d3300720f79f6b804a808",
+   "hash": "44ce5a1010344af79a1d3300720f79f6b804a808",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/rstudio-1-4.html": {
    "exact": "2216ca3789357fe01fffba38e7b7574fc24d5cb2",
@@ -48576,9 +48732,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "870e131aeef149560a710a53592a86065c652ad4",
-   "hash": "870e131aeef149560a710a53592a86065c652ad4",
-   "lastmod": "2026-11-09"
+   "exact": "72435224b8bdfd8cd6b289aa404ae9f2da556750",
+   "hash": "72435224b8bdfd8cd6b289aa404ae9f2da556750",
+   "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "fd5d2f774ff7b172a07409aead83d0837aef4929",
