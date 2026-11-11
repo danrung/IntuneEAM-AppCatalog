@@ -4222,6 +4222,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-11",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.129.38633.0",
+      "1.130.39111.0",
+      1
+     ]
+    ]
    }
   ],
   "ascensio-system-sia-avs-image-converter": [
@@ -27440,6 +27453,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-11",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "22.11.3",
+      "22.12.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-universal-print-connector": [
@@ -28219,6 +28245,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-11",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.14.37827.9",
+      "17.14.37906.3",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-visual-studio-2026-professional": [
@@ -28319,6 +28358,19 @@
      [
       "18.11.12324.101",
       "18.11.12328.437",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-11",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.11.12328.437",
+      "18.12.12405.243",
       1
      ]
     ]
@@ -30482,7 +30534,7 @@
      [
       "159.0.1",
       "160.0",
-      46
+      47
      ]
     ]
    }
@@ -31557,6 +31609,19 @@
      [
       "1.81.0",
       "2.0.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-11",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.0.1",
+      "2.0.2",
       1
      ]
     ]
@@ -39546,6 +39611,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-11",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.104.5",
+      "1.104.6",
+      1
+     ]
+    ]
    }
   ],
   "talkdesk-inc-talkdesk": [
@@ -42185,6 +42263,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-11",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1316",
+      "9.2.1320",
+      2
+     ]
+    ]
    }
   ],
   "visual-paradigm-international-ltd-visual-paradigm-project-viewer": [
@@ -44217,6 +44308,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-11",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.2.0",
+      "7.2.5",
+      1
+     ]
+    ]
    }
   ],
   "zoom-video-communications-inc-zoom-vdi-universal-plugin": [
@@ -44577,7 +44681,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261111_054626_AppCatalog.json",
+ "history_through": "20261111_193028_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -44586,8 +44690,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "38c23faa98e3d373088c341350387bf0c8d23f5c",
-   "hash": "5de71641c76c9d18324aa89a181fb023ce2537c4",
+   "exact": "886566a28a6e447b94ea2b4330ddf75d3180a4bd",
+   "hash": "b7a8311a78818c7fd77e753b6b13f5d76f8bc145",
    "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -44856,9 +44960,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/articulate-360.html": {
-   "exact": "93e5d39617cd73e737ce9649ae532b53ac0cadc9",
-   "hash": "93e5d39617cd73e737ce9649ae532b53ac0cadc9",
-   "lastmod": "2026-11-05"
+   "exact": "11a200478ff9f031eff4197699ad49087ad5b65a",
+   "hash": "11a200478ff9f031eff4197699ad49087ad5b65a",
+   "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/articulate-replay-360.html": {
    "exact": "99473fcb70558e1b4948b6e826eb462b127f6eba",
@@ -47251,9 +47355,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-sql-server-management-studio-22.html": {
-   "exact": "ff5e5ff439a09f621150e9dec690706c05439df4",
-   "hash": "ff5e5ff439a09f621150e9dec690706c05439df4",
-   "lastmod": "2026-11-05"
+   "exact": "770d670b412cc1a51ac26e937c9eb2181e83a9c6",
+   "hash": "770d670b412cc1a51ac26e937c9eb2181e83a9c6",
+   "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/microsoft-surface-data-eraser.html": {
    "exact": "c7c62c07654b15166948bfb29db6ba78cd79ffff",
@@ -47311,14 +47415,14 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2022-professional.html": {
-   "exact": "5736e10ecff0f098d6b50920c13ea54f7b9eb33b",
-   "hash": "5736e10ecff0f098d6b50920c13ea54f7b9eb33b",
-   "lastmod": "2026-11-05"
+   "exact": "9a9c99e0d94d95f8d9cc185f4d5ba051d85a5607",
+   "hash": "9a9c99e0d94d95f8d9cc185f4d5ba051d85a5607",
+   "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-2026-professional.html": {
-   "exact": "0e4a02d5eb601c76bc2469a7d21a174d5a8abfd9",
-   "hash": "0e4a02d5eb601c76bc2469a7d21a174d5a8abfd9",
-   "lastmod": "2026-11-05"
+   "exact": "54937724e7a69d2bcbf539ab8ac438fcef35165a",
+   "hash": "54937724e7a69d2bcbf539ab8ac438fcef35165a",
+   "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
    "exact": "cfb71709aaddacdedc02ee628ea7d886baba9374",
@@ -47441,13 +47545,13 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/mozilla-firefox-esr-115.html": {
-   "exact": "de588d32c618f29ce8802e771fcb9edd752f51b1",
-   "hash": "de588d32c618f29ce8802e771fcb9edd752f51b1",
+   "exact": "f1ff50cf579c9c88ece0dcf397652140bb52a213",
+   "hash": "f1ff50cf579c9c88ece0dcf397652140bb52a213",
    "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
-   "exact": "ca542296e5f1d4338d63dee761ef22524c75245b",
-   "hash": "ca542296e5f1d4338d63dee761ef22524c75245b",
+   "exact": "8f1e270c54d4eee16fc98d2f6fe36753c869115f",
+   "hash": "8f1e270c54d4eee16fc98d2f6fe36753c869115f",
    "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/mozilla-frontmotion-firefox-community-edition-esr.html": {
@@ -47541,9 +47645,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/new-relic-inc-new-relic-infrastructure-agent.html": {
-   "exact": "573cb7b76e996a3207287b956f9e5076515a908e",
-   "hash": "573cb7b76e996a3207287b956f9e5076515a908e",
-   "lastmod": "2026-11-05"
+   "exact": "0abaf0f39f8a2efa35ae1b0911b96411eac6d7de",
+   "hash": "0abaf0f39f8a2efa35ae1b0911b96411eac6d7de",
+   "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/nextcloud.html": {
    "exact": "6a26a655435909114144343ee03816f531b45b36",
@@ -48026,8 +48130,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "d5ef20b037ec39288fff64b7cb6c3d6f4610d603",
-   "hash": "2d8c320e7b06c5a0c63ad7c0dd9ed5ced492e5b9",
+   "exact": "59778338153cb4d2998c2d47e289e83fe0c303d0",
+   "hash": "ca3080efa7ca3c0e05d598b5a667991950c0a55e",
    "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -48556,9 +48660,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/tailscale-inc-tailscale.html": {
-   "exact": "508358bcaa7d30bb5350e9e70d904315ac4a6845",
-   "hash": "508358bcaa7d30bb5350e9e70d904315ac4a6845",
-   "lastmod": "2026-11-05"
+   "exact": "0126fb0a1264c9ddbae4bf24a37d258bdcbd2993",
+   "hash": "0126fb0a1264c9ddbae4bf24a37d258bdcbd2993",
+   "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/talkdesk-inc-talkdesk.html": {
    "exact": "f741d2a3178c713d88aa38367cf23eda5919760f",
@@ -48916,9 +49020,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "72435224b8bdfd8cd6b289aa404ae9f2da556750",
-   "hash": "72435224b8bdfd8cd6b289aa404ae9f2da556750",
-   "lastmod": "2026-11-10"
+   "exact": "bf9c2b0db8c992757540a4d69414b61e97adda66",
+   "hash": "bf9c2b0db8c992757540a4d69414b61e97adda66",
+   "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "fd5d2f774ff7b172a07409aead83d0837aef4929",
@@ -49201,9 +49305,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/zoom-video-communications-inc-zoom-rooms.html": {
-   "exact": "ed62f3265a4eda52f6ea7dbd483a2369c2c3fc45",
-   "hash": "ed62f3265a4eda52f6ea7dbd483a2369c2c3fc45",
-   "lastmod": "2026-11-05"
+   "exact": "b768cfb1ce2ff447ab533b165a87aeee8ca1b319",
+   "hash": "b768cfb1ce2ff447ab533b165a87aeee8ca1b319",
+   "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/zoom-video-communications-inc-zoom-vdi-universal-plugin.html": {
    "exact": "b0be89eccfff6e45585ad149d877ed946bcf299f",

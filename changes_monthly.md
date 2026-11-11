@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261111_054626_AppCatalog.json` (exported 2026-11-11 05:46:26)  
+> **Comparing:** `20261111_193028_AppCatalog.json` (exported 2026-11-11 19:30:28)  
 > **vs:** `20261012_053023_AppCatalog.json` (exported 2026-10-12 05:30:23)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-11 05:47 UTC
+> **Generated:** 2026-11-11 19:31 UTC
 
 ## Summary
 
@@ -46,7 +46,7 @@
 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.35.0.3249` | `5.36.0.3628` | Version |
 | Andrew Ziem | BleachBit | BleachBit | `6.0.2` | `6.0.6` | Version |
 | Ansgar Becker | HeidiSQL | HeidiSQL | `12.21.0.7344` | `12.22.0.7382` | Version |
-| Articulate | Articulate 360 | Articulate 360 (EXE) | `1.127.38181.0` | `1.129.38633.0` | Version |
+| Articulate | Articulate 360 | Articulate 360 (EXE) | `1.127.38181.0` | `1.130.39111.0` | Version |
 | Astute Graphics | Astute Manager | Astute Manager | `4.0.5` | `4.2.3` | Version |
 | Atlassian Inc | Atlassian Companion | Atlassian Companion | `3.2.0` | `3.3.0` | Version |
 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.2 | `10.2.19` | `10.2.20` | Version |
@@ -230,11 +230,11 @@
 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.101.2362.0` | `0.102.3101.0` | Version |
 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.101.2362.0` | `0.102.3101.0` | Version |
 | Microsoft | Microsoft Purview Information Protection client | Purview Information Protection client | `3.2.92.0` | `3.2.176.0` | Version |
-| Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.10.2` | `22.11.3` | Version |
+| Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.10.2` | `22.12.0` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37710.0` | `17.14.37906.3` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37710.0` | `17.14.37827.9` | Version |
-| Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37710.0` | `17.14.37827.9` | Version |
-| Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.10.12224.181` | `18.11.12328.437` | Version |
+| Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37710.0` | `17.14.37906.3` | Version |
+| Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.10.12224.181` | `18.12.12405.243` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.141.0` | `1.145.2` | Version |
 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37710.0` | `17.14.37906.3` | Version |
 | Microsoft | OpenJDK | OpenJDK 21 (x64) | `21.0.12.1` | `21.0.13.0` | Version |
@@ -283,7 +283,7 @@
 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `157.0.1` | `160.0` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `157.0.1` | `160.0` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `157.0.1` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `157.0.1` | `159.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `157.0.1` | `160.0` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `157.0.1` | `160.0` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `157.0.1` | `160.0` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `157.0.1` | `160.0` | Version |
@@ -344,7 +344,7 @@
 | MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.7.5.260831071` | `4.7.6.261022093` | Version |
 | Nagios Enterprises | NCPA | NCPA (x64) | `3.5.0` | `3.5.1` | Version |
 | NetBird GmbH | NetBird | NetBird | `0.81.0` | `0.82.1` | Version |
-| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.4` | `2.0.1` | Version |
+| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.4` | `2.0.2` | Version |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `34.0.5.20261005` | `35.0.3.20261104` | Version |
 | NGWIN | PicPick | PicPick | `7.6.1` | `7.6.2` | Version |
 | NICE Software | Amazon DCV Client | Amazon DCV Client | `25.0.9800.0` | `26.0.14158.0` | Version |
@@ -406,7 +406,7 @@
 | SURF | SURF eduVPN Client | eduVPN Client (x64) | `4.6.2` | `4.6.3` | Version |
 | SUSE | Rancher Desktop | Rancher Desktop | `1.24.0` | `1.25.0` | Version |
 | Synology | Synology Drive Client | Synology Drive Client (x64) | `4.2.0.20058` | `4.0.4.17894` | Version |
-| Tailscale Inc. | Tailscale | Tailscale (x64) | `1.104.1` | `1.104.5` | Version |
+| Tailscale Inc. | Tailscale | Tailscale (x64) | `1.104.1` | `1.104.6` | Version |
 | Tarma Software Research Ltd | Publish or Perish | Publish or Perish | `8.19.5300.9483` | `8.20.5889.9811` | Version |
 | TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.82.6.0` | `15.83.5.0` | Version |
 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.82.6.0` | `15.83.5.0` | Version |
@@ -421,8 +421,8 @@
 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.3.0` | `1.8.3.2` | Version |
 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.0` | `1.8.3.2` | Version |
 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | `1.26.31` | Version |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1172` | `9.2.1316` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1172` | `9.2.1316` | Version |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1172` | `9.2.1320` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1172` | `9.2.1320` | Version |
 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.135.06055` | `1.143.17232` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.5` | `6.7.8` | Version |
 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.8` | `4.14.10` | Version |
@@ -432,7 +432,7 @@
 | XnSoft | XnSoft XnConvert | XnConvert (x64) | `1.117.0` | `1.118.0` | Version |
 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.12.1.0` | `1.12.3.0` | Version |
 | Zandar Labs SL | Aptakube | Aptakube | `1.21.2` | `1.22.3` | Version |
-| Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.1.7` | `7.2.0` | Version |
+| Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.1.7` | `7.2.5` | Version |
 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) (msi) | `7.2.48358` | `7.2.51704` | Version |
 | Zotero | Zotero | Zotero (x64) | `10.0.6` | `10.0.8` | Version |
 
