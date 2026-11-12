@@ -7184,6 +7184,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-12",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.99.55",
+      "1.99.56",
+      1
+     ]
+    ]
    }
   ],
   "brightsign-llc-brightauthor-connected": [
@@ -11754,6 +11767,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-12",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.16.0",
+      "2026.3.18.0",
+      1
+     ],
+     [
+      "2026.3.17.0",
+      "2026.3.18.0",
+      1
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager": [
@@ -12022,6 +12053,19 @@
      [
       "2026.3.16.0",
       "2026.3.17.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-12",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.17.0",
+      "2026.3.18.0",
       1
      ]
     ]
@@ -21853,6 +21897,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-12",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.13",
+      "3.14",
+      1
+     ]
+    ]
    }
   ],
   "junction-networks-onsip": [
@@ -23062,6 +23119,19 @@
      [
       "8.3.14",
       "8.4.19",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-12",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.4.19",
+      "8.5.12",
       1
      ]
     ]
@@ -42614,6 +42684,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-12",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1320",
+      "9.2.1332",
+      1
+     ]
+    ]
    }
   ],
   "visual-paradigm-international-ltd-visual-paradigm-project-viewer": [
@@ -45032,7 +45115,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261112_065308_AppCatalog.json",
+ "history_through": "20261112_194916_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -45041,8 +45124,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "4ebdd0052fef4c50581c181f3a568651cfc51b67",
-   "hash": "8e099c23ac008cab066aff460b0313285d35cc59",
+   "exact": "1999f3823fc6c7ec3df9a0653ab59908bcee953b",
+   "hash": "a892673513f386f69c987a5c5fe05ba8f17badc7",
    "lastmod": "2026-11-12"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -45661,9 +45744,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "e474654553ddd079d72b250b6ba24427c4851b7b",
-   "hash": "e474654553ddd079d72b250b6ba24427c4851b7b",
-   "lastmod": "2026-11-09"
+   "exact": "1988d921678b01f9c0ecdcbdd7828b8ee5c4fa44",
+   "hash": "1988d921678b01f9c0ecdcbdd7828b8ee5c4fa44",
+   "lastmod": "2026-11-12"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "1a08ddf1951686a36b0ea5cfed3e8642542bb62a",
@@ -46076,9 +46159,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html": {
-   "exact": "c962f227d496a08cf1ace2f44caf53f981a14b95",
-   "hash": "c962f227d496a08cf1ace2f44caf53f981a14b95",
-   "lastmod": "2026-11-05"
+   "exact": "008dd22a1ad2501fdf42e9723625afa0ca71a5eb",
+   "hash": "008dd22a1ad2501fdf42e9723625afa0ca71a5eb",
+   "lastmod": "2026-11-12"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html": {
    "exact": "bebfd01294672c19cbea6850f7a2996962bf8222",
@@ -46086,9 +46169,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html": {
-   "exact": "0e33d17a8cf19f6760527dcba76fb1019ac1cb8f",
-   "hash": "0e33d17a8cf19f6760527dcba76fb1019ac1cb8f",
-   "lastmod": "2026-11-05"
+   "exact": "c7808161a910e44522c64f837152d32ae61805d4",
+   "hash": "c7808161a910e44522c64f837152d32ae61805d4",
+   "lastmod": "2026-11-12"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-workspace.html": {
    "exact": "cb4120b9abacda7c65ac083f2eda06e89faa9bfc",
@@ -47016,9 +47099,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/john-macfarlane-pandoc.html": {
-   "exact": "90aa49c133b075e19fb8a4e08ebaca780c9f570b",
-   "hash": "90aa49c133b075e19fb8a4e08ebaca780c9f570b",
-   "lastmod": "2026-11-05"
+   "exact": "59b8736c78fa3f4bcae73b2de38e9a928e06deef",
+   "hash": "59b8736c78fa3f4bcae73b2de38e9a928e06deef",
+   "lastmod": "2026-11-12"
   },
   "https://eam.drung.dev/apps/junction-networks-onsip.html": {
    "exact": "4fefead6e536d10ae1e576906703bbbb44561abc",
@@ -47116,9 +47199,9 @@
    "lastmod": "2026-11-09"
   },
   "https://eam.drung.dev/apps/lark-technologies-pte-ltd-lark-deployment-tool.html": {
-   "exact": "9b03ecf4e6b07189f384b76f3270d54d2c8721a5",
-   "hash": "9b03ecf4e6b07189f384b76f3270d54d2c8721a5",
-   "lastmod": "2026-11-06"
+   "exact": "23595f58a8286beab4a70efe103278c88f1b2ff8",
+   "hash": "23595f58a8286beab4a70efe103278c88f1b2ff8",
+   "lastmod": "2026-11-12"
   },
   "https://eam.drung.dev/apps/lastpass.html": {
    "exact": "01447811238b6a3095fc5c67adac8c92a3e30f4d",
@@ -48481,8 +48564,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "f7ae6ec03478f8a385ae67d46ccb5787addf5ab7",
-   "hash": "3bdbc8c2699e2a0d731eb9c89e93a9939cd5437b",
+   "exact": "5bea8a507d12fbd58848478419013d32dba7b9c1",
+   "hash": "29ec2ab540054576dddd9b2b4b1513de61b25af1",
    "lastmod": "2026-11-12"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -49371,9 +49454,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "bf9c2b0db8c992757540a4d69414b61e97adda66",
-   "hash": "bf9c2b0db8c992757540a4d69414b61e97adda66",
-   "lastmod": "2026-11-11"
+   "exact": "0c4e30203e72fb32ea0a1f5e83ff3b25150531d8",
+   "hash": "0c4e30203e72fb32ea0a1f5e83ff3b25150531d8",
+   "lastmod": "2026-11-12"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "fd5d2f774ff7b172a07409aead83d0837aef4929",

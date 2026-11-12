@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261112_065308_AppCatalog.json` (exported 2026-11-12 06:53:08)  
-> **vs:** `20261105_060954_AppCatalog.json` (exported 2026-11-05 06:09:54)  
+> **Comparing:** `20261112_194916_AppCatalog.json` (exported 2026-11-12 19:49:16)  
+> **vs:** `20261105_134510_AppCatalog.json` (exported 2026-11-05 13:45:10)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-12 06:53 UTC
+> **Generated:** 2026-11-12 19:49 UTC
 
 ## Summary
 
@@ -11,9 +11,12 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 182 |
+| 🔄 Updated | 184 |
+| 🧩 Repackaged | 0 |
 
-## 🔄 Updated (182 packages)
+> 88 further packages got a new package id with no change to the catalog entry or the deployment details.
+
+## 🔄 Updated (184 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -32,7 +35,7 @@
 | Azul Systems, Inc. | Zulu JRE 11 (LTS) | Zulu JRE 11 (LTS) (x64) | `11.92.109` | `11.92.113` | Version |
 | Bizagi Limited | Moon Modeler | Moon Modeler | `13.7.0` | `13.7.5` | Version |
 | Blender Foundation | Blender | Blender 5.2 (x64) | `5.2.3` | `5.2.4` | Version |
-| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.98.63` | `1.99.55` | Version |
+| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.98.63` | `1.99.56` | Version |
 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | `4.3.2611.10204` | Version |
 | Burnaware | BurnAware Free | BurnAware Free | `19.4` | `19.5` | Version |
 | Cockos Incorporated | REAPER | REAPER (x64) | `7.84` | `7.85` | Version |
@@ -43,8 +46,9 @@
 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.2.0` | `26.2.0.1` | Version |
 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.2.0` | `26.2.0.1` | Version |
 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.2.0` | `26.2.0.1` | Version |
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.16.0` | `2026.3.17.0` | Version |
-| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.16.0` | `2026.3.17.0` | Version |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.3.16.0` | `2026.3.18.0` | Version |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.16.0` | `2026.3.18.0` | Version |
+| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.16.0` | `2026.3.18.0` | Version |
 | dnGrep | dnGrep | dnGrep (x64) | `5.0.65.0` | `5.0.80.0` | Version |
 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.98.0.245422` | `4.99.0.245822` | Version |
 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8.1` | `8.9.9` | Version |
@@ -66,7 +70,7 @@
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (MSI) | `3.80.0` | `3.80.1` | Version |
 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.32.0` | `11.34.0` | Version |
 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.22.3` | `1.22.4` | Version |
-| Genesys | Genesys Cloud | Genesys Cloud (x64) | `2.56.933` | `2.57.942` | Version |
+| Genesys | Genesys Cloud | Genesys Cloud (x64) | `2.56.933` | `2.57.942` | Version, Uninstall command |
 | GIMP | GIMP | GIMP | `3.2.6.0` | `3.2.8.0` | Version |
 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.4.0` | `14.14.2.0` | Version |
 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.20.3` | `4.21.0` | Version |
@@ -77,10 +81,11 @@
 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.34.70.0` | `2.34.121.0` | Version |
 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.934.0` | `6.0.936.0` | Version |
 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.5` | `26.4.0` | Version |
+| John MacFarlane | Pandoc | Pandoc | `3.13` | `3.14` | Version |
 | Kovid Goyal | Calibre | Calibre (x64) | `9.17.0` | `9.18.0` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.18.3` | `3.19.6` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `13.0.0.3` | `13.1.0.5` | Version |
-| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.3.14` | `8.4.19` | Version |
+| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.3.14` | `8.5.12` | Version |
 | Logitech | Logitech Sync App | Logitech Sync App | `3.11.238` | `3.12.254` | Version |
 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2726.52306` | `8.4.2826.52802` | Version |
 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.320` | `9.0.321` | Version |
@@ -191,7 +196,7 @@
 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.1` | `1.8.3.2` | Version |
 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | `1.26.31` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1286` | `9.2.1320` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1286` | `9.2.1320` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1286` | `9.2.1332` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.7` | `6.7.8` | Version |
 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.9` | `4.14.10` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.1.411` | `2.8.2.426` | Version |

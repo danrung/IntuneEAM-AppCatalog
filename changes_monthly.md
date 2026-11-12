@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261112_065308_AppCatalog.json` (exported 2026-11-12 06:53:08)  
-> **vs:** `20261013_062751_AppCatalog.json` (exported 2026-10-13 06:27:51)  
+> **Comparing:** `20261112_194916_AppCatalog.json` (exported 2026-11-12 19:49:16)  
+> **vs:** `20261013_190830_AppCatalog.json` (exported 2026-10-13 19:08:30)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-12 06:53 UTC
+> **Generated:** 2026-11-12 19:49 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 394 |
+| 🔄 Updated | 393 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (394 packages)
+## 🔄 Updated (393 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -77,7 +77,7 @@
 | Boris Eyrich Software | Artweaver Free | Artweaver Free | `8.1.6.4131` | `8.1.7.4304` | Version |
 | Box | Box Drive | Box Drive (x64) | `2.54.169` | `2.55.145` | Version |
 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | `4.30.0.9` | Version |
-| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.97.56` | `1.99.55` | Version |
+| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.97.56` | `1.99.56` | Version |
 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | `4.3.2611.10204` | Version |
 | Burnaware | BurnAware Free | BurnAware Free | `19.4` | `19.5` | Version |
 | Cake.com Inc. | Clockify | Clockify | `2.3.4` | `2.4.3` | Version |
@@ -100,9 +100,9 @@
 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.2.0` | `26.2.0.1` | Version |
 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.2.0` | `26.2.0.1` | Version |
 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.4` | `26.2.5` | Version |
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.3.10.0` | `2026.3.16.0` | Version |
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.13.0` | `2026.3.17.0` | Version |
-| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.13.0` | `2026.3.17.0` | Version |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.3.10.0` | `2026.3.18.0` | Version |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.13.0` | `2026.3.18.0` | Version |
+| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.13.0` | `2026.3.18.0` | Version |
 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.4.2` | `2.5.0` | Version |
 | dnGrep | dnGrep | dnGrep (x64) | `5.0.57.0` | `5.0.80.0` | Version |
 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.94.0.241994` | `4.99.0.245822` | Version |
@@ -151,7 +151,6 @@
 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.20.3` | `4.21.0` | Version |
 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.20.3` | `4.21.0` | Version |
 | GSL Biotech LLC | SnapGene Viewer | SnapGene Viewer | `8.2.3` | `9.0.0` | Version |
-| HARMAN International | Adobe AIR | Adobe AIR | `51.3.3.1` | `51.4.1.2` | Version |
 | HP | HP Client Management Script Library | HP Client Management Script Library | `1.8.6` | `1.9.0` | Version |
 | IBM | IBM Aspera Connect | Aspera Connect | `4.2.19.956` | `4.2.20.976` | Version |
 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `14.6.0` | `15.0.0` | Version |
@@ -183,14 +182,14 @@
 | JetBrains | WebStorm | WebStorm 2026.1 (x64) | `2026.1.5` | `2026.1.5.1` | Version |
 | JetBrains | WebStorm | WebStorm 2026.2 (x64) | `2026.2.2` | `2026.2.4` | Version |
 | Joachim Eibl | KDiff3 | KDiff3 (x64) | `1.12.4` | `1.12.6` | Version |
-| John MacFarlane | Pandoc | Pandoc | `3.12.1` | `3.13` | Version |
+| John MacFarlane | Pandoc | Pandoc | `3.12.1` | `3.14` | Version |
 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.13.2` | `5.14.2` | Version |
 | KeePassXC | KeePassXC | KeePassXC (x64) | `2.7.12` | `2.8.0` | Version |
 | Keeper | Keeper | Keeper | `18.6.4.0` | `18.6.6.0` | Version |
 | Kovid Goyal | Calibre | Calibre (x64) | `9.16.0` | `9.18.0` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.17.9` | `3.19.6` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `12.9.2.4` | `13.1.0.5` | Version |
-| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.1.22` | `8.4.19` | Version |
+| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.1.22` | `8.5.12` | Version |
 | Logitech | Logi Tune | Logi Tune | `3.15.62.0` | `3.15.80.0` | Version |
 | Logitech | Logitech Sync App | Logitech Sync App | `3.11.238` | `3.12.254` | Version |
 | LogMeIn | LogMeIn Client | LogMeIn Client | `1.3.5702` | `1.3.5714` | Version |
@@ -404,8 +403,8 @@
 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.3.0` | `1.8.3.2` | Version |
 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.0` | `1.8.3.2` | Version |
 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | `1.26.31` | Version |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1176` | `9.2.1320` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1176` | `9.2.1320` | Version |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1178` | `9.2.1320` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1178` | `9.2.1332` | Version |
 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.135.06055` | `1.143.17232` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.5` | `6.7.8` | Version |
 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.8` | `4.14.10` | Version |
@@ -414,7 +413,7 @@
 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (MSI) | `4.7.3` | `4.7.4` | Version |
 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.12.2.0` | `1.12.3.0` | Version |
 | Zandar Labs SL | Aptakube | Aptakube | `1.21.2` | `1.22.3` | Version |
-| Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.1.7` | `7.2.5` | Version |
+| Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.2.0` | `7.2.5` | Version |
 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) (msi) | `7.2.48358` | `7.2.51704` | Version |
 | Zotero | Zotero | Zotero (x64) | `10.0.6` | `10.0.8` | Version |
 
