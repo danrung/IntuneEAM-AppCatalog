@@ -2313,6 +2313,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.2.1",
+      "6.2.2",
+      1
+     ]
+    ]
    }
   ],
   "amazon-corretto-jdk-11": [
@@ -3970,6 +3983,19 @@
      [
       "2.3.9",
       "2.3.10",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.3.10",
+      "2.3.11",
       1
      ]
     ]
@@ -7197,6 +7223,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.99.56",
+      "1.99.57",
+      1
+     ]
+    ]
    }
   ],
   "brightsign-llc-brightauthor-connected": [
@@ -7743,6 +7782,11 @@
      [
       "24.1",
       "24.2",
+      1
+     ],
+     [
+      "24.2",
+      "24.2.1",
       1
      ]
     ]
@@ -16875,6 +16919,20 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "archs_removed": [
+     "x86"
+    ],
+    "date": "2026-11-13",
+    "fields": [
+     "Architecture",
+     "Detection rules",
+     "Install context"
+    ],
+    "removed": 0,
+    "versions": []
    }
   ],
   "geek-software-gmbh-pdf24-creator": [
@@ -17742,6 +17800,19 @@
      [
       "2.103.2",
       "2.103.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.103.3",
+      "2.104.0",
       1
      ]
     ]
@@ -19908,6 +19979,19 @@
      [
       "2.11.16.0",
       "2.11.17.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.11.17.0",
+      "2.11.18.0",
       1
      ]
     ]
@@ -24979,6 +25063,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.26.921.1",
+      "2.26.1102.1",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-edge-beta": [
@@ -27690,6 +27787,19 @@
      [
       "16.0.27612.12000",
       "16.0.27709.12000",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "16.0.27709.12000",
+      "16.0.27814.12015",
       1
      ]
     ]
@@ -31779,6 +31889,19 @@
      [
       "0.82.0",
       "0.82.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "0.82.1",
+      "0.83.0",
       1
      ]
     ]
@@ -36683,6 +36806,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.19.2",
+      "4.19.3",
+      1
+     ]
+    ]
    }
   ],
   "rstudio": [
@@ -40084,6 +40220,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.104.6",
+      "1.104.7",
+      1
+     ]
+    ]
    }
   ],
   "talkdesk-inc-talkdesk": [
@@ -40987,6 +41136,19 @@
      [
       "5.6.0",
       "5.7.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.7.0",
+      "5.9.0",
       1
      ]
     ]
@@ -42772,6 +42934,19 @@
      [
       "9.2.1320",
       "9.2.1332",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1332",
+      "9.2.1342",
       1
      ]
     ]
@@ -45193,7 +45368,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261113_061004_AppCatalog.json",
+ "history_through": "20261113_193112_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -45202,8 +45377,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "ca2d6b097b742a0a3571fead1e0fc10921e3dfa8",
-   "hash": "c1547b1a821ff401e50b7668496b4763e5280918",
+   "exact": "0147d2e698cab1ef21970d9170fc292c7fb1eaac",
+   "hash": "c33c51cb66d45ff9d0b03320c232ff66ade9ab83",
    "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -45322,9 +45497,9 @@
    "lastmod": "2026-11-12"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
-   "exact": "19b2eca2de7f7639c6791c5c96a9bc1641497406",
-   "hash": "19b2eca2de7f7639c6791c5c96a9bc1641497406",
-   "lastmod": "2026-11-05"
+   "exact": "e1880ad04414007718b64fc1fc091993a0e8b0f7",
+   "hash": "e1880ad04414007718b64fc1fc091993a0e8b0f7",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-11.html": {
    "exact": "699c57f7f72f57d8fa1d1ededd9ba0bc9c2939bb",
@@ -45462,9 +45637,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/arduino-ide.html": {
-   "exact": "e6d0f6dbf071d42f70731e75c6e58b38ecbdbcd2",
-   "hash": "e6d0f6dbf071d42f70731e75c6e58b38ecbdbcd2",
-   "lastmod": "2026-11-05"
+   "exact": "39206d49e29da671933d3163da0a240f09a5dee7",
+   "hash": "39206d49e29da671933d3163da0a240f09a5dee7",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/artem-izmaylov-aimp.html": {
    "exact": "4c29c83555844ebe992dc981f8fe0ed9ad3af9a0",
@@ -45822,9 +45997,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "1988d921678b01f9c0ecdcbdd7828b8ee5c4fa44",
-   "hash": "1988d921678b01f9c0ecdcbdd7828b8ee5c4fa44",
-   "lastmod": "2026-11-12"
+   "exact": "b808e2a567b4d61358c55b552dc82979a328747e",
+   "hash": "b808e2a567b4d61358c55b552dc82979a328747e",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "1a08ddf1951686a36b0ea5cfed3e8642542bb62a",
@@ -45877,8 +46052,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/caphyon-advanced-installer.html": {
-   "exact": "221cc3e12fe8187f22e61149d2799ffb6722dce4",
-   "hash": "221cc3e12fe8187f22e61149d2799ffb6722dce4",
+   "exact": "f5fe7bed746cd6379592678e5682d00b7c7e7f1a",
+   "hash": "f5fe7bed746cd6379592678e5682d00b7c7e7f1a",
    "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/capture-one-20.html": {
@@ -46717,9 +46892,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/garmin-express.html": {
-   "exact": "a69631e34e213d4153ef10df6ca3c34e2967d521",
-   "hash": "a69631e34e213d4153ef10df6ca3c34e2967d521",
-   "lastmod": "2026-11-05"
+   "exact": "66614060e310d061764b4e270ae5ac8e9dfecad4",
+   "hash": "66614060e310d061764b4e270ae5ac8e9dfecad4",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/geek-software-gmbh-pdf24-creator.html": {
    "exact": "9033c0c5de26f29a981ec6e44e35629c98cd4d7f",
@@ -46762,9 +46937,9 @@
    "lastmod": "2026-11-08"
   },
   "https://eam.drung.dev/apps/github-inc-github-cli.html": {
-   "exact": "3d906858ccf1cfdb39f0ec60794d6108c8b7cf81",
-   "hash": "3d906858ccf1cfdb39f0ec60794d6108c8b7cf81",
-   "lastmod": "2026-11-05"
+   "exact": "392f877f50b190d24cdf067c2335822d956e4462",
+   "hash": "392f877f50b190d24cdf067c2335822d956e4462",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/glavsoft-llc-remote-ripple.html": {
    "exact": "a34b99d21eedde73399f8409ed60505dc1c99259",
@@ -46982,9 +47157,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
-   "exact": "59b106d1185a6585db8f431cd99ae4a5fa62d071",
-   "hash": "59b106d1185a6585db8f431cd99ae4a5fa62d071",
-   "lastmod": "2026-11-12"
+   "exact": "692229746fd835f0706f95b96001f8f57a7ad9d0",
+   "hash": "692229746fd835f0706f95b96001f8f57a7ad9d0",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/inkscape.html": {
    "exact": "b4352e4da9a3bd3fe0ca8e73445d1f531f6697ea",
@@ -47647,9 +47822,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-defender-for-endpoint-plug-in-for-wsl.html": {
-   "exact": "aa0915a500c12cd5f2d3f6672f306a7aad741418",
-   "hash": "aa0915a500c12cd5f2d3f6672f306a7aad741418",
-   "lastmod": "2026-11-05"
+   "exact": "ab83dd9c04947ae6972b0a91ec4254e1ba281e24",
+   "hash": "ab83dd9c04947ae6972b0a91ec4254e1ba281e24",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/microsoft-deployment-toolkit-8456.html": {
    "exact": "0cadc98adacb3c6911d420565ca7cfd623aeb504",
@@ -47807,9 +47982,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-sharepoint-online-management-shell.html": {
-   "exact": "166fcd8c173eb34f06b800caa8001df297eb6e23",
-   "hash": "166fcd8c173eb34f06b800caa8001df297eb6e23",
-   "lastmod": "2026-11-05"
+   "exact": "16274325cd09c1ced0617536676a77ca14f528bc",
+   "hash": "16274325cd09c1ced0617536676a77ca14f528bc",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/microsoft-skype-for-desktop.html": {
    "exact": "bc1a316f24cadcd36d44f706cdc888fdc3df5730",
@@ -48142,9 +48317,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/netbird-gmbh-netbird.html": {
-   "exact": "f3e619eea2605121be0b58756324c3dfd0ea91e4",
-   "hash": "f3e619eea2605121be0b58756324c3dfd0ea91e4",
-   "lastmod": "2026-11-10"
+   "exact": "83d9ed2ab3512960fbc6c17cb415bd519aa1d200",
+   "hash": "83d9ed2ab3512960fbc6c17cb415bd519aa1d200",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/netsetman-gmbh-netsetman.html": {
    "exact": "538df62432c27b399b1c3f3f979b325f0d60c481",
@@ -48642,8 +48817,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "046cb551be5be8b874127a1aff3f1da36ae902c4",
-   "hash": "db6837734d909801b2cc067b80bfbb5e62355e9e",
+   "exact": "f422befc387068d06f8deee02a6fe2213bad8422",
+   "hash": "43bb8a83645e05675a50e90b3a90555328c91603",
    "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -48727,9 +48902,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/rocket-chat-technologies-corp-rocket-chat.html": {
-   "exact": "44ce5a1010344af79a1d3300720f79f6b804a808",
-   "hash": "44ce5a1010344af79a1d3300720f79f6b804a808",
-   "lastmod": "2026-11-10"
+   "exact": "694efe241ca4fd2e7c057c663c3015195ae2edab",
+   "hash": "694efe241ca4fd2e7c057c663c3015195ae2edab",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/rstudio-1-4.html": {
    "exact": "2216ca3789357fe01fffba38e7b7574fc24d5cb2",
@@ -49172,9 +49347,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/tailscale-inc-tailscale.html": {
-   "exact": "0126fb0a1264c9ddbae4bf24a37d258bdcbd2993",
-   "hash": "0126fb0a1264c9ddbae4bf24a37d258bdcbd2993",
-   "lastmod": "2026-11-11"
+   "exact": "c478c1515a2cf04b8745d17b8fd969f99d299ba9",
+   "hash": "c478c1515a2cf04b8745d17b8fd969f99d299ba9",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/talkdesk-inc-talkdesk.html": {
    "exact": "f741d2a3178c713d88aa38367cf23eda5919760f",
@@ -49392,9 +49567,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/tidio.html": {
-   "exact": "8e351d7c76e576baba7bc709c30d872b9260e963",
-   "hash": "8e351d7c76e576baba7bc709c30d872b9260e963",
-   "lastmod": "2026-11-05"
+   "exact": "5afde110952ff4ac01067efe4a55bd4ad9c5db3c",
+   "hash": "5afde110952ff4ac01067efe4a55bd4ad9c5db3c",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/tightvnc.html": {
    "exact": "18f958d98ddc5244ef3233b42690e9a88c98670e",
@@ -49532,9 +49707,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "0c4e30203e72fb32ea0a1f5e83ff3b25150531d8",
-   "hash": "0c4e30203e72fb32ea0a1f5e83ff3b25150531d8",
-   "lastmod": "2026-11-12"
+   "exact": "25c020ae2935526279ee2f5e95717c7c14e70e44",
+   "hash": "25c020ae2935526279ee2f5e95717c7c14e70e44",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "fd5d2f774ff7b172a07409aead83d0837aef4929",
