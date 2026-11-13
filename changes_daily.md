@@ -1,9 +1,9 @@
 # Catalog Changes — Daily (≥1 day apart)
 
-> **Comparing:** `20261112_194916_AppCatalog.json` (exported 2026-11-12 19:49:16)  
+> **Comparing:** `20261113_061004_AppCatalog.json` (exported 2026-11-13 06:10:04)  
 > **vs:** `20261111_193028_AppCatalog.json` (exported 2026-11-11 19:30:28)  
 > **Span:** 1 day between exports  
-> **Generated:** 2026-11-12 19:49 UTC
+> **Generated:** 2026-11-13 06:10 UTC
 
 ## Summary
 
@@ -11,12 +11,12 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 36 |
+| 🔄 Updated | 43 |
 | 🧩 Repackaged | 0 |
 
-> 98 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 97 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## 🔄 Updated (36 packages)
+## 🔄 Updated (43 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -26,11 +26,15 @@
 | Astute Graphics | Astute Manager | Astute Manager | `4.2.3` | `4.2.6` | Version |
 | Bizagi Limited | Moon Modeler | Moon Modeler | `13.7.0` | `13.7.5` | Version |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.99.55` | `1.99.56` | Version |
+| Caphyon | Caphyon Advanced Installer | Advanced Installer | `24.1` | `24.2` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.85.2` | `7.85.4` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.3.16.0` | `2026.3.18.0` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.17.0` | `2026.3.18.0` | Version |
 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.17.0` | `2026.3.18.0` | Version |
 | dnGrep | dnGrep | dnGrep (x64) | `5.0.65.0` | `5.0.80.0` | Version |
+| Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.9` | `8.9.9.1` | Version |
+| Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.9` | `8.9.9.1` | Version |
+| dRofus | dRofus | dRofus | `2.19.12.0` | `2.19.13.0` | Version |
 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `278.4.3944` | `279.4.5723` | Version |
 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `278.4.3944` | `279.4.5723` | Version |
 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.33.0` | `11.34.0` | Version |
@@ -47,11 +51,14 @@
 | Microsoft | Microsoft Purview Information Protection client | Purview Information Protection client | `3.2.176.0` | `3.2.181.0` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37827.9` | `17.14.37906.3` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.145.2` | `1.146.0` | Version |
+| MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.7.6.261022093` | `4.7.7.261109195` | Version |
 | Node.js Foundation | Node.js | Node.js 26 LTS (x64) | `26.13.0` | `26.13.1` | Version |
 | PURSLANE | RustDesk | RustDesk | `1.5.1` | `1.5.3` | Version |
 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.156.8` | `2.158.7` | Version |
 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 5 (x64) | `5.2.7.32913` | `5.2.8.33052` | Version |
 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.34.70.0` | `2.34.121.0` | Version |
+| Siber Systems Inc | RoboForm | RoboForm | `10.0.3.3` | `10.0.4.4` | Version |
+| TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.8` | `8.6.0` | Version |
 | The Git Development Community | Git | Git (x64) | `2.56.0.4` | `2.56.1.1` | Version |
 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1320` | `9.2.1332` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.1.411` | `2.8.2.426` | Version |

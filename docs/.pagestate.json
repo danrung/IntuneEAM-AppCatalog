@@ -7733,6 +7733,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "24.1",
+      "24.2",
+      1
+     ]
+    ]
    }
   ],
   "cato-networks-cato-client": [
@@ -12950,6 +12963,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.9.9",
+      "8.9.9.1",
+      2
+     ]
+    ]
    }
   ],
   "draftable-desktop": [
@@ -13785,6 +13811,19 @@
      [
       "2.19.11.0",
       "2.19.12.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.19.12.0",
+      "2.19.13.0",
       1
      ]
     ]
@@ -31300,6 +31339,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.7.6.261022093",
+      "4.7.7.261109195",
+      1
+     ]
+    ]
    }
   ],
   "mythicsoft-ltd-agent-ransack": [
@@ -38005,6 +38057,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.0.3.3",
+      "10.0.4.4",
+      1
+     ]
+    ]
    }
   ],
   "sidequest": [
@@ -40525,6 +40590,19 @@
      [
       "8.4.5",
       "8.4.8",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-13",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.4.8",
+      "8.6.0",
       1
      ]
     ]
@@ -45115,7 +45193,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261112_194916_AppCatalog.json",
+ "history_through": "20261113_061004_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -45124,9 +45202,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "1999f3823fc6c7ec3df9a0653ab59908bcee953b",
-   "hash": "a892673513f386f69c987a5c5fe05ba8f17badc7",
-   "lastmod": "2026-11-12"
+   "exact": "ca2d6b097b742a0a3571fead1e0fc10921e3dfa8",
+   "hash": "c1547b1a821ff401e50b7668496b4763e5280918",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -45799,9 +45877,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/caphyon-advanced-installer.html": {
-   "exact": "4e2a3aa38874105dad7aace3063496ac2e29a325",
-   "hash": "4e2a3aa38874105dad7aace3063496ac2e29a325",
-   "lastmod": "2026-11-05"
+   "exact": "221cc3e12fe8187f22e61149d2799ffb6722dce4",
+   "hash": "221cc3e12fe8187f22e61149d2799ffb6722dce4",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/capture-one-20.html": {
    "exact": "2d04d0679eea451529348578fbb0335613c1b3b4",
@@ -46204,9 +46282,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/don-ho-notepad.html": {
-   "exact": "3f6d637b15bb9b26a72b589eac2e7268f582d04e",
-   "hash": "3f6d637b15bb9b26a72b589eac2e7268f582d04e",
-   "lastmod": "2026-11-10"
+   "exact": "30bcb99f6763b34e83ecfd721b2a5edf3959c127",
+   "hash": "30bcb99f6763b34e83ecfd721b2a5edf3959c127",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/doxim-llc-striata-reader.html": {
    "exact": "ac53d4ece4503bd918ca637ac89a5106f78555cf",
@@ -46224,9 +46302,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/drofus.html": {
-   "exact": "55a67fd8e31a9fcbf756216283d5b2b4e3ddc184",
-   "hash": "55a67fd8e31a9fcbf756216283d5b2b4e3ddc184",
-   "lastmod": "2026-11-09"
+   "exact": "ee4899276664f53c62583fd1f8643ba12acc0774",
+   "hash": "ee4899276664f53c62583fd1f8643ba12acc0774",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/dropbox.html": {
    "exact": "a57d438041fe050c6ad901a291f3b7b8b9a9939a",
@@ -48024,9 +48102,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/musescore-studio-4.html": {
-   "exact": "3e5f948eb51d3761dab80e664a1285c4051d626b",
-   "hash": "3e5f948eb51d3761dab80e664a1285c4051d626b",
-   "lastmod": "2026-11-05"
+   "exact": "5a3b980cd87fcec0d8509d25373b03bf13cc7bfc",
+   "hash": "5a3b980cd87fcec0d8509d25373b03bf13cc7bfc",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/mythicsoft-ltd-agent-ransack.html": {
    "exact": "cedd206acc04c8ccd49e47ca809d3c43af76d22e",
@@ -48564,9 +48642,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "5bea8a507d12fbd58848478419013d32dba7b9c1",
-   "hash": "29ec2ab540054576dddd9b2b4b1513de61b25af1",
-   "lastmod": "2026-11-12"
+   "exact": "046cb551be5be8b874127a1aff3f1da36ae902c4",
+   "hash": "db6837734d909801b2cc067b80bfbb5e62355e9e",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -48829,9 +48907,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/siber-systems-inc-roboform.html": {
-   "exact": "c474bf94e68734c5d1d149baadb4b825470169a2",
-   "hash": "c474bf94e68734c5d1d149baadb4b825470169a2",
-   "lastmod": "2026-11-06"
+   "exact": "082d44f99490380f37cd3d8e927056789a166d64",
+   "hash": "082d44f99490380f37cd3d8e927056789a166d64",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/sidequest.html": {
    "exact": "a54b8cca7c608f78f1f2dd52baa6637234dd3d0b",
@@ -49209,9 +49287,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/textexpander-inc-textexpander.html": {
-   "exact": "422dd791602d7a70606dbb1a4a4b17af10cf31fa",
-   "hash": "422dd791602d7a70606dbb1a4a4b17af10cf31fa",
-   "lastmod": "2026-11-05"
+   "exact": "89740c373d3885c95e14cd62b75e187f1282ced9",
+   "hash": "89740c373d3885c95e14cd62b75e187f1282ced9",
+   "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/tgrmn-software-bulk-rename-utility.html": {
    "exact": "ecc5db248785aa4bb8a925628906554ee8b5ac9f",

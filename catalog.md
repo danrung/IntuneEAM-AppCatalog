@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261112_194916_AppCatalog.json` (exported 2026-11-12 19:49:16)  
-> **Generated:** 2026-11-12 19:49 UTC  
+> **Source:** `20261113_061004_AppCatalog.json` (exported 2026-11-13 06:10:04)  
+> **Generated:** 2026-11-13 06:10 UTC  
 > **Total:** 1,595 packages · 933 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -208,7 +208,7 @@
 | 200 | Cake.com Inc. | Clockify | Clockify | `2.4.3` | x64 | ❌ | en-US |
 | 201 | Calibrite | Calibrite Profiler | Calibrite Profiler | `2.0.0` | x64 | ❌ | en-US |
 | 202 | Canon Production Printing | Publisher Select 3 | Publisher Select 3 | `3.6.2` | x86,x64 | ❌ | en-US |
-| 203 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `24.1` | x86,x64 | ❌ | en-US |
+| 203 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `24.2` | x86,x64 | ❌ | en-US |
 | 204 | Capture One | Capture One 20 | Capture One 20 | `13.1.4` | x64 | ❌ | en-US |
 | 205 | Capture One | Capture One 22 | Capture One 22 | `15.4.2.10` | x64 | ❌ | en-US |
 | 206 | Cato Networks | Cato Client | Cato Client | `6.12.6.9050` | x86,x64 | ❌ | en-US |
@@ -293,12 +293,12 @@
 | 285 | dnGrep | dnGrep | dnGrep (x64) | `5.0.80.0` | x64 | ❌ | en-US |
 | 286 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.99.0.245822` | x64 | ✅ | en-US |
 | 287 | Dominik Reichl | KeePass Password Safe (Classic Edition) | KeePass Password Safe (Classic Edition) | `1.43` | x86,x64 | ✅ | en-US |
-| 288 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.9` | x64 | ❌ | en-US |
-| 289 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.9` | x64 | ❌ | en-US |
+| 288 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.9.1` | x64 | ❌ | en-US |
+| 289 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.9.1` | x64 | ❌ | en-US |
 | 290 | Doxim LLC | Striata Reader | Striata Reader (x64) | `2.31.2.0` | x64 | ❌ | en-US |
 | 291 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.11.0` | x64 | ❌ | en-US |
 | 292 | draw.io | draw.io Desktop | draw.io Desktop | `32.6.10` | x64 | ✅ | en-US |
-| 293 | dRofus | dRofus | dRofus | `2.19.12.0` | x86,x64 | ❌ | en-US |
+| 293 | dRofus | dRofus | dRofus | `2.19.13.0` | x86,x64 | ❌ | en-US |
 | 294 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `279.4.5723` | x64 | ✅ | en-US |
 | 295 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `279.4.5723` | x64 | ✅ | en-US |
 | 296 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `8.1.6` | x64 | ❌ | en-US |
@@ -1081,7 +1081,7 @@
 | 1073 | MSEndpointMgr | MSEndpointMgr Intune Debug Toolkit | Intune Debug Toolkit | `2.3` | x64 | ❌ | en-US |
 | 1074 | Multilogin | Multilogin | Multilogin | `6.4.5.7` | x64 | ❌ | en-US |
 | 1075 | MuseScore | MuseScore 3 | MuseScore 3 (x64) | `3.6.2.548021803` | x64 | ❌ | en-US |
-| 1076 | MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.7.6.261022093` | x64 | ❌ | en-US |
+| 1076 | MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.7.7.261109195` | x64 | ❌ | en-US |
 | 1077 | Mythicsoft Ltd | Agent Ransack | Agent Ransack | `9.2.3566.1` | x64 | ❌ | en-US |
 | 1078 | Nagios Enterprises | NCPA | NCPA (x64) | `3.5.1` | x64 | ❌ | en-US |
 | 1079 | National Taxation Bureau Taiwan | Business Tax Software BLR | Business Tax Software BLR | `11500.01.1150122` | x86,x64 | ❌ | zh-TW |
@@ -1332,7 +1332,7 @@
 | 1324 | Shotcut | Shotcut | Shotcut (x64) | `26.9.27` | x64 | ❌ | en-US |
 | 1325 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.12.2` | x64 | ✅ | en-US |
 | 1326 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.12.2` | x64 | ✅ | en-US |
-| 1327 | Siber Systems Inc | RoboForm | RoboForm | `10.0.3.3` | x86,x64 | ❌ | en-US |
+| 1327 | Siber Systems Inc | RoboForm | RoboForm | `10.0.4.4` | x86,x64 | ❌ | en-US |
 | 1328 | SideQuest | SideQuest | SideQuest | `1.4.2` | x64 | ❌ | en-US |
 | 1329 | Signiant Inc. | Signiant App | Signiant App | `1.5.1773` | x64 | ❌ | en-US |
 | 1330 | Simnet Ltd | Simple Sticky Notes | Simple Sticky Notes | `6.9` | x86,x64 | ❌ | en-US |
@@ -1417,7 +1417,7 @@
 | 1409 | Texas Instruments | TI-Nspire CX CAS Student Software | TI-Nspire CX CAS Student Software | `6.3.0.119` | x64 | ❌ | en-US |
 | 1410 | Texas Instruments | TI-Nspire CX Premium Teacher Software | TI-Nspire CX Premium Teacher Software | `6.4.0.74` | x64 | ❌ | en-US |
 | 1411 | Texas Instruments | TI-SmartView CE-T | TI-SmartView CE-T | `6.0.4.688` | x64 | ❌ | en-US |
-| 1412 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.8` | x64 | ✅ | en-US |
+| 1412 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.6.0` | x64 | ✅ | en-US |
 | 1413 | TGRMN Software | TGRMN Software Bulk Rename Utility | Bulk Rename Utility (x64) | `4.1.0.1` | x64 | ❌ | en-US |
 | 1414 | The AnyLogic Company | AnyLogic Professional | AnyLogic Professional | `8.9.10` | x64 | ❌ | en-US |
 | 1415 | The AnyLogic Company | AnyLogic University | AnyLogic University | `8.9.10` | x64 | ❌ | en-US |
