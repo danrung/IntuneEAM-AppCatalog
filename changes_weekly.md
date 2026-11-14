@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261113_193112_AppCatalog.json` (exported 2026-11-13 19:31:12)  
-> **vs:** `20261106_191356_AppCatalog.json` (exported 2026-11-06 19:13:56)  
+> **Comparing:** `20261114_055609_AppCatalog.json` (exported 2026-11-14 05:56:09)  
+> **vs:** `20261107_053802_AppCatalog.json` (exported 2026-11-07 05:38:02)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-13 19:31 UTC
+> **Generated:** 2026-11-14 05:56 UTC
 
 ## Summary
 
@@ -11,12 +11,12 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 160 |
+| 🔄 Updated | 158 |
 | 🧩 Repackaged | 0 |
 
 > 101 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## 🔄 Updated (160 packages)
+## 🔄 Updated (158 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -36,6 +36,7 @@
 | Blender Foundation | Blender | Blender 5.2 (x64) | `5.2.3` | `5.2.4` | Version |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.98.63` | `1.99.57` | Version |
 | Burnaware | BurnAware Free | BurnAware Free | `19.4` | `19.5` | Version |
+| Cake.com Inc. | Clockify | Clockify | `2.4.3` | `2.4.4` | Version |
 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `24.1` | `24.2.1` | Version |
 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9805.43087` | `7.1.9810.22348` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.85.1` | `7.85.4` | Version |
@@ -55,14 +56,16 @@
 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 11 (LTS) | Eclipse Temurin JRE with Hotspot 11 (LTS) (x64) | `11.0.32.101` | `11.0.33.10` | Version |
 | Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.8.1.211` | `4.8.2.212` | Version |
 | ej-technologies GmbH | Install4j | Install4j (x64) | `13.1.2` | `13.1.3` | Version |
+| ej-technologies GmbH | JProfiler | JProfiler | `16.3` | `16.3.1` | Version |
 | Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 8 | `8.19.24` | `8.19.25` | Version |
 | Evernote | Evernote | Evernote | `11.41.9` | `11.42.3` | Version |
 | Garmin | Garmin Express | Garmin Express | `7.29.1.0` | `7.29.1.0` | Architecture, Detection rules, Install context |
-| geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.32.0` | `11.34.0` | Version |
+| geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.33.0` | `11.34.0` | Version |
 | Genesys | Genesys Cloud | Genesys Cloud (x64) | `2.56.933` | `2.57.942` | Version, Uninstall command |
 | GIMP | GIMP | GIMP | `3.2.6.0` | `3.2.8.0` | Version |
 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.103.3` | `2.104.0` | Version |
 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.4.0` | `14.14.2.0` | Version |
+| Google LLC | Google Chrome | Google Chrome (x64) (msi) | `157.0.8103.39` | `157.0.8103.79` | Version |
 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `14.7.0` | `15.0.0` | Version |
 | Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.05` | `26.06` | Version |
 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.15.0` | `2.11.18.0` | Version |
@@ -82,15 +85,13 @@
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `159.0.4378.0` | `159.0.4393.0` | Version |
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.338.2` | `3000.338.3` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.195.1006.0007` | `26.198.1011.0006` | Version |
-| Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.102.3001.0` | `0.102.3101.0` | Version |
-| Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.102.3001.0` | `0.102.3101.0` | Version |
 | Microsoft | Microsoft Purview Information Protection client | Purview Information Protection client | `3.2.176.0` | `3.2.181.0` | Version |
 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.11.3` | `22.12.0` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Community | Microsoft Visual Studio 2022 Community | `17.14.37827.9` | `17.14.37906.3` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37827.9` | `17.14.37906.3` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37827.9` | `17.14.37906.3` | Version |
 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.11.12328.437` | `18.12.12405.243` | Version |
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.145.1` | `1.146.0` | Version |
+| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.145.2` | `1.146.0` | Version |
 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37827.9` | `17.14.37906.3` | Version |
 | Microsoft | SharePoint Online Management Shell | SharePoint Online Management Shell | `16.0.27709.12000` | `16.0.27814.12015` | Version |
 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.10.261408` | `2026.11.91422` | Version |
@@ -159,7 +160,6 @@
 | Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.19.1` | `4.19.3` | Version |
 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.156.8` | `2.158.7` | Version |
 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 5 (x64) | `5.2.7.32913` | `5.2.8.33052` | Version |
-| secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.6` | `8.0.0.7` | Version |
 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.34.70.0` | `2.34.121.0` | Version |
 | Siber Systems Inc | RoboForm | RoboForm | `10.0.3.3` | `10.0.4.4` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.1.0` | `7.2.0` | Version |
@@ -170,13 +170,11 @@
 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.8` | `8.6.0` | Version |
 | The Git Development Community | Git | Git (x64) | `2.56.0.4` | `2.56.1.1` | Version |
 | Tidio | Tidio | Tidio | `5.7.0` | `5.9.0` | Version |
-| UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.3.1` | `1.8.3.2` | Version |
-| UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.1` | `1.8.3.2` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1302` | `9.2.1320` | Version |
 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1302` | `9.2.1342` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.7` | `6.7.8` | Version |
-| Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.1.411` | `2.8.2.426` | Version |
-| Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.1.411` | `2.8.2.426` | Version |
+| Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.1.411` | `2.8.3.444` | Version |
+| Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.1.411` | `2.8.3.444` | Version |
 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.12.2.0` | `1.12.3.0` | Version |
 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.2.0` | `7.2.5` | Version |
 | Zotero | Zotero | Zotero (x64) | `10.0.7` | `10.0.8` | Version |

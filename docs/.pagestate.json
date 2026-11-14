@@ -7692,6 +7692,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-14",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.4.3",
+      "2.4.4",
+      1
+     ]
+    ]
    }
   ],
   "caphyon-advanced-installer": [
@@ -15004,6 +15017,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-14",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "16.3",
+      "16.3.1",
+      1
+     ]
+    ]
    }
   ],
   "elasticsearch-b-v-beats-winlogbeat": [
@@ -18887,6 +18913,19 @@
      [
       "156.0.8078.48",
       "157.0.8103.39",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-14",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "157.0.8103.39",
+      "157.0.8103.79",
       1
      ]
     ]
@@ -43598,6 +43637,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-14",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.8.2.426",
+      "2.8.3.444",
+      2
+     ]
+    ]
    }
   ],
   "wind-information-co-ltd-wind-financial-terminal": [
@@ -45368,7 +45420,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261113_193112_AppCatalog.json",
+ "history_through": "20261114_055609_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -45377,9 +45429,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "0147d2e698cab1ef21970d9170fc292c7fb1eaac",
-   "hash": "c33c51cb66d45ff9d0b03320c232ff66ade9ab83",
-   "lastmod": "2026-11-13"
+   "exact": "ea3b453f49ed7c46a5b60c9420416ecfe73262a2",
+   "hash": "4e2e4fdadc7e1f5d086487d164416af5544d2e14",
+   "lastmod": "2026-11-14"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -46037,9 +46089,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/cake-com-inc-clockify.html": {
-   "exact": "5eb89b6553110148af5fec2959488bc56e7ee37f",
-   "hash": "5eb89b6553110148af5fec2959488bc56e7ee37f",
-   "lastmod": "2026-11-05"
+   "exact": "9d16eb17122b621fed07d126851b11f9871b84c0",
+   "hash": "9d16eb17122b621fed07d126851b11f9871b84c0",
+   "lastmod": "2026-11-14"
   },
   "https://eam.drung.dev/apps/calibrite-profiler.html": {
    "exact": "c1e53eb2a41f7180328f2e63304b51b40545de5d",
@@ -46652,9 +46704,9 @@
    "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/ej-technologies-gmbh-jprofiler.html": {
-   "exact": "7a8172896dc5e90ff85b352fe3b9d1abb60cb5d6",
-   "hash": "7a8172896dc5e90ff85b352fe3b9d1abb60cb5d6",
-   "lastmod": "2026-11-05"
+   "exact": "58b6d27b6073bbd70642d4458a46e13403b49cae",
+   "hash": "58b6d27b6073bbd70642d4458a46e13403b49cae",
+   "lastmod": "2026-11-14"
   },
   "https://eam.drung.dev/apps/elasticsearch-b-v-beats-winlogbeat.html": {
    "exact": "d01129d5c70cd75bfdbe43611c1c70386a99eb4c",
@@ -47027,9 +47079,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/google-llc-google-chrome.html": {
-   "exact": "0807b6d2746d77ddecacc52781e8dd7ff855d255",
-   "hash": "0807b6d2746d77ddecacc52781e8dd7ff855d255",
-   "lastmod": "2026-11-05"
+   "exact": "bb38cd912613627c81bc65d5882adae14ddd43bd",
+   "hash": "bb38cd912613627c81bc65d5882adae14ddd43bd",
+   "lastmod": "2026-11-14"
   },
   "https://eam.drung.dev/apps/google-web-designer.html": {
    "exact": "924be5368f6d89e1e66f0ca66f8d4ef3e9ef7938",
@@ -48817,7 +48869,7 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "f422befc387068d06f8deee02a6fe2213bad8422",
+   "exact": "b8611599ea53a5ce160f0ce6a7f1438bff228399",
    "hash": "43bb8a83645e05675a50e90b3a90555328c91603",
    "lastmod": "2026-11-13"
   },
@@ -49842,9 +49894,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/wildix-inc-wildix-collaboration.html": {
-   "exact": "b7f72de1b6669206b4d982727db9d2c405cc2425",
-   "hash": "b7f72de1b6669206b4d982727db9d2c405cc2425",
-   "lastmod": "2026-11-12"
+   "exact": "8d072500f22f4a1e416dd20eaaebf0a8f3aa1a0a",
+   "hash": "8d072500f22f4a1e416dd20eaaebf0a8f3aa1a0a",
+   "lastmod": "2026-11-14"
   },
   "https://eam.drung.dev/apps/wind-information-co-ltd-wind-financial-terminal.html": {
    "exact": "70fa141dc470a204d035259a61248457a97c8222",

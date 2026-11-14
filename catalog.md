@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261113_193112_AppCatalog.json` (exported 2026-11-13 19:31:12)  
-> **Generated:** 2026-11-13 19:31 UTC  
+> **Source:** `20261114_055609_AppCatalog.json` (exported 2026-11-14 05:56:09)  
+> **Generated:** 2026-11-14 05:56 UTC  
 > **Total:** 1,595 packages · 933 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -205,7 +205,7 @@
 | 197 | Bullzip | Bullzip PDF to Word | PDF to Word | `2.1.0.0` | x86,x64 | ❌ | en-US |
 | 198 | Burnaware | BurnAware Free | BurnAware Free | `19.5` | x86,x64 | ❌ | en-US |
 | 199 | Bytello | Bytello Share | Bytello Share | `5.13.1.4288` | x86,x64 | ❌ | en-US |
-| 200 | Cake.com Inc. | Clockify | Clockify | `2.4.3` | x64 | ❌ | en-US |
+| 200 | Cake.com Inc. | Clockify | Clockify | `2.4.4` | x64 | ❌ | en-US |
 | 201 | Calibrite | Calibrite Profiler | Calibrite Profiler | `2.0.0` | x64 | ❌ | en-US |
 | 202 | Canon Production Printing | Publisher Select 3 | Publisher Select 3 | `3.6.2` | x86,x64 | ❌ | en-US |
 | 203 | Caphyon | Caphyon Advanced Installer | Advanced Installer | `24.2.1` | x86,x64 | ❌ | en-US |
@@ -337,8 +337,8 @@
 | 329 | EIZO | Screen InStyle | Screen InStyle | `1.1.18` | x86,x64 | ❌ | en-US |
 | 330 | ej-technologies GmbH | Install4j | Install4j (x64) | `13.1.3` | x64 | ❌ | en-US |
 | 331 | ej-technologies GmbH | JProfiler | JProfiler 10 | `10.1.5` | x64 | ❌ | en-US |
-| 332 | ej-technologies GmbH | JProfiler | JProfiler | `16.3` | x64 | ❌ | en-US |
-| 333 | ej-technologies GmbH | JProfiler | JProfiler 13 | `13.0.7` | x64 | ❌ | en-US |
+| 332 | ej-technologies GmbH | JProfiler | JProfiler 13 | `13.0.7` | x64 | ❌ | en-US |
+| 333 | ej-technologies GmbH | JProfiler | JProfiler | `16.3.1` | x64 | ❌ | en-US |
 | 334 | ej-technologies GmbH | JProfiler | JProfiler 6 | `6.2.4` | x64 | ❌ | en-US |
 | 335 | ej-technologies GmbH | JProfiler | JProfiler 11 | `11.1.4` | x64 | ❌ | en-US |
 | 336 | ej-technologies GmbH | JProfiler | JProfiler 7 | `7.2.3` | x64 | ❌ | en-US |
@@ -439,7 +439,7 @@
 | 431 | Google | Google Go Programming Language 1.22 | Go Programming Language 1.22 (x64) | `1.22.12` | x64 | ❌ | en-US |
 | 432 | Google | Google Web Designer | Google Web Designer (x64) | `14.3.2.0` | x64 | ❌ | en-US |
 | 433 | Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | x64 | ❌ | en-US |
-| 434 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `157.0.8103.39` | x64 | ❌ | en-US |
+| 434 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `157.0.8103.79` | x64 | ❌ | en-US |
 | 435 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.21.0` | x64 | ❌ | en-US |
 | 436 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.21.0` | x64 | ❌ | en-US |
 | 437 | GP Software | Directory Opus | Directory Opus | `13.18` | x64 | ✅ | en-US |
@@ -1551,8 +1551,8 @@
 | 1543 | Webprofusion Pty Ltd | Certify The Web | Certify The Web | `6.1.0` | x64 | ❌ | en-US |
 | 1544 | wftpserver.com | FTP Rush v3 | FTP Rush v3 | `3.6.7` | x86,x64 | ❌ | en-US |
 | 1545 | Wibu Systems | CodeMeter Runtime Kit | CodeMeter Runtime Kit | `9.10.8166.500` | x64 | ✅ | en-US |
-| 1546 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.2.426` | x64 | ❌ | en-US |
-| 1547 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.2.426` | x64 | ❌ | en-US |
+| 1546 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.3.444` | x64 | ❌ | en-US |
+| 1547 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.3.444` | x64 | ❌ | en-US |
 | 1548 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.6.0` | x86,x64 | ❌ | en-US |
 | 1549 | WinDirStat Team | WinDirStat | WinDirStat (x64) | `2.2.2` | x64 | ❌ | en-US |
 | 1550 | WireGuard LLC | WireGuard | WireGuard (x64) | `1.1.1` | x64 | ❌ | en-US |
