@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261114_055609_AppCatalog.json` (exported 2026-11-14 05:56:09)  
-> **vs:** `20261107_053802_AppCatalog.json` (exported 2026-11-07 05:38:02)  
+> **Comparing:** `20261114_175434_AppCatalog.json` (exported 2026-11-14 17:54:34)  
+> **vs:** `20261107_174239_AppCatalog.json` (exported 2026-11-07 17:42:39)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-14 05:56 UTC
+> **Generated:** 2026-11-14 17:55 UTC
 
 ## Summary
 
@@ -11,12 +11,12 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 158 |
+| 🔄 Updated | 159 |
 | 🧩 Repackaged | 0 |
 
-> 101 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 99 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## 🔄 Updated (158 packages)
+## 🔄 Updated (159 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -72,6 +72,7 @@
 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.34.70.0` | `2.34.121.0` | Version |
 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.934.0` | `6.0.936.0` | Version |
 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.5` | `26.4.0` | Version |
+| JetBrains | WebStorm | WebStorm 2026.2 (x64) | `2026.2.4` | `2026.2.5` | Version |
 | John MacFarlane | Pandoc | Pandoc | `3.13` | `3.14` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.18.3` | `3.19.6` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `13.0.0.3` | `13.1.0.5` | Version |
