@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261114_175434_AppCatalog.json` (exported 2026-11-14 17:54:34)  
-> **vs:** `20261107_174239_AppCatalog.json` (exported 2026-11-07 17:42:39)  
+> **Comparing:** `20261115_055854_AppCatalog.json` (exported 2026-11-15 05:58:54)  
+> **vs:** `20261108_053952_AppCatalog.json` (exported 2026-11-08 05:39:52)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-14 17:55 UTC
+> **Generated:** 2026-11-15 05:59 UTC
 
 ## Summary
 

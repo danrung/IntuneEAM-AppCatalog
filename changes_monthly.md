@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261114_175434_AppCatalog.json` (exported 2026-11-14 17:54:34)  
-> **vs:** `20261015_164415_AppCatalog.json` (exported 2026-10-15 16:44:15)  
+> **Comparing:** `20261115_055854_AppCatalog.json` (exported 2026-11-15 05:58:54)  
+> **vs:** `20261016_040716_AppCatalog.json` (exported 2026-10-16 04:07:16)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-14 17:55 UTC
+> **Generated:** 2026-11-15 05:59 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 395 |
+| 🔄 Updated | 391 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (395 packages)
+## 🔄 Updated (391 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -78,7 +78,7 @@
 | Boris Eyrich Software | Artweaver Free | Artweaver Free | `8.1.6.4131` | `8.1.7.4304` | Version |
 | Box | Box Drive | Box Drive (x64) | `2.55.140` | `2.55.145` | Version |
 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | `4.30.0.9` | Version |
-| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.97.56` | `1.99.57` | Version |
+| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.97.57` | `1.99.57` | Version |
 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | `4.3.2611.10204` | Version |
 | Burnaware | BurnAware Free | BurnAware Free | `19.4` | `19.5` | Version |
 | Cake.com Inc. | Clockify | Clockify | `2.3.4` | `2.4.4` | Version |
@@ -190,12 +190,9 @@
 | Krisp | Krisp | Krisp 3.x | `3.17.9` | `3.19.6` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `13.0.0.2` | `13.1.0.5` | Version |
 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.1.22` | `8.5.12` | Version |
-| Logitech | Logi Tune | Logi Tune | `3.15.62.0` | `3.15.80.0` | Version |
 | Logitech | Logitech Sync App | Logitech Sync App | `3.11.238` | `3.12.254` | Version |
-| LogMeIn | LogMeIn Client | LogMeIn Client | `1.3.5702` | `1.3.5714` | Version |
-| LogMeIn | LogMeIn Host | LogMeIn Host | `4.1.16226` | `4.1.16248` | Version |
 | LucidLink | LucidLink Classic | LucidLink Classic | `2.10.8913` | `2.10.9033` | Version |
-| Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.0` | `6.3.2` | Version |
+| Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.1` | `6.3.2` | Version |
 | Maxima Software (Pty) Ltd | Maxcut | Maxcut | `2.9.6.7` | `2.9.6.8` | Version |
 | Maxon Computer GmbH | ZBrush | ZBrush (x64) | `2026.2.1` | `2027.0.1` | Version |
 | Meta Platforms, Inc. | Meta VR Developer Hub | Meta VR Developer Hub | `6.4.1` | `6.4.1` | App Name, Branch |
@@ -221,7 +218,7 @@
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37806.7` | `17.14.37906.3` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37806.7` | `17.14.37906.3` | Version |
 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.11.12306.390` | `18.12.12405.243` | Version |
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.141.2` | `1.146.0` | Version |
+| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.142.0` | `1.146.0` | Version |
 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37806.7` | `17.14.37906.3` | Version |
 | Microsoft | OpenJDK | OpenJDK 21 (x64) | `21.0.12.1` | `21.0.13.0` | Version |
 | Microsoft | OpenJDK | OpenJDK 25 (x64) | `25.0.4.1` | `25.0.5.0` | Version |
@@ -356,7 +353,6 @@
 | Pinjan | TeamDrive | TeamDrive (TMDR) | `5.2.2.3715` | `5.3.0.3927` | Version |
 | Plex | Plex Media Server | Plex Media Server (x64) | `1.43.4.10903` | `1.43.5.11079` | Version |
 | PolderValley | SelfGuide Recorder | SelfGuide Recorder | `2.201.0.0` | `2.203.2.0` | Version |
-| Private Internet Access Inc. | Private Internet Access | Private Internet Access (x64) | `3.7.2` | `3.8` | Version |
 | Proton AG | Proton VPN | Proton VPN (x64) | `5.1.8` | `5.1.9` | Version |
 | PURSLANE | RustDesk | RustDesk | `1.5.0` | `1.5.3` | Version |
 | Python Software Foundation | Python 3.13 | Python 3.13 (x64) | `3.13.16` | `3.13.17` | Version |
@@ -414,7 +410,7 @@
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.7.3.381` | `2.8.3.444` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (MSI) | `4.7.3` | `4.7.4` | Version |
 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.12.2.0` | `1.12.3.0` | Version |
-| Zandar Labs SL | Aptakube | Aptakube | `1.21.3` | `1.22.3` | Version |
+| Zandar Labs SL | Aptakube | Aptakube | `1.21.4` | `1.22.3` | Version |
 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.2.0` | `7.2.5` | Version |
 | Zoom Video Communications, Inc. | Zoom Workplace | Zoom Workplace (x64) (msi) | `7.2.48358` | `7.2.51704` | Version |
 | Zotero | Zotero | Zotero (x64) | `10.0.6` | `10.0.8` | Version |
