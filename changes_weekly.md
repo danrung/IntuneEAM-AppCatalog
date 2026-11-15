@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261115_055854_AppCatalog.json` (exported 2026-11-15 05:58:54)  
-> **vs:** `20261108_053952_AppCatalog.json` (exported 2026-11-08 05:39:52)  
+> **Comparing:** `20261115_184518_AppCatalog.json` (exported 2026-11-15 18:45:18)  
+> **vs:** `20261108_175316_AppCatalog.json` (exported 2026-11-08 17:53:16)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-15 05:59 UTC
+> **Generated:** 2026-11-15 18:45 UTC
 
 ## Summary
 
@@ -11,12 +11,12 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 159 |
+| 🔄 Updated | 158 |
 | 🧩 Repackaged | 0 |
 
 > 99 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## 🔄 Updated (159 packages)
+## 🔄 Updated (158 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -62,7 +62,6 @@
 | Garmin | Garmin Express | Garmin Express | `7.29.1.0` | `7.29.1.0` | Architecture, Detection rules, Install context |
 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.33.0` | `11.34.0` | Version |
 | Genesys | Genesys Cloud | Genesys Cloud (x64) | `2.56.933` | `2.57.942` | Version, Uninstall command |
-| GIMP | GIMP | GIMP | `3.2.6.0` | `3.2.8.0` | Version |
 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.103.3` | `2.104.0` | Version |
 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.4.0` | `14.14.2.0` | Version |
 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `157.0.8103.39` | `157.0.8103.79` | Version |

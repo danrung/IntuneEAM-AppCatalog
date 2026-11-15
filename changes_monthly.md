@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261115_055854_AppCatalog.json` (exported 2026-11-15 05:58:54)  
-> **vs:** `20261016_040716_AppCatalog.json` (exported 2026-10-16 04:07:16)  
+> **Comparing:** `20261115_184518_AppCatalog.json` (exported 2026-11-15 18:45:18)  
+> **vs:** `20261016_162640_AppCatalog.json` (exported 2026-10-16 16:26:40)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-15 05:59 UTC
+> **Generated:** 2026-11-15 18:45 UTC
 
 ## Summary
 
@@ -402,7 +402,7 @@
 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.0` | `1.8.3.2` | Version |
 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | `1.26.31` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1186` | `9.2.1320` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1192` | `9.2.1342` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1193` | `9.2.1342` | Version |
 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.140.06880` | `1.143.17232` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.6` | `6.7.8` | Version |
 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.9` | `4.14.10` | Version |
