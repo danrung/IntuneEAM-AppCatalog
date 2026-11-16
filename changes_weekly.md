@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261115_184518_AppCatalog.json` (exported 2026-11-15 18:45:18)  
-> **vs:** `20261108_175316_AppCatalog.json` (exported 2026-11-08 17:53:16)  
+> **Comparing:** `20261116_055825_AppCatalog.json` (exported 2026-11-16 05:58:25)  
+> **vs:** `20261109_054956_AppCatalog.json` (exported 2026-11-09 05:49:56)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-15 18:45 UTC
+> **Generated:** 2026-11-16 05:59 UTC
 
 ## Summary
 
@@ -14,7 +14,7 @@
 | 🔄 Updated | 158 |
 | 🧩 Repackaged | 0 |
 
-> 99 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 100 further packages got a new package id with no change to the catalog entry or the deployment details.
 
 ## 🔄 Updated (158 packages)
 
