@@ -11156,6 +11156,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.4",
+      "26.2.5",
+      1
+     ]
+    ]
    }
   ],
   "dbeaver-corp-dbeaver-enterprise": [
@@ -21168,6 +21181,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.6.1",
+      "2026.2.7",
+      1
+     ]
+    ]
    }
   ],
   "jetbrains-dataspell": [
@@ -23952,6 +23978,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.10.9033",
+      "2.10.9127",
+      1
+     ]
+    ]
    }
   ],
   "mariadb-foundation-mariadb-server-10-6": [
@@ -24124,6 +24163,19 @@
      [
       "6.3.1",
       "6.3.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.3.2",
+      "6.4.0",
       1
      ]
     ]
@@ -24368,6 +24420,21 @@
      [
       "9.24.44.121338",
       "9.24.44.121539",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [
+     "Detection rules"
+    ],
+    "removed": 0,
+    "versions": [
+     [
+      "9.24.44.121539",
+      "9.24.45.134586",
       1
      ]
     ]
@@ -25979,6 +26046,19 @@
      [
       "158.0.4370.16",
       "158.0.4370.21",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "158.0.4370.21",
+      "158.0.4370.26",
       1
      ]
     ]
@@ -27740,6 +27820,11 @@
      [
       "7.6.6",
       "7.6.9",
+      1
+     ],
+     [
+      "7.6.9",
+      "7.6.10",
       1
      ]
     ]
@@ -30166,6 +30251,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.0.46.0",
+      "1.0.47.0",
+      1
+     ]
+    ]
    }
   ],
   "mongodb-inc-mongodb-compass": [
@@ -31711,6 +31809,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.3566.1",
+      "9.2.3568.1",
+      1
+     ]
+    ]
    }
   ],
   "nagios-enterprises-ncpa": [
@@ -32374,6 +32485,19 @@
      [
       "2.0.1",
       "2.0.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.0.2",
+      "2.1.0",
       1
      ]
     ]
@@ -35248,6 +35372,19 @@
      [
       "10.9.0",
       "11.3.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.3.0",
+      "11.4.0",
       1
      ]
     ]
@@ -43293,6 +43430,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1351",
+      "9.2.1355",
+      1
+     ]
+    ]
    }
   ],
   "visual-paradigm-international-ltd-visual-paradigm-project-viewer": [
@@ -45737,7 +45887,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261117_073436_AppCatalog.json",
+ "history_through": "20261117_204514_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -45746,8 +45896,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "247bda1f46917a361342596a28a86e8ce2a97d22",
-   "hash": "25a4715ac9e9d10c166c758ff2bbfb1f1e7510bf",
+   "exact": "403a58f3d4077c52ed9fe61e76dce69b168db13a",
+   "hash": "c269d6c24dc4669c957d42983876b24d97501a97",
    "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -46706,9 +46856,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-community.html": {
-   "exact": "381415cb3bbeb6b09e9ce396eb217b282d9a7e26",
-   "hash": "381415cb3bbeb6b09e9ce396eb217b282d9a7e26",
-   "lastmod": "2026-11-05"
+   "exact": "661967f901258fda887f0b0edf0bd8b04c5f99ad",
+   "hash": "661967f901258fda887f0b0edf0bd8b04c5f99ad",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-enterprise.html": {
    "exact": "e23f0d52ace3e65a05a4b7d9f8ab1ca51bf518c7",
@@ -47656,9 +47806,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip.html": {
-   "exact": "77cb50f4404f15d805c77af3e64041abbde6acd6",
-   "hash": "77cb50f4404f15d805c77af3e64041abbde6acd6",
-   "lastmod": "2026-11-05"
+   "exact": "273abcea1b5f67e6b9200c0429c8e7acc798aa11",
+   "hash": "273abcea1b5f67e6b9200c0429c8e7acc798aa11",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/jetbrains-dataspell.html": {
    "exact": "a0a7422e29d5d3caaf313ef271f79602599bf76a",
@@ -47951,9 +48101,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/lucidlink-classic.html": {
-   "exact": "084727b0b6659489d011953b5242b28ac3e533f4",
-   "hash": "084727b0b6659489d011953b5242b28ac3e533f4",
-   "lastmod": "2026-11-05"
+   "exact": "1d9fc4b6f2f3ac83f20bd16b9d9828f2a296ffd4",
+   "hash": "1d9fc4b6f2f3ac83f20bd16b9d9828f2a296ffd4",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/lumivero-nvivo-12.html": {
    "exact": "cdffbc6574b7575d3b7fe85b85c3e54d1c7cfe4d",
@@ -48036,9 +48186,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/mattermost-inc-mattermost-desktop.html": {
-   "exact": "ad1774f179f9c58071e7d094cd5102bf265de756",
-   "hash": "ad1774f179f9c58071e7d094cd5102bf265de756",
-   "lastmod": "2026-11-05"
+   "exact": "a0f9f8880f8840f8207123b323882659298412f2",
+   "hash": "a0f9f8880f8840f8207123b323882659298412f2",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/maxima-software-pty-ltd-maxcut.html": {
    "exact": "5f259b8664419df9791f6fc7907d228e079894cd",
@@ -48071,9 +48221,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/mendix-technology-b-v-mendix-studio-pro-9.html": {
-   "exact": "8683fe4a62bdf98e7252041d73fc760e3230345e",
-   "hash": "8683fe4a62bdf98e7252041d73fc760e3230345e",
-   "lastmod": "2026-11-05"
+   "exact": "6f2701e5304402264db80b82c8f8ee14be4bd49a",
+   "hash": "6f2701e5304402264db80b82c8f8ee14be4bd49a",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/mersive-technologies-inc-mersive-solstice-client.html": {
    "exact": "c6065d9516b2cd6246230cfda209a29ddbf3230b",
@@ -48201,9 +48351,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "81983d348b2295f998072605898bb97988bb1c46",
-   "hash": "81983d348b2295f998072605898bb97988bb1c46",
-   "lastmod": "2026-11-16"
+   "exact": "d1e4c252120c90102121466eba8b3f528f84f4eb",
+   "hash": "d1e4c252120c90102121466eba8b3f528f84f4eb",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "c1c9a7607905090daaeb4db3be4ec49ede3c7169",
@@ -48331,8 +48481,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-powershell-core.html": {
-   "exact": "134af169f6925b50b15686cb3e2cee0ad15ebea3",
-   "hash": "134af169f6925b50b15686cb3e2cee0ad15ebea3",
+   "exact": "5c2264c7e455554ac879e3030b30d0f62f8b50ab",
+   "hash": "5c2264c7e455554ac879e3030b30d0f62f8b50ab",
    "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/microsoft-powertoys.html": {
@@ -48571,9 +48721,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/monday-com-ltd-monday.html": {
-   "exact": "48d73c6945df2ee243e21bab5a669f6070efe192",
-   "hash": "48d73c6945df2ee243e21bab5a669f6070efe192",
-   "lastmod": "2026-11-05"
+   "exact": "321e26228f3928ece89bacb6b325f1dd1e015ce4",
+   "hash": "321e26228f3928ece89bacb6b325f1dd1e015ce4",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass-isolated-edition.html": {
    "exact": "ccdd6183075b5bad5bdee8a6f90b457c5e2e2505",
@@ -48651,9 +48801,9 @@
    "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/mythicsoft-ltd-agent-ransack.html": {
-   "exact": "cedd206acc04c8ccd49e47ca809d3c43af76d22e",
-   "hash": "cedd206acc04c8ccd49e47ca809d3c43af76d22e",
-   "lastmod": "2026-11-05"
+   "exact": "c66c91a5f308a41bb0840e0d8ff624203ea7914f",
+   "hash": "c66c91a5f308a41bb0840e0d8ff624203ea7914f",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/nagios-enterprises-ncpa.html": {
    "exact": "7733467d8191e6f7cffabcd2f15bba9aaf581cd5",
@@ -48701,9 +48851,9 @@
    "lastmod": "2026-11-16"
   },
   "https://eam.drung.dev/apps/new-relic-inc-new-relic-infrastructure-agent.html": {
-   "exact": "0abaf0f39f8a2efa35ae1b0911b96411eac6d7de",
-   "hash": "0abaf0f39f8a2efa35ae1b0911b96411eac6d7de",
-   "lastmod": "2026-11-11"
+   "exact": "576559efc6a3526ef14af13af0b813b5efe190e0",
+   "hash": "576559efc6a3526ef14af13af0b813b5efe190e0",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/nextcloud.html": {
    "exact": "6a26a655435909114144343ee03816f531b45b36",
@@ -49021,9 +49171,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/peazip-srl-peazip.html": {
-   "exact": "e746695d1ebb03351fbb5e3f2f1ab2eacf7093ba",
-   "hash": "e746695d1ebb03351fbb5e3f2f1ab2eacf7093ba",
-   "lastmod": "2026-11-05"
+   "exact": "c4285982ffb0e20ed54f4d1b888b37661aed05d1",
+   "hash": "c4285982ffb0e20ed54f4d1b888b37661aed05d1",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/peculiarventures-fortify.html": {
    "exact": "be31debf10cf79382d00ed6480e111895de5f9a6",
@@ -49186,8 +49336,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "0cb86a15656bde2e0a08f0b4338c7019ac46647d",
-   "hash": "75b0a74e0209609aab26d6b34a5bf901d482c813",
+   "exact": "f0094fabb66adcf26314a0e8b20b9f746c1355b5",
+   "hash": "ca778302e2b3c36a9669fa48640e0fa8997fa273",
    "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -50076,9 +50226,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "8943d7f8c6677251370ef6b0b3e554477f7226f0",
-   "hash": "8943d7f8c6677251370ef6b0b3e554477f7226f0",
-   "lastmod": "2026-11-16"
+   "exact": "2731d56f2f64727d5c8bf7135ec9b3a89f891686",
+   "hash": "2731d56f2f64727d5c8bf7135ec9b3a89f891686",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "fd5d2f774ff7b172a07409aead83d0837aef4929",

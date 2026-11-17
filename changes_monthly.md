@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261117_073436_AppCatalog.json` (exported 2026-11-17 07:34:36)  
-> **vs:** `20261018_040415_AppCatalog.json` (exported 2026-10-18 04:04:15)  
+> **Comparing:** `20261117_204514_AppCatalog.json` (exported 2026-11-17 20:45:14)  
+> **vs:** `20261018_154214_AppCatalog.json` (exported 2026-10-18 15:42:14)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-17 07:35 UTC
+> **Generated:** 2026-11-17 20:45 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 397 |
+| 🔄 Updated | 401 |
 
 ## ✅ Added (1 packages)
 
@@ -19,7 +19,7 @@
 |-----------|-----|--------|---------|:------------:|
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (397 packages)
+## 🔄 Updated (401 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -97,7 +97,7 @@
 | Datadog | Datadog Agent | Datadog Agent | `7.84.3` | `7.85.4` | Version |
 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.4.45528` | `9.6.0.46406` | Version |
 | DAX Studio | DAX Studio | DAX Studio | `3.6.1.1250` | `3.6.2.1263` | Version |
-| DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.2.2` | `26.2.4` | Version |
+| DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.2.2` | `26.2.5` | Version |
 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.2.0` | `26.2.0.1` | Version |
 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.2.0` | `26.2.0.1` | Version |
 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.2.0` | `26.2.0.1` | Version |
@@ -168,7 +168,7 @@
 | JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.6` | `2025.2.6.1` | Version |
 | JetBrains | DataGrip | DataGrip 2025.3 (x64) | `2025.3.6` | `2025.3.6.1` | Version |
 | JetBrains | DataGrip | DataGrip 2026.1 (x64) | `2026.1.4` | `2026.1.4.1` | Version |
-| JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.6` | `2026.2.6.1` | Version |
+| JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.6` | `2026.2.7` | Version |
 | JetBrains | DataSpell | DataSpell 2025.2 (x64) | `2025.2.4` | `2025.2.4.1` | Version |
 | JetBrains | DataSpell | DataSpell 2025.3 (x64) | `2025.3.3` | `2025.3.3.1` | Version |
 | JetBrains | DataSpell | DataSpell 2026.1 (x64) | `2026.1.3` | `2026.1.3.1` | Version |
@@ -194,10 +194,11 @@
 | Lansweeper | Lansweeper | Lansweeper | `13.0.0.2` | `13.1.0.5` | Version |
 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.2.16` | `8.5.12` | Version |
 | Logitech | Logitech Sync App | Logitech Sync App | `3.11.238` | `3.12.254` | Version |
-| LucidLink | LucidLink Classic | LucidLink Classic | `2.10.8913` | `2.10.9033` | Version |
-| Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.1` | `6.3.2` | Version |
+| LucidLink | LucidLink Classic | LucidLink Classic | `2.10.8913` | `2.10.9127` | Version |
+| Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.1` | `6.4.0` | Version |
 | Maxima Software (Pty) Ltd | Maxcut | Maxcut | `2.9.6.7` | `2.9.6.8` | Version |
 | Maxon Computer GmbH | ZBrush | ZBrush (x64) | `2026.2.1` | `2027.0.1` | Version |
+| Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9 (LTS) | `9.24.44.121539` | `9.24.45.134586` | Version |
 | Meta Platforms, Inc. | Meta VR Developer Hub | Meta VR Developer Hub | `6.4.1` | `6.4.1` | App Name, Branch |
 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.16.0` | `4.16.1` | Version |
 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2626.50502` | `8.4.2826.52802` | Version |
@@ -207,14 +208,14 @@
 | Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.4.0.41245` | `16.5.0.41350` | Version |
 | Microsoft | Microsoft Azure Storage Explorer | Azure Storage Explorer (x64) | `1.46.0` | `1.47.1` | Version |
 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `2.26.921.1` | `2.26.1102.1` | Version |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `156.0.4314.30` | `158.0.4370.21` | Version |
+| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `156.0.4314.30` | `158.0.4370.26` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `157.0.4329.0` | `159.0.4393.0` | Version |
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.334.9` | `3000.338.3` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.178.0913.0007` | `26.204.1019.0009` | Version |
 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.159.883.0` | `2.159.1231.0` | Version |
 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.4 (x64) | `7.4.13` | `7.4.21` | Version |
 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.5 (x64) | `7.5.11` | `7.5.12` | Version |
-| Microsoft | Microsoft PowerShell Core | PowerShell Core 7.6 (x64) | `7.6.6` | `7.6.9` | Version |
+| Microsoft | Microsoft PowerShell Core | PowerShell Core 7.6 (x64) | `7.6.6` | `7.6.10` | Version |
 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.101.2362.0` | `0.102.3101.0` | Version |
 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.101.2362.0` | `0.102.3101.0` | Version |
 | Microsoft | Microsoft Purview Information Protection client | Purview Information Protection client | `3.2.173.0` | `3.2.181.0` | Version |
@@ -233,6 +234,7 @@
 | Mirantis, Inc | Lens Desktop | Lens Desktop | `2026.10.121159` | `2026.11.91422` | Version |
 | MochaSoft Aps | Mocha TN3812 | Mocha TN3812 | `1.5` | `1.6.2` | Version |
 | MochaSoft Aps | Mocha TN5250 | Mocha TN5250 | `4.3` | `4.4` | Version |
+| monday.com Ltd | monday | monday | `1.0.46.0` | `1.0.47.0` | Version |
 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.53.0` | `1.53.2` | Version |
 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.53.0` | `1.53.2` | Version |
 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.53.0` | `1.53.2` | Version |
@@ -330,10 +332,11 @@
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Ukrainian) (x64) | `115.43.0` | `115.44.0` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Vietnamese) (x64) | `115.43.0` | `115.44.0` | Version |
 | MuseScore | MuseScore Studio 4 | MuseScore Studio 4 | `4.7.5.260831071` | `4.7.7.261109195` | Version |
+| Mythicsoft Ltd | Agent Ransack | Agent Ransack | `9.2.3566.1` | `9.2.3568.1` | Version |
 | Nagios Enterprises | NCPA | NCPA (x64) | `3.5.0` | `3.5.1` | Version |
 | NetBird GmbH | NetBird | NetBird | `0.81.2` | `0.83.1` | Version |
 | NETworkManager | NETworkManager | NETworkManager | `2026.7.7.0` | `2026.11.15.0` | Version |
-| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.4` | `2.0.2` | Version |
+| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.4` | `2.1.0` | Version |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `35.0.0.20261012` | `35.0.3.20261104` | Version |
 | NGWIN | PicPick | PicPick | `7.6.1` | `7.6.2` | Version |
 | NICE Software | Amazon DCV Client | Amazon DCV Client | `26.0.13455.0` | `26.0.14158.0` | Version |
@@ -357,6 +360,7 @@
 | PDF-XChange Co Ltd | PDF-Tools | PDF-Tools 11 (x64) | `11.1.0.0` | `11.1.2.0` | Version |
 | PDF-XChange Co Ltd | PDF-XChange PRO | PDF-XChange PRO 11 (x64) | `11.1.0.0` | `11.1.2.0` | Version |
 | PDFgear | PDFgear | PDFgear | `3.0.0` | `3.0.1` | Version |
+| PeaZip srl | PeaZip | PeaZip (x64) | `11.3.0` | `11.4.0` | Version |
 | Plex | Plex Media Server | Plex Media Server (x64) | `1.43.4.10903` | `1.43.5.11079` | Version |
 | PolderValley | SelfGuide Recorder | SelfGuide Recorder | `2.201.0.0` | `2.203.2.0` | Version |
 | Proton AG | Proton VPN | Proton VPN (x64) | `5.1.8` | `5.1.9` | Version |
@@ -407,7 +411,7 @@
 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.0` | `1.8.3.2` | Version |
 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | `1.26.31` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1202` | `9.2.1345` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1202` | `9.2.1351` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1202` | `9.2.1355` | Version |
 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.140.06880` | `1.143.17232` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.6` | `6.7.8` | Version |
 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.9` | `4.14.10` | Version |
