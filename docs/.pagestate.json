@@ -21760,6 +21760,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.1",
+      "2026.2.2",
+      1
+     ]
+    ]
    }
   ],
   "jetbrains-webstorm": [
@@ -27717,6 +27730,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.6.6",
+      "7.6.9",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-powertoys": [
@@ -32850,6 +32876,19 @@
      [
       "22.22.2",
       "22.23.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-17",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "22.23.1",
+      "22.23.5",
       1
      ]
     ]
@@ -45698,7 +45737,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261116_215502_AppCatalog.json",
+ "history_through": "20261117_073436_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -45707,9 +45746,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "35f04184fea7ee98f8d6407daca6337eb4d5dcce",
-   "hash": "c7055db20e4fe6bcc27de86f4b611215fd15102f",
-   "lastmod": "2026-11-16"
+   "exact": "247bda1f46917a361342596a28a86e8ce2a97d22",
+   "hash": "25a4715ac9e9d10c166c758ff2bbfb1f1e7510bf",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -47662,9 +47701,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/jetbrains-teamcity.html": {
-   "exact": "c97db49628bcab739dcfd886d7e4aa5201dc4f51",
-   "hash": "c97db49628bcab739dcfd886d7e4aa5201dc4f51",
-   "lastmod": "2026-11-05"
+   "exact": "d5b75618648db8e7793ebc5d1614ccec7c68d733",
+   "hash": "d5b75618648db8e7793ebc5d1614ccec7c68d733",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/jetbrains-webstorm-2022-2.html": {
    "exact": "3f8620489189cf60648f595870b9bb582c37a03a",
@@ -48292,9 +48331,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-powershell-core.html": {
-   "exact": "17edbabee21f384882551d8ded8bddc2743ad5b3",
-   "hash": "17edbabee21f384882551d8ded8bddc2743ad5b3",
-   "lastmod": "2026-11-05"
+   "exact": "134af169f6925b50b15686cb3e2cee0ad15ebea3",
+   "hash": "134af169f6925b50b15686cb3e2cee0ad15ebea3",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/microsoft-powertoys.html": {
    "exact": "b06c749bcf756fed894b2fbd7474093566f301f5",
@@ -48732,9 +48771,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-22-lts.html": {
-   "exact": "6641c2e80d11c3b8f2f98d454d8653b627d4155d",
-   "hash": "6641c2e80d11c3b8f2f98d454d8653b627d4155d",
-   "lastmod": "2026-11-05"
+   "exact": "1c59e2e75d3677a8507a9465cbf002c5efa0f539",
+   "hash": "1c59e2e75d3677a8507a9465cbf002c5efa0f539",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/node-js-foundation-node-js-23.html": {
    "exact": "67af7a0d929985cfb8c530e42f28d823121d0eb5",
@@ -49147,9 +49186,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "5ceaa05cb1107bcc007467fa82e2871db80cf774",
-   "hash": "9799ffca4a3a865f8ca17e0172c6f4aed221af55",
-   "lastmod": "2026-11-16"
+   "exact": "0cb86a15656bde2e0a08f0b4338c7019ac46647d",
+   "hash": "75b0a74e0209609aab26d6b34a5bf901d482c813",
+   "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
