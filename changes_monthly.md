@@ -1,25 +1,27 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261117_204514_AppCatalog.json` (exported 2026-11-17 20:45:14)  
-> **vs:** `20261018_154214_AppCatalog.json` (exported 2026-10-18 15:42:14)  
+> **Comparing:** `20261118_065821_AppCatalog.json` (exported 2026-11-18 06:58:21)  
+> **vs:** `20261019_041331_AppCatalog.json` (exported 2026-10-19 04:13:31)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-17 20:45 UTC
+> **Generated:** 2026-11-18 06:59 UTC
 
 ## Summary
 
 | Change | Count |
 |--------|------:|
-| ✅ Added | 1 |
+| ✅ Added | 3 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 401 |
+| 🔄 Updated | 402 |
 
-## ✅ Added (1 packages)
+## ✅ Added (3 packages)
 
 | Publisher | App | Branch | Version | Architecture |
 |-----------|-----|--------|---------|:------------:|
+| Blender Foundation | Blender | Blender 4.5 LTS (x64) | `4.5.16` | x64 |
+| Blender Foundation | Blender | Blender 5.3 (x64) | `5.3.0` | x64 |
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (401 packages)
+## 🔄 Updated (402 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -39,12 +41,12 @@
 | alfaview Gmbh | alfaview | alfaview | `9.29.0` | `9.30.5` | Version |
 | Amazon | Amazon AWS VPN Client | AWS VPN Client | `6.2.0` | `6.2.2` | Version |
 | Amazon | Amazon Corretto JDK 11 | Amazon Corretto JDK 11 (x64) | `11.0.32.12.1` | `11.0.33.0.10` | Version |
-| Amazon | Amazon Corretto JDK 17 | Amazon Corretto JDK 17 | `17.0.20.12.1` | `17.0.21.0.11` | Version |
+| Amazon | Amazon Corretto JDK 17 | Amazon Corretto JDK 17 | `17.0.20.12.1` | `17.0.21.1.2` | Version |
 | Amazon | Amazon Corretto JDK 8 | Amazon Corretto JDK 8 (x64) | `8.504.04.1` | `8.512.09.1` | Version |
 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.169.0` | `1.172.1` | Version |
 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.46.1` | `1.46.3` | Version |
 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.2.4.0` | `2.3.0.0` | Version |
-| Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.35.0.3249` | `5.36.0.3628` | Version |
+| Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.35.0.3249` | `5.37.0.3866` | Version |
 | Andrew Ziem | BleachBit | BleachBit | `6.0.2` | `6.0.6` | Version |
 | Ansgar Becker | HeidiSQL | HeidiSQL | `12.21.0.7344` | `12.22.0.7382` | Version |
 | Arduino | Arduino IDE | Arduino IDE | `2.3.10` | `2.3.11` | Version |
@@ -74,7 +76,7 @@
 | Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.5.0` | `8.6.0` | Version |
 | Bizagi Limited | Galaxy Modeler | Galaxy Modeler | `13.6.0` | `13.7.0` | Version |
 | Bizagi Limited | Moon Modeler | Moon Modeler | `13.6.0` | `13.7.5` | Version |
-| Blender Foundation | Blender | Blender 5.2 (x64) | `5.2.2` | `5.2.4` | Version |
+| Blender Foundation | Blender | Blender 5.2 LTS (x64) | `5.2.2` | `5.2.4` | Version, Branch |
 | Boris Eyrich Software | Artweaver Free | Artweaver Free | `8.1.6.4131` | `8.1.7.4304` | Version |
 | Box | Box Drive | Box Drive (x64) | `2.55.140` | `2.55.145` | Version |
 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | `4.30.0.9` | Version |
@@ -112,9 +114,9 @@
 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8.1` | `8.9.9.1` | Version |
 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.10.0` | `26.11.0` | Version |
 | draw.io | draw.io Desktop | draw.io Desktop | `32.4.1` | `32.6.10` | Version |
-| dRofus | dRofus | dRofus | `2.18.18.0` | `2.19.13.0` | Version |
-| Dropbox | Dropbox | Dropbox (x64) (EXE) | `275.4.3565` | `279.4.5723` | Version |
-| Dropbox | Dropbox | Dropbox (x64) (MSI) | `275.4.3565` | `279.4.5723` | Version |
+| dRofus | dRofus | dRofus | `2.18.18.0` | `2.19.14.0` | Version |
+| Dropbox | Dropbox | Dropbox (x64) (EXE) | `275.4.3565` | `280.4.5053` | Version |
+| Dropbox | Dropbox | Dropbox (x64) (MSI) | `275.4.3565` | `280.4.5053` | Version |
 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `8.1.3` | `8.1.9` | Version |
 | Dương Diệu Pháp | ImageGlass | ImageGlass 8 (x64) | `8.11.12.6` | `8.12.4.30` | Version |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 11 (LTS) | Eclipse Temurin JDK with Hotspot 11 (LTS) (x64) | `11.0.32.101` | `11.0.33.10` | Version |
@@ -132,9 +134,10 @@
 | Elgato | Elgato Stream Deck | Elgato Stream Deck | `7.6.0.23012` | `7.6.1.23033` | Version |
 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.5.2659` | `6.12.8.2751` | Version |
 | EnterpriseDB Corporation | pgAdmin 4 | pgAdmin 4 | `9.18` | `9.19` | Version |
-| Evernote | Evernote | Evernote | `11.38.5` | `11.42.3` | Version |
-| FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.80.0` | `3.80.1` | Version |
-| FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (MSI) | `3.80.0` | `3.80.1` | Version |
+| Evernote | Evernote | Evernote | `11.38.5` | `11.43.3` | Version |
+| FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.74.081.023` | `2016.75.060.014` | Version |
+| FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.80.0` | `3.81.2` | Version |
+| FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (MSI) | `3.80.0` | `3.81.2` | Version |
 | Garden Gnome GmbH | Garden Gnome Package Viewer | Garden Gnome Package Viewer | `1.6.1` | `2.0.0` | Version |
 | Garmin | Garmin Express | Garmin Express | `7.29.1.0` | `7.29.1.0` | Architecture |
 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.31.1` | `11.34.0` | Version |
@@ -177,7 +180,7 @@
 | JetBrains | GoLand | GoLand 2026.1 (x64) | `2026.1.5` | `2026.1.5.1` | Version |
 | JetBrains | GoLand | GoLand 2026.2 (x64) | `2026.2.2.1` | `2026.2.5` | Version |
 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.2 (x64) | `2025.2.6.3` | `2025.2.6.4` | Version |
-| JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.3.1` | `2026.2.4.1` | Version |
+| JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.3.1` | `2026.2.5` | Version |
 | JetBrains | TeamCity | TeamCity | `2026.2.1` | `2026.2.2` | Version |
 | JetBrains | WebStorm | WebStorm 2025.2 (x64) | `2025.2.6.2` | `2025.2.6.3` | Version |
 | JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.6.1` | `2025.3.6.2` | Version |
@@ -238,53 +241,53 @@
 | MongoDB Inc. | MongoDB Compass | MongoDB Compass | `1.53.0` | `1.53.2` | Version |
 | MongoDB Inc. | MongoDB Compass Isolated Edition | MongoDB Compass Isolated Edition | `1.53.0` | `1.53.2` | Version |
 | MongoDB Inc. | MongoDB Compass Readonly Edition | MongoDB Compass Readonly Edition (x64) | `1.53.0` | `1.53.2` | Version |
-| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `158.0` | `160.0` | Version |
-| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `158.0` | `160.0` | Version |
+| Mozilla | Mozilla Firefox | Firefox (African) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Croatian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English Canadian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English UK) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (French) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (German) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Kazakh) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Malay) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Bokmål) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Spanish) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `158.0` | `160.0.1` | Version |
+| Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `158.0` | `160.0.1` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (African) (x64) | `115.43.0` | `115.45.0` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Arabic) (x64) | `115.43.0` | `115.45.0` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Basque) (x64) | `115.43.0` | `115.44.0` | Version |
@@ -402,7 +405,7 @@
 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.8` | `8.6.0` | Version |
 | The Git Development Community | Git | Git (x64) | `2.56.0.2` | `2.56.1.1` | Version |
 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58.2` | `2.16.60` | Version |
-| Tidio | Tidio | Tidio | `5.7.0` | `5.9.0` | Version |
+| Tidio | Tidio | Tidio | `5.7.0` | `5.10.0` | Version |
 | TightVNC | TightVNC | TightVNC 2 (x64) | `2.8.90.0` | `2.8.90.0` | Branch |
 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.33.0.839` | `1.33.1.841` | Version |
 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | `5.14.0` | Version |

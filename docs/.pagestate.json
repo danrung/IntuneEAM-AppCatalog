@@ -2512,6 +2512,21 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-18",
+    "fields": [
+     "Detection rules"
+    ],
+    "removed": 0,
+    "versions": [
+     [
+      "17.0.21.0.11",
+      "17.0.21.1.2",
+      1
+     ]
+    ]
    }
   ],
   "amazon-corretto-jdk-8": [
@@ -3657,6 +3672,19 @@
      [
       "5.35.0.3249",
       "5.36.0.3628",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.36.0.3628",
+      "5.37.0.3866",
       1
      ]
     ]
@@ -6499,6 +6527,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 2,
+    "branches_added": [
+     "Blender 4.5 LTS (x64)",
+     "Blender 5.3 (x64)"
+    ],
+    "date": "2026-11-18",
+    "fields": [
+     "Branch"
+    ],
+    "removed": 0,
+    "versions": []
    }
   ],
   "boris-eyrich-software-artweaver-free": [
@@ -13923,6 +13964,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.19.13.0",
+      "2.19.14.0",
+      1
+     ]
+    ]
    }
   ],
   "dropbox": [
@@ -14099,6 +14153,19 @@
      [
       "278.4.3944",
       "279.4.5723",
+      2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "279.4.5723",
+      "280.4.5053",
       2
      ]
     ]
@@ -15981,6 +16048,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.42.3",
+      "11.43.3",
+      1
+     ]
+    ]
    }
   ],
   "exacq-technologies-exacqvision-client": [
@@ -16164,6 +16244,19 @@
      [
       "2016.73.179.028",
       "2016.74.081.023",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2016.74.081.023",
+      "2016.75.060.014",
       1
      ]
     ]
@@ -16884,6 +16977,19 @@
      [
       "3.80.0",
       "3.80.1",
+      2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.80.1",
+      "3.81.2",
       2
      ]
     ]
@@ -21450,6 +21556,19 @@
      [
       "2026.2.4",
       "2026.2.4.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.4.1",
+      "2026.2.5",
       1
      ]
     ]
@@ -31332,6 +31451,19 @@
      [
       "159.0.1",
       "160.0",
+      47
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "160.0",
+      "160.0.1",
       47
      ]
     ]
@@ -41614,6 +41746,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.9.0",
+      "5.10.0",
+      1
+     ]
+    ]
    }
   ],
   "tightvnc": [
@@ -45887,7 +46032,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261117_204514_AppCatalog.json",
+ "history_through": "20261118_065821_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -45896,9 +46041,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "403a58f3d4077c52ed9fe61e76dce69b168db13a",
-   "hash": "c269d6c24dc4669c957d42983876b24d97501a97",
-   "lastmod": "2026-11-17"
+   "exact": "0ee506f9bd974d4c81f811b5163f930bda971d10",
+   "hash": "7d93fa77c9d752a62a41e326dcf53fdf0759027c",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -46036,9 +46181,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-17.html": {
-   "exact": "53dcaf46812c977fa82ec41b5020b87f75860711",
-   "hash": "53dcaf46812c977fa82ec41b5020b87f75860711",
-   "lastmod": "2026-11-05"
+   "exact": "a0c036103ef234738092e70a5c729bc7256fedc2",
+   "hash": "a0c036103ef234738092e70a5c729bc7256fedc2",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-18.html": {
    "exact": "e1079a34d3fd0fc85d32268a4f327d0e0274ae5d",
@@ -46081,9 +46226,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/amazon-web-services-inc-amazon-workspaces.html": {
-   "exact": "159d7d307e95fa997e7d45d47b722f8422e8d572",
-   "hash": "159d7d307e95fa997e7d45d47b722f8422e8d572",
-   "lastmod": "2026-11-05"
+   "exact": "f4cec2a3f63af1c1d5f03aded99ce36246b38679",
+   "hash": "f4cec2a3f63af1c1d5f03aded99ce36246b38679",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/andrew-ziem-bleachbit.html": {
    "exact": "70d494298720341b860007dac5b622212d4b68b9",
@@ -46476,9 +46621,9 @@
    "lastmod": "2026-11-12"
   },
   "https://eam.drung.dev/apps/blender-foundation-blender.html": {
-   "exact": "d83ae757778bb6e9cd542ecf4f2eb9d529e6430d",
-   "hash": "d83ae757778bb6e9cd542ecf4f2eb9d529e6430d",
-   "lastmod": "2026-11-11"
+   "exact": "077e4ec232c230984e818731a67d734b27e8d41c",
+   "hash": "077e4ec232c230984e818731a67d734b27e8d41c",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/blue-jeans-bluejeans-2.html": {
    "exact": "a82a3997058fa441ab0c8ba4efdb066bb58bc70a",
@@ -46996,14 +47141,14 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/drofus.html": {
-   "exact": "ee4899276664f53c62583fd1f8643ba12acc0774",
-   "hash": "ee4899276664f53c62583fd1f8643ba12acc0774",
-   "lastmod": "2026-11-13"
+   "exact": "1d5c8edbaec14f7a11163e3b8d4d12c6110521b2",
+   "hash": "1d5c8edbaec14f7a11163e3b8d4d12c6110521b2",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/dropbox.html": {
-   "exact": "a57d438041fe050c6ad901a291f3b7b8b9a9939a",
-   "hash": "a57d438041fe050c6ad901a291f3b7b8b9a9939a",
-   "lastmod": "2026-11-12"
+   "exact": "67746c78d24a5110acca6db57bf981b2e35e9957",
+   "hash": "67746c78d24a5110acca6db57bf981b2e35e9957",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/druva-technologies-pte-ltd-druva-insync.html": {
    "exact": "fe01014f8a7779ea5969fc84db41feabf22d531d",
@@ -47241,9 +47386,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/evernote.html": {
-   "exact": "440a8e93b61eb5fd98fe613305d83c60d4074357",
-   "hash": "440a8e93b61eb5fd98fe613305d83c60d4074357",
-   "lastmod": "2026-11-10"
+   "exact": "d1e4c1a6d194a4261d4fc00b58bee64046591427",
+   "hash": "d1e4c1a6d194a4261d4fc00b58bee64046591427",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/exacq-technologies-exacqvision-client.html": {
    "exact": "26cbc3ce7305782c24fa1e54386ea8f1a3a9332d",
@@ -47256,9 +47401,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/factset-research-systems-inc-factset-workstation.html": {
-   "exact": "2f103d7f7e4e317e8a50f8a6b8bdf5198e3f5dc7",
-   "hash": "2f103d7f7e4e317e8a50f8a6b8bdf5198e3f5dc7",
-   "lastmod": "2026-11-05"
+   "exact": "87b9534979d111ae986e01cbcd2fb0880a6416d7",
+   "hash": "87b9534979d111ae986e01cbcd2fb0880a6416d7",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/faststone-soft-capture.html": {
    "exact": "2cc063daaedb350a85639e41361af0fcdd9b9f2a",
@@ -47361,9 +47506,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/frontapp-inc-front-desktop.html": {
-   "exact": "26b506332d7e9d3dd539cc5c319963e2247a0a31",
-   "hash": "26b506332d7e9d3dd539cc5c319963e2247a0a31",
-   "lastmod": "2026-11-05"
+   "exact": "58eb232055406013701db860cad3f210facee744",
+   "hash": "58eb232055406013701db860cad3f210facee744",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/fujitsu-finland-mpollux-digisign-client.html": {
    "exact": "314e247513162f18864345def30aca85f89043ba",
@@ -47816,9 +47961,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/jetbrains-dotultimate.html": {
-   "exact": "9091ae1cbc675595a65b39caa2517465b8ab448f",
-   "hash": "9091ae1cbc675595a65b39caa2517465b8ab448f",
-   "lastmod": "2026-11-05"
+   "exact": "fc864f716bfeefb6999fc888f4d5e51929902cec",
+   "hash": "fc864f716bfeefb6999fc888f4d5e51929902cec",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/jetbrains-goland-2017-3.html": {
    "exact": "ca1d97d6f14db6685875384831f488ad12f9b9d0",
@@ -48756,9 +48901,9 @@
    "lastmod": "2026-11-11"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
-   "exact": "8f1e270c54d4eee16fc98d2f6fe36753c869115f",
-   "hash": "8f1e270c54d4eee16fc98d2f6fe36753c869115f",
-   "lastmod": "2026-11-11"
+   "exact": "0fe3ac3885c38c89bbccc1d4a7ddff1af1fc0009",
+   "hash": "0fe3ac3885c38c89bbccc1d4a7ddff1af1fc0009",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/mozilla-frontmotion-firefox-community-edition-esr.html": {
    "exact": "4012f079a1656f2d1b6a390fe3c4b39de0248bbf",
@@ -49336,9 +49481,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "f0094fabb66adcf26314a0e8b20b9f746c1355b5",
-   "hash": "ca778302e2b3c36a9669fa48640e0fa8997fa273",
-   "lastmod": "2026-11-17"
+   "exact": "214e3f7f1bade22558a7aef3b685519aba6e3343",
+   "hash": "c4c05451ffa01e3c77247be25bb3a2ad34c509fb",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -50086,9 +50231,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/tidio.html": {
-   "exact": "5afde110952ff4ac01067efe4a55bd4ad9c5db3c",
-   "hash": "5afde110952ff4ac01067efe4a55bd4ad9c5db3c",
-   "lastmod": "2026-11-13"
+   "exact": "75145ac15a098c0f10b8077ac7961ff2b1e45b7a",
+   "hash": "75145ac15a098c0f10b8077ac7961ff2b1e45b7a",
+   "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/tightvnc.html": {
    "exact": "18f958d98ddc5244ef3233b42690e9a88c98670e",

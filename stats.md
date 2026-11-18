@@ -1,18 +1,18 @@
 # App Catalog Statistics
 
-> **Source:** `20261117_204514_AppCatalog.json` (exported 2026-11-17 20:45:14)  
-> **Generated:** 2026-11-17 20:45 UTC
+> **Source:** `20261118_065821_AppCatalog.json` (exported 2026-11-18 06:58:21)  
+> **Generated:** 2026-11-18 06:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|------:|
-| Total Packages | **1,595** |
+| Total Packages | **1,597** |
 | Unique Apps (Publisher + Name) | 934 |
 | Unique Products (by Product ID) | 933 |
 | Publishers | 498 |
 | Auto-Update Capable | 365 (22.9%) |
-| Not Auto-Update Capable | 1,230 (77.1%) |
+| Not Auto-Update Capable | 1,232 (77.1%) |
 | Available Locales | 65 |
 | Multi-Locale Packages | 0 |
 | Packages Without Architecture | 0 |
@@ -21,14 +21,14 @@
 
 | Rank | Publisher | Packages | Share |
 |-----:|-----------|--------:|------:|
-| 1 | Mozilla | 256 | 16.1% |
+| 1 | Mozilla | 256 | 16.0% |
 | 2 | Microsoft | 184 | 11.5% |
 | 3 | The Document Foundation | 59 | 3.7% |
 | 4 | JetBrains | 49 | 3.1% |
 | 5 | PaperCut Software Pty Ltd | 32 | 2.0% |
 | 6 | Rarlab | 30 | 1.9% |
-| 7 | Eclipse Foundation | 23 | 1.4% |
-| 8 | Blender Foundation | 22 | 1.4% |
+| 7 | Blender Foundation | 24 | 1.5% |
+| 8 | Eclipse Foundation | 23 | 1.4% |
 | 9 | Azul Systems, Inc. | 21 | 1.3% |
 | 10 | Foxit Software | 20 | 1.3% |
 
@@ -36,7 +36,7 @@
 
 | Architecture | Packages | Share |
 |--------------|--------:|------:|
-| x64 | 1,287 | 80.7% |
+| x64 | 1,289 | 80.7% |
 | x86,x64 | 308 | 19.3% |
 
 ## Available Locales
