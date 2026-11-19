@@ -3984,6 +3984,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "12.13.11.1",
+      "12.13.12.3",
+      1
+     ]
+    ]
    }
   ],
   "araxis-merge": [
@@ -18678,6 +18691,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "133.0.2.0",
+      "134.0.1.0",
+      1
+     ]
+    ]
    }
   ],
   "google-drive-file-stream": [
@@ -18820,6 +18846,19 @@
      [
       "132.0.0.0",
       "133.0.2.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "133.0.2.0",
+      "134.0.1.0",
       1
      ]
     ]
@@ -20402,6 +20441,19 @@
      [
       "2.11.19.0",
       "2.11.20.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.11.20.0",
+      "2.11.21.0",
       1
      ]
     ]
@@ -24890,6 +24942,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "18.0.326.0",
+      "18.0.368.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-azure-cli": [
@@ -27789,6 +27854,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "21.0.13.0",
+      "21.0.13.1",
+      1
+     ],
+     [
+      "25.0.5.0",
+      "25.0.5.1",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-openjdk-11": [
@@ -27856,6 +27939,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.0.33.10",
+      "11.0.33.101",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-openjdk-17": [
@@ -27920,6 +28016,19 @@
      [
       "17.0.20.1",
       "17.0.21.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.0.21.0",
+      "17.0.21.1",
       1
      ]
     ]
@@ -30093,6 +30202,19 @@
      [
       "1.145.2",
       "1.146.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.146.0",
+      "1.147.0",
       1
      ]
     ]
@@ -35025,6 +35147,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.27.1.0",
+      "6.27.2.0",
+      1
+     ]
+    ]
    }
   ],
   "orica-limited-shotplus-tunnel": [
@@ -37994,6 +38129,19 @@
      [
       "2.156.8",
       "2.158.7",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.158.7",
+      "2.159.7",
       1
      ]
     ]
@@ -42024,6 +42172,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.10.0",
+      "5.11.0",
+      1
+     ]
+    ]
    }
   ],
   "tightvnc": [
@@ -45708,6 +45869,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.22.3",
+      "1.23.0",
+      1
+     ]
+    ]
    }
   ],
   "zello-inc-zello": [
@@ -46323,7 +46497,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261118_202015_AppCatalog.json",
+ "history_through": "20261119_065952_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -46332,9 +46506,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "9e950a60df06f9ecd58ebe47123bb56c2684faa2",
-   "hash": "82e00cb61b536cb38ebc22ed331c5fcaa2325c81",
-   "lastmod": "2026-11-18"
+   "exact": "68745ea282bac6a5c66fdebec9af1d94377ad5b8",
+   "hash": "35554c74dd1c6402a872b08f9e58b4b41ee868ab",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -46577,9 +46751,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/apple-inc-apple-itunes.html": {
-   "exact": "e9b2ef9f025e32522f4b26ea9edb2de9d41f2420",
-   "hash": "e9b2ef9f025e32522f4b26ea9edb2de9d41f2420",
-   "lastmod": "2026-11-05"
+   "exact": "e673f313df9290a97eb14195c3c336365c2ea787",
+   "hash": "e673f313df9290a97eb14195c3c336365c2ea787",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/araxis-merge.html": {
    "exact": "9ef1cad1d62f668cc2551da92e691891cb96b2c2",
@@ -47932,14 +48106,14 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/google-drive-file-stream.html": {
-   "exact": "b481e8e2be91c1667347256be819af8d300850b4",
-   "hash": "b481e8e2be91c1667347256be819af8d300850b4",
-   "lastmod": "2026-11-05"
+   "exact": "2d981940a6c883b451f8957eaf15fdb2898b0245",
+   "hash": "2d981940a6c883b451f8957eaf15fdb2898b0245",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/google-drive.html": {
-   "exact": "ffd1ce316001bb3c64e738e58628410b9905219c",
-   "hash": "ffd1ce316001bb3c64e738e58628410b9905219c",
-   "lastmod": "2026-11-05"
+   "exact": "2b6f85a3b56e06064f8dc2b785280121416cacd2",
+   "hash": "2b6f85a3b56e06064f8dc2b785280121416cacd2",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/google-go-programming-language-1-16.html": {
    "exact": "35b849fb987857ab7a020973258fc0c9df3433d9",
@@ -48112,9 +48286,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
-   "exact": "133e13535c58ebcc62d78b00984b8eead6158f3d",
-   "hash": "133e13535c58ebcc62d78b00984b8eead6158f3d",
-   "lastmod": "2026-11-18"
+   "exact": "1f5dd438d0af82034c3f66ad3c9d737fd0b71c78",
+   "hash": "1f5dd438d0af82034c3f66ad3c9d737fd0b71c78",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/inkscape.html": {
    "exact": "b4352e4da9a3bd3fe0ca8e73445d1f531f6697ea",
@@ -48702,9 +48876,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-analysis-services-ole-db-provider.html": {
-   "exact": "4fc5ced7349a03f6cc94a38ff9202fe9e63b66e8",
-   "hash": "4fc5ced7349a03f6cc94a38ff9202fe9e63b66e8",
-   "lastmod": "2026-11-05"
+   "exact": "30946d49bb1a18116704ed8ffb256ecf5d6724ec",
+   "hash": "30946d49bb1a18116704ed8ffb256ecf5d6724ec",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/microsoft-asp-net-core-runtime-5-0.html": {
    "exact": "87136f29f5ee2133b2ede7cf89c9f83317f24552",
@@ -48892,9 +49066,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk-11.html": {
-   "exact": "f88c9b536e9ceb629d604d49ed7b6c97b009ee5f",
-   "hash": "f88c9b536e9ceb629d604d49ed7b6c97b009ee5f",
-   "lastmod": "2026-11-05"
+   "exact": "418fb4218fb43ded7e8e3ed1ea77fc942695e92b",
+   "hash": "418fb4218fb43ded7e8e3ed1ea77fc942695e92b",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk-16.html": {
    "exact": "7317b5c0758a24accff9d6e9c276534482ae4b25",
@@ -48902,14 +49076,14 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk-17.html": {
-   "exact": "bb7cd2a1525713709b570c07b5fce96abe797176",
-   "hash": "bb7cd2a1525713709b570c07b5fce96abe797176",
-   "lastmod": "2026-11-05"
+   "exact": "a437c25576da07502c59b408acc7b31165a39803",
+   "hash": "a437c25576da07502c59b408acc7b31165a39803",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/microsoft-openjdk.html": {
-   "exact": "3f22e6e2aecf677df48be66a095fb7f740ba2356",
-   "hash": "3f22e6e2aecf677df48be66a095fb7f740ba2356",
-   "lastmod": "2026-11-05"
+   "exact": "9a3ce56cdf2872daa70e958b21be1885e0a30df6",
+   "hash": "9a3ce56cdf2872daa70e958b21be1885e0a30df6",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/microsoft-power-bi-desktop.html": {
    "exact": "e356349ece0e0335d00772754109560d6ba7071a",
@@ -49067,9 +49241,9 @@
    "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "99723c10f1c247132757316541d484b0ff6bf805",
-   "hash": "99723c10f1c247132757316541d484b0ff6bf805",
-   "lastmod": "2026-11-12"
+   "exact": "1198e0fe4a77d565f71eabd8aa20d3d220dfc3aa",
+   "hash": "1198e0fe4a77d565f71eabd8aa20d3d220dfc3aa",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "9e628810359382c1625f3cd9085596f4f33851da",
@@ -49507,9 +49681,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/orica-limited-shotplus-6.html": {
-   "exact": "8a0ca71fcaa4f0a9ead4091a53e865477dd5109e",
-   "hash": "8a0ca71fcaa4f0a9ead4091a53e865477dd5109e",
-   "lastmod": "2026-11-05"
+   "exact": "ac2407155e55808f2a58c1280a0fad34e92a3568",
+   "hash": "ac2407155e55808f2a58c1280a0fad34e92a3568",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/orica-limited-shotplus-tunnel.html": {
    "exact": "91deab6c71a8ccf178f1c40a108bf382d039c28f",
@@ -49772,9 +49946,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "9e71b73b04ca1470e345d113405ffa1429cf14e2",
-   "hash": "176059648e07a444468f5cd3ec83a9d82586fd3b",
-   "lastmod": "2026-11-18"
+   "exact": "7add691a817558e5f3c06a2ec5b5727c94506605",
+   "hash": "de6156aa5fc5eb2cad2d4bd7bff5b506629f933d",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -49892,9 +50066,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/salesforce-cli-sf-v2.html": {
-   "exact": "4c11fe6b15a1d428083ca76699146fa08297ade9",
-   "hash": "4c11fe6b15a1d428083ca76699146fa08297ade9",
-   "lastmod": "2026-11-12"
+   "exact": "cd8281514d8702b6f1809384ebcb8cf6b0382ae4",
+   "hash": "cd8281514d8702b6f1809384ebcb8cf6b0382ae4",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/samsung-smart-switch.html": {
    "exact": "bef0348cb26fb53a44316cd7edc074b5c2e12f23",
@@ -50522,9 +50696,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/tidio.html": {
-   "exact": "75145ac15a098c0f10b8077ac7961ff2b1e45b7a",
-   "hash": "75145ac15a098c0f10b8077ac7961ff2b1e45b7a",
-   "lastmod": "2026-11-18"
+   "exact": "a3f49ee8e130bbed1a75c0bbad9874e1b813e2a2",
+   "hash": "a3f49ee8e130bbed1a75c0bbad9874e1b813e2a2",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/tightvnc.html": {
    "exact": "18f958d98ddc5244ef3233b42690e9a88c98670e",
@@ -50912,9 +51086,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "99bc3d1cf5a96ac3a81b4cbdfbbd64febb9ac0cb",
-   "hash": "99bc3d1cf5a96ac3a81b4cbdfbbd64febb9ac0cb",
-   "lastmod": "2026-11-05"
+   "exact": "c9ec7a55715249816d8d15f7226ec3700416ec25",
+   "hash": "c9ec7a55715249816d8d15f7226ec3700416ec25",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "a9a1b411fbaf397eb6c5151b0863e3a8741287c5",
