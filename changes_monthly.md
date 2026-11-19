@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261119_065952_AppCatalog.json` (exported 2026-11-19 06:59:52)  
-> **vs:** `20261020_042528_AppCatalog.json` (exported 2026-10-20 04:25:28)  
+> **Comparing:** `20261119_202446_AppCatalog.json` (exported 2026-11-19 20:24:46)  
+> **vs:** `20261020_164157_AppCatalog.json` (exported 2026-10-20 16:41:57)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-19 07:00 UTC
+> **Generated:** 2026-11-19 20:25 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 3 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 400 |
+| 🔄 Updated | 405 |
 
 ## ✅ Added (3 packages)
 
@@ -21,7 +21,7 @@
 | Blender Foundation | Blender | Blender 5.3 (x64) | `5.3.0` | x64 |
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (400 packages)
+## 🔄 Updated (405 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -55,6 +55,7 @@
 | Atlassian Inc | Atlassian Companion | Atlassian Companion | `3.2.0` | `3.3.0` | Version |
 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.2 | `10.2.19` | `10.2.20` | Version |
 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 9.2 (LTS) | `9.2.26` | `9.2.28` | Version |
+| Atomi Systems, Inc. | Saola Animate | Saola Animate | `3.1.4` | `4.0.0` | Version |
 | Audacity | Audacity | Audacity (x64) | `4.0.1` | `4.0.2` | Version |
 | Autodesk Inc. | Autodesk Access | Autodesk Access | `2.24.0.564` | `2.26.0.515` | Version |
 | Azul Systems, Inc. | Zulu JDK 11 (LTS) | Zulu JDK 11 (LTS) (x64) | `11.90.205` | `11.92.201` | Version |
@@ -71,10 +72,9 @@
 | BellSoft Corporation | Liberica JDK | Liberica JDK 17 (x64) | `17.0.20.10` | `17.0.21.11` | Version |
 | BellSoft Corporation | Liberica JDK | Liberica JDK 25 (Full) (x64) | `25.0.4.9` | `25.0.5.11` | Version |
 | BellSoft Corporation | Liberica JDK | Liberica JDK 25 (x64) | `25.0.4.9` | `25.0.5.11` | Version |
-| BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.504.1` | `8.0.513.9` | Version |
-| Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.5.0` | `8.6.0` | Version |
-| Bizagi Limited | Galaxy Modeler | Galaxy Modeler | `13.6.0` | `13.7.0` | Version |
-| Bizagi Limited | Moon Modeler | Moon Modeler | `13.6.0` | `13.7.5` | Version |
+| BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.504.1` | `8.0.514.5` | Version |
+| Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.5.0` | `8.6.1` | Version |
+| Bizagi Limited | Moon Modeler | Moon Modeler | `13.7.0` | `13.7.5` | Version |
 | Blender Foundation | Blender | Blender 5.2 LTS (x64) | `5.2.2` | `5.2.4` | Version, Branch |
 | Box | Box Drive | Box Drive (x64) | `2.55.140` | `2.55.145` | Version |
 | Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | `4.30.0.9` | Version |
@@ -88,6 +88,7 @@
 | Cisco Systems, Inc. | Duo Desktop | Duo Desktop | `7.22.0.0` | `7.23.0.0` | Version |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Localized) (x64) | `46.10.0.36042` | `46.11.0.36194` | Version |
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.9.0.35800` | `46.11.0.36194` | Version |
+| ClockAssist | ClockAssist | ClockAssist | `1.1.9666.14975` | `1.1.9819.18791` | Version |
 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.5.0` | `2026.6.0` | Version |
 | Cloudflare, Inc. | Cloudflare One Client | Cloudflare One Client | `26.8.2110.0` | `26.8.2115.0` | Version |
 | Cockos Incorporated | REAPER | REAPER (x64) | `7.82` | `7.86` | Version |
@@ -107,7 +108,7 @@
 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.15.0` | `2027.1.0.0` | Version |
 | DiRoots, LDA | DiRoots ProSheets | DiRoots ProSheets | `2.4.2` | `2.5.0` | Version |
 | dnGrep | dnGrep | dnGrep (x64) | `5.0.65.0` | `5.0.80.0` | Version |
-| Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.95.0.242831` | `4.99.0.245822` | Version |
+| Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.96.0.243774` | `4.99.0.245822` | Version |
 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8.1` | `8.9.9.1` | Version |
 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8.1` | `8.9.9.1` | Version |
 | Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.10.0` | `26.11.0` | Version |
@@ -189,7 +190,7 @@
 | KeePassXC | KeePassXC | KeePassXC (x64) | `2.7.12` | `2.8.0` | Version |
 | Keeper | Keeper | Keeper | `18.6.5.0` | `18.6.6.0` | Version |
 | Kovid Goyal | Calibre | Calibre (x64) | `9.16.0` | `9.18.0` | Version |
-| Krisp | Krisp | Krisp 3.x | `3.17.9` | `3.19.7` | Version |
+| Krisp | Krisp | Krisp 3.x | `3.18.3` | `3.19.7` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `13.0.0.2` | `13.1.0.5` | Version |
 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.2.16` | `8.5.12` | Version |
 | Logitech | Logitech Sync App | Logitech Sync App | `3.11.238` | `3.12.254` | Version |
@@ -198,6 +199,7 @@
 | Maxima Software (Pty) Ltd | Maxcut | Maxcut | `2.9.6.7` | `2.9.6.8` | Version |
 | Maxon Computer GmbH | ZBrush | ZBrush (x64) | `2026.2.1` | `2027.0.1` | Version |
 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9 (LTS) | `9.24.44.121539` | `9.24.45.134586` | Version |
+| Mersive Technologies, Inc. | Mersive Solstice Client | Mersive Solstice Client (x64) | `6.3.4` | `6.3.5` | Version |
 | Meta Platforms, Inc. | Meta VR Developer Hub | Meta VR Developer Hub | `6.4.1` | `6.4.1` | App Name, Branch |
 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.16.0` | `4.16.1` | Version |
 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2626.50502` | `8.4.2826.52802` | Version |
@@ -210,7 +212,7 @@
 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `2.26.921.1` | `2.26.1102.1` | Version |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `156.0.4314.30` | `158.0.4370.26` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `157.0.4329.0` | `159.0.4393.0` | Version |
-| Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.334.9` | `3000.338.3` | Version |
+| Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.334.9` | `3000.342.5` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.183.0920.0005` | `26.204.1019.0009` | Version |
 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.159.883.0` | `2.159.1231.0` | Version |
 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.4 (x64) | `7.4.13` | `7.4.21` | Version |
@@ -336,7 +338,7 @@
 | Nagios Enterprises | NCPA | NCPA (x64) | `3.5.0` | `3.5.1` | Version |
 | NetBird GmbH | NetBird | NetBird | `0.81.3` | `0.83.1` | Version |
 | NETworkManager | NETworkManager | NETworkManager | `2026.7.7.0` | `2026.11.15.0` | Version |
-| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.4` | `2.1.0` | Version |
+| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.4` | `2.1.1` | Version |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `35.0.0.20261012` | `35.0.3.20261104` | Version |
 | NGWIN | PicPick | PicPick | `7.6.1` | `7.6.2` | Version |
 | NICE Software | Amazon DCV Client | Amazon DCV Client | `26.0.13455.0` | `26.0.14158.0` | Version |
@@ -383,14 +385,14 @@
 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.9.9` | `12.11.14.4` | Version |
 | Siber Systems Inc | RoboForm | RoboForm | `9.9.4.6` | `10.0.4.4` | Version |
 | SideQuest | SideQuest | SideQuest | `1.4.1` | `1.4.2` | Version |
-| Skymatic GmbH | Cryptomator | Cryptomator | `1.19.3.6495` | `1.19.6.6588` | Version |
+| Skymatic GmbH | Cryptomator | Cryptomator | `1.19.3.6495` | `1.19.7.6591` | Version |
 | Slido | Slido | Slido | `1.23.1` | `1.23.3` | Version |
 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3333.0` | `10.0.3334.0` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.6` | `6.0.10` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.1.0` | `7.2.0` | Version |
 | SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.4.2` | `2.5.1` | Version |
 | Softland | Softland doPDF | doPDF | `11.9.530` | `11.9.532` | Version |
-| Squirrels | Squirrels Reflector 4 | Reflector 4 (x64) | `4.1.2` | `4.1.4` | Version |
+| Squirrels | Squirrels Reflector 4 | Reflector 4 (x64) | `4.1.3` | `4.1.4` | Version |
 | SURF | SURF eduVPN Client | eduVPN Client (Neutral) (EXE) | `4.6.2.0` | `4.6.3.0` | Version |
 | SURF | SURF eduVPN Client | eduVPN Client (x64) | `4.6.2` | `4.6.3` | Version |
 | SUSE | Rancher Desktop | Rancher Desktop | `1.24.0` | `1.25.0` | Version |
@@ -405,6 +407,7 @@
 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58.2` | `2.16.60` | Version |
 | Tidio | Tidio | Tidio | `5.7.0` | `5.11.0` | Version |
 | TightVNC | TightVNC | TightVNC 2 (x64) | `2.8.90.0` | `2.8.90.0` | Branch |
+| TortoiseGit | TortoiseGit | TortoiseGit (x64) | `2.19.1.0` | `2.19.2.0` | Version |
 | Trimble Solutions Corporation | Trimble Connect | Trimble Connect | `1.33.0.839` | `1.33.1.841` | Version |
 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | `5.14.0` | Version |
 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.13.0` | `5.14.0` | Version |
@@ -419,6 +422,8 @@
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.7.3.381` | `2.8.4.454` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.7.3.381` | `2.8.4.454` | Version |
 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.6.0` | `26.7.0` | Version |
+| Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.19` | `4.4.20` | Version |
+| Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.9` | `4.6.10` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (MSI) | `4.7.3` | `4.7.4` | Version |
 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.12.2.0` | `1.12.3.0` | Version |
 | Zandar Labs SL | Aptakube | Aptakube | `1.21.5` | `1.23.0` | Version |

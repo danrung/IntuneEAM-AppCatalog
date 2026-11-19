@@ -4592,6 +4592,21 @@
     ]
    }
   ],
+  "atomi-systems-inc-saola-animate": [
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.1.4",
+      "4.0.0",
+      1
+     ]
+    ]
+   }
+  ],
   "atostek-oy-atostek-id": [
    {
     "added": 0,
@@ -6003,6 +6018,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.513.9",
+      "8.0.514.5",
+      1
+     ]
+    ]
    }
   ],
   "ben-olden-cooligan-naps2": [
@@ -6080,6 +6108,19 @@
      [
       "8.5.1",
       "8.6.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.6.0",
+      "8.6.1",
       1
      ]
     ]
@@ -8868,6 +8909,19 @@
      [
       "1.1.9447.22441",
       "1.1.9666.14975",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.1.9666.14975",
+      "1.1.9819.18791",
       1
      ]
     ]
@@ -24850,6 +24904,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.3.4",
+      "6.3.5",
+      1
+     ]
+    ]
    }
   ],
   "meta-platforms-inc-meta-vr-developer-hub": [
@@ -27466,6 +27533,19 @@
      [
       "3000.338.2",
       "3000.338.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3000.338.3",
+      "3000.342.5",
       1
      ]
     ]
@@ -32991,6 +33071,19 @@
      [
       "2.0.2",
       "2.1.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.1.0",
+      "2.1.1",
       1
      ]
     ]
@@ -39418,6 +39511,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.19.6.6588",
+      "1.19.7.6591",
+      1
+     ]
+    ]
    }
   ],
   "slido": [
@@ -42291,6 +42397,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.19.1.0",
+      "2.19.2.0",
+      1
+     ]
+    ]
    }
   ],
   "tortoisehg": [
@@ -44982,6 +45101,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-19",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.4.19",
+      "4.4.20",
+      1
+     ],
+     [
+      "4.6.9",
+      "4.6.10",
+      1
+     ]
+    ]
    }
   ],
   "wrike-com-wrike": [
@@ -46497,7 +46634,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261119_065952_AppCatalog.json",
+ "history_through": "20261119_202446_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -46506,8 +46643,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "68745ea282bac6a5c66fdebec9af1d94377ad5b8",
-   "hash": "35554c74dd1c6402a872b08f9e58b4b41ee868ab",
+   "exact": "211341b26bbdcfcac7beef26023424a70b1e37af",
+   "hash": "ac642f69cbbd4b4b18ee366df9d465c9d9d55721",
    "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -46821,9 +46958,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/atomi-systems-inc-saola-animate.html": {
-   "exact": "8cb757c09ef39ee980a277abf0672def925c09a5",
-   "hash": "8cb757c09ef39ee980a277abf0672def925c09a5",
-   "lastmod": "2026-11-05"
+   "exact": "1b035763107ab725e44c48ac2a34520f6d4b23be",
+   "hash": "1b035763107ab725e44c48ac2a34520f6d4b23be",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/atostek-oy-atostek-id.html": {
    "exact": "9ac52eb1346e2afa2a4f73a87c34056317f9de29",
@@ -47016,14 +47153,14 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/bellsoft-corporation-liberica-jdk.html": {
-   "exact": "79f909ff56bf7be93839ee1b0d42d0d150d42ef1",
-   "hash": "79f909ff56bf7be93839ee1b0d42d0d150d42ef1",
-   "lastmod": "2026-11-05"
+   "exact": "b4d3b6a4c046f5100d5630eb77fbc09a989d2890",
+   "hash": "b4d3b6a4c046f5100d5630eb77fbc09a989d2890",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/ben-olden-cooligan-naps2.html": {
-   "exact": "3ca8ae5c7a0f1cbf402b102addfcc4cedbe29e2f",
-   "hash": "3ca8ae5c7a0f1cbf402b102addfcc4cedbe29e2f",
-   "lastmod": "2026-11-05"
+   "exact": "ba844ee55609a0a2aab8a296a1090bfc796eea83",
+   "hash": "ba844ee55609a0a2aab8a296a1090bfc796eea83",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/benn-huang-chatbox.html": {
    "exact": "d0b3fc3baf2514eeb58e1d57a76f85f2d8f7eb0e",
@@ -47321,9 +47458,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/clockassist.html": {
-   "exact": "0ebd689fa98284085ca35fe90a18ed950d9feceb",
-   "hash": "0ebd689fa98284085ca35fe90a18ed950d9feceb",
-   "lastmod": "2026-11-05"
+   "exact": "3035a803ab3dbb03495d0de319a96b712de007bd",
+   "hash": "3035a803ab3dbb03495d0de319a96b712de007bd",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/cloud-software-group-inc-xencenter.html": {
    "exact": "799836bfb33d862b12781703d3b3d579b7efbe98",
@@ -48836,9 +48973,9 @@
    "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/mersive-technologies-inc-mersive-solstice-client.html": {
-   "exact": "c6065d9516b2cd6246230cfda209a29ddbf3230b",
-   "hash": "c6065d9516b2cd6246230cfda209a29ddbf3230b",
-   "lastmod": "2026-11-05"
+   "exact": "5ee5eaa98a8d8a0628b41e0ab88a453fb051864a",
+   "hash": "5ee5eaa98a8d8a0628b41e0ab88a453fb051864a",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/meta-platforms-inc-meta-spark-player.html": {
    "exact": "7dbe9086e1296c4374c2ff66b4cc76fd27c493bb",
@@ -49051,9 +49188,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-on-premises-data-gateway.html": {
-   "exact": "2fddeac734b3d78ed2fa55fd8b60b78a1c357a5a",
-   "hash": "2fddeac734b3d78ed2fa55fd8b60b78a1c357a5a",
-   "lastmod": "2026-11-09"
+   "exact": "b9e24e27ad7300e4b2837b3dd5d8a962866c22a9",
+   "hash": "b9e24e27ad7300e4b2837b3dd5d8a962866c22a9",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
    "exact": "515d26f436c2dffb2d53e927ceaa11c4f911a95c",
@@ -49461,9 +49598,9 @@
    "lastmod": "2026-11-16"
   },
   "https://eam.drung.dev/apps/new-relic-inc-new-relic-infrastructure-agent.html": {
-   "exact": "576559efc6a3526ef14af13af0b813b5efe190e0",
-   "hash": "576559efc6a3526ef14af13af0b813b5efe190e0",
-   "lastmod": "2026-11-17"
+   "exact": "53c4ec8d49f76dbca065d903f94716d74b50bf0c",
+   "hash": "53c4ec8d49f76dbca065d903f94716d74b50bf0c",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/nextcloud.html": {
    "exact": "6a26a655435909114144343ee03816f531b45b36",
@@ -49946,8 +50083,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "7add691a817558e5f3c06a2ec5b5727c94506605",
-   "hash": "de6156aa5fc5eb2cad2d4bd7bff5b506629f933d",
+   "exact": "3d283bfa2650a50ed7cd8a3ba0cc60991fb6ecba",
+   "hash": "7058b4a5846516fa43e3c968d8f6d90a0a3d49d9",
    "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -50246,9 +50383,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/skymatic-gmbh-cryptomator.html": {
-   "exact": "331cf7ff364d8f81abd92cb65272726ca5d63f07",
-   "hash": "331cf7ff364d8f81abd92cb65272726ca5d63f07",
-   "lastmod": "2026-11-05"
+   "exact": "6e1c954b535e925e155c349f5fd3cb51175093d6",
+   "hash": "6e1c954b535e925e155c349f5fd3cb51175093d6",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/slido.html": {
    "exact": "c0286a62277d82c0ae9af7e85e565433aad03721",
@@ -50711,9 +50848,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/tortoisegit.html": {
-   "exact": "5af24ca589a0060a19b541b579e9c6bf070e7b76",
-   "hash": "5af24ca589a0060a19b541b579e9c6bf070e7b76",
-   "lastmod": "2026-11-05"
+   "exact": "dea8e3d2dbbcb09a2e0e611a37cfb83a51bee204",
+   "hash": "dea8e3d2dbbcb09a2e0e611a37cfb83a51bee204",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/tortoisehg.html": {
    "exact": "cb75f0ae2b71baf4f672fdd6a2329878e92f3fae",
@@ -50991,9 +51128,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/wireshark-foundation-wireshark.html": {
-   "exact": "c1915bb70ef76597bfa379b2c51546fc01b5dad0",
-   "hash": "c1915bb70ef76597bfa379b2c51546fc01b5dad0",
-   "lastmod": "2026-11-05"
+   "exact": "1b2bb5e0df27c0cf4d9911a0cba023dccab8af72",
+   "hash": "1b2bb5e0df27c0cf4d9911a0cba023dccab8af72",
+   "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/wix-toolset-3.html": {
    "exact": "701ae448cd41327a4e95a0f5d205cd2a2035bb61",
