@@ -1772,6 +1772,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.85.5",
+      "2.86.9",
+      1
+     ]
+    ]
    }
   ],
   "alfaview-gmbh-alfaview": [
@@ -8897,6 +8910,17 @@
       1
      ]
     ]
+   },
+   {
+    "added": 2,
+    "branches_added": [
+     "Citrix Workspace app LTSR 25",
+     "Citrix Workspace app LTSR 26"
+    ],
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": []
    }
   ],
   "clockassist": [
@@ -11037,6 +11061,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.85.4",
+      "7.85.5",
+      1
+     ]
+    ]
    }
   ],
   "david-kocher-cyberduck": [
@@ -11659,6 +11696,19 @@
      [
       "26.2.4",
       "26.2.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.5",
+      "26.3",
       1
      ]
     ]
@@ -15167,6 +15217,19 @@
      [
       "4.8.1.211",
       "4.8.2.212",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.8.2.212",
+      "4.9.0.213",
       1
      ]
     ]
@@ -19367,6 +19430,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "157.0.8103.79",
+      "158.0.8127.37",
+      1
+     ]
+    ]
    }
   ],
   "google-web-designer": [
@@ -20508,6 +20584,19 @@
      [
       "2.11.20.0",
       "2.11.21.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.11.21.0",
+      "2.11.22.0",
       1
      ]
     ]
@@ -26878,6 +26967,19 @@
      [
       "159.0.4378.0",
       "159.0.4393.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "159.0.4393.0",
+      "160.0.4408.0",
       1
      ]
     ]
@@ -34932,6 +35034,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.7.901",
+      "2.7.902",
+      1
+     ]
+    ]
    }
   ],
   "openvpn-technologies-inc-openvpn-connect": [
@@ -39995,6 +40110,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.0.10",
+      "6.0.11",
+      1
+     ]
+    ]
    }
   ],
   "sober-lemur-s-a-s-di-vacondio-andrea-pdfsam-visual": [
@@ -40072,6 +40200,19 @@
      [
       "7.1.0",
       "7.2.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.2.0",
+      "7.2.1",
       1
      ]
     ]
@@ -44146,6 +44287,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1345",
+      "9.2.1373",
+      1
+     ],
+     [
+      "9.2.1364",
+      "9.2.1373",
+      1
+     ]
+    ]
    }
   ],
   "visual-paradigm-international-ltd-visual-paradigm-project-viewer": [
@@ -44817,6 +44976,19 @@
      [
       "2.8.3.444",
       "2.8.4.454",
+      2
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.8.4.454",
+      "2.8.5.458",
       2
      ]
     ]
@@ -46634,7 +46806,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261119_202446_AppCatalog.json",
+ "history_through": "20261120_065028_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -46643,9 +46815,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "211341b26bbdcfcac7beef26023424a70b1e37af",
-   "hash": "ac642f69cbbd4b4b18ee366df9d465c9d9d55721",
-   "lastmod": "2026-11-19"
+   "exact": "c63874334122b20806f62b15b884b761fe4953b9",
+   "hash": "5312e8a315e8e21da25a0e0af9de5b24978e15c6",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -46733,9 +46905,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/akiflow.html": {
-   "exact": "1c5d723bdf5eb597007ede70d214ac642aa96caf",
-   "hash": "1c5d723bdf5eb597007ede70d214ac642aa96caf",
-   "lastmod": "2026-11-06"
+   "exact": "656ac5b2c43c0188facf2498878aa7c789bb47a6",
+   "hash": "656ac5b2c43c0188facf2498878aa7c789bb47a6",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/alfaview-gmbh-alfaview.html": {
    "exact": "918960686c25e7b6337a9e787b4bcf68e82ce918",
@@ -47423,9 +47595,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/citrix-workspace-app-ltsr.html": {
-   "exact": "9d12f66b08d62658d4380fb61d0d611b9e38b7d3",
-   "hash": "9d12f66b08d62658d4380fb61d0d611b9e38b7d3",
-   "lastmod": "2026-11-05"
+   "exact": "5751b38319f026549bb16518d12bfb1c313a5566",
+   "hash": "5751b38319f026549bb16518d12bfb1c313a5566",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/citrix-workspace-app.html": {
    "exact": "48a4b1151a8bfc0709e4729ff9634ac0a04eef80",
@@ -47583,9 +47755,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/datadog-agent.html": {
-   "exact": "c7f1883ac70c18c13fb43fa91e2e685829cec6a3",
-   "hash": "c7f1883ac70c18c13fb43fa91e2e685829cec6a3",
-   "lastmod": "2026-11-12"
+   "exact": "e96b6fb5eb6ae339edcc8a96381a7a91de77c2c2",
+   "hash": "e96b6fb5eb6ae339edcc8a96381a7a91de77c2c2",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/david-kocher-cyberduck.html": {
    "exact": "8d4f748a73631da20996a496b978a3bf27af373a",
@@ -47623,9 +47795,9 @@
    "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/dbvis-software-ab-dbvisualizer.html": {
-   "exact": "7faf35feff720664ad4eaf965465d7a54c39e890",
-   "hash": "7faf35feff720664ad4eaf965465d7a54c39e890",
-   "lastmod": "2026-11-05"
+   "exact": "70ff9e4b8edef3cf8f87b91fb5887b4815250022",
+   "hash": "70ff9e4b8edef3cf8f87b91fb5887b4815250022",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/dedoose-desktop-app.html": {
    "exact": "d75ea8afe39369da2206e826fd6e299cff4f230c",
@@ -47898,9 +48070,9 @@
    "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/egnyte-inc-egnyte-connect-desktop-app.html": {
-   "exact": "2f327968e9116d818a055c90e1959a47c9326e8d",
-   "hash": "2f327968e9116d818a055c90e1959a47c9326e8d",
-   "lastmod": "2026-11-09"
+   "exact": "5d40401069512de0dcdbc6428d898ef8ebe345bc",
+   "hash": "5d40401069512de0dcdbc6428d898ef8ebe345bc",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/egnyte-inc-egnyte-webedit.html": {
    "exact": "41ffcf90f116779e42b018039903a0cf15f051d1",
@@ -48293,9 +48465,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/google-llc-google-chrome.html": {
-   "exact": "bb38cd912613627c81bc65d5882adae14ddd43bd",
-   "hash": "bb38cd912613627c81bc65d5882adae14ddd43bd",
-   "lastmod": "2026-11-14"
+   "exact": "fe5a023c878adf2ac3986a20e78505ed749658cd",
+   "hash": "fe5a023c878adf2ac3986a20e78505ed749658cd",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/google-web-designer.html": {
    "exact": "924be5368f6d89e1e66f0ca66f8d4ef3e9ef7938",
@@ -48423,9 +48595,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
-   "exact": "1f5dd438d0af82034c3f66ad3c9d737fd0b71c78",
-   "hash": "1f5dd438d0af82034c3f66ad3c9d737fd0b71c78",
-   "lastmod": "2026-11-19"
+   "exact": "ecf3a684a238d289f9df2796d78333d1b8cf96fb",
+   "hash": "ecf3a684a238d289f9df2796d78333d1b8cf96fb",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/inkscape.html": {
    "exact": "b4352e4da9a3bd3fe0ca8e73445d1f531f6697ea",
@@ -49103,9 +49275,9 @@
    "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
-   "exact": "c1c9a7607905090daaeb4db3be4ec49ede3c7169",
-   "hash": "c1c9a7607905090daaeb4db3be4ec49ede3c7169",
-   "lastmod": "2026-11-11"
+   "exact": "82fa13b1525d993d49eb002f5b2b8b7683d1c3ff",
+   "hash": "82fa13b1525d993d49eb002f5b2b8b7683d1c3ff",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/microsoft-edge-for-business.html": {
    "exact": "7321fd0b9501893b28df60cc1ed6575651505294",
@@ -49778,9 +49950,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/openvpn-technologies-inc-openvpn.html": {
-   "exact": "ebb9229bf80dcab200e77aefe1655cb75862d146",
-   "hash": "ebb9229bf80dcab200e77aefe1655cb75862d146",
-   "lastmod": "2026-11-06"
+   "exact": "4a506ddc5d54c6af026d6a8e2dfebe8bf9227d7c",
+   "hash": "4a506ddc5d54c6af026d6a8e2dfebe8bf9227d7c",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/opera-software-asa-opera-one.html": {
    "exact": "236a55b00748537e7a6e5f85a7747e5c5b8bb97c",
@@ -50083,9 +50255,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "3d283bfa2650a50ed7cd8a3ba0cc60991fb6ecba",
-   "hash": "7058b4a5846516fa43e3c968d8f6d90a0a3d49d9",
-   "lastmod": "2026-11-19"
+   "exact": "c144d6aef71f5cecb481458f8ab894f87b615df8",
+   "hash": "4b46814411ddc418d534aae89b2e724c046360d7",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -50428,14 +50600,14 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/sober-lemur-s-a-s-di-vacondio-andrea-pdfsam-basic.html": {
-   "exact": "1a85bec32f4097cf155a10dacf407d055dbf1983",
-   "hash": "1a85bec32f4097cf155a10dacf407d055dbf1983",
-   "lastmod": "2026-11-05"
+   "exact": "8c9b63f40fead8c3fd76b1bf5d5d06a1992e4dfa",
+   "hash": "8c9b63f40fead8c3fd76b1bf5d5d06a1992e4dfa",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/sober-lemur-s-a-s-di-vacondio-andrea-pdfsam-visual.html": {
-   "exact": "393678260e6dedbe357868e18f7ad11002977c81",
-   "hash": "393678260e6dedbe357868e18f7ad11002977c81",
-   "lastmod": "2026-11-09"
+   "exact": "1d52039f96d5cfe9372d8a1417d5e912f68cc3a6",
+   "hash": "1d52039f96d5cfe9372d8a1417d5e912f68cc3a6",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/softerra-ldap-administrator.html": {
    "exact": "43d0440b30c983b6ec58c887bd7d10e37523b563",
@@ -50973,9 +51145,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "7ace70b456fc5607cc6cba03e33b9f59dca9926f",
-   "hash": "7ace70b456fc5607cc6cba03e33b9f59dca9926f",
-   "lastmod": "2026-11-18"
+   "exact": "7bb804cca74e4f8fcb63626354ac15fed92cc754",
+   "hash": "7bb804cca74e4f8fcb63626354ac15fed92cc754",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "fd5d2f774ff7b172a07409aead83d0837aef4929",
@@ -51108,9 +51280,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/wildix-inc-wildix-collaboration.html": {
-   "exact": "421c1adfc6c9992a2d43aa5afa55c55f2dc580b6",
-   "hash": "421c1adfc6c9992a2d43aa5afa55c55f2dc580b6",
-   "lastmod": "2026-11-18"
+   "exact": "8cb63c65bd096eb1ba9c2fdfa910ea7e8da4f03f",
+   "hash": "8cb63c65bd096eb1ba9c2fdfa910ea7e8da4f03f",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/wind-information-co-ltd-wind-financial-terminal.html": {
    "exact": "8b89c0eb2b9dfb5ede6fd0e506cc9f3adfc4701d",
