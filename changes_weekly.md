@@ -1,22 +1,22 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261120_065028_AppCatalog.json` (exported 2026-11-20 06:50:28)  
-> **vs:** `20261113_061004_AppCatalog.json` (exported 2026-11-13 06:10:04)  
+> **Comparing:** `20261120_195535_AppCatalog.json` (exported 2026-11-20 19:55:35)  
+> **vs:** `20261113_193112_AppCatalog.json` (exported 2026-11-13 19:31:12)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-20 06:51 UTC
+> **Generated:** 2026-11-20 19:56 UTC
 
 ## Summary
 
 | Change | Count |
 |--------|------:|
-| ✅ Added | 4 |
+| ✅ Added | 5 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 156 |
-| 🧩 Repackaged | 0 |
+| 🔄 Updated | 151 |
+| 🧩 Repackaged | 1 |
 
 > 108 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## ✅ Added (4 packages)
+## ✅ Added (5 packages)
 
 | Publisher | App | Branch | Version | Architecture |
 |-----------|-----|--------|---------|:------------:|
@@ -24,20 +24,20 @@
 | Blender Foundation | Blender | Blender 5.3 (x64) | `5.3.0` | x64 |
 | Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR 25 | `25.7.3001.2` | x86,x64 |
 | Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR 26 | `26.7.1.4` | x86,x64 |
+| JetBrains | JetBrains dotUltimate 2023 | dotUltimate 2023.1 | `2023.1.7` | x86,x64 |
 
-## 🔄 Updated (156 packages)
+## 🔄 Updated (151 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
 | Akiflow | Akiflow | Akiflow | `2.85.5` | `2.86.9` | Version |
-| Amazon | Amazon AWS VPN Client | AWS VPN Client | `6.2.1` | `6.2.2` | Version |
 | Amazon | Amazon Corretto JDK 11 | Amazon Corretto JDK 11 (x64) | `11.0.33.0.10` | `11.0.33.1.1` | Version |
 | Amazon | Amazon Corretto JDK 17 | Amazon Corretto JDK 17 | `17.0.21.0.11` | `17.0.21.1.2` | Version, Detection rules |
 | Amazon | Amazon Corretto JDK 8 | Amazon Corretto JDK 8 (x64) | `8.512.09.1` | `8.514.01.1` | Version |
-| Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.172.1` | `1.173.0` | Version |
+| Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.172.1` | `1.174.0` | Version |
 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.36.0.3628` | `5.37.0.3866` | Version |
 | Apple Inc. | Apple iTunes | iTunes (x64) | `12.13.11.1` | `12.13.12.3` | Version |
-| Arduino | Arduino IDE | Arduino IDE | `2.3.10` | `2.3.11` | Version |
+| Atlassian Inc | Atlassian Companion | Atlassian Companion | `3.3.0` | `3.4.0` | Version |
 | Atomi Systems, Inc. | Saola Animate | Saola Animate | `3.1.4` | `4.0.0` | Version |
 | Azul Systems, Inc. | Zulu JDK 11 (LTS) | Zulu JDK 11 (LTS) (x64) | `11.92.113` | `11.92.201` | Version |
 | Azul Systems, Inc. | Zulu JDK 17 (LTS) | Zulu JDK 17 (LTS) (x64) | `17.70.113` | `17.70.201` | Version |
@@ -48,17 +48,17 @@
 | BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.513.9` | `8.0.514.5` | Version |
 | Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.6.0` | `8.6.1` | Version |
 | Blender Foundation | Blender | Blender 5.2 LTS (x64) | `5.2.4` | `5.2.4` | Branch |
-| Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.99.56` | `1.99.57` | Version |
 | Cake.com Inc. | Clockify | Clockify | `2.4.3` | `2.4.4` | Version |
-| Caphyon | Caphyon Advanced Installer | Advanced Installer | `24.2` | `24.2.1` | Version |
+| Citrix | Citrix Workspace app | Citrix Workspace app (Neutral) | `26.3.11.10` | `26.3.20.31` | Version |
 | ClockAssist | ClockAssist | ClockAssist | `1.1.9666.14975` | `1.1.9819.18791` | Version |
 | Cockos Incorporated | REAPER | REAPER (x64) | `7.85` | `7.86` | Version |
 | code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50922.0` | `7.04.51113.0` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.85.4` | `7.85.5` | Version |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.2.4` | `26.2.5` | Version |
 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.5` | `26.3` | Version |
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.18.0` | `2027.1.0.0` | Version |
-| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.18.0` | `2027.1.0.0` | Version |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.3.18.0` | `2027.1.1.0` | Version |
+| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.18.0` | `2027.1.1.0` | Version |
+| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.18.0` | `2027.1.1.0` | Version |
 | draw.io | draw.io Desktop | draw.io Desktop | `32.6.10` | `32.7.4` | Version |
 | dRofus | dRofus | dRofus | `2.19.13.0` | `2.19.14.0` | Version |
 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `279.4.5723` | `280.4.5053` | Version |
@@ -70,13 +70,12 @@
 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.74.081.023` | `2016.75.060.014` | Version |
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.80.1` | `3.81.2` | Version |
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (MSI) | `3.80.1` | `3.81.2` | Version |
-| Garmin | Garmin Express | Garmin Express | `7.29.1.0` | `7.29.1.0` | Architecture, Detection rules, Install context |
 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.22.4` | `1.22.5` | Version |
-| GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.103.3` | `2.105.0` | Version |
+| GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.104.0` | `2.105.0` | Version |
 | Google | Google Drive | Google Drive | `133.0.2.0` | `134.0.1.0` | Version |
 | Google | Google Drive File Stream | Google Drive File Stream | `133.0.2.0` | `134.0.1.0` | Version |
 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `157.0.8103.39` | `158.0.8127.37` | Version |
-| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.17.0` | `2.11.22.0` | Version |
+| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.18.0` | `2.11.22.0` | Version |
 | JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.6.1` | `2026.2.7` | Version |
 | JetBrains | GoLand | GoLand 2026.2 (x64) | `2026.2.4` | `2026.2.5` | Version |
 | JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.4.1` | `2026.2.5` | Version |
@@ -84,6 +83,7 @@
 | JetBrains | WebStorm | WebStorm 2026.2 (x64) | `2026.2.4` | `2026.2.5` | Version |
 | Karakun | OpenWebStart | OpenWebStart (x64) | `1.14.0` | `1.14.1` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.19.6` | `3.19.7` | Version |
+| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.5.12` | `8.6.18` | Version |
 | LucidLink | LucidLink Classic | LucidLink Classic | `2.10.9033` | `2.10.9127` | Version |
 | Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.2` | `6.4.0` | Version |
 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9 (LTS) | `9.24.44.121539` | `9.24.45.134586` | Version, Detection rules |
@@ -92,8 +92,7 @@
 | Microsoft | Microsoft Analysis Services OLE DB Provider | Microsoft Analysis Services OLE DB Provider (x64) | `18.0.326.0` | `18.0.368.0` | Version |
 | Microsoft | Microsoft Azure CLI | Azure CLI (x64) | `2.92.0` | `2.93.0` | Version |
 | Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.5.0.41350` | `17.0.0.41393` | Version |
-| Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `2.26.921.1` | `2.26.1102.1` | Version |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `158.0.4370.16` | `158.0.4370.26` | Version |
+| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `158.0.4370.16` | `159.0.4402.7` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `159.0.4393.0` | `160.0.4408.0` | Version |
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.338.3` | `3000.342.5` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.198.1011.0006` | `26.204.1019.0009` | Version |
@@ -105,7 +104,6 @@
 | Microsoft | OpenJDK | OpenJDK 25 (x64) | `25.0.5.0` | `25.0.5.1` | Version |
 | Microsoft | OpenJDK 11 | OpenJDK 11 (x64) | `11.0.33.10` | `11.0.33.101` | Version |
 | Microsoft | OpenJDK 17 | OpenJDK 17 (x64) | `17.0.21.0` | `17.0.21.1` | Version |
-| Microsoft | SharePoint Online Management Shell | SharePoint Online Management Shell | `16.0.27709.12000` | `16.0.27814.12015` | Version |
 | monday.com Ltd | monday | monday | `1.0.46.0` | `1.0.47.0` | Version |
 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `160.0` | `160.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `160.0` | `160.0.1` | Version |
@@ -155,7 +153,7 @@
 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `160.0` | `160.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `160.0` | `160.0.1` | Version |
 | Mythicsoft Ltd | Agent Ransack | Agent Ransack | `9.2.3566.1` | `9.2.3568.1` | Version |
-| NetBird GmbH | NetBird | NetBird | `0.82.1` | `0.83.1` | Version |
+| NetBird GmbH | NetBird | NetBird | `0.83.0` | `0.83.1` | Version |
 | NETworkManager | NETworkManager | NETworkManager | `2026.7.7.0` | `2026.11.15.0` | Version |
 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `2.0.2` | `2.1.1` | Version |
 | Node.js Foundation | Node.js 22 LTS | Node.js 22 LTS (x64) | `22.23.1` | `22.23.5` | Version |
@@ -164,7 +162,6 @@
 | Oracle | Oracle Java SE Development Kit 17 | Oracle Java SE Development Kit 17 (x64) | `17.0.21.0.3` | `17.0.21.1` | Version |
 | Orica Limited | SHOTPlus 6 | SHOTPlus 6 | `6.27.1.0` | `6.27.2.0` | Version |
 | PeaZip srl | PeaZip | PeaZip (x64) | `11.3.0` | `11.4.0` | Version |
-| Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.19.2` | `4.19.3` | Version |
 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.158.7` | `2.159.7` | Version |
 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.12.2` | `12.11.14.4` | Version |
 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.12.2` | `12.11.14.4` | Version |
@@ -172,17 +169,24 @@
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.10` | `6.0.11` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.2.0` | `7.2.1` | Version |
 | SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.5.0` | `2.5.1` | Version |
-| Tailscale Inc. | Tailscale | Tailscale (x64) | `1.104.6` | `1.104.7` | Version |
 | TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.83.5.0` | `15.83.7.0` | Version |
 | TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.83.5.0` | `15.83.7.0` | Version |
-| Tidio | Tidio | Tidio | `5.7.0` | `5.11.0` | Version |
+| Tidio | Tidio | Tidio | `5.9.0` | `5.11.0` | Version |
 | TortoiseGit | TortoiseGit | TortoiseGit (x64) | `2.19.1.0` | `2.19.2.0` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1320` | `9.2.1373` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1332` | `9.2.1373` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1342` | `9.2.1373` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.2.426` | `2.8.5.458` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.2.426` | `2.8.5.458` | Version |
 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.6.0` | `26.7.0` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.19` | `4.4.20` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.9` | `4.6.10` | Version |
 | Zandar Labs SL | Aptakube | Aptakube | `1.22.3` | `1.23.0` | Version |
+
+## 🧩 Repackaged (1 package)
+
+Same branch and version, new package, and the deployment template Intune creates from it changed.
+
+| Publisher | App | Branch | Version | Changed |
+|-----------|-----|--------|:-------:|---------|
+| Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.1.0.0` | Install command, Installer file, Installer size |
 

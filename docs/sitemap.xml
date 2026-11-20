@@ -102,7 +102,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/amazon-aws-sam-command-line-interface.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/amazon-aws-vpn-client.html</loc>
@@ -250,7 +250,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/atlassian-inc-atlassian-companion.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/atlassian-inc-atlassian-confluence.html</loc>
@@ -634,7 +634,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/citrix-workspace-app.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/citrix-workspace-app-ltsr.html</loc>
@@ -838,11 +838,11 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html</loc>
@@ -1506,83 +1506,87 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-datagrip.html</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-datagrip-1-0.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-datagrip-2016-3.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-datagrip-2020-3.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-datagrip-2021-1.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-datagrip-2021-3.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-datagrip-2022-1.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-datagrip-2022-2.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-datagrip-2024-1.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-dataspell.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-dotultimate.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://eam.drung.dev/apps/jetbrains-dotultimate-2023.html</loc>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-goland.html</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-goland-2017-3.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-goland-2021-1.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-goland-2022-2.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-intellij-idea-community.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-resharper-2023-1.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-teamcity.html</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-webstorm.html</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/jetbrains-webstorm-2022-2.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/joachim-eibl-kdiff3.html</loc>
@@ -1670,7 +1674,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/lark-technologies-pte-ltd-lark-deployment-tool.html</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/lastpass.html</loc>
@@ -1974,7 +1978,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/microsoft-edge-beta.html</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/microsoft-edge-dev.html</loc>
@@ -3474,7 +3478,7 @@
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://eam.drung.dev/apps/vmware-horizon-client-2006.html</loc>

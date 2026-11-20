@@ -384,6 +384,7 @@
   "jetbrains-datagrip-2024-1": "2025-12-07",
   "jetbrains-dataspell": "2025-12-07",
   "jetbrains-dotultimate": "2025-12-07",
+  "jetbrains-dotultimate-2023": "2026-11-20",
   "jetbrains-goland": "2025-12-07",
   "jetbrains-goland-2017-3": "2025-12-07",
   "jetbrains-goland-2021-1": "2025-12-07",
@@ -2139,6 +2140,19 @@
      [
       "1.172.1",
       "1.173.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.173.0",
+      "1.174.0",
       1
      ]
     ]
@@ -4474,6 +4488,19 @@
      [
       "3.2.0",
       "3.3.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.3.0",
+      "3.4.0",
       1
      ]
     ]
@@ -8882,6 +8909,19 @@
     ],
     "removed": 0,
     "versions": []
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.3.11.10",
+      "26.3.20.31",
+      1
+     ]
+    ]
    }
   ],
   "citrix-workspace-app-ltsr": [
@@ -12182,6 +12222,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.3.18.0",
+      "2027.1.1.0",
+      1
+     ],
+     [
+      "2027.1.0.0",
+      "2027.1.1.0",
+      1
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager": [
@@ -12476,6 +12534,19 @@
      [
       "2026.3.18.0",
       "2027.1.0.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2027.1.0.0",
+      "2027.1.1.0",
       1
      ]
     ]
@@ -21969,6 +22040,18 @@
     ]
    }
   ],
+  "jetbrains-dotultimate-2023": [
+   {
+    "added": 1,
+    "branches_added": [
+     "dotUltimate 2023.1"
+    ],
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": []
+   }
+  ],
   "jetbrains-goland": [
    {
     "added": 2,
@@ -23951,6 +24034,19 @@
      [
       "8.4.19",
       "8.5.12",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.5.12",
+      "8.6.18",
       1
      ]
     ]
@@ -26612,6 +26708,19 @@
      [
       "158.0.4370.21",
       "158.0.4370.26",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "158.0.4370.26",
+      "159.0.4402.7",
       1
      ]
     ]
@@ -44333,6 +44442,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-20",
+    "fields": [],
+    "removed": 0,
+    "repack_fields": [
+     "Install command",
+     "Installer file",
+     "Installer size"
+    ],
+    "repackaged": 1,
+    "versions": []
    }
   ],
   "voidtools-everything": [
@@ -46806,7 +46928,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261120_065028_AppCatalog.json",
+ "history_through": "20261120_195535_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -46815,8 +46937,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "c63874334122b20806f62b15b884b761fe4953b9",
-   "hash": "5312e8a315e8e21da25a0e0af9de5b24978e15c6",
+   "exact": "acd6c67856590931cab49c6cb2c3d4a951158f84",
+   "hash": "14ad4d718f7c6efa15aeccb067ac5fa082eb1a50",
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -46930,9 +47052,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/amazon-aws-sam-command-line-interface.html": {
-   "exact": "6f65e186b703a23426f82c6b189c37ca95118c4b",
-   "hash": "6f65e186b703a23426f82c6b189c37ca95118c4b",
-   "lastmod": "2026-11-18"
+   "exact": "49e88ada68c9b1fcb571dd99ccc5b1b556c1260b",
+   "hash": "49e88ada68c9b1fcb571dd99ccc5b1b556c1260b",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
    "exact": "e1880ad04414007718b64fc1fc091993a0e8b0f7",
@@ -47115,9 +47237,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/atlassian-inc-atlassian-companion.html": {
-   "exact": "2c3f4d042404e825fbe65e6af5d8ac7e341df820",
-   "hash": "2c3f4d042404e825fbe65e6af5d8ac7e341df820",
-   "lastmod": "2026-11-05"
+   "exact": "3004dcf1f6755c10e7bff23df2ab57dfc9801353",
+   "hash": "3004dcf1f6755c10e7bff23df2ab57dfc9801353",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/atlassian-inc-atlassian-confluence.html": {
    "exact": "976036d9f8cccf53282c486dc363ccf2f38fcc8a",
@@ -47600,9 +47722,9 @@
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/citrix-workspace-app.html": {
-   "exact": "48a4b1151a8bfc0709e4729ff9634ac0a04eef80",
-   "hash": "48a4b1151a8bfc0709e4729ff9634ac0a04eef80",
-   "lastmod": "2026-11-05"
+   "exact": "8bc8ccf43bd2eda3fa7cb510e1b449045adb2613",
+   "hash": "8bc8ccf43bd2eda3fa7cb510e1b449045adb2613",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/clarivate-endnote-20.html": {
    "exact": "52abd2bd106a1b2675a6c308ecb8482ffd01f9db",
@@ -47850,9 +47972,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html": {
-   "exact": "670411a3c41409b76a4764accc22b7399993842b",
-   "hash": "670411a3c41409b76a4764accc22b7399993842b",
-   "lastmod": "2026-11-18"
+   "exact": "d1d262ada0805c4db013c9655572fc3ed1c94a1b",
+   "hash": "d1d262ada0805c4db013c9655572fc3ed1c94a1b",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html": {
    "exact": "bebfd01294672c19cbea6850f7a2996962bf8222",
@@ -47860,9 +47982,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html": {
-   "exact": "ccd9f086549518f95c2d393147745d3e47afaa67",
-   "hash": "ccd9f086549518f95c2d393147745d3e47afaa67",
-   "lastmod": "2026-11-18"
+   "exact": "74f00d7e888f8433798ac1e6c872778e4e75005e",
+   "hash": "74f00d7e888f8433798ac1e6c872778e4e75005e",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-workspace.html": {
    "exact": "cb4120b9abacda7c65ac083f2eda06e89faa9bfc",
@@ -48685,104 +48807,109 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip-1-0.html": {
-   "exact": "2ce30a16cf0fafdf0764359bdb864be918f08276",
-   "hash": "2ce30a16cf0fafdf0764359bdb864be918f08276",
-   "lastmod": "2026-11-05"
+   "exact": "1583dee85cd48d94b1e817e979efba22ab1d7932",
+   "hash": "1583dee85cd48d94b1e817e979efba22ab1d7932",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip-2016-3.html": {
-   "exact": "9756b1486f038d2635b031fa7b6aeddd796bafbf",
-   "hash": "9756b1486f038d2635b031fa7b6aeddd796bafbf",
-   "lastmod": "2026-11-05"
+   "exact": "70313730e863e8bd96b013818cb43bd38a00c53d",
+   "hash": "70313730e863e8bd96b013818cb43bd38a00c53d",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip-2020-3.html": {
-   "exact": "0918259d98e782397df81ba309c9130ad0f75a0f",
-   "hash": "0918259d98e782397df81ba309c9130ad0f75a0f",
-   "lastmod": "2026-11-05"
+   "exact": "b05ac45d989a98d7841362fecebeba273dc12093",
+   "hash": "b05ac45d989a98d7841362fecebeba273dc12093",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip-2021-1.html": {
-   "exact": "826ea0d6009fcf6799c54d01e0fa6fb9582b649b",
-   "hash": "826ea0d6009fcf6799c54d01e0fa6fb9582b649b",
-   "lastmod": "2026-11-05"
+   "exact": "d423179ab96b1e13de04b4ce599e58a036a3ce8e",
+   "hash": "d423179ab96b1e13de04b4ce599e58a036a3ce8e",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip-2021-3.html": {
-   "exact": "97d1daf26be0a03b9da5c0c41940d76c584a839e",
-   "hash": "97d1daf26be0a03b9da5c0c41940d76c584a839e",
-   "lastmod": "2026-11-05"
+   "exact": "6b41b7e81bd6fe13d04c97c2b2c6ed03ac53ce20",
+   "hash": "6b41b7e81bd6fe13d04c97c2b2c6ed03ac53ce20",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip-2022-1.html": {
-   "exact": "9e611380e36ea276b207fe1b4dc5c3209f697430",
-   "hash": "9e611380e36ea276b207fe1b4dc5c3209f697430",
-   "lastmod": "2026-11-05"
+   "exact": "15e6a8834c546ab33de86e75733bd3a5aa414b44",
+   "hash": "15e6a8834c546ab33de86e75733bd3a5aa414b44",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip-2022-2.html": {
-   "exact": "1baa5ac5b17916306a6c4522592d1be362724e8e",
-   "hash": "1baa5ac5b17916306a6c4522592d1be362724e8e",
-   "lastmod": "2026-11-05"
+   "exact": "040f06dc8a3b4877aa057b04a707141c8dae4622",
+   "hash": "040f06dc8a3b4877aa057b04a707141c8dae4622",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip-2024-1.html": {
-   "exact": "4b61fa166ae7bc42098175e8b139a30b7ecc5d8d",
-   "hash": "4b61fa166ae7bc42098175e8b139a30b7ecc5d8d",
-   "lastmod": "2026-11-05"
+   "exact": "9bccb5a66fff9db3b70291354007b8635e2e4a33",
+   "hash": "9bccb5a66fff9db3b70291354007b8635e2e4a33",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip.html": {
-   "exact": "273abcea1b5f67e6b9200c0429c8e7acc798aa11",
-   "hash": "273abcea1b5f67e6b9200c0429c8e7acc798aa11",
-   "lastmod": "2026-11-17"
+   "exact": "7f75bc45bcb9c3b8416046d5a8415a3681518312",
+   "hash": "7f75bc45bcb9c3b8416046d5a8415a3681518312",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-dataspell.html": {
-   "exact": "a0a7422e29d5d3caaf313ef271f79602599bf76a",
-   "hash": "a0a7422e29d5d3caaf313ef271f79602599bf76a",
-   "lastmod": "2026-11-05"
+   "exact": "b4d097e1b7f2806a108c04f1d68983c44f918310",
+   "hash": "b4d097e1b7f2806a108c04f1d68983c44f918310",
+   "lastmod": "2026-11-20"
+  },
+  "https://eam.drung.dev/apps/jetbrains-dotultimate-2023.html": {
+   "exact": "48628807acc042d4f79dfb9852e26ee3df2aff76",
+   "hash": "48628807acc042d4f79dfb9852e26ee3df2aff76",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-dotultimate.html": {
-   "exact": "fc864f716bfeefb6999fc888f4d5e51929902cec",
-   "hash": "fc864f716bfeefb6999fc888f4d5e51929902cec",
-   "lastmod": "2026-11-18"
+   "exact": "cf50676b684a96b89d114c7a0520d2a8ea6385f6",
+   "hash": "cf50676b684a96b89d114c7a0520d2a8ea6385f6",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-goland-2017-3.html": {
-   "exact": "ca1d97d6f14db6685875384831f488ad12f9b9d0",
-   "hash": "ca1d97d6f14db6685875384831f488ad12f9b9d0",
-   "lastmod": "2026-11-05"
+   "exact": "db458228cbf48e993ebef116d7627391961ad6fc",
+   "hash": "db458228cbf48e993ebef116d7627391961ad6fc",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-goland-2021-1.html": {
-   "exact": "5b7b670ea0c54dbf2fb7f2261436689e703ef7b4",
-   "hash": "5b7b670ea0c54dbf2fb7f2261436689e703ef7b4",
-   "lastmod": "2026-11-05"
+   "exact": "7bc32ea2c45216a46bacd9608ba9e311b86b33f4",
+   "hash": "7bc32ea2c45216a46bacd9608ba9e311b86b33f4",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-goland-2022-2.html": {
-   "exact": "d543a4fda7cae6dd8a398401a3c657d360ca0021",
-   "hash": "d543a4fda7cae6dd8a398401a3c657d360ca0021",
-   "lastmod": "2026-11-05"
+   "exact": "f0a9571331910cb1427055622088a208c619cfdf",
+   "hash": "f0a9571331910cb1427055622088a208c619cfdf",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-goland.html": {
-   "exact": "9aa788b309d4ed4a3bbac14c2794ac01db2c2357",
-   "hash": "9aa788b309d4ed4a3bbac14c2794ac01db2c2357",
-   "lastmod": "2026-11-16"
+   "exact": "fad240ffdb440dce80075fbfd0261ebf9218b032",
+   "hash": "fad240ffdb440dce80075fbfd0261ebf9218b032",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-intellij-idea-community.html": {
-   "exact": "8b3afb698debabb7406b1f1ff916eef68abb9a28",
-   "hash": "8b3afb698debabb7406b1f1ff916eef68abb9a28",
-   "lastmod": "2026-11-05"
+   "exact": "df2be2025e2f5f18c42d24a4d116ca706f55fa9f",
+   "hash": "df2be2025e2f5f18c42d24a4d116ca706f55fa9f",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-resharper-2023-1.html": {
-   "exact": "9d4baeeb7989ed197c82e25ae36cf1f61198675e",
-   "hash": "9d4baeeb7989ed197c82e25ae36cf1f61198675e",
-   "lastmod": "2026-11-05"
+   "exact": "d5bd68a7d29e3446424d22fd206a5ea4208eb8d6",
+   "hash": "d5bd68a7d29e3446424d22fd206a5ea4208eb8d6",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-teamcity.html": {
-   "exact": "d5b75618648db8e7793ebc5d1614ccec7c68d733",
-   "hash": "d5b75618648db8e7793ebc5d1614ccec7c68d733",
-   "lastmod": "2026-11-17"
+   "exact": "8520e12a721229a4b6a415d6d6bc6234710c6118",
+   "hash": "8520e12a721229a4b6a415d6d6bc6234710c6118",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-webstorm-2022-2.html": {
-   "exact": "3f8620489189cf60648f595870b9bb582c37a03a",
-   "hash": "3f8620489189cf60648f595870b9bb582c37a03a",
-   "lastmod": "2026-11-05"
+   "exact": "af4e03224778901add9cdc90b247ec42c2a174db",
+   "hash": "af4e03224778901add9cdc90b247ec42c2a174db",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-webstorm.html": {
-   "exact": "f23b282acfec4db65472186de44e22c4881c3c96",
-   "hash": "f23b282acfec4db65472186de44e22c4881c3c96",
-   "lastmod": "2026-11-14"
+   "exact": "24c67d898f0e9747bd9c8580cb8083378c725949",
+   "hash": "24c67d898f0e9747bd9c8580cb8083378c725949",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/joachim-eibl-kdiff3.html": {
    "exact": "26e15a3a922eb35eb20ab8285f5366b420cf16bd",
@@ -48890,9 +49017,9 @@
    "lastmod": "2026-11-09"
   },
   "https://eam.drung.dev/apps/lark-technologies-pte-ltd-lark-deployment-tool.html": {
-   "exact": "23595f58a8286beab4a70efe103278c88f1b2ff8",
-   "hash": "23595f58a8286beab4a70efe103278c88f1b2ff8",
-   "lastmod": "2026-11-12"
+   "exact": "6a1958bc69bbf9c74342ae156d105220feb5a912",
+   "hash": "6a1958bc69bbf9c74342ae156d105220feb5a912",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/lastpass.html": {
    "exact": "01447811238b6a3095fc5c67adac8c92a3e30f4d",
@@ -49270,9 +49397,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "d1e4c252120c90102121466eba8b3f528f84f4eb",
-   "hash": "d1e4c252120c90102121466eba8b3f528f84f4eb",
-   "lastmod": "2026-11-17"
+   "exact": "5f4d47c52708075329c0152e861506313359431c",
+   "hash": "5f4d47c52708075329c0152e861506313359431c",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "82fa13b1525d993d49eb002f5b2b8b7683d1c3ff",
@@ -50255,8 +50382,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "c144d6aef71f5cecb481458f8ab894f87b615df8",
-   "hash": "4b46814411ddc418d534aae89b2e724c046360d7",
+   "exact": "aef2c2550ab9087d2c8fe1547a927a554d3433cb",
+   "hash": "6206941712b3c660a969b5e9d1e05c40fefbd704",
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -51150,9 +51277,9 @@
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
-   "exact": "fd5d2f774ff7b172a07409aead83d0837aef4929",
-   "hash": "fd5d2f774ff7b172a07409aead83d0837aef4929",
-   "lastmod": "2026-11-05"
+   "exact": "50c0289d12bb79a4f5b26cd2ffe2b5ef3f8369ea",
+   "hash": "50c0289d12bb79a4f5b26cd2ffe2b5ef3f8369ea",
+   "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/vmware-horizon-client-2006.html": {
    "exact": "29b9f04b0d6aa2f9af235c032c56d89e56d26dda",
