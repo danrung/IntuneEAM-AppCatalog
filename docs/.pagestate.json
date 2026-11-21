@@ -3609,6 +3609,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.3.0.0",
+      "2.3.1.0",
+      1
+     ]
+    ]
    }
   ],
   "amazon-web-services-inc-amazon-workspaces": [
@@ -14819,6 +14832,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.0.21.9",
+      "17.0.21.102",
+      1
+     ]
+    ]
    }
   ],
   "eclipse-foundation-eclipse-temurin-jdk-with-hotspot-21": [
@@ -14883,6 +14909,19 @@
      [
       "21.0.12.101",
       "21.0.13.9",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "21.0.13.9",
+      "21.0.13.102",
       1
      ]
     ]
@@ -15084,6 +15123,19 @@
      [
       "17.0.20.101",
       "17.0.21.9",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.0.21.9",
+      "17.0.21.102",
       1
      ]
     ]
@@ -17569,6 +17621,19 @@
      [
       "11.33.0",
       "11.34.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.34.0",
+      "11.35.0",
       1
      ]
     ]
@@ -20357,6 +20422,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.11.0.0",
+      "6.0.0.0",
+      1
+     ]
+    ]
    }
   ],
   "inknoe-classpoint": [
@@ -21246,6 +21324,19 @@
      [
       "5.1.0.47893",
       "5.1.1.54555",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.1.1.54555",
+      "5.1.2.29656",
       1
      ]
     ]
@@ -31232,6 +31323,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.53.2",
+      "1.53.3",
+      1
+     ]
+    ]
    }
   ],
   "mongodb-inc-mongodb-compass-isolated-edition": [
@@ -31416,6 +31520,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.53.2",
+      "1.53.3",
+      1
+     ]
+    ]
    }
   ],
   "mongodb-inc-mongodb-compass-readonly-edition": [
@@ -31597,6 +31714,19 @@
      [
       "1.53.0",
       "1.53.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.53.2",
+      "1.53.3",
       1
      ]
     ]
@@ -35304,6 +35434,19 @@
    {
     "added": 0,
     "date": "2026-11-18",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.0.5110.33",
+      "8.0.5130.04",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
     "fields": [],
     "removed": 0,
     "versions": [
@@ -39871,6 +40014,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.10.0",
+      "5.10.1",
+      1
+     ]
+    ]
    }
   ],
   "smartsheet-inc-smartsheet-desktop-app": [
@@ -42967,6 +43123,19 @@
      [
       "1.14.9",
       "1.14.10",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.14.10",
+      "1.14.16",
       1
      ]
     ]
@@ -46928,7 +47097,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261120_195535_AppCatalog.json",
+ "history_through": "20261121_064425_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -46937,9 +47106,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "acd6c67856590931cab49c6cb2c3d4a951158f84",
-   "hash": "14ad4d718f7c6efa15aeccb067ac5fa082eb1a50",
-   "lastmod": "2026-11-20"
+   "exact": "103a9038278b68e0f65825d7368487f7b98a9ebd",
+   "hash": "db6710a9e20011db6bcfef4f270093220d6696ca",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -47117,9 +47286,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/amazon-web-services-inc-amazon-redshift-odbc-driver.html": {
-   "exact": "d8cb5bbce7c957f6935eb1e5099fd0b62cf469c7",
-   "hash": "d8cb5bbce7c957f6935eb1e5099fd0b62cf469c7",
-   "lastmod": "2026-11-05"
+   "exact": "9282c01b850209dc570909c41b206fc1e8864b57",
+   "hash": "9282c01b850209dc570909c41b206fc1e8864b57",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/amazon-web-services-inc-amazon-workspaces.html": {
    "exact": "f4cec2a3f63af1c1d5f03aded99ce36246b38679",
@@ -48097,9 +48266,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jdk-with-hotspot-17-lts.html": {
-   "exact": "a9ae38a34108f0963f32bafbb0ae503de1e9ba59",
-   "hash": "a9ae38a34108f0963f32bafbb0ae503de1e9ba59",
-   "lastmod": "2026-11-05"
+   "exact": "2efb5b38302857aacdaca8accfda63db386ce18e",
+   "hash": "2efb5b38302857aacdaca8accfda63db386ce18e",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jdk-with-hotspot-18.html": {
    "exact": "584c60b1de3a5e60d2d84c46c3ccc2b9de31c615",
@@ -48117,9 +48286,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jdk-with-hotspot-21.html": {
-   "exact": "e4c68033ffaed286f318559fda330055408c2d22",
-   "hash": "e4c68033ffaed286f318559fda330055408c2d22",
-   "lastmod": "2026-11-05"
+   "exact": "72f71359195a22d17e1672436fee9f83af229c2a",
+   "hash": "72f71359195a22d17e1672436fee9f83af229c2a",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jdk-with-hotspot-22.html": {
    "exact": "d5ea8f8e692a2cc597169ea2c9bd18d7fce71b9f",
@@ -48157,9 +48326,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jre-with-hotspot-17-lts.html": {
-   "exact": "e46ff75a5f2a36eb596957d1ce5ea6d405c16bd7",
-   "hash": "e46ff75a5f2a36eb596957d1ce5ea6d405c16bd7",
-   "lastmod": "2026-11-05"
+   "exact": "b8fc1c22d5efb6af045ffa9c62233805802d2d59",
+   "hash": "b8fc1c22d5efb6af045ffa9c62233805802d2d59",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/eclipse-foundation-eclipse-temurin-jre-with-hotspot-18.html": {
    "exact": "eb13177dfd06924543d13ef2c4d1174b7d748f0b",
@@ -48457,9 +48626,9 @@
    "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/geek-software-gmbh-pdf24-creator.html": {
-   "exact": "9033c0c5de26f29a981ec6e44e35629c98cd4d7f",
-   "hash": "9033c0c5de26f29a981ec6e44e35629c98cd4d7f",
-   "lastmod": "2026-11-12"
+   "exact": "4cc937ceb21ee256b84efe67f66bfdb1135e9509",
+   "hash": "4cc937ceb21ee256b84efe67f66bfdb1135e9509",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/general-workings-inc-general-workings-streamlabs-obs.html": {
    "exact": "50587edec2134906c02ea67bc759638f8fc56ac2",
@@ -48712,9 +48881,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/iniciativas-informaticas-y-de-comunicacion-air-explorer.html": {
-   "exact": "ee0d73d36001c882749b889912a8524a2d978471",
-   "hash": "ee0d73d36001c882749b889912a8524a2d978471",
-   "lastmod": "2026-11-05"
+   "exact": "1aa748d32037dd8a27b5011cdecf83b7b27f4bd6",
+   "hash": "1aa748d32037dd8a27b5011cdecf83b7b27f4bd6",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
    "exact": "ecf3a684a238d289f9df2796d78333d1b8cf96fb",
@@ -48762,9 +48931,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/intevation-gmbh-gpg4win.html": {
-   "exact": "39887f24ad183b1c8733e4c8625c86b69ee3309e",
-   "hash": "39887f24ad183b1c8733e4c8625c86b69ee3309e",
-   "lastmod": "2026-11-05"
+   "exact": "0bdf297f18dc1c0fc3bdde57dfeea250519eeed7",
+   "hash": "0bdf297f18dc1c0fc3bdde57dfeea250519eeed7",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/investintech-com-inc-able2extract-professional.html": {
    "exact": "1d6b6bf2986af783d0177fba5e6364b1e8bfb474",
@@ -49772,19 +49941,19 @@
    "lastmod": "2026-11-17"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass-isolated-edition.html": {
-   "exact": "ccdd6183075b5bad5bdee8a6f90b457c5e2e2505",
-   "hash": "ccdd6183075b5bad5bdee8a6f90b457c5e2e2505",
-   "lastmod": "2026-11-05"
+   "exact": "21de1e8beabcc91474700a85ac62393001dc0fcb",
+   "hash": "21de1e8beabcc91474700a85ac62393001dc0fcb",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass-readonly-edition.html": {
-   "exact": "375c8fcb13652cafe9e7e5d5ff847533295498f1",
-   "hash": "375c8fcb13652cafe9e7e5d5ff847533295498f1",
-   "lastmod": "2026-11-05"
+   "exact": "38e9acd25e3712b4b786c8c2b0bbb4e21d300251",
+   "hash": "38e9acd25e3712b4b786c8c2b0bbb4e21d300251",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/mongodb-inc-mongodb-compass.html": {
-   "exact": "32e1731ff714519206fbc1b3d7f0a9ae764cc096",
-   "hash": "32e1731ff714519206fbc1b3d7f0a9ae764cc096",
-   "lastmod": "2026-11-05"
+   "exact": "ba5d8c30d531f56d35c4d1985d63c72b2d44e13b",
+   "hash": "ba5d8c30d531f56d35c4d1985d63c72b2d44e13b",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/moos-project-viewer.html": {
    "exact": "0d61b20e896cfb290d160fa76df94f5ceaba42dd",
@@ -50087,9 +50256,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/oracle-java-runtime-environment-version-8.html": {
-   "exact": "4bb995fcf31fec0271e8948f61da3b03862ad215",
-   "hash": "4bb995fcf31fec0271e8948f61da3b03862ad215",
-   "lastmod": "2026-11-18"
+   "exact": "25f3187e6e6cbe262f5f44f229ac0be587f7df80",
+   "hash": "25f3187e6e6cbe262f5f44f229ac0be587f7df80",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/oracle-java-se-development-kit-17.html": {
    "exact": "5ff3d3cd24db522637d5d3e6203a37e026c87df1",
@@ -50382,9 +50551,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "aef2c2550ab9087d2c8fe1547a927a554d3433cb",
-   "hash": "6206941712b3c660a969b5e9d1e05c40fefbd704",
-   "lastmod": "2026-11-20"
+   "exact": "16d24495dfad3b4c8c8a9866a6383f0bc824bc48",
+   "hash": "b6b5268b274f00857c898604540eb1991401d43e",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -50697,9 +50866,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/smartbear-software-soapui.html": {
-   "exact": "229bff04e967d81198a71938a174a73b7743c227",
-   "hash": "229bff04e967d81198a71938a174a73b7743c227",
-   "lastmod": "2026-11-05"
+   "exact": "105ef7fc1d80fdc6564fd6ce5ef1169769b447cd",
+   "hash": "105ef7fc1d80fdc6564fd6ce5ef1169769b447cd",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/smartsheet-inc-smartsheet-desktop-app.html": {
    "exact": "2f33dfa663cdbc749e1b3d5e9059da5a59cad905",
@@ -51207,9 +51376,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/typora-io-typora.html": {
-   "exact": "348f819e24cbc82511403ee993a80d5b7214ec76",
-   "hash": "348f819e24cbc82511403ee993a80d5b7214ec76",
-   "lastmod": "2026-11-05"
+   "exact": "7a0bc6593ac38a9e95449ddc70241695b2751c19",
+   "hash": "7a0bc6593ac38a9e95449ddc70241695b2751c19",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/ultimaker-cura.html": {
    "exact": "cc8e3f0cf2f4421ec849d9d1d26a328a96e1020e",
