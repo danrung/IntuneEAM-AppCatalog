@@ -10238,6 +10238,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-21",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9810.22348",
+      "7.1.9820.32758",
+      1
+     ]
+    ]
    }
   ],
   "cpuid-inc-cpu-z": [
@@ -47097,7 +47110,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261121_064425_AppCatalog.json",
+ "history_through": "20261121_190137_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -47106,8 +47119,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "103a9038278b68e0f65825d7368487f7b98a9ebd",
-   "hash": "db6710a9e20011db6bcfef4f270093220d6696ca",
+   "exact": "e2f6914ac10d492f8057c8e817d0a80f9bd19c85",
+   "hash": "5ed3f0d6d663dedf60fb0aa2b8c2daede5b4cd3f",
    "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -47986,9 +47999,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "14c1a48a4c81772660f406fd77625a480e71ea37",
-   "hash": "14c1a48a4c81772660f406fd77625a480e71ea37",
-   "lastmod": "2026-11-11"
+   "exact": "6d0f452492b7ddb5111638510ad9d64f9e0dbad0",
+   "hash": "6d0f452492b7ddb5111638510ad9d64f9e0dbad0",
+   "lastmod": "2026-11-21"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "4c5da268658c3994ccfc9fbb03b3ea8ab6b710ee",
@@ -50551,7 +50564,7 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "16d24495dfad3b4c8c8a9866a6383f0bc824bc48",
+   "exact": "7e2bc1049007ded76aabccf9beb3615a6ea46666",
    "hash": "b6b5268b274f00857c898604540eb1991401d43e",
    "lastmod": "2026-11-21"
   },

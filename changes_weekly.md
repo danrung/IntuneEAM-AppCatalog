@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261121_064425_AppCatalog.json` (exported 2026-11-21 06:44:25)  
-> **vs:** `20261114_055609_AppCatalog.json` (exported 2026-11-14 05:56:09)  
+> **Comparing:** `20261121_190137_AppCatalog.json` (exported 2026-11-21 19:01:37)  
+> **vs:** `20261114_175434_AppCatalog.json` (exported 2026-11-14 17:54:34)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-21 06:45 UTC
+> **Generated:** 2026-11-21 19:02 UTC
 
 ## Summary
 
@@ -14,7 +14,7 @@
 | 🔄 Updated | 162 |
 | 🧩 Repackaged | 1 |
 
-> 101 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 99 further packages got a new package id with no change to the catalog entry or the deployment details.
 
 ## ✅ Added (5 packages)
 
@@ -53,6 +53,7 @@
 | ClockAssist | ClockAssist | ClockAssist | `1.1.9666.14975` | `1.1.9819.18791` | Version |
 | Cockos Incorporated | REAPER | REAPER (x64) | `7.85` | `7.86` | Version |
 | code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50922.0` | `7.04.51113.0` | Version |
+| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9810.22348` | `7.1.9820.32758` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.85.4` | `7.85.5` | Version |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.2.4` | `26.2.5` | Version |
 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.5` | `26.3` | Version |
@@ -85,7 +86,6 @@
 | JetBrains | GoLand | GoLand 2026.2 (x64) | `2026.2.4` | `2026.2.5` | Version |
 | JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.4.1` | `2026.2.5` | Version |
 | JetBrains | TeamCity | TeamCity | `2026.2.1` | `2026.2.2` | Version |
-| JetBrains | WebStorm | WebStorm 2026.2 (x64) | `2026.2.4` | `2026.2.5` | Version |
 | Karakun | OpenWebStart | OpenWebStart (x64) | `1.14.0` | `1.14.1` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.19.6` | `3.19.7` | Version |
 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.5.12` | `8.6.18` | Version |

@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261121_064425_AppCatalog.json` (exported 2026-11-21 06:44:25)  
-> **vs:** `20261022_041605_AppCatalog.json` (exported 2026-10-22 04:16:05)  
+> **Comparing:** `20261121_190137_AppCatalog.json` (exported 2026-11-21 19:01:37)  
+> **vs:** `20261022_165921_AppCatalog.json` (exported 2026-10-22 16:59:21)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-21 06:45 UTC
+> **Generated:** 2026-11-21 19:02 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 6 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 405 |
+| 🔄 Updated | 403 |
 
 ## ✅ Added (6 packages)
 
@@ -24,7 +24,7 @@
 | JetBrains | JetBrains dotUltimate 2023 | dotUltimate 2023.1 | `2023.1.7` | x86,x64 |
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (405 packages)
+## 🔄 Updated (403 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -96,7 +96,7 @@
 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.5.0` | `2026.6.0` | Version |
 | Cockos Incorporated | REAPER | REAPER (x64) | `7.82` | `7.86` | Version |
 | code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50922.0` | `7.04.51113.0` | Version |
-| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9790.38110` | `7.1.9810.22348` | Version |
+| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9790.38110` | `7.1.9820.32758` | Version |
 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `3.01` | `3.02` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.84.4` | `7.85.5` | Version |
 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.4.45528` | `9.6.0.46406` | Version |
@@ -120,7 +120,6 @@
 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `276.4.5266` | `280.4.5053` | Version |
 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `276.4.5266` | `280.4.5053` | Version |
 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `8.1.3` | `8.1.9` | Version |
-| Dương Diệu Pháp | ImageGlass | ImageGlass 8 (x64) | `8.11.12.6` | `8.12.4.30` | Version |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 11 (LTS) | Eclipse Temurin JDK with Hotspot 11 (LTS) (x64) | `11.0.32.101` | `11.0.33.10` | Version |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.20.101` | `17.0.21.102` | Version |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 21 | Eclipse Temurin JDK with Hotspot 21 (LTS) (x64) | `21.0.12.101` | `21.0.13.102` | Version |
@@ -348,7 +347,6 @@
 | NICE Software | Amazon DCV Client | Amazon DCV Client | `26.0.13455.0` | `26.0.14158.0` | Version |
 | Node.js Foundation | Node.js | Node.js 26 LTS (x64) | `26.12.1` | `26.13.1` | Version, Branch |
 | Node.js Foundation | Node.js 22 LTS | Node.js 22 LTS (x64) | `22.23.1` | `22.23.5` | Version |
-| NordVPN | NordLayer | NordLayer | `4.0.0.0` | `4.1.0.0` | Version |
 | NV Access Limited | NV Access NVDA | NVDA | `2026.2` | `2026.3.1` | Version |
 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.14.4` | `1.15.0` | Version |
 | ocenaudio | ocenaudio | ocenaudio | `3.22.1` | `3.22.2` | Version |
