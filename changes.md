@@ -1,9 +1,9 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261121_190137_AppCatalog.json` (exported 2026-11-21 19:01:37)  
-> **vs:** `20261121_064425_AppCatalog.json` (exported 2026-11-21 06:44:25)  
-> **Span:** 12 hours between exports  
-> **Generated:** 2026-11-21 19:02 UTC
+> **Comparing:** `20261122_061444_AppCatalog.json` (exported 2026-11-22 06:14:44)  
+> **vs:** `20261121_190137_AppCatalog.json` (exported 2026-11-21 19:01:37)  
+> **Span:** 11 hours between exports  
+> **Generated:** 2026-11-22 06:15 UTC
 
 ## Summary
 
@@ -11,14 +11,10 @@
 |--------|------:|
 | ✅ Added | 0 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 1 |
+| 🔄 Updated | 0 |
 | 🧩 Repackaged | 0 |
 
-> 81 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 95 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## 🔄 Updated (1 packages)
-
-| Publisher | App | Branch | Previous Version | New Version | Changed |
-|-----------|-----|--------|:---------------:|:-----------:|---------|
-| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9810.22348` | `7.1.9820.32758` | Version |
+> No changes detected between these two catalog exports.
 
