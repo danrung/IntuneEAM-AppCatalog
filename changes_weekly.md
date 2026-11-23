@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261123_070615_AppCatalog.json` (exported 2026-11-23 07:06:15)  
-> **vs:** `20261116_055825_AppCatalog.json` (exported 2026-11-16 05:58:25)  
+> **Comparing:** `20261123_234433_AppCatalog.json` (exported 2026-11-23 23:44:33)  
+> **vs:** `20261116_215502_AppCatalog.json` (exported 2026-11-16 21:55:02)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-23 07:06 UTC
+> **Generated:** 2026-11-23 23:45 UTC
 
 ## Summary
 
@@ -11,10 +11,10 @@
 |--------|------:|
 | ✅ Added | 5 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 162 |
+| 🔄 Updated | 153 |
 | 🧩 Repackaged | 1 |
 
-> 97 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 102 further packages got a new package id with no change to the catalog entry or the deployment details.
 
 ## ✅ Added (5 packages)
 
@@ -26,7 +26,7 @@
 | Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR 26 | `26.7.1.4` | x86,x64 |
 | JetBrains | JetBrains dotUltimate 2023 | dotUltimate 2023.1 | `2023.1.7` | x86,x64 |
 
-## 🔄 Updated (162 packages)
+## 🔄 Updated (153 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -51,9 +51,7 @@
 | Blender Foundation | Blender | Blender 5.2 LTS (x64) | `5.2.4` | `5.2.4` | Branch |
 | Citrix | Citrix Workspace app | Citrix Workspace app (Neutral) | `26.3.11.10` | `26.3.20.31` | Version |
 | ClockAssist | ClockAssist | ClockAssist | `1.1.9666.14975` | `1.1.9819.18791` | Version |
-| Cockos Incorporated | REAPER | REAPER (x64) | `7.85` | `7.86` | Version |
-| code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50922.0` | `7.04.51113.0` | Version |
-| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9810.22348` | `7.1.9820.32758` | Version |
+| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9810.22348` | `7.1.9822.43041` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.85.4` | `7.85.5` | Version |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.2.4` | `26.2.5` | Version |
 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.5` | `26.3` | Version |
@@ -64,7 +62,6 @@
 | dRofus | dRofus | dRofus | `2.19.13.0` | `2.19.14.0` | Version |
 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `279.4.5723` | `280.4.5053` | Version |
 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `279.4.5723` | `280.4.5053` | Version |
-| Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `8.1.6` | `8.1.9` | Version |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.21.9` | `17.0.21.102` | Version |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 21 | Eclipse Temurin JDK with Hotspot 21 (LTS) (x64) | `21.0.13.9` | `21.0.13.102` | Version |
 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 17 (LTS) | Eclipse Temurin JRE with Hotspot 17 (LTS) (x64) | `17.0.21.9` | `17.0.21.102` | Version |
@@ -80,27 +77,25 @@
 | Google | Google Drive File Stream | Google Drive File Stream | `133.0.2.0` | `134.0.1.0` | Version |
 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `157.0.8103.79` | `158.0.8127.37` | Version |
 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.11.0.0` | `6.0.0.0` | Version |
-| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.18.0` | `2.11.22.0` | Version |
+| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.19.0` | `2.11.24.0` | Version |
 | Intevation GmbH | Gpg4win | Gpg4win | `5.1.1.54555` | `5.1.2.29656` | Version |
 | JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.6.1` | `2026.2.7` | Version |
-| JetBrains | GoLand | GoLand 2026.2 (x64) | `2026.2.4` | `2026.2.5` | Version |
 | JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.4.1` | `2026.2.5` | Version |
 | JetBrains | TeamCity | TeamCity | `2026.2.1` | `2026.2.2` | Version |
-| Karakun | OpenWebStart | OpenWebStart (x64) | `1.14.0` | `1.14.1` | Version |
-| Krisp | Krisp | Krisp 3.x | `3.19.6` | `3.19.7` | Version |
-| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.5.12` | `8.6.18` | Version |
+| Kai Kramer | KeyStore Explorer | KeyStore Explorer | `5.7.0` | `5.7.1` | Version |
+| Kovid Goyal | Calibre | Calibre (x64) | `9.18.0` | `9.19.0` | Version |
+| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.5.12` | `8.7.11` | Version |
 | LucidLink | LucidLink Classic | LucidLink Classic | `2.10.9033` | `2.10.9127` | Version |
 | Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.2` | `6.4.0` | Version |
 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9 (LTS) | `9.24.44.121539` | `9.24.45.134586` | Version, Detection rules |
 | Mersive Technologies, Inc. | Mersive Solstice Client | Mersive Solstice Client (x64) | `6.3.4` | `6.3.5` | Version |
-| Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.16.0` | `4.16.1` | Version |
+| Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.16.1` | `4.17.0` | Version |
 | Microsoft | Microsoft Analysis Services OLE DB Provider | Microsoft Analysis Services OLE DB Provider (x64) | `18.0.326.0` | `18.0.368.0` | Version |
-| Microsoft | Microsoft Azure CLI | Azure CLI (x64) | `2.92.0` | `2.93.0` | Version |
 | Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.5.0.41350` | `17.0.0.41393` | Version |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `158.0.4370.16` | `159.0.4402.7` | Version |
+| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `158.0.4370.21` | `159.0.4402.13` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `159.0.4393.0` | `160.0.4408.0` | Version |
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.338.3` | `3000.342.5` | Version |
-| Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.198.1011.0006` | `26.204.1019.0009` | Version |
+| Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.204.1019.0009` | `26.212.1029.0006` | Version |
 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.6 (x64) | `7.6.6` | `7.6.10` | Version |
 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.12.0` | `22.12.1` | Version |
 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.12.12405.243` | `18.12.12412.261` | Version |
@@ -161,10 +156,10 @@
 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `160.0` | `160.0.1` | Version |
 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `160.0` | `160.0.1` | Version |
 | Mythicsoft Ltd | Agent Ransack | Agent Ransack | `9.2.3566.1` | `9.2.3568.1` | Version |
-| NetBird GmbH | NetBird | NetBird | `0.83.0` | `0.83.1` | Version |
-| NETworkManager | NETworkManager | NETworkManager | `2026.7.7.0` | `2026.11.15.0` | Version |
 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `2.0.2` | `2.1.1` | Version |
+| NGWIN | PicPick | PicPick | `7.6.2` | `7.7.0` | Version |
 | Node.js Foundation | Node.js 22 LTS | Node.js 22 LTS (x64) | `22.23.1` | `22.23.5` | Version |
+| openaudible.org | OpenAudible | OpenAudible | `5.2` | `5.3` | Version |
 | OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.901` | `2.7.902` | Version |
 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x64) | `8.0.5110.33` | `8.0.5130.04` | Version |
 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x86) | `8.0.5110.33` | `8.0.5130.04` | Version |
@@ -172,23 +167,19 @@
 | Orica Limited | SHOTPlus 6 | SHOTPlus 6 | `6.27.1.0` | `6.27.2.0` | Version |
 | PeaZip srl | PeaZip | PeaZip (x64) | `11.3.0` | `11.4.0` | Version |
 | Salesforce | Salesforce CLI sf v2 | Salesforce CLI sf v2 (x64) | `2.158.7` | `2.159.7` | Version |
-| Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.12.2` | `12.11.14.4` | Version |
-| Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.12.2` | `12.11.14.4` | Version |
 | Skymatic GmbH | Cryptomator | Cryptomator | `1.19.6.6588` | `1.19.7.6591` | Version |
 | SmartBear Software | SoapUI | SoapUI (x64) | `5.10.0` | `5.10.1` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.10` | `6.0.11` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.2.0` | `7.2.1` | Version |
-| SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.5.0` | `2.5.1` | Version |
-| TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.83.5.0` | `15.83.7.0` | Version |
-| TeamViewer GmbH | TeamViewer Host | TeamViewer Host (x64) (EXE) | `15.83.5.0` | `15.83.7.0` | Version |
+| SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.5.1` | `2.5.2` | Version |
+| The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.3.1` | `3.3.2` | Version |
 | Tidio | Tidio | Tidio | `5.9.0` | `5.11.0` | Version |
 | TortoiseGit | TortoiseGit | TortoiseGit (x64) | `2.19.1.0` | `2.19.2.0` | Version |
-| typora.io | Typora | Typora (x64) | `1.14.10` | `1.14.16` | Version |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1320` | `9.2.1373` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1342` | `9.2.1373` | Version |
+| typora.io | Typora | Typora (x64) | `1.14.10` | `1.14.17` | Version |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1345` | `9.2.1373` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1351` | `9.2.1373` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.3.444` | `2.8.5.458` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.3.444` | `2.8.5.458` | Version |
-| Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.6.0` | `26.7.0` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.19` | `4.4.20` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.9` | `4.6.10` | Version |
 | Zandar Labs SL | Aptakube | Aptakube | `1.22.3` | `1.23.0` | Version |

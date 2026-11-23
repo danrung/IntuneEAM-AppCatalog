@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261123_070615_AppCatalog.json` (exported 2026-11-23 07:06:15)  
-> **vs:** `20261024_041055_AppCatalog.json` (exported 2026-10-24 04:10:55)  
+> **Comparing:** `20261123_234433_AppCatalog.json` (exported 2026-11-23 23:44:33)  
+> **vs:** `20261024_154403_AppCatalog.json` (exported 2026-10-24 15:44:03)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-23 07:06 UTC
+> **Generated:** 2026-11-23 23:45 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 6 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 388 |
+| 🔄 Updated | 390 |
 
 ## ✅ Added (6 packages)
 
@@ -24,7 +24,7 @@
 | JetBrains | JetBrains dotUltimate 2023 | dotUltimate 2023.1 | `2023.1.7` | x86,x64 |
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (388 packages)
+## 🔄 Updated (390 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -89,7 +89,7 @@
 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.5.0` | `2026.6.0` | Version |
 | Cockos Incorporated | REAPER | REAPER (x64) | `7.82` | `7.86` | Version |
 | code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50922.0` | `7.04.51113.0` | Version |
-| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9791.36253` | `7.1.9820.32758` | Version |
+| CoolUtils | Mail Viewer | Mail Viewer | `7.1.9791.36253` | `7.1.9822.43041` | Version |
 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `3.01` | `3.02` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.84.5` | `7.85.5` | Version |
 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.4.45528` | `9.6.0.46406` | Version |
@@ -156,7 +156,7 @@
 | IDM Computer Solutions | UltraFinder | UltraFinder | `24.0.17` | `26.0.9` | Version |
 | Igor Pavlov | 7-Zip | 7-Zip (x64) (msi) | `26.05` | `26.06` | Version |
 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.11.0.0` | `6.0.0.0` | Version |
-| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.14.0` | `2.11.22.0` | Version |
+| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.14.0` | `2.11.24.0` | Version |
 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.33.58.0` | `2.34.121.0` | Version |
 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.933.1` | `6.0.936.0` | Version |
 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.5` | `26.4.0` | Version |
@@ -181,13 +181,14 @@
 | JetBrains | WebStorm | WebStorm 2026.2 (x64) | `2026.2.3` | `2026.2.5` | Version |
 | Joachim Eibl | KDiff3 | KDiff3 (x64) | `1.12.4` | `1.12.6` | Version |
 | John MacFarlane | Pandoc | Pandoc | `3.12.1` | `3.14` | Version |
+| Kai Kramer | KeyStore Explorer | KeyStore Explorer | `5.7.0` | `5.7.1` | Version |
 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.13.2` | `5.14.2` | Version |
 | Karakun | OpenWebStart | OpenWebStart (x64) | `1.14.0` | `1.14.1` | Version |
 | Keeper | Keeper | Keeper | `18.6.5.0` | `18.6.6.0` | Version |
-| Kovid Goyal | Calibre | Calibre (x64) | `9.17.0` | `9.18.0` | Version |
+| Kovid Goyal | Calibre | Calibre (x64) | `9.17.0` | `9.19.0` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.18.3` | `3.19.7` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `13.0.0.2` | `13.1.0.5` | Version |
-| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.3.14` | `8.6.18` | Version |
+| Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.3.14` | `8.7.11` | Version |
 | Logitech | Logitech Sync App | Logitech Sync App | `3.11.238` | `3.12.254` | Version |
 | LucidLink | LucidLink Classic | LucidLink Classic | `2.10.8913` | `2.10.9127` | Version |
 | Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.1` | `6.4.0` | Version |
@@ -195,7 +196,7 @@
 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9 (LTS) | `9.24.44.121539` | `9.24.45.134586` | Version |
 | Mersive Technologies, Inc. | Mersive Solstice Client | Mersive Solstice Client (x64) | `6.3.4` | `6.3.5` | Version |
 | Meta Platforms, Inc. | Meta VR Developer Hub | Meta VR Developer Hub | `6.4.1` | `6.4.1` | App Name, Branch |
-| Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.16.0` | `4.16.1` | Version |
+| Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.16.0` | `4.17.0` | Version |
 | Microsoft | Microsoft .NET SDK 8.0 | .NET SDK 8.0 (x64) | `8.4.2626.50502` | `8.4.2826.52802` | Version |
 | Microsoft | Microsoft .NET SDK 9.0 | .NET SDK 9.0 (x64) | `9.0.319` | `9.0.321` | Version |
 | Microsoft | Microsoft Analysis Services OLE DB Provider | Microsoft Analysis Services OLE DB Provider (x64) | `18.0.326.0` | `18.0.368.0` | Version |
@@ -204,10 +205,10 @@
 | Microsoft | Microsoft Azure PowerShell | Azure PowerShell (x64) | `16.4.0.41245` | `17.0.0.41393` | Version |
 | Microsoft | Microsoft Azure Storage Explorer | Azure Storage Explorer (x64) | `1.46.0` | `1.47.1` | Version |
 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `2.26.921.1` | `2.26.1102.1` | Version |
-| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `157.0.4341.10` | `159.0.4402.7` | Version |
+| Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `157.0.4341.10` | `159.0.4402.13` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `158.0.4344.0` | `160.0.4408.0` | Version |
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.334.9` | `3000.342.5` | Version |
-| Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.183.0920.0005` | `26.204.1019.0009` | Version |
+| Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.183.0920.0005` | `26.212.1029.0006` | Version |
 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.159.883.0` | `2.159.1231.0` | Version |
 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.6 (x64) | `7.6.6` | `7.6.10` | Version |
 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.102.2933.0` | `0.102.3101.0` | Version |
@@ -331,7 +332,7 @@
 | NETworkManager | NETworkManager | NETworkManager | `2026.7.7.0` | `2026.11.15.0` | Version |
 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `1.80.4` | `2.1.1` | Version |
 | Nextcloud | Nextcloud | Nextcloud (x64) | `35.0.0.20261012` | `35.0.3.20261104` | Version |
-| NGWIN | PicPick | PicPick | `7.6.1` | `7.6.2` | Version |
+| NGWIN | PicPick | PicPick | `7.6.1` | `7.7.0` | Version |
 | NICE Software | Amazon DCV Client | Amazon DCV Client | `26.0.13455.0` | `26.0.14158.0` | Version |
 | Node.js Foundation | Node.js | Node.js 26 LTS (x64) | `26.12.1` | `26.13.1` | Version, Branch |
 | Node.js Foundation | Node.js 22 LTS | Node.js 22 LTS (x64) | `22.23.1` | `22.23.5` | Version |
@@ -339,7 +340,7 @@
 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.14.4` | `1.15.0` | Version |
 | ocenaudio | ocenaudio | ocenaudio | `3.22.1` | `3.22.2` | Version |
 | Oleg Shparber | Zeal | Zeal (x64) | `0.9.1` | `0.9.2` | Version |
-| openaudible.org | OpenAudible | OpenAudible | `5.0.3` | `5.2` | Version |
+| openaudible.org | OpenAudible | OpenAudible | `5.0.3` | `5.3` | Version |
 | OpenShot Studios | OpenShot Video Editor | OpenShot Video Editor (x64) | `4.0.1` | `4.1.1` | Version |
 | OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.802` | `2.7.902` | Version |
 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x64) | `8.0.5110.32` | `8.0.5130.04` | Version |
@@ -379,7 +380,7 @@
 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3333.0` | `10.0.3334.0` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.6` | `6.0.11` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.1.0` | `7.2.1` | Version |
-| SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.4.2` | `2.5.1` | Version |
+| SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.4.2` | `2.5.2` | Version |
 | Softland | Softland doPDF | doPDF | `11.9.530` | `11.9.532` | Version |
 | Squirrels | Squirrels Reflector 4 | Reflector 4 (x64) | `4.1.3` | `4.1.4` | Version |
 | SUSE | Rancher Desktop | Rancher Desktop | `1.24.0` | `1.25.0` | Version |
@@ -391,11 +392,12 @@
 | TechSmith Corporation | Camtasia 2019 | Camtasia 2019 | `2019.0.11.17779` | `2019.0.11.17779` | App Name, Branch |
 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.8` | `8.6.0` | Version |
 | The Git Development Community | Git | Git (x64) | `2.56.0.3` | `2.56.1.1` | Version |
+| The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.3.1` | `3.3.2` | Version |
 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.58.2` | `2.16.60` | Version |
 | Tidio | Tidio | Tidio | `5.7.0` | `5.11.0` | Version |
 | TightVNC | TightVNC | TightVNC 2 (x64) | `2.8.90.0` | `2.8.90.0` | Branch |
 | TortoiseGit | TortoiseGit | TortoiseGit (x64) | `2.19.1.0` | `2.19.2.0` | Version |
-| typora.io | Typora | Typora (x64) | `1.14.10` | `1.14.16` | Version |
+| typora.io | Typora | Typora (x64) | `1.14.10` | `1.14.17` | Version |
 | Ultimaker | Ultimaker Cura | Cura (EXE) | `5.13.0` | `5.14.0` | Version |
 | Ultimaker | Ultimaker Cura | Cura (MSI) | `5.13.0` | `5.14.0` | Version |
 | UltraVNC | UltraVNC | UltraVNC (x64 MSI) | `1.8.3.0` | `1.8.3.2` | Version |

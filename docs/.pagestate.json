@@ -10251,6 +10251,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9820.32758",
+      "7.1.9822.43041",
+      1
+     ]
+    ]
    }
   ],
   "cpuid-inc-cpu-z": [
@@ -20448,6 +20461,17 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "repack_fields": [
+     "Installer size"
+    ],
+    "repackaged": 1,
+    "versions": []
    }
   ],
   "inknoe-classpoint": [
@@ -20759,6 +20783,19 @@
      [
       "2.11.21.0",
       "2.11.22.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.11.22.0",
+      "2.11.24.0",
       1
      ]
     ]
@@ -22964,6 +23001,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.7.0",
+      "5.7.1",
+      1
+     ]
+    ]
    }
   ],
   "kandra-labs-inc-zulip": [
@@ -23506,6 +23556,19 @@
      [
       "9.17.0",
       "9.18.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.18.0",
+      "9.19.0",
       1
      ]
     ]
@@ -24151,6 +24214,19 @@
      [
       "8.5.12",
       "8.6.18",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.6.18",
+      "8.7.11",
       1
      ]
     ]
@@ -25681,6 +25757,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.16.1",
+      "4.17.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-azure-powershell": [
@@ -26825,6 +26914,19 @@
      [
       "158.0.4370.26",
       "159.0.4402.7",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "159.0.4402.7",
+      "159.0.4402.13",
       1
      ]
     ]
@@ -28159,6 +28261,19 @@
      [
       "26.198.1011.0006",
       "26.204.1019.0009",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.204.1019.0009",
+      "26.212.1029.0006",
       1
      ]
     ]
@@ -33720,6 +33835,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.6.2",
+      "7.7.0",
+      1
+     ]
+    ]
    }
   ],
   "nice-software-amazon-dcv-client": [
@@ -35084,6 +35212,19 @@
      [
       "5.1.1",
       "5.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.2",
+      "5.3",
       1
      ]
     ]
@@ -40604,6 +40745,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.5.1",
+      "2.5.2",
+      1
+     ]
+    ]
    }
   ],
   "softland-dopdf": [
@@ -42518,6 +42672,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.3.1",
+      "3.3.2",
+      1
+     ]
+    ]
    }
   ],
   "thingamahoochie-software-winmerge": [
@@ -43149,6 +43316,19 @@
      [
       "1.14.10",
       "1.14.16",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-23",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.14.16",
+      "1.14.17",
       1
      ]
     ]
@@ -47110,7 +47290,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261123_070615_AppCatalog.json",
+ "history_through": "20261123_234433_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -47119,9 +47299,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "8f8ad83405bd00702c7f09606327d8a3a3233692",
-   "hash": "5ed3f0d6d663dedf60fb0aa2b8c2daede5b4cd3f",
-   "lastmod": "2026-11-21"
+   "exact": "314ba235c3a6f56efb821f7602c322e3f30df4bb",
+   "hash": "2cd73372051e91044460e87d4ffbed08f3495994",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -47999,9 +48179,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "6d0f452492b7ddb5111638510ad9d64f9e0dbad0",
-   "hash": "6d0f452492b7ddb5111638510ad9d64f9e0dbad0",
-   "lastmod": "2026-11-21"
+   "exact": "f16b5f759fa10de5ad5676b0bc3b53023c3cec15",
+   "hash": "f16b5f759fa10de5ad5676b0bc3b53023c3cec15",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "4c5da268658c3994ccfc9fbb03b3ea8ab6b710ee",
@@ -48894,14 +49074,14 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/iniciativas-informaticas-y-de-comunicacion-air-explorer.html": {
-   "exact": "1aa748d32037dd8a27b5011cdecf83b7b27f4bd6",
-   "hash": "1aa748d32037dd8a27b5011cdecf83b7b27f4bd6",
-   "lastmod": "2026-11-21"
+   "exact": "3bd22195e79409545a6c982e20127a4e92d6c0f3",
+   "hash": "3bd22195e79409545a6c982e20127a4e92d6c0f3",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
-   "exact": "ecf3a684a238d289f9df2796d78333d1b8cf96fb",
-   "hash": "ecf3a684a238d289f9df2796d78333d1b8cf96fb",
-   "lastmod": "2026-11-20"
+   "exact": "281908007a9135b3fbd64d9d868a6d7fe775c7b9",
+   "hash": "281908007a9135b3fbd64d9d868a6d7fe775c7b9",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/inkscape.html": {
    "exact": "b4352e4da9a3bd3fe0ca8e73445d1f531f6697ea",
@@ -49114,9 +49294,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/kai-kramer-keystore-explorer.html": {
-   "exact": "d64aac13d37c102f3dcaf8d311a2861e85462d3e",
-   "hash": "d64aac13d37c102f3dcaf8d311a2861e85462d3e",
-   "lastmod": "2026-11-05"
+   "exact": "af332c8e8547df27e922afca6495df217b23fc44",
+   "hash": "af332c8e8547df27e922afca6495df217b23fc44",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/kandra-labs-inc-zulip.html": {
    "exact": "223ace195ed15aed3d067624e383e87151c5e5e2",
@@ -49164,9 +49344,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/kovid-goyal-calibre.html": {
-   "exact": "e0c3062efaefd2f2625ac534b8f57ba46b3c1835",
-   "hash": "e0c3062efaefd2f2625ac534b8f57ba46b3c1835",
-   "lastmod": "2026-11-06"
+   "exact": "409b293ee5e70dba2db307496196a1fb3334c10b",
+   "hash": "409b293ee5e70dba2db307496196a1fb3334c10b",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/kpn-desktop-integratie.html": {
    "exact": "dbcdac763115ee67d2e22c895829ea6b48784dbf",
@@ -49199,9 +49379,9 @@
    "lastmod": "2026-11-09"
   },
   "https://eam.drung.dev/apps/lark-technologies-pte-ltd-lark-deployment-tool.html": {
-   "exact": "6a1958bc69bbf9c74342ae156d105220feb5a912",
-   "hash": "6a1958bc69bbf9c74342ae156d105220feb5a912",
-   "lastmod": "2026-11-20"
+   "exact": "466250022f90fcf69b52479aca566abe4b288d62",
+   "hash": "466250022f90fcf69b52479aca566abe4b288d62",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/lastpass.html": {
    "exact": "01447811238b6a3095fc5c67adac8c92a3e30f4d",
@@ -49534,9 +49714,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-azure-functions-core-tools.html": {
-   "exact": "4582cda1d3aa14566a78d81bd08a86bf977a9835",
-   "hash": "4582cda1d3aa14566a78d81bd08a86bf977a9835",
-   "lastmod": "2026-11-16"
+   "exact": "cb988b13e1c4d161ce4d958e627ff876ff2e53b5",
+   "hash": "cb988b13e1c4d161ce4d958e627ff876ff2e53b5",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/microsoft-azure-powershell.html": {
    "exact": "715994f7e38abe511145dc6ea5f553edf32d6b03",
@@ -49579,9 +49759,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-edge-beta.html": {
-   "exact": "5f4d47c52708075329c0152e861506313359431c",
-   "hash": "5f4d47c52708075329c0152e861506313359431c",
-   "lastmod": "2026-11-20"
+   "exact": "1657a2777a12ebe4ef70276bb676c62c013cd78f",
+   "hash": "1657a2777a12ebe4ef70276bb676c62c013cd78f",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
    "exact": "82fa13b1525d993d49eb002f5b2b8b7683d1c3ff",
@@ -49674,9 +49854,9 @@
    "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/microsoft-onedrive.html": {
-   "exact": "515d26f436c2dffb2d53e927ceaa11c4f911a95c",
-   "hash": "515d26f436c2dffb2d53e927ceaa11c4f911a95c",
-   "lastmod": "2026-11-16"
+   "exact": "d57ca4acc6f2b437f4a4c7a3f0ad63c535b75b6b",
+   "hash": "d57ca4acc6f2b437f4a4c7a3f0ad63c535b75b6b",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/microsoft-onenote.html": {
    "exact": "3ea3a67153cdaec4c9afaa16150f9080d74ced65",
@@ -50094,9 +50274,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/ngwin-picpick.html": {
-   "exact": "2341a99abaecdfb807474ccc6efa0260f68d9254",
-   "hash": "2341a99abaecdfb807474ccc6efa0260f68d9254",
-   "lastmod": "2026-11-05"
+   "exact": "c6a12723222c7f24b95faf25cbdfaf238e45c0e1",
+   "hash": "c6a12723222c7f24b95faf25cbdfaf238e45c0e1",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/nice-software-amazon-dcv-client.html": {
    "exact": "c334c3fd4276318e88fa7f2e6d619fb3ea71274a",
@@ -50229,9 +50409,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/openaudible-org-openaudible.html": {
-   "exact": "741b4368e354fd686a6b1a08d337acf3ded2e47f",
-   "hash": "741b4368e354fd686a6b1a08d337acf3ded2e47f",
-   "lastmod": "2026-11-05"
+   "exact": "a93d17bc651012a82fa9c945d3c65d36c690d34b",
+   "hash": "a93d17bc651012a82fa9c945d3c65d36c690d34b",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/opendns-umbrella-roaming-client.html": {
    "exact": "88b0abc6040d703e384f896a0a3b1cf7bca9acde",
@@ -50564,9 +50744,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "0510b994fef2f401a114a13a43ab7f5e9c9e9d89",
-   "hash": "b6b5268b274f00857c898604540eb1991401d43e",
-   "lastmod": "2026-11-21"
+   "exact": "58b7f3b2b8f1fee604f25a883fe5608de02d70b6",
+   "hash": "8980b1f335979ac8090c93e0eb45cb9e2b3cd64c",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -50929,9 +51109,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/softfever-orcaslicer.html": {
-   "exact": "42414a3a216cbe317e0cbd5091d35f220832f3d7",
-   "hash": "42414a3a216cbe317e0cbd5091d35f220832f3d7",
-   "lastmod": "2026-11-16"
+   "exact": "7b9e00b501cec377554c876e188832fcba9c2f61",
+   "hash": "7b9e00b501cec377554c876e188832fcba9c2f61",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/softland-dopdf.html": {
    "exact": "b1322792612dc111a238261704e2f554e9c3ae87",
@@ -51289,9 +51469,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/the-virtualgl-project-turbovnc.html": {
-   "exact": "45535a7d0d881367ebd72d60c8374729b9b11eb7",
-   "hash": "45535a7d0d881367ebd72d60c8374729b9b11eb7",
-   "lastmod": "2026-11-05"
+   "exact": "459e8a089341af99d94877f28c986ce200d7b118",
+   "hash": "459e8a089341af99d94877f28c986ce200d7b118",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/thingamahoochie-software-winmerge.html": {
    "exact": "bb5a7b276f2d8425fe34db125fc201262de870aa",
@@ -51389,9 +51569,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/typora-io-typora.html": {
-   "exact": "7a0bc6593ac38a9e95449ddc70241695b2751c19",
-   "hash": "7a0bc6593ac38a9e95449ddc70241695b2751c19",
-   "lastmod": "2026-11-21"
+   "exact": "72ed7c13c01e2286feabb9b1bd586ee7bc211104",
+   "hash": "72ed7c13c01e2286feabb9b1bd586ee7bc211104",
+   "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/ultimaker-cura.html": {
    "exact": "cc8e3f0cf2f4421ec849d9d1d26a328a96e1020e",
