@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261122_192348_AppCatalog.json` (exported 2026-11-22 19:23:48)  
-> **vs:** `20261023_165110_AppCatalog.json` (exported 2026-10-23 16:51:10)  
+> **Comparing:** `20261123_070615_AppCatalog.json` (exported 2026-11-23 07:06:15)  
+> **vs:** `20261024_041055_AppCatalog.json` (exported 2026-10-24 04:10:55)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-22 19:24 UTC
+> **Generated:** 2026-11-23 07:06 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 6 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 400 |
+| 🔄 Updated | 388 |
 
 ## ✅ Added (6 packages)
 
@@ -24,7 +24,7 @@
 | JetBrains | JetBrains dotUltimate 2023 | dotUltimate 2023.1 | `2023.1.7` | x86,x64 |
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (400 packages)
+## 🔄 Updated (388 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -44,7 +44,7 @@
 | alfaview Gmbh | alfaview | alfaview | `9.30.2` | `9.30.5` | Version |
 | Amazon | Amazon AWS VPN Client | AWS VPN Client | `6.2.1` | `6.2.2` | Version |
 | Amazon | Amazon Corretto JDK 11 | Amazon Corretto JDK 11 (x64) | `11.0.33.0.9` | `11.0.33.1.1` | Version |
-| Amazon | Amazon Corretto JDK 17 | Amazon Corretto JDK 17 | `17.0.20.12.1` | `17.0.21.1.2` | Version |
+| Amazon | Amazon Corretto JDK 17 | Amazon Corretto JDK 17 | `17.0.21.0.10` | `17.0.21.1.2` | Version |
 | Amazon | Amazon Corretto JDK 8 | Amazon Corretto JDK 8 (x64) | `8.512.08.1` | `8.514.01.1` | Version |
 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.170.0` | `1.174.0` | Version |
 | Amazon Web Services Developer Relations | Amazon AWS Command Line Interface | AWS Command Line Interface (x64) | `1.46.2` | `1.46.3` | Version |
@@ -70,17 +70,10 @@
 | Baldur Karlsson | RenderDoc | RenderDoc (x64) | `1.46` | `1.47` | Version |
 | Bambu Lab | Bambu Studio | Bambu Studio | `2.8.2.61` | `2.9.1.70` | Version |
 | Bandisoft | BandiView | BandiView | `8.03` | `8.05` | Version |
-| BellSoft Corporation | Liberica JDK | Liberica JDK 11 (Full) (x64) | `11.0.32.11` | `11.0.33.11` | Version |
-| BellSoft Corporation | Liberica JDK | Liberica JDK 11 (x64) | `11.0.32.11` | `11.0.33.11` | Version |
-| BellSoft Corporation | Liberica JDK | Liberica JDK 17 (x64) | `17.0.20.10` | `17.0.21.11` | Version |
-| BellSoft Corporation | Liberica JDK | Liberica JDK 25 (Full) (x64) | `25.0.4.9` | `25.0.5.11` | Version |
-| BellSoft Corporation | Liberica JDK | Liberica JDK 25 (x64) | `25.0.4.9` | `25.0.5.11` | Version |
-| BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.504.1` | `8.0.514.5` | Version |
-| Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.5.0` | `8.6.1` | Version |
+| BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.512.11` | `8.0.514.5` | Version |
+| Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.5.1` | `8.6.1` | Version |
 | Bizagi Limited | Moon Modeler | Moon Modeler | `13.7.0` | `13.7.5` | Version |
 | Blender Foundation | Blender | Blender 5.2 LTS (x64) | `5.2.3` | `5.2.4` | Version, Branch |
-| Box | Box Drive | Box Drive (x64) | `2.55.140` | `2.55.145` | Version |
-| Brady Corporation | Brady Workstation | Brady Workstation | `4.28.0.5` | `4.30.0.9` | Version |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.97.59` | `1.99.57` | Version |
 | Brink Software B.V. | Ibis Calculeren voor Infra | Ibis Calculeren voor Infra | `4.2.2607.13001` | `4.3.2611.10204` | Version |
 | Burnaware | BurnAware Free | BurnAware Free | `19.4` | `19.5` | Version |
@@ -143,11 +136,11 @@
 | Garmin | Garmin Express | Garmin Express | `7.29.1.0` | `7.29.1.0` | Architecture |
 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.31.1` | `11.35.0` | Version |
 | General Workings, Inc. | General Workings Streamlabs OBS | Streamlabs OBS | `1.22.0` | `1.22.5` | Version |
-| Genesys | Genesys Cloud | Genesys Cloud (x64) | `2.55.931` | `2.57.942` | Version |
+| Genesys | Genesys Cloud | Genesys Cloud (x64) | `2.56.933` | `2.57.942` | Version |
 | Genesys | Genesys Cloud Background Assistant | Genesys Cloud Background Assistant (x64) | `1.7.481` | `1.7.488` | Version |
 | Gephi | Gephi | Gephi (x64) | `0.11.3` | `0.11.4` | Version |
 | GIMP | GIMP | GIMP | `3.2.6.0` | `3.2.8.0` | Version |
-| GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.103.0` | `2.105.0` | Version |
+| GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.103.1` | `2.105.0` | Version |
 | GN Audio AS | Jabra Direct | Jabra Direct | `8.3.26701` | `8.4.30601` | Version |
 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.4.0` | `14.14.2.0` | Version |
 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `154.0.8037.40` | `157.0.8103.41` | Version |
@@ -157,7 +150,6 @@
 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.20.3` | `4.21.0` | Version |
 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.20.3` | `4.21.0` | Version |
 | GSL Biotech LLC | SnapGene Viewer | SnapGene Viewer | `8.2.3` | `9.0.0` | Version |
-| HP | HP Client Management Script Library | HP Client Management Script Library | `1.8.6` | `1.9.0` | Version |
 | IBM | IBM Aspera Connect | Aspera Connect | `4.2.19.956` | `4.2.20.976` | Version |
 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `14.7.0` | `15.0.0` | Version |
 | IDM Computer Solutions | UEStudio | UEStudio | `26.0.23` | `26.1.27` | Version |
@@ -192,7 +184,7 @@
 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.13.2` | `5.14.2` | Version |
 | Karakun | OpenWebStart | OpenWebStart (x64) | `1.14.0` | `1.14.1` | Version |
 | Keeper | Keeper | Keeper | `18.6.5.0` | `18.6.6.0` | Version |
-| Kovid Goyal | Calibre | Calibre (x64) | `9.16.0` | `9.18.0` | Version |
+| Kovid Goyal | Calibre | Calibre (x64) | `9.17.0` | `9.18.0` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.18.3` | `3.19.7` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `13.0.0.2` | `13.1.0.5` | Version |
 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.3.14` | `8.6.18` | Version |
@@ -200,7 +192,6 @@
 | LucidLink | LucidLink Classic | LucidLink Classic | `2.10.8913` | `2.10.9127` | Version |
 | Mattermost Inc. | Mattermost Desktop | Mattermost Desktop (x64) | `6.3.1` | `6.4.0` | Version |
 | Maxima Software (Pty) Ltd | Maxcut | Maxcut | `2.9.6.7` | `2.9.6.8` | Version |
-| Maxon Computer GmbH | ZBrush | ZBrush (x64) | `2026.2.1` | `2027.0.1` | Version |
 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9 (LTS) | `9.24.44.121539` | `9.24.45.134586` | Version |
 | Mersive Technologies, Inc. | Mersive Solstice Client | Mersive Solstice Client (x64) | `6.3.4` | `6.3.5` | Version |
 | Meta Platforms, Inc. | Meta VR Developer Hub | Meta VR Developer Hub | `6.4.1` | `6.4.1` | App Name, Branch |
@@ -218,8 +209,6 @@
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.334.9` | `3000.342.5` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.183.0920.0005` | `26.204.1019.0009` | Version |
 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.159.883.0` | `2.159.1231.0` | Version |
-| Microsoft | Microsoft PowerShell Core | PowerShell Core 7.4 (x64) | `7.4.13` | `7.4.21` | Version |
-| Microsoft | Microsoft PowerShell Core | PowerShell Core 7.5 (x64) | `7.5.11` | `7.5.12` | Version |
 | Microsoft | Microsoft PowerShell Core | PowerShell Core 7.6 (x64) | `7.6.6` | `7.6.10` | Version |
 | Microsoft | Microsoft PowerToys | PowerToys (User) (x64) | `0.102.2933.0` | `0.102.3101.0` | Version |
 | Microsoft | Microsoft PowerToys | PowerToys (x64) | `0.102.2933.0` | `0.102.3101.0` | Version |
@@ -229,7 +218,7 @@
 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (Current) | `17.14.37806.7` | `17.14.37906.3` | Version |
 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37806.7` | `17.14.37906.3` | Version |
 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.11.12315.225` | `18.12.12412.261` | Version |
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.143.0` | `1.147.0` | Version |
+| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.143.1` | `1.147.0` | Version |
 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37806.7` | `17.14.37906.3` | Version |
 | Microsoft | OpenJDK | OpenJDK 21 (x64) | `21.0.12.1` | `21.0.13.1` | Version |
 | Microsoft | OpenJDK | OpenJDK 25 (x64) | `25.0.4.1` | `25.0.5.1` | Version |
@@ -422,7 +411,6 @@
 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.6.0` | `26.7.0` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.19` | `4.4.20` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.9` | `4.6.10` | Version |
-| Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (MSI) | `4.7.3` | `4.7.4` | Version |
 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.12.2.0` | `1.12.3.0` | Version |
 | Zandar Labs SL | Aptakube | Aptakube | `1.21.6` | `1.23.0` | Version |
 | Zoom Video Communications, Inc. | Zoom Rooms | Zoom Rooms (x64) | `7.2.0` | `7.2.5` | Version |
