@@ -4645,6 +4645,21 @@
     ]
    }
   ],
+  "atomi-systems-inc-atomi-systems-activepresenter": [
+   {
+    "added": 0,
+    "date": "2026-11-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.4.0",
+      "9.4.2",
+      1
+     ]
+    ]
+   }
+  ],
   "atomi-systems-inc-saola-animate": [
    {
     "added": 0,
@@ -6202,6 +6217,19 @@
      [
       "8.4.0.844",
       "8.4.0.846",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.4.0.846",
+      "8.4.0.849",
       1
      ]
     ]
@@ -11153,6 +11181,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.85.5",
+      "7.86.0",
+      1
+     ]
+    ]
    }
   ],
   "david-kocher-cyberduck": [
@@ -11615,6 +11656,19 @@
      [
       "26.2.0",
       "26.2.0.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.0.1",
+      "26.2.0.2",
       1
      ]
     ]
@@ -15694,6 +15748,24 @@
      [
       "8.19.24",
       "8.19.25",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.19.25",
+      "8.19.26",
+      1
+     ],
+     [
+      "9.5.6",
+      "9.5.7",
       1
      ]
     ]
@@ -23398,6 +23470,19 @@
      [
       "5.8.3",
       "5.12.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.12.0",
+      "5.12.1",
       1
      ]
     ]
@@ -44776,6 +44861,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1373",
+      "9.2.1393",
+      1
+     ]
+    ]
    }
   ],
   "visual-paradigm-international-ltd-visual-paradigm-project-viewer": [
@@ -45540,6 +45638,19 @@
      [
       "26.6.0",
       "26.7.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-24",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.7.0",
+      "26.6.0",
       1
      ]
     ]
@@ -47290,7 +47401,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261123_234433_AppCatalog.json",
+ "history_through": "20261124_093132_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -47299,9 +47410,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "314ba235c3a6f56efb821f7602c322e3f30df4bb",
-   "hash": "2cd73372051e91044460e87d4ffbed08f3495994",
-   "lastmod": "2026-11-23"
+   "exact": "e7058388d80acd48c0927ee267bec184783fd8e5",
+   "hash": "fb9d1d6e2375c008dabe15a73141560684b7599a",
+   "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -47609,9 +47720,9 @@
    "lastmod": "2026-11-10"
   },
   "https://eam.drung.dev/apps/atomi-systems-inc-atomi-systems-activepresenter.html": {
-   "exact": "feb4da5806025646843ad2507d060d0c4876df4f",
-   "hash": "feb4da5806025646843ad2507d060d0c4876df4f",
-   "lastmod": "2026-11-05"
+   "exact": "d18cdc10ba8e48318bc03687f1e8fae2e1ba309b",
+   "hash": "d18cdc10ba8e48318bc03687f1e8fae2e1ba309b",
+   "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/atomi-systems-inc-saola-animate.html": {
    "exact": "1b035763107ab725e44c48ac2a34520f6d4b23be",
@@ -47834,9 +47945,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/benthic-software-golden-8.html": {
-   "exact": "299f82316a3cb52935c675e64e647f46fb825706",
-   "hash": "299f82316a3cb52935c675e64e647f46fb825706",
-   "lastmod": "2026-11-05"
+   "exact": "82992d1074a85c8b2ffcf109f21ed8beafdd1325",
+   "hash": "82992d1074a85c8b2ffcf109f21ed8beafdd1325",
+   "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/benthic-software-impexppro.html": {
    "exact": "9128241a76868979e7bfba58d0dab95cca800472",
@@ -48239,9 +48350,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/datadog-agent.html": {
-   "exact": "e96b6fb5eb6ae339edcc8a96381a7a91de77c2c2",
-   "hash": "e96b6fb5eb6ae339edcc8a96381a7a91de77c2c2",
-   "lastmod": "2026-11-20"
+   "exact": "975e0c3bba983b005366a68f8b126410aed3500e",
+   "hash": "975e0c3bba983b005366a68f8b126410aed3500e",
+   "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/david-kocher-cyberduck.html": {
    "exact": "8d4f748a73631da20996a496b978a3bf27af373a",
@@ -48269,9 +48380,9 @@
    "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-lite.html": {
-   "exact": "968bc3d56ace4383d8c3b409d6238e3fd23e0e47",
-   "hash": "968bc3d56ace4383d8c3b409d6238e3fd23e0e47",
-   "lastmod": "2026-11-06"
+   "exact": "33dd023bf3dd21935506858e283b1412422cc894",
+   "hash": "33dd023bf3dd21935506858e283b1412422cc894",
+   "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-ultimate.html": {
    "exact": "7bbd86c2af953e4ad9bac05abccf7edd02914c12",
@@ -48579,9 +48690,9 @@
    "lastmod": "2026-11-14"
   },
   "https://eam.drung.dev/apps/elasticsearch-b-v-beats-winlogbeat.html": {
-   "exact": "d01129d5c70cd75bfdbe43611c1c70386a99eb4c",
-   "hash": "d01129d5c70cd75bfdbe43611c1c70386a99eb4c",
-   "lastmod": "2026-11-11"
+   "exact": "7be16c3c1e33aa9ed5ecbed4217943156f0852f6",
+   "hash": "7be16c3c1e33aa9ed5ecbed4217943156f0852f6",
+   "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/elgato-stream-deck.html": {
    "exact": "4a78993f4023840b95694e76450db3222ac8102f",
@@ -49334,9 +49445,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/knime-ag-knime-analytics-platform.html": {
-   "exact": "9bb77efbfd165e6dc42f561f07c50691b53799b4",
-   "hash": "9bb77efbfd165e6dc42f561f07c50691b53799b4",
-   "lastmod": "2026-11-05"
+   "exact": "ec90879786f0aa21f2d20069dad4901a1c8def00",
+   "hash": "ec90879786f0aa21f2d20069dad4901a1c8def00",
+   "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/kodu-game-lab.html": {
    "exact": "9da79d1d7725697d7f8a8b65b382766ae99b69c9",
@@ -50744,9 +50855,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "58b7f3b2b8f1fee604f25a883fe5608de02d70b6",
-   "hash": "8980b1f335979ac8090c93e0eb45cb9e2b3cd64c",
-   "lastmod": "2026-11-23"
+   "exact": "f28472c4761959cc8273e91c7fa5a66e73fd42b7",
+   "hash": "9acd8401dc61dbbabd8fb597682f6b050d9e94b7",
+   "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -51634,9 +51745,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "7bb804cca74e4f8fcb63626354ac15fed92cc754",
-   "hash": "7bb804cca74e4f8fcb63626354ac15fed92cc754",
-   "lastmod": "2026-11-20"
+   "exact": "497388b5ec2fe30900c45885db97600001003779",
+   "hash": "497388b5ec2fe30900c45885db97600001003779",
+   "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "50c0289d12bb79a4f5b26cd2ffe2b5ef3f8369ea",
@@ -51774,9 +51885,9 @@
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/wind-information-co-ltd-wind-financial-terminal.html": {
-   "exact": "8b89c0eb2b9dfb5ede6fd0e506cc9f3adfc4701d",
-   "hash": "8b89c0eb2b9dfb5ede6fd0e506cc9f3adfc4701d",
-   "lastmod": "2026-11-16"
+   "exact": "fac983b77fc7fc31a48f4c27667e90ada90f8929",
+   "hash": "fac983b77fc7fc31a48f4c27667e90ada90f8929",
+   "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/windirstat-team-windirstat.html": {
    "exact": "1dca1dfee01cf1f7dfca01eaf921ce6b04778bc3",

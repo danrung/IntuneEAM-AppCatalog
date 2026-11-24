@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261123_234433_AppCatalog.json` (exported 2026-11-23 23:44:33)  
-> **vs:** `20261024_154403_AppCatalog.json` (exported 2026-10-24 15:44:03)  
+> **Comparing:** `20261124_093132_AppCatalog.json` (exported 2026-11-24 09:31:32)  
+> **vs:** `20261025_041332_AppCatalog.json` (exported 2026-10-25 04:13:32)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-23 23:45 UTC
+> **Generated:** 2026-11-24 09:32 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 6 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 390 |
+| 🔄 Updated | 392 |
 
 ## ✅ Added (6 packages)
 
@@ -24,7 +24,7 @@
 | JetBrains | JetBrains dotUltimate 2023 | dotUltimate 2023.1 | `2023.1.7` | x86,x64 |
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 
-## 🔄 Updated (390 packages)
+## 🔄 Updated (392 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -58,6 +58,7 @@
 | Atlassian Inc | Atlassian Companion | Atlassian Companion | `3.2.0` | `3.4.0` | Version |
 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.2 | `10.2.19` | `10.2.20` | Version |
 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 9.2 (LTS) | `9.2.26` | `9.2.28` | Version |
+| Atomi Systems, Inc. | Atomi Systems ActivePresenter | ActivePresenter | `9.4.0` | `9.4.2` | Version |
 | Atomi Systems, Inc. | Saola Animate | Saola Animate | `3.1.4` | `4.0.0` | Version |
 | Audacity | Audacity | Audacity (x64) | `4.0.1` | `4.0.2` | Version |
 | Autodesk Inc. | Autodesk Access | Autodesk Access | `2.24.0.564` | `2.26.0.515` | Version |
@@ -72,6 +73,7 @@
 | Bandisoft | BandiView | BandiView | `8.03` | `8.05` | Version |
 | BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.512.11` | `8.0.514.5` | Version |
 | Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.5.1` | `8.6.1` | Version |
+| Benthic Software | Golden 8 | Golden 8 (x64) | `8.4.0.846` | `8.4.0.849` | Version |
 | Bizagi Limited | Moon Modeler | Moon Modeler | `13.7.0` | `13.7.5` | Version |
 | Blender Foundation | Blender | Blender 5.2 LTS (x64) | `5.2.3` | `5.2.4` | Version, Branch |
 | Brave Software Inc. | Brave Browser | Brave Browser (Device) (x64) | `1.97.59` | `1.99.57` | Version |
@@ -91,12 +93,12 @@
 | code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50922.0` | `7.04.51113.0` | Version |
 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9791.36253` | `7.1.9822.43041` | Version |
 | CPUID, Inc | CPU-Z | CPU-Z (x64) | `3.01` | `3.02` | Version |
-| Datadog | Datadog Agent | Datadog Agent | `7.84.5` | `7.85.5` | Version |
+| Datadog | Datadog Agent | Datadog Agent | `7.84.5` | `7.86.0` | Version |
 | David Kocher | David Kocher Cyberduck | Cyberduck | `9.5.4.45528` | `9.6.0.46406` | Version |
 | DAX Studio | DAX Studio | DAX Studio | `3.6.1.1250` | `3.6.2.1263` | Version |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.2.3` | `26.2.5` | Version |
 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.2.0` | `26.2.0.1` | Version |
-| DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.2.0` | `26.2.0.1` | Version |
+| DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.2.0` | `26.2.0.2` | Version |
 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.2.0` | `26.2.0.1` | Version |
 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.4` | `26.3` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.3.15.0` | `2027.1.1.0` | Version |
@@ -123,8 +125,8 @@
 | Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.7.2.208` | `4.9.0.213` | Version |
 | ej-technologies GmbH | Install4j | Install4j (x64) | `13.1.1` | `13.1.3` | Version |
 | ej-technologies GmbH | JProfiler | JProfiler | `16.2.1` | `16.3.1` | Version |
-| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 8 | `8.19.23` | `8.19.25` | Version |
-| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 9 | `9.5.5` | `9.5.6` | Version |
+| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 8 | `8.19.23` | `8.19.26` | Version |
+| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 9 | `9.5.5` | `9.5.7` | Version |
 | Elgato | Elgato Stream Deck | Elgato Stream Deck | `7.6.0.23012` | `7.6.1.23033` | Version |
 | Enpass Technologies Inc. | Enpass | Enpass (x64) | `6.12.5.2659` | `6.12.8.2751` | Version |
 | EnterpriseDB Corporation | pgAdmin 4 | pgAdmin 4 | `9.18` | `9.19` | Version |
@@ -185,6 +187,7 @@
 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.13.2` | `5.14.2` | Version |
 | Karakun | OpenWebStart | OpenWebStart (x64) | `1.14.0` | `1.14.1` | Version |
 | Keeper | Keeper | Keeper | `18.6.5.0` | `18.6.6.0` | Version |
+| KNIME AG | KNIME Analytics Platform | KNIME Analytics Platform | `5.12.0` | `5.12.1` | Version |
 | Kovid Goyal | Calibre | Calibre (x64) | `9.17.0` | `9.19.0` | Version |
 | Krisp | Krisp | Krisp 3.x | `3.18.3` | `3.19.7` | Version |
 | Lansweeper | Lansweeper | Lansweeper | `13.0.0.2` | `13.1.0.5` | Version |
@@ -404,13 +407,12 @@
 | UltraVNC | UltraVNC | UltraVNC (x64) | `1.8.3.0` | `1.8.3.2` | Version |
 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | `1.26.31` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1217` | `9.2.1373` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1225` | `9.2.1373` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1225` | `9.2.1393` | Version |
 | VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.140.06880` | `1.143.17232` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.6` | `6.7.8` | Version |
 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.9` | `4.14.10` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.7.3.381` | `2.8.5.458` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.7.3.381` | `2.8.5.458` | Version |
-| Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.6.0` | `26.7.0` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.19` | `4.4.20` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.9` | `4.6.10` | Version |
 | XnSoft | XnSoft XnView MP | XnView MP (x64) | `1.12.2.0` | `1.12.3.0` | Version |

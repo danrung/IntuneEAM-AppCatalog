@@ -1,9 +1,9 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261123_234433_AppCatalog.json` (exported 2026-11-23 23:44:33)  
-> **vs:** `20261116_215502_AppCatalog.json` (exported 2026-11-16 21:55:02)  
+> **Comparing:** `20261124_093132_AppCatalog.json` (exported 2026-11-24 09:31:32)  
+> **vs:** `20261117_073436_AppCatalog.json` (exported 2026-11-17 07:34:36)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-23 23:45 UTC
+> **Generated:** 2026-11-24 09:32 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 5 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 153 |
+| 🔄 Updated | 158 |
 | 🧩 Repackaged | 1 |
 
 > 102 further packages got a new package id with no change to the catalog entry or the deployment details.
@@ -26,7 +26,7 @@
 | Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR 26 | `26.7.1.4` | x86,x64 |
 | JetBrains | JetBrains dotUltimate 2023 | dotUltimate 2023.1 | `2023.1.7` | x86,x64 |
 
-## 🔄 Updated (153 packages)
+## 🔄 Updated (158 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
@@ -39,6 +39,7 @@
 | Amazon Web Services, Inc | Amazon WorkSpaces | Amazon WorkSpaces | `5.36.0.3628` | `5.37.0.3866` | Version |
 | Apple Inc. | Apple iTunes | iTunes (x64) | `12.13.11.1` | `12.13.12.3` | Version |
 | Atlassian Inc | Atlassian Companion | Atlassian Companion | `3.3.0` | `3.4.0` | Version |
+| Atomi Systems, Inc. | Atomi Systems ActivePresenter | ActivePresenter | `9.4.0` | `9.4.2` | Version |
 | Atomi Systems, Inc. | Saola Animate | Saola Animate | `3.1.4` | `4.0.0` | Version |
 | Azul Systems, Inc. | Zulu JDK 11 (LTS) | Zulu JDK 11 (LTS) (x64) | `11.92.113` | `11.92.201` | Version |
 | Azul Systems, Inc. | Zulu JDK 17 (LTS) | Zulu JDK 17 (LTS) (x64) | `17.70.113` | `17.70.201` | Version |
@@ -48,12 +49,14 @@
 | Azul Systems, Inc. | Zulu JRE 8 (LTS) | Zulu JRE 8 (LTS) (x64) | `8.98.0.107` | `8.98.0.201` | Version |
 | BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.513.9` | `8.0.514.5` | Version |
 | Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.6.0` | `8.6.1` | Version |
+| Benthic Software | Golden 8 | Golden 8 (x64) | `8.4.0.846` | `8.4.0.849` | Version |
 | Blender Foundation | Blender | Blender 5.2 LTS (x64) | `5.2.4` | `5.2.4` | Branch |
 | Citrix | Citrix Workspace app | Citrix Workspace app (Neutral) | `26.3.11.10` | `26.3.20.31` | Version |
 | ClockAssist | ClockAssist | ClockAssist | `1.1.9666.14975` | `1.1.9819.18791` | Version |
 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9810.22348` | `7.1.9822.43041` | Version |
-| Datadog | Datadog Agent | Datadog Agent | `7.85.4` | `7.85.5` | Version |
+| Datadog | Datadog Agent | Datadog Agent | `7.85.4` | `7.86.0` | Version |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.2.4` | `26.2.5` | Version |
+| DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.2.0.1` | `26.2.0.2` | Version |
 | DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.5` | `26.3` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.3.18.0` | `2027.1.1.0` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.18.0` | `2027.1.1.0` | Version |
@@ -66,6 +69,8 @@
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 21 | Eclipse Temurin JDK with Hotspot 21 (LTS) (x64) | `21.0.13.9` | `21.0.13.102` | Version |
 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 17 (LTS) | Eclipse Temurin JRE with Hotspot 17 (LTS) (x64) | `17.0.21.9` | `17.0.21.102` | Version |
 | Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.8.2.212` | `4.9.0.213` | Version |
+| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 8 | `8.19.25` | `8.19.26` | Version |
+| Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 9 | `9.5.6` | `9.5.7` | Version |
 | Evernote | Evernote | Evernote | `11.42.3` | `11.43.4` | Version |
 | FactSet Research Systems Inc. | FactSet Workstation | FactSet Workstation | `2016.74.081.023` | `2016.75.060.014` | Version |
 | FrontApp, Inc. | Front Desktop | Front Desktop (Machine) (EXE) | `3.80.1` | `3.81.2` | Version |
@@ -81,8 +86,8 @@
 | Intevation GmbH | Gpg4win | Gpg4win | `5.1.1.54555` | `5.1.2.29656` | Version |
 | JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.6.1` | `2026.2.7` | Version |
 | JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.4.1` | `2026.2.5` | Version |
-| JetBrains | TeamCity | TeamCity | `2026.2.1` | `2026.2.2` | Version |
 | Kai Kramer | KeyStore Explorer | KeyStore Explorer | `5.7.0` | `5.7.1` | Version |
+| KNIME AG | KNIME Analytics Platform | KNIME Analytics Platform | `5.12.0` | `5.12.1` | Version |
 | Kovid Goyal | Calibre | Calibre (x64) | `9.18.0` | `9.19.0` | Version |
 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.5.12` | `8.7.11` | Version |
 | LucidLink | LucidLink Classic | LucidLink Classic | `2.10.9033` | `2.10.9127` | Version |
@@ -96,7 +101,7 @@
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `159.0.4393.0` | `160.0.4408.0` | Version |
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.338.3` | `3000.342.5` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.204.1019.0009` | `26.212.1029.0006` | Version |
-| Microsoft | Microsoft PowerShell Core | PowerShell Core 7.6 (x64) | `7.6.6` | `7.6.10` | Version |
+| Microsoft | Microsoft PowerShell Core | PowerShell Core 7.6 (x64) | `7.6.9` | `7.6.10` | Version |
 | Microsoft | Microsoft SQL Server Management Studio 22 | SQL Server Management Studio 22 | `22.12.0` | `22.12.1` | Version |
 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.12.12405.243` | `18.12.12412.261` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.146.0` | `1.147.0` | Version |
@@ -158,7 +163,6 @@
 | Mythicsoft Ltd | Agent Ransack | Agent Ransack | `9.2.3566.1` | `9.2.3568.1` | Version |
 | New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `2.0.2` | `2.1.1` | Version |
 | NGWIN | PicPick | PicPick | `7.6.2` | `7.7.0` | Version |
-| Node.js Foundation | Node.js 22 LTS | Node.js 22 LTS (x64) | `22.23.1` | `22.23.5` | Version |
 | openaudible.org | OpenAudible | OpenAudible | `5.2` | `5.3` | Version |
 | OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.901` | `2.7.902` | Version |
 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x64) | `8.0.5110.33` | `8.0.5130.04` | Version |
@@ -177,9 +181,10 @@
 | TortoiseGit | TortoiseGit | TortoiseGit (x64) | `2.19.1.0` | `2.19.2.0` | Version |
 | typora.io | Typora | Typora (x64) | `1.14.10` | `1.14.17` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1345` | `9.2.1373` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1351` | `9.2.1373` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1351` | `9.2.1393` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.3.444` | `2.8.5.458` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.3.444` | `2.8.5.458` | Version |
+| Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.7.0` | `26.6.0` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.19` | `4.4.20` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.9` | `4.6.10` | Version |
 | Zandar Labs SL | Aptakube | Aptakube | `1.22.3` | `1.23.0` | Version |
