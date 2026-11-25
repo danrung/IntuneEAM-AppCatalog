@@ -2156,6 +2156,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.174.0",
+      "1.174.1",
+      1
+     ]
+    ]
    }
   ],
   "amazon-aws-vpn-client": [
@@ -4640,6 +4653,19 @@
      [
       "9.2.27",
       "9.2.28",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.28",
+      "9.2.30",
       1
      ]
     ]
@@ -10336,6 +10362,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.1.9822.43041",
+      "7.1.9825.30388",
+      1
+     ]
+    ]
    }
   ],
   "cpuid-inc-cpu-z": [
@@ -11595,6 +11634,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.5",
+      "26.2.5.2",
+      1
+     ]
+    ]
    }
   ],
   "dbeaver-corp-dbeaver-enterprise": [
@@ -11646,6 +11698,19 @@
      [
       "26.2.0",
       "26.2.0.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.0.1",
+      "26.2.0.3",
       1
      ]
     ]
@@ -11716,6 +11781,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.0.2",
+      "26.2.0.3",
+      1
+     ]
+    ]
    }
   ],
   "dbeaver-corp-dbeaver-ultimate": [
@@ -11767,6 +11845,19 @@
      [
       "26.2.0",
       "26.2.0.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.2.0.1",
+      "26.2.0.3",
       1
      ]
     ]
@@ -23095,6 +23186,34 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2025.2.6.3",
+      "2025.2.6.4",
+      1
+     ],
+     [
+      "2025.3.6.2",
+      "2025.3.6.3",
+      1
+     ],
+     [
+      "2026.1.5.1",
+      "2026.1.5.2",
+      1
+     ],
+     [
+      "2026.2.5",
+      "2026.2.5.1",
+      1
+     ]
+    ]
    }
   ],
   "joachim-eibl-kdiff3": [
@@ -27984,6 +28103,19 @@
       11
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "17.11.1.1",
+      "17.12.1.1",
+      11
+     ]
+    ]
    }
   ],
   "microsoft-odbc-driver-18-for-sql-server": [
@@ -32731,6 +32863,19 @@
       47
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "160.0.1",
+      "161.0",
+      47
+     ]
+    ]
    }
   ],
   "mozilla-firefox-esr-115": [
@@ -32971,6 +33116,24 @@
       "115.44.0",
       "115.45.0",
       6
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "115.45.0",
+      "115.46.0",
+      6
+     ],
+     [
+      "115.44.0",
+      "115.46.0",
+      40
      ]
     ]
    }
@@ -33215,6 +33378,19 @@
      [
       "9.2.3566.1",
       "9.2.3568.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.3568.1",
+      "9.2.3569.1",
       1
      ]
     ]
@@ -36387,6 +36563,19 @@
      [
       "26.0.6.76873",
       "26.0.7.77023",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.0.7.77023",
+      "26.0.7.77045",
       1
      ]
     ]
@@ -41254,6 +41443,19 @@
      [
       "11.9.530",
       "11.9.532",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.9.532",
+      "11.9.534",
       1
      ]
     ]
@@ -47787,7 +47989,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261125_080219_AppCatalog.json",
+ "history_through": "20261125_213203_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -47796,8 +47998,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "86f1c4608aba8117959fd0bf8990c0cdd2b8e2a0",
-   "hash": "6534c079a3ffd729e9a6e07de9d72597c7db59a2",
+   "exact": "e3717f5429fb2b50f2458f1f28b95326dfc27c04",
+   "hash": "b5a4b3e961d4aaba344ced3a2507a52ae63294ea",
    "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -47911,9 +48113,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/amazon-aws-sam-command-line-interface.html": {
-   "exact": "49e88ada68c9b1fcb571dd99ccc5b1b556c1260b",
-   "hash": "49e88ada68c9b1fcb571dd99ccc5b1b556c1260b",
-   "lastmod": "2026-11-20"
+   "exact": "1da7120b3cecab40513cf5b3e7e8e4f0adc1acd5",
+   "hash": "1da7120b3cecab40513cf5b3e7e8e4f0adc1acd5",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
    "exact": "e1880ad04414007718b64fc1fc091993a0e8b0f7",
@@ -48101,9 +48303,9 @@
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/atlassian-inc-atlassian-confluence.html": {
-   "exact": "976036d9f8cccf53282c486dc363ccf2f38fcc8a",
-   "hash": "976036d9f8cccf53282c486dc363ccf2f38fcc8a",
-   "lastmod": "2026-11-10"
+   "exact": "56aadef8fe678eecb151b309dcc36bb50f88358b",
+   "hash": "56aadef8fe678eecb151b309dcc36bb50f88358b",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/atomi-systems-inc-atomi-systems-activepresenter.html": {
    "exact": "d18cdc10ba8e48318bc03687f1e8fae2e1ba309b",
@@ -48676,9 +48878,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/coolutils-mail-viewer.html": {
-   "exact": "f16b5f759fa10de5ad5676b0bc3b53023c3cec15",
-   "hash": "f16b5f759fa10de5ad5676b0bc3b53023c3cec15",
-   "lastmod": "2026-11-23"
+   "exact": "449cd528cd3f0d00c28d02bc2c291932e9a5b921",
+   "hash": "449cd528cd3f0d00c28d02bc2c291932e9a5b921",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/counterpath-corporation-bria-enterprise.html": {
    "exact": "4c5da268658c3994ccfc9fbb03b3ea8ab6b710ee",
@@ -48756,24 +48958,24 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-community.html": {
-   "exact": "661967f901258fda887f0b0edf0bd8b04c5f99ad",
-   "hash": "661967f901258fda887f0b0edf0bd8b04c5f99ad",
-   "lastmod": "2026-11-17"
+   "exact": "3ba789c3eb6dbab8531d44f6c663e156e5158744",
+   "hash": "3ba789c3eb6dbab8531d44f6c663e156e5158744",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-enterprise.html": {
-   "exact": "e23f0d52ace3e65a05a4b7d9f8ab1ca51bf518c7",
-   "hash": "e23f0d52ace3e65a05a4b7d9f8ab1ca51bf518c7",
-   "lastmod": "2026-11-06"
+   "exact": "32a0314c7d8ef0b571b53dfaa48f41fb61e5bb51",
+   "hash": "32a0314c7d8ef0b571b53dfaa48f41fb61e5bb51",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-lite.html": {
-   "exact": "33dd023bf3dd21935506858e283b1412422cc894",
-   "hash": "33dd023bf3dd21935506858e283b1412422cc894",
-   "lastmod": "2026-11-24"
+   "exact": "80500e0f277beb64cdd25ceb7b0f81488b04b768",
+   "hash": "80500e0f277beb64cdd25ceb7b0f81488b04b768",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/dbeaver-corp-dbeaver-ultimate.html": {
-   "exact": "7bbd86c2af953e4ad9bac05abccf7edd02914c12",
-   "hash": "7bbd86c2af953e4ad9bac05abccf7edd02914c12",
-   "lastmod": "2026-11-06"
+   "exact": "1a455c258a5797386ca11bcb3a37f2b34939e629",
+   "hash": "1a455c258a5797386ca11bcb3a37f2b34939e629",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/dbvis-software-ab-dbvisualizer.html": {
    "exact": "70ff9e4b8edef3cf8f87b91fb5887b4815250022",
@@ -49766,9 +49968,9 @@
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-webstorm.html": {
-   "exact": "24c67d898f0e9747bd9c8580cb8083378c725949",
-   "hash": "24c67d898f0e9747bd9c8580cb8083378c725949",
-   "lastmod": "2026-11-20"
+   "exact": "a39c5656a7ab429ea9dd7ceabb5f26625208fdb0",
+   "hash": "a39c5656a7ab429ea9dd7ceabb5f26625208fdb0",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/joachim-eibl-kdiff3.html": {
    "exact": "26e15a3a922eb35eb20ab8285f5366b420cf16bd",
@@ -50331,9 +50533,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/microsoft-odbc-driver-17-for-sql-server.html": {
-   "exact": "d064c64abd47e05af601c5aa9d03dc72d19ddf06",
-   "hash": "d064c64abd47e05af601c5aa9d03dc72d19ddf06",
-   "lastmod": "2026-11-05"
+   "exact": "54db8dd9d907b62a23fd86ca2e6f8a0fc839235a",
+   "hash": "54db8dd9d907b62a23fd86ca2e6f8a0fc839235a",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/microsoft-odbc-driver-18-for-sql-server.html": {
    "exact": "b7d36ac6b52fd009abb5a221fce4b66ac9165240",
@@ -50656,14 +50858,14 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/mozilla-firefox-esr-115.html": {
-   "exact": "f1ff50cf579c9c88ece0dcf397652140bb52a213",
-   "hash": "f1ff50cf579c9c88ece0dcf397652140bb52a213",
-   "lastmod": "2026-11-11"
+   "exact": "4bd3daeb1238705bdc101598f2aa17f49294da99",
+   "hash": "4bd3daeb1238705bdc101598f2aa17f49294da99",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/mozilla-firefox.html": {
-   "exact": "0fe3ac3885c38c89bbccc1d4a7ddff1af1fc0009",
-   "hash": "0fe3ac3885c38c89bbccc1d4a7ddff1af1fc0009",
-   "lastmod": "2026-11-18"
+   "exact": "5c6e5bf2dd86a5ba13208fd9506bd199274d7a84",
+   "hash": "5c6e5bf2dd86a5ba13208fd9506bd199274d7a84",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/mozilla-frontmotion-firefox-community-edition-esr.html": {
    "exact": "4012f079a1656f2d1b6a390fe3c4b39de0248bbf",
@@ -50706,9 +50908,9 @@
    "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/mythicsoft-ltd-agent-ransack.html": {
-   "exact": "c66c91a5f308a41bb0840e0d8ff624203ea7914f",
-   "hash": "c66c91a5f308a41bb0840e0d8ff624203ea7914f",
-   "lastmod": "2026-11-17"
+   "exact": "88b8fbdd97dc449aca4b0ea141492220fc1d43cc",
+   "hash": "88b8fbdd97dc449aca4b0ea141492220fc1d43cc",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/nagios-enterprises-ncpa.html": {
    "exact": "7733467d8191e6f7cffabcd2f15bba9aaf581cd5",
@@ -51001,9 +51203,9 @@
    "lastmod": "2026-11-06"
   },
   "https://eam.drung.dev/apps/papercut-software-pty-ltd-papercut-mf.html": {
-   "exact": "ca79bcc4b6d5285c3e9efb947166c49ae774189f",
-   "hash": "ca79bcc4b6d5285c3e9efb947166c49ae774189f",
-   "lastmod": "2026-11-24"
+   "exact": "2e7462130eb723dcf4b5c284393402cb2d7e7a09",
+   "hash": "2e7462130eb723dcf4b5c284393402cb2d7e7a09",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/papercut-software-pty-ltd-papercut-mobility-print.html": {
    "exact": "3e194634d86c4a00d7de18d27f5704fb92b68824",
@@ -51241,8 +51443,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "4c2645dedeaeb114462f273bca6e737b7a0e4a62",
-   "hash": "aa594e17e8f8a9c3a45242e18a4f668eb22b27df",
+   "exact": "2c3fa6b2d0eff4255bdb3c0e387b84214f03a9f1",
+   "hash": "258d8ba422c333f56729e9b29314d3c3dfcfacc6",
    "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -51611,9 +51813,9 @@
    "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/softland-dopdf.html": {
-   "exact": "b1322792612dc111a238261704e2f554e9c3ae87",
-   "hash": "b1322792612dc111a238261704e2f554e9c3ae87",
-   "lastmod": "2026-11-05"
+   "exact": "8ebfa7402dad7eb0fe1b0ab4eb87d7653d157471",
+   "hash": "8ebfa7402dad7eb0fe1b0ab4eb87d7653d157471",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/solarwinds-orion-sdk.html": {
    "exact": "3f957ff5b3f0e31fab2783dd17e9bb9de3efe7bd",
