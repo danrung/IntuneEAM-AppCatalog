@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261124_221617_AppCatalog.json` (exported 2026-11-24 22:16:17)  
-> **vs:** `20261025_155446_AppCatalog.json` (exported 2026-10-25 15:54:46)  
+> **Comparing:** `20261125_080219_AppCatalog.json` (exported 2026-11-25 08:02:19)  
+> **vs:** `20261026_041724_AppCatalog.json` (exported 2026-10-26 04:17:24)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-24 22:16 UTC
+> **Generated:** 2026-11-25 08:03 UTC
 
 ## Summary
 
@@ -69,7 +69,7 @@
 | Azul Systems, Inc. | Zulu JRE 17 (LTS) | Zulu JRE 17 (LTS) (x64) | `17.68.203` | `17.70.201` | Version |
 | Azul Systems, Inc. | Zulu JRE 8 (LTS) | Zulu JRE 8 (LTS) (x64) | `8.96.0.205` | `8.98.0.201` | Version |
 | Baldur Karlsson | RenderDoc | RenderDoc (x64) | `1.46` | `1.47` | Version |
-| Bambu Lab | Bambu Studio | Bambu Studio | `2.8.2.61` | `2.9.1.70` | Version |
+| Bambu Lab | Bambu Studio | Bambu Studio | `2.8.2.61` | `2.9.2.62` | Version |
 | Bandisoft | BandiView | BandiView | `8.03` | `8.05` | Version |
 | BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.512.11` | `8.0.514.5` | Version |
 | Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.5.1` | `8.6.1` | Version |
@@ -88,7 +88,7 @@
 | Cisco Webex LLC | Cisco Webex Meetings | Webex Meetings (Non Localized) (x64) | `46.9.0.35800` | `46.11.0.36194` | Version |
 | Citrix | Citrix Workspace app | Citrix Workspace app (Neutral) | `26.3.11.10` | `26.3.20.31` | Version |
 | ClockAssist | ClockAssist | ClockAssist | `1.1.9666.14975` | `1.1.9819.18791` | Version |
-| Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.5.0` | `2026.6.0` | Version |
+| Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.5.0` | `2026.7.0` | Version |
 | Cockos Incorporated | REAPER | REAPER (x64) | `7.82` | `7.86` | Version |
 | code4ward.net e.U. | Royal TS 7 | Royal TS 7 (x64) | `7.04.50922.0` | `7.04.51113.0` | Version |
 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9791.36253` | `7.1.9822.43041` | Version |
@@ -148,10 +148,10 @@
 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `154.0.8037.40` | `157.0.8103.41` | Version |
 | Google | Google Drive | Google Drive | `132.0.0.0` | `134.0.1.0` | Version |
 | Google | Google Drive File Stream | Google Drive File Stream | `132.0.0.0` | `134.0.1.0` | Version |
-| Google LLC | Google Chrome | Google Chrome (x64) (msi) | `156.0.8078.48` | `158.0.8127.37` | Version |
+| Google LLC | Google Chrome | Google Chrome (x64) (msi) | `156.0.8078.48` | `158.0.8127.89` | Version |
 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.20.3` | `4.21.0` | Version |
 | GoTo Group, Inc | GoTo Connect | GoTo Connect User Installer (x64) | `4.20.3` | `4.21.0` | Version |
-| GSL Biotech LLC | SnapGene Viewer | SnapGene Viewer | `8.2.3` | `9.0.0` | Version |
+| GSL Biotech LLC | SnapGene Viewer | SnapGene Viewer | `8.2.3` | `9.0.1` | Version |
 | IBM | IBM Aspera Connect | Aspera Connect | `4.2.19.956` | `4.2.20.976` | Version |
 | Ideamerit s.r.o. | Luna Modeler | Luna Modeler | `14.7.0` | `15.0.0` | Version |
 | IDM Computer Solutions | UEStudio | UEStudio | `26.0.23` | `26.1.27` | Version |
@@ -164,19 +164,19 @@
 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.933.1` | `6.0.937.0` | Version |
 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.5` | `26.4.0` | Version |
 | Intevation GmbH | Gpg4win | Gpg4win | `5.1.1.54555` | `5.1.2.29656` | Version |
-| JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.6` | `2025.2.6.1` | Version |
-| JetBrains | DataGrip | DataGrip 2025.3 (x64) | `2025.3.6` | `2025.3.6.1` | Version |
-| JetBrains | DataGrip | DataGrip 2026.1 (x64) | `2026.1.4` | `2026.1.4.1` | Version |
-| JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.6` | `2026.2.7` | Version |
-| JetBrains | DataSpell | DataSpell 2025.2 (x64) | `2025.2.4` | `2025.2.4.1` | Version |
-| JetBrains | DataSpell | DataSpell 2025.3 (x64) | `2025.3.3` | `2025.3.3.1` | Version |
-| JetBrains | DataSpell | DataSpell 2026.1 (x64) | `2026.1.3` | `2026.1.3.1` | Version |
-| JetBrains | GoLand | GoLand 2025.2 (x64) | `2025.2.6.2` | `2025.2.6.3` | Version |
-| JetBrains | GoLand | GoLand 2025.3 (x64) | `2025.3.5.1` | `2025.3.5.2` | Version |
+| JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.6` | `2025.2.6.2` | Version |
+| JetBrains | DataGrip | DataGrip 2025.3 (x64) | `2025.3.6` | `2025.3.6.2` | Version |
+| JetBrains | DataGrip | DataGrip 2026.1 (x64) | `2026.1.4` | `2026.1.4.2` | Version |
+| JetBrains | DataGrip | DataGrip 2026.2 (x64) | `2026.2.6` | `2026.2.7.1` | Version |
+| JetBrains | DataSpell | DataSpell 2025.2 (x64) | `2025.2.4` | `2025.2.4.2` | Version |
+| JetBrains | DataSpell | DataSpell 2025.3 (x64) | `2025.3.3` | `2025.3.3.2` | Version |
+| JetBrains | DataSpell | DataSpell 2026.1 (x64) | `2026.1.3` | `2026.1.3.2` | Version |
+| JetBrains | GoLand | GoLand 2025.2 (x64) | `2025.2.6.2` | `2025.2.6.4` | Version |
+| JetBrains | GoLand | GoLand 2025.3 (x64) | `2025.3.5.1` | `2025.3.5.3` | Version |
 | JetBrains | GoLand | GoLand 2026.1 (x64) | `2026.1.5` | `2026.1.5.1` | Version |
 | JetBrains | GoLand | GoLand 2026.2 (x64) | `2026.2.2.1` | `2026.2.5` | Version |
 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.2 (x64) | `2025.2.6.3` | `2025.2.6.4` | Version |
-| JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.3.1` | `2026.2.5` | Version |
+| JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.3.1` | `2026.2.5.1` | Version |
 | JetBrains | TeamCity | TeamCity | `2026.2.1` | `2026.2.2` | Version |
 | JetBrains | WebStorm | WebStorm 2025.2 (x64) | `2025.2.6.2` | `2025.2.6.3` | Version |
 | JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.6.1` | `2025.3.6.2` | Version |
@@ -210,7 +210,7 @@
 | Microsoft | Microsoft Azure Storage Explorer | Azure Storage Explorer (x64) | `1.46.0` | `1.47.1` | Version |
 | Microsoft | Microsoft Defender for Endpoint plug-in for WSL | Microsoft Defender for Endpoint plug-in for WSL | `2.26.921.1` | `2.26.1102.1` | Version |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `157.0.4341.10` | `159.0.4402.13` | Version |
-| Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `158.0.4344.0` | `160.0.4408.0` | Version |
+| Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `158.0.4344.0` | `160.0.4416.0` | Version |
 | Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.334.9` | `3000.342.5` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.183.0920.0005` | `26.212.1029.0006` | Version |
 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.159.883.0` | `2.160.1151.0` | Version |
@@ -342,7 +342,7 @@
 | Node.js Foundation | Node.js 22 LTS | Node.js 22 LTS (x64) | `22.23.1` | `22.23.5` | Version |
 | NV Access Limited | NV Access NVDA | NVDA | `2026.2` | `2026.3.1` | Version |
 | Obsidian | Obsidian | Obsidian (x64) (Device) | `1.14.4` | `1.15.0` | Version |
-| ocenaudio | ocenaudio | ocenaudio | `3.22.1` | `3.22.2` | Version |
+| ocenaudio | ocenaudio | ocenaudio | `3.22.1` | `3.22.3` | Version |
 | Oleg Shparber | Zeal | Zeal (x64) | `0.9.1` | `0.9.2` | Version |
 | openaudible.org | OpenAudible | OpenAudible | `5.0.3` | `5.3` | Version |
 | OpenShot Studios | OpenShot Video Editor | OpenShot Video Editor (x64) | `4.0.1` | `4.1.1` | Version |
@@ -372,7 +372,7 @@
 | ScaleFT | ScaleFT | ScaleFT | `1.116.3` | `1.117.2` | Version |
 | Scooter Software, Inc. | Beyond Compare | Beyond Compare 5 (x64) | `5.2.6.32774` | `5.2.8.33052` | Version |
 | secrypt MgbH | digiSeal Reader | digiSeal Reader | `8.0.0.5` | `8.0.0.7` | Version |
-| Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.11` | `7.10.1` | Version |
+| Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.11` | `7.10.2` | Version |
 | Serverdata.net, Inc. | Elevate UC | Elevate UC (x64) | `2.33.58.0` | `2.34.121.0` | Version |
 | Siber Systems Inc | GoodSync 12 | GoodSync 12 | `12.11.9.9` | `12.11.14.4` | Version |
 | Siber Systems Inc | GoodSync Personal | GoodSync Personal | `12.11.9.9` | `12.11.14.4` | Version |
@@ -381,7 +381,7 @@
 | Skymatic GmbH | Cryptomator | Cryptomator | `1.19.4.6499` | `1.19.7.6591` | Version |
 | Slido | Slido | Slido | `1.23.1` | `1.23.3` | Version |
 | SmartBear Software | SoapUI | SoapUI (x64) | `5.10.0` | `5.10.1` | Version |
-| SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3333.0` | `10.0.3334.0` | Version |
+| SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3333.0` | `10.0.3335.0` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.6` | `6.0.11` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.1.0` | `7.2.1` | Version |
 | SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.4.2` | `2.5.2` | Version |

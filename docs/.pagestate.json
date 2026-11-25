@@ -5808,6 +5808,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.9.1.70",
+      "2.9.2.62",
+      1
+     ]
+    ]
    }
   ],
   "bandisoft-bandiview": [
@@ -9151,6 +9164,19 @@
      [
       "2026.5.0",
       "2026.6.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.6.0",
+      "2026.7.0",
       1
      ]
     ]
@@ -19734,6 +19760,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "158.0.8127.37",
+      "158.0.8127.89",
+      1
+     ]
+    ]
    }
   ],
   "google-web-designer": [
@@ -19880,6 +19919,19 @@
      [
       "8.2.3",
       "9.0.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.0.0",
+      "9.0.1",
       1
      ]
     ]
@@ -22075,6 +22127,34 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2025.2.6.1",
+      "2025.2.6.2",
+      1
+     ],
+     [
+      "2025.3.6.1",
+      "2025.3.6.2",
+      1
+     ],
+     [
+      "2026.1.4.1",
+      "2026.1.4.2",
+      1
+     ],
+     [
+      "2026.2.7",
+      "2026.2.7.1",
+      1
+     ]
+    ]
    }
   ],
   "jetbrains-dataspell": [
@@ -22195,6 +22275,29 @@
      [
       "2025.3.3",
       "2025.3.3.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2025.2.4.1",
+      "2025.2.4.2",
+      1
+     ],
+     [
+      "2025.3.3.1",
+      "2025.3.3.2",
+      1
+     ],
+     [
+      "2026.1.3.1",
+      "2026.1.3.2",
       1
      ]
     ]
@@ -22344,6 +22447,19 @@
      [
       "2026.2.4.1",
       "2026.2.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.2.5",
+      "2026.2.5.1",
       1
      ]
     ]
@@ -22594,6 +22710,24 @@
      [
       "2026.2.4",
       "2026.2.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2025.2.6.3",
+      "2025.2.6.4",
+      1
+     ],
+     [
+      "2025.3.5.2",
+      "2025.3.5.3",
       1
      ]
     ]
@@ -27489,6 +27623,19 @@
      [
       "159.0.4393.0",
       "160.0.4408.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "160.0.4408.0",
+      "160.0.4416.0",
       1
      ]
     ]
@@ -35195,6 +35342,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.22.2",
+      "3.22.3",
+      1
+     ]
+    ]
    }
   ],
   "oleg-shparber-zeal": [
@@ -39388,6 +39548,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "7.10.1",
+      "7.10.2",
+      1
+     ]
+    ]
    }
   ],
   "semeru-ibm-semeru-runtime-open-edition-jdk-11-lts": [
@@ -40649,6 +40822,19 @@
      [
       "10.0.3333.0",
       "10.0.3334.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-25",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.0.3334.0",
+      "10.0.3335.0",
       1
      ]
     ]
@@ -47601,7 +47787,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261124_221617_AppCatalog.json",
+ "history_through": "20261125_080219_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -47610,9 +47796,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "3a3955769a78d0a0f91fdbeb8f5106fff13d3540",
-   "hash": "f3e53cf93b4138a6b1bd4afd66cec669ed8f62ce",
-   "lastmod": "2026-11-24"
+   "exact": "86f1c4608aba8117959fd0bf8990c0cdd2b8e2a0",
+   "hash": "6534c079a3ffd729e9a6e07de9d72597c7db59a2",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -48100,9 +48286,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/bambu-lab-bambu-studio.html": {
-   "exact": "ece19f338a594a3505c38d61caec03042fb3cd74",
-   "hash": "ece19f338a594a3505c38d61caec03042fb3cd74",
-   "lastmod": "2026-11-05"
+   "exact": "8627d405379c0b78f9b5e7dbdb2b027665955af6",
+   "hash": "8627d405379c0b78f9b5e7dbdb2b027665955af6",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/bandisoft-bandiview.html": {
    "exact": "28b94432ab3cc2b6d405f9fb9161caf9ff560dd0",
@@ -48430,9 +48616,9 @@
    "lastmod": "2026-11-19"
   },
   "https://eam.drung.dev/apps/cloud-software-group-inc-xencenter.html": {
-   "exact": "799836bfb33d862b12781703d3b3d579b7efbe98",
-   "hash": "799836bfb33d862b12781703d3b3d579b7efbe98",
-   "lastmod": "2026-11-05"
+   "exact": "c960547a5672f628bd12b300f1b4b21f6022f78c",
+   "hash": "c960547a5672f628bd12b300f1b4b21f6022f78c",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/cloud-video-pexip-infinity-connect.html": {
    "exact": "ebaf3c172e28862a0725b42c32a2fa4bb51f0a0e",
@@ -49260,9 +49446,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/google-llc-google-chrome.html": {
-   "exact": "fe5a023c878adf2ac3986a20e78505ed749658cd",
-   "hash": "fe5a023c878adf2ac3986a20e78505ed749658cd",
-   "lastmod": "2026-11-20"
+   "exact": "78b66b61b712997f7aa5d0e298804a3c07c7dc83",
+   "hash": "78b66b61b712997f7aa5d0e298804a3c07c7dc83",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/google-web-designer.html": {
    "exact": "924be5368f6d89e1e66f0ca66f8d4ef3e9ef7938",
@@ -49280,9 +49466,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/gsl-biotech-llc-snapgene-viewer.html": {
-   "exact": "9b8a24d3274fc0a601181ea96e1461450ac0ec06",
-   "hash": "9b8a24d3274fc0a601181ea96e1461450ac0ec06",
-   "lastmod": "2026-11-05"
+   "exact": "c5da854238d36fa0e9d30c09153f15680a81866a",
+   "hash": "c5da854238d36fa0e9d30c09153f15680a81866a",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/handbrake-team-handbrake.html": {
    "exact": "ace0e9667fb7273c2d5a12769563d509c222a154",
@@ -49520,14 +49706,14 @@
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-datagrip.html": {
-   "exact": "7f75bc45bcb9c3b8416046d5a8415a3681518312",
-   "hash": "7f75bc45bcb9c3b8416046d5a8415a3681518312",
-   "lastmod": "2026-11-20"
+   "exact": "7a3fb745a3c01918c121663b51378b7a2a03f6d4",
+   "hash": "7a3fb745a3c01918c121663b51378b7a2a03f6d4",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/jetbrains-dataspell.html": {
-   "exact": "b4d097e1b7f2806a108c04f1d68983c44f918310",
-   "hash": "b4d097e1b7f2806a108c04f1d68983c44f918310",
-   "lastmod": "2026-11-20"
+   "exact": "d37d1d36adf29601c6b207f656dc897f1c192ba0",
+   "hash": "d37d1d36adf29601c6b207f656dc897f1c192ba0",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/jetbrains-dotultimate-2023.html": {
    "exact": "48628807acc042d4f79dfb9852e26ee3df2aff76",
@@ -49535,9 +49721,9 @@
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-dotultimate.html": {
-   "exact": "cf50676b684a96b89d114c7a0520d2a8ea6385f6",
-   "hash": "cf50676b684a96b89d114c7a0520d2a8ea6385f6",
-   "lastmod": "2026-11-20"
+   "exact": "5abfc85ed9f1720d31aa9bdbc309ad21f6072da9",
+   "hash": "5abfc85ed9f1720d31aa9bdbc309ad21f6072da9",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/jetbrains-goland-2017-3.html": {
    "exact": "db458228cbf48e993ebef116d7627391961ad6fc",
@@ -49555,9 +49741,9 @@
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/jetbrains-goland.html": {
-   "exact": "fad240ffdb440dce80075fbfd0261ebf9218b032",
-   "hash": "fad240ffdb440dce80075fbfd0261ebf9218b032",
-   "lastmod": "2026-11-20"
+   "exact": "9b472c3c2772b2b68ce84bb188fab4d11a4cf9ed",
+   "hash": "9b472c3c2772b2b68ce84bb188fab4d11a4cf9ed",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/jetbrains-intellij-idea-community.html": {
    "exact": "df2be2025e2f5f18c42d24a4d116ca706f55fa9f",
@@ -50075,9 +50261,9 @@
    "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/microsoft-edge-dev.html": {
-   "exact": "82fa13b1525d993d49eb002f5b2b8b7683d1c3ff",
-   "hash": "82fa13b1525d993d49eb002f5b2b8b7683d1c3ff",
-   "lastmod": "2026-11-20"
+   "exact": "d1fcb906762bd389a8678542cc2644d4f5bad514",
+   "hash": "d1fcb906762bd389a8678542cc2644d4f5bad514",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/microsoft-edge-for-business.html": {
    "exact": "7321fd0b9501893b28df60cc1ed6575651505294",
@@ -50705,9 +50891,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/ocenaudio.html": {
-   "exact": "5676ba760973cd8da6dfb7d554201a7314136a8e",
-   "hash": "5676ba760973cd8da6dfb7d554201a7314136a8e",
-   "lastmod": "2026-11-05"
+   "exact": "bf430ae79e1c819da257d0a3bf9417812bcc7ab0",
+   "hash": "bf430ae79e1c819da257d0a3bf9417812bcc7ab0",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/oleg-shparber-zeal.html": {
    "exact": "456e0ed0389286afa6afe29beae8f2bd274600c4",
@@ -51055,9 +51241,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "0014a8c104fffa56528fadab6d8ae680ef2faf9e",
-   "hash": "f6763913c8f748457117f9545738be5b706bfdfb",
-   "lastmod": "2026-11-24"
+   "exact": "4c2645dedeaeb114462f273bca6e737b7a0e4a62",
+   "hash": "aa594e17e8f8a9c3a45242e18a4f668eb22b27df",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -51220,9 +51406,9 @@
    "lastmod": "2026-11-07"
   },
   "https://eam.drung.dev/apps/sejda-bv-sejda-pdf-desktop.html": {
-   "exact": "7ae408ef13a23dbd2af40510653e7c3e0a497cc2",
-   "hash": "7ae408ef13a23dbd2af40510653e7c3e0a497cc2",
-   "lastmod": "2026-11-24"
+   "exact": "cb0a8d18ce4dcbe5ccfa39aca722f2433d02e28c",
+   "hash": "cb0a8d18ce4dcbe5ccfa39aca722f2433d02e28c",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/semeru-ibm-semeru-runtime-open-edition-jdk-11-lts.html": {
    "exact": "998436d05e517ce262bcdfb1c5fab95f83ebb179",
@@ -51380,9 +51566,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/smartsoft-ltd-smartftp-client.html": {
-   "exact": "b4f74638e8a42c0014e83c0b3fa7977c7f8aba66",
-   "hash": "b4f74638e8a42c0014e83c0b3fa7977c7f8aba66",
-   "lastmod": "2026-11-05"
+   "exact": "1d82d71c678c2a8c50c01ef08304852acad64340",
+   "hash": "1d82d71c678c2a8c50c01ef08304852acad64340",
+   "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/smath-llc-smath-studio.html": {
    "exact": "e5ef1a587312791d5812ba25eb63419db635139a",
