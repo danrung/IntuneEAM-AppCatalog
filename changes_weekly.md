@@ -1,49 +1,48 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261126_075427_AppCatalog.json` (exported 2026-11-26 07:54:27)  
-> **vs:** `20261119_065952_AppCatalog.json` (exported 2026-11-19 06:59:52)  
+> **Comparing:** `20261126_211949_AppCatalog.json` (exported 2026-11-26 21:19:49)  
+> **vs:** `20261119_202446_AppCatalog.json` (exported 2026-11-19 20:24:46)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-26 07:55 UTC
+> **Generated:** 2026-11-26 21:20 UTC
 
 ## Summary
 
 | Change | Count |
 |--------|------:|
-| ✅ Added | 3 |
+| ✅ Added | 4 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 212 |
+| 🔄 Updated | 207 |
 | 🧩 Repackaged | 1 |
 
-> 99 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 90 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## ✅ Added (3 packages)
+## ✅ Added (4 packages)
 
 | Publisher | App | Branch | Version | Architecture |
 |-----------|-----|--------|---------|:------------:|
 | Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR 25 | `25.7.3001.2` | x86,x64 |
 | Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR 26 | `26.7.1.4` | x86,x64 |
 | JetBrains | JetBrains dotUltimate 2023 | dotUltimate 2023.1 | `2023.1.7` | x86,x64 |
+| Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.20 | `9.20.0.58427` | x64 |
 
-## 🔄 Updated (212 packages)
+## 🔄 Updated (207 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
 | Akiflow | Akiflow | Akiflow | `2.85.5` | `2.86.9` | Version |
+| Amazon | Amazon AWS VPN Client | AWS VPN Client | `6.2.2` | `6.3.1` | Version |
 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.173.0` | `1.174.1` | Version |
 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.3.0.0` | `2.3.1.0` | Version |
 | Atlassian Inc | Atlassian Companion | Atlassian Companion | `3.3.0` | `3.4.0` | Version |
 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.2 | `10.2.20` | `10.2.22` | Version |
 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 9.2 (LTS) | `9.2.28` | `9.2.30` | Version |
 | Atomi Systems, Inc. | Atomi Systems ActivePresenter | ActivePresenter | `9.4.0` | `9.4.2` | Version |
-| Atomi Systems, Inc. | Saola Animate | Saola Animate | `3.1.4` | `4.0.0` | Version |
 | Bambu Lab | Bambu Studio | Bambu Studio | `2.9.1.70` | `2.9.2.62` | Version |
-| BellSoft Corporation | Liberica JDK | Liberica JDK 8 LTS (x64) | `8.0.513.9` | `8.0.514.5` | Version |
-| Ben Olden-Cooligan | NAPS2 | NAPS2 (x64) | `8.6.0` | `8.6.1` | Version |
 | Benthic Software | Golden 8 | Golden 8 (x64) | `8.4.0.846` | `8.4.0.849` | Version |
 | Blender Foundation | Blender | Blender 4.5 LTS (x64) | `4.5.16` | `4.5.17` | Version |
 | Blender Foundation | Blender | Blender 5.2 LTS (x64) | `5.2.4` | `5.2.5` | Version |
+| Burnaware | BurnAware Free | BurnAware Free | `19.5` | `19.6` | Version |
 | Citrix | Citrix Workspace app | Citrix Workspace app (Neutral) | `26.3.11.10` | `26.3.20.31` | Version |
-| ClockAssist | ClockAssist | ClockAssist | `1.1.9666.14975` | `1.1.9819.18791` | Version |
 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.6.0` | `2026.7.0` | Version |
 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9810.22348` | `7.1.9825.30388` | Version |
 | Datadog | Datadog Agent | Datadog Agent | `7.85.4` | `7.86.0` | Version |
@@ -66,7 +65,9 @@
 | Evernote | Evernote | Evernote | `11.43.4` | `11.44.6` | Version |
 | geek Software GmbH | PDF24 Creator | PDF24 Creator | `11.34.0` | `11.35.0` | Version |
 | Genesys | Genesys Cloud | Genesys Cloud (x64) | `2.57.942` | `2.57.944` | Version |
+| GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.105.0` | `2.106.0` | Version |
 | GN Audio AS | Jabra Direct | Jabra Direct | `8.4.30601` | `8.5.32302` | Version |
+| Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | `2.51.1839` | Version |
 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `157.0.8103.79` | `158.0.8127.89` | Version |
 | GSL Biotech LLC | SnapGene Viewer | SnapGene Viewer | `9.0.0` | `9.0.1` | Version |
 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.11.0.0` | `6.0.0.0` | Version |
@@ -96,7 +97,6 @@
 | Krisp | Krisp | Krisp 3.x | `3.19.7` | `3.20.5` | Version |
 | Krita Foundation | Krita | Krita (x64) | `5.3.4.1` | `5.3.5` | Version |
 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.5.12` | `8.7.16` | Version |
-| Mersive Technologies, Inc. | Mersive Solstice Client | Mersive Solstice Client (x64) | `6.3.4` | `6.3.5` | Version |
 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.16.1` | `4.17.0` | Version |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `158.0.4370.26` | `159.0.4402.13` | Version |
 | Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `159.0.4393.0` | `160.0.4416.0` | Version |
@@ -111,7 +111,6 @@
 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Portuguese Brazil) (x64) | `17.11.1.1` | `17.12.1.1` | Version |
 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Russian) (x64) | `17.11.1.1` | `17.12.1.1` | Version |
 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Spanish) (x64) | `17.11.1.1` | `17.12.1.1` | Version |
-| Microsoft | Microsoft On-premises data gateway | On-premises data gateway | `3000.338.3` | `3000.342.5` | Version |
 | Microsoft | Microsoft OneDrive | OneDrive (x64) | `26.204.1019.0009` | `26.212.1029.0006` | Version |
 | Microsoft | Microsoft Power BI Desktop | Microsoft Power BI Desktop (x64) | `2.159.1231.0` | `2.160.1151.0` | Version |
 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.147.0` | `1.148.0` | Version |
@@ -212,7 +211,7 @@
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Ukrainian) (x64) | `115.44.0` | `115.46.0` | Version |
 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Vietnamese) (x64) | `115.44.0` | `115.46.0` | Version |
 | Mythicsoft Ltd | Agent Ransack | Agent Ransack | `9.2.3568.1` | `9.2.3569.1` | Version |
-| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `2.1.0` | `2.1.3` | Version |
+| New Relic, Inc. | New Relic Infrastructure Agent | New Relic Infrastructure Agent (x64) | `2.1.1` | `2.1.3` | Version |
 | NGWIN | PicPick | PicPick | `7.6.2` | `7.7.0` | Version |
 | ocenaudio | ocenaudio | ocenaudio | `3.22.2` | `3.22.3` | Version |
 | openaudible.org | OpenAudible | OpenAudible | `5.2` | `5.3` | Version |
@@ -222,7 +221,6 @@
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 26.0 | `26.0.6.76874` | `26.0.7.77046` | Version |
 | Rocket.Chat Technologies Corp. | Rocket.Chat | Rocket.Chat (x64) | `4.19.3` | `4.19.4` | Version |
 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.12` | `7.10.2` | Version |
-| Skymatic GmbH | Cryptomator | Cryptomator | `1.19.6.6588` | `1.19.7.6591` | Version |
 | SmartBear Software | SoapUI | SoapUI (x64) | `5.10.0` | `5.10.1` | Version |
 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3334.0` | `10.0.3335.0` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.10` | `6.0.11` | Version |
@@ -230,16 +228,14 @@
 | SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.5.1` | `2.5.2` | Version |
 | Softland | Softland doPDF | doPDF | `11.9.532` | `11.9.534` | Version |
 | The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.3.1` | `3.3.2` | Version |
-| TortoiseGit | TortoiseGit | TortoiseGit (x64) | `2.19.1.0` | `2.19.2.0` | Version |
 | typora.io | Typora | Typora (x64) | `1.14.10` | `1.14.17` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1345` | `9.2.1409` | Version |
 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1364` | `9.2.1409` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.8` | `6.7.9` | Version |
+| Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.10` | `4.14.11` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.4.454` | `2.8.5.458` | Version |
 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.4.454` | `2.8.5.458` | Version |
 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.7.0` | `26.6.0` | Version |
-| Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.19` | `4.4.20` | Version |
-| Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.9` | `4.6.10` | Version |
 
 ## 🧩 Repackaged (1 package)
 

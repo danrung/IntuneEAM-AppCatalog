@@ -2379,6 +2379,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "6.2.2",
+      "6.3.1",
+      1
+     ]
+    ]
    }
   ],
   "amazon-corretto-jdk-11": [
@@ -7879,6 +7892,19 @@
      [
       "19.4",
       "19.5",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "19.5",
+      "19.6",
       1
      ]
     ]
@@ -18777,6 +18803,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.105.0",
+      "2.106.0",
+      1
+     ]
+    ]
    }
   ],
   "glueckkanja-gab-ag-konnekt": [
@@ -19477,6 +19516,19 @@
      [
       "2.49.1797",
       "2.50.1825",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.50.1825",
+      "2.51.1839",
       1
      ]
     ]
@@ -25792,6 +25844,16 @@
       1
      ]
     ]
+   },
+   {
+    "added": 1,
+    "branches_added": [
+     "Mendix Studio Pro 9.20"
+    ],
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": []
    }
   ],
   "mersive-technologies-inc-mersive-solstice-client": [
@@ -45651,6 +45713,19 @@
     ],
     "repackaged": 1,
     "versions": []
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "repack_fields": [
+     "Install command",
+     "Installer file",
+     "Installer size"
+    ],
+    "repackaged": 1,
+    "versions": []
    }
   ],
   "voidtools-everything": [
@@ -46145,6 +46220,19 @@
      [
       "4.14.9",
       "4.14.10",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.14.10",
+      "4.14.11",
       1
      ]
     ]
@@ -48150,7 +48238,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261126_075427_AppCatalog.json",
+ "history_through": "20261126_211949_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -48159,8 +48247,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "0e2bd4a24a59788f1ad4f7a445ff94cd93392886",
-   "hash": "ef91f5913277ec7778d66fd3e6288d383b700850",
+   "exact": "c1a6962ded4de33311037178a676d28b41a02459",
+   "hash": "434ac0dd916e19d7875abc339818092743882cc4",
    "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -48279,9 +48367,9 @@
    "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/amazon-aws-vpn-client.html": {
-   "exact": "e1880ad04414007718b64fc1fc091993a0e8b0f7",
-   "hash": "e1880ad04414007718b64fc1fc091993a0e8b0f7",
-   "lastmod": "2026-11-13"
+   "exact": "b7dd1b78f13164f9035d503e4b2374b6e87535da",
+   "hash": "b7dd1b78f13164f9035d503e4b2374b6e87535da",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/amazon-corretto-jdk-11.html": {
    "exact": "247a2a29450083436a7ebff5d1dc2dac2d4e8fba",
@@ -48809,9 +48897,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/burnaware-free.html": {
-   "exact": "d75b4e09ee37b85400077ac23401e6a1e446b115",
-   "hash": "d75b4e09ee37b85400077ac23401e6a1e446b115",
-   "lastmod": "2026-11-10"
+   "exact": "04425f55ed74b02cecb10f354d96c7fed071dd9a",
+   "hash": "04425f55ed74b02cecb10f354d96c7fed071dd9a",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/bytello-share.html": {
    "exact": "b4d161766dfb3b2686592bd7770ae92db8a782a9",
@@ -49719,9 +49807,9 @@
    "lastmod": "2026-11-08"
   },
   "https://eam.drung.dev/apps/github-inc-github-cli.html": {
-   "exact": "3a6a00b92869f85775e51ac2189dbe8f4588f52d",
-   "hash": "3a6a00b92869f85775e51ac2189dbe8f4588f52d",
-   "lastmod": "2026-11-18"
+   "exact": "966e4bae343b92a0fbfeb112bcb5f47b98133a39",
+   "hash": "966e4bae343b92a0fbfeb112bcb5f47b98133a39",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/glavsoft-llc-remote-ripple.html": {
    "exact": "a34b99d21eedde73399f8409ed60505dc1c99259",
@@ -49804,9 +49892,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/google-iap-desktop.html": {
-   "exact": "252bab363f4ab3a9b614a513101822f561e756b1",
-   "hash": "252bab363f4ab3a9b614a513101822f561e756b1",
-   "lastmod": "2026-11-05"
+   "exact": "247175c37796f7f8fdc05f167d9389a316e61742",
+   "hash": "247175c37796f7f8fdc05f167d9389a316e61742",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/google-llc-google-chrome.html": {
    "exact": "78b66b61b712997f7aa5d0e298804a3c07c7dc83",
@@ -50489,9 +50577,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/mendix-technology-b-v-mendix-studio-pro-9.html": {
-   "exact": "6f2701e5304402264db80b82c8f8ee14be4bd49a",
-   "hash": "6f2701e5304402264db80b82c8f8ee14be4bd49a",
-   "lastmod": "2026-11-17"
+   "exact": "38e47a7bab1433af5ea7f0698ee35d1090153640",
+   "hash": "38e47a7bab1433af5ea7f0698ee35d1090153640",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/mersive-technologies-inc-mersive-solstice-client.html": {
    "exact": "5ee5eaa98a8d8a0628b41e0ab88a453fb051864a",
@@ -51604,8 +51692,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "0c8e57c18c20aa6f6476ca12cb240bafa8f62420",
-   "hash": "b0023a924688b2476b68c3b912712a0f55963b20",
+   "exact": "b2c82aeb1eb2f7e2db33306ea48a72b05143c47d",
+   "hash": "61e6ebc0d3c3113e7a22f31f41f920015dd8a394",
    "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -52499,9 +52587,9 @@
    "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
-   "exact": "50c0289d12bb79a4f5b26cd2ffe2b5ef3f8369ea",
-   "hash": "50c0289d12bb79a4f5b26cd2ffe2b5ef3f8369ea",
-   "lastmod": "2026-11-20"
+   "exact": "b77b2a8764f449a5db7bce458e38567ac3ce0e96",
+   "hash": "b77b2a8764f449a5db7bce458e38567ac3ce0e96",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/vmware-horizon-client-2006.html": {
    "exact": "29b9f04b0d6aa2f9af235c032c56d89e56d26dda",
@@ -52609,9 +52697,9 @@
    "lastmod": "2026-11-24"
   },
   "https://eam.drung.dev/apps/wazuh-inc-wazuh-agent.html": {
-   "exact": "1961390fd5eee70792acabc54c2015901ed15589",
-   "hash": "1961390fd5eee70792acabc54c2015901ed15589",
-   "lastmod": "2026-11-06"
+   "exact": "0ecd5114614cd3eff3f811066c3f19af31f427fd",
+   "hash": "0ecd5114614cd3eff3f811066c3f19af31f427fd",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/webprofusion-pty-ltd-certify-the-web.html": {
    "exact": "b55ad756f3a55a4d939ef9a0d7d5a6e4cd776608",

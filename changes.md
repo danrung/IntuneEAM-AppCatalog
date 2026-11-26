@@ -1,36 +1,42 @@
 # Catalog Changes — Latest vs Previous
 
-> **Comparing:** `20261126_075427_AppCatalog.json` (exported 2026-11-26 07:54:27)  
-> **vs:** `20261125_213203_AppCatalog.json` (exported 2026-11-25 21:32:03)  
-> **Span:** 10 hours between exports  
-> **Generated:** 2026-11-26 07:55 UTC
+> **Comparing:** `20261126_211949_AppCatalog.json` (exported 2026-11-26 21:19:49)  
+> **vs:** `20261126_075427_AppCatalog.json` (exported 2026-11-26 07:54:27)  
+> **Span:** 13 hours between exports  
+> **Generated:** 2026-11-26 21:20 UTC
 
 ## Summary
 
 | Change | Count |
 |--------|------:|
-| ✅ Added | 0 |
+| ✅ Added | 1 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 13 |
-| 🧩 Repackaged | 0 |
+| 🔄 Updated | 5 |
+| 🧩 Repackaged | 1 |
 
-> 72 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 42 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## 🔄 Updated (13 packages)
+## ✅ Added (1 packages)
+
+| Publisher | App | Branch | Version | Architecture |
+|-----------|-----|--------|---------|:------------:|
+| Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.20 | `9.20.0.58427` | x64 |
+
+## 🔄 Updated (5 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.2 | `10.2.20` | `10.2.22` | Version |
-| Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2027.1.1.0` | `2026.3.19.0` | Version |
-| Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2027.1.1.0` | `2026.3.19.0` | Version |
-| ej-technologies GmbH | Install4j | Install4j (x64) | `13.1.3` | `13.2` | Version |
-| GN Audio AS | Jabra Direct | Jabra Direct | `8.4.30601` | `8.5.32302` | Version |
-| JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.2 (x64) | `2025.2.6.4` | `2025.2.6.5` | Version |
-| Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.14.2` | `5.14.3` | Version |
-| Krisp | Krisp | Krisp 3.x | `3.19.7` | `3.20.5` | Version |
-| Krita Foundation | Krita | Krita (x64) | `5.3.4.1` | `5.3.5` | Version |
-| Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.147.0` | `1.148.0` | Version |
-| PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 26.0 | `26.0.7.77024` | `26.0.7.77046` | Version |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1373` | `9.2.1409` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1393` | `9.2.1409` | Version |
+| Amazon | Amazon AWS VPN Client | AWS VPN Client | `6.2.2` | `6.3.1` | Version |
+| Burnaware | BurnAware Free | BurnAware Free | `19.5` | `19.6` | Version |
+| GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.105.0` | `2.106.0` | Version |
+| Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | `2.51.1839` | Version |
+| Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.10` | `4.14.11` | Version |
+
+## 🧩 Repackaged (1 package)
+
+Same branch and version, new package, and the deployment template Intune creates from it changed.
+
+| Publisher | App | Branch | Version | Changed |
+|-----------|-----|--------|:-------:|---------|
+| Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.1.0.0` | Install command, Installer file, Installer size |
 
