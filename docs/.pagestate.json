@@ -4669,6 +4669,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "10.2.20",
+      "10.2.22",
+      1
+     ]
+    ]
    }
   ],
   "atomi-systems-inc-atomi-systems-activepresenter": [
@@ -12468,6 +12481,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2027.1.1.0",
+      "2026.3.19.0",
+      1
+     ]
+    ]
    }
   ],
   "devolutions-inc-devolutions-remote-desktop-manager": [
@@ -12775,6 +12801,19 @@
      [
       "2027.1.0.0",
       "2027.1.1.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2027.1.1.0",
+      "2026.3.19.0",
       1
      ]
     ]
@@ -15702,6 +15741,19 @@
      [
       "13.1.2",
       "13.1.3",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "13.1.3",
+      "13.2",
       1
      ]
     ]
@@ -18803,6 +18855,19 @@
      [
       "8.3.26701",
       "8.4.30601",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "8.4.30601",
+      "8.5.32302",
       1
      ]
     ]
@@ -22876,6 +22941,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2025.2.6.4",
+      "2025.2.6.5",
+      1
+     ]
+    ]
    }
   ],
   "jetbrains-teamcity": [
@@ -23499,6 +23577,19 @@
      [
       "5.13.2",
       "5.14.2",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.14.2",
+      "5.14.3",
       1
      ]
     ]
@@ -24190,6 +24281,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.19.7",
+      "3.20.5",
+      1
+     ]
+    ]
    }
   ],
   "krita-foundation-krita": [
@@ -24267,6 +24371,19 @@
      [
       "5.3.4",
       "5.3.4.1",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "5.3.4.1",
+      "5.3.5",
       1
      ]
     ]
@@ -31214,6 +31331,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.147.0",
+      "1.148.0",
+      1
+     ]
+    ]
    }
   ],
   "microsoft-visual-studio-team-explorer-2022": [
@@ -36730,6 +36860,19 @@
      [
       "26.0.6.76874",
       "26.0.7.77024",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.0.7.77024",
+      "26.0.7.77046",
       1
      ]
     ]
@@ -45449,6 +45592,24 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-26",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "9.2.1373",
+      "9.2.1409",
+      1
+     ],
+     [
+      "9.2.1393",
+      "9.2.1409",
+      1
+     ]
+    ]
    }
   ],
   "visual-paradigm-international-ltd-visual-paradigm-project-viewer": [
@@ -47989,7 +48150,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261125_213203_AppCatalog.json",
+ "history_through": "20261126_075427_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -47998,9 +48159,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "e3717f5429fb2b50f2458f1f28b95326dfc27c04",
-   "hash": "b5a4b3e961d4aaba344ced3a2507a52ae63294ea",
-   "lastmod": "2026-11-25"
+   "exact": "0e2bd4a24a59788f1ad4f7a445ff94cd93392886",
+   "hash": "ef91f5913277ec7778d66fd3e6288d383b700850",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -48303,9 +48464,9 @@
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/atlassian-inc-atlassian-confluence.html": {
-   "exact": "56aadef8fe678eecb151b309dcc36bb50f88358b",
-   "hash": "56aadef8fe678eecb151b309dcc36bb50f88358b",
-   "lastmod": "2026-11-25"
+   "exact": "aedb6cfe7b4beaefecc489c05476589d88041f67",
+   "hash": "aedb6cfe7b4beaefecc489c05476589d88041f67",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/atomi-systems-inc-atomi-systems-activepresenter.html": {
    "exact": "d18cdc10ba8e48318bc03687f1e8fae2e1ba309b",
@@ -49033,9 +49194,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-launcher.html": {
-   "exact": "d1d262ada0805c4db013c9655572fc3ed1c94a1b",
-   "hash": "d1d262ada0805c4db013c9655572fc3ed1c94a1b",
-   "lastmod": "2026-11-20"
+   "exact": "bb5232cbc9455eb353a5c03ecf2c2ecd3511284c",
+   "hash": "bb5232cbc9455eb353a5c03ecf2c2ecd3511284c",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager-agent.html": {
    "exact": "bebfd01294672c19cbea6850f7a2996962bf8222",
@@ -49043,9 +49204,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-remote-desktop-manager.html": {
-   "exact": "74f00d7e888f8433798ac1e6c872778e4e75005e",
-   "hash": "74f00d7e888f8433798ac1e6c872778e4e75005e",
-   "lastmod": "2026-11-20"
+   "exact": "fa4db0b429740d5dda959e6c6258a1e6312f5be8",
+   "hash": "fa4db0b429740d5dda959e6c6258a1e6312f5be8",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/devolutions-inc-devolutions-workspace.html": {
    "exact": "cb4120b9abacda7c65ac083f2eda06e89faa9bfc",
@@ -49268,9 +49429,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/ej-technologies-gmbh-install4j.html": {
-   "exact": "ff8771a1879ef55fd3b0d01671a6016d7e774fed",
-   "hash": "ff8771a1879ef55fd3b0d01671a6016d7e774fed",
-   "lastmod": "2026-11-10"
+   "exact": "5d53a4e578988398632c76ac03e04cac71116be5",
+   "hash": "5d53a4e578988398632c76ac03e04cac71116be5",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/ej-technologies-gmbh-jprofiler.html": {
    "exact": "58b6d27b6073bbd70642d4458a46e13403b49cae",
@@ -49573,9 +49734,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/gn-audio-as-jabra-direct.html": {
-   "exact": "64cb427a1ec84631797f10777defd03ddf2773e5",
-   "hash": "64cb427a1ec84631797f10777defd03ddf2773e5",
-   "lastmod": "2026-11-05"
+   "exact": "486c6852f5894c8c604bde3eb8e0e2ad0190f92f",
+   "hash": "486c6852f5894c8c604bde3eb8e0e2ad0190f92f",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/google-ads-editor.html": {
    "exact": "33d03720a7a9a1f1e833c6b3cee8fc37bacf6e14",
@@ -49948,9 +50109,9 @@
    "lastmod": "2026-11-25"
   },
   "https://eam.drung.dev/apps/jetbrains-intellij-idea-community.html": {
-   "exact": "df2be2025e2f5f18c42d24a4d116ca706f55fa9f",
-   "hash": "df2be2025e2f5f18c42d24a4d116ca706f55fa9f",
-   "lastmod": "2026-11-20"
+   "exact": "abdc66434d35a92732ae29547870e3debb743d34",
+   "hash": "abdc66434d35a92732ae29547870e3debb743d34",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/jetbrains-resharper-2023-1.html": {
    "exact": "d5bd68a7d29e3446424d22fd206a5ea4208eb8d6",
@@ -49998,9 +50159,9 @@
    "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/kandra-labs-inc-zulip.html": {
-   "exact": "223ace195ed15aed3d067624e383e87151c5e5e2",
-   "hash": "223ace195ed15aed3d067624e383e87151c5e5e2",
-   "lastmod": "2026-11-05"
+   "exact": "c0c18bbd55e43b588019662dc73b088c39e28909",
+   "hash": "c0c18bbd55e43b588019662dc73b088c39e28909",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/karakun-openwebstart.html": {
    "exact": "4dad2a0a899e0197e1649885b8075fd002617ffa",
@@ -50058,14 +50219,14 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/krisp.html": {
-   "exact": "26bed98258ed0da38080074b7efe9608e46f5d02",
-   "hash": "26bed98258ed0da38080074b7efe9608e46f5d02",
-   "lastmod": "2026-11-16"
+   "exact": "c3e6a14ea6704554f125f8be692ed8fe507fe135",
+   "hash": "c3e6a14ea6704554f125f8be692ed8fe507fe135",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/krita-foundation-krita.html": {
-   "exact": "17415d43519baf7967d22165098e6eb678bfc603",
-   "hash": "17415d43519baf7967d22165098e6eb678bfc603",
-   "lastmod": "2026-11-05"
+   "exact": "faf50f5454050bbcafdc527ab3d0195698ff64bd",
+   "hash": "faf50f5454050bbcafdc527ab3d0195698ff64bd",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/kubus-bv-bcf-manager-for-tekla.html": {
    "exact": "13d4f00fe26800838d1dd1c91eeb6fc3a00681ee",
@@ -50738,9 +50899,9 @@
    "lastmod": "2026-11-18"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-code.html": {
-   "exact": "1198e0fe4a77d565f71eabd8aa20d3d220dfc3aa",
-   "hash": "1198e0fe4a77d565f71eabd8aa20d3d220dfc3aa",
-   "lastmod": "2026-11-19"
+   "exact": "f3f5fde18754cdc028f14d7bdeaf442a627c6577",
+   "hash": "f3f5fde18754cdc028f14d7bdeaf442a627c6577",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/microsoft-visual-studio-team-explorer-2022.html": {
    "exact": "9e628810359382c1625f3cd9085596f4f33851da",
@@ -51213,9 +51374,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/papercut-software-pty-ltd-papercut-ng.html": {
-   "exact": "fc56f2b24268d5f177c22cf94c63b5eccd4df848",
-   "hash": "fc56f2b24268d5f177c22cf94c63b5eccd4df848",
-   "lastmod": "2026-11-24"
+   "exact": "84fe8bc66620218d75782fa40e110fc75191a6e4",
+   "hash": "84fe8bc66620218d75782fa40e110fc75191a6e4",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/paperpile-llc-paperpile.html": {
    "exact": "f3a03de82bf00d125f849662b0d37e58fa58f7a2",
@@ -51443,9 +51604,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "2c3fa6b2d0eff4255bdb3c0e387b84214f03a9f1",
-   "hash": "258d8ba422c333f56729e9b29314d3c3dfcfacc6",
-   "lastmod": "2026-11-25"
+   "exact": "0c8e57c18c20aa6f6476ca12cb240bafa8f62420",
+   "hash": "b0023a924688b2476b68c3b912712a0f55963b20",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -52333,9 +52494,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/vim-developers-vim.html": {
-   "exact": "497388b5ec2fe30900c45885db97600001003779",
-   "hash": "497388b5ec2fe30900c45885db97600001003779",
-   "lastmod": "2026-11-24"
+   "exact": "702657cd609dcb736546dcd0702f809b6b6a77b7",
+   "hash": "702657cd609dcb736546dcd0702f809b6b6a77b7",
+   "lastmod": "2026-11-26"
   },
   "https://eam.drung.dev/apps/visual-paradigm-international-ltd-visual-paradigm-project-viewer.html": {
    "exact": "50c0289d12bb79a4f5b26cd2ffe2b5ef3f8369ea",

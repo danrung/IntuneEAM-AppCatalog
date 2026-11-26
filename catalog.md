@@ -1,19 +1,19 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261125_213203_AppCatalog.json` (exported 2026-11-25 21:32:03)  
-> **Generated:** 2026-11-25 21:32 UTC  
+> **Source:** `20261126_075427_AppCatalog.json` (exported 2026-11-26 07:54:27)  
+> **Generated:** 2026-11-26 07:55 UTC  
 > **Total:** 1,600 packages · 934 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
 |--:|-----------|----------|--------|---------|:------------:|:-----------:|---------|
 | 1 | 2BrightSparks Ptd Ltd | CMake | CMake 4.0 (x64) | `4.0.7` | x64 | ❌ | en-US |
 | 2 | 2BrightSparks Ptd Ltd | CMake | CMake 4.2 (x64) | `4.2.8` | x64 | ❌ | en-US |
-| 3 | 2BrightSparks Ptd Ltd | CMake | CMake 3.22 (x64) | `3.22.6` | x64 | ❌ | en-US |
-| 4 | 2BrightSparks Ptd Ltd | CMake | CMake 3.29 (x64) | `3.29.9` | x64 | ❌ | en-US |
-| 5 | 2BrightSparks Ptd Ltd | CMake | CMake 4.4 (x64) | `4.4.5` | x64 | ❌ | en-US |
-| 6 | 2BrightSparks Ptd Ltd | CMake | CMake 3.26 (x64) | `3.26.6` | x64 | ❌ | en-US |
-| 7 | 2BrightSparks Ptd Ltd | CMake | CMake 3.21 (x64) | `3.21.7` | x64 | ❌ | en-US |
-| 8 | 2BrightSparks Ptd Ltd | CMake | CMake 3.31 (x64) | `3.31.12` | x64 | ❌ | en-US |
+| 3 | 2BrightSparks Ptd Ltd | CMake | CMake 3.31 (x64) | `3.31.12` | x64 | ❌ | en-US |
+| 4 | 2BrightSparks Ptd Ltd | CMake | CMake 3.22 (x64) | `3.22.6` | x64 | ❌ | en-US |
+| 5 | 2BrightSparks Ptd Ltd | CMake | CMake 3.29 (x64) | `3.29.9` | x64 | ❌ | en-US |
+| 6 | 2BrightSparks Ptd Ltd | CMake | CMake 4.4 (x64) | `4.4.5` | x64 | ❌ | en-US |
+| 7 | 2BrightSparks Ptd Ltd | CMake | CMake 3.26 (x64) | `3.26.6` | x64 | ❌ | en-US |
+| 8 | 2BrightSparks Ptd Ltd | CMake | CMake 3.21 (x64) | `3.21.7` | x64 | ❌ | en-US |
 | 9 | 2BrightSparks Ptd Ltd | CMake | CMake 3.20 (x64) | `3.20.6` | x64 | ❌ | en-US |
 | 10 | 2BrightSparks Ptd Ltd | CMake | CMake 4.1 (x64) | `4.1.6` | x64 | ❌ | en-US |
 | 11 | 2BrightSparks Ptd Ltd | CMake | CMake 3.28 (x64) | `3.28.6` | x64 | ❌ | en-US |
@@ -88,7 +88,7 @@
 | 80 | Asus | ASUS Remote Drive | Remote Drive | `3.10.0.70` | x86,x64 | ❌ | en-US |
 | 81 | Atlassian Inc | Atlassian Companion | Atlassian Companion | `3.4.0` | x86,x64 | ❌ | en-US |
 | 82 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 8.1 | `8.1.4` | x64 | ❌ | en-US |
-| 83 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.2 | `10.2.20` | x64 | ❌ | en-US |
+| 83 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.2 | `10.2.22` | x64 | ❌ | en-US |
 | 84 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 9.1 | `9.1.1` | x64 | ❌ | en-US |
 | 85 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 9.2 (LTS) | `9.2.30` | x64 | ❌ | en-US |
 | 86 | Atlassian Inc | Atlassian Confluence | Atlassian Confluence 10.0 | `10.0.3` | x64 | ❌ | en-US |
@@ -288,8 +288,8 @@
 | 280 | Dell, Inc. | DisplayLink Dock Driver | DisplayLink Dock Driver | `11.5.6200.0` | x64 | ❌ | en-US |
 | 281 | Dell, Inc. | RVTools | RVTools | `4.8.2` | x86,x64 | ❌ | en-US |
 | 282 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2027.1.1.0` | x64 | ✅ | en-US |
-| 283 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2027.1.1.0` | x64 | ✅ | en-US |
-| 284 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2027.1.1.0` | x64 | ❌ | en-US |
+| 283 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2026.3.19.0` | x64 | ✅ | en-US |
+| 284 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2026.3.19.0` | x64 | ❌ | en-US |
 | 285 | Devolutions inc | Devolutions Remote Desktop Manager Agent | Remote Desktop Manager Agent | `2026.2.9.0` | x86,x64 | ❌ | en-US |
 | 286 | Devolutions inc | Devolutions Workspace | Devolutions Workspace | `2026.1.4.0` | x64 | ❌ | en-US |
 | 287 | DigiDNA SARL | iMazing | iMazing | `3.6.5.0` | x64 | ❌ | en-US |
@@ -339,7 +339,7 @@
 | 331 | Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.9.0.213` | x64 | ✅ | en-US |
 | 332 | Egnyte, Inc. | Egnyte WebEdit | Egnyte WebEdit | `2.4.1400.90` | x86,x64 | ❌ | en-US |
 | 333 | EIZO | Screen InStyle | Screen InStyle | `1.1.18` | x86,x64 | ❌ | en-US |
-| 334 | ej-technologies GmbH | Install4j | Install4j (x64) | `13.1.3` | x64 | ❌ | en-US |
+| 334 | ej-technologies GmbH | Install4j | Install4j (x64) | `13.2` | x64 | ❌ | en-US |
 | 335 | ej-technologies GmbH | JProfiler | JProfiler 10 | `10.1.5` | x64 | ❌ | en-US |
 | 336 | ej-technologies GmbH | JProfiler | JProfiler 13 | `13.0.7` | x64 | ❌ | en-US |
 | 337 | ej-technologies GmbH | JProfiler | JProfiler | `16.3.1` | x64 | ❌ | en-US |
@@ -426,7 +426,7 @@
 | 418 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.105.0` | x64 | ❌ | en-US |
 | 419 | GlavSoft LLC | Remote Ripple | Remote Ripple | `1.2.0` | x64 | ❌ | en-US |
 | 420 | glueckkanja-gab AG | Konnekt | Konnekt (x64) | `2.12.0.0` | x64 | ❌ | en-US |
-| 421 | GN Audio AS | Jabra Direct | Jabra Direct | `8.4.30601` | x64 | ❌ | en-US |
+| 421 | GN Audio AS | Jabra Direct | Jabra Direct | `8.5.32302` | x64 | ❌ | en-US |
 | 422 | Google | Google Ads Editor | Google Ads Editor (EXE) | `14.13.3.0` | x64 | ❌ | en-US |
 | 423 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.14.2.0` | x64 | ❌ | en-US |
 | 424 | Google | Google Backup and Sync | Backup and Sync | `3.56.3802.7766` | x86,x64 | ❌ | en-US |
@@ -518,12 +518,12 @@
 | 510 | JetBrains | GoLand 2017.3 | GoLand 2017.3 | `2017.3.5` | x64 | ❌ | en-US |
 | 511 | JetBrains | GoLand 2021.1 | GoLand 2021.1 | `2021.1.3` | x64 | ❌ | en-US |
 | 512 | JetBrains | GoLand 2022.2 | GoLand 2022.2 | `2022.2.6` | x64 | ❌ | en-US |
-| 513 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.2 (x64) | `2025.2.6.4` | x64 | ❌ | en-US |
-| 514 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.2 (x64) | `2024.2.6` | x64 | ❌ | en-US |
-| 515 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.3 (x64) | `2024.3.7.1` | x64 | ❌ | en-US |
-| 516 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2023.3 (x64) | `2023.3.8` | x64 | ❌ | en-US |
-| 517 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.1 (x64) | `2025.1.7.2` | x64 | ❌ | en-US |
-| 518 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.1 (x64) | `2024.1.7` | x64 | ❌ | en-US |
+| 513 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.2 (x64) | `2024.2.6` | x64 | ❌ | en-US |
+| 514 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.3 (x64) | `2024.3.7.1` | x64 | ❌ | en-US |
+| 515 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2023.3 (x64) | `2023.3.8` | x64 | ❌ | en-US |
+| 516 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.1 (x64) | `2025.1.7.2` | x64 | ❌ | en-US |
+| 517 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2024.1 (x64) | `2024.1.7` | x64 | ❌ | en-US |
+| 518 | JetBrains | IntelliJ IDEA Community | IntelliJ IDEA Community 2025.2 (x64) | `2025.2.6.5` | x64 | ❌ | en-US |
 | 519 | JetBrains | JetBrains dotUltimate | dotUltimate 2024.3 | `2024.3.10` | x86,x64 | ❌ | en-US |
 | 520 | JetBrains | JetBrains dotUltimate | dotUltimate 2025.2 | `2025.2.3` | x86,x64 | ❌ | en-US |
 | 521 | JetBrains | JetBrains dotUltimate | dotUltimate 2026.2 | `2026.2.5.1` | x86,x64 | ❌ | en-US |
@@ -545,7 +545,7 @@
 | 537 | Juraj Simlovic | TED Notepad | TED Notepad (ANSI) | `6.3.1` | x86,x64 | ✅ | en-US |
 | 538 | Juraj Simlovic | TED Notepad | TED Notepad (Unicode) | `6.3.1` | x86,x64 | ✅ | en-US |
 | 539 | Kai Kramer | KeyStore Explorer | KeyStore Explorer | `5.7.1` | x64 | ❌ | en-US |
-| 540 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.14.2` | x64 | ❌ | en-US |
+| 540 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.14.3` | x64 | ❌ | en-US |
 | 541 | Karakun | OpenWebStart | OpenWebStart (x64) | `1.14.1` | x64 | ❌ | en-US |
 | 542 | KeePassXC | KeePassXC | KeePassXC (x64) | `2.8.0` | x64 | ✅ | en-US |
 | 543 | Keeper | Keeper | Keeper | `18.6.6.0` | x86,x64 | ✅ | en-US |
@@ -558,9 +558,9 @@
 | 550 | KPN | HIPIN v4 | HIPIN v4 | `4.7.0.9749` | x64 | ❌ | en-US |
 | 551 | KPN | KPN Desktop Integratie | KPN Desktop Integratie | `4.7.0.9749` | x64 | ❌ | nl |
 | 552 | Krisp | Krisp | Krisp 2.x | `2.57.13` | x64 | ❌ | en-US |
-| 553 | Krisp | Krisp | Krisp 3.x | `3.19.7` | x64 | ❌ | en-US |
+| 553 | Krisp | Krisp | Krisp 3.x | `3.20.5` | x64 | ❌ | en-US |
 | 554 | Krisp | Krisp | Krisp 1.x (Legacy) | `1.52.5` | x64 | ❌ | en-US |
-| 555 | Krita Foundation | Krita | Krita (x64) | `5.3.4.1` | x64 | ❌ | en-US |
+| 555 | Krita Foundation | Krita | Krita (x64) | `5.3.5` | x64 | ❌ | en-US |
 | 556 | KUBUS BV | BCF Manager for Tekla | BCF Manager for Tekla | `6.2.16` | x64 | ❌ | en-US |
 | 557 | Lansweeper | Lansweeper | Lansweeper | `13.1.0.5` | x86,x64 | ❌ | en-US |
 | 558 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool | `7.48.9` | x86,x64 | ❌ | en-US |
@@ -678,17 +678,17 @@
 | 670 | Microsoft | Microsoft Edge WebView2 Runtime | Microsoft Edge WebView2 Runtime (x64) | `152.0.4191.66` | x64 | ❌ | en-US |
 | 671 | Microsoft | Microsoft Enterprise Mode Site List Manager | Enterprise Mode Site List Manager | `12.0.0.0` | x86,x64 | ❌ | en-US |
 | 672 | Microsoft | Microsoft ODBC Driver 13 for SQL Server | Microsoft ODBC Driver 13 for SQL Server (x64) | `13.1.4414.46` | x64 | ❌ | en-US |
-| 673 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Korean) (x64) | `17.12.1.1` | x64 | ❌ | ko-KR |
-| 674 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Chinese Traditional) (x64) | `17.12.1.1` | x64 | ❌ | zh-TW |
+| 673 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (French) (x64) | `17.12.1.1` | x64 | ❌ | fr-FR |
+| 674 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Korean) (x64) | `17.12.1.1` | x64 | ❌ | ko-KR |
 | 675 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Spanish) (x64) | `17.12.1.1` | x64 | ❌ | es-ES |
-| 676 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Italian) (x64) | `17.12.1.1` | x64 | ❌ | it-IT |
-| 677 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Portuguese Brazil) (x64) | `17.12.1.1` | x64 | ❌ | pt-BR |
-| 678 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (English) (x64) | `17.12.1.1` | x64 | ❌ | en-US |
+| 676 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (English) (x64) | `17.12.1.1` | x64 | ❌ | en-US |
+| 677 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Italian) (x64) | `17.12.1.1` | x64 | ❌ | it-IT |
+| 678 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Portuguese Brazil) (x64) | `17.12.1.1` | x64 | ❌ | pt-BR |
 | 679 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Russian) (x64) | `17.12.1.1` | x64 | ❌ | ru-RU |
-| 680 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Chinese Simplified) (x64) | `17.12.1.1` | x64 | ❌ | zh-CN |
-| 681 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Japanese) (x64) | `17.12.1.1` | x64 | ❌ | ja-JP |
-| 682 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (French) (x64) | `17.12.1.1` | x64 | ❌ | fr-FR |
-| 683 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (German) (x64) | `17.12.1.1` | x64 | ❌ | de-DE |
+| 680 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Japanese) (x64) | `17.12.1.1` | x64 | ❌ | ja-JP |
+| 681 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Chinese Simplified) (x64) | `17.12.1.1` | x64 | ❌ | zh-CN |
+| 682 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (German) (x64) | `17.12.1.1` | x64 | ❌ | de-DE |
+| 683 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Chinese Traditional) (x64) | `17.12.1.1` | x64 | ❌ | zh-TW |
 | 684 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Polish) (x64) | `18.7.1.1` | x64 | ❌ | pl-PL |
 | 685 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Portuguese Brazil) (x64) | `18.7.1.1` | x64 | ❌ | pt-BR |
 | 686 | Microsoft | Microsoft ODBC Driver 18 for SQL Server | Microsoft ODBC Driver 18 for SQL Server (Chinese Traditional) (x64) | `18.7.1.1` | x64 | ❌ | zh-TW |
@@ -784,14 +784,14 @@
 | 776 | Microsoft | Microsoft Visual Studio 2022 Enterprise | Microsoft Visual Studio 2022 Enterprise (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
 | 777 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.8) | `17.8.36227.8` | x64 | ❌ | en-US |
 | 778 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.6) | `17.6.35707.66` | x64 | ❌ | en-US |
-| 779 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37906.3` | x64 | ❌ | en-US |
-| 780 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
-| 781 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
-| 782 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
-| 783 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
+| 779 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.4) | `17.4.35026.314` | x64 | ❌ | en-US |
+| 780 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.0) | `17.0.33829.163` | x64 | ❌ | en-US |
+| 781 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.10) | `17.10.36428.16` | x64 | ❌ | en-US |
+| 782 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.12) | `17.12.37502.7` | x64 | ❌ | en-US |
+| 783 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (Current) | `17.14.37906.3` | x64 | ❌ | en-US |
 | 784 | Microsoft | Microsoft Visual Studio 2022 Professional | Microsoft Visual Studio 2022 Professional (LTSC 17.2) | `17.2.34408.132` | x64 | ❌ | en-US |
 | 785 | Microsoft | Microsoft Visual Studio 2026 Professional | Microsoft Visual Studio 2026 Professional (Current) | `18.12.12412.261` | x64 | ❌ | en-US |
-| 786 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.147.0` | x64 | ✅ | en-US |
+| 786 | Microsoft | Microsoft Visual Studio Code | Visual Studio Code (System Installer) (x64) | `1.148.0` | x64 | ✅ | en-US |
 | 787 | Microsoft | Microsoft Visual Studio Team Explorer 2022 | Microsoft Visual Studio Team Explorer 2022 | `17.14.37906.3` | x64 | ❌ | en-US |
 | 788 | Microsoft | Microsoft Windows Admin Center | Windows Admin Center | `1.5.24289.0` | x64 | ❌ | en-US |
 | 789 | Microsoft | Microsoft Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | Windows Assessment and Deployment Kit (ADK) for Windows 10 update 1607 | `10.1.14393.0` | x86,x64 | ❌ | en-US |
@@ -808,8 +808,8 @@
 | 800 | Microsoft | Microsoft Windows PE add-on for ADK for Windows 11 | Windows PE add-on for ADK for Windows 11 22H2 | `10.1.25398.1` | x86,x64 | ❌ | en-US |
 | 801 | Microsoft | Microsoft Windows PE add-on for ADK for Windows 11 | Windows PE add-on for ADK for Windows 11 | `10.1.22000.1` | x86,x64 | ❌ | en-US |
 | 802 | Microsoft | MSIX Core | MSIX Core (x64) | `1.2.0.0` | x64 | ❌ | en-US |
-| 803 | Microsoft | OpenJDK | OpenJDK 21 (x64) | `21.0.13.1` | x64 | ❌ | en-US |
-| 804 | Microsoft | OpenJDK | OpenJDK 25 (x64) | `25.0.5.1` | x64 | ❌ | en-US |
+| 803 | Microsoft | OpenJDK | OpenJDK 25 (x64) | `25.0.5.1` | x64 | ❌ | en-US |
+| 804 | Microsoft | OpenJDK | OpenJDK 21 (x64) | `21.0.13.1` | x64 | ❌ | en-US |
 | 805 | Microsoft | OpenJDK 11 | OpenJDK 11 (x64) | `11.0.33.101` | x64 | ❌ | en-US |
 | 806 | Microsoft | OpenJDK 16 | OpenJDK 16 (x64) | `16.0.2.7` | x64 | ❌ | en-US |
 | 807 | Microsoft | OpenJDK 17 | OpenJDK 17 (x64) | `17.0.21.1` | x64 | ❌ | en-US |
@@ -831,40 +831,40 @@
 | 823 | Mozilla | Mozilla Firefox | Firefox (Russian) (x64) | `161.0` | x64 | ✅ | ru |
 | 824 | Mozilla | Mozilla Firefox | Firefox (Slovenian) (x64) | `161.0` | x64 | ✅ | sl |
 | 825 | Mozilla | Mozilla Firefox | Firefox (Portuguese Brazilian) (x64) | `161.0` | x64 | ✅ | pt-BR |
-| 826 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `161.0` | x64 | ✅ | gl |
-| 827 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `161.0` | x64 | ✅ | zh-CN |
+| 826 | Mozilla | Mozilla Firefox | Firefox (Chinese Simplified) (x64) | `161.0` | x64 | ✅ | zh-CN |
+| 827 | Mozilla | Mozilla Firefox | Firefox (Galician) (x64) | `161.0` | x64 | ✅ | gl |
 | 828 | Mozilla | Mozilla Firefox | Firefox (French) (x64) | `161.0` | x64 | ✅ | fr |
 | 829 | Mozilla | Mozilla Firefox | Firefox (Indonesian) (x64) | `161.0` | x64 | ✅ | id |
-| 830 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `161.0` | x64 | ✅ | ar |
-| 831 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `161.0` | x64 | ✅ | sk |
+| 830 | Mozilla | Mozilla Firefox | Firefox (Slovak) (x64) | `161.0` | x64 | ✅ | sk |
+| 831 | Mozilla | Mozilla Firefox | Firefox (Arabic) (x64) | `161.0` | x64 | ✅ | ar |
 | 832 | Mozilla | Mozilla Firefox | Firefox (Polish) (x64) | `161.0` | x64 | ✅ | pl |
 | 833 | Mozilla | Mozilla Firefox | Firefox (Turkish) (x64) | `161.0` | x64 | ✅ | tr |
 | 834 | Mozilla | Mozilla Firefox | Firefox (Thai) (x64) | `161.0` | x64 | ✅ | th |
 | 835 | Mozilla | Mozilla Firefox | Firefox (Czech) (x64) | `161.0` | x64 | ✅ | cs |
-| 836 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `161.0` | x64 | ✅ | he |
-| 837 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `161.0` | x64 | ✅ | nl |
-| 838 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `161.0` | x64 | ✅ | el |
-| 839 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `161.0` | x64 | ✅ | ja |
-| 840 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `161.0` | x64 | ✅ | de |
-| 841 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `161.0` | x64 | ✅ | et |
-| 842 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `161.0` | x64 | ✅ | bg |
-| 843 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `161.0` | x64 | ✅ | vi |
-| 844 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `161.0` | x64 | ✅ | pt-PT |
-| 845 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `161.0` | x64 | ✅ | it |
-| 846 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `161.0` | x64 | ✅ | hi-IN |
-| 847 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `161.0` | x64 | ✅ | sv-SE |
-| 848 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `161.0` | x64 | ✅ | en-US |
-| 849 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `161.0` | x64 | ✅ | hu |
-| 850 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `161.0` | x64 | ✅ | af |
+| 836 | Mozilla | Mozilla Firefox | Firefox (Bulgarian) (x64) | `161.0` | x64 | ✅ | bg |
+| 837 | Mozilla | Mozilla Firefox | Firefox (Hebrew) (x64) | `161.0` | x64 | ✅ | he |
+| 838 | Mozilla | Mozilla Firefox | Firefox (Dutch) (x64) | `161.0` | x64 | ✅ | nl |
+| 839 | Mozilla | Mozilla Firefox | Firefox (Greek) (x64) | `161.0` | x64 | ✅ | el |
+| 840 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `161.0` | x64 | ✅ | zh-TW |
+| 841 | Mozilla | Mozilla Firefox | Firefox (Japanese) (x64) | `161.0` | x64 | ✅ | ja |
+| 842 | Mozilla | Mozilla Firefox | Firefox (German) (x64) | `161.0` | x64 | ✅ | de |
+| 843 | Mozilla | Mozilla Firefox | Firefox (Estonian) (x64) | `161.0` | x64 | ✅ | et |
+| 844 | Mozilla | Mozilla Firefox | Firefox (Vietnamese) (x64) | `161.0` | x64 | ✅ | vi |
+| 845 | Mozilla | Mozilla Firefox | Firefox (Portuguese) (x64) | `161.0` | x64 | ✅ | pt-PT |
+| 846 | Mozilla | Mozilla Firefox | Firefox (Italian) (x64) | `161.0` | x64 | ✅ | it |
+| 847 | Mozilla | Mozilla Firefox | Firefox (Hindi) (x64) | `161.0` | x64 | ✅ | hi-IN |
+| 848 | Mozilla | Mozilla Firefox | Firefox (Swedish) (x64) | `161.0` | x64 | ✅ | sv-SE |
+| 849 | Mozilla | Mozilla Firefox | Firefox (English US) (x64) | `161.0` | x64 | ✅ | en-US |
+| 850 | Mozilla | Mozilla Firefox | Firefox (Hungarian) (x64) | `161.0` | x64 | ✅ | hu |
 | 851 | Mozilla | Mozilla Firefox | Firefox (Finnish) (x64) | `161.0` | x64 | ✅ | fi |
-| 852 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `161.0` | x64 | ✅ | da |
-| 853 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `161.0` | x64 | ✅ | uk |
-| 854 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `161.0` | x64 | ✅ | eu |
-| 855 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `161.0` | x64 | ✅ | ro |
-| 856 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `161.0` | x64 | ✅ | es-MX |
-| 857 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `161.0` | x64 | ✅ | lv |
-| 858 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `161.0` | x64 | ✅ | lt |
-| 859 | Mozilla | Mozilla Firefox | Firefox (Chinese Traditional) (x64) | `161.0` | x64 | ✅ | zh-TW |
+| 852 | Mozilla | Mozilla Firefox | Firefox (Basque) (x64) | `161.0` | x64 | ✅ | eu |
+| 853 | Mozilla | Mozilla Firefox | Firefox (Danish) (x64) | `161.0` | x64 | ✅ | da |
+| 854 | Mozilla | Mozilla Firefox | Firefox (African) (x64) | `161.0` | x64 | ✅ | af |
+| 855 | Mozilla | Mozilla Firefox | Firefox (Ukrainian) (x64) | `161.0` | x64 | ✅ | uk |
+| 856 | Mozilla | Mozilla Firefox | Firefox (Romanian) (x64) | `161.0` | x64 | ✅ | ro |
+| 857 | Mozilla | Mozilla Firefox | Firefox (Spanish Mexico) (x64) | `161.0` | x64 | ✅ | es-MX |
+| 858 | Mozilla | Mozilla Firefox | Firefox (Latvian) (x64) | `161.0` | x64 | ✅ | lv |
+| 859 | Mozilla | Mozilla Firefox | Firefox (Lithuanian) (x64) | `161.0` | x64 | ✅ | lt |
 | 860 | Mozilla | Mozilla Firefox | Firefox (Norwegian Nynorsk) (x64) | `161.0` | x64 | ✅ | nn-NO |
 | 861 | Mozilla | Mozilla Firefox | Firefox (Serbian) (x64) | `161.0` | x64 | ✅ | sr |
 | 862 | Mozilla | Mozilla Firefox | Firefox (Korean) (x64) | `161.0` | x64 | ✅ | ko |
@@ -922,40 +922,40 @@
 | 914 | Mozilla | Mozilla Firefox ESR 102 | Firefox ESR 102 (French) (x64) | `102.15.1` | x64 | ✅ | fr |
 | 915 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Korean) (x64) | `115.46.0` | x64 | ✅ | ko |
 | 916 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Greek) (x64) | `115.46.0` | x64 | ✅ | el |
-| 917 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Dutch) (x64) | `115.46.0` | x64 | ✅ | nl |
+| 917 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English UK) (x64) | `115.46.0` | x64 | ✅ | en-GB |
 | 918 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hindi) (x64) | `115.46.0` | x64 | ✅ | hi-IN |
 | 919 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Turkish) (x64) | `115.46.0` | x64 | ✅ | tr |
-| 920 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Simplified) (x64) | `115.46.0` | x64 | ✅ | zh-CN |
+| 920 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Danish) (x64) | `115.46.0` | x64 | ✅ | da |
 | 921 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Swedish) (x64) | `115.46.0` | x64 | ✅ | sv-SE |
-| 922 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Croatian) (x64) | `115.46.0` | x64 | ✅ | hr |
-| 923 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (African) (x64) | `115.46.0` | x64 | ✅ | af |
-| 924 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Ukrainian) (x64) | `115.46.0` | x64 | ✅ | uk |
-| 925 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Russian) (x64) | `115.46.0` | x64 | ✅ | ru |
-| 926 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Basque) (x64) | `115.46.0` | x64 | ✅ | eu |
-| 927 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Thai) (x64) | `115.46.0` | x64 | ✅ | th |
-| 928 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Traditional) (x64) | `115.46.0` | x64 | ✅ | zh-TW |
-| 929 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish) (x64) | `115.46.0` | x64 | ✅ | es-ES |
-| 930 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese) (x64) | `115.46.0` | x64 | ✅ | pt-PT |
-| 931 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Finnish) (x64) | `115.46.0` | x64 | ✅ | fi |
+| 922 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Ukrainian) (x64) | `115.46.0` | x64 | ✅ | uk |
+| 923 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Russian) (x64) | `115.46.0` | x64 | ✅ | ru |
+| 924 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Basque) (x64) | `115.46.0` | x64 | ✅ | eu |
+| 925 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Dutch) (x64) | `115.46.0` | x64 | ✅ | nl |
+| 926 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Thai) (x64) | `115.46.0` | x64 | ✅ | th |
+| 927 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Czech) (x64) | `115.46.0` | x64 | ✅ | cs |
+| 928 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish) (x64) | `115.46.0` | x64 | ✅ | es-ES |
+| 929 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese) (x64) | `115.46.0` | x64 | ✅ | pt-PT |
+| 930 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Finnish) (x64) | `115.46.0` | x64 | ✅ | fi |
+| 931 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Traditional) (x64) | `115.46.0` | x64 | ✅ | zh-TW |
 | 932 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Romanian) (x64) | `115.46.0` | x64 | ✅ | ro |
-| 933 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English US) (x64) | `115.46.0` | x64 | ✅ | en-US |
-| 934 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Latvian) (x64) | `115.46.0` | x64 | ✅ | lv |
-| 935 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Galician) (x64) | `115.46.0` | x64 | ✅ | gl |
-| 936 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese Brazilian) (x64) | `115.46.0` | x64 | ✅ | pt-BR |
-| 937 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (German) (x64) | `115.46.0` | x64 | ✅ | de |
-| 938 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Japanese) (x64) | `115.46.0` | x64 | ✅ | ja |
-| 939 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Arabic) (x64) | `115.46.0` | x64 | ✅ | ar |
-| 940 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Vietnamese) (x64) | `115.46.0` | x64 | ✅ | vi |
-| 941 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Polish) (x64) | `115.46.0` | x64 | ✅ | pl |
-| 942 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Czech) (x64) | `115.46.0` | x64 | ✅ | cs |
-| 943 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Lithuanian) (x64) | `115.46.0` | x64 | ✅ | lt |
-| 944 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hebrew) (x64) | `115.46.0` | x64 | ✅ | he |
-| 945 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English UK) (x64) | `115.46.0` | x64 | ✅ | en-GB |
-| 946 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Norwegian Nynorsk) (x64) | `115.46.0` | x64 | ✅ | nn-NO |
-| 947 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish Mexico) (x64) | `115.46.0` | x64 | ✅ | es-MX |
-| 948 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Danish) (x64) | `115.46.0` | x64 | ✅ | da |
-| 949 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Bulgarian) (x64) | `115.46.0` | x64 | ✅ | bg |
-| 950 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovenian) (x64) | `115.46.0` | x64 | ✅ | sl |
+| 933 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (African) (x64) | `115.46.0` | x64 | ✅ | af |
+| 934 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (English US) (x64) | `115.46.0` | x64 | ✅ | en-US |
+| 935 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Latvian) (x64) | `115.46.0` | x64 | ✅ | lv |
+| 936 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Galician) (x64) | `115.46.0` | x64 | ✅ | gl |
+| 937 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Portuguese Brazilian) (x64) | `115.46.0` | x64 | ✅ | pt-BR |
+| 938 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (German) (x64) | `115.46.0` | x64 | ✅ | de |
+| 939 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Croatian) (x64) | `115.46.0` | x64 | ✅ | hr |
+| 940 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Japanese) (x64) | `115.46.0` | x64 | ✅ | ja |
+| 941 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Vietnamese) (x64) | `115.46.0` | x64 | ✅ | vi |
+| 942 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Chinese Simplified) (x64) | `115.46.0` | x64 | ✅ | zh-CN |
+| 943 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Polish) (x64) | `115.46.0` | x64 | ✅ | pl |
+| 944 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Lithuanian) (x64) | `115.46.0` | x64 | ✅ | lt |
+| 945 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Hebrew) (x64) | `115.46.0` | x64 | ✅ | he |
+| 946 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Bulgarian) (x64) | `115.46.0` | x64 | ✅ | bg |
+| 947 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Norwegian Nynorsk) (x64) | `115.46.0` | x64 | ✅ | nn-NO |
+| 948 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Spanish Mexico) (x64) | `115.46.0` | x64 | ✅ | es-MX |
+| 949 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovenian) (x64) | `115.46.0` | x64 | ✅ | sl |
+| 950 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Arabic) (x64) | `115.46.0` | x64 | ✅ | ar |
 | 951 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Indonesian) (x64) | `115.46.0` | x64 | ✅ | id |
 | 952 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Estonian) (x64) | `115.46.0` | x64 | ✅ | et |
 | 953 | Mozilla | Mozilla Firefox ESR 115 | Firefox ESR 115 (Slovak) (x64) | `115.46.0` | x64 | ✅ | sk |
@@ -1174,11 +1174,11 @@
 | 1166 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 18.2 | `18.2.6.46458` | x64 | ❌ | en-US |
 | 1167 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 21.2 | `21.2.14.68865` | x64 | ❌ | en-US |
 | 1168 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 22.1 | `22.1.5.68858` | x64 | ❌ | en-US |
-| 1169 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 26.0 | `26.0.7.77024` | x64 | ❌ | en-US |
-| 1170 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 18.3 | `18.3.8.48907` | x64 | ❌ | en-US |
-| 1171 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 20.0 | `20.0.4.55452` | x64 | ❌ | en-US |
-| 1172 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 24.1 | `24.1.11.76721` | x64 | ❌ | en-US |
-| 1173 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 25.0 | `25.0.13.76605` | x64 | ❌ | en-US |
+| 1169 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 18.3 | `18.3.8.48907` | x64 | ❌ | en-US |
+| 1170 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 20.0 | `20.0.4.55452` | x64 | ❌ | en-US |
+| 1171 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 24.1 | `24.1.11.76721` | x64 | ❌ | en-US |
+| 1172 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 25.0 | `25.0.13.76605` | x64 | ❌ | en-US |
+| 1173 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 26.0 | `26.0.7.77046` | x64 | ❌ | en-US |
 | 1174 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 20.1 | `20.1.10.68867` | x64 | ❌ | en-US |
 | 1175 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 19.2 | `19.2.7.62200` | x64 | ❌ | en-US |
 | 1176 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 24.0 | `24.1.5.71849` | x64 | ❌ | en-US |
@@ -1526,8 +1526,8 @@
 | 1518 | Viewer Central | Project Viewer 365 | Project Viewer 365 | `26.12.1292` | x86,x64 | ❌ | en-US |
 | 1519 | Vijua | Kotobee Author | Kotobee Author (x64) | `1.9.9` | x64 | ❌ | en-US |
 | 1520 | Vijua | Kotobee Reader | Kotobee Reader | `1.9.9` | x86,x64 | ❌ | en-US |
-| 1521 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1393` | x64 | ❌ | en-US |
-| 1522 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1373` | x64 | ❌ | en-US |
+| 1521 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1409` | x64 | ❌ | en-US |
+| 1522 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1409` | x64 | ❌ | en-US |
 | 1523 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.1.0.0` | x64 | ❌ | en-US |
 | 1524 | VMware | VMware Horizon Client 2006 | VMware Horizon Client 2006 (x64) | `8.0.0.16531419` | x64 | ❌ | en-US |
 | 1525 | VMware | VMware Horizon Client 2012 | VMware Horizon Client 2012 (x64) | `8.1.0.17349995` | x64 | ❌ | en-US |
