@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261126_211949_AppCatalog.json` (exported 2026-11-26 21:19:49)  
-> **Generated:** 2026-11-26 21:20 UTC  
+> **Source:** `20261127_075459_AppCatalog.json` (exported 2026-11-27 07:54:59)  
+> **Generated:** 2026-11-27 07:55 UTC  
 > **Total:** 1,601 packages · 934 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -573,7 +573,7 @@
 | 565 | Lenovo Software | ThinkPad TrackPoint Keyboard II Software | ThinkPad TrackPoint Keyboard II Software | `1.0.8.6241` | x86,x64 | ❌ | en-US |
 | 566 | Lifelong Kindergarten Group | Lifelong Kindergarten Group Scratch | Scratch | `3.29.1` | x86,x64 | ❌ | en-US |
 | 567 | LINQPad | LINQPad 5 | LINQPad 5 | `5.52.1` | x86,x64 | ❌ | en-US |
-| 568 | LiquidFiles Pty Ltd | LiquidFiles Outlook Plugin | LiquidFiles Outlook Plugin (Admin) | `3.0.51` | x86,x64 | ❌ | en-US |
+| 568 | LiquidFiles Pty Ltd | LiquidFiles Outlook Plugin | LiquidFiles Outlook Plugin (Admin) | `3.0.57` | x86,x64 | ❌ | en-US |
 | 569 | LiquidFiles Pty Ltd | LiquidFiles Outlook Plugin | LiquidFiles Outlook Plugin (User) | `3.0.51` | x86,x64 | ❌ | en-US |
 | 570 | Liquit Software B.V. | Liquit Workspace Agent 3 | Liquit Workspace Agent 3 | `3.10.3573.5871` | x86,x64 | ❌ | en-US |
 | 571 | loft | DevPod | DevPod | `0.6.15` | x64 | ❌ | en-US |
@@ -1559,7 +1559,7 @@
 | 1551 | Wibu Systems | CodeMeter Runtime Kit | CodeMeter Runtime Kit | `9.10.8166.500` | x64 | ✅ | en-US |
 | 1552 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.5.458` | x64 | ❌ | en-US |
 | 1553 | Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.5.458` | x64 | ❌ | en-US |
-| 1554 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.6.0` | x86,x64 | ❌ | en-US |
+| 1554 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.7.0` | x86,x64 | ❌ | en-US |
 | 1555 | WinDirStat Team | WinDirStat | WinDirStat (x64) | `2.2.2` | x64 | ❌ | en-US |
 | 1556 | WireGuard LLC | WireGuard | WireGuard (x64) | `1.1.1` | x64 | ❌ | en-US |
 | 1557 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.10` | x64 | ❌ | en-US |
@@ -1568,7 +1568,7 @@
 | 1560 | Wireshark Foundation | Wireshark | Wireshark 4.7 (x64) (MSI) | `4.7.4` | x64 | ❌ | en-US |
 | 1561 | WiX Toolset | WiX Toolset 3 | WiX Toolset 3 | `3.14` | x86,x64 | ❌ | en-US |
 | 1562 | Wonder Unit Inc. | Storyboarder | Storyboarder | `3.0.0` | x64 | ❌ | en-US |
-| 1563 | Wrike.com | Wrike | Wrike (x64) | `4.6.2.3052` | x64 | ❌ | en-US |
+| 1563 | Wrike.com | Wrike | Wrike (x64) | `4.6.3.3073` | x64 | ❌ | en-US |
 | 1564 | Xamarin, Inc. | Xamarin Mono | Mono (x64) | `6.12.0.182` | x64 | ❌ | en-US |
 | 1565 | Xink | Xink Client AD | Xink Client AD | `3.2.41` | x86,x64 | ❌ | en-US |
 | 1566 | XK72 Ltd | Charles | Charles 4 (x64) | `4.6.8.0` | x64 | ❌ | en-US |
@@ -1584,7 +1584,7 @@
 | 1576 | Yubico AB | Yubico Authenticator | Yubico Authenticator | `7.4.2` | x64 | ❌ | en-US |
 | 1577 | Yubico AB | Yubico PIV Tool | Yubico PIV Tool (x64) | `2.7.3` | x64 | ❌ | en-US |
 | 1578 | Yubico AB | YubiKey Manager CLI | YubiKey Manager CLI | `5.9.2` | x64 | ❌ | en-US |
-| 1579 | Zandar Labs SL | Aptakube | Aptakube | `1.23.0` | x64 | ❌ | en-US |
+| 1579 | Zandar Labs SL | Aptakube | Aptakube | `1.23.1` | x64 | ❌ | en-US |
 | 1580 | Zello Inc. | Zello | Zello | `18.7.0.0` | x64 | ❌ | en-US |
 | 1581 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 5 | `5.7.18` | x86,x64 | ❌ | en-US |
 | 1582 | ZIVVER B.V. | Zivver Office Plugin | Zivver Office Plugin 6 | `6.21.2` | x86,x64 | ❌ | en-US |

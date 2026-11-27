@@ -1,35 +1,32 @@
 # Catalog Changes — Weekly (≥7 days apart)
 
-> **Comparing:** `20261126_211949_AppCatalog.json` (exported 2026-11-26 21:19:49)  
-> **vs:** `20261119_202446_AppCatalog.json` (exported 2026-11-19 20:24:46)  
+> **Comparing:** `20261127_075459_AppCatalog.json` (exported 2026-11-27 07:54:59)  
+> **vs:** `20261120_065028_AppCatalog.json` (exported 2026-11-20 06:50:28)  
 > **Span:** 7 days between exports  
-> **Generated:** 2026-11-26 21:20 UTC
+> **Generated:** 2026-11-27 07:55 UTC
 
 ## Summary
 
 | Change | Count |
 |--------|------:|
-| ✅ Added | 4 |
+| ✅ Added | 2 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 207 |
-| 🧩 Repackaged | 1 |
+| 🔄 Updated | 201 |
+| 🧩 Repackaged | 2 |
 
-> 90 further packages got a new package id with no change to the catalog entry or the deployment details.
+> 91 further packages got a new package id with no change to the catalog entry or the deployment details.
 
-## ✅ Added (4 packages)
+## ✅ Added (2 packages)
 
 | Publisher | App | Branch | Version | Architecture |
 |-----------|-----|--------|---------|:------------:|
-| Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR 25 | `25.7.3001.2` | x86,x64 |
-| Citrix | Citrix Workspace app LTSR | Citrix Workspace app LTSR 26 | `26.7.1.4` | x86,x64 |
 | JetBrains | JetBrains dotUltimate 2023 | dotUltimate 2023.1 | `2023.1.7` | x86,x64 |
 | Mendix Technology B.V. | Mendix Studio Pro 9 | Mendix Studio Pro 9.20 | `9.20.0.58427` | x64 |
 
-## 🔄 Updated (207 packages)
+## 🔄 Updated (201 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
-| Akiflow | Akiflow | Akiflow | `2.85.5` | `2.86.9` | Version |
 | Amazon | Amazon AWS VPN Client | AWS VPN Client | `6.2.2` | `6.3.1` | Version |
 | Amazon | AWS SAM command line interface | AWS SAM command line interface | `1.173.0` | `1.174.1` | Version |
 | Amazon Web Services, Inc | Amazon Redshift ODBC driver | Amazon Redshift ODBC driver | `2.3.0.0` | `2.3.1.0` | Version |
@@ -45,12 +42,11 @@
 | Citrix | Citrix Workspace app | Citrix Workspace app (Neutral) | `26.3.11.10` | `26.3.20.31` | Version |
 | Cloud Software Group, Inc. | XenCenter | XenCenter | `2026.6.0` | `2026.7.0` | Version |
 | CoolUtils | Mail Viewer | Mail Viewer | `7.1.9810.22348` | `7.1.9825.30388` | Version |
-| Datadog | Datadog Agent | Datadog Agent | `7.85.4` | `7.86.0` | Version |
+| Datadog | Datadog Agent | Datadog Agent | `7.85.5` | `7.86.0` | Version |
 | DBeaver Corp | DBeaver Community | DBeaver Community (x64) | `26.2.5` | `26.2.5.2` | Version |
 | DBeaver Corp | DBeaver Enterprise | DBeaver Enterprise (x64) | `26.2.0.1` | `26.2.0.3` | Version |
 | DBeaver Corp | DBeaver Lite | DBeaver Lite (x64) | `26.2.0.1` | `26.2.0.3` | Version |
 | DBeaver Corp | DBeaver Ultimate | DBeaver Ultimate (x64) | `26.2.0.1` | `26.2.0.3` | Version |
-| DbVis Software AB | DbVisualizer | DbVisualizer with Java (x64) | `26.2.5` | `26.3` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (EXE) | `2026.3.18.0` | `2027.1.1.0` | Version |
 | Devolutions inc | Devolutions Launcher | Devolutions Launcher (MSI) | `2027.1.0.0` | `2026.3.19.0` | Version |
 | Devolutions inc | Devolutions Remote Desktop Manager | Remote Desktop Manager (x64) | `2027.1.0.0` | `2026.3.19.0` | Version |
@@ -58,7 +54,6 @@
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 17 (LTS) | Eclipse Temurin JDK with Hotspot 17 (LTS) (x64) | `17.0.21.9` | `17.0.21.102` | Version |
 | Eclipse Foundation | Eclipse Temurin JDK with Hotspot 21 | Eclipse Temurin JDK with Hotspot 21 (LTS) (x64) | `21.0.13.9` | `21.0.13.102` | Version |
 | Eclipse Foundation | Eclipse Temurin JRE with Hotspot 17 (LTS) | Eclipse Temurin JRE with Hotspot 17 (LTS) (x64) | `17.0.21.9` | `17.0.21.102` | Version |
-| Egnyte, Inc. | Egnyte Connect Desktop App | Egnyte Connect Desktop App | `4.8.2.212` | `4.9.0.213` | Version |
 | ej-technologies GmbH | Install4j | Install4j (x64) | `13.1.3` | `13.2` | Version |
 | Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 8 | `8.19.25` | `8.19.26` | Version |
 | Elasticsearch B.V. | Beats Winlogbeat | Beats Winlogbeat 9 | `9.5.6` | `9.5.7` | Version |
@@ -68,10 +63,10 @@
 | GitHub, Inc. | GitHub CLI | GitHub CLI (x64) | `2.105.0` | `2.106.0` | Version |
 | GN Audio AS | Jabra Direct | Jabra Direct | `8.4.30601` | `8.5.32302` | Version |
 | Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | `2.51.1839` | Version |
-| Google LLC | Google Chrome | Google Chrome (x64) (msi) | `157.0.8103.79` | `158.0.8127.89` | Version |
+| Google LLC | Google Chrome | Google Chrome (x64) (msi) | `158.0.8127.37` | `158.0.8127.89` | Version |
 | GSL Biotech LLC | SnapGene Viewer | SnapGene Viewer | `9.0.0` | `9.0.1` | Version |
 | Iniciativas Informáticas y de Comunicación | Air Explorer | Air Explorer | `5.11.0.0` | `6.0.0.0` | Version |
-| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.21.0` | `2.11.25.0` | Version |
+| Inknoe | ClassPoint | ClassPoint (x64) | `2.11.22.0` | `2.11.25.0` | Version |
 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.933.1` | `5.4.937.0` | Version |
 | International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.936.0` | `6.0.937.0` | Version |
 | Intevation GmbH | Gpg4win | Gpg4win | `5.1.1.54555` | `5.1.2.29656` | Version |
@@ -97,9 +92,10 @@
 | Krisp | Krisp | Krisp 3.x | `3.19.7` | `3.20.5` | Version |
 | Krita Foundation | Krita | Krita (x64) | `5.3.4.1` | `5.3.5` | Version |
 | Lark Technologies Pte. Ltd. | Lark Deployment Tool | Lark Deployment Tool (x64) | `8.5.12` | `8.7.16` | Version |
+| LiquidFiles Pty Ltd | LiquidFiles Outlook Plugin | LiquidFiles Outlook Plugin (Admin) | `3.0.51` | `3.0.57` | Version |
 | Microsoft | Azure Functions Core Tools | Azure Functions Core Tools (x64) | `4.16.1` | `4.17.0` | Version |
 | Microsoft | Microsoft Edge Beta | Microsoft Edge Beta (x64) | `158.0.4370.26` | `159.0.4402.13` | Version |
-| Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `159.0.4393.0` | `160.0.4416.0` | Version |
+| Microsoft | Microsoft Edge Dev | Microsoft Edge Dev (x64) | `160.0.4408.0` | `160.0.4416.0` | Version |
 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Chinese Simplified) (x64) | `17.11.1.1` | `17.12.1.1` | Version |
 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (Chinese Traditional) (x64) | `17.11.1.1` | `17.12.1.1` | Version |
 | Microsoft | Microsoft ODBC Driver 17 for SQL Server | Microsoft ODBC Driver 17 for SQL Server (English) (x64) | `17.11.1.1` | `17.12.1.1` | Version |
@@ -215,7 +211,6 @@
 | NGWIN | PicPick | PicPick | `7.6.2` | `7.7.0` | Version |
 | ocenaudio | ocenaudio | ocenaudio | `3.22.2` | `3.22.3` | Version |
 | openaudible.org | OpenAudible | OpenAudible | `5.2` | `5.3` | Version |
-| OpenVPN Technologies, Inc. | OpenVPN | OpenVPN (x64) | `2.7.901` | `2.7.902` | Version |
 | Oracle | Oracle Java Runtime Environment Version 8 | Java Runtime Environment Version 8 CPU (x86) | `8.0.5110.33` | `8.0.5130.04` | Version |
 | PaperCut Software Pty Ltd | PaperCut MF | PaperCut MF 26.0 | `26.0.6.76873` | `26.0.7.77045` | Version |
 | PaperCut Software Pty Ltd | PaperCut NG | PaperCut NG 26.0 | `26.0.6.76874` | `26.0.7.77046` | Version |
@@ -223,25 +218,23 @@
 | Sejda BV | Sejda PDF Desktop | Sejda PDF Desktop (x64) | `7.9.12` | `7.10.2` | Version |
 | SmartBear Software | SoapUI | SoapUI (x64) | `5.10.0` | `5.10.1` | Version |
 | SmartSoft Ltd | SmartFTP Client | SmartFTP Client (x64) | `10.0.3334.0` | `10.0.3335.0` | Version |
-| Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.10` | `6.0.11` | Version |
-| Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.2.0` | `7.2.1` | Version |
 | SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.5.1` | `2.5.2` | Version |
 | Softland | Softland doPDF | doPDF | `11.9.532` | `11.9.534` | Version |
 | The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.3.1` | `3.3.2` | Version |
 | typora.io | Typora | Typora (x64) | `1.14.10` | `1.14.17` | Version |
-| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1345` | `9.2.1409` | Version |
-| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1364` | `9.2.1409` | Version |
+| Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1373` | `9.2.1409` | Version |
+| Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1373` | `9.2.1409` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.8` | `6.7.9` | Version |
 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.10` | `4.14.11` | Version |
-| Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.4.454` | `2.8.5.458` | Version |
-| Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.4.454` | `2.8.5.458` | Version |
-| Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.7.0` | `26.6.0` | Version |
+| Wrike.com | Wrike | Wrike (x64) | `4.6.2.3052` | `4.6.3.3073` | Version |
+| Zandar Labs SL | Aptakube | Aptakube | `1.23.0` | `1.23.1` | Version |
 
-## 🧩 Repackaged (1 package)
+## 🧩 Repackaged (2 packages)
 
 Same branch and version, new package, and the deployment template Intune creates from it changed.
 
 | Publisher | App | Branch | Version | Changed |
 |-----------|-----|--------|:-------:|---------|
 | Visual Paradigm International Ltd | Visual Paradigm Project Viewer | Visual Paradigm Project Viewer | `18.1.0.0` | Install command, Installer file, Installer size |
+| Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.7.0` | Uninstall command, Detection rules, MSI product code, Installer size |
 

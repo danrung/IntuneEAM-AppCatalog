@@ -24993,6 +24993,19 @@
       2
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "3.0.51",
+      "3.0.57",
+      1
+     ]
+    ]
    }
   ],
   "logitech-logi-tune": [
@@ -46491,6 +46504,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "26.6.0",
+      "26.7.0",
+      1
+     ]
+    ]
    }
   ],
   "wireguard-llc-wireguard": [
@@ -46748,6 +46774,19 @@
      [
       "4.6.1.3034",
       "4.6.2.3052",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "4.6.2.3052",
+      "4.6.3.3073",
       1
      ]
     ]
@@ -47623,6 +47662,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.23.0",
+      "1.23.1",
+      1
+     ]
+    ]
    }
   ],
   "zello-inc-zello": [
@@ -48238,7 +48290,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261126_211949_AppCatalog.json",
+ "history_through": "20261127_075459_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -48247,9 +48299,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "c1a6962ded4de33311037178a676d28b41a02459",
-   "hash": "434ac0dd916e19d7875abc339818092743882cc4",
-   "lastmod": "2026-11-26"
+   "exact": "88539cbc95a1ad7127a1539cf7d6280771567a29",
+   "hash": "15deb3d44620fa3000b163a4f32c7138b38e9c40",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -50372,9 +50424,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/liquidfiles-pty-ltd-liquidfiles-outlook-plugin.html": {
-   "exact": "9ccecc14d3b58cde80939a535b1dac125c669cb7",
-   "hash": "9ccecc14d3b58cde80939a535b1dac125c669cb7",
-   "lastmod": "2026-11-05"
+   "exact": "132641b60bb1199ef4ff73fb703c29410bf03618",
+   "hash": "132641b60bb1199ef4ff73fb703c29410bf03618",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/liquit-software-b-v-liquit-workspace-agent-3.html": {
    "exact": "9b1e60b016c1e867c6c753e1caf0075facc5d5c6",
@@ -51692,9 +51744,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "b2c82aeb1eb2f7e2db33306ea48a72b05143c47d",
-   "hash": "61e6ebc0d3c3113e7a22f31f41f920015dd8a394",
-   "lastmod": "2026-11-26"
+   "exact": "869e43088050ed5a51ce405061759e48553b7267",
+   "hash": "dbfdb6f0417fc8be6fb5d8d727d8dde979e3561e",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
    "exact": "1877f1376dcf453aeb9efb8775d4443c513b3183",
@@ -52722,9 +52774,9 @@
    "lastmod": "2026-11-20"
   },
   "https://eam.drung.dev/apps/wind-information-co-ltd-wind-financial-terminal.html": {
-   "exact": "fac983b77fc7fc31a48f4c27667e90ada90f8929",
-   "hash": "fac983b77fc7fc31a48f4c27667e90ada90f8929",
-   "lastmod": "2026-11-24"
+   "exact": "32f15dc1c0befecc15da8d9d7dccf4c4ee7bc282",
+   "hash": "32f15dc1c0befecc15da8d9d7dccf4c4ee7bc282",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/windirstat-team-windirstat.html": {
    "exact": "1dca1dfee01cf1f7dfca01eaf921ce6b04778bc3",
@@ -52752,9 +52804,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/wrike-com-wrike.html": {
-   "exact": "e806009cf1e6819375773bdfab4a10b42b6f42f8",
-   "hash": "e806009cf1e6819375773bdfab4a10b42b6f42f8",
-   "lastmod": "2026-11-05"
+   "exact": "49ccbc77377d612f8ca2753cdf3cf4e51044661e",
+   "hash": "49ccbc77377d612f8ca2753cdf3cf4e51044661e",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/xamarin-inc-xamarin-mono.html": {
    "exact": "cd9ec6eacc5cc24239f0d15f178edf01bac0b33c",
@@ -52832,9 +52884,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/zandar-labs-sl-aptakube.html": {
-   "exact": "c9ec7a55715249816d8d15f7226ec3700416ec25",
-   "hash": "c9ec7a55715249816d8d15f7226ec3700416ec25",
-   "lastmod": "2026-11-19"
+   "exact": "e97b58e935e9670594aad70e39563fb8ed6eb94d",
+   "hash": "e97b58e935e9670594aad70e39563fb8ed6eb94d",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/zello-inc-zello.html": {
    "exact": "a9a1b411fbaf397eb6c5151b0863e3a8741287c5",
