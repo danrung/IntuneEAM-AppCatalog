@@ -7612,6 +7612,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.99.57",
+      "1.100.59",
+      1
+     ]
+    ]
    }
   ],
   "brightsign-llc-brightauthor-connected": [
@@ -17974,6 +17987,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "11.35.0",
+      "11.36.0",
+      1
+     ]
+    ]
    }
   ],
   "general-workings-inc-general-workings-streamlabs-obs": [
@@ -20281,6 +20307,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.9.0",
+      "1.9.1",
+      1
+     ]
+    ]
    }
   ],
   "hp-prime-virtual-calculator": [
@@ -21198,6 +21237,19 @@
      [
       "2.11.24.0",
       "2.11.25.0",
+      1
+     ]
+    ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.11.25.0",
+      "2.11.26.0",
       1
      ]
     ]
@@ -31813,6 +31865,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2026.11.91422",
+      "2026.11.261430",
+      1
+     ]
+    ]
    }
   ],
   "mitel-networks-corporation-mitel-micollab": [
@@ -39217,6 +39282,16 @@
     "fields": [],
     "removed": 0,
     "versions": []
+   },
+   {
+    "added": 1,
+    "branches_added": [
+     "RStudio 2026.11"
+    ],
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": []
    }
   ],
   "rystad-energy-cube-browser": [
@@ -44210,6 +44285,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-27",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "1.14.17",
+      "1.14.18",
+      1
+     ]
+    ]
    }
   ],
   "ultimaker-cura": [
@@ -48290,7 +48378,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261127_075459_AppCatalog.json",
+ "history_through": "20261127_210124_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -48299,8 +48387,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "88539cbc95a1ad7127a1539cf7d6280771567a29",
-   "hash": "15deb3d44620fa3000b163a4f32c7138b38e9c40",
+   "exact": "d30da63872224c39ba7a527363f50ad580927f07",
+   "hash": "fa7f2db390ed0a388e90ba85fed48e0b92b88ad3",
    "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
@@ -48919,9 +49007,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/brave-software-inc-brave-browser.html": {
-   "exact": "b808e2a567b4d61358c55b552dc82979a328747e",
-   "hash": "b808e2a567b4d61358c55b552dc82979a328747e",
-   "lastmod": "2026-11-13"
+   "exact": "d56034719d69b99248836f7425e2432132da0a7e",
+   "hash": "d56034719d69b99248836f7425e2432132da0a7e",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/brightsign-llc-brightauthor-connected.html": {
    "exact": "1a08ddf1951686a36b0ea5cfed3e8642542bb62a",
@@ -49819,9 +49907,9 @@
    "lastmod": "2026-11-13"
   },
   "https://eam.drung.dev/apps/geek-software-gmbh-pdf24-creator.html": {
-   "exact": "4cc937ceb21ee256b84efe67f66bfdb1135e9509",
-   "hash": "4cc937ceb21ee256b84efe67f66bfdb1135e9509",
-   "lastmod": "2026-11-21"
+   "exact": "b2100b82170a1b7c915380430c513bc35ecf28ea",
+   "hash": "b2100b82170a1b7c915380430c513bc35ecf28ea",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/general-workings-inc-general-workings-streamlabs-obs.html": {
    "exact": "50587edec2134906c02ea67bc759638f8fc56ac2",
@@ -49999,9 +50087,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/hp-client-management-script-library.html": {
-   "exact": "09ddc0d637ff1afe67b895e4d30d6a4283e57452",
-   "hash": "09ddc0d637ff1afe67b895e4d30d6a4283e57452",
-   "lastmod": "2026-11-05"
+   "exact": "2fa108f042f3df38f891da99431bd3614a162a76",
+   "hash": "2fa108f042f3df38f891da99431bd3614a162a76",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/hp-poly-lens-desktop-app.html": {
    "exact": "14aacba3efedf83df585de76388f99ddce712b45",
@@ -50079,9 +50167,9 @@
    "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/inknoe-classpoint.html": {
-   "exact": "86e7a3bdf847d82e1a33d15dd881453f75765ca8",
-   "hash": "86e7a3bdf847d82e1a33d15dd881453f75765ca8",
-   "lastmod": "2026-11-24"
+   "exact": "ffb90cb052849ca9faa672a9e0d8b618b6e6e7ed",
+   "hash": "ffb90cb052849ca9faa672a9e0d8b618b6e6e7ed",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/inkscape.html": {
    "exact": "b4352e4da9a3bd3fe0ca8e73445d1f531f6697ea",
@@ -51099,9 +51187,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/mirantis-inc-lens-desktop.html": {
-   "exact": "10307befc1b67dd0e188d89193a15410fed8218f",
-   "hash": "10307befc1b67dd0e188d89193a15410fed8218f",
-   "lastmod": "2026-11-11"
+   "exact": "8f0fe0c9aca417a3241fc3c538bbbd73f8b06a85",
+   "hash": "8f0fe0c9aca417a3241fc3c538bbbd73f8b06a85",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/mitel-networks-corporation-mitel-micollab.html": {
    "exact": "163e8553e7f37ceb425808908dea6ad3705fab8c",
@@ -51744,8 +51832,8 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "869e43088050ed5a51ce405061759e48553b7267",
-   "hash": "dbfdb6f0417fc8be6fb5d8d727d8dde979e3561e",
+   "exact": "86c34b8dd5954bf594a127a474ea41eedb8fcae7",
+   "hash": "307a6d9608b806a0c83d2711bc77eae38a314d93",
    "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/qurentis-software-qurentis.html": {
@@ -51854,9 +51942,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/rstudio.html": {
-   "exact": "b9876eab58a262cf7b158104279de96c6d00497e",
-   "hash": "b9876eab58a262cf7b158104279de96c6d00497e",
-   "lastmod": "2026-11-05"
+   "exact": "84c00e7c1bb00037aeb41768afa0514b02393083",
+   "hash": "84c00e7c1bb00037aeb41768afa0514b02393083",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/rystad-energy-cube-browser.html": {
    "exact": "ad1a3eee69d70131b0e645e9a8344480fe762f17",
@@ -52569,9 +52657,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/typora-io-typora.html": {
-   "exact": "72ed7c13c01e2286feabb9b1bd586ee7bc211104",
-   "hash": "72ed7c13c01e2286feabb9b1bd586ee7bc211104",
-   "lastmod": "2026-11-23"
+   "exact": "7e84cba9f39658e8aad01e32fca9395a70d3f98b",
+   "hash": "7e84cba9f39658e8aad01e32fca9395a70d3f98b",
+   "lastmod": "2026-11-27"
   },
   "https://eam.drung.dev/apps/ultimaker-cura.html": {
    "exact": "cc8e3f0cf2f4421ec849d9d1d26a328a96e1020e",
