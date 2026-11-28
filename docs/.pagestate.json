@@ -43718,6 +43718,19 @@
       1
      ]
     ]
+   },
+   {
+    "added": 0,
+    "date": "2026-11-28",
+    "fields": [],
+    "removed": 0,
+    "versions": [
+     [
+      "2.16.60",
+      "2.16.60.2",
+      1
+     ]
+    ]
    }
   ],
   "thycotic-software-llc-thycotic-application-control-agent": [
@@ -48378,7 +48391,7 @@
   ]
  },
  "history_from": "2025-12-07",
- "history_through": "20261127_210124_AppCatalog.json",
+ "history_through": "20261128_072257_AppCatalog.json",
  "indexnow_key": "2927e83b4e9f48779d2f209e5f512dd7",
  "pages": {
   "https://eam.drung.dev/": {
@@ -48387,9 +48400,9 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/": {
-   "exact": "d30da63872224c39ba7a527363f50ad580927f07",
-   "hash": "fa7f2db390ed0a388e90ba85fed48e0b92b88ad3",
-   "lastmod": "2026-11-27"
+   "exact": "5b899bd1fa9a5f2f430d5dc40cb1fb3713dafa73",
+   "hash": "0c05d685118d8d0f622eed300b879fdd312b1fa4",
+   "lastmod": "2026-11-28"
   },
   "https://eam.drung.dev/apps/2brightsparks-ptd-ltd-cmake.html": {
    "exact": "03004d2093b8259fa1c46219dfb73f856dc8b20d",
@@ -51832,7 +51845,7 @@
    "lastmod": "2026-11-05"
   },
   "https://eam.drung.dev/apps/quirks.html": {
-   "exact": "86c34b8dd5954bf594a127a474ea41eedb8fcae7",
+   "exact": "e48fe78353eacb7abb489cad5471a93f334c156c",
    "hash": "307a6d9608b806a0c83d2711bc77eae38a314d93",
    "lastmod": "2026-11-27"
   },
@@ -52562,9 +52575,9 @@
    "lastmod": "2026-11-23"
   },
   "https://eam.drung.dev/apps/thingamahoochie-software-winmerge.html": {
-   "exact": "bb5a7b276f2d8425fe34db125fc201262de870aa",
-   "hash": "bb5a7b276f2d8425fe34db125fc201262de870aa",
-   "lastmod": "2026-11-05"
+   "exact": "0dfcf3662fa19961103d8a4ffc2f2083fe830c9a",
+   "hash": "0dfcf3662fa19961103d8a4ffc2f2083fe830c9a",
+   "lastmod": "2026-11-28"
   },
   "https://eam.drung.dev/apps/thycotic-software-llc-thycotic-application-control-agent.html": {
    "exact": "20cba07296d4302c81884a29f5a4c91dce619ce9",

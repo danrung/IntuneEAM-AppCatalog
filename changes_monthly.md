@@ -1,9 +1,9 @@
 # Catalog Changes — Monthly (≥30 days apart)
 
-> **Comparing:** `20261127_210124_AppCatalog.json` (exported 2026-11-27 21:01:24)  
-> **vs:** `20261028_181413_AppCatalog.json` (exported 2026-10-28 18:14:13)  
+> **Comparing:** `20261128_072257_AppCatalog.json` (exported 2026-11-28 07:22:57)  
+> **vs:** `20261029_052107_AppCatalog.json` (exported 2026-10-29 05:21:07)  
 > **Span:** 30 days between exports  
-> **Generated:** 2026-11-27 21:02 UTC
+> **Generated:** 2026-11-28 07:23 UTC
 
 ## Summary
 
@@ -11,7 +11,7 @@
 |--------|------:|
 | ✅ Added | 8 |
 | ❌ Removed | 0 |
-| 🔄 Updated | 402 |
+| 🔄 Updated | 396 |
 
 ## ✅ Added (8 packages)
 
@@ -26,19 +26,15 @@
 | Obsidian | Obsidian | Obsidian (x86) (Device) | `1.15.0` | x86,x64 |
 | RStudio | Rstudio | RStudio 2026.11 | `2026.11.0.0` | x64 |
 
-## 🔄 Updated (402 packages)
+## 🔄 Updated (396 packages)
 
 | Publisher | App | Branch | Previous Version | New Version | Changed |
 |-----------|-----|--------|:---------------:|:-----------:|---------|
 | 2BrightSparks Ptd Ltd | SyncBackFree | SyncBackFree | `12.0.17.0` | `12.1.34.0` | Version |
 | 2BrightSparks Ptd Ltd | SyncBackPro | SyncBackPro | `12.0.17.0` | `12.1.34.0` | Version |
 | 3Dflow srl | 3DF Zephyr Free | 3DF Zephyr Free version | `9.013` | `9.500` | Version |
-| 8x8 Inc. | 8x8 Work | 8x8 Work (x64) | `8.37.2.1` | `8.38.5.1` | Version |
+| 8x8 Inc. | 8x8 Work | 8x8 Work (x64) | `8.38.4.1` | `8.38.5.1` | Version |
 | A Must in Every Office BV | ASAP Utilities | ASAP Utilities | `9.3` | `9.4` | Version |
-| Abacus Research AG | AbaClient | AbaClient (English) | `4.3.1194` | `4.4.1221` | Version |
-| Abacus Research AG | AbaClient | AbaClient (French) | `4.3.1194` | `4.4.1221` | Version |
-| Abacus Research AG | AbaClient | AbaClient (German) | `4.3.1194` | `4.4.1221` | Version |
-| Abacus Research AG | AbaClient | AbaClient (Italian) | `4.3.1194` | `4.4.1221` | Version |
 | Aivar Annamaa | Thonny | Thonny (x64) | `5.0.0` | `5.0.1` | Version |
 | Akiflow | Akiflow | Akiflow | `2.83.8` | `2.86.9` | Version |
 | alfaview Gmbh | alfaview | alfaview | `9.30.2` | `9.30.5` | Version |
@@ -108,9 +104,9 @@
 | Docker Inc. | Docker Desktop | Docker Desktop (x64) | `4.97.0.244584` | `4.99.0.245822` | Version |
 | Don Ho | Notepad++ | Notepad++ (x64) (exe) | `8.9.8.1` | `8.9.9.1` | Version |
 | Don Ho | Notepad++ | Notepad++ (x64) (msi) | `8.9.8.1` | `8.9.9.1` | Version |
-| Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.10.1` | `26.11.0` | Version |
+| Draftable | Draftable Desktop | Draftable Desktop (Per Machine) | `26.10.2` | `26.11.0` | Version |
 | draw.io | draw.io Desktop | draw.io Desktop | `32.6.1` | `32.7.4` | Version |
-| dRofus | dRofus | dRofus | `2.18.19.0` | `2.19.14.0` | Version |
+| dRofus | dRofus | dRofus | `2.18.20.0` | `2.19.14.0` | Version |
 | Dropbox | Dropbox | Dropbox (x64) (EXE) | `277.4.4974` | `280.4.5053` | Version |
 | Dropbox | Dropbox | Dropbox (x64) (MSI) | `277.4.4974` | `280.4.5053` | Version |
 | Druva Technologies Pte. Ltd | Druva inSync | Druva inSync | `8.1.6` | `8.1.9` | Version |
@@ -145,8 +141,8 @@
 | GN Audio AS | Jabra Direct | Jabra Direct | `8.3.26701` | `8.5.32302` | Version |
 | Google | Google Ads Editor | Google Ads Editor (MSI) | `14.13.4.0` | `14.14.2.0` | Version |
 | Google | Google Chrome Remote Desktop Host | Chrome Remote Desktop Host | `154.0.8037.40` | `157.0.8103.41` | Version |
-| Google | Google Drive | Google Drive | `132.0.0.0` | `134.0.1.0` | Version |
-| Google | Google Drive File Stream | Google Drive File Stream | `132.0.0.0` | `134.0.1.0` | Version |
+| Google | Google Drive | Google Drive | `133.0.2.0` | `134.0.1.0` | Version |
+| Google | Google Drive File Stream | Google Drive File Stream | `133.0.2.0` | `134.0.1.0` | Version |
 | Google | IAP Desktop | IAP Desktop (x64) | `2.50.1825` | `2.51.1839` | Version |
 | Google LLC | Google Chrome | Google Chrome (x64) (msi) | `156.0.8078.48` | `158.0.8127.89` | Version |
 | GoTo Group, Inc | GoTo Connect | GoTo Connect Machine Installer (x64) | `4.20.3` | `4.21.0` | Version |
@@ -162,7 +158,7 @@
 | Inknoe | ClassPoint | ClassPoint (x64) | `2.11.14.0` | `2.11.26.0` | Version |
 | Intermedia.net, Inc. | Intermedia Unite | Intermedia Unite (x64) | `2.33.58.0` | `2.34.121.0` | Version |
 | International GeoGebra Institute | GeoGebra 5 | GeoGebra 5 | `5.4.933.1` | `5.4.937.0` | Version |
-| International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.933.1` | `6.0.937.0` | Version |
+| International GeoGebra Institute | GeoGebra 6 | GeoGebra 6 | `6.0.934.0` | `6.0.937.0` | Version |
 | InterPromo GMBH | 4K Video Downloader+ | 4K Video Downloader+ (x64) | `26.3.5` | `26.4.0` | Version |
 | Intevation GmbH | Gpg4win | Gpg4win | `5.1.1.54555` | `5.1.2.29656` | Version |
 | JetBrains | DataGrip | DataGrip 2025.2 (x64) | `2025.2.6` | `2025.2.6.2` | Version |
@@ -183,7 +179,6 @@
 | JetBrains | WebStorm | WebStorm 2025.3 (x64) | `2025.3.6.1` | `2025.3.6.3` | Version |
 | JetBrains | WebStorm | WebStorm 2026.1 (x64) | `2026.1.5` | `2026.1.5.2` | Version |
 | JetBrains | WebStorm | WebStorm 2026.2 (x64) | `2026.2.3` | `2026.2.5.1` | Version |
-| Joachim Eibl | KDiff3 | KDiff3 (x64) | `1.12.4` | `1.12.6` | Version |
 | John MacFarlane | Pandoc | Pandoc | `3.13` | `3.14` | Version |
 | Kai Kramer | KeyStore Explorer | KeyStore Explorer | `5.7.0` | `5.7.1` | Version |
 | Kandra Labs, Inc. | Zulip | Zulip (x64) | `5.13.2` | `5.14.3` | Version |
@@ -396,10 +391,9 @@
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Basic | PDFsam Basic | `6.0.6` | `6.0.11` | Version |
 | Sober Lemur S.a.s. di Vacondio Andrea | PDFsam Visual | PDFsam Visual (x64) | `7.1.0` | `7.2.1` | Version |
 | SoftFever | OrcaSlicer | OrcaSlicer (x64) | `2.4.2` | `2.5.2` | Version |
-| Softland | Softland doPDF | doPDF | `11.9.530` | `11.9.534` | Version |
+| Softland | Softland doPDF | doPDF | `11.9.532` | `11.9.534` | Version |
 | Squirrels | Squirrels Reflector 4 | Reflector 4 (x64) | `4.1.3` | `4.1.4` | Version |
 | SUSE | Rancher Desktop | Rancher Desktop | `1.24.0` | `1.25.0` | Version |
-| Synology | Synology Drive Client | Synology Drive Client (x64) | `4.2.1.20062` | `4.0.4.17894` | Version |
 | Tailscale Inc. | Tailscale | Tailscale (x64) | `1.104.4` | `1.104.7` | Version |
 | Tarma Software Research Ltd | Publish or Perish | Publish or Perish | `8.19.5300.9483` | `8.20.5889.9811` | Version |
 | TeamViewer GmbH | TeamViewer | TeamViewer (x64) (EXE) | `15.83.3.0` | `15.83.7.0` | Version |
@@ -408,6 +402,7 @@
 | TextExpander, Inc. | TextExpander | TextExpander (x64) | `8.4.8` | `8.6.0` | Version |
 | The Git Development Community | Git | Git (x64) | `2.56.0.4` | `2.56.1.1` | Version |
 | The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.3.1` | `3.3.2` | Version |
+| Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.60` | `2.16.60.2` | Version |
 | Tidio | Tidio | Tidio | `5.7.0` | `5.11.0` | Version |
 | TortoiseGit | TortoiseGit | TortoiseGit (x64) | `2.19.1.0` | `2.19.2.0` | Version |
 | typora.io | Typora | Typora (x64) | `1.14.10` | `1.14.18` | Version |
@@ -418,11 +413,10 @@
 | VeraCrypt | VeraCrypt | VeraCrypt (x64) | `1.26.29` | `1.26.31` | Version |
 | Vim Developers | Vim | Vim (Signed) (x64) | `9.2.1252` | `9.2.1409` | Version |
 | Vim Developers | Vim | Vim (Unsigned) (x64) | `9.2.1252` | `9.2.1409` | Version |
-| VSCodium | VSCodium | VSCodium with Updates Disabled (x64) | `1.143.17183` | `1.143.17232` | Version |
 | Waterfox | Waterfox | Waterfox (x64) | `6.7.7` | `6.7.9` | Version |
 | Wazuh Inc. | Wazuh Agent | Wazuh Agent | `4.14.9` | `4.14.11` | Version |
-| Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.7.3.381` | `2.8.5.458` | Version |
-| Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.7.3.381` | `2.8.5.458` | Version |
+| Wildix Inc. | Wildix Collaboration | Wildix Collaboration (EXE) | `2.8.1.411` | `2.8.5.458` | Version |
+| Wildix Inc. | Wildix Collaboration | Wildix Collaboration (MSI) | `2.8.1.411` | `2.8.5.458` | Version |
 | Wind Information Co., Ltd | Wind Financial Terminal | Wind Financial Terminal | `26.6.0` | `26.7.0` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.4 (x64) | `4.4.19` | `4.4.20` | Version |
 | Wireshark Foundation | Wireshark | Wireshark 4.6 (x64) | `4.6.9` | `4.6.10` | Version |

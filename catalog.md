@@ -1,7 +1,7 @@
 # App Catalog — Full Package List
 
-> **Source:** `20261127_210124_AppCatalog.json` (exported 2026-11-27 21:01:24)  
-> **Generated:** 2026-11-27 21:02 UTC  
+> **Source:** `20261128_072257_AppCatalog.json` (exported 2026-11-28 07:22:57)  
+> **Generated:** 2026-11-28 07:23 UTC  
 > **Total:** 1,602 packages · 934 unique products
 
 | # | Publisher | App Name | Branch | Version | Architecture | Auto-Update | Locales |
@@ -1490,7 +1490,7 @@
 | 1482 | The Git Development Community | Git | Git (x64) | `2.56.1.1` | x64 | ✅ | en-US |
 | 1483 | The Graphviz Authors | Graphviz | Graphviz (x64) | `13.1.0` | x64 | ❌ | en-US |
 | 1484 | The VirtualGL Project | TurboVNC | TurboVNC (x64) | `3.3.2` | x64 | ❌ | en-US |
-| 1485 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.60` | x64 | ❌ | en-US |
+| 1485 | Thingamahoochie Software | WinMerge | WinMerge (x64) | `2.16.60.2` | x64 | ❌ | en-US |
 | 1486 | Thycotic Software, LLC | Thycotic Application Control Agent | Thycotic Application Control Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
 | 1487 | Thycotic Software, LLC | Thycotic Directory Services Agent | Thycotic Directory Services Agent (x64) | `12.0.5041` | x64 | ❌ | en-US |
 | 1488 | Thycotic Software, LLC | Thycotic Local Security Agent | Thycotic Local Security Agent (x64) | `12.0.5290` | x64 | ❌ | en-US |
